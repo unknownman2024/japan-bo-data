@@ -22,7 +22,7 @@ logger = logging.getLogger(__name__)
 
 # Configuration
 BASE_URL = "https://japanapi.text2024mail.workers.dev/?date={}"
-START_DATE = datetime(2019, 1, 1)
+START_DATE = datetime(2026, 1, 1)
 DATA_DIR = Path("data")
 DATABASE_DIR = Path("database")
 DAYWISE_DIR = DATA_DIR / "daywise"
@@ -356,6 +356,6 @@ async def main(full_fetch=False):
 if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument("--full", action="store_true", help="Full fetch from 2019-01-01")
+    parser.add_argument("--full", action="store_true", help="Full fetch from 2026-01-01")
     args = parser.parse_args()
     asyncio.run(main(full_fetch=args.full))
