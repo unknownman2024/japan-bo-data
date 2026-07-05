@@ -1,0 +1,773 @@
+{
+  "date": "01-08-2023",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Kingdom: Fate's Flames",
+          "japanese name": "キングダム 運命の炎",
+          "sales": 34195,
+          "seats": 195867,
+          "showtimes": 714,
+          "theaters": 181,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mission: Impossible / Dead Reckoning PART ONE",
+          "japanese name": "ミッション：インポッシブル／デッドレコニング ＰＡＲＴ ＯＮＥ",
+          "sales": 23099,
+          "seats": 120273,
+          "showtimes": 580,
+          "theaters": 183,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "How Do You Live",
+          "japanese name": "君たちはどう生きるか",
+          "sales": 22482,
+          "seats": 115672,
+          "showtimes": 540,
+          "theaters": 183,
+          "rank": 3,
+          "last_week_ratio": 114.5
+        },
+        {
+          "moviename": "The Super Mario Bros. Movie",
+          "japanese name": "ザ・スーパーマリオブラザーズ・ムービー",
+          "sales": 7459,
+          "seats": 29170,
+          "showtimes": 221,
+          "theaters": 166,
+          "rank": 4,
+          "last_week_ratio": 143.3
+        },
+        {
+          "moviename": "剧场版 仮面ライダーギーツ／王様戦隊キングオージャー THE MOVIE",
+          "japanese name": "劇場版 仮面ライダーギーツ／王様戦隊キングオージャー ＴＨＥ ＭＯＶＩＥ",
+          "sales": 4849,
+          "seats": 66670,
+          "showtimes": 466,
+          "theaters": 172,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Indy Jones and the Fate Dial",
+          "japanese name": "インディ・ジョーンズと運命のダイヤル",
+          "sales": 3415,
+          "seats": 21961,
+          "showtimes": 185,
+          "theaters": 168,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tokyo Revengers 2 Blood's Halloween Edition - The Final决战-",
+          "japanese name": "東京リベンジャーズ２ 血のハロウィン編 －決戦－",
+          "sales": 3271,
+          "seats": 26150,
+          "showtimes": 224,
+          "theaters": 181,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Little Mermaid",
+          "japanese name": "リトル・マーメイド",
+          "sales": 3249,
+          "seats": 15115,
+          "showtimes": 123,
+          "theaters": 167,
+          "rank": 8,
+          "last_week_ratio": 124.1
+        },
+        {
+          "moviename": "Switch Diary",
+          "japanese name": "交換ウソ日記",
+          "sales": 2717,
+          "seats": 19793,
+          "showtimes": 160,
+          "theaters": 164,
+          "rank": 9,
+          "last_week_ratio": 113.2
+        },
+        {
+          "moviename": "Let's Go! Panman Robo and Pokapoka Gift",
+          "japanese name": "それいけ！アンパンマン ロボリィとぽかぽかプレゼント",
+          "sales": 1599,
+          "seats": 26054,
+          "showtimes": 179,
+          "theaters": 145,
+          "rank": 10,
+          "last_week_ratio": 116.4
+        },
+        {
+          "moviename": "Detective Conan: Black Iron Fish Shadow (Submarine)",
+          "japanese name": "名探偵コナン 黒鉄の魚影（サブマリン）",
+          "sales": 1329,
+          "seats": 8123,
+          "showtimes": 66,
+          "theaters": 162,
+          "rank": 11,
+          "last_week_ratio": 146.2
+        },
+        {
+          "moviename": "Five-leaf Clover Bride∽",
+          "japanese name": "五等分の花嫁∽",
+          "sales": 1327,
+          "seats": 14670,
+          "showtimes": 96,
+          "theaters": 70,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Summer Wars",
+          "japanese name": "サマーウォーズ",
+          "sales": 958,
+          "seats": 2387,
+          "showtimes": 16,
+          "theaters": 38,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Innocent",
+          "japanese name": "イノセンツ",
+          "sales": 771,
+          "seats": 4325,
+          "showtimes": 36,
+          "theaters": 27,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Monster",
+          "japanese name": "怪物",
+          "sales": 754,
+          "seats": 5227,
+          "showtimes": 50,
+          "theaters": 157,
+          "rank": 15,
+          "last_week_ratio": 118
+        },
+        {
+          "moviename": "RRR",
+          "japanese name": "ＲＲＲ",
+          "sales": 582,
+          "seats": 2746,
+          "showtimes": 24,
+          "theaters": 36,
+          "rank": 16,
+          "last_week_ratio": 954.1
+        },
+        {
+          "moviename": "Vatican Exorcist",
+          "japanese name": "ヴァチカンのエクソシスト",
+          "sales": 489,
+          "seats": 2282,
+          "showtimes": 19,
+          "theaters": 85,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "＜Monthly Kabuki 2023＞My Kabuki Theater",
+          "japanese name": "＜月イチ歌舞伎２０２３＞わが心の歌舞伎座",
+          "sales": 476,
+          "seats": 3539,
+          "showtimes": 24,
+          "theaters": 23,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Boys Over Flowers doesn't dream of going out with sisters",
+          "japanese name": "青春ブタ野郎はおでかけシスターの夢を見ない",
+          "sales": 372,
+          "seats": 4572,
+          "showtimes": 32,
+          "theaters": 69,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Osomatsu-san~ Soul Takoyaki Party and the Legendary Overnight Party~",
+          "japanese name": "おそ松さん～魂のたこ焼きパーティーと伝説のお泊り会～",
+          "sales": 330,
+          "seats": 7865,
+          "showtimes": 50,
+          "theaters": 42,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Concert for George",
+          "japanese name": "コンサート・フォー・ジョージ",
+          "sales": 317,
+          "seats": 783,
+          "showtimes": 5,
+          "theaters": 3,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版Idolish 7 LIVE 4bit BEYOND THE PERIOD",
+          "japanese name": "劇場版アイドリッシュセブン ＬＩＶＥ ４ｂｉｔ ＢＥＹＯＮＤ ＴＨＥ ＰＥＲｉＯＤ",
+          "sales": 260,
+          "seats": 2455,
+          "showtimes": 15,
+          "theaters": 99,
+          "rank": 22,
+          "last_week_ratio": 111.1
+        },
+        {
+          "moviename": "The Red Angel",
+          "japanese name": "赤い天使",
+          "sales": 247,
+          "seats": 1263,
+          "showtimes": 10,
+          "theaters": 19,
+          "rank": 23,
+          "last_week_ratio": 112.3
+        },
+        {
+          "moviename": "Movie Version Re:STARS ～Two Shining Stars Connecting to the Future～",
+          "japanese name": "劇場版 Ｒｅ：ＳＴＡＲＳ ～未来へ繋ぐ２つのきらぼし～",
+          "sales": 232,
+          "seats": 5091,
+          "showtimes": 38,
+          "theaters": 65,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Resident Evil: Death Island",
+          "japanese name": "バイオハザード：デスアイランド",
+          "sales": 222,
+          "seats": 2329,
+          "showtimes": 16,
+          "theaters": 33,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Kingdom: Fate's Flames",
+          "japanese name": "キングダム 運命の炎",
+          "sales": 61858,
+          "seats": 376625,
+          "showtimes": 1357,
+          "theaters": 181,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "How Do You Live",
+          "japanese name": "君たちはどう生きるか",
+          "sales": 42234,
+          "seats": 212551,
+          "showtimes": 990,
+          "theaters": 183,
+          "rank": 2,
+          "last_week_ratio": 114
+        },
+        {
+          "moviename": "Mission: Impossible / Dead Reckoning PART ONE",
+          "japanese name": "ミッション：インポッシブル／デッドレコニング ＰＡＲＴ ＯＮＥ",
+          "sales": 36915,
+          "seats": 205585,
+          "showtimes": 1016,
+          "theaters": 183,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Super Mario Bros. Movie",
+          "japanese name": "ザ・スーパーマリオブラザーズ・ムービー",
+          "sales": 10166,
+          "seats": 40022,
+          "showtimes": 312,
+          "theaters": 166,
+          "rank": 4,
+          "last_week_ratio": 133.2
+        },
+        {
+          "moviename": "剧场版 仮面ライダーギーツ／王様戦隊キングオージャー THE MOVIE",
+          "japanese name": "劇場版 仮面ライダーギーツ／王様戦隊キングオージャー ＴＨＥ ＭＯＶＩＥ",
+          "sales": 7042,
+          "seats": 108016,
+          "showtimes": 757,
+          "theaters": 172,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tokyo Revengers 2 Blood's Halloween Edition - The Final决战-",
+          "japanese name": "東京リベンジャーズ２ 血のハロウィン編 －決戦－",
+          "sales": 6374,
+          "seats": 51346,
+          "showtimes": 428,
+          "theaters": 181,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Little Mermaid",
+          "japanese name": "リトル・マーメイド",
+          "sales": 5938,
+          "seats": 27346,
+          "showtimes": 229,
+          "theaters": 167,
+          "rank": 7,
+          "last_week_ratio": 112.5
+        },
+        {
+          "moviename": "Indy Jones and the Fate Dial",
+          "japanese name": "インディ・ジョーンズと運命のダイヤル",
+          "sales": 5809,
+          "seats": 38671,
+          "showtimes": 314,
+          "theaters": 168,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Switch Diary",
+          "japanese name": "交換ウソ日記",
+          "sales": 4851,
+          "seats": 31680,
+          "showtimes": 256,
+          "theaters": 164,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Summer Wars",
+          "japanese name": "サマーウォーズ",
+          "sales": 3441,
+          "seats": 6560,
+          "showtimes": 44,
+          "theaters": 38,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Five-leaf Clover Bride∽",
+          "japanese name": "五等分の花嫁∽",
+          "sales": 2824,
+          "seats": 25576,
+          "showtimes": 177,
+          "theaters": 70,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: Black Iron Fish Shadow (Submarine)",
+          "japanese name": "名探偵コナン 黒鉄の魚影（サブマリン）",
+          "sales": 2507,
+          "seats": 17192,
+          "showtimes": 144,
+          "theaters": 162,
+          "rank": 12,
+          "last_week_ratio": 125.9
+        },
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 1696,
+          "seats": 8520,
+          "showtimes": 65,
+          "theaters": 155,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let's Go! Panman Robo and Pokapoka Gift",
+          "japanese name": "それいけ！アンパンマン ロボリィとぽかぽかプレゼント",
+          "sales": 1665,
+          "seats": 27403,
+          "showtimes": 187,
+          "theaters": 145,
+          "rank": 14,
+          "last_week_ratio": 115.2
+        },
+        {
+          "moviename": "剧场版Idolish 7 LIVE 4bit BEYOND THE PERIOD",
+          "japanese name": "劇場版アイドリッシュセブン ＬＩＶＥ ４ｂｉｔ ＢＥＹＯＮＤ ＴＨＥ ＰＥＲｉＯＤ",
+          "sales": 1499,
+          "seats": 11919,
+          "showtimes": 93,
+          "theaters": 99,
+          "rank": 15,
+          "last_week_ratio": 213.5
+        },
+        {
+          "moviename": "Monster",
+          "japanese name": "怪物",
+          "sales": 1465,
+          "seats": 11548,
+          "showtimes": 100,
+          "theaters": 157,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Vatican Exorcist",
+          "japanese name": "ヴァチカンのエクソシスト",
+          "sales": 1316,
+          "seats": 5870,
+          "showtimes": 53,
+          "theaters": 85,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Innocent",
+          "japanese name": "イノセンツ",
+          "sales": 1312,
+          "seats": 6820,
+          "showtimes": 56,
+          "theaters": 27,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Boys Over Flowers doesn't dream of going out with sisters",
+          "japanese name": "青春ブタ野郎はおでかけシスターの夢を見ない",
+          "sales": 1108,
+          "seats": 10785,
+          "showtimes": 75,
+          "theaters": 69,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "RRR",
+          "japanese name": "ＲＲＲ",
+          "sales": 1105,
+          "seats": 6426,
+          "showtimes": 49,
+          "theaters": 36,
+          "rank": 20,
+          "last_week_ratio": 863.3
+        },
+        {
+          "moviename": "Osomatsu-san~ Soul Takoyaki Party and the Legendary Overnight Party~",
+          "japanese name": "おそ松さん～魂のたこ焼きパーティーと伝説のお泊り会～",
+          "sales": 719,
+          "seats": 12883,
+          "showtimes": 89,
+          "theaters": 42,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Sailor Moon Cosmos\" Part 2",
+          "japanese name": "劇場版「美少女戦士セーラームーンＣｏｓｍｏｓ」後編",
+          "sales": 602,
+          "seats": 8503,
+          "showtimes": 64,
+          "theaters": 80,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "＜Monthly Kabuki 2023＞My Kabuki Theater",
+          "japanese name": "＜月イチ歌舞伎２０２３＞わが心の歌舞伎座",
+          "sales": 507,
+          "seats": 4319,
+          "showtimes": 26,
+          "theaters": 23,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Concert for George",
+          "japanese name": "コンサート・フォー・ジョージ",
+          "sales": 504,
+          "seats": 1355,
+          "showtimes": 8,
+          "theaters": 3,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version Re:STARS ～Two Shining Stars Connecting to the Future～",
+          "japanese name": "劇場版 Ｒｅ：ＳＴＡＲＳ ～未来へ繋ぐ２つのきらぼし～",
+          "sales": 475,
+          "seats": 10728,
+          "showtimes": 82,
+          "theaters": 65,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Kingdom Fate's Flame",
+          "japanese name": "キングダム 運命の炎",
+          "sales": 74806,
+          "seats": 470561,
+          "showtimes": 1694,
+          "theaters": 181,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "How Do You Live",
+          "japanese name": "君たちはどう生きるか",
+          "sales": 49161,
+          "seats": 258663,
+          "showtimes": 1196,
+          "theaters": 183,
+          "rank": 2,
+          "last_week_ratio": 111.7
+        },
+        {
+          "moviename": "Mission: Impossible / Dead Reckoning PART ONE",
+          "japanese name": "ミッション：インポッシブル／デッドレコニング ＰＡＲＴ ＯＮＥ",
+          "sales": 43990,
+          "seats": 261049,
+          "showtimes": 1278,
+          "theaters": 183,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Super Mario Bros. Movie",
+          "japanese name": "ザ・スーパーマリオブラザーズ・ムービー",
+          "sales": 10274,
+          "seats": 42095,
+          "showtimes": 324,
+          "theaters": 166,
+          "rank": 4,
+          "last_week_ratio": 132.6
+        },
+        {
+          "moviename": "Movie Version Kamen Rider Gait/Mighty Team King Oja THE MOVIE",
+          "japanese name": "劇場版 仮面ライダーギーツ／王様戦隊キングオージャー ＴＨＥ ＭＯＶＩＥ",
+          "sales": 7510,
+          "seats": 115841,
+          "showtimes": 810,
+          "theaters": 172,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tokyo Revengers 2: Blood Halloween Edition – The Final决战–",
+          "japanese name": "東京リベンジャーズ２ 血のハロウィン編 －決戦－",
+          "sales": 7384,
+          "seats": 70268,
+          "showtimes": 579,
+          "theaters": 181,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Indy Jones and the Fate Dial",
+          "japanese name": "インディ・ジョーンズと運命のダイヤル",
+          "sales": 6943,
+          "seats": 53187,
+          "showtimes": 439,
+          "theaters": 168,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Little Mermaid",
+          "japanese name": "リトル・マーメイド",
+          "sales": 6631,
+          "seats": 34368,
+          "showtimes": 289,
+          "theaters": 167,
+          "rank": 8,
+          "last_week_ratio": 111
+        },
+        {
+          "moviename": "Switch Lies Diary",
+          "japanese name": "交換ウソ日記",
+          "sales": 4978,
+          "seats": 34097,
+          "showtimes": 274,
+          "theaters": 164,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Summer Wars",
+          "japanese name": "サマーウォーズ",
+          "sales": 3909,
+          "seats": 7435,
+          "showtimes": 50,
+          "theaters": 38,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 3507,
+          "seats": 21378,
+          "showtimes": 155,
+          "theaters": 155,
+          "rank": 11,
+          "last_week_ratio": 126
+        },
+        {
+          "moviename": "Five Scattered Brides∽",
+          "japanese name": "五等分の花嫁∽",
+          "sales": 3264,
+          "seats": 30753,
+          "showtimes": 216,
+          "theaters": 70,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: Black Iron Fish Shadow (Submarine)",
+          "japanese name": "名探偵コナン 黒鉄の魚影（サブマリン）",
+          "sales": 2648,
+          "seats": 19900,
+          "showtimes": 164,
+          "theaters": 162,
+          "rank": 13,
+          "last_week_ratio": 125.9
+        },
+        {
+          "moviename": "VATICAN EXORCIST",
+          "japanese name": "ヴァチカンのエクソシスト",
+          "sales": 2308,
+          "seats": 12791,
+          "showtimes": 107,
+          "theaters": 85,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Monster",
+          "japanese name": "怪物",
+          "sales": 2091,
+          "seats": 18904,
+          "showtimes": 159,
+          "theaters": 157,
+          "rank": 15,
+          "last_week_ratio": 113.9
+        },
+        {
+          "moviename": "THEATRE版 IDOLISH SEVEN LIVE 4bit BEYOND THE PERIOD",
+          "japanese name": "劇場版アイドリッシュセブン ＬＩＶＥ ４ｂｉｔ ＢＥＹＯＮＤ ＴＨＥ ＰＥＲｉＯＤ",
+          "sales": 2005,
+          "seats": 14851,
+          "showtimes": 116,
+          "theaters": 99,
+          "rank": 16,
+          "last_week_ratio": 180.5
+        },
+        {
+          "moviename": "Innocence",
+          "japanese name": "イノセンツ",
+          "sales": 1706,
+          "seats": 9844,
+          "showtimes": 81,
+          "theaters": 27,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let's Go! Anpanman Robo and Pokapoka Gift",
+          "japanese name": "それいけ！アンパンマン ロボリィとぽかぽかプレゼント",
+          "sales": 1665,
+          "seats": 27403,
+          "showtimes": 187,
+          "theaters": 145,
+          "rank": 18,
+          "last_week_ratio": 115.2
+        },
+        {
+          "moviename": "The youth pig boy doesn't dream of going out with his sister",
+          "japanese name": "青春ブタ野郎はおでかけシスターの夢を見ない",
+          "sales": 1387,
+          "seats": 13107,
+          "showtimes": 94,
+          "theaters": 69,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "RRR",
+          "japanese name": "ＲＲＲ",
+          "sales": 1344,
+          "seats": 8177,
+          "showtimes": 63,
+          "theaters": 36,
+          "rank": 20,
+          "last_week_ratio": 1050
+        },
+        {
+          "moviename": "Osomatsu-san ~ Soul Takoyaki Party and the Legendary Overnight Party ~",
+          "japanese name": "おそ松さん～魂のたこ焼きパーティーと伝説のお泊り会～",
+          "sales": 815,
+          "seats": 15794,
+          "showtimes": 109,
+          "theaters": 42,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Sailor Moon Cosmos Part 2\"",
+          "japanese name": "劇場版「美少女戦士セーラームーンＣｏｓｍｏｓ」後編",
+          "sales": 722,
+          "seats": 10532,
+          "showtimes": 80,
+          "theaters": 80,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Unknown",
+          "japanese name": "不明",
+          "sales": 649,
+          "seats": 1374,
+          "showtimes": 7,
+          "theaters": 2,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Biohazard: Death Island",
+          "japanese name": "バイオハザード：デスアイランド",
+          "sales": 545,
+          "seats": 6226,
+          "showtimes": 47,
+          "theaters": 33,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Red Angel",
+          "japanese name": "赤い天使",
+          "sales": 544,
+          "seats": 3583,
+          "showtimes": 28,
+          "theaters": 19,
+          "rank": 25,
+          "last_week_ratio": 113.8
+        }
+      ]
+    }
+  ]
+}

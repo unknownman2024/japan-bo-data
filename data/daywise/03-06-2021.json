@@ -1,0 +1,773 @@
+{
+  "date": "03-06-2021",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Station of Life",
+          "japanese name": "いのちの停車場",
+          "sales": 10602,
+          "seats": 71852,
+          "showtimes": 639,
+          "theaters": 303,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rurouni Kenshin The Final",
+          "japanese name": "るろうに剣心 最終章 Ｔｈｅ Ｆｉｎａｌ",
+          "sales": 9122,
+          "seats": 71167,
+          "showtimes": 591,
+          "theaters": 306,
+          "rank": 2,
+          "last_week_ratio": 113
+        },
+        {
+          "moviename": "Detective Conan: Crimson Bullet",
+          "japanese name": "名探偵コナン 緋色の弾丸",
+          "sales": 5996,
+          "seats": 81365,
+          "showtimes": 685,
+          "theaters": 304,
+          "rank": 3,
+          "last_week_ratio": 111.9
+        },
+        {
+          "moviename": "Hell's Garden",
+          "japanese name": "地獄の花園",
+          "sales": 5453,
+          "seats": 93292,
+          "showtimes": 674,
+          "theaters": 294,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Cruella (Dubbed Version)",
+          "japanese name": "クルエラ （吹替版）",
+          "sales": 4896,
+          "seats": 65256,
+          "showtimes": 418,
+          "theaters": 179,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Jujutsu Kaisen: Death Game Russian Roulette",
+          "japanese name": "映画 賭ケグルイ 絶体絶命ロシアンルーレット",
+          "sales": 4792,
+          "seats": 95172,
+          "showtimes": 432,
+          "theaters": 194,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HOKUSAI",
+          "japanese name": "ＨＯＫＵＳＡＩ",
+          "sales": 4365,
+          "seats": 39986,
+          "showtimes": 346,
+          "theaters": 199,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Beautiful Temptation, Modern \"Painted Skin\"",
+          "japanese name": "美しき誘惑 現代の「画皮」",
+          "sales": 2904,
+          "seats": 27178,
+          "showtimes": 199,
+          "theaters": 158,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Aorale",
+          "japanese name": "アオラレ",
+          "sales": 2157,
+          "seats": 43392,
+          "showtimes": 323,
+          "theaters": 160,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shin Evangelion剧场版",
+          "japanese name": "シン・エヴァンゲリオン劇場版",
+          "sales": 1733,
+          "seats": 17581,
+          "showtimes": 169,
+          "theaters": 302,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 Fate/Grand Order 神圣圆桌领域卡美洛 后篇",
+          "japanese name": "劇場版 Ｆａｔｅ／Ｇｒａｎｄ Ｏｒｄｅｒ 神聖円卓領域キャメロット 後編",
+          "sales": 1223,
+          "seats": 20013,
+          "showtimes": 189,
+          "theaters": 159,
+          "rank": 11,
+          "last_week_ratio": 110
+        },
+        {
+          "moviename": "Hachi and Palm's Story (Subtitles Version)",
+          "japanese name": "ハチとパルマの物語 （字幕版）",
+          "sales": 1208,
+          "seats": 10259,
+          "showtimes": 94,
+          "theaters": 62,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Table of Tomorrow",
+          "japanese name": "明日の食卓",
+          "sales": 1023,
+          "seats": 6071,
+          "showtimes": 89,
+          "theaters": 51,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Demon Slayer: Infinity Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 988,
+          "seats": 9994,
+          "showtimes": 99,
+          "theaters": 282,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "(Advance Screening) Omelette a la King! How to Live in the Era of a Hundred Years",
+          "japanese name": "（先行上映）お終活 熟春！人生、百年時代の過ごし方",
+          "sales": 859,
+          "seats": 8986,
+          "showtimes": 132,
+          "theaters": 101,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Father",
+          "japanese name": "ファーザー",
+          "sales": 858,
+          "seats": 6778,
+          "showtimes": 67,
+          "theaters": 58,
+          "rank": 16,
+          "last_week_ratio": 113.6
+        },
+        {
+          "moviename": "Movie Jujutsu Kaisen",
+          "japanese name": "映画 賭ケグルイ",
+          "sales": 828,
+          "seats": 2538,
+          "showtimes": 8,
+          "theaters": 4,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "American Utopia",
+          "japanese name": "アメリカン・ユートピア",
+          "sales": 792,
+          "seats": 3763,
+          "showtimes": 30,
+          "theaters": 19,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rosemaker Miracle Rose",
+          "japanese name": "ローズメイカー 奇跡のバラ",
+          "sales": 751,
+          "seats": 6459,
+          "showtimes": 50,
+          "theaters": 22,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gentlemen",
+          "japanese name": "ジェントルメン",
+          "sales": 730,
+          "seats": 5875,
+          "showtimes": 71,
+          "theaters": 136,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Girls & Panzer: The Final Chapter Episode 3",
+          "japanese name": "ガールズ＆パンツァー 最終章 第３話",
+          "sales": 520,
+          "seats": 7559,
+          "showtimes": 41,
+          "theaters": 55,
+          "rank": 21,
+          "last_week_ratio": 236.4
+        },
+        {
+          "moviename": "Nameless Day",
+          "japanese name": "名も無い日",
+          "sales": 453,
+          "seats": 2271,
+          "showtimes": 33,
+          "theaters": 21,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Signal the Movie Long Unsolved Case Investigation Team",
+          "japanese name": "劇場版シグナル 長期未解決事件捜査班",
+          "sales": 423,
+          "seats": 4239,
+          "showtimes": 63,
+          "theaters": 159,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Project V",
+          "japanese name": "プロジェクトＶ",
+          "sales": 235,
+          "seats": 4079,
+          "showtimes": 50,
+          "theaters": 74,
+          "rank": 24,
+          "last_week_ratio": 106.3
+        },
+        {
+          "moviename": "Movie Fate",
+          "japanese name": "劇場版 Ｆａｔｅ",
+          "sales": 226,
+          "seats": 390,
+          "showtimes": 2,
+          "theaters": 2,
+          "rank": 25,
+          "last_week_ratio": 111.3
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Rurouni Kenshin The Final",
+          "japanese name": "るろうに剣心 最終章 Ｔｈｅ Ｆｉｎａｌ",
+          "sales": 18756,
+          "seats": 140006,
+          "showtimes": 1151,
+          "theaters": 306,
+          "rank": 1,
+          "last_week_ratio": 138.2
+        },
+        {
+          "moviename": "Station of Life",
+          "japanese name": "いのちの停車場",
+          "sales": 14922,
+          "seats": 121386,
+          "showtimes": 1081,
+          "theaters": 303,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: Crimson Bullet",
+          "japanese name": "名探偵コナン 緋色の弾丸",
+          "sales": 11665,
+          "seats": 149250,
+          "showtimes": 1243,
+          "theaters": 304,
+          "rank": 3,
+          "last_week_ratio": 117.9
+        },
+        {
+          "moviename": "Hell's Garden",
+          "japanese name": "地獄の花園",
+          "sales": 10560,
+          "seats": 168707,
+          "showtimes": 1232,
+          "theaters": 294,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Jujutsu Kaisen: Death Game Russian Roulette",
+          "japanese name": "映画 賭ケグルイ 絶体絶命ロシアンルーレット",
+          "sales": 9892,
+          "seats": 182022,
+          "showtimes": 838,
+          "theaters": 194,
+          "rank": 5,
+          "last_week_ratio": 229.7
+        },
+        {
+          "moviename": "Cruella (Dubbed Version)",
+          "japanese name": "クルエラ （吹替版）",
+          "sales": 9535,
+          "seats": 125749,
+          "showtimes": 808,
+          "theaters": 179,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HOKUSAI",
+          "japanese name": "ＨＯＫＵＳＡＩ",
+          "sales": 7057,
+          "seats": 72876,
+          "showtimes": 623,
+          "theaters": 199,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shin Evangelion剧场版",
+          "japanese name": "シン・エヴァンゲリオン劇場版",
+          "sales": 4707,
+          "seats": 45556,
+          "showtimes": 442,
+          "theaters": 302,
+          "rank": 8,
+          "last_week_ratio": 120
+        },
+        {
+          "moviename": "Beautiful Temptation, Modern \"Painted Skin\"",
+          "japanese name": "美しき誘惑 現代の「画皮」",
+          "sales": 4382,
+          "seats": 44544,
+          "showtimes": 328,
+          "theaters": 158,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Aorale",
+          "japanese name": "アオラレ",
+          "sales": 3580,
+          "seats": 81959,
+          "showtimes": 616,
+          "theaters": 160,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 Fate/Grand Order 神圣圆桌领域卡美洛 后篇",
+          "japanese name": "劇場版 Ｆａｔｅ／Ｇｒａｎｄ Ｏｒｄｅｒ 神聖円卓領域キャメロット 後編",
+          "sales": 3025,
+          "seats": 40776,
+          "showtimes": 396,
+          "theaters": 159,
+          "rank": 11,
+          "last_week_ratio": 145.8
+        },
+        {
+          "moviename": "Hachi and Palm's Story (Subtitles Version)",
+          "japanese name": "ハチとパルマの物語 （字幕版）",
+          "sales": 2343,
+          "seats": 18772,
+          "showtimes": 172,
+          "theaters": 62,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Demon Slayer: Infinity Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 2279,
+          "seats": 28779,
+          "showtimes": 294,
+          "theaters": 282,
+          "rank": 13,
+          "last_week_ratio": 116.2
+        },
+        {
+          "moviename": "Movie Jujutsu Kaisen",
+          "japanese name": "映画 賭ケグルイ",
+          "sales": 2023,
+          "seats": 5565,
+          "showtimes": 17,
+          "theaters": 4,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Table of Tomorrow",
+          "japanese name": "明日の食卓",
+          "sales": 1728,
+          "seats": 11323,
+          "showtimes": 161,
+          "theaters": 51,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gentlemen",
+          "japanese name": "ジェントルメン",
+          "sales": 1531,
+          "seats": 14438,
+          "showtimes": 158,
+          "theaters": 136,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Father",
+          "japanese name": "ファーザー",
+          "sales": 1333,
+          "seats": 11584,
+          "showtimes": 114,
+          "theaters": 58,
+          "rank": 17,
+          "last_week_ratio": 111.9
+        },
+        {
+          "moviename": "(Advance Screening) Omelette a la King! How to Live in the Era of a Hundred Years",
+          "japanese name": "（先行上映）お終活 熟春！人生、百年時代の過ごし方",
+          "sales": 1275,
+          "seats": 13231,
+          "showtimes": 194,
+          "theaters": 101,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "American Utopia",
+          "japanese name": "アメリカン・ユートピア",
+          "sales": 1171,
+          "seats": 6624,
+          "showtimes": 58,
+          "theaters": 19,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rosemaker Miracle Rose",
+          "japanese name": "ローズメイカー 奇跡のバラ",
+          "sales": 1095,
+          "seats": 11562,
+          "showtimes": 89,
+          "theaters": 22,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Signal the Movie Long Unsolved Case Investigation Team",
+          "japanese name": "劇場版シグナル 長期未解決事件捜査班",
+          "sales": 1089,
+          "seats": 10486,
+          "showtimes": 137,
+          "theaters": 159,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nameless Day",
+          "japanese name": "名も無い日",
+          "sales": 1001,
+          "seats": 4821,
+          "showtimes": 65,
+          "theaters": 21,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Girls & Panzer: The Final Chapter Episode 3",
+          "japanese name": "ガールズ＆パンツァー 最終章 第３話",
+          "sales": 681,
+          "seats": 14890,
+          "showtimes": 86,
+          "theaters": 55,
+          "rank": 23,
+          "last_week_ratio": 111.8
+        },
+        {
+          "moviename": "Cinderella",
+          "japanese name": "くれなずめ",
+          "sales": 498,
+          "seats": 5503,
+          "showtimes": 56,
+          "theaters": 53,
+          "rank": 24,
+          "last_week_ratio": 143.1
+        },
+        {
+          "moviename": "Movie Version BANG Dream! Episode of Roselia I: Promise",
+          "japanese name": "劇場版 ＢａｎＧ Ｄｒｅａｍ！ Ｅｐｉｓｏｄｅ ｏｆ Ｒｏｓｅｌｉａ Ｉ：約束",
+          "sales": 456,
+          "seats": 11252,
+          "showtimes": 111,
+          "theaters": 110,
+          "rank": 25,
+          "last_week_ratio": 367.7
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Rurouni Kenshin The Final",
+          "japanese name": "るろうに剣心 最終章 Ｔｈｅ Ｆｉｎａｌ",
+          "sales": 19513,
+          "seats": 154293,
+          "showtimes": 1251,
+          "theaters": 306,
+          "rank": 1,
+          "last_week_ratio": 137.5
+        },
+        {
+          "moviename": "The station of life",
+          "japanese name": "いのちの停車場",
+          "sales": 15032,
+          "seats": 129643,
+          "showtimes": 1142,
+          "theaters": 303,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: Crimson Bullet",
+          "japanese name": "名探偵コナン 緋色の弾丸",
+          "sales": 11852,
+          "seats": 160648,
+          "showtimes": 1335,
+          "theaters": 304,
+          "rank": 3,
+          "last_week_ratio": 115.9
+        },
+        {
+          "moviename": "Hell's garden",
+          "japanese name": "地獄の花園",
+          "sales": 10874,
+          "seats": 183128,
+          "showtimes": 1324,
+          "theaters": 294,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Bet the Farm Russian Roulette",
+          "japanese name": "映画 賭ケグルイ 絶体絶命ロシアンルーレット",
+          "sales": 10177,
+          "seats": 198840,
+          "showtimes": 897,
+          "theaters": 194,
+          "rank": 5,
+          "last_week_ratio": 236.3
+        },
+        {
+          "moviename": "Cruella (Dubbed Version)",
+          "japanese name": "クルエラ （吹替版）",
+          "sales": 9815,
+          "seats": 137913,
+          "showtimes": 877,
+          "theaters": 179,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HOKUSAII",
+          "japanese name": "ＨＯＫＵＳＡＩ",
+          "sales": 7204,
+          "seats": 80819,
+          "showtimes": 683,
+          "theaters": 199,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shin Evangelion剧场版",
+          "japanese name": "シン・エヴァンゲリオン劇場版",
+          "sales": 4903,
+          "seats": 51257,
+          "showtimes": 495,
+          "theaters": 302,
+          "rank": 8,
+          "last_week_ratio": 118.8
+        },
+        {
+          "moviename": "Beautiful temptation The modern \"Painted Skin\"",
+          "japanese name": "美しき誘惑 現代の「画皮」",
+          "sales": 4477,
+          "seats": 45982,
+          "showtimes": 335,
+          "theaters": 158,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Aorale",
+          "japanese name": "アオラレ",
+          "sales": 3663,
+          "seats": 90464,
+          "showtimes": 668,
+          "theaters": 160,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 Fate/Grand Order Holy Grail Domain Camelot Part 2",
+          "japanese name": "劇場版 Ｆａｔｅ／Ｇｒａｎｄ Ｏｒｄｅｒ 神聖円卓領域キャメロット 後編",
+          "sales": 3212,
+          "seats": 44196,
+          "showtimes": 424,
+          "theaters": 159,
+          "rank": 11,
+          "last_week_ratio": 148.2
+        },
+        {
+          "moviename": "Hachi and Palm's Story (Subtitle Version)",
+          "japanese name": "ハチとパルマの物語 （字幕版）",
+          "sales": 2472,
+          "seats": 20639,
+          "showtimes": 188,
+          "theaters": 62,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 2319,
+          "seats": 30869,
+          "showtimes": 311,
+          "theaters": 282,
+          "rank": 13,
+          "last_week_ratio": 115
+        },
+        {
+          "moviename": "Movie Jujutsu Kaisen",
+          "japanese name": "映画 賭ケグルイ",
+          "sales": 2023,
+          "seats": 5565,
+          "showtimes": 17,
+          "theaters": 4,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Table of Tomorrow",
+          "japanese name": "明日の食卓",
+          "sales": 1737,
+          "seats": 11919,
+          "showtimes": 171,
+          "theaters": 51,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gentlemen",
+          "japanese name": "ジェントルメン",
+          "sales": 1578,
+          "seats": 16869,
+          "showtimes": 173,
+          "theaters": 136,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Father",
+          "japanese name": "ファーザー",
+          "sales": 1386,
+          "seats": 12476,
+          "showtimes": 123,
+          "theaters": 58,
+          "rank": 17,
+          "last_week_ratio": 112.2
+        },
+        {
+          "moviename": "(Advance screening) O-funakatsu! How to live in the century of a hundred years",
+          "japanese name": "（先行上映）お終活 熟春！人生、百年時代の過ごし方",
+          "sales": 1283,
+          "seats": 13769,
+          "showtimes": 197,
+          "theaters": 101,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "American Utopia",
+          "japanese name": "アメリカン・ユートピア",
+          "sales": 1173,
+          "seats": 6687,
+          "showtimes": 59,
+          "theaters": 19,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rose Maker Miracle Rose",
+          "japanese name": "ローズメイカー 奇跡のバラ",
+          "sales": 1115,
+          "seats": 12087,
+          "showtimes": 93,
+          "theaters": 22,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Signal the Movie: Long Unsolved Case Investigation Team",
+          "japanese name": "劇場版シグナル 長期未解決事件捜査班",
+          "sales": 1111,
+          "seats": 11255,
+          "showtimes": 148,
+          "theaters": 159,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nameless Day",
+          "japanese name": "名も無い日",
+          "sales": 1002,
+          "seats": 5076,
+          "showtimes": 67,
+          "theaters": 21,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Girls & Panzer: The Final Chapter Episode 3",
+          "japanese name": "ガールズ＆パンツァー 最終章 第３話",
+          "sales": 747,
+          "seats": 16315,
+          "showtimes": 94,
+          "theaters": 55,
+          "rank": 23,
+          "last_week_ratio": 109.9
+        },
+        {
+          "moviename": "Cinderella",
+          "japanese name": "くれなずめ",
+          "sales": 509,
+          "seats": 6171,
+          "showtimes": 63,
+          "theaters": 53,
+          "rank": 24,
+          "last_week_ratio": 140.2
+        },
+        {
+          "moviename": "Movie Version BAN G DREAM! Episode of Roselia I: Promise",
+          "japanese name": "劇場版 ＢａｎＧ Ｄｒｅａｍ！ Ｅｐｉｓｏｄｅ ｏｆ Ｒｏｓｅｌｉａ Ｉ：約束",
+          "sales": 490,
+          "seats": 12752,
+          "showtimes": 120,
+          "theaters": 110,
+          "rank": 25,
+          "last_week_ratio": 365.7
+        }
+      ]
+    }
+  ]
+}

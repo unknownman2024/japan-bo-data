@@ -1,0 +1,773 @@
+{
+  "date": "02-07-2025",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 55610,
+          "seats": 153822,
+          "showtimes": 530,
+          "theaters": 267,
+          "rank": 1,
+          "last_week_ratio": 104.5
+        },
+        {
+          "moviename": "F1/Fワン",
+          "japanese name": "Ｆ１／エフワン",
+          "sales": 14329,
+          "seats": 167005,
+          "showtimes": 635,
+          "theaters": 270,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Frontline",
+          "japanese name": "フロントライン",
+          "sales": 10200,
+          "seats": 55629,
+          "showtimes": 374,
+          "theaters": 269,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fake ～The Man Called a Killer Teacher",
+          "japanese name": "でっちあげ ～殺人教師と呼ばれた男",
+          "sales": 8563,
+          "seats": 73346,
+          "showtimes": 480,
+          "theaters": 263,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mission: Impossible / Final Recogning",
+          "japanese name": "ミッション：インポッシブル／ファイナル・レコニング",
+          "sales": 5392,
+          "seats": 35479,
+          "showtimes": 215,
+          "theaters": 255,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Lilo & Stitch",
+          "japanese name": "リロ＆スティッチ",
+          "sales": 5024,
+          "seats": 60565,
+          "showtimes": 366,
+          "theaters": 269,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dollhouse",
+          "japanese name": "ドールハウス",
+          "sales": 3814,
+          "seats": 36217,
+          "showtimes": 274,
+          "theaters": 259,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let's Go! Panman: Chappo's Hero!",
+          "japanese name": "それいけ！アンパンマン チャポンのヒーロー！",
+          "sales": 3612,
+          "seats": 109792,
+          "showtimes": 729,
+          "theaters": 251,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "LUPIN THE IIIrd THE MOVIE: Immortal Bloodline",
+          "japanese name": "ＬＵＰＩＮ ＴＨＥ ＩＩＩＲＤ ＴＨＥ ＭＯＶＩＥ 不死身の血族",
+          "sales": 3589,
+          "seats": 36484,
+          "showtimes": 233,
+          "theaters": 131,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kaori-san's Maid Dragon: The Lonely Dragon",
+          "japanese name": "小林さんちのメイドラゴン さみしがりやの竜",
+          "sales": 3196,
+          "seats": 46821,
+          "showtimes": 311,
+          "theaters": 158,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: Flashback of One-Eyed Man",
+          "japanese name": "名探偵コナン 隻眼の残像（フラッシュバック）",
+          "sales": 1660,
+          "seats": 16202,
+          "showtimes": 117,
+          "theaters": 251,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "You're Special",
+          "japanese name": "君がトクベツ",
+          "sales": 1465,
+          "seats": 20286,
+          "showtimes": 162,
+          "theaters": 180,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Demon Slayer: Pillar Training - Pillar Gathering Edition",
+          "japanese name": "鬼滅の刃 柱稽古 柱結集編",
+          "sales": 911,
+          "seats": 2733,
+          "showtimes": 22,
+          "theaters": 31,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "28 years later...",
+          "japanese name": "２８年後・・・",
+          "sales": 901,
+          "seats": 12868,
+          "showtimes": 103,
+          "theaters": 165,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "KING OF PRISM: Your Endless Call Route 1 Our Youth",
+          "japanese name": "ＫＩＮＧ ＯＦ ＰＲＩＳＭ Ｙｏｕｒ Ｅｎｄｌｅｓｓ Ｃａｌｌ ルート１ われらが青春",
+          "sales": 839,
+          "seats": 19873,
+          "showtimes": 103,
+          "theaters": 55,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Compilation Special: Jujutsu Kaisen The Pearl and The Broken",
+          "japanese name": "劇場版総集編 呪術廻戦 懐玉・玉折",
+          "sales": 736,
+          "seats": 7484,
+          "showtimes": 60,
+          "theaters": 146,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Renoir",
+          "japanese name": "ルノワール",
+          "sales": 572,
+          "seats": 8053,
+          "showtimes": 70,
+          "theaters": 99,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kakukakushikajika",
+          "japanese name": "かくかくしかじか",
+          "sales": 501,
+          "seats": 3776,
+          "showtimes": 33,
+          "theaters": 43,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love in the Big City",
+          "japanese name": "ラブ・イン・ザ・ビッグシティ",
+          "sales": 474,
+          "seats": 5842,
+          "showtimes": 50,
+          "theaters": 155,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version: Utawarerumono♪ TABOO NIGHT XXX",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ ＴＡＢＯＯ ＮＩＧＨＴ ＸＸＸＸ",
+          "sales": 433,
+          "seats": 5441,
+          "showtimes": 28,
+          "theaters": 101,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Megapolis",
+          "japanese name": "メガロポリス",
+          "sales": 394,
+          "seats": 4835,
+          "showtimes": 34,
+          "theaters": 60,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Geki×Cine \"Basarao\"",
+          "japanese name": "ゲキ×シネ「バサラオ」",
+          "sales": 386,
+          "seats": 4985,
+          "showtimes": 38,
+          "theaters": 61,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Asphalt",
+          "japanese name": "アスファルト",
+          "sales": 346,
+          "seats": 6570,
+          "showtimes": 51,
+          "theaters": 32,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MET R Strauss \"Knight of the Rose\"",
+          "japanese name": "ＭＥＴ Ｒシュトラウス「ばらの騎士」",
+          "sales": 327,
+          "seats": 1659,
+          "showtimes": 14,
+          "theaters": 15,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Escape",
+          "japanese name": "脱走",
+          "sales": 299,
+          "seats": 2647,
+          "showtimes": 20,
+          "theaters": 32,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 73859,
+          "seats": 231628,
+          "showtimes": 825,
+          "theaters": 267,
+          "rank": 1,
+          "last_week_ratio": 102.8
+        },
+        {
+          "moviename": "F1/Fワン",
+          "japanese name": "Ｆ１／エフワン",
+          "sales": 24052,
+          "seats": 297395,
+          "showtimes": 1138,
+          "theaters": 270,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Frontline",
+          "japanese name": "フロントライン",
+          "sales": 15042,
+          "seats": 92492,
+          "showtimes": 612,
+          "theaters": 269,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fake ～The Man Called a Killer Teacher",
+          "japanese name": "でっちあげ ～殺人教師と呼ばれた男",
+          "sales": 13897,
+          "seats": 143036,
+          "showtimes": 932,
+          "theaters": 263,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Lilo & Stitch",
+          "japanese name": "リロ＆スティッチ",
+          "sales": 12481,
+          "seats": 106788,
+          "showtimes": 640,
+          "theaters": 269,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dollhouse",
+          "japanese name": "ドールハウス",
+          "sales": 10821,
+          "seats": 74371,
+          "showtimes": 546,
+          "theaters": 259,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mission: Impossible / Final Recogning",
+          "japanese name": "ミッション：インポッシブル／ファイナル・レコニング",
+          "sales": 8663,
+          "seats": 59858,
+          "showtimes": 366,
+          "theaters": 255,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kaori-san's Maid Dragon: The Lonely Dragon",
+          "japanese name": "小林さんちのメイドラゴン さみしがりやの竜",
+          "sales": 6471,
+          "seats": 86768,
+          "showtimes": 579,
+          "theaters": 158,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "LUPIN THE IIIrd THE MOVIE: Immortal Bloodline",
+          "japanese name": "ＬＵＰＩＮ ＴＨＥ ＩＩＩＲＤ ＴＨＥ ＭＯＶＩＥ 不死身の血族",
+          "sales": 6300,
+          "seats": 68452,
+          "showtimes": 442,
+          "theaters": 131,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let's Go! Panman: Chappo's Hero!",
+          "japanese name": "それいけ！アンパンマン チャポンのヒーロー！",
+          "sales": 4776,
+          "seats": 146431,
+          "showtimes": 974,
+          "theaters": 251,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: Flashback of One-Eyed Man",
+          "japanese name": "名探偵コナン 隻眼の残像（フラッシュバック）",
+          "sales": 3655,
+          "seats": 37454,
+          "showtimes": 261,
+          "theaters": 251,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "You're Special",
+          "japanese name": "君がトクベツ",
+          "sales": 3565,
+          "seats": 42159,
+          "showtimes": 339,
+          "theaters": 180,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "KING OF PRISM: Your Endless Call Route 1 Our Youth",
+          "japanese name": "ＫＩＮＧ ＯＦ ＰＲＩＳＭ Ｙｏｕｒ Ｅｎｄｌｅｓｓ Ｃａｌｌ ルート１ われらが青春",
+          "sales": 2495,
+          "seats": 38136,
+          "showtimes": 194,
+          "theaters": 55,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Compilation Special: Jujutsu Kaisen The Pearl and The Broken",
+          "japanese name": "劇場版総集編 呪術廻戦 懐玉・玉折",
+          "sales": 2356,
+          "seats": 21926,
+          "showtimes": 165,
+          "theaters": 146,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "28 years later...",
+          "japanese name": "２８年後・・・",
+          "sales": 1799,
+          "seats": 25886,
+          "showtimes": 201,
+          "theaters": 165,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version: Utawarerumono♪ TABOO NIGHT XXX",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ ＴＡＢＯＯ ＮＩＧＨＴ ＸＸＸＸ",
+          "sales": 1561,
+          "seats": 14643,
+          "showtimes": 71,
+          "theaters": 101,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Demon Slayer: Pillar Training - Pillar Gathering Edition",
+          "japanese name": "鬼滅の刃 柱稽古 柱結集編",
+          "sales": 1558,
+          "seats": 5608,
+          "showtimes": 41,
+          "theaters": 31,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love in the Big City",
+          "japanese name": "ラブ・イン・ザ・ビッグシティ",
+          "sales": 1290,
+          "seats": 13452,
+          "showtimes": 107,
+          "theaters": 155,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Renoir",
+          "japanese name": "ルノワール",
+          "sales": 914,
+          "seats": 13582,
+          "showtimes": 114,
+          "theaters": 99,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Suit Gundam GWQWWWWX -Beginning-",
+          "japanese name": "機動戦士Ｇｕｎｄａｍ ＧＱｕｕｕｕｕｕＸ －Ｂｅｇｉｎｎｉｎｇ－",
+          "sales": 826,
+          "seats": 26572,
+          "showtimes": 158,
+          "theaters": 227,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mikemo-chan",
+          "japanese name": "見える子ちゃん",
+          "sales": 791,
+          "seats": 15725,
+          "showtimes": 120,
+          "theaters": 153,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kakukakushikajika",
+          "japanese name": "かくかくしかじか",
+          "sales": 712,
+          "seats": 5183,
+          "showtimes": 42,
+          "theaters": 43,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Megapolis",
+          "japanese name": "メガロポリス",
+          "sales": 654,
+          "seats": 8411,
+          "showtimes": 56,
+          "theaters": 60,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ka “” Ku “” Shi “” Go “” To “",
+          "japanese name": "か「」く「」し「」ご「」と「",
+          "sales": 632,
+          "seats": 14488,
+          "showtimes": 110,
+          "theaters": 164,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Criminals",
+          "japanese name": "罪人たち",
+          "sales": 599,
+          "seats": 2379,
+          "showtimes": 15,
+          "theaters": 16,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 83954,
+          "seats": 288356,
+          "showtimes": 1041,
+          "theaters": 267,
+          "rank": 1,
+          "last_week_ratio": 102.6
+        },
+        {
+          "moviename": "F1/F Wan",
+          "japanese name": "Ｆ１／エフワン",
+          "sales": 30261,
+          "seats": 383622,
+          "showtimes": 1456,
+          "theaters": 270,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Frontline",
+          "japanese name": "フロントライン",
+          "sales": 16971,
+          "seats": 118478,
+          "showtimes": 786,
+          "theaters": 269,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fake Self ~The Man Called a Killer Teacher",
+          "japanese name": "でっちあげ ～殺人教師と呼ばれた男",
+          "sales": 15772,
+          "seats": 183265,
+          "showtimes": 1183,
+          "theaters": 263,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Lilo & Stitch",
+          "japanese name": "リロ＆スティッチ",
+          "sales": 14344,
+          "seats": 120779,
+          "showtimes": 729,
+          "theaters": 269,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dollhouse",
+          "japanese name": "ドールハウス",
+          "sales": 14105,
+          "seats": 103509,
+          "showtimes": 746,
+          "theaters": 259,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mission: Impossible / Final Recounting",
+          "japanese name": "ミッション：インポッシブル／ファイナル・レコニング",
+          "sales": 10286,
+          "seats": 78698,
+          "showtimes": 489,
+          "theaters": 255,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Miss Kobayashi's Dragon Maid: The Lonely Dragon",
+          "japanese name": "小林さんちのメイドラゴン さみしがりやの竜",
+          "sales": 8029,
+          "seats": 110674,
+          "showtimes": 729,
+          "theaters": 158,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "LUPIN THE IIIrd THE MOVIE: The Immortal Clan",
+          "japanese name": "ＬＵＰＩＮ ＴＨＥ ＩＩＩＲＤ ＴＨＥ ＭＯＶＩＥ 不死身の血族",
+          "sales": 7966,
+          "seats": 89264,
+          "showtimes": 577,
+          "theaters": 131,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let's Go! Panman: Chappo's Hero!",
+          "japanese name": "それいけ！アンパンマン チャポンのヒーロー！",
+          "sales": 4800,
+          "seats": 147899,
+          "showtimes": 985,
+          "theaters": 251,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: Flashback of the One-Eyed Man",
+          "japanese name": "名探偵コナン 隻眼の残像（フラッシュバック）",
+          "sales": 4258,
+          "seats": 45312,
+          "showtimes": 313,
+          "theaters": 251,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "You are special",
+          "japanese name": "君がトクベツ",
+          "sales": 4105,
+          "seats": 52223,
+          "showtimes": 417,
+          "theaters": 180,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "KING OF PRISM: Your Endless Call Route 1 Our Youth",
+          "japanese name": "ＫＩＮＧ ＯＦ ＰＲＩＳＭ Ｙｏｕｒ Ｅｎｄｌｅｓｓ Ｃａｌｌ ルート１ われらが青春",
+          "sales": 3877,
+          "seats": 50275,
+          "showtimes": 255,
+          "theaters": 55,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 うたの☆プリンスさまっ♪ ＴＡＢＯＯ ＮＩＧＨＴ ＸＸＸＸ",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ ＴＡＢＯＯ ＮＩＧＨＴ ＸＸＸＸ",
+          "sales": 2924,
+          "seats": 24361,
+          "showtimes": 127,
+          "theaters": 101,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Compilation Special: Jujutsu Kaisen: The Precious Jewel",
+          "japanese name": "劇場版総集編 呪術廻戦 懐玉・玉折",
+          "sales": 2816,
+          "seats": 26088,
+          "showtimes": 195,
+          "theaters": 146,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "28 years later...",
+          "japanese name": "２８年後・・・",
+          "sales": 2377,
+          "seats": 39655,
+          "showtimes": 309,
+          "theaters": 165,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Demon Slayer: Pillar Training, Pillar Gathering Edition",
+          "japanese name": "鬼滅の刃 柱稽古 柱結集編",
+          "sales": 2056,
+          "seats": 7678,
+          "showtimes": 54,
+          "theaters": 31,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love in the Big City",
+          "japanese name": "ラブ・イン・ザ・ビッグシティ",
+          "sales": 1684,
+          "seats": 18522,
+          "showtimes": 147,
+          "theaters": 155,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Suit Gundam Gundam X - Beginning-",
+          "japanese name": "機動戦士Ｇｕｎｄａｍ ＧＱｕｕｕｕｕｕＸ －Ｂｅｇｉｎｎｉｎｇ－",
+          "sales": 1409,
+          "seats": 41925,
+          "showtimes": 244,
+          "theaters": 227,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Renoir",
+          "japanese name": "ルノワール",
+          "sales": 968,
+          "seats": 16543,
+          "showtimes": 134,
+          "theaters": 99,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mikador-chan",
+          "japanese name": "見える子ちゃん",
+          "sales": 942,
+          "seats": 19072,
+          "showtimes": 143,
+          "theaters": 153,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The sinners",
+          "japanese name": "罪人たち",
+          "sales": 937,
+          "seats": 3715,
+          "showtimes": 24,
+          "theaters": 16,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ka “” Ku “” Shi “” Go “” To “",
+          "japanese name": "か「」く「」し「」ご「」と「",
+          "sales": 871,
+          "seats": 21106,
+          "showtimes": 155,
+          "theaters": 164,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Metropolis",
+          "japanese name": "メガロポリス",
+          "sales": 723,
+          "seats": 10996,
+          "showtimes": 69,
+          "theaters": 60,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kakukakushika",
+          "japanese name": "かくかくしかじか",
+          "sales": 719,
+          "seats": 5297,
+          "showtimes": 43,
+          "theaters": 43,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

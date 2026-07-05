@@ -1,0 +1,983 @@
+{
+  "date": "01-11-2020",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 484398,
+          "seats": 555707,
+          "showtimes": 2684,
+          "theaters": 290,
+          "rank": 1,
+          "last_week_ratio": 100.1
+        },
+        {
+          "moviename": "Voice of Sin",
+          "japanese name": "罪の声",
+          "sales": 36463,
+          "seats": 93546,
+          "showtimes": 702,
+          "theaters": 283,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Pretty Cure Miracle Leap Everyone's Mysterious One Day",
+          "japanese name": "映画プリキュアミラクルリープ みんなとの不思議な１日",
+          "sales": 33685,
+          "seats": 93187,
+          "showtimes": 743,
+          "theaters": 199,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Your eyes are questioning",
+          "japanese name": "きみの瞳が問いかけている",
+          "sales": 15165,
+          "seats": 35637,
+          "showtimes": 385,
+          "theaters": 288,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tonkatsu DJ Agetaro",
+          "japanese name": "とんかつＤＪアゲ太郎",
+          "sales": 12016,
+          "seats": 69169,
+          "showtimes": 626,
+          "theaters": 283,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Believe in the dawn.",
+          "japanese name": "夜明けを信じて。",
+          "sales": 8164,
+          "seats": 16334,
+          "showtimes": 131,
+          "theaters": 139,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shibata family!",
+          "japanese name": "浅田家！",
+          "sales": 6789,
+          "seats": 16943,
+          "showtimes": 195,
+          "theaters": 268,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TENET",
+          "japanese name": "ＴＥＮＥＴ テネット",
+          "sales": 4420,
+          "seats": 14682,
+          "showtimes": 132,
+          "theaters": 287,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version Violet Evergarden",
+          "japanese name": "劇場版 ヴァイオレット・エヴァーガーデン",
+          "sales": 4391,
+          "seats": 7423,
+          "showtimes": 57,
+          "theaters": 126,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Crayon Shin-chan: Crash! The Kingdom of Ragingo and Almost Four Heroes",
+          "japanese name": "映画クレヨンしんちゃん 激突！ラクガキングダムとほぼ四人の勇者",
+          "sales": 4011,
+          "seats": 24413,
+          "showtimes": 225,
+          "theaters": 248,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Spy's Wife",
+          "japanese name": "スパイの妻",
+          "sales": 3495,
+          "seats": 8114,
+          "showtimes": 80,
+          "theaters": 82,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The sky dwells",
+          "japanese name": "空に住む",
+          "sales": 3046,
+          "seats": 9002,
+          "showtimes": 88,
+          "theaters": 99,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Morning Comes",
+          "japanese name": "朝が来る",
+          "sales": 2430,
+          "seats": 8416,
+          "showtimes": 79,
+          "theaters": 117,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Midnight Swan",
+          "japanese name": "ミッドナイトスワン",
+          "sales": 2144,
+          "seats": 4179,
+          "showtimes": 36,
+          "theaters": 89,
+          "rank": 14,
+          "last_week_ratio": 119.4
+        },
+        {
+          "moviename": "Movie Doraemon 2020 Nobita's New Dinosaur",
+          "japanese name": "映画ドラえもん ２０２０ のび太の新恐竜",
+          "sales": 2094,
+          "seats": 8070,
+          "showtimes": 91,
+          "theaters": 103,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Born in 1982, Kim Ji-yeon",
+          "japanese name": "８２年生まれ、キム・ジヨン",
+          "sales": 1784,
+          "seats": 4079,
+          "showtimes": 34,
+          "theaters": 73,
+          "rank": 16,
+          "last_week_ratio": 118
+        },
+        {
+          "moviename": "Mitsuкусi Ryouri帖",
+          "japanese name": "みをつくし料理帖",
+          "sales": 1209,
+          "seats": 13914,
+          "showtimes": 153,
+          "theaters": 225,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Hunt",
+          "japanese name": "ザ・ハント",
+          "sales": 917,
+          "seats": 2158,
+          "showtimes": 14,
+          "theaters": 9,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ore-tachi Ouendou!!",
+          "japanese name": "オレたち応援屋！！",
+          "sales": 790,
+          "seats": 4119,
+          "showtimes": 39,
+          "theaters": 50,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Keeper: A Soldier's Miracle",
+          "japanese name": "キーパー ある兵士の奇跡",
+          "sales": 786,
+          "seats": 2573,
+          "showtimes": 22,
+          "theaters": 19,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Takarazuka Revue Moon Group performance at Takarazuka Grand Theatre \"Welcome to Takarazuka Snow and Moon and Flowers\" \"Pigalle Madrigal\" Final Performance",
+          "japanese name": "宝塚歌劇 月組宝塚大劇場公演「ウェルカム トゥ タカラヅカ 雪と月と花と」「ピガール狂騒曲」千秋楽",
+          "sales": 782,
+          "seats": 2146,
+          "showtimes": 46,
+          "theaters": 52,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Musical \"Sword Dance Revolution\" Singing Competition Dance Mania 2019 Live Viewing",
+          "japanese name": "ミュージカル「刀剣乱舞」歌合 乱舞狂乱２０１９ ライブビューイング",
+          "sales": 761,
+          "seats": 1100,
+          "showtimes": 11,
+          "theaters": 22,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nozomi",
+          "japanese name": "望み",
+          "sales": 629,
+          "seats": 5627,
+          "showtimes": 45,
+          "theaters": 139,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Geki x Cinema False Minamoto Yoshitsune Hell Song",
+          "japanese name": "ゲキ×シネ偽義経冥界歌",
+          "sales": 569,
+          "seats": 4247,
+          "showtimes": 27,
+          "theaters": 50,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 850929,
+          "seats": 1009737,
+          "showtimes": 4919,
+          "theaters": 290,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Voice of Sin",
+          "japanese name": "罪の声",
+          "sales": 62343,
+          "seats": 174225,
+          "showtimes": 1286,
+          "theaters": 283,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Pretty Cure Miracle Leap Everyone's Mysterious One Day",
+          "japanese name": "映画プリキュアミラクルリープ みんなとの不思議な１日",
+          "sales": 40772,
+          "seats": 126711,
+          "showtimes": 1003,
+          "theaters": 199,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Your eyes are questioning",
+          "japanese name": "きみの瞳が問いかけている",
+          "sales": 28085,
+          "seats": 64112,
+          "showtimes": 682,
+          "theaters": 288,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tonkatsu DJ Agetaro",
+          "japanese name": "とんかつＤＪアゲ太郎",
+          "sales": 19440,
+          "seats": 124458,
+          "showtimes": 1131,
+          "theaters": 283,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Believe in the dawn.",
+          "japanese name": "夜明けを信じて。",
+          "sales": 13250,
+          "seats": 26282,
+          "showtimes": 218,
+          "theaters": 138,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shibata family!",
+          "japanese name": "浅田家！",
+          "sales": 11614,
+          "seats": 31718,
+          "showtimes": 354,
+          "theaters": 268,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TENET",
+          "japanese name": "ＴＥＮＥＴ テネット",
+          "sales": 11573,
+          "seats": 36713,
+          "showtimes": 332,
+          "theaters": 287,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version Violet Evergarden",
+          "japanese name": "劇場版 ヴァイオレット・エヴァーガーデン",
+          "sales": 10045,
+          "seats": 16537,
+          "showtimes": 131,
+          "theaters": 119,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The sky dwells",
+          "japanese name": "空に住む",
+          "sales": 5043,
+          "seats": 17640,
+          "showtimes": 173,
+          "theaters": 99,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Crayon Shin-chan: Crash! The Kingdom of Ragingo and Almost Four Heroes",
+          "japanese name": "映画クレヨンしんちゃん 激突！ラクガキングダムとほぼ四人の勇者",
+          "sales": 4832,
+          "seats": 26605,
+          "showtimes": 250,
+          "theaters": 248,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Midnight Swan",
+          "japanese name": "ミッドナイトスワン",
+          "sales": 4676,
+          "seats": 9163,
+          "showtimes": 82,
+          "theaters": 89,
+          "rank": 12,
+          "last_week_ratio": 113.8
+        },
+        {
+          "moviename": "The Spy's Wife",
+          "japanese name": "スパイの妻",
+          "sales": 4659,
+          "seats": 12156,
+          "showtimes": 117,
+          "theaters": 82,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Morning Comes",
+          "japanese name": "朝が来る",
+          "sales": 3766,
+          "seats": 14359,
+          "showtimes": 136,
+          "theaters": 117,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Born in 1982, Kim Ji-yeon",
+          "japanese name": "８２年生まれ、キム・ジヨン",
+          "sales": 2815,
+          "seats": 7476,
+          "showtimes": 66,
+          "theaters": 73,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "GRAWDOO 15th Anniversary Start-up Live It's Just 15 Years Screening Debut",
+          "japanese name": "ＧＲＡＮＲＯＤＥＯ １５ｔｈアニバーサリーＳｔａｒｔｕｐライブたかが１５年上映会ディレイビューイング",
+          "sales": 2442,
+          "seats": 4416,
+          "showtimes": 35,
+          "theaters": 35,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Doraemon 2020 Nobita's New Dinosaur",
+          "japanese name": "映画ドラえもん ２０２０ のび太の新恐竜",
+          "sales": 2342,
+          "seats": 9361,
+          "showtimes": 106,
+          "theaters": 103,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Hunt",
+          "japanese name": "ザ・ハント",
+          "sales": 1881,
+          "seats": 5609,
+          "showtimes": 33,
+          "theaters": 9,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mitsuкусi Ryouri帖",
+          "japanese name": "みをつくし料理帖",
+          "sales": 1711,
+          "seats": 18965,
+          "showtimes": 211,
+          "theaters": 225,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nozomi",
+          "japanese name": "望み",
+          "sales": 1471,
+          "seats": 11784,
+          "showtimes": 104,
+          "theaters": 139,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Keeper: A Soldier's Miracle",
+          "japanese name": "キーパー ある兵士の奇跡",
+          "sales": 1455,
+          "seats": 4401,
+          "showtimes": 38,
+          "theaters": 19,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ore-tachi Ouendou!!",
+          "japanese name": "オレたち応援屋！！",
+          "sales": 1350,
+          "seats": 7278,
+          "showtimes": 70,
+          "theaters": 50,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Accident property, fearful layout",
+          "japanese name": "事故物件 恐い間取り",
+          "sales": 986,
+          "seats": 4346,
+          "showtimes": 55,
+          "theaters": 73,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Musical \"Sword Dance Revolution\" Singing Competition Dance Mania 2019 Live Viewing",
+          "japanese name": "ミュージカル「刀剣乱舞」歌合 乱舞狂乱２０１９ ライブビューイング",
+          "sales": 970,
+          "seats": 1620,
+          "showtimes": 17,
+          "theaters": 22,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 1667255,
+          "seats": 2481400,
+          "showtimes": 12106,
+          "theaters": 291,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Voice of Sin",
+          "japanese name": "罪の声",
+          "sales": 114017,
+          "seats": 437206,
+          "showtimes": 3197,
+          "theaters": 283,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Pretty Cure Miracle Leap: A Mysterious Day with Everyone",
+          "japanese name": "映画プリキュアミラクルリープ みんなとの不思議な１日",
+          "sales": 78791,
+          "seats": 259613,
+          "showtimes": 2033,
+          "theaters": 199,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Your eyes are asking",
+          "japanese name": "きみの瞳が問いかけている",
+          "sales": 51387,
+          "seats": 180671,
+          "showtimes": 1908,
+          "theaters": 289,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tonkatsu DJ Agetaro",
+          "japanese name": "とんかつＤＪアゲ太郎",
+          "sales": 34005,
+          "seats": 324310,
+          "showtimes": 2924,
+          "theaters": 283,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version Violet Evergarden",
+          "japanese name": "劇場版 ヴァイオレット・エヴァーガーデン",
+          "sales": 27893,
+          "seats": 66828,
+          "showtimes": 472,
+          "theaters": 142,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Believing in dawn.",
+          "japanese name": "夜明けを信じて。",
+          "sales": 26673,
+          "seats": 57863,
+          "showtimes": 483,
+          "theaters": 141,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TENET",
+          "japanese name": "ＴＥＮＥＴ テネット",
+          "sales": 24234,
+          "seats": 113393,
+          "showtimes": 1026,
+          "theaters": 289,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Asada Family!",
+          "japanese name": "浅田家！",
+          "sales": 19997,
+          "seats": 78533,
+          "showtimes": 865,
+          "theaters": 269,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "To live in the void",
+          "japanese name": "空に住む",
+          "sales": 8528,
+          "seats": 47454,
+          "showtimes": 454,
+          "theaters": 99,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The wife of a spy",
+          "japanese name": "スパイの妻",
+          "sales": 8369,
+          "seats": 27384,
+          "showtimes": 266,
+          "theaters": 83,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Midnight Swan",
+          "japanese name": "ミッドナイトスワン",
+          "sales": 8286,
+          "seats": 24465,
+          "showtimes": 214,
+          "theaters": 91,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Crayon Shin-chan: Crash! The Land of Lac King and Almost Four Heroes",
+          "japanese name": "映画クレヨンしんちゃん 激突！ラクガキングダムとほぼ四人の勇者",
+          "sales": 6931,
+          "seats": 53707,
+          "showtimes": 504,
+          "theaters": 251,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The morning will come.",
+          "japanese name": "朝が来る",
+          "sales": 6367,
+          "seats": 37785,
+          "showtimes": 363,
+          "theaters": 117,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "GRANRODEO 15th Anniversary Startup Live It's Only 15 Years Since the Screening Premiere",
+          "japanese name": "ＧＲＡＮＲＯＤＥＯ １５ｔｈアニバーサリーＳｔａｒｔｕｐライブたかが１５年上映会ディレイビューイング",
+          "sales": 4897,
+          "seats": 8875,
+          "showtimes": 70,
+          "theaters": 36,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Born in 1982, Kim Ji-Yeon",
+          "japanese name": "８２年生まれ、キム・ジヨン",
+          "sales": 4635,
+          "seats": 19359,
+          "showtimes": 164,
+          "theaters": 74,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Hunt",
+          "japanese name": "ザ・ハント",
+          "sales": 3544,
+          "seats": 13964,
+          "showtimes": 88,
+          "theaters": 9,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Doraemon 2020 Nobita's New Dinosaur",
+          "japanese name": "映画ドラえもん ２０２０ のび太の新恐竜",
+          "sales": 3317,
+          "seats": 18690,
+          "showtimes": 213,
+          "theaters": 104,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mizuki Cuisine Book",
+          "japanese name": "みをつくし料理帖",
+          "sales": 2924,
+          "seats": 42428,
+          "showtimes": 462,
+          "theaters": 226,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hope",
+          "japanese name": "望み",
+          "sales": 2770,
+          "seats": 33191,
+          "showtimes": 283,
+          "theaters": 140,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Musical \"Sword Dance of the Dead\" Singing Competition, Sword Dance Mania 2019 Live Viewing",
+          "japanese name": "ミュージカル「刀剣乱舞」歌合 乱舞狂乱２０１９ ライブビューイング",
+          "sales": 2622,
+          "seats": 4222,
+          "showtimes": 44,
+          "theaters": 22,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Keeper, A Soldier's Miracle",
+          "japanese name": "キーパー ある兵士の奇跡",
+          "sales": 2531,
+          "seats": 10643,
+          "showtimes": 94,
+          "theaters": 19,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "We're the cheering squad!!",
+          "japanese name": "オレたち応援屋！！",
+          "sales": 2519,
+          "seats": 18687,
+          "showtimes": 177,
+          "theaters": 50,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Damaged property, scary layout",
+          "japanese name": "事故物件 恐い間取り",
+          "sales": 2003,
+          "seats": 15523,
+          "showtimes": 184,
+          "theaters": 74,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 944402,
+          "seats": 1249107,
+          "showtimes": 6050,
+          "theaters": 290,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Voice of Sin",
+          "japanese name": "罪の声",
+          "sales": 66632,
+          "seats": 217178,
+          "showtimes": 1598,
+          "theaters": 283,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Pretty Cure Miracle Leap: A Mysterious Day with Everyone",
+          "japanese name": "映画プリキュアミラクルリープ みんなとの不思議な１日",
+          "sales": 41071,
+          "seats": 128462,
+          "showtimes": 1016,
+          "theaters": 199,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Your eyes are asking",
+          "japanese name": "きみの瞳が問いかけている",
+          "sales": 30652,
+          "seats": 89350,
+          "showtimes": 944,
+          "theaters": 288,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tonkatsu DJ Agetaro",
+          "japanese name": "とんかつＤＪアゲ太郎",
+          "sales": 20665,
+          "seats": 161163,
+          "showtimes": 1453,
+          "theaters": 283,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Believing in dawn.",
+          "japanese name": "夜明けを信じて。",
+          "sales": 14264,
+          "seats": 28844,
+          "showtimes": 240,
+          "theaters": 138,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TENET",
+          "japanese name": "ＴＥＮＥＴ テネット",
+          "sales": 13620,
+          "seats": 56058,
+          "showtimes": 505,
+          "theaters": 287,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Asada Family!",
+          "japanese name": "浅田家！",
+          "sales": 12344,
+          "seats": 39347,
+          "showtimes": 434,
+          "theaters": 268,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version Violet Evergarden",
+          "japanese name": "劇場版 ヴァイオレット・エヴァーガーデン",
+          "sales": 12046,
+          "seats": 22131,
+          "showtimes": 178,
+          "theaters": 119,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "To live in the void",
+          "japanese name": "空に住む",
+          "sales": 5336,
+          "seats": 23549,
+          "showtimes": 227,
+          "theaters": 99,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Midnight Swan",
+          "japanese name": "ミッドナイトスワン",
+          "sales": 5143,
+          "seats": 11978,
+          "showtimes": 105,
+          "theaters": 89,
+          "rank": 11,
+          "last_week_ratio": 119.2
+        },
+        {
+          "moviename": "Crayon Shin-chan: Crash! The Land of Lac King and Almost Four Heroes",
+          "japanese name": "映画クレヨンしんちゃん 激突！ラクガキングダムとほぼ四人の勇者",
+          "sales": 4875,
+          "seats": 26648,
+          "showtimes": 251,
+          "theaters": 248,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The wife of a spy",
+          "japanese name": "スパイの妻",
+          "sales": 4817,
+          "seats": 13967,
+          "showtimes": 133,
+          "theaters": 82,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The morning will come.",
+          "japanese name": "朝が来る",
+          "sales": 4060,
+          "seats": 18871,
+          "showtimes": 180,
+          "theaters": 117,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Born in 1982, Kim Ji-Yeon",
+          "japanese name": "８２年生まれ、キム・ジヨン",
+          "sales": 2901,
+          "seats": 9702,
+          "showtimes": 81,
+          "theaters": 73,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "GRANRODEO 15th Anniversary Startup Live It's Only 15 Years Since the Screening Premiere",
+          "japanese name": "ＧＲＡＮＲＯＤＥＯ １５ｔｈアニバーサリーＳｔａｒｔｕｐライブたかが１５年上映会ディレイビューイング",
+          "sales": 2442,
+          "seats": 4416,
+          "showtimes": 35,
+          "theaters": 35,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Doraemon 2020 Nobita's New Dinosaur",
+          "japanese name": "映画ドラえもん ２０２０ のび太の新恐竜",
+          "sales": 2342,
+          "seats": 9361,
+          "showtimes": 106,
+          "theaters": 103,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Hunt",
+          "japanese name": "ザ・ハント",
+          "sales": 2163,
+          "seats": 7159,
+          "showtimes": 43,
+          "theaters": 9,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mizuki Cuisine Book",
+          "japanese name": "みをつくし料理帖",
+          "sales": 1749,
+          "seats": 21249,
+          "showtimes": 231,
+          "theaters": 225,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hope",
+          "japanese name": "望み",
+          "sales": 1660,
+          "seats": 16735,
+          "showtimes": 142,
+          "theaters": 139,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Keeper, A Soldier's Miracle",
+          "japanese name": "キーパー ある兵士の奇跡",
+          "sales": 1521,
+          "seats": 5469,
+          "showtimes": 48,
+          "theaters": 19,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "We're the cheering squad!!",
+          "japanese name": "オレたち応援屋！！",
+          "sales": 1421,
+          "seats": 9056,
+          "showtimes": 88,
+          "theaters": 50,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Musical \"Sword Dance of the Dead\" Singing Competition, Sword Dance Mania 2019 Live Viewing",
+          "japanese name": "ミュージカル「刀剣乱舞」歌合 乱舞狂乱２０１９ ライブビューイング",
+          "sales": 1284,
+          "seats": 2111,
+          "showtimes": 22,
+          "theaters": 22,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Damaged property, scary layout",
+          "japanese name": "事故物件 恐い間取り",
+          "sales": 1190,
+          "seats": 7612,
+          "showtimes": 91,
+          "theaters": 73,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

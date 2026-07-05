@@ -1,0 +1,773 @@
+{
+  "date": "10-10-2022",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "ONE PIECE FILM RED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 35239,
+          "seats": 117830,
+          "showtimes": 475,
+          "theaters": 197,
+          "rank": 1,
+          "last_week_ratio": 287.8
+        },
+        {
+          "moviename": "Seven Secretaries THE MOVIE",
+          "japanese name": "七人の秘書 ＴＨＥ ＭＯＶＩＥ",
+          "sales": 22310,
+          "seats": 112606,
+          "showtimes": 401,
+          "theaters": 179,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Silent Parade",
+          "japanese name": "沈黙のパレード",
+          "sales": 20168,
+          "seats": 85290,
+          "showtimes": 391,
+          "theaters": 195,
+          "rank": 3,
+          "last_week_ratio": 190
+        },
+        {
+          "moviename": "Bad Guys",
+          "japanese name": "バッドガイズ",
+          "sales": 17817,
+          "seats": 69543,
+          "showtimes": 435,
+          "theaters": 182,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Delicious Party Pretty Cure",
+          "japanese name": "映画デリシャスパーティ・プリキュア",
+          "sales": 15241,
+          "seats": 56600,
+          "showtimes": 345,
+          "theaters": 134,
+          "rank": 5,
+          "last_week_ratio": 326.1
+        },
+        {
+          "moviename": "Witch Reverser - Takako's Birth",
+          "japanese name": "呪い返し師－塩子誕生",
+          "sales": 11180,
+          "seats": 50144,
+          "showtimes": 197,
+          "theaters": 102,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Forest of \"That\"",
+          "japanese name": "’それ”がいる森",
+          "sales": 8057,
+          "seats": 41171,
+          "showtimes": 315,
+          "theaters": 193,
+          "rank": 7,
+          "last_week_ratio": 195.9
+        },
+        {
+          "moviename": "To all the ones I loved",
+          "japanese name": "僕が愛したすべての君へ",
+          "sales": 5537,
+          "seats": 34014,
+          "showtimes": 209,
+          "theaters": 156,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "To the One Who Loved You",
+          "japanese name": "君を愛したひとりの僕へ",
+          "sales": 5275,
+          "seats": 27062,
+          "showtimes": 165,
+          "theaters": 156,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Top Gun Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 4023,
+          "seats": 13296,
+          "showtimes": 99,
+          "theaters": 166,
+          "rank": 10,
+          "last_week_ratio": 398.7
+        },
+        {
+          "moviename": "I Am Makimoto",
+          "japanese name": "アイ・アム まきもと",
+          "sales": 3821,
+          "seats": 27734,
+          "showtimes": 226,
+          "theaters": 193,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version Uta no☆Prince-sama♪ Maji LOVE Story Tour",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
+          "sales": 3442,
+          "seats": 18814,
+          "showtimes": 85,
+          "theaters": 87,
+          "rank": 12,
+          "last_week_ratio": 175.5
+        },
+        {
+          "moviename": "My Broken Mariko",
+          "japanese name": "マイ・ブロークン・マリコ",
+          "sales": 2369,
+          "seats": 14640,
+          "showtimes": 115,
+          "theaters": 103,
+          "rank": 13,
+          "last_week_ratio": 124.6
+        },
+        {
+          "moviename": "Four-and-a-Half Time Machine Blues",
+          "japanese name": "四畳半タイムマシンブルース",
+          "sales": 2166,
+          "seats": 12896,
+          "showtimes": 68,
+          "theaters": 48,
+          "rank": 14,
+          "last_week_ratio": 252.7
+        },
+        {
+          "moviename": "Hundred Flowers",
+          "japanese name": "百花",
+          "sales": 2130,
+          "seats": 12658,
+          "showtimes": 107,
+          "theaters": 127,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Downton Abbey: A New Era",
+          "japanese name": "ダウントン・アビー 新たなる時代へ",
+          "sales": 2046,
+          "seats": 8331,
+          "showtimes": 65,
+          "theaters": 52,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hell Dogs",
+          "japanese name": "ヘルドッグス",
+          "sales": 1924,
+          "seats": 9350,
+          "showtimes": 77,
+          "theaters": 191,
+          "rank": 17,
+          "last_week_ratio": 118.4
+        },
+        {
+          "moviename": "Lord of the Rings: The Two Towers",
+          "japanese name": "ロード・オブ・ザ・リング／二つの塔",
+          "sales": 1915,
+          "seats": 5275,
+          "showtimes": 17,
+          "theaters": 26,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HIGH & LOW THE WORST X",
+          "japanese name": "ＨｉＧＨ＆ＬＯＷ ＴＨＥ ＷＯＲＳＴ Ｘ",
+          "sales": 1633,
+          "seats": 5344,
+          "showtimes": 43,
+          "theaters": 176,
+          "rank": 19,
+          "last_week_ratio": 176
+        },
+        {
+          "moviename": "Brett Train",
+          "japanese name": "ブレット・トレイン",
+          "sales": 1560,
+          "seats": 6153,
+          "showtimes": 46,
+          "theaters": 179,
+          "rank": 20,
+          "last_week_ratio": 184.6
+        },
+        {
+          "moviename": "Jurassic World / The New Empire",
+          "japanese name": "ジュラシック・ワールド／新たなる支配者",
+          "sales": 1216,
+          "seats": 5209,
+          "showtimes": 39,
+          "theaters": 109,
+          "rank": 21,
+          "last_week_ratio": 163.2
+        },
+        {
+          "moviename": "The Contractor",
+          "japanese name": "ザコントラクター",
+          "sales": 1082,
+          "seats": 8727,
+          "showtimes": 60,
+          "theaters": 42,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New York Times IMAX Festival Your Name.",
+          "japanese name": "新海誠ＩＭＡＸ映画祭 君の名は。",
+          "sales": 1016,
+          "seats": 3265,
+          "showtimes": 10,
+          "theaters": 19,
+          "rank": 23,
+          "last_week_ratio": 254
+        },
+        {
+          "moviename": "Galaxy Heroes Legend Die Neue These Strategy Chapter 1",
+          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 策謀 第一章",
+          "sales": 979,
+          "seats": 7287,
+          "showtimes": 50,
+          "theaters": 49,
+          "rank": 24,
+          "last_week_ratio": 151.8
+        },
+        {
+          "moviename": "Avatar: James Cameron 3D Remaster",
+          "japanese name": "アバター：ジェームズキャメロン ３Ｄリマスター",
+          "sales": 900,
+          "seats": 5287,
+          "showtimes": 28,
+          "theaters": 71,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "ONE PIECE FILM RED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 51477,
+          "seats": 206737,
+          "showtimes": 825,
+          "theaters": 197,
+          "rank": 1,
+          "last_week_ratio": 259.9
+        },
+        {
+          "moviename": "Silent Parade",
+          "japanese name": "沈黙のパレード",
+          "sales": 33447,
+          "seats": 157723,
+          "showtimes": 715,
+          "theaters": 195,
+          "rank": 2,
+          "last_week_ratio": 193.7
+        },
+        {
+          "moviename": "Seven Secretaries THE MOVIE",
+          "japanese name": "七人の秘書 ＴＨＥ ＭＯＶＩＥ",
+          "sales": 31794,
+          "seats": 209952,
+          "showtimes": 747,
+          "theaters": 179,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bad Guys",
+          "japanese name": "バッドガイズ",
+          "sales": 24258,
+          "seats": 118536,
+          "showtimes": 741,
+          "theaters": 182,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Witch Reverser - Takako's Birth",
+          "japanese name": "呪い返し師－塩子誕生",
+          "sales": 18795,
+          "seats": 88332,
+          "showtimes": 348,
+          "theaters": 102,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Delicious Party Pretty Cure",
+          "japanese name": "映画デリシャスパーティ・プリキュア",
+          "sales": 17417,
+          "seats": 71021,
+          "showtimes": 432,
+          "theaters": 134,
+          "rank": 6,
+          "last_week_ratio": 320.3
+        },
+        {
+          "moviename": "The Forest of \"That\"",
+          "japanese name": "’それ”がいる森",
+          "sales": 14028,
+          "seats": 74174,
+          "showtimes": 566,
+          "theaters": 193,
+          "rank": 7,
+          "last_week_ratio": 190.3
+        },
+        {
+          "moviename": "To the One Who Loved You",
+          "japanese name": "君を愛したひとりの僕へ",
+          "sales": 9729,
+          "seats": 56868,
+          "showtimes": 344,
+          "theaters": 156,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "To all the ones I loved",
+          "japanese name": "僕が愛したすべての君へ",
+          "sales": 9608,
+          "seats": 64389,
+          "showtimes": 392,
+          "theaters": 156,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Top Gun Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 6681,
+          "seats": 26850,
+          "showtimes": 186,
+          "theaters": 166,
+          "rank": 10,
+          "last_week_ratio": 348.7
+        },
+        {
+          "moviename": "Movie Version Uta no☆Prince-sama♪ Maji LOVE Story Tour",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
+          "sales": 6535,
+          "seats": 34977,
+          "showtimes": 165,
+          "theaters": 87,
+          "rank": 11,
+          "last_week_ratio": 149.8
+        },
+        {
+          "moviename": "I Am Makimoto",
+          "japanese name": "アイ・アム まきもと",
+          "sales": 5424,
+          "seats": 48638,
+          "showtimes": 387,
+          "theaters": 193,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Broken Mariko",
+          "japanese name": "マイ・ブロークン・マリコ",
+          "sales": 3905,
+          "seats": 26035,
+          "showtimes": 200,
+          "theaters": 103,
+          "rank": 13,
+          "last_week_ratio": 112.8
+        },
+        {
+          "moviename": "Hell Dogs",
+          "japanese name": "ヘルドッグス",
+          "sales": 3744,
+          "seats": 21969,
+          "showtimes": 180,
+          "theaters": 191,
+          "rank": 14,
+          "last_week_ratio": 132.3
+        },
+        {
+          "moviename": "Four-and-a-Half Time Machine Blues",
+          "japanese name": "四畳半タイムマシンブルース",
+          "sales": 3495,
+          "seats": 22015,
+          "showtimes": 121,
+          "theaters": 48,
+          "rank": 15,
+          "last_week_ratio": 216.4
+        },
+        {
+          "moviename": "HIGH & LOW THE WORST X",
+          "japanese name": "ＨｉＧＨ＆ＬＯＷ ＴＨＥ ＷＯＲＳＴ Ｘ",
+          "sales": 3492,
+          "seats": 17577,
+          "showtimes": 143,
+          "theaters": 176,
+          "rank": 16,
+          "last_week_ratio": 160.3
+        },
+        {
+          "moviename": "Brett Train",
+          "japanese name": "ブレット・トレイン",
+          "sales": 3344,
+          "seats": 17485,
+          "showtimes": 129,
+          "theaters": 179,
+          "rank": 17,
+          "last_week_ratio": 194.5
+        },
+        {
+          "moviename": "Jurassic World / The New Empire",
+          "japanese name": "ジュラシック・ワールド／新たなる支配者",
+          "sales": 3114,
+          "seats": 13742,
+          "showtimes": 107,
+          "theaters": 109,
+          "rank": 18,
+          "last_week_ratio": 208.4
+        },
+        {
+          "moviename": "Downton Abbey: A New Era",
+          "japanese name": "ダウントン・アビー 新たなる時代へ",
+          "sales": 2972,
+          "seats": 12379,
+          "showtimes": 95,
+          "theaters": 52,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Lord of the Rings: The Two Towers",
+          "japanese name": "ロード・オブ・ザ・リング／二つの塔",
+          "sales": 2810,
+          "seats": 8162,
+          "showtimes": 26,
+          "theaters": 26,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hundred Flowers",
+          "japanese name": "百花",
+          "sales": 2556,
+          "seats": 16025,
+          "showtimes": 132,
+          "theaters": 127,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New York Times IMAX Festival Your Name.",
+          "japanese name": "新海誠ＩＭＡＸ映画祭 君の名は。",
+          "sales": 2375,
+          "seats": 6322,
+          "showtimes": 19,
+          "theaters": 19,
+          "rank": 22,
+          "last_week_ratio": 174.9
+        },
+        {
+          "moviename": "Avatar: James Cameron 3D Remaster",
+          "japanese name": "アバター：ジェームズキャメロン ３Ｄリマスター",
+          "sales": 2169,
+          "seats": 11004,
+          "showtimes": 70,
+          "theaters": 71,
+          "rank": 23,
+          "last_week_ratio": 109.3
+        },
+        {
+          "moviename": "LAMB/LAMB",
+          "japanese name": "ＬＡＭＢ／ラム",
+          "sales": 1687,
+          "seats": 8773,
+          "showtimes": 62,
+          "theaters": 29,
+          "rank": 24,
+          "last_week_ratio": 178.3
+        },
+        {
+          "moviename": "Kingdom 2: Faraway Lands",
+          "japanese name": "キングダム２ 遥かなる大地へ",
+          "sales": 1685,
+          "seats": 12685,
+          "showtimes": 96,
+          "theaters": 147,
+          "rank": 25,
+          "last_week_ratio": 210.4
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "ONE PIECE FILM RED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 53687,
+          "seats": 258471,
+          "showtimes": 1031,
+          "theaters": 197,
+          "rank": 1,
+          "last_week_ratio": 234.7
+        },
+        {
+          "moviename": "Silent Parade",
+          "japanese name": "沈黙のパレード",
+          "sales": 35548,
+          "seats": 200384,
+          "showtimes": 905,
+          "theaters": 195,
+          "rank": 2,
+          "last_week_ratio": 180.3
+        },
+        {
+          "moviename": "Seven Secretaries THE MOVIE",
+          "japanese name": "七人の秘書 ＴＨＥ ＭＯＶＩＥ",
+          "sales": 33905,
+          "seats": 262124,
+          "showtimes": 933,
+          "theaters": 179,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BAD GUYS",
+          "japanese name": "バッドガイズ",
+          "sales": 24786,
+          "seats": 140029,
+          "showtimes": 863,
+          "theaters": 182,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "CURSES REVENGER - SATOSHI BIRTH",
+          "japanese name": "呪い返し師－塩子誕生",
+          "sales": 19390,
+          "seats": 92658,
+          "showtimes": 366,
+          "theaters": 102,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MOVIE DELICIOUS PARTY PRECURE",
+          "japanese name": "映画デリシャスパーティ・プリキュア",
+          "sales": 17421,
+          "seats": 71274,
+          "showtimes": 433,
+          "theaters": 134,
+          "rank": 6,
+          "last_week_ratio": 318.4
+        },
+        {
+          "moviename": "\"The forest that has 'that'\"",
+          "japanese name": "’それ”がいる森",
+          "sales": 14839,
+          "seats": 99281,
+          "showtimes": 747,
+          "theaters": 193,
+          "rank": 7,
+          "last_week_ratio": 175.6
+        },
+        {
+          "moviename": "\"To the one who loved you\"",
+          "japanese name": "君を愛したひとりの僕へ",
+          "sales": 10470,
+          "seats": 74657,
+          "showtimes": 448,
+          "theaters": 156,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "\"To all the you I loved\"",
+          "japanese name": "僕が愛したすべての君へ",
+          "sales": 10138,
+          "seats": 74420,
+          "showtimes": 454,
+          "theaters": 156,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version うたの☆プリンスさまっ♪ Maji LOVE Starlight Tours",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
+          "sales": 7802,
+          "seats": 46477,
+          "showtimes": 218,
+          "theaters": 87,
+          "rank": 10,
+          "last_week_ratio": 122.3
+        },
+        {
+          "moviename": "Top Gun Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 7600,
+          "seats": 37498,
+          "showtimes": 253,
+          "theaters": 166,
+          "rank": 11,
+          "last_week_ratio": 323.3
+        },
+        {
+          "moviename": "I Am Makimoto",
+          "japanese name": "アイ・アム まきもと",
+          "sales": 5676,
+          "seats": 61504,
+          "showtimes": 490,
+          "theaters": 193,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Broken Maria",
+          "japanese name": "マイ・ブロークン・マリコ",
+          "sales": 4373,
+          "seats": 33523,
+          "showtimes": 259,
+          "theaters": 103,
+          "rank": 13,
+          "last_week_ratio": 103.3
+        },
+        {
+          "moviename": "Hell Dogs",
+          "japanese name": "ヘルドッグス",
+          "sales": 4160,
+          "seats": 32987,
+          "showtimes": 259,
+          "theaters": 191,
+          "rank": 14,
+          "last_week_ratio": 120.3
+        },
+        {
+          "moviename": "HIGHER & LOWER THE WORST X",
+          "japanese name": "ＨｉＧＨ＆ＬＯＷ ＴＨＥ ＷＯＲＳＴ Ｘ",
+          "sales": 3999,
+          "seats": 25589,
+          "showtimes": 199,
+          "theaters": 176,
+          "rank": 15,
+          "last_week_ratio": 144.2
+        },
+        {
+          "moviename": "Four-and-a-half Time Machine Blues",
+          "japanese name": "四畳半タイムマシンブルース",
+          "sales": 3863,
+          "seats": 28477,
+          "showtimes": 157,
+          "theaters": 48,
+          "rank": 16,
+          "last_week_ratio": 182.6
+        },
+        {
+          "moviename": "Brett Train",
+          "japanese name": "ブレット・トレイン",
+          "sales": 3812,
+          "seats": 28435,
+          "showtimes": 204,
+          "theaters": 179,
+          "rank": 17,
+          "last_week_ratio": 170.6
+        },
+        {
+          "moviename": "Jurassic World / The New Ruler",
+          "japanese name": "ジュラシック・ワールド／新たなる支配者",
+          "sales": 3213,
+          "seats": 16173,
+          "showtimes": 124,
+          "theaters": 109,
+          "rank": 18,
+          "last_week_ratio": 201.1
+        },
+        {
+          "moviename": "Downton Abbey: A New Era",
+          "japanese name": "ダウントン・アビー 新たなる時代へ",
+          "sales": 3061,
+          "seats": 15351,
+          "showtimes": 119,
+          "theaters": 52,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Lord of the Rings: The Two Towers",
+          "japanese name": "ロード・オブ・ザ・リング／二つの塔",
+          "sales": 3046,
+          "seats": 8471,
+          "showtimes": 27,
+          "theaters": 26,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hundred Flowers",
+          "japanese name": "百花",
+          "sales": 2563,
+          "seats": 16172,
+          "showtimes": 133,
+          "theaters": 127,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New Line Cinema MAX Film Festival Your Name.",
+          "japanese name": "新海誠ＩＭＡＸ映画祭 君の名は。",
+          "sales": 2486,
+          "seats": 6843,
+          "showtimes": 22,
+          "theaters": 19,
+          "rank": 22,
+          "last_week_ratio": 179
+        },
+        {
+          "moviename": "Avatar: James Cameron 3D Remaster",
+          "japanese name": "アバター：ジェームズキャメロン ３Ｄリマスター",
+          "sales": 2343,
+          "seats": 13616,
+          "showtimes": 91,
+          "theaters": 71,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kingdom 2: To the Distant Lands",
+          "japanese name": "キングダム２ 遥かなる大地へ",
+          "sales": 1937,
+          "seats": 20109,
+          "showtimes": 149,
+          "theaters": 147,
+          "rank": 24,
+          "last_week_ratio": 212.9
+        },
+        {
+          "moviename": "Lamb/Lamb",
+          "japanese name": "ＬＡＭＢ／ラム",
+          "sales": 1864,
+          "seats": 12219,
+          "showtimes": 82,
+          "theaters": 29,
+          "rank": 25,
+          "last_week_ratio": 155.3
+        }
+      ]
+    }
+  ]
+}

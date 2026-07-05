@@ -1,0 +1,773 @@
+{
+  "date": "16-12-2023",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Wish",
+          "japanese name": "ウィッシュ",
+          "sales": 45343,
+          "seats": 222141,
+          "showtimes": 768,
+          "theaters": 185,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pauly Shore Patrol: The Mighty Movie",
+          "japanese name": "パウ・パトロール ザ・マイティ・ムービー",
+          "sales": 24681,
+          "seats": 57123,
+          "showtimes": 333,
+          "theaters": 121,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "If I could meet you again on that hill where that flower blooms.",
+          "japanese name": "あの花が咲く丘で、君とまた出会えたら。",
+          "sales": 21485,
+          "seats": 60118,
+          "showtimes": 332,
+          "theaters": 170,
+          "rank": 3,
+          "last_week_ratio": 116.3
+        },
+        {
+          "moviename": "The Beginning of Wonka's Chocolate Factory",
+          "japanese name": "ウォンカとチョコレート工場のはじまり",
+          "sales": 18162,
+          "seats": 79298,
+          "showtimes": 444,
+          "theaters": 183,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Flying in Saitama ~With Love from Lake Biwa~",
+          "japanese name": "翔んで埼玉 ～琵琶湖より愛をこめて～",
+          "sales": 10469,
+          "seats": 35288,
+          "showtimes": 229,
+          "theaters": 179,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Birth of Gegege no Kitaro",
+          "japanese name": "鬼太郎誕生 ゲゲゲの謎",
+          "sales": 10412,
+          "seats": 32597,
+          "showtimes": 191,
+          "theaters": 149,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Tot-chan by the Window\"",
+          "japanese name": "映画「窓ぎわのトットちゃん」",
+          "sales": 10397,
+          "seats": 41353,
+          "showtimes": 346,
+          "theaters": 171,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Godzilla - 1.0",
+          "japanese name": "ゴジラ－１．０",
+          "sales": 9115,
+          "seats": 36360,
+          "showtimes": 245,
+          "theaters": 180,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rajaa under the roof",
+          "japanese name": "屋根裏のラジャー",
+          "sales": 5926,
+          "seats": 107443,
+          "showtimes": 485,
+          "theaters": 180,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The youth boar doesn't dream of a landseer girl",
+          "japanese name": "青春ブタ野郎はランドセルガールの夢を見ない",
+          "sales": 3687,
+          "seats": 14281,
+          "showtimes": 83,
+          "theaters": 75,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Neck",
+          "japanese name": "首",
+          "sales": 2994,
+          "seats": 20135,
+          "showtimes": 163,
+          "theaters": 178,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hanshin Tigers THE MOVIE 2023 - Glory of ARE",
+          "japanese name": "阪神タイガースＴＨＥ ＭＯＶＩＥ２０２３－栄光のＡＲＥ－",
+          "sales": 2867,
+          "seats": 7574,
+          "showtimes": 34,
+          "theaters": 27,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Sumikko Gurashi: The Mysterious Factory of Tsubugahachi",
+          "japanese name": "映画 すみっコぐらし ツギハギ工場のふしぎなコ",
+          "sales": 2854,
+          "seats": 17331,
+          "showtimes": 120,
+          "theaters": 126,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Napoleon",
+          "japanese name": "ナポレオン",
+          "sales": 2208,
+          "seats": 10786,
+          "showtimes": 84,
+          "theaters": 151,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dramatic movie \"I Was Reincarnated as an Evil Lady Who Only Has a Flag of Doom in a Girl's Game...\"",
+          "japanese name": "劇場版「乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…」",
+          "sales": 1963,
+          "seats": 9038,
+          "showtimes": 67,
+          "theaters": 76,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Monster logging",
+          "japanese name": "怪物の木こり",
+          "sales": 1152,
+          "seats": 7907,
+          "showtimes": 68,
+          "theaters": 168,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "NCT NATION: To The World in Cinemas",
+          "japanese name": "ＮＣＴ ＮＡＴＩＯＮ：Ｔｏ Ｔｈｅ Ｗｏｒｌｄ ｉｎ Ｃｉｎｅｍａｓ",
+          "sales": 842,
+          "seats": 5181,
+          "showtimes": 45,
+          "theaters": 66,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "How do you live?",
+          "japanese name": "君たちはどう生きるか",
+          "sales": 735,
+          "seats": 9072,
+          "showtimes": 73,
+          "theaters": 160,
+          "rank": 18,
+          "last_week_ratio": 277.4
+        },
+        {
+          "moviename": "Dungeon Delious in Dungeon",
+          "japanese name": "ダンジョン飯 Ｄｅｌｉｃｉｏｕｓ ｉｎ Ｄｕｎｇｅｏｎ",
+          "sales": 703,
+          "seats": 5601,
+          "showtimes": 37,
+          "theaters": 32,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "City girl",
+          "japanese name": "市子",
+          "sales": 626,
+          "seats": 2838,
+          "showtimes": 20,
+          "theaters": 19,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nakajima Miyuki: Live History 2007–2016 – Song Journey: Meetings and Reunions",
+          "japanese name": "中島みゆき 劇場版 ライヴ・ヒストリー ２００７－２０１６ 歌旅～縁会～一会",
+          "sales": 540,
+          "seats": 6963,
+          "showtimes": 53,
+          "theaters": 59,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ultraman Yamato: The Movie",
+          "japanese name": "宇宙戦艦ヤマト 劇場版",
+          "sales": 518,
+          "seats": 2104,
+          "showtimes": 11,
+          "theaters": 25,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version of Silver Fox Family: A Gift from Flare",
+          "japanese name": "劇場版 シルバニアファミリー フレアからのおくりもの",
+          "sales": 476,
+          "seats": 10482,
+          "showtimes": 64,
+          "theaters": 64,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Til",
+          "japanese name": "ティル",
+          "sales": 379,
+          "seats": 2188,
+          "showtimes": 14,
+          "theaters": 12,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wallace & Gromit: The Close Call",
+          "japanese name": "ウォレスとグルミット 危機一髪！",
+          "sales": 324,
+          "seats": 2718,
+          "showtimes": 21,
+          "theaters": 31,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Wish",
+          "japanese name": "ウィッシュ",
+          "sales": 79837,
+          "seats": 390195,
+          "showtimes": 1356,
+          "theaters": 185,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "If I could meet you again on that hill where that flower blooms.",
+          "japanese name": "あの花が咲く丘で、君とまた出会えたら。",
+          "sales": 47315,
+          "seats": 110052,
+          "showtimes": 596,
+          "theaters": 170,
+          "rank": 2,
+          "last_week_ratio": 126.5
+        },
+        {
+          "moviename": "The Beginning of Wonka's Chocolate Factory",
+          "japanese name": "ウォンカとチョコレート工場のはじまり",
+          "sales": 36509,
+          "seats": 140808,
+          "showtimes": 787,
+          "theaters": 183,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pauly Shore Patrol: The Mighty Movie",
+          "japanese name": "パウ・パトロール ザ・マイティ・ムービー",
+          "sales": 35544,
+          "seats": 94323,
+          "showtimes": 554,
+          "theaters": 121,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Birth of Gegege no Kitaro",
+          "japanese name": "鬼太郎誕生 ゲゲゲの謎",
+          "sales": 19245,
+          "seats": 56579,
+          "showtimes": 329,
+          "theaters": 149,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Flying in Saitama ~With Love from Lake Biwa~",
+          "japanese name": "翔んで埼玉 ～琵琶湖より愛をこめて～",
+          "sales": 18734,
+          "seats": 58786,
+          "showtimes": 380,
+          "theaters": 179,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Godzilla - 1.0",
+          "japanese name": "ゴジラ－１．０",
+          "sales": 18330,
+          "seats": 64529,
+          "showtimes": 425,
+          "theaters": 180,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Tot-chan by the Window\"",
+          "japanese name": "映画「窓ぎわのトットちゃん」",
+          "sales": 15565,
+          "seats": 66843,
+          "showtimes": 543,
+          "theaters": 171,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rajaa under the roof",
+          "japanese name": "屋根裏のラジャー",
+          "sales": 9909,
+          "seats": 183952,
+          "showtimes": 841,
+          "theaters": 180,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The youth boar doesn't dream of a landseer girl",
+          "japanese name": "青春ブタ野郎はランドセルガールの夢を見ない",
+          "sales": 6784,
+          "seats": 24288,
+          "showtimes": 144,
+          "theaters": 75,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Neck",
+          "japanese name": "首",
+          "sales": 5856,
+          "seats": 32630,
+          "showtimes": 263,
+          "theaters": 178,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hanshin Tigers THE MOVIE 2023 - Glory of ARE",
+          "japanese name": "阪神タイガースＴＨＥ ＭＯＶＩＥ２０２３－栄光のＡＲＥ－",
+          "sales": 5156,
+          "seats": 13940,
+          "showtimes": 59,
+          "theaters": 27,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Napoleon",
+          "japanese name": "ナポレオン",
+          "sales": 4373,
+          "seats": 21041,
+          "showtimes": 163,
+          "theaters": 151,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dramatic movie \"I Was Reincarnated as an Evil Lady Who Only Has a Flag of Doom in a Girl's Game...\"",
+          "japanese name": "劇場版「乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…」",
+          "sales": 3923,
+          "seats": 16732,
+          "showtimes": 127,
+          "theaters": 76,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Sumikko Gurashi: The Mysterious Factory of Tsubugahachi",
+          "japanese name": "映画 すみっコぐらし ツギハギ工場のふしぎなコ",
+          "sales": 3207,
+          "seats": 18883,
+          "showtimes": 131,
+          "theaters": 126,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SEVENTEEN TO TOUR FOLLOW TO JAPAN: LIVE VIEWING",
+          "japanese name": "ＳＥＶＥＮＴＥＥＮ ＴＯＵＲ ＦＯＬＬＯＷ ＴＯ ＪＡＰＡＮ：ＬＩＶＥ ＶＩＥＷＩＮＧ",
+          "sales": 3186,
+          "seats": 5751,
+          "showtimes": 81,
+          "theaters": 88,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Monster logging",
+          "japanese name": "怪物の木こり",
+          "sales": 3035,
+          "seats": 21340,
+          "showtimes": 172,
+          "theaters": 168,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "NCT NATION: To The World in Cinemas",
+          "japanese name": "ＮＣＴ ＮＡＴＩＯＮ：Ｔｏ Ｔｈｅ Ｗｏｒｌｄ ｉｎ Ｃｉｎｅｍａｓ",
+          "sales": 1860,
+          "seats": 11424,
+          "showtimes": 99,
+          "theaters": 66,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "How do you live?",
+          "japanese name": "君たちはどう生きるか",
+          "sales": 1584,
+          "seats": 18316,
+          "showtimes": 152,
+          "theaters": 160,
+          "rank": 19,
+          "last_week_ratio": 177.4
+        },
+        {
+          "moviename": "Dungeon Delious in Dungeon",
+          "japanese name": "ダンジョン飯 Ｄｅｌｉｃｉｏｕｓ ｉｎ Ｄｕｎｇｅｏｎ",
+          "sales": 1364,
+          "seats": 9691,
+          "showtimes": 64,
+          "theaters": 32,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ultraman Yamato: The Movie",
+          "japanese name": "宇宙戦艦ヤマト 劇場版",
+          "sales": 1350,
+          "seats": 4536,
+          "showtimes": 25,
+          "theaters": 25,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Exorcist: Those Who Believe",
+          "japanese name": "エクソシスト 信じる者",
+          "sales": 1088,
+          "seats": 8621,
+          "showtimes": 64,
+          "theaters": 134,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "City girl",
+          "japanese name": "市子",
+          "sales": 899,
+          "seats": 4018,
+          "showtimes": 29,
+          "theaters": 19,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nakajima Miyuki: Live History 2007–2016 – Song Journey: Meetings and Reunions",
+          "japanese name": "中島みゆき 劇場版 ライヴ・ヒストリー ２００７－２０１６ 歌旅～縁会～一会",
+          "sales": 865,
+          "seats": 11714,
+          "showtimes": 84,
+          "theaters": 59,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Til",
+          "japanese name": "ティル",
+          "sales": 717,
+          "seats": 4256,
+          "showtimes": 28,
+          "theaters": 12,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Wish",
+          "japanese name": "ウィッシュ",
+          "sales": 90282,
+          "seats": 485301,
+          "showtimes": 1688,
+          "theaters": 185,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "If I could meet you again on that hill where that flower blooms.",
+          "japanese name": "あの花が咲く丘で、君とまた出会えたら。",
+          "sales": 57475,
+          "seats": 139978,
+          "showtimes": 752,
+          "theaters": 170,
+          "rank": 2,
+          "last_week_ratio": 129.7
+        },
+        {
+          "moviename": "The beginning of Wonka and the Chocolate Factory",
+          "japanese name": "ウォンカとチョコレート工場のはじまり",
+          "sales": 43601,
+          "seats": 179978,
+          "showtimes": 998,
+          "theaters": 183,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pauly Patrol: The Mighty Movie",
+          "japanese name": "パウ・パトロール ザ・マイティ・ムービー",
+          "sales": 35738,
+          "seats": 97022,
+          "showtimes": 571,
+          "theaters": 121,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The birth of Gegege no Kitaro",
+          "japanese name": "鬼太郎誕生 ゲゲゲの謎",
+          "sales": 22610,
+          "seats": 71871,
+          "showtimes": 416,
+          "theaters": 149,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Godzilla - 1.0",
+          "japanese name": "ゴジラ－１．０",
+          "sales": 22131,
+          "seats": 85055,
+          "showtimes": 560,
+          "theaters": 180,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Flying Saitama ~With Love from Lake Biwa~",
+          "japanese name": "翔んで埼玉 ～琵琶湖より愛をこめて～",
+          "sales": 21595,
+          "seats": 74847,
+          "showtimes": 490,
+          "theaters": 179,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Tot-chan by the Window\"",
+          "japanese name": "映画「窓ぎわのトットちゃん」",
+          "sales": 16311,
+          "seats": 75832,
+          "showtimes": 616,
+          "theaters": 171,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rajeru in the Attic",
+          "japanese name": "屋根裏のラジャー",
+          "sales": 11292,
+          "seats": 226138,
+          "showtimes": 1041,
+          "theaters": 180,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Boys Over Flowers doesn't dream of a schoolbag girl",
+          "japanese name": "青春ブタ野郎はランドセルガールの夢を見ない",
+          "sales": 8707,
+          "seats": 33417,
+          "showtimes": 195,
+          "theaters": 75,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Neck",
+          "japanese name": "首",
+          "sales": 7094,
+          "seats": 42269,
+          "showtimes": 337,
+          "theaters": 178,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Osaka Tigers THE MOVIE 2023 - Glory of ARE -",
+          "japanese name": "阪神タイガースＴＨＥ ＭＯＶＩＥ２０２３－栄光のＡＲＥ－",
+          "sales": 6010,
+          "seats": 17458,
+          "showtimes": 75,
+          "theaters": 27,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Napoleon",
+          "japanese name": "ナポレオン",
+          "sales": 5320,
+          "seats": 28513,
+          "showtimes": 217,
+          "theaters": 151,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"I Was Reincarnated as an Evil Lady with Only a Girl's Game's Doom Flag...\"",
+          "japanese name": "劇場版「乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…」",
+          "sales": 4564,
+          "seats": 21906,
+          "showtimes": 166,
+          "theaters": 76,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Monster Woodcutter",
+          "japanese name": "怪物の木こり",
+          "sales": 3967,
+          "seats": 30280,
+          "showtimes": 247,
+          "theaters": 168,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Sumikko Gurashi: Tsubugahachi Factory's Wonderful Ko",
+          "japanese name": "映画 すみっコぐらし ツギハギ工場のふしぎなコ",
+          "sales": 3207,
+          "seats": 18883,
+          "showtimes": 131,
+          "theaters": 126,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SEVENTEEN TO TOUR IN JAPAN: LIVE VIEWING",
+          "japanese name": "ＳＥＶＥＮＴＥＥＮ ＴＯＵＲ ＦＯＬＬＯＷ ＴＯ ＪＡＰＡＮ：ＬＩＶＥ ＶＩＥＷＩＮＧ",
+          "sales": 3186,
+          "seats": 5751,
+          "showtimes": 81,
+          "theaters": 88,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "NC TATION: To The World in Cinemas",
+          "japanese name": "ＮＣＴ ＮＡＴＩＯＮ：Ｔｏ Ｔｈｅ Ｗｏｒｌｄ ｉｎ Ｃｉｎｅｍａｓ",
+          "sales": 2068,
+          "seats": 15060,
+          "showtimes": 126,
+          "theaters": 66,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Exorcist Believers",
+          "japanese name": "エクソシスト 信じる者",
+          "sales": 1941,
+          "seats": 17656,
+          "showtimes": 139,
+          "theaters": 134,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "How do you live?",
+          "japanese name": "君たちはどう生きるか",
+          "sales": 1724,
+          "seats": 19909,
+          "showtimes": 164,
+          "theaters": 160,
+          "rank": 20,
+          "last_week_ratio": 143.3
+        },
+        {
+          "moviename": "Dungeon Delicacies in Dungeon",
+          "japanese name": "ダンジョン飯 Ｄｅｌｉｃｉｏｕｓ ｉｎ Ｄｕｎｇｅｏｎ",
+          "sales": 1649,
+          "seats": 12905,
+          "showtimes": 84,
+          "theaters": 32,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Uchū Senkan Yamato: Kinenban",
+          "japanese name": "宇宙戦艦ヤマト 劇場版",
+          "sales": 1502,
+          "seats": 5213,
+          "showtimes": 29,
+          "theaters": 25,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shiho",
+          "japanese name": "市子",
+          "sales": 1037,
+          "seats": 5569,
+          "showtimes": 38,
+          "theaters": 19,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Midori Miyuki Theater Version Live History 2007-2016 Song Journey～Reunion～One Meeting",
+          "japanese name": "中島みゆき 劇場版 ライヴ・ヒストリー ２００７－２０１６ 歌旅～縁会～一会",
+          "sales": 944,
+          "seats": 12730,
+          "showtimes": 93,
+          "theaters": 59,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "「MY (K)NIGHT」Preceding Special Screening & Premium Event Live Viewing",
+          "japanese name": "「ＭＹ （Ｋ）ＮＩＧＨＴ マイナイト」先行特別上映＆プレミアムイベントライブビューイング",
+          "sales": 830,
+          "seats": 10212,
+          "showtimes": 71,
+          "theaters": 65,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

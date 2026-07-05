@@ -1,0 +1,993 @@
+{
+  "date": "02-04-2021",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Shin Evangelion剧场版",
+          "japanese name": "シン・エヴァンゲリオン劇場版",
+          "sales": 14334,
+          "seats": 172922,
+          "showtimes": 759,
+          "theaters": 277,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版Signal Long-term Unsolved Case Investigation Team",
+          "japanese name": "劇場版シグナル 長期未解決事件捜査班",
+          "sales": 11799,
+          "seats": 134549,
+          "showtimes": 610,
+          "theaters": 262,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tom and Jerry",
+          "japanese name": "トムとジェリー",
+          "sales": 8332,
+          "seats": 48607,
+          "showtimes": 455,
+          "theaters": 266,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Monster Hunter",
+          "japanese name": "映画モンスターハンター",
+          "sales": 6885,
+          "seats": 99992,
+          "showtimes": 686,
+          "theaters": 274,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 5744,
+          "seats": 78570,
+          "showtimes": 464,
+          "theaters": 276,
+          "rank": 5,
+          "last_week_ratio": 101.1
+        },
+        {
+          "moviename": "Madam, handle with care",
+          "japanese name": "奥様は、取り扱い注意",
+          "sales": 5235,
+          "seats": 50109,
+          "showtimes": 458,
+          "theaters": 265,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Deception's Fang",
+          "japanese name": "騙し絵の牙",
+          "sales": 3682,
+          "seats": 56129,
+          "showtimes": 481,
+          "theaters": 266,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Anisong Stars!! ES Music Garden Delay Viewing",
+          "japanese name": "あんさんぶるスターズ！！ ＥＳ Ｍｕｓｉｃ Ｇａｒｄｅｎ Ｄｅｌａｙ Ｖｉｅｗｉｎｇ",
+          "sales": 3286,
+          "seats": 24818,
+          "showtimes": 132,
+          "theaters": 80,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Healing Pretty Cure! Let's Go Go! Big Transformation!!",
+          "japanese name": "映画ヒーリングっど・プリキュア ゆめのまちでキュン！っとＧｏＧｏ！大変身！！",
+          "sales": 2834,
+          "seats": 45536,
+          "showtimes": 369,
+          "theaters": 186,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Brave - Azure War Chronicle -",
+          "japanese name": "ブレイブ－群青戦記－",
+          "sales": 2353,
+          "seats": 23282,
+          "showtimes": 218,
+          "theaters": 262,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fell in love like a bouquet",
+          "japanese name": "花束みたいな恋をした",
+          "sales": 2158,
+          "seats": 14889,
+          "showtimes": 115,
+          "theaters": 256,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Girls & Panzer: The Final Chapter Episode 3",
+          "japanese name": "ガールズ＆パンツァー 最終章 第３話",
+          "sales": 2020,
+          "seats": 25461,
+          "showtimes": 109,
+          "theaters": 50,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nomad Land",
+          "japanese name": "ノマドランド",
+          "sales": 1671,
+          "seats": 21140,
+          "showtimes": 180,
+          "theaters": 141,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Raya and the Last Dragon",
+          "japanese name": "ラーヤと龍の王国",
+          "sales": 1133,
+          "seats": 8708,
+          "showtimes": 93,
+          "theaters": 142,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Homunculus",
+          "japanese name": "ホムンクルス",
+          "sales": 1009,
+          "seats": 5875,
+          "showtimes": 36,
+          "theaters": 22,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rurouni Kenshin",
+          "japanese name": "るろうに剣心",
+          "sales": 866,
+          "seats": 6487,
+          "showtimes": 69,
+          "theaters": 144,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rurouni Kenshin: The Final Legend",
+          "japanese name": "るろうに剣心 伝説の最期編",
+          "sales": 669,
+          "seats": 3672,
+          "showtimes": 23,
+          "theaters": 39,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Naruto Shippuden: Naruto and the Flying Ship",
+          "japanese name": "映画しまじろう しまじろうと そらとぶふね",
+          "sales": 502,
+          "seats": 13539,
+          "showtimes": 106,
+          "theaters": 104,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Liar x Liar",
+          "japanese name": "ライアー×ライアー",
+          "sales": 486,
+          "seats": 4349,
+          "showtimes": 31,
+          "theaters": 72,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Minari",
+          "japanese name": "ミナリ",
+          "sales": 472,
+          "seats": 6247,
+          "showtimes": 56,
+          "theaters": 112,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Zero-One: Others, Kamen Rider Ex-Aid: The End of Infini-T",
+          "japanese name": "ゼロワン Ｏｔｈｅｒｓ 仮面ライダー滅亡迅雷",
+          "sales": 446,
+          "seats": 6346,
+          "showtimes": 43,
+          "theaters": 24,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: Crimson Detective",
+          "japanese name": "名探偵コナン 緋色の不在証明",
+          "sales": 390,
+          "seats": 4659,
+          "showtimes": 34,
+          "theaters": 111,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Suit Gundam: Char's Counterattack",
+          "japanese name": "機動戦士ガンダム 逆襲のシャア",
+          "sales": 239,
+          "seats": 2627,
+          "showtimes": 9,
+          "theaters": 7,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Midnight Swan",
+          "japanese name": "ミッドナイトスワン",
+          "sales": 236,
+          "seats": 2035,
+          "showtimes": 15,
+          "theaters": 18,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Shin Evangelion剧场版",
+          "japanese name": "シン・エヴァンゲリオン劇場版",
+          "sales": 25351,
+          "seats": 308707,
+          "showtimes": 1402,
+          "theaters": 277,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版Signal Long-term Unsolved Case Investigation Team",
+          "japanese name": "劇場版シグナル 長期未解決事件捜査班",
+          "sales": 19699,
+          "seats": 254745,
+          "showtimes": 1140,
+          "theaters": 262,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Monster Hunter",
+          "japanese name": "映画モンスターハンター",
+          "sales": 11054,
+          "seats": 177656,
+          "showtimes": 1207,
+          "theaters": 274,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tom and Jerry",
+          "japanese name": "トムとジェリー",
+          "sales": 10789,
+          "seats": 77289,
+          "showtimes": 714,
+          "theaters": 266,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 8819,
+          "seats": 138568,
+          "showtimes": 835,
+          "theaters": 276,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Madam, handle with care",
+          "japanese name": "奥様は、取り扱い注意",
+          "sales": 7926,
+          "seats": 88239,
+          "showtimes": 779,
+          "theaters": 265,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Deception's Fang",
+          "japanese name": "騙し絵の牙",
+          "sales": 5766,
+          "seats": 98624,
+          "showtimes": 838,
+          "theaters": 266,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Anisong Stars!! ES Music Garden Delay Viewing",
+          "japanese name": "あんさんぶるスターズ！！ ＥＳ Ｍｕｓｉｃ Ｇａｒｄｅｎ Ｄｅｌａｙ Ｖｉｅｗｉｎｇ",
+          "sales": 5580,
+          "seats": 42831,
+          "showtimes": 234,
+          "theaters": 80,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fell in love like a bouquet",
+          "japanese name": "花束みたいな恋をした",
+          "sales": 5580,
+          "seats": 40557,
+          "showtimes": 309,
+          "theaters": 256,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Brave - Azure War Chronicle -",
+          "japanese name": "ブレイブ－群青戦記－",
+          "sales": 4178,
+          "seats": 47577,
+          "showtimes": 436,
+          "theaters": 262,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Girls & Panzer: The Final Chapter Episode 3",
+          "japanese name": "ガールズ＆パンツァー 最終章 第３話",
+          "sales": 3863,
+          "seats": 45461,
+          "showtimes": 210,
+          "theaters": 50,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Healing Pretty Cure! Let's Go Go! Big Transformation!!",
+          "japanese name": "映画ヒーリングっど・プリキュア ゆめのまちでキュン！っとＧｏＧｏ！大変身！！",
+          "sales": 3212,
+          "seats": 52354,
+          "showtimes": 434,
+          "theaters": 186,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nomad Land",
+          "japanese name": "ノマドランド",
+          "sales": 2903,
+          "seats": 36456,
+          "showtimes": 314,
+          "theaters": 141,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rurouni Kenshin",
+          "japanese name": "るろうに剣心",
+          "sales": 2005,
+          "seats": 15826,
+          "showtimes": 172,
+          "theaters": 144,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Homunculus",
+          "japanese name": "ホムンクルス",
+          "sales": 1566,
+          "seats": 10378,
+          "showtimes": 60,
+          "theaters": 22,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Liar x Liar",
+          "japanese name": "ライアー×ライアー",
+          "sales": 1357,
+          "seats": 8603,
+          "showtimes": 71,
+          "theaters": 72,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rurouni Kenshin: The Final Legend",
+          "japanese name": "るろうに剣心 伝説の最期編",
+          "sales": 1311,
+          "seats": 9128,
+          "showtimes": 53,
+          "theaters": 39,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Raya and the Last Dragon",
+          "japanese name": "ラーヤと龍の王国",
+          "sales": 1143,
+          "seats": 14844,
+          "showtimes": 157,
+          "theaters": 142,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Minari",
+          "japanese name": "ミナリ",
+          "sales": 806,
+          "seats": 15304,
+          "showtimes": 135,
+          "theaters": 112,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: Crimson Detective",
+          "japanese name": "名探偵コナン 緋色の不在証明",
+          "sales": 760,
+          "seats": 11312,
+          "showtimes": 102,
+          "theaters": 111,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Zero-One: Others, Kamen Rider Ex-Aid: The End of Infini-T",
+          "japanese name": "ゼロワン Ｏｔｈｅｒｓ 仮面ライダー滅亡迅雷",
+          "sales": 717,
+          "seats": 10036,
+          "showtimes": 68,
+          "theaters": 24,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "You're not normal either",
+          "japanese name": "まともじゃないのは君も一緒",
+          "sales": 600,
+          "seats": 10437,
+          "showtimes": 82,
+          "theaters": 88,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Naruto Shippuden: Naruto and the Flying Ship",
+          "japanese name": "映画しまじろう しまじろうと そらとぶふね",
+          "sales": 512,
+          "seats": 13808,
+          "showtimes": 110,
+          "theaters": 104,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Girl Who Leapt Through Time",
+          "japanese name": "時をかける少女",
+          "sales": 485,
+          "seats": 3650,
+          "showtimes": 40,
+          "theaters": 38,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Shin Evangelion The Movie",
+          "japanese name": "シン・エヴァンゲリオン劇場版",
+          "sales": 469437,
+          "seats": 2951411,
+          "showtimes": 13145,
+          "theaters": 285,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Monster Hunter Movie",
+          "japanese name": "映画モンスターハンター",
+          "sales": 215416,
+          "seats": 2216677,
+          "showtimes": 11954,
+          "theaters": 282,
+          "rank": 2,
+          "last_week_ratio": 468.4
+        },
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 152128,
+          "seats": 1204737,
+          "showtimes": 7182,
+          "theaters": 283,
+          "rank": 3,
+          "last_week_ratio": 208.7
+        },
+        {
+          "moviename": "Madam, Handle with Care",
+          "japanese name": "奥様は、取り扱い注意",
+          "sales": 130085,
+          "seats": 917075,
+          "showtimes": 7802,
+          "theaters": 276,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tom and Jerry",
+          "japanese name": "トムとジェリー",
+          "sales": 126450,
+          "seats": 726642,
+          "showtimes": 6812,
+          "theaters": 276,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Fang of the Deception Painting",
+          "japanese name": "騙し絵の牙",
+          "sales": 120960,
+          "seats": 1365706,
+          "showtimes": 9134,
+          "theaters": 279,
+          "rank": 6,
+          "last_week_ratio": 631.4
+        },
+        {
+          "moviename": "Girls & Panzer: The Final Chapter Episode 3",
+          "japanese name": "ガールズ＆パンツァー 最終章 第３話",
+          "sales": 78180,
+          "seats": 535759,
+          "showtimes": 2270,
+          "theaters": 52,
+          "rank": 7,
+          "last_week_ratio": 215.2
+        },
+        {
+          "moviename": "Movie Healing☆Princess: In the Dream Town, Go Go! Great Transformation!!",
+          "japanese name": "映画ヒーリングっど・プリキュア ゆめのまちでキュン！っとＧｏＧｏ！大変身！！",
+          "sales": 76508,
+          "seats": 440021,
+          "showtimes": 3871,
+          "theaters": 197,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Falling in Love Like a Bouquet",
+          "japanese name": "花束みたいな恋をした",
+          "sales": 74701,
+          "seats": 305829,
+          "showtimes": 2632,
+          "theaters": 274,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Brave Blue War Chronicle",
+          "japanese name": "ブレイブ－群青戦記－",
+          "sales": 64791,
+          "seats": 502046,
+          "showtimes": 5162,
+          "theaters": 274,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nomadland",
+          "japanese name": "ノマドランド",
+          "sales": 46161,
+          "seats": 533923,
+          "showtimes": 4174,
+          "theaters": 146,
+          "rank": 11,
+          "last_week_ratio": 585
+        },
+        {
+          "moviename": "Signal the Movie: Long-Term Unsolved Case Squad",
+          "japanese name": "劇場版シグナル 長期未解決事件捜査班",
+          "sales": 25270,
+          "seats": 303971,
+          "showtimes": 1354,
+          "theaters": 262,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Liar × Liar",
+          "japanese name": "ライアー×ライアー",
+          "sales": 22415,
+          "seats": 88423,
+          "showtimes": 818,
+          "theaters": 128,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Layla and the Dragon's Kingdom",
+          "japanese name": "ラーヤと龍の王国",
+          "sales": 19753,
+          "seats": 121719,
+          "showtimes": 1384,
+          "theaters": 156,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Zero-One: Others, Kamen Rider Ex-Aid",
+          "japanese name": "ゼロワン Ｏｔｈｅｒｓ 仮面ライダー滅亡迅雷",
+          "sales": 18490,
+          "seats": 110484,
+          "showtimes": 670,
+          "theaters": 24,
+          "rank": 15,
+          "last_week_ratio": 309.9
+        },
+        {
+          "moviename": "Detective Conan: Red-Headed Detective's Absence Proof",
+          "japanese name": "名探偵コナン 緋色の不在証明",
+          "sales": 16779,
+          "seats": 117116,
+          "showtimes": 1076,
+          "theaters": 164,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Minari",
+          "japanese name": "ミナリ",
+          "sales": 15785,
+          "seats": 194428,
+          "showtimes": 1703,
+          "theaters": 119,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "You're Not Normal Either",
+          "japanese name": "まともじゃないのは君も一緒",
+          "sales": 11214,
+          "seats": 127620,
+          "showtimes": 1082,
+          "theaters": 104,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Fate/stay night Heaven's Feel Chapter 3 <Video Master Version>",
+          "japanese name": "劇場版 Ｆａｔｅ／ｓｔａｙ ｎｉｇｈｔ Ｈｅａｖｅｎｓ Ｆｅｅｌ 第三章 ＜ビデオマスター版＞",
+          "sales": 9326,
+          "seats": 85473,
+          "showtimes": 724,
+          "theaters": 85,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shimajiro the Movie: Shimajiro and the Boat that Flies in the Sky",
+          "japanese name": "映画しまじろう しまじろうと そらとぶふね",
+          "sales": 8895,
+          "seats": 111109,
+          "showtimes": 947,
+          "theaters": 116,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Thomas the Tank Engine: Chao! Fly and Sing Discovery!",
+          "japanese name": "映画 きかんしゃトーマス チャオ！とんでうたってディスカバリー！！",
+          "sales": 8411,
+          "seats": 230498,
+          "showtimes": 2746,
+          "theaters": 137,
+          "rank": 21,
+          "last_week_ratio": 1129
+        },
+        {
+          "moviename": "The Sun Does Not Move",
+          "japanese name": "太陽は動かない",
+          "sales": 8400,
+          "seats": 224122,
+          "showtimes": 2076,
+          "theaters": 267,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Anisong Stars!! ES Music Garden Delay Viewing",
+          "japanese name": "あんさんぶるスターズ！！ ＥＳ Ｍｕｓｉｃ Ｇａｒｄｅｎ Ｄｅｌａｙ Ｖｉｅｗｉｎｇ",
+          "sales": 6728,
+          "seats": 52205,
+          "showtimes": 288,
+          "theaters": 80,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Midnight Swan",
+          "japanese name": "ミッドナイトスワン",
+          "sales": 5410,
+          "seats": 16119,
+          "showtimes": 129,
+          "theaters": 20,
+          "rank": 24,
+          "last_week_ratio": 232
+        },
+        {
+          "moviename": "ARIA The CRESTfallen",
+          "japanese name": "ＡＲＩＡ Ｔｈｅ ＣＲＥＰＵＳＣＯＬＯ",
+          "sales": 5353,
+          "seats": 77482,
+          "showtimes": 465,
+          "theaters": 62,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shin Evangelion The Movie",
+          "japanese name": "シン・エヴァンゲリオン劇場版",
+          "sales": 33531,
+          "seats": 378839,
+          "showtimes": 1692,
+          "theaters": 277,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Signal the Movie: Long-Term Unsolved Case Squad",
+          "japanese name": "劇場版シグナル 長期未解決事件捜査班",
+          "sales": 25270,
+          "seats": 303971,
+          "showtimes": 1354,
+          "theaters": 262,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Monster Hunter Movie",
+          "japanese name": "映画モンスターハンター",
+          "sales": 14184,
+          "seats": 217906,
+          "showtimes": 1474,
+          "theaters": 274,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tom and Jerry",
+          "japanese name": "トムとジェリー",
+          "sales": 11007,
+          "seats": 82616,
+          "showtimes": 767,
+          "theaters": 266,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 10062,
+          "seats": 165868,
+          "showtimes": 1005,
+          "theaters": 276,
+          "rank": 5,
+          "last_week_ratio": 100.2
+        },
+        {
+          "moviename": "Madam, Handle with Care",
+          "japanese name": "奥様は、取り扱い注意",
+          "sales": 9540,
+          "seats": 108777,
+          "showtimes": 966,
+          "theaters": 265,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Fang of the Deception Painting",
+          "japanese name": "騙し絵の牙",
+          "sales": 7041,
+          "seats": 122088,
+          "showtimes": 1042,
+          "theaters": 266,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Anisong Stars!! ES Music Garden Delay Viewing",
+          "japanese name": "あんさんぶるスターズ！！ ＥＳ Ｍｕｓｉｃ Ｇａｒｄｅｎ Ｄｅｌａｙ Ｖｉｅｗｉｎｇ",
+          "sales": 6728,
+          "seats": 52205,
+          "showtimes": 288,
+          "theaters": 80,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Falling in Love Like a Bouquet",
+          "japanese name": "花束みたいな恋をした",
+          "sales": 6064,
+          "seats": 45525,
+          "showtimes": 354,
+          "theaters": 256,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Girls & Panzer: The Final Chapter Episode 3",
+          "japanese name": "ガールズ＆パンツァー 最終章 第３話",
+          "sales": 5934,
+          "seats": 57336,
+          "showtimes": 261,
+          "theaters": 50,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Brave Blue War Chronicle",
+          "japanese name": "ブレイブ－群青戦記－",
+          "sales": 4698,
+          "seats": 60390,
+          "showtimes": 559,
+          "theaters": 262,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nomadland",
+          "japanese name": "ノマドランド",
+          "sales": 3322,
+          "seats": 44800,
+          "showtimes": 388,
+          "theaters": 141,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Healing☆Princess: In the Dream Town, Go Go! Great Transformation!!",
+          "japanese name": "映画ヒーリングっど・プリキュア ゆめのまちでキュン！っとＧｏＧｏ！大変身！！",
+          "sales": 3227,
+          "seats": 52802,
+          "showtimes": 437,
+          "theaters": 186,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rurouni Kenshin",
+          "japanese name": "るろうに剣心",
+          "sales": 2192,
+          "seats": 17737,
+          "showtimes": 191,
+          "theaters": 144,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Homunculus",
+          "japanese name": "ホムンクルス",
+          "sales": 1912,
+          "seats": 13426,
+          "showtimes": 79,
+          "theaters": 22,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rurouni Kenshin: Legend of the Final Volume",
+          "japanese name": "るろうに剣心 伝説の最期編",
+          "sales": 1550,
+          "seats": 11271,
+          "showtimes": 68,
+          "theaters": 39,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Liar × Liar",
+          "japanese name": "ライアー×ライアー",
+          "sales": 1361,
+          "seats": 8695,
+          "showtimes": 72,
+          "theaters": 72,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Layla and the Dragon's Kingdom",
+          "japanese name": "ラーヤと龍の王国",
+          "sales": 1147,
+          "seats": 15382,
+          "showtimes": 163,
+          "theaters": 142,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Zero-One: Others, Kamen Rider Ex-Aid",
+          "japanese name": "ゼロワン Ｏｔｈｅｒｓ 仮面ライダー滅亡迅雷",
+          "sales": 900,
+          "seats": 12256,
+          "showtimes": 84,
+          "theaters": 24,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Minari",
+          "japanese name": "ミナリ",
+          "sales": 846,
+          "seats": 16665,
+          "showtimes": 149,
+          "theaters": 112,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: Red-Headed Detective's Absence Proof",
+          "japanese name": "名探偵コナン 緋色の不在証明",
+          "sales": 836,
+          "seats": 12583,
+          "showtimes": 117,
+          "theaters": 111,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "You're Not Normal Either",
+          "japanese name": "まともじゃないのは君も一緒",
+          "sales": 713,
+          "seats": 12358,
+          "showtimes": 97,
+          "theaters": 88,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Time-Traveling Girl",
+          "japanese name": "時をかける少女",
+          "sales": 682,
+          "seats": 5490,
+          "showtimes": 59,
+          "theaters": 38,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Suit Gundam: Char's Counterattack",
+          "japanese name": "機動戦士ガンダム 逆襲のシャア",
+          "sales": 540,
+          "seats": 5362,
+          "showtimes": 18,
+          "theaters": 7,
+          "rank": 24,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

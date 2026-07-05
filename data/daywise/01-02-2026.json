@@ -1,0 +1,783 @@
+{
+  "date": "01-02-2026",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Zootopia 2",
+          "japanese name": "ズートピア２",
+          "sales": 69202,
+          "seats": 156021,
+          "showtimes": 675,
+          "theaters": 276,
+          "rank": 1,
+          "last_week_ratio": 102.2
+        },
+        {
+          "moviename": "Mobile Suit Gundam: Flashy Hasshay the Witch of Circe",
+          "japanese name": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
+          "sales": 60176,
+          "seats": 284465,
+          "showtimes": 917,
+          "theaters": 276,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Guardian of the Kusunoki",
+          "japanese name": "クスノキの番人",
+          "sales": 18381,
+          "seats": 83220,
+          "showtimes": 547,
+          "theaters": 265,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 16573,
+          "seats": 41613,
+          "showtimes": 258,
+          "theaters": 258,
+          "rank": 4,
+          "last_week_ratio": 118.7
+        },
+        {
+          "moviename": "The Running Man",
+          "japanese name": "ランニング・マン",
+          "sales": 12453,
+          "seats": 86187,
+          "showtimes": 551,
+          "theaters": 271,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HELP/Revenge Island",
+          "japanese name": "ＨＥＬＰ／復讐島",
+          "sales": 8007,
+          "seats": 55043,
+          "showtimes": 419,
+          "theaters": 253,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Last Man –FIRST LOVE–",
+          "japanese name": "映画ラストマン －ＦＩＲＳＴ ＬＯＶＥ－",
+          "sales": 6424,
+          "seats": 19570,
+          "showtimes": 159,
+          "theaters": 250,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ariyoshi no Kabe Theater Version Improvised大河「Interesting Castle of the 18 People」",
+          "japanese name": "有吉の壁 劇場版アドリブ大河「面白城の１８人」",
+          "sales": 6201,
+          "seats": 9719,
+          "showtimes": 70,
+          "theaters": 100,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ultimate King Illustrated Guide～The Ultimate Battles～ Special Screening Soul's Cry!",
+          "japanese name": "最強王図鑑～Ｔｈｅ Ｕｌｔｉｍａｔｅ Ｂａｔｔｌｅｓ～ スペシャル上映 魂の叫び！",
+          "sales": 6090,
+          "seats": 30341,
+          "showtimes": 205,
+          "theaters": 113,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie version \"Chainsaw Man REZE chapter\"",
+          "japanese name": "劇場版「チェンソーマン レゼ篇」",
+          "sales": 5522,
+          "seats": 18595,
+          "showtimes": 127,
+          "theaters": 256,
+          "rank": 10,
+          "last_week_ratio": 217
+        },
+        {
+          "moviename": "Movie version \"Emergency Investigation Team THE FINAL\"",
+          "japanese name": "劇場版「緊急取調室 ＴＨＥ ＦＩＮＡＬ」",
+          "sales": 5262,
+          "seats": 20861,
+          "showtimes": 168,
+          "theaters": 254,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Avatar: Fire and Ash",
+          "japanese name": "アバター：ファイヤー・アンド・アッシュ",
+          "sales": 3298,
+          "seats": 13456,
+          "showtimes": 99,
+          "theaters": 254,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Five Nights at Freddy's 2",
+          "japanese name": "ファイブ・ナイツ・アット・フレディーズ２",
+          "sales": 2882,
+          "seats": 11960,
+          "showtimes": 99,
+          "theaters": 185,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "JOURNEY SHOW 2025 WHERE WE ARE IN TOKYO DOME",
+          "japanese name": "ＪＯ１ＤＥＲ ＳＨＯＷ ２０２５ ＷＨＥＲＥＶＥＲ ＷＥ ＡＲＥ ＩＮ ＴＯＫＹＯ ＤＯＭＥ",
+          "sales": 2837,
+          "seats": 26156,
+          "showtimes": 169,
+          "theaters": 102,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version Kimetsu no Yaiba: Infinite Castle Chapter 1 Reunion at Yabako",
+          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
+          "sales": 2797,
+          "seats": 10930,
+          "showtimes": 79,
+          "theaters": 257,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MERCY/AI Trial",
+          "japanese name": "ＭＥＲＣＹ／マーシー ＡＩ裁判",
+          "sales": 2758,
+          "seats": 27293,
+          "showtimes": 208,
+          "theaters": 261,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "White Snake: Floating Life The Red Thread of Fate That Circulates",
+          "japanese name": "白蛇：浮生 巡りめぐる運命の赤い糸",
+          "sales": 2495,
+          "seats": 12021,
+          "showtimes": 80,
+          "theaters": 82,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Glory's Back Home",
+          "japanese name": "栄光のバックホーム",
+          "sales": 2463,
+          "seats": 9522,
+          "showtimes": 77,
+          "theaters": 147,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fifty Years of Our Journey",
+          "japanese name": "五十年目の俺たちの旅",
+          "sales": 1787,
+          "seats": 9900,
+          "showtimes": 81,
+          "theaters": 89,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Panda Plan <Completion Screening Event>",
+          "japanese name": "パンダプラン＜完成上映イベント＞",
+          "sales": 1319,
+          "seats": 7012,
+          "showtimes": 52,
+          "theaters": 92,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New Interpretation: Bakumatsu Legends",
+          "japanese name": "新解釈・幕末伝",
+          "sales": 1294,
+          "seats": 9888,
+          "showtimes": 78,
+          "theaters": 246,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Girls & Panzer More Love Love Strategy! Act 2",
+          "japanese name": "ガールズ＆パンツァー もっとらぶらぶ作戦です！ 第２幕",
+          "sales": 1286,
+          "seats": 9196,
+          "showtimes": 64,
+          "theaters": 50,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Warfare Frontline of the Battlefield",
+          "japanese name": "ウォーフェア 戦地最前線",
+          "sales": 1237,
+          "seats": 12497,
+          "showtimes": 78,
+          "theaters": 241,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Downton Abbey / Grand Finale",
+          "japanese name": "ダウントン・アビー／グランドフィナーレ",
+          "sales": 994,
+          "seats": 3401,
+          "showtimes": 26,
+          "theaters": 55,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bomb",
+          "japanese name": "爆弾",
+          "sales": 885,
+          "seats": 2233,
+          "showtimes": 18,
+          "theaters": 67,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "2001: A Space Odyssey",
+          "japanese name": "２００１年宇宙の旅",
+          "sales": 721,
+          "seats": 2844,
+          "showtimes": 21,
+          "theaters": 24,
+          "rank": 34,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Mobile Suit Gundam: Flashing Hasshaye: The Witch of Kyllke",
+          "japanese name": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
+          "sales": 231373,
+          "seats": 1316962,
+          "showtimes": 4350,
+          "theaters": 277,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Zootopia 2",
+          "japanese name": "ズートピア２",
+          "sales": 183945,
+          "seats": 576410,
+          "showtimes": 2537,
+          "theaters": 277,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Guardian of the Kusunoki",
+          "japanese name": "クスノキの番人",
+          "sales": 52532,
+          "seats": 382098,
+          "showtimes": 2468,
+          "theaters": 265,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Running Man",
+          "japanese name": "ランニング・マン",
+          "sales": 44477,
+          "seats": 418230,
+          "showtimes": 2591,
+          "theaters": 271,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 32119,
+          "seats": 102397,
+          "showtimes": 625,
+          "theaters": 259,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Chainsaw Man: Reze Chapter\"",
+          "japanese name": "劇場版「チェンソーマン レゼ篇」",
+          "sales": 27099,
+          "seats": 105173,
+          "showtimes": 669,
+          "theaters": 257,
+          "rank": 6,
+          "last_week_ratio": 189.3
+        },
+        {
+          "moviename": "HELP/Revenge Island",
+          "japanese name": "ＨＥＬＰ／復讐島",
+          "sales": 26531,
+          "seats": 268604,
+          "showtimes": 2003,
+          "theaters": 253,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Last Man –FIRST LOVE–",
+          "japanese name": "映画ラストマン －ＦＩＲＳＴ ＬＯＶＥ－",
+          "sales": 18795,
+          "seats": 76842,
+          "showtimes": 595,
+          "theaters": 251,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ijichi's Wall Theatrical Version Ad-libbed大河 \"Interesting Castle of 18 People\"",
+          "japanese name": "有吉の壁 劇場版アドリブ大河「面白城の１８人」",
+          "sales": 16091,
+          "seats": 35543,
+          "showtimes": 250,
+          "theaters": 101,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Avatar: Fire and Ash",
+          "japanese name": "アバター：ファイヤー・アンド・アッシュ",
+          "sales": 12820,
+          "seats": 80665,
+          "showtimes": 579,
+          "theaters": 255,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version \"Emergency Investigation Team THE FINAL\"",
+          "japanese name": "劇場版「緊急取調室 ＴＨＥ ＦＩＮＡＬ」",
+          "sales": 12435,
+          "seats": 63898,
+          "showtimes": 502,
+          "theaters": 256,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Strongest King Illustrated Guide～The Ultimate Battles～ Special Screening The Call of the Soul!",
+          "japanese name": "最強王図鑑～Ｔｈｅ Ｕｌｔｉｍａｔｅ Ｂａｔｔｌｅｓ～ スペシャル上映 魂の叫び！",
+          "sales": 12156,
+          "seats": 82747,
+          "showtimes": 524,
+          "theaters": 113,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version Demon Slayer: Infinity Castle Arc Chapter 1 Yiduo Seat Returns",
+          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
+          "sales": 11941,
+          "seats": 71789,
+          "showtimes": 497,
+          "theaters": 258,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Five Nights at Freddy's 2",
+          "japanese name": "ファイブ・ナイツ・アット・フレディーズ２",
+          "sales": 11365,
+          "seats": 78903,
+          "showtimes": 625,
+          "theaters": 185,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "JO1DEER SHOW 2025 WHERE WE ARE IN TOKYO DOM",
+          "japanese name": "ＪＯ１ＤＥＲ ＳＨＯＷ ２０２５ ＷＨＥＲＥＶＥＲ ＷＥ ＡＲＥ ＩＮ ＴＯＫＹＯ ＤＯＭＥ",
+          "sales": 10781,
+          "seats": 125113,
+          "showtimes": 785,
+          "theaters": 102,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MERCY/MARCY AI Judge",
+          "japanese name": "ＭＥＲＣＹ／マーシー ＡＩ裁判",
+          "sales": 10678,
+          "seats": 144379,
+          "showtimes": 1107,
+          "theaters": 261,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "White Snake: The red thread of fate that circles through the floating life",
+          "japanese name": "白蛇：浮生 巡りめぐる運命の赤い糸",
+          "sales": 7791,
+          "seats": 56615,
+          "showtimes": 377,
+          "theaters": 82,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Glorious Back Home",
+          "japanese name": "栄光のバックホーム",
+          "sales": 7143,
+          "seats": 37363,
+          "showtimes": 293,
+          "theaters": 156,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New Interpretation of the Late Edo Era",
+          "japanese name": "新解釈・幕末伝",
+          "sales": 5568,
+          "seats": 61072,
+          "showtimes": 472,
+          "theaters": 246,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Girls & Panzer More Love Love Strategy! Act 2",
+          "japanese name": "ガールズ＆パンツァー もっとらぶらぶ作戦です！ 第２幕",
+          "sales": 5329,
+          "seats": 42020,
+          "showtimes": 280,
+          "theaters": 50,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Warfare Frontline of the Battlefield",
+          "japanese name": "ウォーフェア 戦地最前線",
+          "sales": 5218,
+          "seats": 75392,
+          "showtimes": 484,
+          "theaters": 244,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bomb",
+          "japanese name": "爆弾",
+          "sales": 4478,
+          "seats": 14656,
+          "showtimes": 124,
+          "theaters": 74,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pandaplan＜Completion Screening Event＞",
+          "japanese name": "パンダプラン＜完成上映イベント＞",
+          "sales": 3833,
+          "seats": 32640,
+          "showtimes": 244,
+          "theaters": 92,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版「进击的巨人」完结篇 THE LAST ATTACK",
+          "japanese name": "劇場版「進撃の巨人」完結編 ＴＨＥ ＬＡＳＴ ＡＴＴＡＣＫ",
+          "sales": 3575,
+          "seats": 7069,
+          "showtimes": 58,
+          "theaters": 30,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love Trial",
+          "japanese name": "恋愛裁判",
+          "sales": 3364,
+          "seats": 32871,
+          "showtimes": 280,
+          "theaters": 103,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Zootopia 2",
+          "japanese name": "ズートピア２",
+          "sales": 109238,
+          "seats": 292440,
+          "showtimes": 1274,
+          "theaters": 276,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Suit Gundam: Flashing Hasshaye: The Witch of Kyllke",
+          "japanese name": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
+          "sales": 105027,
+          "seats": 668903,
+          "showtimes": 2173,
+          "theaters": 276,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Guardian of the Kusunoki",
+          "japanese name": "クスノキの番人",
+          "sales": 26838,
+          "seats": 190010,
+          "showtimes": 1230,
+          "theaters": 265,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Running Man",
+          "japanese name": "ランニング・マン",
+          "sales": 22751,
+          "seats": 208752,
+          "showtimes": 1295,
+          "theaters": 271,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 18874,
+          "seats": 50595,
+          "showtimes": 310,
+          "theaters": 258,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HELP/Revenge Island",
+          "japanese name": "ＨＥＬＰ／復讐島",
+          "sales": 13694,
+          "seats": 133759,
+          "showtimes": 999,
+          "theaters": 253,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Chainsaw Man: Reze Chapter\"",
+          "japanese name": "劇場版「チェンソーマン レゼ篇」",
+          "sales": 12665,
+          "seats": 51817,
+          "showtimes": 331,
+          "theaters": 256,
+          "rank": 7,
+          "last_week_ratio": 170.8
+        },
+        {
+          "moviename": "Movie Last Man –FIRST LOVE–",
+          "japanese name": "映画ラストマン －ＦＩＲＳＴ ＬＯＶＥ－",
+          "sales": 10276,
+          "seats": 38853,
+          "showtimes": 299,
+          "theaters": 250,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ijichi's Wall Theatrical Version Ad-libbed大河 \"Interesting Castle of 18 People\"",
+          "japanese name": "有吉の壁 劇場版アドリブ大河「面白城の１８人」",
+          "sales": 9601,
+          "seats": 17468,
+          "showtimes": 123,
+          "theaters": 100,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Strongest King Illustrated Guide～The Ultimate Battles～ Special Screening The Call of the Soul!",
+          "japanese name": "最強王図鑑～Ｔｈｅ Ｕｌｔｉｍａｔｅ Ｂａｔｔｌｅｓ～ スペシャル上映 魂の叫び！",
+          "sales": 7131,
+          "seats": 39192,
+          "showtimes": 260,
+          "theaters": 113,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Avatar: Fire and Ash",
+          "japanese name": "アバター：ファイヤー・アンド・アッシュ",
+          "sales": 6920,
+          "seats": 40389,
+          "showtimes": 290,
+          "theaters": 254,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version \"Emergency Investigation Team THE FINAL\"",
+          "japanese name": "劇場版「緊急取調室 ＴＨＥ ＦＩＮＡＬ」",
+          "sales": 6909,
+          "seats": 31854,
+          "showtimes": 250,
+          "theaters": 254,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Five Nights at Freddy's 2",
+          "japanese name": "ファイブ・ナイツ・アット・フレディーズ２",
+          "sales": 6311,
+          "seats": 38875,
+          "showtimes": 313,
+          "theaters": 185,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version Demon Slayer: Infinity Castle Arc Chapter 1 Yiduo Seat Returns",
+          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
+          "sales": 6278,
+          "seats": 35036,
+          "showtimes": 248,
+          "theaters": 257,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MERCY/MARCY AI Judge",
+          "japanese name": "ＭＥＲＣＹ／マーシー ＡＩ裁判",
+          "sales": 5343,
+          "seats": 72161,
+          "showtimes": 553,
+          "theaters": 261,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "JO1DEER SHOW 2025 WHERE WE ARE IN TOKYO DOM",
+          "japanese name": "ＪＯ１ＤＥＲ ＳＨＯＷ ２０２５ ＷＨＥＲＥＶＥＲ ＷＥ ＡＲＥ ＩＮ ＴＯＫＹＯ ＤＯＭＥ",
+          "sales": 4781,
+          "seats": 62214,
+          "showtimes": 392,
+          "theaters": 102,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Glorious Back Home",
+          "japanese name": "栄光のバックホーム",
+          "sales": 4014,
+          "seats": 18816,
+          "showtimes": 147,
+          "theaters": 147,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "White Snake: The red thread of fate that circles through the floating life",
+          "japanese name": "白蛇：浮生 巡りめぐる運命の赤い糸",
+          "sales": 3928,
+          "seats": 27890,
+          "showtimes": 188,
+          "theaters": 82,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New Interpretation of the Late Edo Era",
+          "japanese name": "新解釈・幕末伝",
+          "sales": 2758,
+          "seats": 30969,
+          "showtimes": 236,
+          "theaters": 246,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Warfare Frontline of the Battlefield",
+          "japanese name": "ウォーフェア 戦地最前線",
+          "sales": 2537,
+          "seats": 36589,
+          "showtimes": 242,
+          "theaters": 241,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bomb",
+          "japanese name": "爆弾",
+          "sales": 2365,
+          "seats": 7585,
+          "showtimes": 64,
+          "theaters": 67,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pandaplan＜Completion Screening Event＞",
+          "japanese name": "パンダプラン＜完成上映イベント＞",
+          "sales": 2185,
+          "seats": 16124,
+          "showtimes": 122,
+          "theaters": 92,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Girls & Panzer More Love Love Strategy! Act 2",
+          "japanese name": "ガールズ＆パンツァー もっとらぶらぶ作戦です！ 第２幕",
+          "sales": 2091,
+          "seats": 20139,
+          "showtimes": 139,
+          "theaters": 50,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版「进击的巨人」完结篇 THE LAST ATTACK",
+          "japanese name": "劇場版「進撃の巨人」完結編 ＴＨＥ ＬＡＳＴ ＡＴＴＡＣＫ",
+          "sales": 1947,
+          "seats": 3630,
+          "showtimes": 29,
+          "theaters": 30,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fifty Years Later Our Journey",
+          "japanese name": "五十年目の俺たちの旅",
+          "sales": 1917,
+          "seats": 10741,
+          "showtimes": 88,
+          "theaters": 89,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}
