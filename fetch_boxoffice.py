@@ -2,6 +2,9 @@
 """
 Fetch box office data, process into movie‑slug, daywise (one file per date),
 and yearly index JSONs. Uses asyncio + aiohttp for fast concurrent fetching.
+
+Handles the fact that the "Final" entries in the API response are always for
+the previous day, while "2PM" and "7PM" entries are for the requested date.
 """
 
 import asyncio
@@ -198,22 +201,51 @@ async def fetch_date(session, date_str):
         logger.error(f"Error fetching {date_str}: {e}")
         return None
 
-async def process_date(date_str, data):
-    """Process a single day's JSON and update movie_store and collect daywise data."""
+def ensure_daywise_date(daywise_acc, date_obj):
+    """Ensure the daywise accumulator has an entry for the given date."""
+    date_str = format_date_str(date_obj)
+    if date_str not in daywise_acc:
+        daywise_acc[date_str] = {
+            "date": date_str,
+            "times": {t: [] for t in TIME_ORDER}
+        }
+    return date_str
+
+async def process_api_response(date_str, data, daywise_acc):
+    """
+    Process a single API response.
+    
+    - 2PM and 7PM entries are assigned to the requested date.
+    - Final entries are assigned to the previous day.
+    - Updates the movie store and the daywise accumulator.
+    """
     if not data or "entries" not in data:
-        return None
+        return
 
-    date_obj = datetime.strptime(date_str, "%Y-%m-%d")
-    formatted_date = date_obj.strftime("%d-%m-%Y")
-
-    # Structure: time_label -> list of movie entries
-    time_data = {time: [] for time in TIME_ORDER}
+    api_date = datetime.strptime(date_str, "%Y-%m-%d")
+    start_date = START_DATE.date()
+    today = datetime.today().date()
 
     for entry in data["entries"]:
         if not entry.get("include_independents", False):
             continue
+
         time_raw = entry.get("time")
         time_label = TIME_MAP.get(time_raw, "Final")
+
+        # Determine the actual date for these entries
+        if time_label == "Final":
+            actual_date = api_date - timedelta(days=1)
+        else:
+            actual_date = api_date
+
+        # Skip if the actual date is outside our desired range
+        if actual_date.date() < start_date or actual_date.date() > today:
+            continue
+
+        actual_date_str = format_date_str(actual_date)
+        # Ensure daywise entry exists
+        ensure_daywise_date(daywise_acc, actual_date)
 
         for movie in entry.get("data", []):
             movie_en = movie.get("movie_en") or movie["movie"]
@@ -225,13 +257,14 @@ async def process_date(date_str, data):
             rank = movie["rank"]
             last_week_ratio = movie.get("last_week_ratio")
 
-            slug, _ = await movie_store.get_or_create(movie_en, jp_name, date_obj)
+            # Get or create movie in store
+            slug, _ = await movie_store.get_or_create(movie_en, jp_name, actual_date)
             release_date = movie_store.get_release_date(slug)
 
-            # Add to movie's own entries
+            # Build entry for movie store
             entry_obj = {
                 "title": "Including Independents",
-                "date": formatted_date,
+                "date": actual_date_str,
                 "time": time_label,
                 "rank": rank,
                 "sales": sales,
@@ -239,11 +272,11 @@ async def process_date(date_str, data):
                 "showtimes": showtimes,
                 "theaters": theaters,
                 "last_week_ratio": last_week_ratio,
-                "day": week_day_string(release_date, date_obj)
+                "day": week_day_string(release_date, actual_date)
             }
             await movie_store.add_entry(slug, entry_obj)
 
-            # Add to daywise data for this date
+            # Add to daywise accumulator
             daywise_entry = {
                 "moviename": movie_en,
                 "japanese name": jp_name,
@@ -254,31 +287,30 @@ async def process_date(date_str, data):
                 "rank": rank,
                 "last_week_ratio": last_week_ratio
             }
-            time_data[time_label].append(daywise_entry)
+            daywise_acc[actual_date_str]["times"][time_label].append(daywise_entry)
 
-    # Build the daywise object for this date
-    times_list = [
-        {
-            "title": "Including Independents",
-            "time": time_label,
-            "data": time_data[time_label]
+async def write_daywise(daywise_acc):
+    """Write daywise files: one JSON per date from the accumulator."""
+    for date_str, daywise_obj in daywise_acc.items():
+        # Convert the times dict to the expected list format
+        times_list = [
+            {
+                "title": "Including Independents",
+                "time": time_label,
+                "data": daywise_obj["times"][time_label]
+            }
+            for time_label in TIME_ORDER
+        ]
+        # Remove entries with empty data? Keep them as empty lists.
+        file_data = {
+            "date": date_str,
+            "times": times_list
         }
-        for time_label in TIME_ORDER
-    ]
-
-    return {
-        "date": formatted_date,
-        "times": times_list
-    }
-
-async def write_daywise(daywise_collection):
-    """Write daywise files: one JSON per date."""
-    for date_str, daywise_obj in daywise_collection.items():
         filepath = DAYWISE_DIR / f"{date_str}.json"
         filepath.parent.mkdir(parents=True, exist_ok=True)
         try:
             async with aiofiles.open(filepath, 'w', encoding='utf-8') as f:
-                await f.write(json.dumps(daywise_obj, indent=2, ensure_ascii=False))
+                await f.write(json.dumps(file_data, indent=2, ensure_ascii=False))
         except Exception as e:
             logger.error(f"Failed to write {filepath}: {e}")
 
@@ -338,7 +370,7 @@ async def main(full_fetch=False):
         date_list.append(current.strftime("%Y-%m-%d"))
         current += timedelta(days=1)
 
-    daywise_collection = {}
+    daywise_acc = {}
 
     async with aiohttp.ClientSession() as session:
         tasks = [fetch_date(session, d) for d in date_list]
@@ -346,13 +378,11 @@ async def main(full_fetch=False):
 
         for date_str, data in zip(date_list, responses):
             if data:
-                daywise_obj = await process_date(date_str, data)
-                if daywise_obj:
-                    daywise_collection[date_str] = daywise_obj
+                await process_api_response(date_str, data, daywise_acc)
                 logger.info("Processed %s", date_str)
 
-    if daywise_collection:
-        await write_daywise(daywise_collection)
+    if daywise_acc:
+        await write_daywise(daywise_acc)
 
     await movie_store.flush()
     await build_yearly_index()
