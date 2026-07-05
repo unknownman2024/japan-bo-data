@@ -1,33 +1,28 @@
-name: Full Data Fetch
+name: Update Box Office Data
 
 on:
   schedule:
-    - cron: '0 2 1 * *'   # 1st of each month at 02:00 UTC
+    # IST 2PM = 08:30 UTC, 7PM = 13:30 UTC, 1AM = 19:30 UTC
+    - cron: '30 8 * * *'
+    - cron: '30 13 * * *'
+    - cron: '30 19 * * *'
   workflow_dispatch:
-    inputs:
-      confirm:
-        description: 'Confirm full fetch (type "yes")'
-        required: true
-        default: 'no'
 
 jobs:
-  full-fetch:
+  update:
     runs-on: ubuntu-latest
-    if: |
-      (github.event_name == 'schedule') ||
-      (github.event_name == 'workflow_dispatch' && github.event.inputs.confirm == 'yes')
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
       - run: pip install aiohttp aiofiles
-      - run: python fetch_boxoffice.py --full
+      - run: python fetch_boxoffice.py
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git pull --rebase origin main
           git add data/ database/ state.json
-          git diff --staged --quiet || git commit -m "Full data update $(date -I)"
+          git diff --staged --quiet || git commit -m "Automated data update $(date -I)"
           git push origin main
