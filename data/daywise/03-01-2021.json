@@ -1,0 +1,983 @@
+{
+  "date": "03-01-2021",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 75429,
+          "seats": 225191,
+          "showtimes": 981,
+          "theaters": 284,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New Interpretation: Romance of the Three Kingdoms",
+          "japanese name": "新解釈・三國志",
+          "sales": 34963,
+          "seats": 113059,
+          "showtimes": 669,
+          "theaters": 283,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 Pocket Monsters Coco",
+          "japanese name": "劇場版 ポケットモンスター ココ",
+          "sales": 31217,
+          "seats": 176339,
+          "showtimes": 954,
+          "theaters": 285,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "电影 恋爱中毒大作战",
+          "japanese name": "映画 えんとつ町のプペル",
+          "sales": 22644,
+          "seats": 102204,
+          "showtimes": 715,
+          "theaters": 264,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "约定的梦幻岛",
+          "japanese name": "約束のネバーランド",
+          "sales": 19267,
+          "seats": 74415,
+          "showtimes": 618,
+          "theaters": 281,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "STAND BY ME哆啦A梦2",
+          "japanese name": "ＳＴＡＮＤ ＢＹ ＭＥ ドラえもん ２",
+          "sales": 17312,
+          "seats": 55649,
+          "showtimes": 535,
+          "theaters": 284,
+          "rank": 6,
+          "last_week_ratio": 110.9
+        },
+        {
+          "moviename": "New Infection Peninsula Final Stage",
+          "japanese name": "新感染半島 ファイナル・ステージ",
+          "sales": 6747,
+          "seats": 68103,
+          "showtimes": 499,
+          "theaters": 227,
+          "rank": 7,
+          "last_week_ratio": 3307.4
+        },
+        {
+          "moviename": "Movie Version Kamen Rider Saber/Zero One",
+          "japanese name": "劇場版 仮面ライダーセイバー／ゼロワン",
+          "sales": 4277,
+          "seats": 45293,
+          "showtimes": 458,
+          "theaters": 268,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Outsider",
+          "japanese name": "天外者",
+          "sales": 3527,
+          "seats": 17590,
+          "showtimes": 165,
+          "theaters": 198,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wonder Woman 1984",
+          "japanese name": "ワンダーウーマン １９８４",
+          "sales": 2825,
+          "seats": 33820,
+          "showtimes": 299,
+          "theaters": 279,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TAKARAZUKA BOULEvard Musical - WELCOME TO TAKARAZUKA - Snow, Moon, and Flowers - \"PIGAERU\"",
+          "japanese name": "宝塚歌劇 月組東京宝塚劇場公演「ＷＥＬＣＯＭＥ ＴＯ ＴＡＫＡＲＡＺＵＫＡ－雪と月と花と－」「ピガー",
+          "sales": 2191,
+          "seats": 4447,
+          "showtimes": 62,
+          "theaters": 63,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Jose and Tigers and Fishes",
+          "japanese name": "ジョゼと虎と魚たち",
+          "sales": 2173,
+          "seats": 19111,
+          "showtimes": 163,
+          "theaters": 137,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HoneyWorks 10th Anniversary LIP×LIP",
+          "japanese name": "ＨｏｎｅｙＷｏｒｋｓ １０ｔｈ Ａｎｎｉｖｅｒｓａｒｙ ＬＩＰ×ＬＩＰ",
+          "sales": 1950,
+          "seats": 12595,
+          "showtimes": 97,
+          "theaters": 88,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Takeshita Kabuki ZERO 2020 The Movie",
+          "japanese name": "滝沢歌舞伎 ＺＥＲＯ ２０２０ Ｔｈｅ Ｍｏｖｉｅ",
+          "sales": 1839,
+          "seats": 9461,
+          "showtimes": 72,
+          "theaters": 162,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theater Edition Student Council Members",
+          "japanese name": "劇場版 生徒会役員共",
+          "sales": 881,
+          "seats": 7811,
+          "showtimes": 40,
+          "theaters": 18,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Burn, Devilman Crybaby - TOKYO MISSION",
+          "japanese name": "燃えよデブゴン ＴＯＫＹＯ ＭＩＳＳＩＯＮ",
+          "sales": 817,
+          "seats": 12613,
+          "showtimes": 108,
+          "theaters": 61,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Unknown",
+          "japanese name": "不明",
+          "sales": 717,
+          "seats": 752,
+          "showtimes": 2,
+          "theaters": 2,
+          "rank": 17,
+          "last_week_ratio": 618.1
+        },
+        {
+          "moviename": "The Legend of Luo Xiaohei: My Choice for the Future",
+          "japanese name": "羅小黒戦記 ぼくが選ぶ未来",
+          "sales": 585,
+          "seats": 3050,
+          "showtimes": 16,
+          "theaters": 26,
+          "rank": 18,
+          "last_week_ratio": 103.9
+        },
+        {
+          "moviename": "Theater Edition Fate/Grand Order Camelot Holy Round Table - Part 1",
+          "japanese name": "劇場版 Ｆａｔｅ／Ｇｒａｎｄ Ｏｒｄｅｒ 神聖円卓領域キャメロット 前編",
+          "sales": 546,
+          "seats": 5013,
+          "showtimes": 39,
+          "theaters": 144,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Special Screening Version World Trigger Season 2nd",
+          "japanese name": "特別上映版 ワールドトリガー ２ｎｄシーズン",
+          "sales": 527,
+          "seats": 2737,
+          "showtimes": 16,
+          "theaters": 13,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Great Comment Scandal",
+          "japanese name": "大コメ騒動",
+          "sales": 491,
+          "seats": 2178,
+          "showtimes": 8,
+          "theaters": 3,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Swallow/Swallow",
+          "japanese name": "Ｓｗａｌｌｏｗ／スワロウ",
+          "sales": 241,
+          "seats": 1053,
+          "showtimes": 7,
+          "theaters": 5,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Full of Witches",
+          "japanese name": "魔女がいっぱい",
+          "sales": 225,
+          "seats": 1340,
+          "showtimes": 13,
+          "theaters": 46,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Silent Tokyo",
+          "japanese name": "サイレント・トーキョー",
+          "sales": 215,
+          "seats": 4030,
+          "showtimes": 32,
+          "theaters": 225,
+          "rank": 24,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 128704,
+          "seats": 421131,
+          "showtimes": 1816,
+          "theaters": 284,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New Interpretation: Romance of the Three Kingdoms",
+          "japanese name": "新解釈・三國志",
+          "sales": 61136,
+          "seats": 211903,
+          "showtimes": 1243,
+          "theaters": 283,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 Pocket Monsters Coco",
+          "japanese name": "劇場版 ポケットモンスター ココ",
+          "sales": 41812,
+          "seats": 287288,
+          "showtimes": 1559,
+          "theaters": 285,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "电影 恋爱中毒大作战",
+          "japanese name": "映画 えんとつ町のプペル",
+          "sales": 37910,
+          "seats": 172343,
+          "showtimes": 1198,
+          "theaters": 264,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "约定的梦幻岛",
+          "japanese name": "約束のネバーランド",
+          "sales": 34343,
+          "seats": 137774,
+          "showtimes": 1131,
+          "theaters": 281,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "STAND BY ME哆啦A梦2",
+          "japanese name": "ＳＴＡＮＤ ＢＹ ＭＥ ドラえもん ２",
+          "sales": 25394,
+          "seats": 82016,
+          "showtimes": 784,
+          "theaters": 284,
+          "rank": 6,
+          "last_week_ratio": 105.9
+        },
+        {
+          "moviename": "New Infection Peninsula Final Stage",
+          "japanese name": "新感染半島 ファイナル・ステージ",
+          "sales": 13019,
+          "seats": 126493,
+          "showtimes": 912,
+          "theaters": 227,
+          "rank": 7,
+          "last_week_ratio": 3137.1
+        },
+        {
+          "moviename": "Outsider",
+          "japanese name": "天外者",
+          "sales": 5955,
+          "seats": 31365,
+          "showtimes": 297,
+          "theaters": 198,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wonder Woman 1984",
+          "japanese name": "ワンダーウーマン １９８４",
+          "sales": 5949,
+          "seats": 72142,
+          "showtimes": 627,
+          "theaters": 279,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version Kamen Rider Saber/Zero One",
+          "japanese name": "劇場版 仮面ライダーセイバー／ゼロワン",
+          "sales": 5563,
+          "seats": 62844,
+          "showtimes": 642,
+          "theaters": 268,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Jose and Tigers and Fishes",
+          "japanese name": "ジョゼと虎と魚たち",
+          "sales": 4417,
+          "seats": 36454,
+          "showtimes": 312,
+          "theaters": 137,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Takeshita Kabuki ZERO 2020 The Movie",
+          "japanese name": "滝沢歌舞伎 ＺＥＲＯ ２０２０ Ｔｈｅ Ｍｏｖｉｅ",
+          "sales": 3757,
+          "seats": 24220,
+          "showtimes": 182,
+          "theaters": 162,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HoneyWorks 10th Anniversary LIP×LIP",
+          "japanese name": "ＨｏｎｅｙＷｏｒｋｓ １０ｔｈ Ａｎｎｉｖｅｒｓａｒｙ ＬＩＰ×ＬＩＰ",
+          "sales": 2970,
+          "seats": 21250,
+          "showtimes": 177,
+          "theaters": 88,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TAKARAZUKA BOULEvard Musical - WELCOME TO TAKARAZUKA - Snow, Moon, and Flowers - \"PIGAERU\"",
+          "japanese name": "宝塚歌劇 月組東京宝塚劇場公演「ＷＥＬＣＯＭＥ ＴＯ ＴＡＫＡＲＡＺＵＫＡ－雪と月と花と－」「ピガー",
+          "sales": 2191,
+          "seats": 4447,
+          "showtimes": 62,
+          "theaters": 63,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theater Edition Fate/Grand Order Camelot Holy Round Table - Part 1",
+          "japanese name": "劇場版 Ｆａｔｅ／Ｇｒａｎｄ Ｏｒｄｅｒ 神聖円卓領域キャメロット 前編",
+          "sales": 1741,
+          "seats": 14993,
+          "showtimes": 120,
+          "theaters": 144,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theater Edition Student Council Members",
+          "japanese name": "劇場版 生徒会役員共",
+          "sales": 1496,
+          "seats": 14850,
+          "showtimes": 75,
+          "theaters": 18,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Burn, Devilman Crybaby - TOKYO MISSION",
+          "japanese name": "燃えよデブゴン ＴＯＫＹＯ ＭＩＳＳＩＯＮ",
+          "sales": 1114,
+          "seats": 22007,
+          "showtimes": 185,
+          "theaters": 61,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Legend of Luo Xiaohei: My Choice for the Future",
+          "japanese name": "羅小黒戦記 ぼくが選ぶ未来",
+          "sales": 1056,
+          "seats": 6184,
+          "showtimes": 34,
+          "theaters": 26,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Unknown",
+          "japanese name": "不明",
+          "sales": 918,
+          "seats": 948,
+          "showtimes": 3,
+          "theaters": 2,
+          "rank": 19,
+          "last_week_ratio": 628.8
+        },
+        {
+          "moviename": "Silent Tokyo",
+          "japanese name": "サイレント・トーキョー",
+          "sales": 880,
+          "seats": 12815,
+          "showtimes": 115,
+          "theaters": 225,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Special Screening Version World Trigger Season 2nd",
+          "japanese name": "特別上映版 ワールドトリガー ２ｎｄシーズン",
+          "sales": 879,
+          "seats": 5232,
+          "showtimes": 28,
+          "theaters": 13,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Great Comment Scandal",
+          "japanese name": "大コメ騒動",
+          "sales": 636,
+          "seats": 3580,
+          "showtimes": 13,
+          "theaters": 3,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 Violet Evergarden",
+          "japanese name": "劇場版 ヴァイオレット・エヴァーガーデン",
+          "sales": 536,
+          "seats": 1672,
+          "showtimes": 8,
+          "theaters": 8,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Full of Witches",
+          "japanese name": "魔女がいっぱい",
+          "sales": 422,
+          "seats": 3680,
+          "showtimes": 32,
+          "theaters": 46,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 295747,
+          "seats": 1060334,
+          "showtimes": 4593,
+          "theaters": 284,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New Interpretation: Three Kingdoms",
+          "japanese name": "新解釈・三國志",
+          "sales": 133704,
+          "seats": 538369,
+          "showtimes": 3145,
+          "theaters": 283,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Enchanted Town of Puppets",
+          "japanese name": "映画 えんとつ町のプペル",
+          "sales": 81802,
+          "seats": 429124,
+          "showtimes": 2981,
+          "theaters": 264,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pocket Monsters: Koko (Movie)",
+          "japanese name": "劇場版 ポケットモンスター ココ",
+          "sales": 79089,
+          "seats": 622737,
+          "showtimes": 3405,
+          "theaters": 285,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Promised Neverland",
+          "japanese name": "約束のネバーランド",
+          "sales": 68573,
+          "seats": 350767,
+          "showtimes": 2864,
+          "theaters": 281,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "STAND BY ME Doraemon 2",
+          "japanese name": "ＳＴＡＮＤ ＢＹ ＭＥ ドラえもん ２",
+          "sales": 47444,
+          "seats": 173673,
+          "showtimes": 1665,
+          "theaters": 284,
+          "rank": 6,
+          "last_week_ratio": 113.2
+        },
+        {
+          "moviename": "New Infection Peninsula Final Stage",
+          "japanese name": "新感染半島 ファイナル・ステージ",
+          "sales": 31101,
+          "seats": 333300,
+          "showtimes": 2329,
+          "theaters": 227,
+          "rank": 7,
+          "last_week_ratio": 3061.1
+        },
+        {
+          "moviename": "Wonder Woman 1984",
+          "japanese name": "ワンダーウーマン １９８４",
+          "sales": 14509,
+          "seats": 207057,
+          "showtimes": 1817,
+          "theaters": 279,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Outsider",
+          "japanese name": "天外者",
+          "sales": 12025,
+          "seats": 73651,
+          "showtimes": 693,
+          "theaters": 199,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 假面骑士Ex-Aid/Zero-One",
+          "japanese name": "劇場版 仮面ライダーセイバー／ゼロワン",
+          "sales": 10670,
+          "seats": 129192,
+          "showtimes": 1321,
+          "theaters": 268,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Jose and the Tiger and the Fishes",
+          "japanese name": "ジョゼと虎と魚たち",
+          "sales": 9161,
+          "seats": 102055,
+          "showtimes": 886,
+          "theaters": 137,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Takeshita Kabuki ZERO 2020 The Movie",
+          "japanese name": "滝沢歌舞伎 ＺＥＲＯ ２０２０ Ｔｈｅ Ｍｏｖｉｅ",
+          "sales": 7533,
+          "seats": 56622,
+          "showtimes": 426,
+          "theaters": 162,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HoneyWorks 10th Anniversary LIPEXLIPE",
+          "japanese name": "ＨｏｎｅｙＷｏｒｋｓ １０ｔｈ Ａｎｎｉｖｅｒｓａｒｙ ＬＩＰ×ＬＩＰ",
+          "sales": 6312,
+          "seats": 55900,
+          "showtimes": 464,
+          "theaters": 88,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Fate/Grand Order: The Round Table Realm Camelot - Part 1",
+          "japanese name": "劇場版 Ｆａｔｅ／Ｇｒａｎｄ Ｏｒｄｅｒ 神聖円卓領域キャメロット 前編",
+          "sales": 5417,
+          "seats": 47181,
+          "showtimes": 364,
+          "theaters": 144,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Student Council President",
+          "japanese name": "劇場版 生徒会役員共",
+          "sales": 3659,
+          "seats": 41337,
+          "showtimes": 197,
+          "theaters": 18,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Burn! Debゴン TOKYO MISSION",
+          "japanese name": "燃えよデブゴン ＴＯＫＹＯ ＭＩＳＳＩＯＮ",
+          "sales": 2996,
+          "seats": 61178,
+          "showtimes": 498,
+          "theaters": 61,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Silent Tokyo",
+          "japanese name": "サイレント・トーキョー",
+          "sales": 2371,
+          "seats": 52406,
+          "showtimes": 465,
+          "theaters": 226,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Legend of Luo Xiaohei: My Choice for the Future",
+          "japanese name": "羅小黒戦記 ぼくが選ぶ未来",
+          "sales": 2263,
+          "seats": 14308,
+          "showtimes": 83,
+          "theaters": 26,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tosho-ku Opera - Tokyo Toshoku Theater Performance: \"WELCOME TO TAKARAZUKA - Snow, Moon, and Flower -\" and \"Pigeon\"",
+          "japanese name": "宝塚歌劇 月組東京宝塚劇場公演「ＷＥＬＣＯＭＥ ＴＯ ＴＡＫＡＲＡＺＵＫＡ－雪と月と花と－」「ピガー",
+          "sales": 2191,
+          "seats": 4447,
+          "showtimes": 62,
+          "theaters": 63,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Special Screening: World Trigger Season 2nd",
+          "japanese name": "特別上映版 ワールドトリガー ２ｎｄシーズン",
+          "sales": 1925,
+          "seats": 12135,
+          "showtimes": 69,
+          "theaters": 13,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Unknown",
+          "japanese name": "不明",
+          "sales": 1752,
+          "seats": 1947,
+          "showtimes": 6,
+          "theaters": 3,
+          "rank": 21,
+          "last_week_ratio": 1200
+        },
+        {
+          "moviename": "The Great Comment Scandal",
+          "japanese name": "大コメ騒動",
+          "sales": 1478,
+          "seats": 8394,
+          "showtimes": 32,
+          "theaters": 3,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "AWAKE",
+          "japanese name": "ＡＷＡＫＥ",
+          "sales": 1257,
+          "seats": 16797,
+          "showtimes": 136,
+          "theaters": 26,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Witches everywhere",
+          "japanese name": "魔女がいっぱい",
+          "sales": 1192,
+          "seats": 12147,
+          "showtimes": 101,
+          "theaters": 46,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 142641,
+          "seats": 527295,
+          "showtimes": 2277,
+          "theaters": 284,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New Interpretation: Three Kingdoms",
+          "japanese name": "新解釈・三國志",
+          "sales": 65649,
+          "seats": 267736,
+          "showtimes": 1558,
+          "theaters": 283,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pocket Monsters: Koko (Movie)",
+          "japanese name": "劇場版 ポケットモンスター ココ",
+          "sales": 42111,
+          "seats": 309780,
+          "showtimes": 1691,
+          "theaters": 285,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Enchanted Town of Puppets",
+          "japanese name": "映画 えんとつ町のプペル",
+          "sales": 41085,
+          "seats": 213535,
+          "showtimes": 1470,
+          "theaters": 264,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Promised Neverland",
+          "japanese name": "約束のネバーランド",
+          "sales": 36726,
+          "seats": 173756,
+          "showtimes": 1418,
+          "theaters": 281,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "STAND BY ME Doraemon 2",
+          "japanese name": "ＳＴＡＮＤ ＢＹ ＭＥ ドラえもん ２",
+          "sales": 25569,
+          "seats": 86077,
+          "showtimes": 822,
+          "theaters": 284,
+          "rank": 6,
+          "last_week_ratio": 105
+        },
+        {
+          "moviename": "New Infection Peninsula Final Stage",
+          "japanese name": "新感染半島 ファイナル・ステージ",
+          "sales": 14832,
+          "seats": 165456,
+          "showtimes": 1156,
+          "theaters": 227,
+          "rank": 7,
+          "last_week_ratio": 3303.3
+        },
+        {
+          "moviename": "Wonder Woman 1984",
+          "japanese name": "ワンダーウーマン １９８４",
+          "sales": 6807,
+          "seats": 103412,
+          "showtimes": 904,
+          "theaters": 279,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Outsider",
+          "japanese name": "天外者",
+          "sales": 6148,
+          "seats": 35815,
+          "showtimes": 339,
+          "theaters": 198,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 假面骑士Ex-Aid/Zero-One",
+          "japanese name": "劇場版 仮面ライダーセイバー／ゼロワン",
+          "sales": 5541,
+          "seats": 64553,
+          "showtimes": 656,
+          "theaters": 268,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Jose and the Tiger and the Fishes",
+          "japanese name": "ジョゼと虎と魚たち",
+          "sales": 5054,
+          "seats": 50626,
+          "showtimes": 439,
+          "theaters": 137,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Takeshita Kabuki ZERO 2020 The Movie",
+          "japanese name": "滝沢歌舞伎 ＺＥＲＯ ２０２０ Ｔｈｅ Ｍｏｖｉｅ",
+          "sales": 3926,
+          "seats": 27851,
+          "showtimes": 211,
+          "theaters": 162,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HoneyWorks 10th Anniversary LIPEXLIPE",
+          "japanese name": "ＨｏｎｅｙＷｏｒｋｓ １０ｔｈ Ａｎｎｉｖｅｒｓａｒｙ ＬＩＰ×ＬＩＰ",
+          "sales": 3263,
+          "seats": 27732,
+          "showtimes": 228,
+          "theaters": 88,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Fate/Grand Order: The Round Table Realm Camelot - Part 1",
+          "japanese name": "劇場版 Ｆａｔｅ／Ｇｒａｎｄ Ｏｒｄｅｒ 神聖円卓領域キャメロット 前編",
+          "sales": 2295,
+          "seats": 23522,
+          "showtimes": 182,
+          "theaters": 144,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tosho-ku Opera - Tokyo Toshoku Theater Performance: \"WELCOME TO TAKARAZUKA - Snow, Moon, and Flower -\" and \"Pigeon\"",
+          "japanese name": "宝塚歌劇 月組東京宝塚劇場公演「ＷＥＬＣＯＭＥ ＴＯ ＴＡＫＡＲＡＺＵＫＡ－雪と月と花と－」「ピガー",
+          "sales": 2191,
+          "seats": 4447,
+          "showtimes": 62,
+          "theaters": 63,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Student Council President",
+          "japanese name": "劇場版 生徒会役員共",
+          "sales": 1707,
+          "seats": 20417,
+          "showtimes": 98,
+          "theaters": 18,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Burn! Debゴン TOKYO MISSION",
+          "japanese name": "燃えよデブゴン ＴＯＫＹＯ ＭＩＳＳＩＯＮ",
+          "sales": 1254,
+          "seats": 30001,
+          "showtimes": 245,
+          "theaters": 61,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Legend of Luo Xiaohei: My Choice for the Future",
+          "japanese name": "羅小黒戦記 ぼくが選ぶ未来",
+          "sales": 1137,
+          "seats": 7232,
+          "showtimes": 42,
+          "theaters": 26,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Silent Tokyo",
+          "japanese name": "サイレント・トーキョー",
+          "sales": 1131,
+          "seats": 26078,
+          "showtimes": 231,
+          "theaters": 225,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Unknown",
+          "japanese name": "不明",
+          "sales": 1109,
+          "seats": 1144,
+          "showtimes": 4,
+          "theaters": 2,
+          "rank": 20,
+          "last_week_ratio": 759.6
+        },
+        {
+          "moviename": "Special Screening: World Trigger Season 2nd",
+          "japanese name": "特別上映版 ワールドトリガー ２ｎｄシーズン",
+          "sales": 958,
+          "seats": 6353,
+          "showtimes": 34,
+          "theaters": 13,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Great Comment Scandal",
+          "japanese name": "大コメ騒動",
+          "sales": 618,
+          "seats": 4197,
+          "showtimes": 16,
+          "theaters": 3,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 Violet Evergarden",
+          "japanese name": "劇場版 ヴァイオレット・エヴァーガーデン",
+          "sales": 561,
+          "seats": 2027,
+          "showtimes": 10,
+          "theaters": 8,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Witches everywhere",
+          "japanese name": "魔女がいっぱい",
+          "sales": 539,
+          "seats": 6005,
+          "showtimes": 50,
+          "theaters": 46,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

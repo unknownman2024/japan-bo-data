@@ -1,0 +1,773 @@
+{
+  "date": "09-09-2021",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "The Legend of Shan Chi / Ten Rings",
+          "japanese name": "シャン・チー／テン・リングスの伝説",
+          "sales": 12193,
+          "seats": 116576,
+          "showtimes": 729,
+          "theaters": 291,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "科捜研の女 -The Movie-",
+          "japanese name": "科捜研の女 －劇場版－",
+          "sales": 10891,
+          "seats": 69857,
+          "showtimes": 441,
+          "theaters": 173,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE World Heroes Mission",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ワールド ヒーローズ ミッション",
+          "sales": 6221,
+          "seats": 46420,
+          "showtimes": 459,
+          "theaters": 273,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dragon and the Freckle Princess",
+          "japanese name": "竜とそばかすの姫",
+          "sales": 6207,
+          "seats": 41886,
+          "showtimes": 359,
+          "theaters": 291,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The dove's eviction method",
+          "japanese name": "鳩の撃退法",
+          "sales": 4933,
+          "seats": 39016,
+          "showtimes": 468,
+          "theaters": 280,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kaguya-sama: Love Is War～The Love Brain Battle of the Geniuses～Final",
+          "japanese name": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～ファイナル",
+          "sales": 4630,
+          "seats": 37019,
+          "showtimes": 432,
+          "theaters": 272,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wild Speed Jet Break",
+          "japanese name": "ワイルド・スピード ジェット・ブレイク",
+          "sales": 4536,
+          "seats": 26335,
+          "showtimes": 259,
+          "theaters": 285,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Lone Wolf Blood LEVEL 2",
+          "japanese name": "孤狼の血 ＬＥＶＥＬ２",
+          "sales": 4124,
+          "seats": 24279,
+          "showtimes": 271,
+          "theaters": 258,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Old",
+          "japanese name": "オールド",
+          "sales": 4031,
+          "seats": 19412,
+          "showtimes": 235,
+          "theaters": 191,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Aya and the Witch",
+          "japanese name": "アーヤと魔女",
+          "sales": 3807,
+          "seats": 43648,
+          "showtimes": 491,
+          "theaters": 290,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Witnesses in Montana",
+          "japanese name": "モンタナの目撃者",
+          "sales": 3473,
+          "seats": 25049,
+          "showtimes": 273,
+          "theaters": 162,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ryoma! The Prince of Tennis New Stage Version The Prince of Tennis",
+          "japanese name": "リョーマ！Ｔｈｅ Ｐｒｉｎｃｅ ｏｆ Ｔｅｎｎｉｓ 新生劇場版テニスの王子様",
+          "sales": 2924,
+          "seats": 49121,
+          "showtimes": 346,
+          "theaters": 151,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tokyo Avengers",
+          "japanese name": "東京リベンジャーズ",
+          "sales": 2600,
+          "seats": 13672,
+          "showtimes": 161,
+          "theaters": 275,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "God of Cinema",
+          "japanese name": "キネマの神様",
+          "sales": 2231,
+          "seats": 13762,
+          "showtimes": 188,
+          "theaters": 222,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Crayon Shin-chan The Mysterious! Flower of the Sky School",
+          "japanese name": "映画クレヨンしんちゃん  謎メキ！花の天カス学園",
+          "sales": 1928,
+          "seats": 21118,
+          "showtimes": 243,
+          "theaters": 247,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Paw Patrol: The Movie",
+          "japanese name": "パウ・パトロール ザ・ムービー",
+          "sales": 1742,
+          "seats": 21899,
+          "showtimes": 252,
+          "theaters": 184,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Free Guy",
+          "japanese name": "フリー・ガイ",
+          "sales": 1515,
+          "seats": 8333,
+          "showtimes": 97,
+          "theaters": 244,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Giant Monster War Guardians",
+          "japanese name": "妖怪大戦争 ガーディアンズ",
+          "sales": 1241,
+          "seats": 14878,
+          "showtimes": 200,
+          "theaters": 268,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Space Players",
+          "japanese name": "スペース・プレイヤーズ",
+          "sales": 1185,
+          "seats": 10179,
+          "showtimes": 154,
+          "theaters": 181,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dream Interpretation, and then Terror Experience",
+          "japanese name": "夢判断、そして恐怖体験へ",
+          "sales": 1076,
+          "seats": 8342,
+          "showtimes": 54,
+          "theaters": 46,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Jungle Cruise",
+          "japanese name": "ジャングル・クルーズ",
+          "sales": 999,
+          "seats": 3823,
+          "showtimes": 40,
+          "theaters": 71,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 Strive! TEAM NACS",
+          "japanese name": "劇場版 がんばれ！ＴＥＡＭ ＮＡＣＳ",
+          "sales": 938,
+          "seats": 8379,
+          "showtimes": 70,
+          "theaters": 65,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shang-Chi",
+          "japanese name": "シャン・チー",
+          "sales": 910,
+          "seats": 1458,
+          "showtimes": 7,
+          "theaters": 3,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Cape Mayoi",
+          "japanese name": "岬のマヨイガ",
+          "sales": 906,
+          "seats": 8318,
+          "showtimes": 107,
+          "theaters": 135,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tailor The Tailor of Life",
+          "japanese name": "テーラー 人生の仕立て屋",
+          "sales": 835,
+          "seats": 2480,
+          "showtimes": 31,
+          "theaters": 18,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "The Legend of Shan Chi / Ten Rings",
+          "japanese name": "シャン・チー／テン・リングスの伝説",
+          "sales": 23177,
+          "seats": 226204,
+          "showtimes": 1412,
+          "theaters": 291,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "科捜研の女 -The Movie-",
+          "japanese name": "科捜研の女 －劇場版－",
+          "sales": 14967,
+          "seats": 114639,
+          "showtimes": 733,
+          "theaters": 173,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dragon and the Freckle Princess",
+          "japanese name": "竜とそばかすの姫",
+          "sales": 12703,
+          "seats": 80079,
+          "showtimes": 669,
+          "theaters": 291,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE World Heroes Mission",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ワールド ヒーローズ ミッション",
+          "sales": 11318,
+          "seats": 78457,
+          "showtimes": 787,
+          "theaters": 273,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wild Speed Jet Break",
+          "japanese name": "ワイルド・スピード ジェット・ブレイク",
+          "sales": 10424,
+          "seats": 59517,
+          "showtimes": 598,
+          "theaters": 285,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kaguya-sama: Love Is War～The Love Brain Battle of the Geniuses～Final",
+          "japanese name": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～ファイナル",
+          "sales": 8803,
+          "seats": 64374,
+          "showtimes": 734,
+          "theaters": 272,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The dove's eviction method",
+          "japanese name": "鳩の撃退法",
+          "sales": 7984,
+          "seats": 67832,
+          "showtimes": 816,
+          "theaters": 280,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Old",
+          "japanese name": "オールド",
+          "sales": 7600,
+          "seats": 37473,
+          "showtimes": 456,
+          "theaters": 191,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Lone Wolf Blood LEVEL 2",
+          "japanese name": "孤狼の血 ＬＥＶＥＬ２",
+          "sales": 7338,
+          "seats": 45179,
+          "showtimes": 515,
+          "theaters": 258,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tokyo Avengers",
+          "japanese name": "東京リベンジャーズ",
+          "sales": 6382,
+          "seats": 35803,
+          "showtimes": 398,
+          "theaters": 275,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Witnesses in Montana",
+          "japanese name": "モンタナの目撃者",
+          "sales": 6095,
+          "seats": 44217,
+          "showtimes": 491,
+          "theaters": 162,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ryoma! The Prince of Tennis New Stage Version The Prince of Tennis",
+          "japanese name": "リョーマ！Ｔｈｅ Ｐｒｉｎｃｅ ｏｆ Ｔｅｎｎｉｓ 新生劇場版テニスの王子様",
+          "sales": 6041,
+          "seats": 91599,
+          "showtimes": 658,
+          "theaters": 151,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Aya and the Witch",
+          "japanese name": "アーヤと魔女",
+          "sales": 5981,
+          "seats": 70652,
+          "showtimes": 790,
+          "theaters": 290,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Free Guy",
+          "japanese name": "フリー・ガイ",
+          "sales": 3429,
+          "seats": 20375,
+          "showtimes": 255,
+          "theaters": 244,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Suicide Squad 'Extremes' Bad Guys Assemble",
+          "japanese name": "ザ・スーサイド・スクワッド ’極”悪党、集結",
+          "sales": 2580,
+          "seats": 20361,
+          "showtimes": 270,
+          "theaters": 263,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "God of Cinema",
+          "japanese name": "キネマの神様",
+          "sales": 2571,
+          "seats": 16075,
+          "showtimes": 222,
+          "theaters": 222,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Space Players",
+          "japanese name": "スペース・プレイヤーズ",
+          "sales": 2338,
+          "seats": 20401,
+          "showtimes": 296,
+          "theaters": 181,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Crayon Shin-chan The Mysterious! Flower of the Sky School",
+          "japanese name": "映画クレヨンしんちゃん  謎メキ！花の天カス学園",
+          "sales": 2242,
+          "seats": 24126,
+          "showtimes": 276,
+          "theaters": 247,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Jungle Cruise",
+          "japanese name": "ジャングル・クルーズ",
+          "sales": 2099,
+          "seats": 7979,
+          "showtimes": 83,
+          "theaters": 71,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Paw Patrol: The Movie",
+          "japanese name": "パウ・パトロール ザ・ムービー",
+          "sales": 1914,
+          "seats": 23749,
+          "showtimes": 270,
+          "theaters": 184,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shang-Chi",
+          "japanese name": "シャン・チー",
+          "sales": 1808,
+          "seats": 2916,
+          "showtimes": 14,
+          "theaters": 3,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Another Round",
+          "japanese name": "アナザーラウンド",
+          "sales": 1655,
+          "seats": 4287,
+          "showtimes": 38,
+          "theaters": 12,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Giant Monster War Guardians",
+          "japanese name": "妖怪大戦争 ガーディアンズ",
+          "sales": 1595,
+          "seats": 20216,
+          "showtimes": 273,
+          "theaters": 268,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Don't Breathe 2",
+          "japanese name": "ドント・ブリーズ２",
+          "sales": 1548,
+          "seats": 11502,
+          "showtimes": 156,
+          "theaters": 169,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "White Head Mountain Eruption",
+          "japanese name": "白頭山大噴火",
+          "sales": 1487,
+          "seats": 8540,
+          "showtimes": 119,
+          "theaters": 83,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "The Legend of Shin-Chi / Ten Rings",
+          "japanese name": "シャン・チー／テン・リングスの伝説",
+          "sales": 23375,
+          "seats": 237124,
+          "showtimes": 1464,
+          "theaters": 291,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "CSY's Woman -Theatrical Version-",
+          "japanese name": "科捜研の女 －劇場版－",
+          "sales": 15035,
+          "seats": 119193,
+          "showtimes": 755,
+          "theaters": 173,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dragon and the Freckle-Princess",
+          "japanese name": "竜とそばかすの姫",
+          "sales": 12814,
+          "seats": 83376,
+          "showtimes": 696,
+          "theaters": 291,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE World Heroes Mission",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ワールド ヒーローズ ミッション",
+          "sales": 11372,
+          "seats": 80006,
+          "showtimes": 802,
+          "theaters": 273,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fast & Furious Presents: Hobbs & Shaw",
+          "japanese name": "ワイルド・スピード ジェット・ブレイク",
+          "sales": 10609,
+          "seats": 65421,
+          "showtimes": 640,
+          "theaters": 285,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kaguya-sama: Love Is War～The Love Battle of the Geniuses～Final",
+          "japanese name": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～ファイナル",
+          "sales": 8854,
+          "seats": 66827,
+          "showtimes": 757,
+          "theaters": 272,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pigeon Scare Method",
+          "japanese name": "鳩の撃退法",
+          "sales": 8035,
+          "seats": 71706,
+          "showtimes": 853,
+          "theaters": 280,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Old",
+          "japanese name": "オールド",
+          "sales": 7672,
+          "seats": 40241,
+          "showtimes": 478,
+          "theaters": 191,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wolfblood Level 2",
+          "japanese name": "孤狼の血 ＬＥＶＥＬ２",
+          "sales": 7407,
+          "seats": 47736,
+          "showtimes": 538,
+          "theaters": 258,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tokyo Revengers",
+          "japanese name": "東京リベンジャーズ",
+          "sales": 6418,
+          "seats": 36725,
+          "showtimes": 408,
+          "theaters": 275,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Aya and the Witch",
+          "japanese name": "アーヤと魔女",
+          "sales": 6305,
+          "seats": 74769,
+          "showtimes": 832,
+          "theaters": 290,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Montana's Witness",
+          "japanese name": "モンタナの目撃者",
+          "sales": 6297,
+          "seats": 47430,
+          "showtimes": 518,
+          "theaters": 162,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ryoma! The Prince of Tennis New Drama Theater Version",
+          "japanese name": "リョーマ！Ｔｈｅ Ｐｒｉｎｃｅ ｏｆ Ｔｅｎｎｉｓ 新生劇場版テニスの王子様",
+          "sales": 6157,
+          "seats": 97506,
+          "showtimes": 690,
+          "theaters": 153,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Free Guy",
+          "japanese name": "フリー・ガイ",
+          "sales": 3440,
+          "seats": 20818,
+          "showtimes": 261,
+          "theaters": 244,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Suicide Squad 'Gokudo' Dou, Shuuketsu",
+          "japanese name": "ザ・スーサイド・スクワッド ’極”悪党、集結",
+          "sales": 2603,
+          "seats": 21525,
+          "showtimes": 281,
+          "theaters": 263,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kine Ma no Kami",
+          "japanese name": "キネマの神様",
+          "sales": 2571,
+          "seats": 16075,
+          "showtimes": 222,
+          "theaters": 222,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Space Players",
+          "japanese name": "スペース・プレイヤーズ",
+          "sales": 2344,
+          "seats": 20967,
+          "showtimes": 303,
+          "theaters": 181,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Crayon Shin-chan the Movie: Mysterious! Flower of the Sky School",
+          "japanese name": "映画クレヨンしんちゃん  謎メキ！花の天カス学園",
+          "sales": 2242,
+          "seats": 24126,
+          "showtimes": 276,
+          "theaters": 247,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Jungle Cruise",
+          "japanese name": "ジャングル・クルーズ",
+          "sales": 2099,
+          "seats": 7979,
+          "showtimes": 83,
+          "theaters": 71,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Paul Patrol The Movie",
+          "japanese name": "パウ・パトロール ザ・ムービー",
+          "sales": 1914,
+          "seats": 23749,
+          "showtimes": 270,
+          "theaters": 184,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shang-Chi",
+          "japanese name": "シャン・チー",
+          "sales": 1808,
+          "seats": 2916,
+          "showtimes": 14,
+          "theaters": 3,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Another Round",
+          "japanese name": "アナザーラウンド",
+          "sales": 1721,
+          "seats": 4511,
+          "showtimes": 40,
+          "theaters": 12,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Don't Breathe 2",
+          "japanese name": "ドント・ブリーズ２",
+          "sales": 1694,
+          "seats": 12707,
+          "showtimes": 169,
+          "theaters": 169,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Youkai Great War Guardians",
+          "japanese name": "妖怪大戦争 ガーディアンズ",
+          "sales": 1595,
+          "seats": 20216,
+          "showtimes": 273,
+          "theaters": 268,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Whitehead Mountain Eruption",
+          "japanese name": "白頭山大噴火",
+          "sales": 1565,
+          "seats": 9105,
+          "showtimes": 124,
+          "theaters": 83,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

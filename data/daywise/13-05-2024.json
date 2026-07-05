@@ -1,0 +1,773 @@
+{
+  "date": "13-05-2024",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Detective Conan: 100 Million Dollar Pentagon (指南针)",
+          "japanese name": "名探偵コナン １００万ドルの五稜星（みちしるべ）",
+          "sales": 10983,
+          "seats": 166039,
+          "showtimes": 550,
+          "theaters": 182,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Monkey Planet / Kingdom",
+          "japanese name": "猿の惑星／キングダム",
+          "sales": 10349,
+          "seats": 116806,
+          "showtimes": 499,
+          "theaters": 182,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kikuchiyo's Files: Blood Battle",
+          "japanese name": "鬼平犯科帳 血闘",
+          "sales": 5718,
+          "seats": 63927,
+          "showtimes": 378,
+          "theaters": 169,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Godzilla × Kong: The New Empire",
+          "japanese name": "ゴジラ×コング 新たなる帝国",
+          "sales": 2935,
+          "seats": 54005,
+          "showtimes": 343,
+          "theaters": 181,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Youth 18×2: The Path That Leads to You",
+          "japanese name": "青春１８×２ 君へと続く道",
+          "sales": 2172,
+          "seats": 19345,
+          "showtimes": 169,
+          "theaters": 150,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版ブルーロック －ＥＰＩＳＯＤＥ 凪－",
+          "japanese name": "劇場版ブルーロック －ＥＰＩＳＯＤＥ 凪－",
+          "sales": 2117,
+          "seats": 30896,
+          "showtimes": 210,
+          "theaters": 175,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "阴阳师０",
+          "japanese name": "陰陽師０",
+          "sales": 1775,
+          "seats": 24316,
+          "showtimes": 190,
+          "theaters": 180,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Uma Musume Pretty Derby ＲＯＡＤ ＴＯ ＴＨＥ ＴＯＰ",
+          "japanese name": "ウマ娘 プリティダービー ＲＯＡＤ ＴＯ ＴＨＥ ＴＯＰ",
+          "sales": 1444,
+          "seats": 7388,
+          "showtimes": 35,
+          "theaters": 27,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Trapezium",
+          "japanese name": "トラペジウム",
+          "sales": 1108,
+          "seats": 39488,
+          "showtimes": 251,
+          "theaters": 128,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Weird house",
+          "japanese name": "変な家",
+          "sales": 1100,
+          "seats": 14741,
+          "showtimes": 108,
+          "theaters": 175,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Movie Hiroyuki!! The Battle at the Dumpsite",
+          "japanese name": "劇場版ハイキュー！！ ゴミ捨て場の決戦",
+          "sales": 1095,
+          "seats": 19653,
+          "showtimes": 120,
+          "theaters": 179,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Code Geass: Rebirth of the Rose - Act I",
+          "japanese name": "コードギアス 奪還のロゼ 第１幕",
+          "sales": 959,
+          "seats": 17733,
+          "showtimes": 80,
+          "theaters": 40,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Loving Pretender",
+          "japanese name": "恋するプリテンダー",
+          "sales": 809,
+          "seats": 14421,
+          "showtimes": 121,
+          "theaters": 74,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Oppenheimer",
+          "japanese name": "オッペンハイマー",
+          "sales": 761,
+          "seats": 8867,
+          "showtimes": 69,
+          "theaters": 126,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Doraemon Nobita's Earth Symphony",
+          "japanese name": "映画ドラえもん のび太の地球交響楽",
+          "sales": 682,
+          "seats": 14774,
+          "showtimes": 108,
+          "theaters": 128,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Amarok",
+          "japanese name": "あまろっく",
+          "sales": 577,
+          "seats": 4725,
+          "showtimes": 34,
+          "theaters": 41,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Basinoise",
+          "japanese name": "バジーノイズ",
+          "sales": 305,
+          "seats": 10410,
+          "showtimes": 94,
+          "theaters": 121,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "King Ojaeru VS Donbrothers／King Ojaeru VS Kyoryuja",
+          "japanese name": "キングオージャーＶＳドンブラザーズ／キングオージャーＶＳキョウリュウジャー",
+          "sales": 299,
+          "seats": 9074,
+          "showtimes": 55,
+          "theaters": 53,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MET Gnoe「Romeo and Juliet」",
+          "japanese name": "ＭＥＴ グノー「ロメオとジュリエット」",
+          "sales": 248,
+          "seats": 1010,
+          "showtimes": 9,
+          "theaters": 10,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SUGA | August D TOUR D-DAY THE MOVIE",
+          "japanese name": "ＳＵＧＡ ｜ Ａｇｕｓｔ Ｄ ＴＯＵＲ Ｄ－ＤＡＹ ＴＨＥ ＭＯＶＩＥ",
+          "sales": 197,
+          "seats": 1920,
+          "showtimes": 14,
+          "theaters": 71,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Vaundy one man live ARENA tour repliche Zero",
+          "japanese name": "Ｖａｕｎｄｙ ｏｎｅ ｍａｎ ｌｉｖｅ ＡＲＥＮＡ ｔｏｕｒ ｒｅｐｌｉｃａ ＺＥＲＯ",
+          "sales": 155,
+          "seats": 8027,
+          "showtimes": 41,
+          "theaters": 55,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Mobile Suit Gundam SEED FREEDOM\"",
+          "japanese name": "劇場版「機動戦士ガンダムＳＥＥＤ ＦＲＥＥＤＯＭ」",
+          "sales": 153,
+          "seats": 2500,
+          "showtimes": 17,
+          "theaters": 153,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Berlin, Angel's Poem",
+          "japanese name": "ベルリン・天使の詩",
+          "sales": 134,
+          "seats": 2270,
+          "showtimes": 19,
+          "theaters": 20,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Paris, Texas",
+          "japanese name": "パリ、テキサス",
+          "sales": 115,
+          "seats": 1745,
+          "showtimes": 17,
+          "theaters": 18,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nervousness",
+          "japanese name": "胸騒ぎ",
+          "sales": 115,
+          "seats": 3399,
+          "showtimes": 19,
+          "theaters": 17,
+          "rank": 24,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Detective Conan: 100 Million Dollar Pentagon (指南针)",
+          "japanese name": "名探偵コナン １００万ドルの五稜星（みちしるべ）",
+          "sales": 20747,
+          "seats": 312648,
+          "showtimes": 1053,
+          "theaters": 182,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Monkey Planet / Kingdom",
+          "japanese name": "猿の惑星／キングダム",
+          "sales": 15679,
+          "seats": 222184,
+          "showtimes": 947,
+          "theaters": 182,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kikuchiyo's Files: Blood Battle",
+          "japanese name": "鬼平犯科帳 血闘",
+          "sales": 7338,
+          "seats": 111586,
+          "showtimes": 663,
+          "theaters": 169,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Godzilla × Kong: The New Empire",
+          "japanese name": "ゴジラ×コング 新たなる帝国",
+          "sales": 5075,
+          "seats": 98481,
+          "showtimes": 622,
+          "theaters": 181,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版ブルーロック －ＥＰＩＳＯＤＥ 凪－",
+          "japanese name": "劇場版ブルーロック －ＥＰＩＳＯＤＥ 凪－",
+          "sales": 4678,
+          "seats": 58583,
+          "showtimes": 407,
+          "theaters": 175,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Youth 18×2: The Path That Leads to You",
+          "japanese name": "青春１８×２ 君へと続く道",
+          "sales": 4667,
+          "seats": 34923,
+          "showtimes": 305,
+          "theaters": 150,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "阴阳师０",
+          "japanese name": "陰陽師０",
+          "sales": 2736,
+          "seats": 41464,
+          "showtimes": 324,
+          "theaters": 180,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Uma Musume Pretty Derby ＲＯＡＤ ＴＯ ＴＨＥ ＴＯＰ",
+          "japanese name": "ウマ娘 プリティダービー ＲＯＡＤ ＴＯ ＴＨＥ ＴＯＰ",
+          "sales": 2677,
+          "seats": 14653,
+          "showtimes": 69,
+          "theaters": 27,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Weird house",
+          "japanese name": "変な家",
+          "sales": 2647,
+          "seats": 37640,
+          "showtimes": 273,
+          "theaters": 175,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Movie Hiroyuki!! The Battle at the Dumpsite",
+          "japanese name": "劇場版ハイキュー！！ ゴミ捨て場の決戦",
+          "sales": 2604,
+          "seats": 43306,
+          "showtimes": 272,
+          "theaters": 179,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Trapezium",
+          "japanese name": "トラペジウム",
+          "sales": 2352,
+          "seats": 76442,
+          "showtimes": 491,
+          "theaters": 128,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Code Geass: Rebirth of the Rose - Act I",
+          "japanese name": "コードギアス 奪還のロゼ 第１幕",
+          "sales": 1865,
+          "seats": 32703,
+          "showtimes": 148,
+          "theaters": 40,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Loving Pretender",
+          "japanese name": "恋するプリテンダー",
+          "sales": 1441,
+          "seats": 28057,
+          "showtimes": 237,
+          "theaters": 74,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Oppenheimer",
+          "japanese name": "オッペンハイマー",
+          "sales": 1249,
+          "seats": 15569,
+          "showtimes": 115,
+          "theaters": 126,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Doraemon Nobita's Earth Symphony",
+          "japanese name": "映画ドラえもん のび太の地球交響楽",
+          "sales": 748,
+          "seats": 16381,
+          "showtimes": 122,
+          "theaters": 128,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Amarok",
+          "japanese name": "あまろっく",
+          "sales": 681,
+          "seats": 6417,
+          "showtimes": 47,
+          "theaters": 41,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Basinoise",
+          "japanese name": "バジーノイズ",
+          "sales": 673,
+          "seats": 19898,
+          "showtimes": 179,
+          "theaters": 121,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Mobile Suit Gundam SEED FREEDOM\"",
+          "japanese name": "劇場版「機動戦士ガンダムＳＥＥＤ ＦＲＥＥＤＯＭ」",
+          "sales": 623,
+          "seats": 12252,
+          "showtimes": 93,
+          "theaters": 153,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SUGA | August D TOUR D-DAY THE MOVIE",
+          "japanese name": "ＳＵＧＡ ｜ Ａｇｕｓｔ Ｄ ＴＯＵＲ Ｄ－ＤＡＹ ＴＨＥ ＭＯＶＩＥ",
+          "sales": 514,
+          "seats": 7068,
+          "showtimes": 52,
+          "theaters": 71,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "When April comes, she will",
+          "japanese name": "四月になれば彼女は",
+          "sales": 448,
+          "seats": 6872,
+          "showtimes": 60,
+          "theaters": 89,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "King Ojaeru VS Donbrothers／King Ojaeru VS Kyoryuja",
+          "japanese name": "キングオージャーＶＳドンブラザーズ／キングオージャーＶＳキョウリュウジャー",
+          "sales": 407,
+          "seats": 13011,
+          "showtimes": 80,
+          "theaters": 53,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Vaundy one man live ARENA tour repliche Zero",
+          "japanese name": "Ｖａｕｎｄｙ ｏｎｅ ｍａｎ ｌｉｖｅ ＡＲＥＮＡ ｔｏｕｒ ｒｅｐｌｉｃａ ＺＥＲＯ",
+          "sales": 344,
+          "seats": 16812,
+          "showtimes": 88,
+          "theaters": 55,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MET Gnoe「Romeo and Juliet」",
+          "japanese name": "ＭＥＴ グノー「ロメオとジュリエット」",
+          "sales": 248,
+          "seats": 1010,
+          "showtimes": 9,
+          "theaters": 10,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nervousness",
+          "japanese name": "胸騒ぎ",
+          "sales": 194,
+          "seats": 6016,
+          "showtimes": 34,
+          "theaters": 17,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dead Dead Demon's DeDeDeDeSTRUCTION Previous Chapter",
+          "japanese name": "デッドデッドデーモンズデデデデデストラクション 前章",
+          "sales": 189,
+          "seats": 1833,
+          "showtimes": 16,
+          "theaters": 22,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Detective Conan 1 Million Dollar Pentagram (Map)",
+          "japanese name": "名探偵コナン １００万ドルの五稜星（みちしるべ）",
+          "sales": 24224,
+          "seats": 381912,
+          "showtimes": 1280,
+          "theaters": 182,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Planet of the Apes / Kingdom",
+          "japanese name": "猿の惑星／キングダム",
+          "sales": 17852,
+          "seats": 285463,
+          "showtimes": 1218,
+          "theaters": 182,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "鬼平犯科帳 Blood Fight",
+          "japanese name": "鬼平犯科帳 血闘",
+          "sales": 7644,
+          "seats": 133679,
+          "showtimes": 798,
+          "theaters": 169,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Godzilla × Kong The New Empire",
+          "japanese name": "ゴジラ×コング 新たなる帝国",
+          "sales": 5901,
+          "seats": 127262,
+          "showtimes": 801,
+          "theaters": 181,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "青春18×2 The Path Leading to You",
+          "japanese name": "青春１８×２ 君へと続く道",
+          "sales": 5824,
+          "seats": 45152,
+          "showtimes": 394,
+          "theaters": 150,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版Blue Lock -EPISODE PEACE-",
+          "japanese name": "劇場版ブルーロック －ＥＰＩＳＯＤＥ 凪－",
+          "sales": 5823,
+          "seats": 71921,
+          "showtimes": 495,
+          "theaters": 175,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Uma Musume Pretty Derby ROAD TO THE TOP",
+          "japanese name": "ウマ娘 プリティダービー ＲＯＡＤ ＴＯ ＴＨＥ ＴＯＰ",
+          "sales": 3780,
+          "seats": 20496,
+          "showtimes": 96,
+          "theaters": 27,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Movie Hi-Kyu!! The Battle at the Dump",
+          "japanese name": "劇場版ハイキュー！！ ゴミ捨て場の決戦",
+          "sales": 3104,
+          "seats": 48823,
+          "showtimes": 312,
+          "theaters": 179,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Onmyoji 0",
+          "japanese name": "陰陽師０",
+          "sales": 3049,
+          "seats": 51564,
+          "showtimes": 409,
+          "theaters": 180,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Trapzeium",
+          "japanese name": "トラペジウム",
+          "sales": 2951,
+          "seats": 98523,
+          "showtimes": 631,
+          "theaters": 128,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A Strange House",
+          "japanese name": "変な家",
+          "sales": 2930,
+          "seats": 45862,
+          "showtimes": 329,
+          "theaters": 175,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Code Geass: Rebirth of the Rose - Act I",
+          "japanese name": "コードギアス 奪還のロゼ 第１幕",
+          "sales": 2427,
+          "seats": 41375,
+          "showtimes": 192,
+          "theaters": 40,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Lover Pretender",
+          "japanese name": "恋するプリテンダー",
+          "sales": 1735,
+          "seats": 37116,
+          "showtimes": 312,
+          "theaters": 74,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Oppenheimer",
+          "japanese name": "オッペンハイマー",
+          "sales": 1424,
+          "seats": 18537,
+          "showtimes": 137,
+          "theaters": 126,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Mobile Suit Gundam SEED FREEDOM\"",
+          "japanese name": "劇場版「機動戦士ガンダムＳＥＥＤ ＦＲＥＥＤＯＭ」",
+          "sales": 1064,
+          "seats": 20055,
+          "showtimes": 151,
+          "theaters": 153,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Vajinoize",
+          "japanese name": "バジーノイズ",
+          "sales": 778,
+          "seats": 24723,
+          "showtimes": 221,
+          "theaters": 121,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Doraemon Nobita's Earth Symphony",
+          "japanese name": "映画ドラえもん のび太の地球交響楽",
+          "sales": 748,
+          "seats": 16381,
+          "showtimes": 122,
+          "theaters": 128,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Amaroocus",
+          "japanese name": "あまろっく",
+          "sales": 698,
+          "seats": 7000,
+          "showtimes": 52,
+          "theaters": 41,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SUGA | August D TOUR D-DAY THE MOVIE",
+          "japanese name": "ＳＵＧＡ ｜ Ａｇｕｓｔ Ｄ ＴＯＵＲ Ｄ－ＤＡＹ ＴＨＥ ＭＯＶＩＥ",
+          "sales": 676,
+          "seats": 9789,
+          "showtimes": 72,
+          "theaters": 71,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "When it becomes April, she",
+          "japanese name": "四月になれば彼女は",
+          "sales": 537,
+          "seats": 10085,
+          "showtimes": 85,
+          "theaters": 89,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Vauundy one man live ARENA tour replace ZERO",
+          "japanese name": "Ｖａｕｎｄｙ ｏｎｅ ｍａｎ ｌｉｖｅ ＡＲＥＮＡ ｔｏｕｒ ｒｅｐｌｉｃａ ＺＥＲＯ",
+          "sales": 452,
+          "seats": 22304,
+          "showtimes": 112,
+          "theaters": 55,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "King Ojaeru VS Donbrothers／King Ojaeru VS Kyoryuujou",
+          "japanese name": "キングオージャーＶＳドンブラザーズ／キングオージャーＶＳキョウリュウジャー",
+          "sales": 427,
+          "seats": 13826,
+          "showtimes": 86,
+          "theaters": 53,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MET Gnoe \"Romeo and Juliet\"",
+          "japanese name": "ＭＥＴ グノー「ロメオとジュリエット」",
+          "sales": 256,
+          "seats": 1114,
+          "showtimes": 10,
+          "theaters": 10,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Anxiety",
+          "japanese name": "胸騒ぎ",
+          "sales": 238,
+          "seats": 8120,
+          "showtimes": 47,
+          "theaters": 17,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dead Dead Demon's DeDeDeDestruction Previous Chapter",
+          "japanese name": "デッドデッドデーモンズデデデデデストラクション 前章",
+          "sales": 230,
+          "seats": 2323,
+          "showtimes": 20,
+          "theaters": 22,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

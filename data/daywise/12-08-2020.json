@@ -1,0 +1,773 @@
+{
+  "date": "12-08-2020",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Movie Doraemon 2 2020 Nobita's New Dinosaur",
+          "japanese name": "映画ドラえもん ２０２０ のび太の新恐竜",
+          "sales": 68898,
+          "seats": 217135,
+          "showtimes": 1764,
+          "theaters": 303,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Starting today, I'll!! Movie",
+          "japanese name": "今日から俺は！！劇場版",
+          "sales": 38207,
+          "seats": 72965,
+          "showtimes": 888,
+          "theaters": 303,
+          "rank": 2,
+          "last_week_ratio": 195.8
+        },
+        {
+          "moviename": "Confidence Man JP Princess Edition",
+          "japanese name": "コンフィデンスマンＪＰ プリンセス編",
+          "sales": 22126,
+          "seats": 53908,
+          "showtimes": 769,
+          "theaters": 301,
+          "rank": 3,
+          "last_week_ratio": 149.6
+        },
+        {
+          "moviename": "Thread",
+          "japanese name": "糸",
+          "sales": 10310,
+          "seats": 30596,
+          "showtimes": 352,
+          "theaters": 277,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Glambler",
+          "japanese name": "ぐらんぶる",
+          "sales": 5112,
+          "seats": 48933,
+          "showtimes": 716,
+          "theaters": 300,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版奥特曼泰迦 新世代 climaxes",
+          "japanese name": "劇場版ウルトラマンタイガ ニュージェネクライマックス",
+          "sales": 3315,
+          "seats": 25224,
+          "showtimes": 333,
+          "theaters": 118,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Film Secret x Warrior Phantom Mirage!～I Want to Become a Movie～",
+          "japanese name": "劇場版 ひみつ×戦士 ファントミラージュ！～映画になってちょーだいします～",
+          "sales": 2010,
+          "seats": 15261,
+          "showtimes": 223,
+          "theaters": 137,
+          "rank": 7,
+          "last_week_ratio": 151.1
+        },
+        {
+          "moviename": "Sunny Hills 46 Documentary Film 3rd Year Debut",
+          "japanese name": "日向坂４６ドキュメンタリー映画 ３年目のデビュー",
+          "sales": 1916,
+          "seats": 4148,
+          "showtimes": 62,
+          "theaters": 48,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Spirited Away",
+          "japanese name": "千と千尋の神隠し",
+          "sales": 1345,
+          "seats": 5279,
+          "showtimes": 91,
+          "theaters": 204,
+          "rank": 9,
+          "last_week_ratio": 111.6
+        },
+        {
+          "moviename": "Thread <Special Advance Screening>",
+          "japanese name": "糸 ＜特別先行上映＞",
+          "sales": 1321,
+          "seats": 2122,
+          "showtimes": 27,
+          "theaters": 23,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "EYES ON ME: The Movie",
+          "japanese name": "ＥＹＥＳ ＯＮ ＭＥ：Ｔｈｅ Ｍｏｖｉｅ",
+          "sales": 1102,
+          "seats": 9732,
+          "showtimes": 171,
+          "theaters": 104,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Princess Mononoke",
+          "japanese name": "もののけ姫",
+          "sales": 1068,
+          "seats": 3270,
+          "showtimes": 55,
+          "theaters": 203,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nausicaä of the Valley of the Wind",
+          "japanese name": "風の谷のナウシカ",
+          "sales": 1004,
+          "seats": 3180,
+          "showtimes": 57,
+          "theaters": 204,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Survival of the Human Body! / Come on, Iwa!! Robocon",
+          "japanese name": "人体のサバイバル！／がんばれいわ！！ロボコン",
+          "sales": 614,
+          "seats": 6533,
+          "showtimes": 107,
+          "theaters": 68,
+          "rank": 14,
+          "last_week_ratio": 115.4
+        },
+        {
+          "moviename": "Joan’s Secret",
+          "japanese name": "ジョーンの秘密",
+          "sales": 349,
+          "seats": 431,
+          "showtimes": 5,
+          "theaters": 4,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "What should I do if I'm popular",
+          "japanese name": "私がモテてどうすんだ",
+          "sales": 348,
+          "seats": 4263,
+          "showtimes": 67,
+          "theaters": 187,
+          "rank": 16,
+          "last_week_ratio": 102.7
+        },
+        {
+          "moviename": "Beachside cinema Kinema's treasure box",
+          "japanese name": "海辺の映画館 キネマの玉手箱",
+          "sales": 330,
+          "seats": 817,
+          "showtimes": 13,
+          "theaters": 11,
+          "rank": 17,
+          "last_week_ratio": 104.4
+        },
+        {
+          "moviename": "Dunkirk",
+          "japanese name": "ダンケルク",
+          "sales": 309,
+          "seats": 5376,
+          "showtimes": 50,
+          "theaters": 91,
+          "rank": 18,
+          "last_week_ratio": 120.2
+        },
+        {
+          "moviename": "Mobile Police Patlabor THE MOVIE",
+          "japanese name": "機動警察パトレイバー ＴＨＥ ＭＯＶＩＥ",
+          "sales": 254,
+          "seats": 1355,
+          "showtimes": 29,
+          "theaters": 49,
+          "rank": 19,
+          "last_week_ratio": 195.4
+        },
+        {
+          "moviename": "Mitoyuki Nakamura \"YoruKaikou Koujou VOL.2\" Theatrical Version",
+          "japanese name": "中島みゆき 「夜会工場ＶＯＬ．２」 劇場版",
+          "sales": 238,
+          "seats": 3535,
+          "showtimes": 57,
+          "theaters": 91,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shoujo☆Gekijo Revue Starlight London London London Reproduction Collection",
+          "japanese name": "少女☆歌劇 レヴュー・スタァライト ロンド・ロンド・ロンド 再生産総集編",
+          "sales": 211,
+          "seats": 3406,
+          "showtimes": 53,
+          "theaters": 28,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hibou",
+          "japanese name": "はちどり",
+          "sales": 184,
+          "seats": 501,
+          "showtimes": 10,
+          "theaters": 18,
+          "rank": 22,
+          "last_week_ratio": 176.9
+        },
+        {
+          "moviename": "Underwater 47 meters Ancient Maya's death labyrinth",
+          "japanese name": "海底４７メートル 古代マヤの死の迷宮",
+          "sales": 162,
+          "seats": 2870,
+          "showtimes": 44,
+          "theaters": 114,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hunter Killer Dive into the Abyss",
+          "japanese name": "ハンターキラー 潜航せよ",
+          "sales": 158,
+          "seats": 828,
+          "showtimes": 9,
+          "theaters": 26,
+          "rank": 24,
+          "last_week_ratio": 168.1
+        },
+        {
+          "moviename": "Mishima vs Tokyo University All-Out Struggle: 50 Years of Truth",
+          "japanese name": "三島由紀夫ＶＳ東大全共闘 ５０年目の真実",
+          "sales": 131,
+          "seats": 194,
+          "showtimes": 2,
+          "theaters": 2,
+          "rank": 25,
+          "last_week_ratio": 545.8
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Movie Doraemon 2 2020 Nobita's New Dinosaur",
+          "japanese name": "映画ドラえもん ２０２０ のび太の新恐竜",
+          "sales": 90029,
+          "seats": 343384,
+          "showtimes": 2747,
+          "theaters": 303,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Starting today, I'll!! Movie",
+          "japanese name": "今日から俺は！！劇場版",
+          "sales": 66076,
+          "seats": 138141,
+          "showtimes": 1655,
+          "theaters": 303,
+          "rank": 2,
+          "last_week_ratio": 194.5
+        },
+        {
+          "moviename": "Confidence Man JP Princess Edition",
+          "japanese name": "コンフィデンスマンＪＰ プリンセス編",
+          "sales": 41576,
+          "seats": 104723,
+          "showtimes": 1455,
+          "theaters": 301,
+          "rank": 3,
+          "last_week_ratio": 154.8
+        },
+        {
+          "moviename": "Thread",
+          "japanese name": "糸",
+          "sales": 19446,
+          "seats": 62566,
+          "showtimes": 693,
+          "theaters": 277,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Glambler",
+          "japanese name": "ぐらんぶる",
+          "sales": 9847,
+          "seats": 89068,
+          "showtimes": 1289,
+          "theaters": 300,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版奥特曼泰迦 新世代 climaxes",
+          "japanese name": "劇場版ウルトラマンタイガ ニュージェネクライマックス",
+          "sales": 4284,
+          "seats": 35970,
+          "showtimes": 481,
+          "theaters": 118,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sunny Hills 46 Documentary Film 3rd Year Debut",
+          "japanese name": "日向坂４６ドキュメンタリー映画 ３年目のデビュー",
+          "sales": 3456,
+          "seats": 7744,
+          "showtimes": 109,
+          "theaters": 48,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Spirited Away",
+          "japanese name": "千と千尋の神隠し",
+          "sales": 3307,
+          "seats": 12358,
+          "showtimes": 204,
+          "theaters": 204,
+          "rank": 8,
+          "last_week_ratio": 105.6
+        },
+        {
+          "moviename": "Princess Mononoke",
+          "japanese name": "もののけ姫",
+          "sales": 3133,
+          "seats": 9911,
+          "showtimes": 160,
+          "theaters": 202,
+          "rank": 9,
+          "last_week_ratio": 100
+        },
+        {
+          "moviename": "Theatrical Film Secret x Warrior Phantom Mirage!～I Want to Become a Movie～",
+          "japanese name": "劇場版 ひみつ×戦士 ファントミラージュ！～映画になってちょーだいします～",
+          "sales": 2422,
+          "seats": 19173,
+          "showtimes": 282,
+          "theaters": 137,
+          "rank": 10,
+          "last_week_ratio": 155.2
+        },
+        {
+          "moviename": "Thread <Special Advance Screening>",
+          "japanese name": "糸 ＜特別先行上映＞",
+          "sales": 2360,
+          "seats": 4551,
+          "showtimes": 51,
+          "theaters": 23,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nausicaä of the Valley of the Wind",
+          "japanese name": "風の谷のナウシカ",
+          "sales": 2104,
+          "seats": 8018,
+          "showtimes": 130,
+          "theaters": 204,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "EYES ON ME: The Movie",
+          "japanese name": "ＥＹＥＳ ＯＮ ＭＥ：Ｔｈｅ Ｍｏｖｉｅ",
+          "sales": 2007,
+          "seats": 18144,
+          "showtimes": 313,
+          "theaters": 104,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "What should I do if I'm popular",
+          "japanese name": "私がモテてどうすんだ",
+          "sales": 941,
+          "seats": 9380,
+          "showtimes": 147,
+          "theaters": 187,
+          "rank": 14,
+          "last_week_ratio": 109.2
+        },
+        {
+          "moviename": "TOSHIKI KADOMATSU Performance” 2020.08.12 SPECIAL GIG” Live Streaming",
+          "japanese name": "ＴＯＳＨＩＫＩ ＫＡＤＯＭＡＴＳＵ Ｐｅｒｆｏｒｍａｎｃｅ”２０２０．０８．１２ ＳＰＥＣＩＡＬ ＧＩＧ”ライブビューング",
+          "sales": 910,
+          "seats": 1752,
+          "showtimes": 22,
+          "theaters": 22,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Survival of the Human Body! / Come on, Iwa!! Robocon",
+          "japanese name": "人体のサバイバル！／がんばれいわ！！ロボコン",
+          "sales": 773,
+          "seats": 7944,
+          "showtimes": 135,
+          "theaters": 68,
+          "rank": 16,
+          "last_week_ratio": 107.2
+        },
+        {
+          "moviename": "Dunkirk",
+          "japanese name": "ダンケルク",
+          "sales": 684,
+          "seats": 10975,
+          "showtimes": 111,
+          "theaters": 91,
+          "rank": 17,
+          "last_week_ratio": 126.9
+        },
+        {
+          "moviename": "Joan’s Secret",
+          "japanese name": "ジョーンの秘密",
+          "sales": 579,
+          "seats": 844,
+          "showtimes": 11,
+          "theaters": 4,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Invisible Man",
+          "japanese name": "透明人間",
+          "sales": 578,
+          "seats": 2304,
+          "showtimes": 42,
+          "theaters": 130,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Underwater 47 meters Ancient Maya's death labyrinth",
+          "japanese name": "海底４７メートル 古代マヤの死の迷宮",
+          "sales": 541,
+          "seats": 7103,
+          "showtimes": 102,
+          "theaters": 114,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Beachside cinema Kinema's treasure box",
+          "japanese name": "海辺の映画館 キネマの玉手箱",
+          "sales": 485,
+          "seats": 1230,
+          "showtimes": 19,
+          "theaters": 11,
+          "rank": 21,
+          "last_week_ratio": 101.3
+        },
+        {
+          "moviename": "Mobile Police Patlabor THE MOVIE",
+          "japanese name": "機動警察パトレイバー ＴＨＥ ＭＯＶＩＥ",
+          "sales": 398,
+          "seats": 2500,
+          "showtimes": 53,
+          "theaters": 49,
+          "rank": 22,
+          "last_week_ratio": 148
+        },
+        {
+          "moviename": "Hunter Killer Dive into the Abyss",
+          "japanese name": "ハンターキラー 潜航せよ",
+          "sales": 378,
+          "seats": 1740,
+          "showtimes": 24,
+          "theaters": 26,
+          "rank": 23,
+          "last_week_ratio": 171
+        },
+        {
+          "moviename": "Mitoyuki Nakamura \"YoruKaikou Koujou VOL.2\" Theatrical Version",
+          "japanese name": "中島みゆき 「夜会工場ＶＯＬ．２」 劇場版",
+          "sales": 359,
+          "seats": 6025,
+          "showtimes": 91,
+          "theaters": 91,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gedo Senki",
+          "japanese name": "ゲド戦記",
+          "sales": 355,
+          "seats": 4574,
+          "showtimes": 77,
+          "theaters": 201,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Movie Doraemon 2020 Nobita's New Dinosaur",
+          "japanese name": "映画ドラえもん ２０２０ のび太の新恐竜",
+          "sales": 91643,
+          "seats": 374198,
+          "showtimes": 2963,
+          "theaters": 303,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "From today, I'll!! Movie",
+          "japanese name": "今日から俺は！！劇場版",
+          "sales": 71818,
+          "seats": 169465,
+          "showtimes": 1987,
+          "theaters": 303,
+          "rank": 2,
+          "last_week_ratio": 197
+        },
+        {
+          "moviename": "Confidence Man JP Princess Edition",
+          "japanese name": "コンフィデンスマンＪＰ プリンセス編",
+          "sales": 47323,
+          "seats": 134597,
+          "showtimes": 1803,
+          "theaters": 301,
+          "rank": 3,
+          "last_week_ratio": 158.4
+        },
+        {
+          "moviename": "Thread",
+          "japanese name": "糸",
+          "sales": 22892,
+          "seats": 81099,
+          "showtimes": 873,
+          "theaters": 277,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Granny",
+          "japanese name": "ぐらんぶる",
+          "sales": 11242,
+          "seats": 113572,
+          "showtimes": 1616,
+          "theaters": 300,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hinatazaka46 Documentary Film 3rd Year Debut",
+          "japanese name": "日向坂４６ドキュメンタリー映画 ３年目のデビュー",
+          "sales": 4525,
+          "seats": 11442,
+          "showtimes": 149,
+          "theaters": 48,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ultra Man Tiga The New Generation Climax",
+          "japanese name": "劇場版ウルトラマンタイガ ニュージェネクライマックス",
+          "sales": 4342,
+          "seats": 36919,
+          "showtimes": 493,
+          "theaters": 118,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Princess Mononoke",
+          "japanese name": "もののけ姫",
+          "sales": 3973,
+          "seats": 14154,
+          "showtimes": 222,
+          "theaters": 202,
+          "rank": 8,
+          "last_week_ratio": 100.5
+        },
+        {
+          "moviename": "Spirited Away",
+          "japanese name": "千と千尋の神隠し",
+          "sales": 3671,
+          "seats": 13885,
+          "showtimes": 226,
+          "theaters": 204,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nausicaä of the Valley of the Wind",
+          "japanese name": "風の谷のナウシカ",
+          "sales": 3094,
+          "seats": 14551,
+          "showtimes": 212,
+          "theaters": 204,
+          "rank": 10,
+          "last_week_ratio": 108.6
+        },
+        {
+          "moviename": "Thread <Special Pre-screening>",
+          "japanese name": "糸 ＜特別先行上映＞",
+          "sales": 2773,
+          "seats": 5835,
+          "showtimes": 64,
+          "theaters": 23,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Film Secret x Warrior Phantomirage!～I Want to Become a Movie～",
+          "japanese name": "劇場版 ひみつ×戦士 ファントミラージュ！～映画になってちょーだいします～",
+          "sales": 2424,
+          "seats": 19425,
+          "showtimes": 286,
+          "theaters": 137,
+          "rank": 12,
+          "last_week_ratio": 155.2
+        },
+        {
+          "moviename": "YES ON ME: The Movie",
+          "japanese name": "ＥＹＥＳ ＯＮ ＭＥ：Ｔｈｅ Ｍｏｖｉｅ",
+          "sales": 2255,
+          "seats": 23830,
+          "showtimes": 402,
+          "theaters": 104,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Transparent Man",
+          "japanese name": "透明人間",
+          "sales": 1215,
+          "seats": 8201,
+          "showtimes": 131,
+          "theaters": 130,
+          "rank": 14,
+          "last_week_ratio": 106.8
+        },
+        {
+          "moviename": "How do I become charming",
+          "japanese name": "私がモテてどうすんだ",
+          "sales": 1058,
+          "seats": 12251,
+          "showtimes": 185,
+          "theaters": 187,
+          "rank": 15,
+          "last_week_ratio": 117.7
+        },
+        {
+          "moviename": "TOSHIKI KADOMATSU Performance” 2020.08.12 SPECIAL GIG” Live Streaming",
+          "japanese name": "ＴＯＳＨＩＫＩ ＫＡＤＯＭＡＴＳＵ Ｐｅｒｆｏｒｍａｎｃｅ”２０２０．０８．１２ ＳＰＥＣＩＡＬ ＧＩＧ”ライブビューング",
+          "sales": 910,
+          "seats": 1752,
+          "showtimes": 22,
+          "theaters": 22,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dunkirk",
+          "japanese name": "ダンケルク",
+          "sales": 831,
+          "seats": 15584,
+          "showtimes": 150,
+          "theaters": 91,
+          "rank": 17,
+          "last_week_ratio": 126.7
+        },
+        {
+          "moviename": "Human Survival! / Come on, Iwa!! Robocon",
+          "japanese name": "人体のサバイバル！／がんばれいわ！！ロボコン",
+          "sales": 774,
+          "seats": 8245,
+          "showtimes": 137,
+          "theaters": 68,
+          "rank": 18,
+          "last_week_ratio": 107.1
+        },
+        {
+          "moviename": "Sea Level 47 Meters, Ancient Maya's Death Labyrinth",
+          "japanese name": "海底４７メートル 古代マヤの死の迷宮",
+          "sales": 704,
+          "seats": 12132,
+          "showtimes": 166,
+          "theaters": 114,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gedo War Chronicle",
+          "japanese name": "ゲド戦記",
+          "sales": 694,
+          "seats": 12421,
+          "showtimes": 192,
+          "theaters": 201,
+          "rank": 20,
+          "last_week_ratio": 110
+        },
+        {
+          "moviename": "The secret of Joan",
+          "japanese name": "ジョーンの秘密",
+          "sales": 659,
+          "seats": 1181,
+          "showtimes": 15,
+          "theaters": 4,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Police Patlabor THE MOVIE",
+          "japanese name": "機動警察パトレイバー ＴＨＥ ＭＯＶＩＥ",
+          "sales": 507,
+          "seats": 3096,
+          "showtimes": 66,
+          "theaters": 49,
+          "rank": 22,
+          "last_week_ratio": 142.8
+        },
+        {
+          "moviename": "Step",
+          "japanese name": "ステップ",
+          "sales": 500,
+          "seats": 7115,
+          "showtimes": 118,
+          "theaters": 125,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Seaside Cinema Kinema's Pearl Box",
+          "japanese name": "海辺の映画館 キネマの玉手箱",
+          "sales": 496,
+          "seats": 1294,
+          "showtimes": 20,
+          "theaters": 11,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Miyuki Nakajima \"Yoru Kai Gongjou VOL.2\" Theatrical Version",
+          "japanese name": "中島みゆき 「夜会工場ＶＯＬ．２」 劇場版",
+          "sales": 398,
+          "seats": 6841,
+          "showtimes": 99,
+          "theaters": 91,
+          "rank": 25,
+          "last_week_ratio": 102.6
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,773 @@
+{
+  "date": "05-09-2023",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Hello, Mom",
+          "japanese name": "こんにちは、母さん",
+          "sales": 17296,
+          "seats": 97390,
+          "showtimes": 408,
+          "theaters": 171,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Haunted Mansion",
+          "japanese name": "ホーンテッドマンション",
+          "sales": 8725,
+          "seats": 133617,
+          "showtimes": 451,
+          "theaters": 182,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kingdom Fate's Flame",
+          "japanese name": "キングダム 運命の炎",
+          "sales": 4085,
+          "seats": 48351,
+          "showtimes": 256,
+          "theaters": 180,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "How do you live?",
+          "japanese name": "君たちはどう生きるか",
+          "sales": 4082,
+          "seats": 43734,
+          "showtimes": 308,
+          "theaters": 182,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MEG The Monsters 2",
+          "japanese name": "ＭＥＧ ザ・モンスターズ２",
+          "sales": 3961,
+          "seats": 56525,
+          "showtimes": 321,
+          "theaters": 176,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mission: Impossible / Dead Reckoning PART ONE",
+          "japanese name": "ミッション：インポッシブル／デッドレコニング ＰＡＲＴ ＯＮＥ",
+          "sales": 2855,
+          "seats": 23835,
+          "showtimes": 133,
+          "theaters": 174,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "G-Unit",
+          "japanese name": "Ｇメン",
+          "sales": 2713,
+          "seats": 29323,
+          "showtimes": 230,
+          "theaters": 169,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BE: THE ONE",
+          "japanese name": "ＢＥ：ｔｈｅ ＯＮＥ",
+          "sales": 2003,
+          "seats": 12552,
+          "showtimes": 78,
+          "theaters": 68,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kaze ni Chiru",
+          "japanese name": "春に散る",
+          "sales": 1893,
+          "seats": 18726,
+          "showtimes": 150,
+          "theaters": 148,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Element",
+          "japanese name": "マイ・エレメント",
+          "sales": 1592,
+          "seats": 35475,
+          "showtimes": 233,
+          "theaters": 178,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Asteroid City",
+          "japanese name": "アステロイド・シティ",
+          "sales": 1464,
+          "seats": 10692,
+          "showtimes": 66,
+          "theaters": 57,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "When night falls, I'll go to meet you first",
+          "japanese name": "夜が明けたら、いちばんに君に会いにいく",
+          "sales": 1391,
+          "seats": 53338,
+          "showtimes": 252,
+          "theaters": 124,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Revolver Lily",
+          "japanese name": "リボルバー・リリー",
+          "sales": 986,
+          "seats": 11429,
+          "showtimes": 94,
+          "theaters": 171,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sweet Home",
+          "japanese name": "スイート・マイホーム",
+          "sales": 949,
+          "seats": 15366,
+          "showtimes": 110,
+          "theaters": 89,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"SAND LAND\"",
+          "japanese name": "映画「ＳＡＮＤ ＬＡＮＤ」",
+          "sales": 858,
+          "seats": 21038,
+          "showtimes": 162,
+          "theaters": 161,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shin Dimension! Crayon Shin-chan THE MOVIE Super Power Great Battle ~Flying Flying Hand Roll Sushi~",
+          "japanese name": "しん次元！クレヨンしんちゃんＴＨＥ ＭＯＶＩＥ 超能力大決戦 ～とべとべ手巻き寿司～",
+          "sales": 749,
+          "seats": 39857,
+          "showtimes": 258,
+          "theaters": 174,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Barbie",
+          "japanese name": "バービー",
+          "sales": 691,
+          "seats": 7177,
+          "showtimes": 53,
+          "theaters": 164,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Explosive Dragon Team Avenger 20th Forbidden Avare",
+          "japanese name": "爆竜戦隊アバレンジャー ２０ｔｈ 許されざるアバレ",
+          "sales": 439,
+          "seats": 16491,
+          "showtimes": 99,
+          "theaters": 52,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "PATHAAN Pattern",
+          "japanese name": "ＰＡＴＨＡＡＮ パターン",
+          "sales": 387,
+          "seats": 6735,
+          "showtimes": 32,
+          "theaters": 39,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Everyone's Song",
+          "japanese name": "ミンナのウタ",
+          "sales": 274,
+          "seats": 5064,
+          "showtimes": 34,
+          "theaters": 119,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Girl Painted with Idiots",
+          "japanese name": "バカ塗りの娘",
+          "sales": 270,
+          "seats": 1872,
+          "showtimes": 17,
+          "theaters": 14,
+          "rank": 21,
+          "last_week_ratio": 450
+        },
+        {
+          "moviename": "Special Episode Resonate! Euphonium～Ensemble Contest～",
+          "japanese name": "特別編 響け！ユーフォニアム～アンサンブルコンテスト～",
+          "sales": 260,
+          "seats": 5076,
+          "showtimes": 25,
+          "theaters": 48,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: Black Iron Fish Shadow (Submarine)",
+          "japanese name": "名探偵コナン 黒鉄の魚影（サブマリン）",
+          "sales": 255,
+          "seats": 5172,
+          "showtimes": 32,
+          "theaters": 156,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Idol Master Million Live! Act 1",
+          "japanese name": "アイドルマスター ミリオンライブ！ 第１幕",
+          "sales": 247,
+          "seats": 2341,
+          "showtimes": 14,
+          "theaters": 48,
+          "rank": 24,
+          "last_week_ratio": 112.8
+        },
+        {
+          "moviename": "Elizabeth 1878",
+          "japanese name": "エリザベート １８７８",
+          "sales": 227,
+          "seats": 1878,
+          "showtimes": 13,
+          "theaters": 17,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Hello, Mom",
+          "japanese name": "こんにちは、母さん",
+          "sales": 21258,
+          "seats": 166809,
+          "showtimes": 710,
+          "theaters": 171,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Haunted Mansion",
+          "japanese name": "ホーンテッドマンション",
+          "sales": 17232,
+          "seats": 246139,
+          "showtimes": 830,
+          "theaters": 182,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "How do you live?",
+          "japanese name": "君たちはどう生きるか",
+          "sales": 7405,
+          "seats": 81845,
+          "showtimes": 565,
+          "theaters": 182,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MEG The Monsters 2",
+          "japanese name": "ＭＥＧ ザ・モンスターズ２",
+          "sales": 7285,
+          "seats": 105249,
+          "showtimes": 590,
+          "theaters": 176,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kingdom Fate's Flame",
+          "japanese name": "キングダム 運命の炎",
+          "sales": 7140,
+          "seats": 87139,
+          "showtimes": 487,
+          "theaters": 180,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mission: Impossible / Dead Reckoning PART ONE",
+          "japanese name": "ミッション：インポッシブル／デッドレコニング ＰＡＲＴ ＯＮＥ",
+          "sales": 5232,
+          "seats": 48257,
+          "showtimes": 268,
+          "theaters": 174,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "G-Unit",
+          "japanese name": "Ｇメン",
+          "sales": 4511,
+          "seats": 55530,
+          "showtimes": 425,
+          "theaters": 169,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Element",
+          "japanese name": "マイ・エレメント",
+          "sales": 3103,
+          "seats": 54374,
+          "showtimes": 363,
+          "theaters": 178,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BE: THE ONE",
+          "japanese name": "ＢＥ：ｔｈｅ ＯＮＥ",
+          "sales": 3038,
+          "seats": 24183,
+          "showtimes": 153,
+          "theaters": 68,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kaze ni Chiru",
+          "japanese name": "春に散る",
+          "sales": 2909,
+          "seats": 31398,
+          "showtimes": 252,
+          "theaters": 148,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "YOSHIKI: UNDER THE SKY Japan Premier Live Viewing",
+          "japanese name": "ＹＯＳＨＩＫＩ：ＵＮＤＥＲ ＴＨＥ ＳＫＹ ジャパンプレミアライブビューイング",
+          "sales": 2846,
+          "seats": 12793,
+          "showtimes": 39,
+          "theaters": 40,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "When night falls, I'll go to meet you first",
+          "japanese name": "夜が明けたら、いちばんに君に会いにいく",
+          "sales": 2753,
+          "seats": 91610,
+          "showtimes": 438,
+          "theaters": 124,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Asteroid City",
+          "japanese name": "アステロイド・シティ",
+          "sales": 2633,
+          "seats": 20336,
+          "showtimes": 125,
+          "theaters": 57,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"SAND LAND\"",
+          "japanese name": "映画「ＳＡＮＤ ＬＡＮＤ」",
+          "sales": 1771,
+          "seats": 38553,
+          "showtimes": 291,
+          "theaters": 161,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Barbie",
+          "japanese name": "バービー",
+          "sales": 1706,
+          "seats": 18530,
+          "showtimes": 131,
+          "theaters": 164,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sweet Home",
+          "japanese name": "スイート・マイホーム",
+          "sales": 1580,
+          "seats": 27774,
+          "showtimes": 200,
+          "theaters": 89,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Revolver Lily",
+          "japanese name": "リボルバー・リリー",
+          "sales": 1459,
+          "seats": 20219,
+          "showtimes": 158,
+          "theaters": 171,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ryoma! The Prince of Tennis New Stage Version",
+          "japanese name": "リョーマ！Ｔｈｅ Ｐｒｉｎｃｅ ｏｆ Ｔｅｎｎｉｓ 新生劇場版テニスの王子様",
+          "sales": 1276,
+          "seats": 2185,
+          "showtimes": 15,
+          "theaters": 19,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shin Dimension! Crayon Shin-chan THE MOVIE Super Power Great Battle ~Flying Flying Hand Roll Sushi~",
+          "japanese name": "しん次元！クレヨンしんちゃんＴＨＥ ＭＯＶＩＥ 超能力大決戦 ～とべとべ手巻き寿司～",
+          "sales": 1065,
+          "seats": 47544,
+          "showtimes": 317,
+          "theaters": 174,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Everyone's Song",
+          "japanese name": "ミンナのウタ",
+          "sales": 1014,
+          "seats": 14502,
+          "showtimes": 102,
+          "theaters": 119,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: Black Iron Fish Shadow (Submarine)",
+          "japanese name": "名探偵コナン 黒鉄の魚影（サブマリン）",
+          "sales": 939,
+          "seats": 21463,
+          "showtimes": 146,
+          "theaters": 156,
+          "rank": 21,
+          "last_week_ratio": 172.9
+        },
+        {
+          "moviename": "Transformer / Beast Awakening",
+          "japanese name": "トランスフォーマー／ビースト覚醒",
+          "sales": 935,
+          "seats": 18205,
+          "showtimes": 126,
+          "theaters": 159,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "PATHAAN Pattern",
+          "japanese name": "ＰＡＴＨＡＡＮ パターン",
+          "sales": 824,
+          "seats": 13488,
+          "showtimes": 62,
+          "theaters": 39,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Special Episode Resonate! Euphonium～Ensemble Contest～",
+          "japanese name": "特別編 響け！ユーフォニアム～アンサンブルコンテスト～",
+          "sales": 712,
+          "seats": 10328,
+          "showtimes": 49,
+          "theaters": 48,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Explosive Dragon Team Avenger 20th Forbidden Avare",
+          "japanese name": "爆竜戦隊アバレンジャー ２０ｔｈ 許されざるアバレ",
+          "sales": 633,
+          "seats": 24385,
+          "showtimes": 149,
+          "theaters": 52,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Hello, Mom",
+          "japanese name": "こんにちは、母さん",
+          "sales": 21675,
+          "seats": 195859,
+          "showtimes": 842,
+          "theaters": 171,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Haunted Mansion",
+          "japanese name": "ホーンテッドマンション",
+          "sales": 20647,
+          "seats": 308719,
+          "showtimes": 1051,
+          "theaters": 182,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MEG: The Monsters 2",
+          "japanese name": "ＭＥＧ ザ・モンスターズ２",
+          "sales": 9037,
+          "seats": 136504,
+          "showtimes": 759,
+          "theaters": 176,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "How do you live?",
+          "japanese name": "君たちはどう生きるか",
+          "sales": 8605,
+          "seats": 105194,
+          "showtimes": 728,
+          "theaters": 182,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kingdom: The Fate of Fire",
+          "japanese name": "キングダム 運命の炎",
+          "sales": 8437,
+          "seats": 115451,
+          "showtimes": 649,
+          "theaters": 180,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mission: Impossible / Dead Reckoning PART ONE",
+          "japanese name": "ミッション：インポッシブル／デッドレコニング ＰＡＲＴ ＯＮＥ",
+          "sales": 6328,
+          "seats": 65449,
+          "showtimes": 367,
+          "theaters": 174,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "G-Men",
+          "japanese name": "Ｇメン",
+          "sales": 5239,
+          "seats": 71666,
+          "showtimes": 548,
+          "theaters": 169,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Asteroid City",
+          "japanese name": "アステロイド・シティ",
+          "sales": 3401,
+          "seats": 27936,
+          "showtimes": 176,
+          "theaters": 57,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Element",
+          "japanese name": "マイ・エレメント",
+          "sales": 3363,
+          "seats": 56858,
+          "showtimes": 382,
+          "theaters": 178,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "When morning comes, I'll go to meet you first",
+          "japanese name": "夜が明けたら、いちばんに君に会いにいく",
+          "sales": 3257,
+          "seats": 116644,
+          "showtimes": 556,
+          "theaters": 124,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BE: THE ONE",
+          "japanese name": "ＢＥ：ｔｈｅ ＯＮＥ",
+          "sales": 3219,
+          "seats": 28012,
+          "showtimes": 176,
+          "theaters": 68,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Falling in Spring",
+          "japanese name": "春に散る",
+          "sales": 3095,
+          "seats": 35670,
+          "showtimes": 287,
+          "theaters": 148,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "YOSHIKI: UNDER THE SKY Japan Premier Live Viewing",
+          "japanese name": "ＹＯＳＨＩＫＩ：ＵＮＤＥＲ ＴＨＥ ＳＫＹ ジャパンプレミアライブビューイング",
+          "sales": 2846,
+          "seats": 12793,
+          "showtimes": 39,
+          "theaters": 40,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Barbie",
+          "japanese name": "バービー",
+          "sales": 2323,
+          "seats": 26994,
+          "showtimes": 190,
+          "theaters": 164,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"SAND LAND\"",
+          "japanese name": "映画「ＳＡＮＤ ＬＡＮＤ」",
+          "sales": 2088,
+          "seats": 44773,
+          "showtimes": 343,
+          "theaters": 161,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sweet Home",
+          "japanese name": "スイート・マイホーム",
+          "sales": 1840,
+          "seats": 36206,
+          "showtimes": 261,
+          "theaters": 89,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Revolver Lily",
+          "japanese name": "リボルバー・リリー",
+          "sales": 1602,
+          "seats": 25243,
+          "showtimes": 193,
+          "theaters": 171,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ryoma! The Prince of Tennis New Birth Theater Version Tenimyu",
+          "japanese name": "リョーマ！Ｔｈｅ Ｐｒｉｎｃｅ ｏｆ Ｔｅｎｎｉｓ 新生劇場版テニスの王子様",
+          "sales": 1592,
+          "seats": 2590,
+          "showtimes": 19,
+          "theaters": 19,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mina's Song",
+          "japanese name": "ミンナのウタ",
+          "sales": 1324,
+          "seats": 19679,
+          "showtimes": 133,
+          "theaters": 119,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Transformer/Beast Awakening",
+          "japanese name": "トランスフォーマー／ビースト覚醒",
+          "sales": 1131,
+          "seats": 22580,
+          "showtimes": 157,
+          "theaters": 159,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shin Dimension! Crayon Shin-chan THE MOVIE Super Power Great Battle ~Flying Flying Hand Rolls~",
+          "japanese name": "しん次元！クレヨンしんちゃんＴＨＥ ＭＯＶＩＥ 超能力大決戦 ～とべとべ手巻き寿司～",
+          "sales": 1089,
+          "seats": 47722,
+          "showtimes": 319,
+          "theaters": 174,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "PATHAN Pattern",
+          "japanese name": "ＰＡＴＨＡＡＮ パターン",
+          "sales": 1051,
+          "seats": 18186,
+          "showtimes": 84,
+          "theaters": 39,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: Black Iron Fish Shadow (Submarine)",
+          "japanese name": "名探偵コナン 黒鉄の魚影（サブマリン）",
+          "sales": 979,
+          "seats": 23564,
+          "showtimes": 158,
+          "theaters": 156,
+          "rank": 23,
+          "last_week_ratio": 153
+        },
+        {
+          "moviename": "Special Episode Resonate! Euphonium ～ Ensemble Contest ～",
+          "japanese name": "特別編 響け！ユーフォニアム～アンサンブルコンテスト～",
+          "sales": 968,
+          "seats": 13434,
+          "showtimes": 66,
+          "theaters": 48,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Idol Master Million Live! Act 1",
+          "japanese name": "アイドルマスター ミリオンライブ！ 第１幕",
+          "sales": 857,
+          "seats": 7952,
+          "showtimes": 56,
+          "theaters": 48,
+          "rank": 25,
+          "last_week_ratio": 146
+        }
+      ]
+    }
+  ]
+}

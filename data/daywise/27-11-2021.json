@@ -1,0 +1,773 @@
+{
+  "date": "27-11-2021",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "ARASHI 5x20 FILM",
+          "japanese name": "ＡＲＡＳＨＩ ５×２０ ＦＩＬＭ",
+          "sales": 38045,
+          "seats": 252481,
+          "showtimes": 852,
+          "theaters": 178,
+          "rank": 1,
+          "last_week_ratio": 2440.3
+        },
+        {
+          "moviename": "Mirabel and a House Full of Magic",
+          "japanese name": "ミラベルと魔法だらけの家",
+          "sales": 25399,
+          "seats": 190580,
+          "showtimes": 821,
+          "theaters": 291,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Sumikko Gurashi: The Magic of the Blue Moon Night",
+          "japanese name": "映画 すみっコぐらし 青い月夜のまほうのコ",
+          "sales": 17779,
+          "seats": 111301,
+          "showtimes": 568,
+          "theaters": 174,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "And the baton was passed",
+          "japanese name": "そして、バトンは渡された",
+          "sales": 7121,
+          "seats": 53183,
+          "showtimes": 374,
+          "theaters": 280,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Film \"What Did You Eat Yesterday?\"",
+          "japanese name": "劇場版「きのう何食べた？」",
+          "sales": 7060,
+          "seats": 48731,
+          "showtimes": 365,
+          "theaters": 257,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dear Evan Hansen",
+          "japanese name": "ディア・エヴァン・ハンセン",
+          "sales": 6733,
+          "seats": 56634,
+          "showtimes": 371,
+          "theaters": 194,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I don't have money for retirement!",
+          "japanese name": "老後の資金がありません！",
+          "sales": 4887,
+          "seats": 53933,
+          "showtimes": 396,
+          "theaters": 271,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Film Sword Art Online Progressive: Thearia of a Starless Night",
+          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア",
+          "sales": 4331,
+          "seats": 33449,
+          "showtimes": 211,
+          "theaters": 177,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Eternals",
+          "japanese name": "エターナルズ",
+          "sales": 4032,
+          "seats": 43121,
+          "showtimes": 291,
+          "theaters": 286,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Ballad of the Earth Dragon - FINAL",
+          "japanese name": "土竜の唄 ＦＩＮＡＬ",
+          "sales": 4005,
+          "seats": 69461,
+          "showtimes": 473,
+          "theaters": 274,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "EUREKA Symphony Poem EUREKA SEVEN High Evolution",
+          "japanese name": "ＥＵＲＥＫＡ 交響詩篇エウレカセブン ハイエボリューション",
+          "sales": 3693,
+          "seats": 41988,
+          "showtimes": 240,
+          "theaters": 116,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Tropical ~Kuudere-chan! Precure Snow Princess and Miracle Ring",
+          "japanese name": "映画トロピカル～ジュ！プリキュア 雪のプリンセスと奇跡の指輪",
+          "sales": 2437,
+          "seats": 32969,
+          "showtimes": 213,
+          "theaters": 178,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ten Gokaija",
+          "japanese name": "テン・ゴーカイジャー",
+          "sales": 1637,
+          "seats": 7343,
+          "showtimes": 52,
+          "theaters": 36,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "007 No Time to Die",
+          "japanese name": "００７ ノー・タイム・トゥ・ダイ",
+          "sales": 1478,
+          "seats": 8498,
+          "showtimes": 55,
+          "theaters": 180,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "燃烧吧剑",
+          "japanese name": "燃えよ剣",
+          "sales": 1372,
+          "seats": 20336,
+          "showtimes": 169,
+          "theaters": 243,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 舞台「刀剑乱舞」虚传 燃烧的本能寺",
+          "japanese name": "劇場版 舞台「刀剣乱舞」虚伝 燃ゆる本能寺",
+          "sales": 1264,
+          "seats": 6107,
+          "showtimes": 47,
+          "theaters": 39,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "比昨天更红 比明天更蓝 CINEFIGHTERS PROJECT",
+          "japanese name": "昨日より赤く明日より青く ＣＩＮＥＭＡＦＩＧＨＴＥＲＳ ＰＲＯＪＥＣＴ",
+          "sales": 1105,
+          "seats": 14564,
+          "showtimes": 84,
+          "theaters": 53,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A fool who doesn’t know how to pick plums",
+          "japanese name": "梅切らぬバカ",
+          "sales": 1004,
+          "seats": 8740,
+          "showtimes": 71,
+          "theaters": 40,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "听我的歌声",
+          "japanese name": "アイの歌声を聴かせて",
+          "sales": 749,
+          "seats": 5667,
+          "showtimes": 46,
+          "theaters": 145,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Musical \"Sword Dance Revolution\" Toji Ranbu Sound Festival Katsuragi (4DX)",
+          "japanese name": "ミュージカル「刀剣乱舞」 壽 乱舞音曲祭 膝丸 （４ＤＸ）",
+          "sales": 715,
+          "seats": 2268,
+          "showtimes": 18,
+          "theaters": 33,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Harry Potter and the Philosopher's Stone",
+          "japanese name": "ハリー・ポッターと賢者の石",
+          "sales": 656,
+          "seats": 3371,
+          "showtimes": 12,
+          "theaters": 27,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Respect",
+          "japanese name": "リスペクト",
+          "sales": 640,
+          "seats": 5191,
+          "showtimes": 47,
+          "theaters": 157,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Blade of the Immortal: The Beyond Episode 10, 11, 12",
+          "japanese name": "蒼穹のファフナー ＴＨＥ ＢＥＹＯＮＤ 第十話・第十一話・第十二話",
+          "sales": 614,
+          "seats": 2029,
+          "showtimes": 13,
+          "theaters": 23,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Masquerade Night",
+          "japanese name": "マスカレード・ナイト",
+          "sales": 614,
+          "seats": 9337,
+          "showtimes": 67,
+          "theaters": 254,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fate/Zero",
+          "japanese name": "ファイト・クラブ",
+          "sales": 451,
+          "seats": 2293,
+          "showtimes": 18,
+          "theaters": 18,
+          "rank": 25,
+          "last_week_ratio": 136.7
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "ARASHI 5x20 FILM",
+          "japanese name": "ＡＲＡＳＨＩ ５×２０ ＦＩＬＭ",
+          "sales": 61903,
+          "seats": 440370,
+          "showtimes": 1474,
+          "theaters": 178,
+          "rank": 1,
+          "last_week_ratio": 1913.5
+        },
+        {
+          "moviename": "Mirabel and a House Full of Magic",
+          "japanese name": "ミラベルと魔法だらけの家",
+          "sales": 42078,
+          "seats": 327603,
+          "showtimes": 1407,
+          "theaters": 291,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Sumikko Gurashi: The Magic of the Blue Moon Night",
+          "japanese name": "映画 すみっコぐらし 青い月夜のまほうのコ",
+          "sales": 24971,
+          "seats": 162300,
+          "showtimes": 833,
+          "theaters": 174,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "And the baton was passed",
+          "japanese name": "そして、バトンは渡された",
+          "sales": 15136,
+          "seats": 94838,
+          "showtimes": 666,
+          "theaters": 280,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dear Evan Hansen",
+          "japanese name": "ディア・エヴァン・ハンセン",
+          "sales": 13244,
+          "seats": 102651,
+          "showtimes": 666,
+          "theaters": 194,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Film \"What Did You Eat Yesterday?\"",
+          "japanese name": "劇場版「きのう何食べた？」",
+          "sales": 11946,
+          "seats": 78246,
+          "showtimes": 584,
+          "theaters": 257,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Film Sword Art Online Progressive: Thearia of a Starless Night",
+          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア",
+          "sales": 8524,
+          "seats": 60476,
+          "showtimes": 397,
+          "theaters": 177,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Eternals",
+          "japanese name": "エターナルズ",
+          "sales": 8200,
+          "seats": 80612,
+          "showtimes": 541,
+          "theaters": 286,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Ballad of the Earth Dragon - FINAL",
+          "japanese name": "土竜の唄 ＦＩＮＡＬ",
+          "sales": 8186,
+          "seats": 126767,
+          "showtimes": 858,
+          "theaters": 274,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I don't have money for retirement!",
+          "japanese name": "老後の資金がありません！",
+          "sales": 6591,
+          "seats": 71355,
+          "showtimes": 515,
+          "theaters": 271,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "EUREKA Symphony Poem EUREKA SEVEN High Evolution",
+          "japanese name": "ＥＵＲＥＫＡ 交響詩篇エウレカセブン ハイエボリューション",
+          "sales": 6277,
+          "seats": 69084,
+          "showtimes": 397,
+          "theaters": 116,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "007 No Time to Die",
+          "japanese name": "００７ ノー・タイム・トゥ・ダイ",
+          "sales": 3350,
+          "seats": 20199,
+          "showtimes": 140,
+          "theaters": 180,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ten Gokaija",
+          "japanese name": "テン・ゴーカイジャー",
+          "sales": 2704,
+          "seats": 11364,
+          "showtimes": 81,
+          "theaters": 36,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Tropical ~Kuudere-chan! Precure Snow Princess and Miracle Ring",
+          "japanese name": "映画トロピカル～ジュ！プリキュア 雪のプリンセスと奇跡の指輪",
+          "sales": 2626,
+          "seats": 33825,
+          "showtimes": 220,
+          "theaters": 178,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Masquerade Night",
+          "japanese name": "マスカレード・ナイト",
+          "sales": 2362,
+          "seats": 27065,
+          "showtimes": 200,
+          "theaters": 254,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 舞台「刀剑乱舞」虚传 燃烧的本能寺",
+          "japanese name": "劇場版 舞台「刀剣乱舞」虚伝 燃ゆる本能寺",
+          "sales": 2255,
+          "seats": 10763,
+          "showtimes": 84,
+          "theaters": 39,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "燃烧吧剑",
+          "japanese name": "燃えよ剣",
+          "sales": 2121,
+          "seats": 30682,
+          "showtimes": 242,
+          "theaters": 243,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "听我的歌声",
+          "japanese name": "アイの歌声を聴かせて",
+          "sales": 1849,
+          "seats": 19904,
+          "showtimes": 140,
+          "theaters": 145,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "比昨天更红 比明天更蓝 CINEFIGHTERS PROJECT",
+          "japanese name": "昨日より赤く明日より青く ＣＩＮＥＭＡＦＩＧＨＴＥＲＳ ＰＲＯＪＥＣＴ",
+          "sales": 1757,
+          "seats": 24319,
+          "showtimes": 143,
+          "theaters": 53,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 うたの☆プリンスさまっ♪マジ LOVE KINGDOM（１０万分の１秒の音响电影祭）",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪マジ ＬＯＶＥ キングダム（１０万分の１秒の音響映画祭）",
+          "sales": 1573,
+          "seats": 3183,
+          "showtimes": 17,
+          "theaters": 16,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Respect",
+          "japanese name": "リスペクト",
+          "sales": 1488,
+          "seats": 13504,
+          "showtimes": 120,
+          "theaters": 157,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Harry Potter and the Philosopher's Stone",
+          "japanese name": "ハリー・ポッターと賢者の石",
+          "sales": 1327,
+          "seats": 6435,
+          "showtimes": 21,
+          "theaters": 27,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A fool who doesn’t know how to pick plums",
+          "japanese name": "梅切らぬバカ",
+          "sales": 1219,
+          "seats": 12229,
+          "showtimes": 95,
+          "theaters": 40,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Musical \"Sword Dance Revolution\" Toji Ranbu Sound Festival Katsuragi (4DX)",
+          "japanese name": "ミュージカル「刀剣乱舞」 壽 乱舞音曲祭 膝丸 （４ＤＸ）",
+          "sales": 1166,
+          "seats": 4331,
+          "showtimes": 32,
+          "theaters": 33,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Blade of the Immortal: The Beyond Episode 10, 11, 12",
+          "japanese name": "蒼穹のファフナー ＴＨＥ ＢＥＹＯＮＤ 第十話・第十一話・第十二話",
+          "sales": 1084,
+          "seats": 3440,
+          "showtimes": 25,
+          "theaters": 23,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "ARASHI 5x20 FILM",
+          "japanese name": "ＡＲＡＳＨＩ ５×２０ ＦＩＬＭ",
+          "sales": 68427,
+          "seats": 534348,
+          "showtimes": 1776,
+          "theaters": 178,
+          "rank": 1,
+          "last_week_ratio": 1508.5
+        },
+        {
+          "moviename": "Mirabel and a house full of magic",
+          "japanese name": "ミラベルと魔法だらけの家",
+          "sales": 45985,
+          "seats": 394183,
+          "showtimes": 1697,
+          "theaters": 291,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Sumikko Gurashi The Magic of the Blue Moon Night",
+          "japanese name": "映画 すみっコぐらし 青い月夜のまほうのコ",
+          "sales": 25174,
+          "seats": 164906,
+          "showtimes": 848,
+          "theaters": 174,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Then, the baton was passed",
+          "japanese name": "そして、バトンは渡された",
+          "sales": 17315,
+          "seats": 123438,
+          "showtimes": 856,
+          "theaters": 280,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dear Evan Hansen",
+          "japanese name": "ディア・エヴァン・ハンセン",
+          "sales": 15884,
+          "seats": 135046,
+          "showtimes": 869,
+          "theaters": 194,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"What Did You Eat Yesterday?\"",
+          "japanese name": "劇場版「きのう何食べた？」",
+          "sales": 13864,
+          "seats": 104209,
+          "showtimes": 774,
+          "theaters": 257,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Earth Dragon's Song FINAL",
+          "japanese name": "土竜の唄 ＦＩＮＡＬ",
+          "sales": 10576,
+          "seats": 169739,
+          "showtimes": 1143,
+          "theaters": 274,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Eternals",
+          "japanese name": "エターナルズ",
+          "sales": 10518,
+          "seats": 117309,
+          "showtimes": 766,
+          "theaters": 286,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 Sword Art Online Progressive: Starless Night's aria",
+          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア",
+          "sales": 10057,
+          "seats": 81626,
+          "showtimes": 527,
+          "theaters": 177,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "EUROPA Symphony Prelude Eurekha Seven High Evolution",
+          "japanese name": "ＥＵＲＥＫＡ 交響詩篇エウレカセブン ハイエボリューション",
+          "sales": 7737,
+          "seats": 90961,
+          "showtimes": 516,
+          "theaters": 116,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "No money for retirement!",
+          "japanese name": "老後の資金がありません！",
+          "sales": 6657,
+          "seats": 74052,
+          "showtimes": 530,
+          "theaters": 271,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "007 No Time to Die",
+          "japanese name": "００７ ノー・タイム・トゥ・ダイ",
+          "sales": 4252,
+          "seats": 29354,
+          "showtimes": 202,
+          "theaters": 180,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ten Gokaija",
+          "japanese name": "テン・ゴーカイジャー",
+          "sales": 2886,
+          "seats": 12937,
+          "showtimes": 91,
+          "theaters": 36,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Masquerade Night",
+          "japanese name": "マスカレード・ナイト",
+          "sales": 2806,
+          "seats": 36231,
+          "showtimes": 266,
+          "theaters": 254,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Tropical ~Ju! Precure Snow Princess and Miracle Ring",
+          "japanese name": "映画トロピカル～ジュ！プリキュア 雪のプリンセスと奇跡の指輪",
+          "sales": 2626,
+          "seats": 33825,
+          "showtimes": 220,
+          "theaters": 178,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Film Stage \"Sword Dance Warriors\" - False Story: Burning Honnō-ji",
+          "japanese name": "劇場版 舞台「刀剣乱舞」虚伝 燃ゆる本能寺",
+          "sales": 2433,
+          "seats": 13644,
+          "showtimes": 106,
+          "theaters": 39,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Burn, Sword!",
+          "japanese name": "燃えよ剣",
+          "sales": 2311,
+          "seats": 33236,
+          "showtimes": 257,
+          "theaters": 243,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "redder than yesterday, bluer than tomorrow CINEMAFIGHERS PROJECT",
+          "japanese name": "昨日より赤く明日より青く ＣＩＮＥＭＡＦＩＧＨＴＥＲＳ ＰＲＯＪＥＣＴ",
+          "sales": 2005,
+          "seats": 32900,
+          "showtimes": 192,
+          "theaters": 53,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let me hear your singing voice",
+          "japanese name": "アイの歌声を聴かせて",
+          "sales": 2001,
+          "seats": 22234,
+          "showtimes": 154,
+          "theaters": 145,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Respect",
+          "japanese name": "リスペクト",
+          "sales": 1757,
+          "seats": 19192,
+          "showtimes": 163,
+          "theaters": 157,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Malignant, furious nightmare",
+          "japanese name": "マリグナント 狂暴な悪夢",
+          "sales": 1622,
+          "seats": 9685,
+          "showtimes": 76,
+          "theaters": 59,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version Utawarerumono♪ Maji LOVE Kingdome (A Sound Film Festival of 1 in 100,000 Seconds)",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪マジ ＬＯＶＥ キングダム（１０万分の１秒の音響映画祭）",
+          "sales": 1573,
+          "seats": 3183,
+          "showtimes": 17,
+          "theaters": 16,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Musical \"Sword Dance of the Dead\" - Juvenile - Sword Dance Sound Festival - Kishinmaru (4DX)",
+          "japanese name": "ミュージカル「刀剣乱舞」 壽 乱舞音曲祭 膝丸 （４ＤＸ）",
+          "sales": 1411,
+          "seats": 5201,
+          "showtimes": 40,
+          "theaters": 33,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Harry Potter and the Sorcerer's Stone",
+          "japanese name": "ハリー・ポッターと賢者の石",
+          "sales": 1327,
+          "seats": 6435,
+          "showtimes": 21,
+          "theaters": 27,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Asteroid Farmer THE BEYOND Episode 10, 11, 12",
+          "japanese name": "蒼穹のファフナー ＴＨＥ ＢＥＹＯＮＤ 第十話・第十一話・第十二話",
+          "sales": 1304,
+          "seats": 4595,
+          "showtimes": 30,
+          "theaters": 23,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}
