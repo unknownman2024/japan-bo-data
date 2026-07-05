@@ -5,9 +5,10 @@ and yearly index JSONs. Uses asyncio + aiohttp for fast concurrent fetching.
 
 Handles:
 - "Final" entries are for the previous day, "2PM"/"7PM" for the requested date.
-- Japanese name is the unique key; English translations are stored but not used
-  for slug generation, preventing duplicate files for the same movie.
-- A persistent mapping file (movieslug.json) keeps track of Japanese name -> slug.
+- Japanese name is the unique key; English name is used to generate a
+  human‑readable slug. If two movies have the same English name, a hash of
+  the Japanese name is appended for uniqueness.
+- Persistent mapping file (movieslug.json) stores Japanese name → {slug, english_name}.
 """
 
 import asyncio
@@ -16,7 +17,6 @@ import aiofiles
 import json
 import re
 import hashlib
-import os
 from datetime import datetime, timedelta
 from pathlib import Path
 from collections import defaultdict
@@ -32,7 +32,7 @@ DATA_DIR = Path("data")
 DATABASE_DIR = Path("database")
 DAYWISE_DIR = DATA_DIR / "daywise"
 STATE_FILE = Path("state.json")
-MOVIE_SLUG_MAP_FILE = DATA_DIR / "movieslug.json"   # persistent mapping
+MOVIE_SLUG_MAP_FILE = DATA_DIR / "movieslug.json"
 
 SEMAPHORE = asyncio.Semaphore(45)
 
@@ -58,16 +58,26 @@ def week_day_string(release_date, current_date):
     diff = (current_date - release_date).days
     week_num = diff // 7 + 1
     weekday = current_date.strftime("%a")
-    return f"{ordinal(week_num)} {weekday}"
+    return f"{week_num}{ordinal(week_num)} {weekday}"
 
-def generate_slug_from_jp(jp_name):
-    """Deterministic slug from Japanese name (hash + short prefix)."""
-    # Use a short hash to guarantee uniqueness and avoid filesystem issues
-    h = hashlib.md5(jp_name.encode('utf-8')).hexdigest()[:12]
-    # Keep a human‑readable prefix from the Japanese name (safe characters only)
-    prefix = re.sub(r'[^a-z0-9]+', '-', jp_name.lower().strip())
-    prefix = prefix[:20].strip('-') if prefix else "movie"
-    return f"{prefix}-{h}"[:50]  # max 50 chars
+def generate_slug_from_english(english_name, jp_name=None):
+    """
+    Generate a filesystem‑safe slug from the English name.
+    If the English name is empty, fallback to Japanese.
+    Returns a base slug (without uniqueness suffix).
+    """
+    if not english_name:
+        name = jp_name or "unknown"
+    else:
+        name = english_name
+
+    # Convert to lower-case, replace spaces and non-alnum with hyphens
+    slug = re.sub(r'[^a-z0-9]+', '-', name.lower().strip())
+    slug = slug.strip('-')
+    if not slug:
+        slug = "movie"
+    # Limit length to 50 characters for filesystem safety
+    return slug[:50]
 
 class MovieSlugMapper:
     """
@@ -80,7 +90,6 @@ class MovieSlugMapper:
         self.lock = asyncio.Lock()
 
     async def load(self):
-        """Load mapping from file."""
         if not MOVIE_SLUG_MAP_FILE.exists():
             return
         try:
@@ -91,7 +100,6 @@ class MovieSlugMapper:
             logger.warning(f"Failed to load movie slug map: {e}")
 
     async def save(self):
-        """Save mapping to file."""
         if not self.dirty:
             return
         async with self.lock:
@@ -104,7 +112,6 @@ class MovieSlugMapper:
                 logger.error(f"Failed to write movie slug map: {e}")
 
     def get_slug(self, jp_name):
-        """Return slug for a Japanese name, or None if not known."""
         entry = self.map.get(jp_name)
         return entry["slug"] if entry else None
 
@@ -115,26 +122,40 @@ class MovieSlugMapper:
     def ensure_movie(self, jp_name, english_name):
         """
         Ensure the movie exists in the map.
-        Returns (slug, is_new). If new, creates a slug and stores english_name.
-        If existing, optionally updates english_name if it differs (keeps first).
+        Returns (slug, is_new). For new movies, generates a slug from the
+        English name (or Japanese if English is empty). If the generated slug
+        is already taken, appends a short hash of the Japanese name.
+        If existing, returns its slug and optionally updates english_name if
+        it was previously empty.
         """
         if jp_name in self.map:
             slug = self.map[jp_name]["slug"]
             stored_eng = self.map[jp_name]["english_name"]
-            if english_name and english_name != stored_eng:
-                logger.warning(f"English name for '{jp_name}' changed: '{stored_eng}' -> '{english_name}'. Keeping first.")
+            # If we have a better English name now, update it (but keep the slug)
+            if english_name and (not stored_eng or english_name != stored_eng):
+                self.map[jp_name]["english_name"] = english_name
+                self.dirty = True
             return slug, False
         else:
-            slug = generate_slug_from_jp(jp_name)
-            # Ensure slug uniqueness (should be fine with hash, but check)
+            # New movie: generate a slug from the English name
+            base_slug = generate_slug_from_english(english_name, jp_name)
+            # Check for collisions with existing slugs
             existing_slugs = {v["slug"] for v in self.map.values()}
+            slug = base_slug
             if slug in existing_slugs:
-                # append a counter if collision (unlikely)
-                for i in range(1, 100):
-                    alt = f"{slug[:45]}-{i}"[:50]
-                    if alt not in existing_slugs:
-                        slug = alt
-                        break
+                # Append a short hash of the Japanese name to make it unique
+                h = hashlib.md5(jp_name.encode('utf-8')).hexdigest()[:6]
+                # Ensure we don't exceed 50 chars
+                suffix = f"-{h}"
+                max_base_len = 50 - len(suffix)
+                slug = base_slug[:max_base_len] + suffix
+                # In the rare case that even that collides, add a counter
+                if slug in existing_slugs:
+                    for i in range(1, 100):
+                        alt = f"{base_slug[:48]}-{i}"[:50]
+                        if alt not in existing_slugs:
+                            slug = alt
+                            break
             self.map[jp_name] = {"slug": slug, "english_name": english_name or jp_name}
             self.dirty = True
             return slug, True
@@ -170,32 +191,19 @@ class MovieStore:
 
         # Process each group
         for jp_name, items in groups.items():
-            # Choose a canonical slug: from mapper if exists, else first item's slug (or generate new)
+            # Get canonical slug from mapper
             canonical_slug = self.mapper.get_slug(jp_name)
             if not canonical_slug:
-                # Use the slug from the first file, or generate a new one
-                first_slug = items[0][0]
-                # But we want to ensure it's based on jp_name; we can generate new or keep first
-                # To be safe, we generate a fresh slug using jp_name (since mapper doesn't have it)
-                canonical_slug = generate_slug_from_jp(jp_name)
-                # Check if this slug already exists (if we have other movies with same slug collision)
-                # This should not happen with hash, but handle collision
-                if canonical_slug in self.movies or canonical_slug in [v["slug"] for v in self.mapper.map.values() if v["slug"] != canonical_slug]:
-                    # append counter
-                    for i in range(1, 100):
-                        alt = f"{canonical_slug[:45]}-{i}"[:50]
-                        if alt not in self.movies and alt not in [v["slug"] for v in self.mapper.map.values()]:
-                            canonical_slug = alt
-                            break
-                # Store in mapper
-                self.mapper.map[jp_name] = {"slug": canonical_slug, "english_name": items[0][1].get("movie_name", jp_name)}
-                self.mapper.dirty = True
+                # Generate a new slug using the first item's English name
+                first_eng = items[0][1].get("movie_name", jp_name)
+                canonical_slug, _ = self.mapper.ensure_movie(jp_name, first_eng)
+                # mapper.ensure_movie already sets dirty
             else:
-                # We have a canonical slug from mapper; ensure it's in the list of items
-                # If not, we need to add it (maybe we have a file with that slug already)
-                pass
+                # Ensure the mapper has the correct English name (use the first item)
+                first_eng = items[0][1].get("movie_name", jp_name)
+                self.mapper.ensure_movie(jp_name, first_eng)  # may update English name
 
-            # Merge entries from all files
+            # Merge entries from all files for this Japanese name
             merged_entries = []
             seen = set()  # (date, time) to avoid duplicates
             for _, data in items:
@@ -257,9 +265,9 @@ class MovieStore:
                     async with aiofiles.open(filepath, 'r', encoding='utf-8') as f:
                         data = json.loads(await f.read())
                     self.movies[slug] = data
-                    # Ensure mapper has this entry
                     jp_name = data.get("jp_name")
                     if jp_name and not self.mapper.get_slug(jp_name):
+                        # Add to mapper
                         self.mapper.map[jp_name] = {"slug": slug, "english_name": data.get("movie_name", jp_name)}
                         self.mapper.dirty = True
                 except Exception as e:
@@ -271,7 +279,6 @@ class MovieStore:
         """Get or create a movie entry. Returns (slug, movie_data)."""
         slug, is_new = self.mapper.ensure_movie(jp_name, movie_name)
         if is_new:
-            # New movie
             movie_data = {
                 "movie_name": movie_name,
                 "jp_name": jp_name,
@@ -281,10 +288,8 @@ class MovieStore:
             self.movies[slug] = movie_data
             self.dirty.add(slug)
         else:
-            # Existing: update names if needed, release date if earlier
             movie_data = self.movies.get(slug)
             if not movie_data:
-                # Should not happen if mapper is consistent, but load if missing
                 movie_data = {
                     "movie_name": movie_name,
                     "jp_name": jp_name,
