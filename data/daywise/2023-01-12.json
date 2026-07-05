@@ -1,0 +1,773 @@
+{
+  "date": "12-01-2023",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Dr. Coto Clinic",
+          "japanese name": "Ｄｒ．コトー診療所",
+          "sales": 7778,
+          "seats": 57770,
+          "showtimes": 357,
+          "theaters": 192,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 7361,
+          "seats": 106769,
+          "showtimes": 404,
+          "theaters": 197,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Suzume's door locking",
+          "japanese name": "すずめの戸締まり",
+          "sales": 6461,
+          "seats": 110028,
+          "showtimes": 411,
+          "theaters": 198,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Avatar: The Way of Water",
+          "japanese name": "アバター ウェイ・オブ・ウォーター",
+          "sales": 5443,
+          "seats": 67715,
+          "showtimes": 426,
+          "theaters": 197,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "From Lagreli with Love",
+          "japanese name": "ラーゲリより愛を込めて",
+          "sales": 4179,
+          "seats": 34548,
+          "showtimes": 281,
+          "theaters": 194,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TV Series Special Edit Version \"Detective Conan:灰原哀物語～Black Iron Mystery Train～\"",
+          "japanese name": "ＴＶシリーズ特別編集版「名探偵コナン 灰原哀物語～黒鉄のミステリートレイン～」",
+          "sales": 3476,
+          "seats": 105805,
+          "showtimes": 325,
+          "theaters": 124,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Liar 800 What a dream of the阵",
+          "japanese name": "嘘八百 なにわ夢の陣",
+          "sales": 3293,
+          "seats": 41452,
+          "showtimes": 249,
+          "theaters": 121,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "State of Emergency",
+          "japanese name": "非常宣言",
+          "sales": 2188,
+          "seats": 30955,
+          "showtimes": 203,
+          "theaters": 126,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mr. Children \"GIFT for YOU\"",
+          "japanese name": "Ｍｒ．Ｃｈｉｌｄｒｅｎ「ＧＩＦＴ ｆｏｒ ｙｏｕ」",
+          "sales": 1554,
+          "seats": 17564,
+          "showtimes": 103,
+          "theaters": 83,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The solitary castle of the mirror",
+          "japanese name": "かがみの孤城",
+          "sales": 1458,
+          "seats": 30245,
+          "showtimes": 224,
+          "theaters": 184,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Family",
+          "japanese name": "ファミリア",
+          "sales": 782,
+          "seats": 17995,
+          "showtimes": 111,
+          "theaters": 61,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Knight Parade",
+          "japanese name": "ブラックナイトパレード",
+          "sales": 741,
+          "seats": 32680,
+          "showtimes": 246,
+          "theaters": 184,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dreamhorse",
+          "japanese name": "ドリームホース",
+          "sales": 725,
+          "seats": 5277,
+          "showtimes": 43,
+          "theaters": 25,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Moon phases",
+          "japanese name": "月の満ち欠け",
+          "sales": 701,
+          "seats": 5942,
+          "showtimes": 45,
+          "theaters": 175,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Whitney Houston I WANNA DANCE WITH SOMEBODY",
+          "japanese name": "ホイットニー・ヒューストン Ｉ ＷＡＮＮＡ ＤＡＮＣＥ ＷＩＴＨ ＳＯＭＥＢＯＤＹ",
+          "sales": 622,
+          "seats": 4186,
+          "showtimes": 33,
+          "theaters": 109,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nakajima Miyuki Theater Version Live History 2007-2016 Song Journey～Reunion～One Meeting",
+          "japanese name": "中島みゆき 劇場版 ライヴ・ヒストリー ２００７－２０１６ 歌旅～縁会～一会",
+          "sales": 532,
+          "seats": 10545,
+          "showtimes": 65,
+          "theaters": 62,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kamen Rider Guts × Kamen Rider Revice WINTER MOVIE 2022",
+          "japanese name": "仮面ライダーギーツ×仮面ライダーリバイス ＷＩＮＴＥＲ ＭＯＶＩＥ ２０２２",
+          "sales": 519,
+          "seats": 35154,
+          "showtimes": 273,
+          "theaters": 181,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "＜Monthly Kabuki 2022＞ Woman Killing Oil Hell -",
+          "japanese name": "＜月イチ歌舞伎２０２２＞女殺油地獄",
+          "sales": 445,
+          "seats": 3613,
+          "showtimes": 23,
+          "theaters": 23,
+          "rank": 18,
+          "last_week_ratio": 1034.9
+        },
+        {
+          "moviename": "ONE PIECE FILM RED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 333,
+          "seats": 7781,
+          "showtimes": 61,
+          "theaters": 174,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Two Plum Blossom Maidens / Japanese Festive Dress Begins: Moon歌舞伎２０１６",
+          "japanese name": "二人藤娘／日本振袖始  月イチ歌舞伎２０１６",
+          "sales": 275,
+          "seats": 838,
+          "showtimes": 9,
+          "theaters": 10,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kaguya-sama wants to confess - First Kiss Never Ends -",
+          "japanese name": "かぐや様は告らせたい－ファーストキッスは終わらない－",
+          "sales": 250,
+          "seats": 5674,
+          "showtimes": 35,
+          "theaters": 44,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love's Thorn",
+          "japanese name": "恋のいばら",
+          "sales": 229,
+          "seats": 10452,
+          "showtimes": 85,
+          "theaters": 57,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Top Gun Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 224,
+          "seats": 3004,
+          "showtimes": 25,
+          "theaters": 46,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "\"Omi merchants, run!\" Completion premiere screening",
+          "japanese name": "「近江商人、走る！」完成披露試写会",
+          "sales": 194,
+          "seats": 5630,
+          "showtimes": 43,
+          "theaters": 46,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "JSB3 LIVE FILM / RISING SOUND",
+          "japanese name": "ＪＳＢ３ ＬＩＶＥ ＦＩＬＭ ／ ＲＩＳＩＮＧ ＳＯＵＮＤ",
+          "sales": 194,
+          "seats": 2360,
+          "showtimes": 7,
+          "theaters": 6,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 13832,
+          "seats": 209508,
+          "showtimes": 782,
+          "theaters": 197,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Suzume's door locking",
+          "japanese name": "すずめの戸締まり",
+          "sales": 12246,
+          "seats": 205553,
+          "showtimes": 779,
+          "theaters": 198,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dr. Coto Clinic",
+          "japanese name": "Ｄｒ．コトー診療所",
+          "sales": 10212,
+          "seats": 95692,
+          "showtimes": 602,
+          "theaters": 192,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Avatar: The Way of Water",
+          "japanese name": "アバター ウェイ・オブ・ウォーター",
+          "sales": 8286,
+          "seats": 110491,
+          "showtimes": 695,
+          "theaters": 197,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TV Series Special Edit Version \"Detective Conan:灰原哀物語～Black Iron Mystery Train～\"",
+          "japanese name": "ＴＶシリーズ特別編集版「名探偵コナン 灰原哀物語～黒鉄のミステリートレイン～」",
+          "sales": 7313,
+          "seats": 202217,
+          "showtimes": 620,
+          "theaters": 124,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "From Lagreli with Love",
+          "japanese name": "ラーゲリより愛を込めて",
+          "sales": 7074,
+          "seats": 58561,
+          "showtimes": 474,
+          "theaters": 194,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Liar 800 What a dream of the阵",
+          "japanese name": "嘘八百 なにわ夢の陣",
+          "sales": 4342,
+          "seats": 72059,
+          "showtimes": 434,
+          "theaters": 121,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "State of Emergency",
+          "japanese name": "非常宣言",
+          "sales": 3562,
+          "seats": 58948,
+          "showtimes": 384,
+          "theaters": 126,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The solitary castle of the mirror",
+          "japanese name": "かがみの孤城",
+          "sales": 2821,
+          "seats": 57173,
+          "showtimes": 423,
+          "theaters": 184,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mr. Children \"GIFT for YOU\"",
+          "japanese name": "Ｍｒ．Ｃｈｉｌｄｒｅｎ「ＧＩＦＴ ｆｏｒ ｙｏｕ」",
+          "sales": 2534,
+          "seats": 32168,
+          "showtimes": 191,
+          "theaters": 83,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Knight Parade",
+          "japanese name": "ブラックナイトパレード",
+          "sales": 1981,
+          "seats": 62460,
+          "showtimes": 462,
+          "theaters": 184,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Moon phases",
+          "japanese name": "月の満ち欠け",
+          "sales": 1925,
+          "seats": 20694,
+          "showtimes": 151,
+          "theaters": 175,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Whitney Houston I WANNA DANCE WITH SOMEBODY",
+          "japanese name": "ホイットニー・ヒューストン Ｉ ＷＡＮＮＡ ＤＡＮＣＥ ＷＩＴＨ ＳＯＭＥＢＯＤＹ",
+          "sales": 1256,
+          "seats": 11153,
+          "showtimes": 91,
+          "theaters": 109,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Family",
+          "japanese name": "ファミリア",
+          "sales": 1171,
+          "seats": 30351,
+          "showtimes": 186,
+          "theaters": 61,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dreamhorse",
+          "japanese name": "ドリームホース",
+          "sales": 946,
+          "seats": 8568,
+          "showtimes": 69,
+          "theaters": 25,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ONE PIECE FILM RED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 944,
+          "seats": 22638,
+          "showtimes": 167,
+          "theaters": 174,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nakajima Miyuki Theater Version Live History 2007-2016 Song Journey～Reunion～One Meeting",
+          "japanese name": "中島みゆき 劇場版 ライヴ・ヒストリー ２００７－２０１６ 歌旅～縁会～一会",
+          "sales": 795,
+          "seats": 18594,
+          "showtimes": 117,
+          "theaters": 62,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kamen Rider Guts × Kamen Rider Revice WINTER MOVIE 2022",
+          "japanese name": "仮面ライダーギーツ×仮面ライダーリバイス ＷＩＮＴＥＲ ＭＯＶＩＥ ２０２２",
+          "sales": 706,
+          "seats": 46817,
+          "showtimes": 359,
+          "theaters": 181,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kaguya-sama wants to confess - First Kiss Never Ends -",
+          "japanese name": "かぐや様は告らせたい－ファーストキッスは終わらない－",
+          "sales": 618,
+          "seats": 10467,
+          "showtimes": 72,
+          "theaters": 44,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version: Reincarnated as a Slime - The Bond of Crimson Lotus -",
+          "japanese name": "劇場版 転生したらスライムだった件 紅蓮の絆編",
+          "sales": 577,
+          "seats": 13207,
+          "showtimes": 92,
+          "theaters": 113,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "＜Monthly Kabuki 2022＞ Woman Killing Oil Hell -",
+          "japanese name": "＜月イチ歌舞伎２０２２＞女殺油地獄",
+          "sales": 556,
+          "seats": 4560,
+          "showtimes": 26,
+          "theaters": 23,
+          "rank": 21,
+          "last_week_ratio": 1293
+        },
+        {
+          "moviename": "RRR",
+          "japanese name": "ＲＲＲ",
+          "sales": 481,
+          "seats": 3322,
+          "showtimes": 22,
+          "theaters": 30,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love's Thorn",
+          "japanese name": "恋のいばら",
+          "sales": 439,
+          "seats": 18614,
+          "showtimes": 155,
+          "theaters": 57,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Galaxy Heroes: The Legend of the Galactic Heroes",
+          "japanese name": "銀河英雄伝説 わが征くは星の大海",
+          "sales": 334,
+          "seats": 7337,
+          "showtimes": 42,
+          "theaters": 41,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "JSB3 LIVE FILM / RISING SOUND",
+          "japanese name": "ＪＳＢ３ ＬＩＶＥ ＦＩＬＭ ／ ＲＩＳＩＮＧ ＳＯＵＮＤ",
+          "sales": 326,
+          "seats": 3648,
+          "showtimes": 11,
+          "theaters": 6,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 28385,
+          "seats": 270223,
+          "showtimes": 1003,
+          "theaters": 197,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Suzume's door locking",
+          "japanese name": "すずめの戸締まり",
+          "sales": 20803,
+          "seats": 255446,
+          "showtimes": 986,
+          "theaters": 198,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dr. Coto Clinic",
+          "japanese name": "Ｄｒ．コトー診療所",
+          "sales": 16460,
+          "seats": 116507,
+          "showtimes": 740,
+          "theaters": 192,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Avatar: The Way of Water",
+          "japanese name": "アバター ウェイ・オブ・ウォーター",
+          "sales": 14552,
+          "seats": 145176,
+          "showtimes": 909,
+          "theaters": 197,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TV Series Special Edit Version \"Detective Conan:灰原哀物語～Black Iron Mystery Train～\"",
+          "japanese name": "ＴＶシリーズ特別編集版「名探偵コナン 灰原哀物語～黒鉄のミステリートレイン～」",
+          "sales": 13132,
+          "seats": 243671,
+          "showtimes": 756,
+          "theaters": 123,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "From Lagreli with Love",
+          "japanese name": "ラーゲリより愛を込めて",
+          "sales": 10840,
+          "seats": 68310,
+          "showtimes": 552,
+          "theaters": 194,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Liar 800 What a dream of the阵",
+          "japanese name": "嘘八百 なにわ夢の陣",
+          "sales": 6143,
+          "seats": 90770,
+          "showtimes": 548,
+          "theaters": 121,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "State of Emergency",
+          "japanese name": "非常宣言",
+          "sales": 5833,
+          "seats": 78205,
+          "showtimes": 509,
+          "theaters": 126,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The solitary castle of the mirror",
+          "japanese name": "かがみの孤城",
+          "sales": 5134,
+          "seats": 71922,
+          "showtimes": 527,
+          "theaters": 184,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mr. Children \"GIFT for YOU\"",
+          "japanese name": "Ｍｒ．Ｃｈｉｌｄｒｅｎ「ＧＩＦＴ ｆｏｒ ｙｏｕ」",
+          "sales": 4200,
+          "seats": 45344,
+          "showtimes": 271,
+          "theaters": 83,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Knight Parade",
+          "japanese name": "ブラックナイトパレード",
+          "sales": 3476,
+          "seats": 82652,
+          "showtimes": 612,
+          "theaters": 184,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Moon phases",
+          "japanese name": "月の満ち欠け",
+          "sales": 2812,
+          "seats": 26362,
+          "showtimes": 191,
+          "theaters": 175,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Whitney Houston I WANNA DANCE WITH SOMEBODY",
+          "japanese name": "ホイットニー・ヒューストン Ｉ ＷＡＮＮＡ ＤＡＮＣＥ ＷＩＴＨ ＳＯＭＥＢＯＤＹ",
+          "sales": 1977,
+          "seats": 15764,
+          "showtimes": 128,
+          "theaters": 109,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ONE PIECE FILM RED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 1766,
+          "seats": 24378,
+          "showtimes": 181,
+          "theaters": 174,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Family",
+          "japanese name": "ファミリア",
+          "sales": 1695,
+          "seats": 39284,
+          "showtimes": 246,
+          "theaters": 61,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dreamhorse",
+          "japanese name": "ドリームホース",
+          "sales": 1223,
+          "seats": 11003,
+          "showtimes": 89,
+          "theaters": 25,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kamen Rider Guts × Kamen Rider Revice WINTER MOVIE 2022",
+          "japanese name": "仮面ライダーギーツ×仮面ライダーリバイス ＷＩＮＴＥＲ ＭＯＶＩＥ ２０２２",
+          "sales": 1071,
+          "seats": 48652,
+          "showtimes": 373,
+          "theaters": 182,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version: Reincarnated as a Slime - The Bond of Crimson Lotus -",
+          "japanese name": "劇場版 転生したらスライムだった件 紅蓮の絆編",
+          "sales": 1029,
+          "seats": 17390,
+          "showtimes": 116,
+          "theaters": 113,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kaguya-sama wants to confess - First Kiss Never Ends -",
+          "japanese name": "かぐや様は告らせたい－ファーストキッスは終わらない－",
+          "sales": 957,
+          "seats": 12557,
+          "showtimes": 91,
+          "theaters": 44,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nakajima Miyuki Theater Version Live History 2007-2016 Song Journey～Reunion～One Meeting",
+          "japanese name": "中島みゆき 劇場版 ライヴ・ヒストリー ２００７－２０１６ 歌旅～縁会～一会",
+          "sales": 835,
+          "seats": 20814,
+          "showtimes": 128,
+          "theaters": 62,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love's Thorn",
+          "japanese name": "恋のいばら",
+          "sales": 817,
+          "seats": 24317,
+          "showtimes": 198,
+          "theaters": 57,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "RRR",
+          "japanese name": "ＲＲＲ",
+          "sales": 765,
+          "seats": 4784,
+          "showtimes": 31,
+          "theaters": 30,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Galaxy Heroes: The Legend of the Galactic Heroes",
+          "japanese name": "銀河英雄伝説 わが征くは星の大海",
+          "sales": 516,
+          "seats": 9130,
+          "showtimes": 51,
+          "theaters": 41,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Sword Art Online Progressive: Scherzo of the Dark Evening",
+          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 冥き夕闇のスケルツォ",
+          "sales": 509,
+          "seats": 12806,
+          "showtimes": 98,
+          "theaters": 99,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "＜Monthly Kabuki 2022＞ Woman Killing Oil Hell -",
+          "japanese name": "＜月イチ歌舞伎２０２２＞女殺油地獄",
+          "sales": 473,
+          "seats": 4165,
+          "showtimes": 25,
+          "theaters": 23,
+          "rank": 25,
+          "last_week_ratio": 1075
+        }
+      ]
+    }
+  ]
+}

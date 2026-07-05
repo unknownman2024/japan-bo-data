@@ -1,0 +1,773 @@
+{
+  "date": "13-03-2025",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Wicked Two Witches",
+          "japanese name": "ウィキッド ふたりの魔女",
+          "sales": 11109,
+          "seats": 113606,
+          "showtimes": 486,
+          "theaters": 182,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "35th Love Letter",
+          "japanese name": "３５年目のラブレター",
+          "sales": 9748,
+          "seats": 68492,
+          "showtimes": 378,
+          "theaters": 174,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Doraemon Nobita's World of Pictures",
+          "japanese name": "映画ドラえもん のび太の絵世界物語",
+          "sales": 5421,
+          "seats": 157693,
+          "showtimes": 489,
+          "theaters": 181,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "First Kiss 1ST KISS",
+          "japanese name": "ファーストキス １ＳＴ ＫＩＳＳ",
+          "sales": 4048,
+          "seats": 29317,
+          "showtimes": 187,
+          "theaters": 171,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Trillion Game",
+          "japanese name": "劇場版 トリリオンゲーム",
+          "sales": 2569,
+          "seats": 25625,
+          "showtimes": 174,
+          "theaters": 176,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Unfamiliar Girl",
+          "japanese name": "知らないカノジョ",
+          "sales": 2547,
+          "seats": 21798,
+          "showtimes": 176,
+          "theaters": 176,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Nameless One / A COMPLETE UNKNOWN",
+          "japanese name": "名もなき者／Ａ ＣＯＭＰＬＥＴＥ ＵＮＫＮＯＷＮ",
+          "sales": 2182,
+          "seats": 23881,
+          "showtimes": 168,
+          "theaters": 169,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Hypnosmic Mic - Division Rap Battle -\"",
+          "japanese name": "映画「ヒプノシスマイク －Ｄｉｖｉｓｉｏｎ Ｒａｐ Ｂａｔｔｌｅ－」",
+          "sales": 1492,
+          "seats": 6312,
+          "showtimes": 48,
+          "theaters": 64,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ANORA Anora",
+          "japanese name": "ＡＮＯＲＡ アノーラ",
+          "sales": 1420,
+          "seats": 15065,
+          "showtimes": 103,
+          "theaters": 86,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Anime \"La Dame de Monsoreau\"",
+          "japanese name": "劇場アニメ「ベルサイユのばら」",
+          "sales": 1358,
+          "seats": 4586,
+          "showtimes": 38,
+          "theaters": 71,
+          "rank": 10,
+          "last_week_ratio": 174.6
+        },
+        {
+          "moviename": "I don't fall in love just by looking at your face",
+          "japanese name": "顔だけじゃ好きになりません",
+          "sales": 1135,
+          "seats": 35309,
+          "showtimes": 250,
+          "theaters": 147,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "366 days",
+          "japanese name": "３６６日",
+          "sales": 876,
+          "seats": 7699,
+          "showtimes": 52,
+          "theaters": 159,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Under Ninja",
+          "japanese name": "アンダーニンジャ",
+          "sales": 856,
+          "seats": 8183,
+          "showtimes": 58,
+          "theaters": 153,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "电影《格兰梅森·巴黎》",
+          "japanese name": "映画「グランメゾン・パリ」",
+          "sales": 747,
+          "seats": 8133,
+          "showtimes": 64,
+          "theaters": 162,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "机动战士 Gundam Gooood X -Beginning-",
+          "japanese name": "機動戦士Ｇｕｎｄａｍ ＧＱｕｕｕｕｕｕＸ －Ｂｅｇｉｎｎｉｎｇ－",
+          "sales": 726,
+          "seats": 18485,
+          "showtimes": 115,
+          "theaters": 165,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版Project Sekai 崩坏的世界与无法歌唱的米库",
+          "japanese name": "劇場版プロジェクトセカイ 壊れたセカイと歌えないミク",
+          "sales": 696,
+          "seats": 5812,
+          "showtimes": 32,
+          "theaters": 85,
+          "rank": 16,
+          "last_week_ratio": 107.7
+        },
+        {
+          "moviename": "美国队长：勇敢新世界",
+          "japanese name": "キャプテン・アメリカ：ブレイブ・ニュー・ワールド",
+          "sales": 648,
+          "seats": 12395,
+          "showtimes": 98,
+          "theaters": 163,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rose of the wild island",
+          "japanese name": "野生の島のロズ",
+          "sales": 577,
+          "seats": 15151,
+          "showtimes": 118,
+          "theaters": 146,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Flight risk",
+          "japanese name": "フライトリスク",
+          "sales": 522,
+          "seats": 8794,
+          "showtimes": 61,
+          "theaters": 48,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Working cells",
+          "japanese name": "はたらく細胞",
+          "sales": 402,
+          "seats": 8043,
+          "showtimes": 54,
+          "theaters": 126,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Honen Life's Purpose",
+          "japanese name": "親鸞 人生の目的",
+          "sales": 383,
+          "seats": 2652,
+          "showtimes": 16,
+          "theaters": 14,
+          "rank": 21,
+          "last_week_ratio": 185.9
+        },
+        {
+          "moviename": "Movie Nintama Rantaro The Strongest Strategist of the Dokutake Ninja Team",
+          "japanese name": "劇場版 忍たま乱太郎 ドクタケ忍者隊最強の軍師",
+          "sales": 378,
+          "seats": 1739,
+          "showtimes": 15,
+          "theaters": 153,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Yukitekanun",
+          "japanese name": "ゆきてかへらぬ",
+          "sales": 289,
+          "seats": 4986,
+          "showtimes": 44,
+          "theaters": 72,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kadowaki Hayato Documentary Film Uncertain Traces",
+          "japanese name": "角野隼斗ドキュメンタリーフィルム 不確かな軌跡",
+          "sales": 286,
+          "seats": 3700,
+          "showtimes": 29,
+          "theaters": 47,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Twilight Warriors The Final Battle! The九龙城寨",
+          "japanese name": "トワイライト・ウォリアーズ 決戦！九龍城砦",
+          "sales": 277,
+          "seats": 1754,
+          "showtimes": 8,
+          "theaters": 16,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Wicked Two Witches",
+          "japanese name": "ウィキッド ふたりの魔女",
+          "sales": 19353,
+          "seats": 195426,
+          "showtimes": 842,
+          "theaters": 182,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "35th Love Letter",
+          "japanese name": "３５年目のラブレター",
+          "sales": 13783,
+          "seats": 117181,
+          "showtimes": 645,
+          "theaters": 174,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Doraemon Nobita's World of Pictures",
+          "japanese name": "映画ドラえもん のび太の絵世界物語",
+          "sales": 10896,
+          "seats": 275393,
+          "showtimes": 851,
+          "theaters": 181,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "First Kiss 1ST KISS",
+          "japanese name": "ファーストキス １ＳＴ ＫＩＳＳ",
+          "sales": 7928,
+          "seats": 51849,
+          "showtimes": 323,
+          "theaters": 171,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Nintama Rantaro The Strongest Strategist of the Dokutake Ninja Team",
+          "japanese name": "劇場版 忍たま乱太郎 ドクタケ忍者隊最強の軍師",
+          "sales": 7692,
+          "seats": 25664,
+          "showtimes": 165,
+          "theaters": 153,
+          "rank": 5,
+          "last_week_ratio": 276.2
+        },
+        {
+          "moviename": "Movie Trillion Game",
+          "japanese name": "劇場版 トリリオンゲーム",
+          "sales": 4433,
+          "seats": 44552,
+          "showtimes": 304,
+          "theaters": 176,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Unfamiliar Girl",
+          "japanese name": "知らないカノジョ",
+          "sales": 4338,
+          "seats": 37853,
+          "showtimes": 299,
+          "theaters": 176,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Nameless One / A COMPLETE UNKNOWN",
+          "japanese name": "名もなき者／Ａ ＣＯＭＰＬＥＴＥ ＵＮＫＮＯＷＮ",
+          "sales": 3399,
+          "seats": 40015,
+          "showtimes": 279,
+          "theaters": 169,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Hypnosmic Mic - Division Rap Battle -\"",
+          "japanese name": "映画「ヒプノシスマイク －Ｄｉｖｉｓｉｏｎ Ｒａｐ Ｂａｔｔｌｅ－」",
+          "sales": 3266,
+          "seats": 13371,
+          "showtimes": 101,
+          "theaters": 64,
+          "rank": 9,
+          "last_week_ratio": 102.3
+        },
+        {
+          "moviename": "366 days",
+          "japanese name": "３６６日",
+          "sales": 3230,
+          "seats": 22302,
+          "showtimes": 159,
+          "theaters": 159,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ANORA Anora",
+          "japanese name": "ＡＮＯＲＡ アノーラ",
+          "sales": 2267,
+          "seats": 26536,
+          "showtimes": 179,
+          "theaters": 86,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Anime \"La Dame de Monsoreau\"",
+          "japanese name": "劇場アニメ「ベルサイユのばら」",
+          "sales": 2182,
+          "seats": 6379,
+          "showtimes": 53,
+          "theaters": 71,
+          "rank": 12,
+          "last_week_ratio": 176.3
+        },
+        {
+          "moviename": "I don't fall in love just by looking at your face",
+          "japanese name": "顔だけじゃ好きになりません",
+          "sales": 2175,
+          "seats": 64691,
+          "showtimes": 456,
+          "theaters": 147,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Under Ninja",
+          "japanese name": "アンダーニンジャ",
+          "sales": 2120,
+          "seats": 20589,
+          "showtimes": 139,
+          "theaters": 153,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版Project Sekai 崩坏的世界与无法歌唱的米库",
+          "japanese name": "劇場版プロジェクトセカイ 壊れたセカイと歌えないミク",
+          "sales": 1528,
+          "seats": 11313,
+          "showtimes": 70,
+          "theaters": 85,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "电影《格兰梅森·巴黎》",
+          "japanese name": "映画「グランメゾン・パリ」",
+          "sales": 1397,
+          "seats": 15721,
+          "showtimes": 119,
+          "theaters": 162,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "机动战士 Gundam Gooood X -Beginning-",
+          "japanese name": "機動戦士Ｇｕｎｄａｍ ＧＱｕｕｕｕｕｕＸ －Ｂｅｇｉｎｎｉｎｇ－",
+          "sales": 1363,
+          "seats": 34367,
+          "showtimes": 216,
+          "theaters": 165,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "美国队长：勇敢新世界",
+          "japanese name": "キャプテン・アメリカ：ブレイブ・ニュー・ワールド",
+          "sales": 1263,
+          "seats": 24082,
+          "showtimes": 171,
+          "theaters": 163,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Working cells",
+          "japanese name": "はたらく細胞",
+          "sales": 921,
+          "seats": 14940,
+          "showtimes": 110,
+          "theaters": 126,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Flight risk",
+          "japanese name": "フライトリスク",
+          "sales": 789,
+          "seats": 14401,
+          "showtimes": 102,
+          "theaters": 48,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rose of the wild island",
+          "japanese name": "野生の島のロズ",
+          "sales": 763,
+          "seats": 18261,
+          "showtimes": 140,
+          "theaters": 146,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "We can use magic only once in our lives",
+          "japanese name": "僕らは人生で一回だけ魔法が使える",
+          "sales": 509,
+          "seats": 8691,
+          "showtimes": 62,
+          "theaters": 85,
+          "rank": 22,
+          "last_week_ratio": 137.2
+        },
+        {
+          "moviename": "Aldnoa Zero (Re+)",
+          "japanese name": "アルドノア・ゼロ（Ｒｅ＋）",
+          "sales": 498,
+          "seats": 5454,
+          "showtimes": 40,
+          "theaters": 24,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kadowaki Hayato Documentary Film Uncertain Traces",
+          "japanese name": "角野隼斗ドキュメンタリーフィルム 不確かな軌跡",
+          "sales": 492,
+          "seats": 5719,
+          "showtimes": 42,
+          "theaters": 47,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Honen Life's Purpose",
+          "japanese name": "親鸞 人生の目的",
+          "sales": 451,
+          "seats": 3991,
+          "showtimes": 23,
+          "theaters": 14,
+          "rank": 25,
+          "last_week_ratio": 167.7
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Wicked Two Witches",
+          "japanese name": "ウィキッド ふたりの魔女",
+          "sales": 36322,
+          "seats": 255501,
+          "showtimes": 1072,
+          "theaters": 182,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "35th Love Letter",
+          "japanese name": "３５年目のラブレター",
+          "sales": 20317,
+          "seats": 144982,
+          "showtimes": 802,
+          "theaters": 173,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Doraemon Nobita's World of Pictures",
+          "japanese name": "映画ドラえもん のび太の絵世界物語",
+          "sales": 16873,
+          "seats": 320912,
+          "showtimes": 998,
+          "theaters": 181,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "First Kiss 1ST KISS",
+          "japanese name": "ファーストキス １ＳＴ ＫＩＳＳ",
+          "sales": 14286,
+          "seats": 68467,
+          "showtimes": 426,
+          "theaters": 172,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Trillion Game",
+          "japanese name": "劇場版 トリリオンゲーム",
+          "sales": 7107,
+          "seats": 59438,
+          "showtimes": 403,
+          "theaters": 176,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Unfamiliar Girl",
+          "japanese name": "知らないカノジョ",
+          "sales": 6786,
+          "seats": 47730,
+          "showtimes": 383,
+          "theaters": 174,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Nameless One / A COMPLETE UNKNOWN",
+          "japanese name": "名もなき者／Ａ ＣＯＭＰＬＥＴＥ ＵＮＫＮＯＷＮ",
+          "sales": 4867,
+          "seats": 52110,
+          "showtimes": 364,
+          "theaters": 168,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Hypnosmic Mic - Division Rap Battle -\"",
+          "japanese name": "映画「ヒプノシスマイク －Ｄｉｖｉｓｉｏｎ Ｒａｐ Ｂａｔｔｌｅ－」",
+          "sales": 4251,
+          "seats": 15562,
+          "showtimes": 114,
+          "theaters": 67,
+          "rank": 8,
+          "last_week_ratio": 122.3
+        },
+        {
+          "moviename": "366 days",
+          "japanese name": "３６６日",
+          "sales": 4124,
+          "seats": 25300,
+          "showtimes": 181,
+          "theaters": 160,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ANORA Anora",
+          "japanese name": "ＡＮＯＲＡ アノーラ",
+          "sales": 3941,
+          "seats": 35385,
+          "showtimes": 236,
+          "theaters": 86,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Under Ninja",
+          "japanese name": "アンダーニンジャ",
+          "sales": 3340,
+          "seats": 23326,
+          "showtimes": 159,
+          "theaters": 153,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I don't fall in love just by looking at your face",
+          "japanese name": "顔だけじゃ好きになりません",
+          "sales": 3160,
+          "seats": 81286,
+          "showtimes": 573,
+          "theaters": 146,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Anime \"La Dame de Monsoreau\"",
+          "japanese name": "劇場アニメ「ベルサイユのばら」",
+          "sales": 3000,
+          "seats": 8336,
+          "showtimes": 66,
+          "theaters": 70,
+          "rank": 13,
+          "last_week_ratio": 180.4
+        },
+        {
+          "moviename": "Movie Nintama Rantaro The Strongest Strategist of the Dokutake Ninja Team",
+          "japanese name": "劇場版 忍たま乱太郎 ドクタケ忍者隊最強の軍師",
+          "sales": 2709,
+          "seats": 16979,
+          "showtimes": 111,
+          "theaters": 104,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "机动战士 Gundam Gooood X -Beginning-",
+          "japanese name": "機動戦士Ｇｕｎｄａｍ ＧＱｕｕｕｕｕｕＸ －Ｂｅｇｉｎｎｉｎｇ－",
+          "sales": 2286,
+          "seats": 43515,
+          "showtimes": 283,
+          "theaters": 165,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "电影《格兰梅森·巴黎》",
+          "japanese name": "映画「グランメゾン・パリ」",
+          "sales": 2231,
+          "seats": 21129,
+          "showtimes": 154,
+          "theaters": 162,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "美国队长：勇敢新世界",
+          "japanese name": "キャプテン・アメリカ：ブレイブ・ニュー・ワールド",
+          "sales": 2087,
+          "seats": 33015,
+          "showtimes": 241,
+          "theaters": 166,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版Project Sekai 崩坏的世界与无法歌唱的米库",
+          "japanese name": "劇場版プロジェクトセカイ 壊れたセカイと歌えないミク",
+          "sales": 2072,
+          "seats": 12999,
+          "showtimes": 79,
+          "theaters": 85,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Working cells",
+          "japanese name": "はたらく細胞",
+          "sales": 1448,
+          "seats": 16127,
+          "showtimes": 120,
+          "theaters": 127,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Flight risk",
+          "japanese name": "フライトリスク",
+          "sales": 1205,
+          "seats": 19459,
+          "showtimes": 140,
+          "theaters": 48,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rose of the wild island",
+          "japanese name": "野生の島のロズ",
+          "sales": 1078,
+          "seats": 18919,
+          "showtimes": 144,
+          "theaters": 147,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Aldnoa Zero (Re+)",
+          "japanese name": "アルドノア・ゼロ（Ｒｅ＋）",
+          "sales": 852,
+          "seats": 6820,
+          "showtimes": 49,
+          "theaters": 25,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Twilight Warriors The Final Battle! The九龙城寨",
+          "japanese name": "トワイライト・ウォリアーズ 決戦！九龍城砦",
+          "sales": 826,
+          "seats": 4158,
+          "showtimes": 19,
+          "theaters": 17,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Innocence",
+          "japanese name": "イノセンス",
+          "sales": 768,
+          "seats": 3072,
+          "showtimes": 16,
+          "theaters": 20,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Project Silence",
+          "japanese name": "プロジェクト・サイレンス",
+          "sales": 660,
+          "seats": 9103,
+          "showtimes": 77,
+          "theaters": 52,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

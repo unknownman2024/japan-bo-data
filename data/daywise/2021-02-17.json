@@ -1,0 +1,773 @@
+{
+  "date": "17-02-2021",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Fell in love like a bouquet",
+          "japanese name": "花束みたいな恋をした",
+          "sales": 11768,
+          "seats": 90627,
+          "showtimes": 523,
+          "theaters": 264,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: Crimson Lack of Evidence",
+          "japanese name": "名探偵コナン 緋色の不在証明",
+          "sales": 9758,
+          "seats": 133380,
+          "showtimes": 443,
+          "theaters": 110,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "First Love",
+          "japanese name": "ファーストラヴ",
+          "sales": 8982,
+          "seats": 122639,
+          "showtimes": 569,
+          "theaters": 264,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 8011,
+          "seats": 66866,
+          "showtimes": 480,
+          "theaters": 274,
+          "rank": 4,
+          "last_week_ratio": 106.4
+        },
+        {
+          "moviename": "A Wonderful World",
+          "japanese name": "すばらしき世界",
+          "sales": 7173,
+          "seats": 64081,
+          "showtimes": 374,
+          "theaters": 174,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Sailor Moon Eternal Part 2",
+          "japanese name": "劇場版 美少女戦士セーラームーンＥｔｅｒｎａｌ 後編",
+          "sales": 3180,
+          "seats": 43434,
+          "showtimes": 237,
+          "theaters": 107,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gintama THE FINAL",
+          "japanese name": "銀魂 ＴＨＥ ＦＩＮＡＬ",
+          "sales": 2819,
+          "seats": 33580,
+          "showtimes": 253,
+          "theaters": 168,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Endless Shock",
+          "japanese name": "Ｅｎｄｌｅｓｓ ＳＨＯＣＫ",
+          "sales": 2774,
+          "seats": 12574,
+          "showtimes": 72,
+          "theaters": 70,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Entotsu Chō no Pupuru",
+          "japanese name": "映画 えんとつ町のプペル",
+          "sales": 2677,
+          "seats": 29791,
+          "showtimes": 271,
+          "theaters": 255,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Yakuza and Family The Family",
+          "japanese name": "ヤクザと家族 Ｔｈｅ Ｆａｍｉｌｙ",
+          "sales": 2384,
+          "seats": 25029,
+          "showtimes": 254,
+          "theaters": 230,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Karuizawa Village",
+          "japanese name": "樹海村",
+          "sales": 2363,
+          "seats": 51538,
+          "showtimes": 450,
+          "theaters": 266,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ai no shinde reru",
+          "japanese name": "哀愁しんでれら",
+          "sales": 1408,
+          "seats": 29389,
+          "showtimes": 308,
+          "theaters": 239,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nameless World's End Roll",
+          "japanese name": "名も無き世界のエンドロール",
+          "sales": 1113,
+          "seats": 18269,
+          "showtimes": 189,
+          "theaters": 250,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shin kaishaku・Sangokushi",
+          "japanese name": "新解釈・三國志",
+          "sales": 1017,
+          "seats": 12320,
+          "showtimes": 124,
+          "theaters": 238,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Foreigner",
+          "japanese name": "天外者",
+          "sales": 1007,
+          "seats": 4640,
+          "showtimes": 44,
+          "theaters": 52,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The outside of the three-sided window is night",
+          "japanese name": "さんかく窓の外側は夜",
+          "sales": 797,
+          "seats": 15218,
+          "showtimes": 142,
+          "theaters": 245,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Princess Principal: Crown Handler Chapter 1",
+          "japanese name": "プリンセス・プリンシパル Ｃｒｏｗｎ Ｈａｎｄｌｅｒ 第１章",
+          "sales": 722,
+          "seats": 17136,
+          "showtimes": 98,
+          "theaters": 41,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Natsume's Book of Friends: Stone Raising and the Mysterious Visitor",
+          "japanese name": "夏目友人帳 石起こしと怪しき来訪者",
+          "sales": 697,
+          "seats": 7474,
+          "showtimes": 48,
+          "theaters": 57,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pocket Monsters the Movie: Kokoa",
+          "japanese name": "劇場版 ポケットモンスター ココ",
+          "sales": 682,
+          "seats": 14048,
+          "showtimes": 152,
+          "theaters": 149,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Promised Neverland",
+          "japanese name": "約束のネバーランド",
+          "sales": 573,
+          "seats": 9840,
+          "showtimes": 99,
+          "theaters": 244,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mermaid in Paris (Subtitle Version)",
+          "japanese name": "マーメイド・イン・パリ （字幕版）",
+          "sales": 511,
+          "seats": 6593,
+          "showtimes": 41,
+          "theaters": 23,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nonstop",
+          "japanese name": "ノンストップ",
+          "sales": 449,
+          "seats": 7931,
+          "showtimes": 45,
+          "theaters": 25,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TENET",
+          "japanese name": "ＴＥＮＥＴ テネット",
+          "sales": 435,
+          "seats": 2016,
+          "showtimes": 6,
+          "theaters": 12,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version Sailor Moon Eternal Part 1",
+          "japanese name": "劇場版 美少女戦士セーラームーンＥｔｅｒｎａｌ 前編",
+          "sales": 406,
+          "seats": 9898,
+          "showtimes": 66,
+          "theaters": 88,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Patlabor The Movie",
+          "japanese name": "機動警察パトレイバー ＴＨＥ ＭＯＶＩＥ",
+          "sales": 296,
+          "seats": 3134,
+          "showtimes": 35,
+          "theaters": 44,
+          "rank": 25,
+          "last_week_ratio": 7400
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Fell in love like a bouquet",
+          "japanese name": "花束みたいな恋をした",
+          "sales": 29380,
+          "seats": 178507,
+          "showtimes": 1024,
+          "theaters": 264,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: Crimson Lack of Evidence",
+          "japanese name": "名探偵コナン 緋色の不在証明",
+          "sales": 17448,
+          "seats": 237715,
+          "showtimes": 786,
+          "theaters": 110,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 14545,
+          "seats": 124177,
+          "showtimes": 908,
+          "theaters": 274,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "First Love",
+          "japanese name": "ファーストラヴ",
+          "sales": 14441,
+          "seats": 237287,
+          "showtimes": 1097,
+          "theaters": 264,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A Wonderful World",
+          "japanese name": "すばらしき世界",
+          "sales": 11741,
+          "seats": 125018,
+          "showtimes": 723,
+          "theaters": 174,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Karuizawa Village",
+          "japanese name": "樹海村",
+          "sales": 5912,
+          "seats": 104063,
+          "showtimes": 899,
+          "theaters": 266,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gintama THE FINAL",
+          "japanese name": "銀魂 ＴＨＥ ＦＩＮＡＬ",
+          "sales": 5230,
+          "seats": 62202,
+          "showtimes": 462,
+          "theaters": 168,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Sailor Moon Eternal Part 2",
+          "japanese name": "劇場版 美少女戦士セーラームーンＥｔｅｒｎａｌ 後編",
+          "sales": 5090,
+          "seats": 76015,
+          "showtimes": 426,
+          "theaters": 107,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Entotsu Chō no Pupuru",
+          "japanese name": "映画 えんとつ町のプペル",
+          "sales": 4653,
+          "seats": 49727,
+          "showtimes": 446,
+          "theaters": 255,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Yakuza and Family The Family",
+          "japanese name": "ヤクザと家族 Ｔｈｅ Ｆａｍｉｌｙ",
+          "sales": 4381,
+          "seats": 44830,
+          "showtimes": 453,
+          "theaters": 230,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Endless Shock",
+          "japanese name": "Ｅｎｄｌｅｓｓ ＳＨＯＣＫ",
+          "sales": 3799,
+          "seats": 19778,
+          "showtimes": 115,
+          "theaters": 70,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ai no shinde reru",
+          "japanese name": "哀愁しんでれら",
+          "sales": 2829,
+          "seats": 54303,
+          "showtimes": 563,
+          "theaters": 239,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nameless World's End Roll",
+          "japanese name": "名も無き世界のエンドロール",
+          "sales": 2330,
+          "seats": 37989,
+          "showtimes": 378,
+          "theaters": 250,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shin kaishaku・Sangokushi",
+          "japanese name": "新解釈・三國志",
+          "sales": 2160,
+          "seats": 25384,
+          "showtimes": 247,
+          "theaters": 238,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The outside of the three-sided window is night",
+          "japanese name": "さんかく窓の外側は夜",
+          "sales": 1962,
+          "seats": 33091,
+          "showtimes": 312,
+          "theaters": 245,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Promised Neverland",
+          "japanese name": "約束のネバーランド",
+          "sales": 1600,
+          "seats": 25083,
+          "showtimes": 257,
+          "theaters": 244,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Natsume's Book of Friends: Stone Raising and the Mysterious Visitor",
+          "japanese name": "夏目友人帳 石起こしと怪しき来訪者",
+          "sales": 1456,
+          "seats": 14090,
+          "showtimes": 92,
+          "theaters": 57,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Princess Principal: Crown Handler Chapter 1",
+          "japanese name": "プリンセス・プリンシパル Ｃｒｏｗｎ Ｈａｎｄｌｅｒ 第１章",
+          "sales": 1402,
+          "seats": 33195,
+          "showtimes": 183,
+          "theaters": 41,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Foreigner",
+          "japanese name": "天外者",
+          "sales": 1374,
+          "seats": 6660,
+          "showtimes": 63,
+          "theaters": 52,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pocket Monsters the Movie: Kokoa",
+          "japanese name": "劇場版 ポケットモンスター ココ",
+          "sales": 917,
+          "seats": 16260,
+          "showtimes": 181,
+          "theaters": 149,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mermaid in Paris (Subtitle Version)",
+          "japanese name": "マーメイド・イン・パリ （字幕版）",
+          "sales": 865,
+          "seats": 11789,
+          "showtimes": 72,
+          "theaters": 23,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nonstop",
+          "japanese name": "ノンストップ",
+          "sales": 685,
+          "seats": 13145,
+          "showtimes": 78,
+          "theaters": 25,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TENET",
+          "japanese name": "ＴＥＮＥＴ テネット",
+          "sales": 599,
+          "seats": 3698,
+          "showtimes": 12,
+          "theaters": 12,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version Sailor Moon Eternal Part 1",
+          "japanese name": "劇場版 美少女戦士セーラームーンＥｔｅｒｎａｌ 前編",
+          "sales": 590,
+          "seats": 12772,
+          "showtimes": 88,
+          "theaters": 88,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gamera x Kong The New Empire Official Trailer",
+          "japanese name": "ガメラ２ レギオン襲来＜４Ｋデジタル復元版＞",
+          "sales": 497,
+          "seats": 6394,
+          "showtimes": 22,
+          "theaters": 7,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Fell in love like a bouquet",
+          "japanese name": "花束みたいな恋をした",
+          "sales": 24606,
+          "seats": 187969,
+          "showtimes": 1090,
+          "theaters": 260,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: Crimson Lack of Evidence",
+          "japanese name": "名探偵コナン 緋色の不在証明",
+          "sales": 12908,
+          "seats": 243628,
+          "showtimes": 802,
+          "theaters": 104,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "First Love",
+          "japanese name": "ファーストラヴ",
+          "sales": 10244,
+          "seats": 252049,
+          "showtimes": 1177,
+          "theaters": 262,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 9842,
+          "seats": 128683,
+          "showtimes": 971,
+          "theaters": 269,
+          "rank": 4,
+          "last_week_ratio": 100.8
+        },
+        {
+          "moviename": "A Wonderful World",
+          "japanese name": "すばらしき世界",
+          "sales": 9783,
+          "seats": 129648,
+          "showtimes": 753,
+          "theaters": 169,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Karuizawa Village",
+          "japanese name": "樹海村",
+          "sales": 6043,
+          "seats": 113819,
+          "showtimes": 976,
+          "theaters": 262,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gintama THE FINAL",
+          "japanese name": "銀魂 ＴＨＥ ＦＩＮＡＬ",
+          "sales": 4516,
+          "seats": 66850,
+          "showtimes": 497,
+          "theaters": 165,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Entotsu Chō no Pupuru",
+          "japanese name": "映画 えんとつ町のプペル",
+          "sales": 3783,
+          "seats": 50827,
+          "showtimes": 447,
+          "theaters": 250,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Endless Shock",
+          "japanese name": "Ｅｎｄｌｅｓｓ ＳＨＯＣＫ",
+          "sales": 3238,
+          "seats": 19513,
+          "showtimes": 114,
+          "theaters": 67,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Yakuza and Family The Family",
+          "japanese name": "ヤクザと家族 Ｔｈｅ Ｆａｍｉｌｙ",
+          "sales": 3186,
+          "seats": 47431,
+          "showtimes": 485,
+          "theaters": 225,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Sailor Moon Eternal Part 2",
+          "japanese name": "劇場版 美少女戦士セーラームーンＥｔｅｒｎａｌ 後編",
+          "sales": 2960,
+          "seats": 77518,
+          "showtimes": 438,
+          "theaters": 103,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ai no shinde reru",
+          "japanese name": "哀愁しんでれら",
+          "sales": 2514,
+          "seats": 57968,
+          "showtimes": 611,
+          "theaters": 235,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Princess Principal: Crown Handler Chapter 1",
+          "japanese name": "プリンセス・プリンシパル Ｃｒｏｗｎ Ｈａｎｄｌｅｒ 第１章",
+          "sales": 1888,
+          "seats": 33351,
+          "showtimes": 182,
+          "theaters": 39,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nameless World's End Roll",
+          "japanese name": "名も無き世界のエンドロール",
+          "sales": 1682,
+          "seats": 39674,
+          "showtimes": 402,
+          "theaters": 242,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shin kaishaku・Sangokushi",
+          "japanese name": "新解釈・三國志",
+          "sales": 1580,
+          "seats": 25856,
+          "showtimes": 255,
+          "theaters": 232,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The outside of the three-sided window is night",
+          "japanese name": "さんかく窓の外側は夜",
+          "sales": 1462,
+          "seats": 34683,
+          "showtimes": 323,
+          "theaters": 237,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Promised Neverland",
+          "japanese name": "約束のネバーランド",
+          "sales": 1289,
+          "seats": 24656,
+          "showtimes": 253,
+          "theaters": 237,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Natsume's Book of Friends: Stone Raising and the Mysterious Visitor",
+          "japanese name": "夏目友人帳 石起こしと怪しき来訪者",
+          "sales": 1204,
+          "seats": 14577,
+          "showtimes": 96,
+          "theaters": 56,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Foreigner",
+          "japanese name": "天外者",
+          "sales": 807,
+          "seats": 6463,
+          "showtimes": 60,
+          "theaters": 50,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pocket Monsters the Movie: Kokoa",
+          "japanese name": "劇場版 ポケットモンスター ココ",
+          "sales": 731,
+          "seats": 15245,
+          "showtimes": 171,
+          "theaters": 143,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gamera x Kong The New Empire Official Trailer",
+          "japanese name": "ガメラ２ レギオン襲来＜４Ｋデジタル復元版＞",
+          "sales": 595,
+          "seats": 6105,
+          "showtimes": 21,
+          "theaters": 7,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nonstop",
+          "japanese name": "ノンストップ",
+          "sales": 588,
+          "seats": 13220,
+          "showtimes": 77,
+          "theaters": 24,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mermaid in Paris (Subtitle Version)",
+          "japanese name": "マーメイド・イン・パリ （字幕版）",
+          "sales": 564,
+          "seats": 11043,
+          "showtimes": 68,
+          "theaters": 22,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TENET",
+          "japanese name": "ＴＥＮＥＴ テネット",
+          "sales": 473,
+          "seats": 3066,
+          "showtimes": 10,
+          "theaters": 10,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Patlabor The Movie",
+          "japanese name": "機動警察パトレイバー ＴＨＥ ＭＯＶＩＥ",
+          "sales": 428,
+          "seats": 5883,
+          "showtimes": 65,
+          "theaters": 45,
+          "rank": 25,
+          "last_week_ratio": 910.6
+        }
+      ]
+    }
+  ]
+}

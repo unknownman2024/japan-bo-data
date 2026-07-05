@@ -1,0 +1,773 @@
+{
+  "date": "26-06-2020",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Rambou Last Blood",
+          "japanese name": "ランボー ラスト・ブラッド",
+          "sales": 12444,
+          "seats": 69243,
+          "showtimes": 700,
+          "theaters": 293,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nausicaä of the Valley of the Wind",
+          "japanese name": "風の谷のナウシカ",
+          "sales": 5120,
+          "seats": 54407,
+          "showtimes": 431,
+          "theaters": 302,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Princess Mononoke",
+          "japanese name": "もののけ姫",
+          "sales": 4755,
+          "seats": 50444,
+          "showtimes": 442,
+          "theaters": 300,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Spirited Away",
+          "japanese name": "千と千尋の神隠し",
+          "sales": 4727,
+          "seats": 70317,
+          "showtimes": 471,
+          "theaters": 302,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Doctor Dolittle",
+          "japanese name": "ドクター・ドリトル",
+          "sales": 3177,
+          "seats": 46551,
+          "showtimes": 665,
+          "theaters": 298,
+          "rank": 5,
+          "last_week_ratio": 517.4
+        },
+        {
+          "moviename": "Sonic the Movie",
+          "japanese name": "ソニック・ザ・ムービー",
+          "sales": 2022,
+          "seats": 60694,
+          "showtimes": 678,
+          "theaters": 261,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Story of My Life My Grasshopper Tale",
+          "japanese name": "ストーリー・オブ・マイライフ わたしの若草物語",
+          "sales": 1702,
+          "seats": 20947,
+          "showtimes": 368,
+          "theaters": 298,
+          "rank": 7,
+          "last_week_ratio": 212
+        },
+        {
+          "moviename": "Wednesday Vanished",
+          "japanese name": "水曜日が消えた",
+          "sales": 1222,
+          "seats": 9563,
+          "showtimes": 131,
+          "theaters": 73,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ged's War",
+          "japanese name": "ゲド戦記",
+          "sales": 539,
+          "seats": 30368,
+          "showtimes": 385,
+          "theaters": 302,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Edison's Game",
+          "japanese name": "エジソンズ・ゲーム",
+          "sales": 526,
+          "seats": 4925,
+          "showtimes": 79,
+          "theaters": 73,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Parasite, the family in the basement",
+          "japanese name": "パラサイト 半地下の家族",
+          "sales": 288,
+          "seats": 4289,
+          "showtimes": 57,
+          "theaters": 139,
+          "rank": 11,
+          "last_week_ratio": 587.8
+        },
+        {
+          "moviename": "The secret of the psychic café \"Extra\"",
+          "japanese name": "心霊喫茶「エクストラ」の秘密",
+          "sales": 240,
+          "seats": 5684,
+          "showtimes": 88,
+          "theaters": 122,
+          "rank": 12,
+          "last_week_ratio": 406.8
+        },
+        {
+          "moviename": "Evil Idol",
+          "japanese name": "悪の偶像",
+          "sales": 179,
+          "seats": 3360,
+          "showtimes": 55,
+          "theaters": 40,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A Boy's Confession",
+          "japanese name": "ある少年の告白",
+          "sales": 168,
+          "seats": 907,
+          "showtimes": 9,
+          "theaters": 10,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "AKIRA, Akira",
+          "japanese name": "ＡＫＩＲＡ アキラ",
+          "sales": 154,
+          "seats": 2049,
+          "showtimes": 23,
+          "theaters": 70,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wild Rose",
+          "japanese name": "ワイルドローズ",
+          "sales": 152,
+          "seats": 1045,
+          "showtimes": 16,
+          "theaters": 9,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kodomo Shokudo",
+          "japanese name": "こどもしょくどう",
+          "sales": 136,
+          "seats": 376,
+          "showtimes": 4,
+          "theaters": 2,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "FUKUSHIMA 50",
+          "japanese name": "Ｆｕｋｕｓｈｉｍａ ５０",
+          "sales": 122,
+          "seats": 3049,
+          "showtimes": 48,
+          "theaters": 70,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "(SWING SOUND SHOW Today)",
+          "japanese name": "（ＳＷＩＮＧ ＳＯＵＮＤ ＳＨＯＷイエスタデイ",
+          "sales": 118,
+          "seats": 224,
+          "showtimes": 2,
+          "theaters": 1,
+          "rank": 19,
+          "last_week_ratio": 983.3
+        },
+        {
+          "moviename": "Pain & Glory",
+          "japanese name": "ペイン・アンド・グローリー",
+          "sales": 93,
+          "seats": 1031,
+          "showtimes": 16,
+          "theaters": 17,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shinigami no Kagejō - Kagekyoku -",
+          "japanese name": "死神遣いの事件帖－傀儡夜曲－",
+          "sales": 76,
+          "seats": 1823,
+          "showtimes": 27,
+          "theaters": 27,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Harriet",
+          "japanese name": "ハリエット",
+          "sales": 76,
+          "seats": 1141,
+          "showtimes": 18,
+          "theaters": 30,
+          "rank": 22,
+          "last_week_ratio": 361.9
+        },
+        {
+          "moviename": "ANNA ANNA",
+          "japanese name": "ＡＮＮＡ アナ",
+          "sales": 69,
+          "seats": 1118,
+          "showtimes": 18,
+          "theaters": 43,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Died once",
+          "japanese name": "一度死んでみた",
+          "sales": 66,
+          "seats": 2906,
+          "showtimes": 46,
+          "theaters": 115,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Haunted The Most Terrifying Haunted House in the World",
+          "japanese name": "ホーンテッド 世界一怖いお化け屋敷",
+          "sales": 62,
+          "seats": 956,
+          "showtimes": 13,
+          "theaters": 31,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Rambou Last Blood",
+          "japanese name": "ランボー ラスト・ブラッド",
+          "sales": 19123,
+          "seats": 129478,
+          "showtimes": 1308,
+          "theaters": 293,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Spirited Away",
+          "japanese name": "千と千尋の神隠し",
+          "sales": 11889,
+          "seats": 134599,
+          "showtimes": 900,
+          "theaters": 302,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nausicaä of the Valley of the Wind",
+          "japanese name": "風の谷のナウシカ",
+          "sales": 10712,
+          "seats": 102252,
+          "showtimes": 826,
+          "theaters": 302,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Princess Mononoke",
+          "japanese name": "もののけ姫",
+          "sales": 10258,
+          "seats": 93420,
+          "showtimes": 809,
+          "theaters": 300,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Doctor Dolittle",
+          "japanese name": "ドクター・ドリトル",
+          "sales": 5635,
+          "seats": 85568,
+          "showtimes": 1205,
+          "theaters": 298,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sonic the Movie",
+          "japanese name": "ソニック・ザ・ムービー",
+          "sales": 4074,
+          "seats": 107729,
+          "showtimes": 1200,
+          "theaters": 261,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Story of My Life My Grasshopper Tale",
+          "japanese name": "ストーリー・オブ・マイライフ わたしの若草物語",
+          "sales": 2920,
+          "seats": 37289,
+          "showtimes": 651,
+          "theaters": 298,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wednesday Vanished",
+          "japanese name": "水曜日が消えた",
+          "sales": 2228,
+          "seats": 17064,
+          "showtimes": 236,
+          "theaters": 73,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ged's War",
+          "japanese name": "ゲド戦記",
+          "sales": 1610,
+          "seats": 61183,
+          "showtimes": 737,
+          "theaters": 302,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Edison's Game",
+          "japanese name": "エジソンズ・ゲーム",
+          "sales": 1043,
+          "seats": 10098,
+          "showtimes": 162,
+          "theaters": 73,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The secret of the psychic café \"Extra\"",
+          "japanese name": "心霊喫茶「エクストラ」の秘密",
+          "sales": 497,
+          "seats": 10670,
+          "showtimes": 162,
+          "theaters": 122,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Parasite, the family in the basement",
+          "japanese name": "パラサイト 半地下の家族",
+          "sales": 452,
+          "seats": 8571,
+          "showtimes": 115,
+          "theaters": 139,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "AKIRA, Akira",
+          "japanese name": "ＡＫＩＲＡ アキラ",
+          "sales": 383,
+          "seats": 4686,
+          "showtimes": 54,
+          "theaters": 70,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dead don't die",
+          "japanese name": "デッド・ドント・ダイ",
+          "sales": 293,
+          "seats": 5027,
+          "showtimes": 81,
+          "theaters": 83,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Evil Idol",
+          "japanese name": "悪の偶像",
+          "sales": 281,
+          "seats": 5902,
+          "showtimes": 98,
+          "theaters": 40,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wild Rose",
+          "japanese name": "ワイルドローズ",
+          "sales": 249,
+          "seats": 1760,
+          "showtimes": 28,
+          "theaters": 9,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Suit Gundam NT",
+          "japanese name": "機動戦士ガンダムＮＴ",
+          "sales": 231,
+          "seats": 1604,
+          "showtimes": 32,
+          "theaters": 33,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Guardians of the Galaxy",
+          "japanese name": "ガーディアンズ・オブ・ギャラクシー",
+          "sales": 229,
+          "seats": 11126,
+          "showtimes": 167,
+          "theaters": 215,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pain & Glory",
+          "japanese name": "ペイン・アンド・グローリー",
+          "sales": 219,
+          "seats": 1862,
+          "showtimes": 28,
+          "theaters": 17,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A Boy's Confession",
+          "japanese name": "ある少年の告白",
+          "sales": 207,
+          "seats": 1206,
+          "showtimes": 11,
+          "theaters": 10,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kodomo Shokudo",
+          "japanese name": "こどもしょくどう",
+          "sales": 196,
+          "seats": 516,
+          "showtimes": 6,
+          "theaters": 2,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Haunted The Most Terrifying Haunted House in the World",
+          "japanese name": "ホーンテッド 世界一怖いお化け屋敷",
+          "sales": 193,
+          "seats": 2220,
+          "showtimes": 30,
+          "theaters": 31,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ANNA ANNA",
+          "japanese name": "ＡＮＮＡ アナ",
+          "sales": 178,
+          "seats": 2763,
+          "showtimes": 41,
+          "theaters": 43,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "FUKUSHIMA 50",
+          "japanese name": "Ｆｕｋｕｓｈｉｍａ ５０",
+          "sales": 173,
+          "seats": 4063,
+          "showtimes": 66,
+          "theaters": 70,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Died once",
+          "japanese name": "一度死んでみた",
+          "sales": 172,
+          "seats": 7716,
+          "showtimes": 110,
+          "theaters": 115,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Doctor Dolittle",
+          "japanese name": "ドクター・ドリトル",
+          "sales": 8143,
+          "seats": 317344,
+          "showtimes": 2246,
+          "theaters": 295,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Story of My Life My Grasshopper Tale",
+          "japanese name": "ストーリー・オブ・マイライフ わたしの若草物語",
+          "sales": 3068,
+          "seats": 85226,
+          "showtimes": 1006,
+          "theaters": 268,
+          "rank": 2,
+          "last_week_ratio": 158.1
+        },
+        {
+          "moviename": "Wednesday Vanished",
+          "japanese name": "水曜日が消えた",
+          "sales": 2396,
+          "seats": 52895,
+          "showtimes": 336,
+          "theaters": 73,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Edison's Game",
+          "japanese name": "エジソンズ・ゲーム",
+          "sales": 1540,
+          "seats": 41823,
+          "showtimes": 343,
+          "theaters": 73,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The secret of the psychic café \"Extra\"",
+          "japanese name": "心霊喫茶「エクストラ」の秘密",
+          "sales": 1466,
+          "seats": 37079,
+          "showtimes": 363,
+          "theaters": 138,
+          "rank": 5,
+          "last_week_ratio": 112.9
+        },
+        {
+          "moviename": "Parasite, the family in the basement",
+          "japanese name": "パラサイト 半地下の家族",
+          "sales": 1075,
+          "seats": 26525,
+          "showtimes": 365,
+          "theaters": 250,
+          "rank": 6,
+          "last_week_ratio": 184.1
+        },
+        {
+          "moviename": "AKIRA, Akira",
+          "japanese name": "ＡＫＩＲＡ アキラ",
+          "sales": 792,
+          "seats": 13053,
+          "showtimes": 183,
+          "theaters": 84,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kazeyo no Ko",
+          "japanese name": "天気の子",
+          "sales": 680,
+          "seats": 14205,
+          "showtimes": 199,
+          "theaters": 135,
+          "rank": 8,
+          "last_week_ratio": 106.2
+        },
+        {
+          "moviename": "Movie: Shōnen-tachi (With Live Action Footage) B Pattern (Main Story With Live Action Footage)",
+          "japanese name": "映画 少年たち（実演映像付き）Ｂパターン（本編 実演映像）",
+          "sales": 603,
+          "seats": 9670,
+          "showtimes": 142,
+          "theaters": 68,
+          "rank": 9,
+          "last_week_ratio": 248.1
+        },
+        {
+          "moviename": "Dead don't die",
+          "japanese name": "デッド・ドント・ダイ",
+          "sales": 576,
+          "seats": 17234,
+          "showtimes": 273,
+          "theaters": 88,
+          "rank": 10,
+          "last_week_ratio": 180.6
+        },
+        {
+          "moviename": "Yukio Mishima VS Tōdai University Joint Struggle 50 Years of Truth",
+          "japanese name": "三島由紀夫ＶＳ東大全共闘 ５０年目の真実",
+          "sales": 523,
+          "seats": 4085,
+          "showtimes": 62,
+          "theaters": 54,
+          "rank": 11,
+          "last_week_ratio": 149.4
+        },
+        {
+          "moviename": "Your Name.",
+          "japanese name": "君の名は。",
+          "sales": 512,
+          "seats": 8146,
+          "showtimes": 120,
+          "theaters": 103,
+          "rank": 12,
+          "last_week_ratio": 195.4
+        },
+        {
+          "moviename": "Guardians of the Galaxy",
+          "japanese name": "ガーディアンズ・オブ・ギャラクシー",
+          "sales": 500,
+          "seats": 31092,
+          "showtimes": 422,
+          "theaters": 236,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ANNA ANNA",
+          "japanese name": "ＡＮＮＡ アナ",
+          "sales": 491,
+          "seats": 10152,
+          "showtimes": 136,
+          "theaters": 45,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Died once",
+          "japanese name": "一度死んでみた",
+          "sales": 463,
+          "seats": 17883,
+          "showtimes": 234,
+          "theaters": 182,
+          "rank": 15,
+          "last_week_ratio": 210.5
+        },
+        {
+          "moviename": "Stage \"Mobile Suit Gundam 00\" Live Screening",
+          "japanese name": "舞台「機動戦士ガンダム００」ライブビューイング",
+          "sales": 461,
+          "seats": 2427,
+          "showtimes": 51,
+          "theaters": 34,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "FUKUSHIMA 50",
+          "japanese name": "Ｆｕｋｕｓｈｉｍａ ５０",
+          "sales": 415,
+          "seats": 8407,
+          "showtimes": 118,
+          "theaters": 106,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pain & Glory",
+          "japanese name": "ペイン・アンド・グローリー",
+          "sales": 330,
+          "seats": 7005,
+          "showtimes": 77,
+          "theaters": 17,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Iron Man 3",
+          "japanese name": "アイアンマン３",
+          "sales": 300,
+          "seats": 32648,
+          "showtimes": 427,
+          "theaters": 241,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Haunted The Most Terrifying Haunted House in the World",
+          "japanese name": "ホーンテッド 世界一怖いお化け屋敷",
+          "sales": 299,
+          "seats": 7990,
+          "showtimes": 116,
+          "theaters": 31,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shinigami no Kagejō - Kagekyoku -",
+          "japanese name": "死神遣いの事件帖－傀儡夜曲－",
+          "sales": 284,
+          "seats": 9062,
+          "showtimes": 99,
+          "theaters": 27,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Good Boys",
+          "japanese name": "グッド・ボーイズ",
+          "sales": 282,
+          "seats": 9432,
+          "showtimes": 132,
+          "theaters": 39,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Panther",
+          "japanese name": "ブラックパンサー",
+          "sales": 244,
+          "seats": 30488,
+          "showtimes": 409,
+          "theaters": 240,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Harriet",
+          "japanese name": "ハリエット",
+          "sales": 222,
+          "seats": 4675,
+          "showtimes": 75,
+          "theaters": 34,
+          "rank": 24,
+          "last_week_ratio": 261.2
+        },
+        {
+          "moviename": "＜Monthly Kabuki 2020＞ Kichijun / Bo-shibari",
+          "japanese name": "＜月イチ歌舞伎２０２０＞喜撰／棒しばり",
+          "sales": 186,
+          "seats": 2595,
+          "showtimes": 30,
+          "theaters": 24,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

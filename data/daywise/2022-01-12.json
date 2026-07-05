@@ -1,0 +1,773 @@
+{
+  "date": "12-01-2022",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Movie: Jujutsu Kaisen 0",
+          "japanese name": "劇場版 呪術廻戦０",
+          "sales": 27876,
+          "seats": 343135,
+          "showtimes": 1261,
+          "theaters": 288,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Spider-Man: No Way Home",
+          "japanese name": "スパイダーマン ノー・ウェイ・ホーム",
+          "sales": 26488,
+          "seats": 307080,
+          "showtimes": 1379,
+          "theaters": 292,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "99.9 Criminal Specialist Attorney THE MOVIE",
+          "japanese name": "９９．９ 刑事専門弁護士 ＴＨＥ ＭＯＶＩＥ",
+          "sales": 20936,
+          "seats": 122041,
+          "showtimes": 772,
+          "theaters": 287,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kingdom Come: First Agent",
+          "japanese name": "キングスマン ファースト・エージェント",
+          "sales": 3018,
+          "seats": 34966,
+          "showtimes": 285,
+          "theaters": 289,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "It's Your Turn The Movie",
+          "japanese name": "あなたの番です 劇場版",
+          "sales": 2533,
+          "seats": 36658,
+          "showtimes": 310,
+          "theaters": 286,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The decisive battle is on Sunday",
+          "japanese name": "決戦は日曜日",
+          "sales": 2013,
+          "seats": 43019,
+          "showtimes": 345,
+          "theaters": 193,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Boss Baby: Family Mission",
+          "japanese name": "ボス・ベイビー ファミリー・ミッション",
+          "sales": 1825,
+          "seats": 42223,
+          "showtimes": 349,
+          "theaters": 280,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Matrix Resurrections",
+          "japanese name": "マトリックス レザレクションズ",
+          "sales": 1784,
+          "seats": 28357,
+          "showtimes": 237,
+          "theaters": 293,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Marksmen",
+          "japanese name": "マークスマン",
+          "sales": 1744,
+          "seats": 15236,
+          "showtimes": 128,
+          "theaters": 78,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Thunderbird 55/GOGO",
+          "japanese name": "サンダーバード５５／ＧＯＧＯ",
+          "sales": 1172,
+          "seats": 15980,
+          "showtimes": 125,
+          "theaters": 89,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ARASHI 5×20 FILM",
+          "japanese name": "ＡＲＡＳＨＩ ５×２０ ＦＩＬＭ",
+          "sales": 861,
+          "seats": 6297,
+          "showtimes": 52,
+          "theaters": 162,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Drive My Car",
+          "japanese name": "ドライブ・マイ・カー",
+          "sales": 685,
+          "seats": 824,
+          "showtimes": 6,
+          "theaters": 8,
+          "rank": 12,
+          "last_week_ratio": 992.8
+        },
+        {
+          "moviename": "Movie Master of the Stray Dogs B.E.A.S.T",
+          "japanese name": "映画 文豪ストレイドッグス ＢＥＡＳＴ",
+          "sales": 657,
+          "seats": 15858,
+          "showtimes": 124,
+          "theaters": 68,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Morning youth",
+          "japanese name": "明け方の若者たち",
+          "sales": 653,
+          "seats": 6790,
+          "showtimes": 61,
+          "theaters": 99,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Venom: Let There Be Carnage",
+          "japanese name": "ヴェノム：レット・ゼア・ビー・カーネイジ",
+          "sales": 626,
+          "seats": 11101,
+          "showtimes": 83,
+          "theaters": 269,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Masked Rider Beyond Generations",
+          "japanese name": "仮面ライダー ビヨンド・ジェネレーションズ",
+          "sales": 611,
+          "seats": 31009,
+          "showtimes": 249,
+          "theaters": 261,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Sumikko Gurashi The Magic of the Blue Moon Night",
+          "japanese name": "映画 すみっコぐらし 青い月夜のまほうのコ",
+          "sales": 556,
+          "seats": 25793,
+          "showtimes": 174,
+          "theaters": 170,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "＜Monthly Kabuki 2021＞ Noda Version: The Battle of Ken-Tarō",
+          "japanese name": "＜月イチ歌舞伎２０２１＞野田版 研辰の討たれ",
+          "sales": 447,
+          "seats": 3242,
+          "showtimes": 24,
+          "theaters": 24,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"BANG Dream! Poppi and Dream!\"",
+          "japanese name": "劇場版「ＢａｎＧ Ｄｒｅａｍ！ ぽっぴんどりーむ！」",
+          "sales": 299,
+          "seats": 12205,
+          "showtimes": 78,
+          "theaters": 95,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hello, my mother",
+          "japanese name": "こんにちは、私のお母さん",
+          "sales": 293,
+          "seats": 3188,
+          "showtimes": 25,
+          "theaters": 19,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "An angel a love song...",
+          "japanese name": "天使にラブ・ソングを・・・",
+          "sales": 248,
+          "seats": 2556,
+          "showtimes": 22,
+          "theaters": 22,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Musho Hero Den Wataru Shichiikoku no Ryūshinmaru -Saikai- <Tanaka Mayumi x Ichikura Kazue Shinshun Special Video付>",
+          "japanese name": "魔神英雄伝ワタル 七魂の龍神丸 －再会－ ＜田中真弓×伊倉一恵 新春スペシャル映像付＞",
+          "sales": 242,
+          "seats": 5486,
+          "showtimes": 46,
+          "theaters": 30,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mirabel and the House Full of Magic",
+          "japanese name": "ミラベルと魔法だらけの家",
+          "sales": 239,
+          "seats": 3732,
+          "showtimes": 34,
+          "theaters": 54,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Cinema Kabuki: Kyoka no Musume Gokudo / Futari no Warabiki",
+          "japanese name": "シネマ歌舞伎 京鹿子娘五人道成寺／二人椀久",
+          "sales": 216,
+          "seats": 849,
+          "showtimes": 9,
+          "theaters": 10,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Chicago",
+          "japanese name": "シカゴ",
+          "sales": 179,
+          "seats": 2089,
+          "showtimes": 18,
+          "theaters": 19,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Movie: Jujutsu Kaisen 0",
+          "japanese name": "劇場版 呪術廻戦０",
+          "sales": 57341,
+          "seats": 614892,
+          "showtimes": 2261,
+          "theaters": 288,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Spider-Man: No Way Home",
+          "japanese name": "スパイダーマン ノー・ウェイ・ホーム",
+          "sales": 53979,
+          "seats": 560671,
+          "showtimes": 2532,
+          "theaters": 292,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "99.9 Criminal Specialist Attorney THE MOVIE",
+          "japanese name": "９９．９ 刑事専門弁護士 ＴＨＥ ＭＯＶＩＥ",
+          "sales": 32216,
+          "seats": 229870,
+          "showtimes": 1460,
+          "theaters": 287,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kingdom Come: First Agent",
+          "japanese name": "キングスマン ファースト・エージェント",
+          "sales": 6038,
+          "seats": 68937,
+          "showtimes": 573,
+          "theaters": 289,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "It's Your Turn The Movie",
+          "japanese name": "あなたの番です 劇場版",
+          "sales": 5706,
+          "seats": 70304,
+          "showtimes": 589,
+          "theaters": 286,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Matrix Resurrections",
+          "japanese name": "マトリックス レザレクションズ",
+          "sales": 3947,
+          "seats": 56379,
+          "showtimes": 475,
+          "theaters": 293,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The decisive battle is on Sunday",
+          "japanese name": "決戦は日曜日",
+          "sales": 2942,
+          "seats": 74187,
+          "showtimes": 585,
+          "theaters": 193,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Marksmen",
+          "japanese name": "マークスマン",
+          "sales": 2636,
+          "seats": 26524,
+          "showtimes": 218,
+          "theaters": 78,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Boss Baby: Family Mission",
+          "japanese name": "ボス・ベイビー ファミリー・ミッション",
+          "sales": 2576,
+          "seats": 59283,
+          "showtimes": 483,
+          "theaters": 280,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Venom: Let There Be Carnage",
+          "japanese name": "ヴェノム：レット・ゼア・ビー・カーネイジ",
+          "sales": 2130,
+          "seats": 33502,
+          "showtimes": 256,
+          "theaters": 269,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ARASHI 5×20 FILM",
+          "japanese name": "ＡＲＡＳＨＩ ５×２０ ＦＩＬＭ",
+          "sales": 1953,
+          "seats": 17949,
+          "showtimes": 153,
+          "theaters": 162,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Morning youth",
+          "japanese name": "明け方の若者たち",
+          "sales": 1751,
+          "seats": 15545,
+          "showtimes": 142,
+          "theaters": 99,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Thunderbird 55/GOGO",
+          "japanese name": "サンダーバード５５／ＧＯＧＯ",
+          "sales": 1712,
+          "seats": 28383,
+          "showtimes": 221,
+          "theaters": 89,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Drive My Car",
+          "japanese name": "ドライブ・マイ・カー",
+          "sales": 1439,
+          "seats": 1930,
+          "showtimes": 14,
+          "theaters": 8,
+          "rank": 14,
+          "last_week_ratio": 695.2
+        },
+        {
+          "moviename": "Movie Master of the Stray Dogs B.E.A.S.T",
+          "japanese name": "映画 文豪ストレイドッグス ＢＥＡＳＴ",
+          "sales": 1295,
+          "seats": 29421,
+          "showtimes": 229,
+          "theaters": 68,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Masked Rider Beyond Generations",
+          "japanese name": "仮面ライダー ビヨンド・ジェネレーションズ",
+          "sales": 739,
+          "seats": 37080,
+          "showtimes": 293,
+          "theaters": 261,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"BANG Dream! Poppi and Dream!\"",
+          "japanese name": "劇場版「ＢａｎＧ Ｄｒｅａｍ！ ぽっぴんどりーむ！」",
+          "sales": 650,
+          "seats": 24567,
+          "showtimes": 158,
+          "theaters": 95,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Sumikko Gurashi The Magic of the Blue Moon Night",
+          "japanese name": "映画 すみっコぐらし 青い月夜のまほうのコ",
+          "sales": 617,
+          "seats": 28690,
+          "showtimes": 194,
+          "theaters": 170,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hello, my mother",
+          "japanese name": "こんにちは、私のお母さん",
+          "sales": 595,
+          "seats": 6211,
+          "showtimes": 47,
+          "theaters": 19,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "＜Monthly Kabuki 2021＞ Noda Version: The Battle of Ken-Tarō",
+          "japanese name": "＜月イチ歌舞伎２０２１＞野田版 研辰の討たれ",
+          "sales": 447,
+          "seats": 3242,
+          "showtimes": 24,
+          "theaters": 24,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mirabel and the House Full of Magic",
+          "japanese name": "ミラベルと魔法だらけの家",
+          "sales": 443,
+          "seats": 6717,
+          "showtimes": 62,
+          "theaters": 54,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "And the baton was passed",
+          "japanese name": "そして、バトンは渡された",
+          "sales": 411,
+          "seats": 2118,
+          "showtimes": 21,
+          "theaters": 24,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Musho Hero Den Wataru Shichiikoku no Ryūshinmaru -Saikai- <Tanaka Mayumi x Ichikura Kazue Shinshun Special Video付>",
+          "japanese name": "魔神英雄伝ワタル 七魂の龍神丸 －再会－ ＜田中真弓×伊倉一恵 新春スペシャル映像付＞",
+          "sales": 405,
+          "seats": 9785,
+          "showtimes": 80,
+          "theaters": 30,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Yunhi",
+          "japanese name": "ユンヒへ",
+          "sales": 362,
+          "seats": 2621,
+          "showtimes": 17,
+          "theaters": 7,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gekijōban \"Kinou Nanika Tabeta?\"",
+          "japanese name": "劇場版「きのう何食べた？」",
+          "sales": 348,
+          "seats": 1898,
+          "showtimes": 18,
+          "theaters": 30,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Spider-Man: No Way Home",
+          "japanese name": "スパイダーマン ノー・ウェイ・ホーム",
+          "sales": 67472,
+          "seats": 726372,
+          "showtimes": 3213,
+          "theaters": 293,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Jujutsu Kaisen 0",
+          "japanese name": "劇場版 呪術廻戦０",
+          "sales": 59364,
+          "seats": 719203,
+          "showtimes": 2645,
+          "theaters": 289,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "99.9 Criminal Specialist Attorney THE MOVIE",
+          "japanese name": "９９．９ 刑事専門弁護士 ＴＨＥ ＭＯＶＩＥ",
+          "sales": 25991,
+          "seats": 277464,
+          "showtimes": 1751,
+          "theaters": 288,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "It's Your Turn The Movie",
+          "japanese name": "あなたの番です 劇場版",
+          "sales": 5796,
+          "seats": 94862,
+          "showtimes": 792,
+          "theaters": 287,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kingdom Come: First Agent",
+          "japanese name": "キングスマン ファースト・エージェント",
+          "sales": 5670,
+          "seats": 96535,
+          "showtimes": 798,
+          "theaters": 290,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Matrix Resurrections",
+          "japanese name": "マトリックス レザレクションズ",
+          "sales": 3847,
+          "seats": 83889,
+          "showtimes": 702,
+          "theaters": 294,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Marksmen",
+          "japanese name": "マークスマン",
+          "sales": 2852,
+          "seats": 35442,
+          "showtimes": 293,
+          "theaters": 78,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The decisive battle is on Sunday",
+          "japanese name": "決戦は日曜日",
+          "sales": 2840,
+          "seats": 97611,
+          "showtimes": 767,
+          "theaters": 194,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Boss Baby: Family Mission",
+          "japanese name": "ボス・ベイビー ファミリー・ミッション",
+          "sales": 2801,
+          "seats": 59984,
+          "showtimes": 487,
+          "theaters": 281,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Venom: Let There Be Carnage",
+          "japanese name": "ヴェノム：レット・ゼア・ビー・カーネイジ",
+          "sales": 2156,
+          "seats": 42382,
+          "showtimes": 322,
+          "theaters": 270,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Thunderbird 55/GOGO",
+          "japanese name": "サンダーバード５５／ＧＯＧＯ",
+          "sales": 1772,
+          "seats": 34568,
+          "showtimes": 263,
+          "theaters": 89,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ARASHI 5×20 FILM",
+          "japanese name": "ＡＲＡＳＨＩ ５×２０ ＦＩＬＭ",
+          "sales": 1746,
+          "seats": 20641,
+          "showtimes": 175,
+          "theaters": 162,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Morning youth",
+          "japanese name": "明け方の若者たち",
+          "sales": 1579,
+          "seats": 20027,
+          "showtimes": 181,
+          "theaters": 99,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Master of the Stray Dogs B.E.A.S.T",
+          "japanese name": "映画 文豪ストレイドッグス ＢＥＡＳＴ",
+          "sales": 1198,
+          "seats": 38273,
+          "showtimes": 296,
+          "theaters": 68,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Drive My Car",
+          "japanese name": "ドライブ・マイ・カー",
+          "sales": 1030,
+          "seats": 2336,
+          "showtimes": 17,
+          "theaters": 8,
+          "rank": 15,
+          "last_week_ratio": 436.4
+        },
+        {
+          "moviename": "Masked Rider Beyond Generations",
+          "japanese name": "仮面ライダー ビヨンド・ジェネレーションズ",
+          "sales": 693,
+          "seats": 37534,
+          "showtimes": 294,
+          "theaters": 262,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"BANG Dream! Poppi and Dream!\"",
+          "japanese name": "劇場版「ＢａｎＧ Ｄｒｅａｍ！ ぽっぴんどりーむ！」",
+          "sales": 683,
+          "seats": 29574,
+          "showtimes": 196,
+          "theaters": 95,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Sumikko Gurashi The Magic of the Blue Moon Night",
+          "japanese name": "映画 すみっコぐらし 青い月夜のまほうのコ",
+          "sales": 578,
+          "seats": 28893,
+          "showtimes": 195,
+          "theaters": 171,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mirabel and the House Full of Magic",
+          "japanese name": "ミラベルと魔法だらけの家",
+          "sales": 435,
+          "seats": 7095,
+          "showtimes": 65,
+          "theaters": 54,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "＜Monthly Kabuki 2021＞ Noda Version: The Battle of Ken-Tarō",
+          "japanese name": "＜月イチ歌舞伎２０２１＞野田版 研辰の討たれ",
+          "sales": 419,
+          "seats": 3242,
+          "showtimes": 24,
+          "theaters": 24,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Musho Hero Den Wataru Shichiikoku no Ryūshinmaru -Saikai- <Tanaka Mayumi x Ichikura Kazue Shinshun Special Video付>",
+          "japanese name": "魔神英雄伝ワタル 七魂の龍神丸 －再会－ ＜田中真弓×伊倉一恵 新春スペシャル映像付＞",
+          "sales": 380,
+          "seats": 13201,
+          "showtimes": 107,
+          "theaters": 30,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hello, my mother",
+          "japanese name": "こんにちは、私のお母さん",
+          "sales": 359,
+          "seats": 7384,
+          "showtimes": 58,
+          "theaters": 19,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "And the baton was passed",
+          "japanese name": "そして、バトンは渡された",
+          "sales": 351,
+          "seats": 2551,
+          "showtimes": 25,
+          "theaters": 24,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Film and Theater: Success House ~ Invader S and the Miracle of Western Ushigawara~",
+          "japanese name": "映画演劇 サクセス荘 ～侵略者Ｓと西荻窪の奇跡～",
+          "sales": 327,
+          "seats": 5749,
+          "showtimes": 54,
+          "theaters": 40,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ARIA The BENDIZATION",
+          "japanese name": "ＡＲＩＡ Ｔｈｅ ＢＥＮＥＤＩＺＩＯＮＥ",
+          "sales": 257,
+          "seats": 6928,
+          "showtimes": 40,
+          "theaters": 40,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

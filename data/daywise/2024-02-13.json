@@ -1,0 +1,773 @@
+{
+  "date": "13-02-2024",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "The Tale of the Heike",
+          "japanese name": "身代わり忠臣蔵",
+          "sales": 7225,
+          "seats": 66857,
+          "showtimes": 381,
+          "theaters": 172,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Mobile Suit Gundam SEED FREEDOM\"",
+          "japanese name": "劇場版「機動戦士ガンダムＳＥＥＤ ＦＲＥＥＤＯＭ」",
+          "sales": 6282,
+          "seats": 96597,
+          "showtimes": 370,
+          "theaters": 175,
+          "rank": 2,
+          "last_week_ratio": 114.6
+        },
+        {
+          "moviename": "The Dawn of Everything",
+          "japanese name": "夜明けのすべて",
+          "sales": 4900,
+          "seats": 60969,
+          "showtimes": 276,
+          "theaters": 141,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A World Tour Screening of \"Demon Slayer: Kimetsu no Yaiba\" - The Miracle of Bonds, and Then to the Pillar Training",
+          "japanese name": "ワールドツアー上映「鬼滅の刃」絆の奇跡、そして柱稽古へ",
+          "sales": 4872,
+          "seats": 128422,
+          "showtimes": 426,
+          "theaters": 181,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Golden Kamuy",
+          "japanese name": "ゴールデンカムイ",
+          "sales": 4397,
+          "seats": 41850,
+          "showtimes": 248,
+          "theaters": 175,
+          "rank": 5,
+          "last_week_ratio": 103.9
+        },
+        {
+          "moviename": "Purple",
+          "japanese name": "カラーパープル",
+          "sales": 2634,
+          "seats": 41247,
+          "showtimes": 285,
+          "theaters": 155,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Five Nights at Freddy's",
+          "japanese name": "ファイブ・ナイツ・アット・フレディーズ",
+          "sales": 2250,
+          "seats": 27908,
+          "showtimes": 202,
+          "theaters": 123,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "PERFECT DAYS",
+          "japanese name": "ＰＥＲＦＥＣＴ ＤＡＹＳ",
+          "sales": 1992,
+          "seats": 14570,
+          "showtimes": 93,
+          "theaters": 103,
+          "rank": 8,
+          "last_week_ratio": 121.5
+        },
+        {
+          "moviename": "Movie SPY x FAMILY CODE: WHITE",
+          "japanese name": "劇場版 ＳＰＹ×ＦＡＭＩＬＹ ＣＯＤＥ：Ｗｈｉｔｅ",
+          "sales": 1867,
+          "seats": 35632,
+          "showtimes": 255,
+          "theaters": 179,
+          "rank": 9,
+          "last_week_ratio": 127.8
+        },
+        {
+          "moviename": "Silent Love",
+          "japanese name": "サイレントラブ",
+          "sales": 1588,
+          "seats": 20726,
+          "showtimes": 159,
+          "theaters": 169,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "If I could meet you again on the hill where that flower blooms.",
+          "japanese name": "あの花が咲く丘で、君とまた出会えたら。",
+          "sales": 1480,
+          "seats": 16115,
+          "showtimes": 102,
+          "theaters": 163,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Poor creatures",
+          "japanese name": "哀れなるものたち",
+          "sales": 982,
+          "seats": 10331,
+          "showtimes": 75,
+          "theaters": 160,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "GODZILLA-1.0",
+          "japanese name": "ゴジラ－１．０",
+          "sales": 981,
+          "seats": 11376,
+          "showtimes": 80,
+          "theaters": 164,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let's go karaoke!",
+          "japanese name": "カラオケ行こ！",
+          "sales": 887,
+          "seats": 8878,
+          "showtimes": 58,
+          "theaters": 137,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Masked Rider 555 20th Paradise Reclaimed",
+          "japanese name": "仮面ライダー５５５ ２０ｔｈ パラダイス・リゲインド",
+          "sales": 859,
+          "seats": 12485,
+          "showtimes": 69,
+          "theaters": 52,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wish",
+          "japanese name": "ウィッシュ",
+          "sales": 730,
+          "seats": 12528,
+          "showtimes": 91,
+          "theaters": 120,
+          "rank": 16,
+          "last_week_ratio": 100.6
+        },
+        {
+          "moviename": "Movie Given Chitose Mix",
+          "japanese name": "映画 ギヴン 柊ｍｉｘ",
+          "sales": 711,
+          "seats": 4569,
+          "showtimes": 24,
+          "theaters": 23,
+          "rank": 17,
+          "last_week_ratio": 104.1
+        },
+        {
+          "moviename": "Kabuki NEXT Aterui",
+          "japanese name": "歌舞伎ＮＥＸＴ 阿弖流為〈アテルイ〉",
+          "sales": 690,
+          "seats": 3983,
+          "showtimes": 28,
+          "theaters": 29,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Day You and the World End FINAL",
+          "japanese name": "君と世界が終わる日に ＦＩＮＡＬ",
+          "sales": 658,
+          "seats": 11356,
+          "showtimes": 83,
+          "theaters": 157,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Jeanne du Barry, the king's last lover",
+          "japanese name": "ジャンヌ・デュ・バリー 国王最期の愛人",
+          "sales": 524,
+          "seats": 3804,
+          "showtimes": 32,
+          "theaters": 63,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Taro's Birth GeGeGe no Kwami",
+          "japanese name": "鬼太郎誕生 ゲゲゲの謎",
+          "sales": 513,
+          "seats": 6547,
+          "showtimes": 41,
+          "theaters": 141,
+          "rank": 21,
+          "last_week_ratio": 227
+        },
+        {
+          "moviename": "TV Series Special Edition \"Detective Conan vs. The Phantom Kid\"",
+          "japanese name": "ＴＶシリーズ特別編集版「名探偵コナンｖｓ．怪盗キッド」",
+          "sales": 333,
+          "seats": 13774,
+          "showtimes": 74,
+          "theaters": 109,
+          "rank": 22,
+          "last_week_ratio": 104.1
+        },
+        {
+          "moviename": "In a closed snow lodge",
+          "japanese name": "ある閉ざされた雪の山荘で",
+          "sales": 331,
+          "seats": 4730,
+          "showtimes": 33,
+          "theaters": 134,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Special Screening Version World Trigger Season 2nd",
+          "japanese name": "特別上映版 ワールドトリガー ２ｎｄシーズン",
+          "sales": 331,
+          "seats": 4095,
+          "showtimes": 29,
+          "theaters": 17,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "How do you live?",
+          "japanese name": "君たちはどう生きるか",
+          "sales": 330,
+          "seats": 7868,
+          "showtimes": 59,
+          "theaters": 156,
+          "rank": 25,
+          "last_week_ratio": 109.3
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Movie \"Mobile Suit Gundam SEED FREEDOM\"",
+          "japanese name": "劇場版「機動戦士ガンダムＳＥＥＤ ＦＲＥＥＤＯＭ」",
+          "sales": 10829,
+          "seats": 178909,
+          "showtimes": 694,
+          "theaters": 175,
+          "rank": 1,
+          "last_week_ratio": 109.1
+        },
+        {
+          "moviename": "The Tale of the Heike",
+          "japanese name": "身代わり忠臣蔵",
+          "sales": 9456,
+          "seats": 114708,
+          "showtimes": 643,
+          "theaters": 172,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A World Tour Screening of \"Demon Slayer: Kimetsu no Yaiba\" - The Miracle of Bonds, and Then to the Pillar Training",
+          "japanese name": "ワールドツアー上映「鬼滅の刃」絆の奇跡、そして柱稽古へ",
+          "sales": 8236,
+          "seats": 231291,
+          "showtimes": 773,
+          "theaters": 181,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Golden Kamuy",
+          "japanese name": "ゴールデンカムイ",
+          "sales": 8158,
+          "seats": 78659,
+          "showtimes": 468,
+          "theaters": 175,
+          "rank": 4,
+          "last_week_ratio": 104.1
+        },
+        {
+          "moviename": "The Dawn of Everything",
+          "japanese name": "夜明けのすべて",
+          "sales": 7274,
+          "seats": 109684,
+          "showtimes": 491,
+          "theaters": 141,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Five Nights at Freddy's",
+          "japanese name": "ファイブ・ナイツ・アット・フレディーズ",
+          "sales": 4397,
+          "seats": 49534,
+          "showtimes": 362,
+          "theaters": 123,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Purple",
+          "japanese name": "カラーパープル",
+          "sales": 3975,
+          "seats": 77154,
+          "showtimes": 535,
+          "theaters": 155,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "If I could meet you again on the hill where that flower blooms.",
+          "japanese name": "あの花が咲く丘で、君とまた出会えたら。",
+          "sales": 3525,
+          "seats": 36948,
+          "showtimes": 234,
+          "theaters": 163,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie SPY x FAMILY CODE: WHITE",
+          "japanese name": "劇場版 ＳＰＹ×ＦＡＭＩＬＹ ＣＯＤＥ：Ｗｈｉｔｅ",
+          "sales": 3363,
+          "seats": 59891,
+          "showtimes": 433,
+          "theaters": 179,
+          "rank": 9,
+          "last_week_ratio": 111.3
+        },
+        {
+          "moviename": "Silent Love",
+          "japanese name": "サイレントラブ",
+          "sales": 2900,
+          "seats": 38769,
+          "showtimes": 294,
+          "theaters": 169,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "PERFECT DAYS",
+          "japanese name": "ＰＥＲＦＥＣＴ ＤＡＹＳ",
+          "sales": 2344,
+          "seats": 17548,
+          "showtimes": 113,
+          "theaters": 103,
+          "rank": 11,
+          "last_week_ratio": 112.9
+        },
+        {
+          "moviename": "GODZILLA-1.0",
+          "japanese name": "ゴジラ－１．０",
+          "sales": 2168,
+          "seats": 24696,
+          "showtimes": 170,
+          "theaters": 164,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Poor creatures",
+          "japanese name": "哀れなるものたち",
+          "sales": 2046,
+          "seats": 21211,
+          "showtimes": 147,
+          "theaters": 160,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let's go karaoke!",
+          "japanese name": "カラオケ行こ！",
+          "sales": 1906,
+          "seats": 20271,
+          "showtimes": 131,
+          "theaters": 137,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Masked Rider 555 20th Paradise Reclaimed",
+          "japanese name": "仮面ライダー５５５ ２０ｔｈ パラダイス・リゲインド",
+          "sales": 1563,
+          "seats": 23784,
+          "showtimes": 126,
+          "theaters": 52,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Taro's Birth GeGeGe no Kwami",
+          "japanese name": "鬼太郎誕生 ゲゲゲの謎",
+          "sales": 1558,
+          "seats": 19185,
+          "showtimes": 122,
+          "theaters": 141,
+          "rank": 16,
+          "last_week_ratio": 190.5
+        },
+        {
+          "moviename": "The Day You and the World End FINAL",
+          "japanese name": "君と世界が終わる日に ＦＩＮＡＬ",
+          "sales": 1338,
+          "seats": 21396,
+          "showtimes": 166,
+          "theaters": 157,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Given Chitose Mix",
+          "japanese name": "映画 ギヴン 柊ｍｉｘ",
+          "sales": 1222,
+          "seats": 7487,
+          "showtimes": 39,
+          "theaters": 23,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "In a closed snow lodge",
+          "japanese name": "ある閉ざされた雪の山荘で",
+          "sales": 1147,
+          "seats": 14216,
+          "showtimes": 101,
+          "theaters": 134,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wish",
+          "japanese name": "ウィッシュ",
+          "sales": 1000,
+          "seats": 17626,
+          "showtimes": 122,
+          "theaters": 120,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Jeanne du Barry, the king's last lover",
+          "japanese name": "ジャンヌ・デュ・バリー 国王最期の愛人",
+          "sales": 758,
+          "seats": 7937,
+          "showtimes": 60,
+          "theaters": 63,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kabuki NEXT Aterui",
+          "japanese name": "歌舞伎ＮＥＸＴ 阿弖流為〈アテルイ〉",
+          "sales": 723,
+          "seats": 4373,
+          "showtimes": 29,
+          "theaters": 29,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "How do you live?",
+          "japanese name": "君たちはどう生きるか",
+          "sales": 642,
+          "seats": 17601,
+          "showtimes": 137,
+          "theaters": 156,
+          "rank": 23,
+          "last_week_ratio": 127.1
+        },
+        {
+          "moviename": "Closing your eyes",
+          "japanese name": "瞳をとじて",
+          "sales": 622,
+          "seats": 4188,
+          "showtimes": 33,
+          "theaters": 15,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TV Series Special Edition \"Detective Conan vs. The Phantom Kid\"",
+          "japanese name": "ＴＶシリーズ特別編集版「名探偵コナンｖｓ．怪盗キッド」",
+          "sales": 603,
+          "seats": 17177,
+          "showtimes": 97,
+          "theaters": 109,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "A World Tour Screening of \"Demon Slayer: Kimetsu no Yaiba\" - The Miracle of Bonds, and Then to the Pillar Training",
+          "japanese name": "ワールドツアー上映「鬼滅の刃」絆の奇跡、そして柱稽古へ",
+          "sales": 42694,
+          "seats": 279658,
+          "showtimes": 978,
+          "theaters": 182,
+          "rank": 1,
+          "last_week_ratio": 221.1
+        },
+        {
+          "moviename": "Movie \"Mobile Suit Gundam SEED FREEDOM\"",
+          "japanese name": "劇場版「機動戦士ガンダムＳＥＥＤ ＦＲＥＥＤＯＭ」",
+          "sales": 34143,
+          "seats": 218653,
+          "showtimes": 870,
+          "theaters": 176,
+          "rank": 2,
+          "last_week_ratio": 226.2
+        },
+        {
+          "moviename": "Golden Kamuy",
+          "japanese name": "ゴールデンカムイ",
+          "sales": 31113,
+          "seats": 102263,
+          "showtimes": 610,
+          "theaters": 176,
+          "rank": 3,
+          "last_week_ratio": 306.8
+        },
+        {
+          "moviename": "Movie SPY x FAMILY CODE: WHITE",
+          "japanese name": "劇場版 ＳＰＹ×ＦＡＭＩＬＹ ＣＯＤＥ：Ｗｈｉｔｅ",
+          "sales": 21066,
+          "seats": 72352,
+          "showtimes": 527,
+          "theaters": 180,
+          "rank": 4,
+          "last_week_ratio": 456.6
+        },
+        {
+          "moviename": "The Tale of the Heike",
+          "japanese name": "身代わり忠臣蔵",
+          "sales": 20664,
+          "seats": 130351,
+          "showtimes": 772,
+          "theaters": 173,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Dawn of Everything",
+          "japanese name": "夜明けのすべて",
+          "sales": 15597,
+          "seats": 129914,
+          "showtimes": 631,
+          "theaters": 142,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Five Nights at Freddy's",
+          "japanese name": "ファイブ・ナイツ・アット・フレディーズ",
+          "sales": 14032,
+          "seats": 65231,
+          "showtimes": 477,
+          "theaters": 123,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "If I could meet you again on the hill where that flower blooms.",
+          "japanese name": "あの花が咲く丘で、君とまた出会えたら。",
+          "sales": 13719,
+          "seats": 39882,
+          "showtimes": 261,
+          "theaters": 163,
+          "rank": 8,
+          "last_week_ratio": 231.7
+        },
+        {
+          "moviename": "Silent Love",
+          "japanese name": "サイレントラブ",
+          "sales": 10810,
+          "seats": 49430,
+          "showtimes": 341,
+          "theaters": 164,
+          "rank": 9,
+          "last_week_ratio": 188.9
+        },
+        {
+          "moviename": "Elysium One Man Live at Nippon Budokan \"Irrregular Dice\" LV",
+          "japanese name": "いれいす Ｏｎｅ Ｍａｎ Ｌｉｖｅ ｉｎ 日本武道館「Ｉｒｒｅｇｕｌａｒ Ｄｉｃｅ」ＬＶ",
+          "sales": 8579,
+          "seats": 14547,
+          "showtimes": 93,
+          "theaters": 72,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Purple",
+          "japanese name": "カラーパープル",
+          "sales": 8521,
+          "seats": 94219,
+          "showtimes": 665,
+          "theaters": 155,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "GODZILLA-1.0",
+          "japanese name": "ゴジラ－１．０",
+          "sales": 7666,
+          "seats": 27037,
+          "showtimes": 191,
+          "theaters": 164,
+          "rank": 12,
+          "last_week_ratio": 215.7
+        },
+        {
+          "moviename": "Wish",
+          "japanese name": "ウィッシュ",
+          "sales": 7498,
+          "seats": 23297,
+          "showtimes": 157,
+          "theaters": 154,
+          "rank": 13,
+          "last_week_ratio": 454.4
+        },
+        {
+          "moviename": "PERFECT DAYS",
+          "japanese name": "ＰＥＲＦＥＣＴ ＤＡＹＳ",
+          "sales": 5968,
+          "seats": 18435,
+          "showtimes": 117,
+          "theaters": 102,
+          "rank": 14,
+          "last_week_ratio": 241
+        },
+        {
+          "moviename": "Masked Rider 555 20th Paradise Reclaimed",
+          "japanese name": "仮面ライダー５５５ ２０ｔｈ パラダイス・リゲインド",
+          "sales": 5459,
+          "seats": 29736,
+          "showtimes": 151,
+          "theaters": 52,
+          "rank": 15,
+          "last_week_ratio": 143
+        },
+        {
+          "moviename": "Let's go karaoke!",
+          "japanese name": "カラオケ行こ！",
+          "sales": 4877,
+          "seats": 21283,
+          "showtimes": 141,
+          "theaters": 135,
+          "rank": 16,
+          "last_week_ratio": 203.6
+        },
+        {
+          "moviename": "Taro's Birth GeGeGe no Kwami",
+          "japanese name": "鬼太郎誕生 ゲゲゲの謎",
+          "sales": 4870,
+          "seats": 23281,
+          "showtimes": 149,
+          "theaters": 143,
+          "rank": 17,
+          "last_week_ratio": 445.6
+        },
+        {
+          "moviename": "The Day You and the World End FINAL",
+          "japanese name": "君と世界が終わる日に ＦＩＮＡＬ",
+          "sales": 4720,
+          "seats": 25984,
+          "showtimes": 200,
+          "theaters": 158,
+          "rank": 18,
+          "last_week_ratio": 141
+        },
+        {
+          "moviename": "Poor creatures",
+          "japanese name": "哀れなるものたち",
+          "sales": 4661,
+          "seats": 25521,
+          "showtimes": 184,
+          "theaters": 159,
+          "rank": 19,
+          "last_week_ratio": 146
+        },
+        {
+          "moviename": "FUKUYAMA MASAHARU LIVE FILM The Summer of Words' Blessing",
+          "japanese name": "ＦＵＫＵＹＡＭＡ ＭＡＳＡＨＡＲＵ ＬＩＶＥ ＦＩＬＭ 言霊の幸わう夏",
+          "sales": 3911,
+          "seats": 11519,
+          "showtimes": 86,
+          "theaters": 86,
+          "rank": 20,
+          "last_week_ratio": 1068.6
+        },
+        {
+          "moviename": "In a closed snow lodge",
+          "japanese name": "ある閉ざされた雪の山荘で",
+          "sales": 3564,
+          "seats": 19016,
+          "showtimes": 132,
+          "theaters": 132,
+          "rank": 21,
+          "last_week_ratio": 151.7
+        },
+        {
+          "moviename": "Movie Given Chitose Mix",
+          "japanese name": "映画 ギヴン 柊ｍｉｘ",
+          "sales": 2530,
+          "seats": 9840,
+          "showtimes": 49,
+          "theaters": 23,
+          "rank": 22,
+          "last_week_ratio": 157.6
+        },
+        {
+          "moviename": "TV Series Special Edition \"Detective Conan vs. The Phantom Kid\"",
+          "japanese name": "ＴＶシリーズ特別編集版「名探偵コナンｖｓ．怪盗キッド」",
+          "sales": 2459,
+          "seats": 19223,
+          "showtimes": 110,
+          "theaters": 109,
+          "rank": 23,
+          "last_week_ratio": 271.4
+        },
+        {
+          "moviename": "How do you live?",
+          "japanese name": "君たちはどう生きるか",
+          "sales": 2012,
+          "seats": 20988,
+          "showtimes": 155,
+          "theaters": 157,
+          "rank": 24,
+          "last_week_ratio": 286.2
+        },
+        {
+          "moviename": "Aquaman/Lost Kingdom",
+          "japanese name": "アクアマン／失われた王国",
+          "sales": 1572,
+          "seats": 16337,
+          "showtimes": 123,
+          "theaters": 121,
+          "rank": 25,
+          "last_week_ratio": 118.8
+        }
+      ]
+    }
+  ]
+}

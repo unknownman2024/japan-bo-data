@@ -1,0 +1,743 @@
+{
+  "date": "24-12-2020",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 15922,
+          "seats": 130904,
+          "showtimes": 815,
+          "theaters": 280,
+          "rank": 1,
+          "last_week_ratio": 102.7
+        },
+        {
+          "moviename": "New Interpretation: Three Kingdoms",
+          "japanese name": "新解釈・三國志",
+          "sales": 13474,
+          "seats": 126946,
+          "showtimes": 738,
+          "theaters": 279,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Promised Neverland",
+          "japanese name": "約束のネバーランド",
+          "sales": 8625,
+          "seats": 182091,
+          "showtimes": 699,
+          "theaters": 277,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "STAND BY ME Doraemon 2",
+          "japanese name": "ＳＴＡＮＤ ＢＹ ＭＥ ドラえもん ２",
+          "sales": 5872,
+          "seats": 63804,
+          "showtimes": 623,
+          "theaters": 280,
+          "rank": 4,
+          "last_week_ratio": 183
+        },
+        {
+          "moviename": "Wonder Woman 1984",
+          "japanese name": "ワンダーウーマン １９８４",
+          "sales": 4202,
+          "seats": 136819,
+          "showtimes": 763,
+          "theaters": 275,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Foreigner",
+          "japanese name": "天外者",
+          "sales": 2910,
+          "seats": 33651,
+          "showtimes": 303,
+          "theaters": 183,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Takeshita Kabuki ZERØ 2020 The Movie",
+          "japanese name": "滝沢歌舞伎 ＺＥＲＯ ２０２０ Ｔｈｅ Ｍｏｖｉｅ",
+          "sales": 2755,
+          "seats": 19650,
+          "showtimes": 167,
+          "theaters": 172,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version Kamen Rider Saber/Zero-One",
+          "japanese name": "劇場版 仮面ライダーセイバー／ゼロワン",
+          "sales": 2434,
+          "seats": 91085,
+          "showtimes": 708,
+          "theaters": 264,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Silent Tokyo",
+          "japanese name": "サイレント・トーキョー",
+          "sales": 1207,
+          "seats": 21179,
+          "showtimes": 207,
+          "theaters": 247,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Neon Genesis Evangelion: The New Movie Q",
+          "japanese name": "ヱヴァンゲリヲン 新劇場版：Ｑ",
+          "sales": 1118,
+          "seats": 21642,
+          "showtimes": 222,
+          "theaters": 236,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 Fate/Grand Order 神圣圆桌领域卡美洛 前编",
+          "japanese name": "劇場版 Ｆａｔｅ／Ｇｒａｎｄ Ｏｒｄｅｒ 神聖円卓領域キャメロット 前編",
+          "sales": 815,
+          "seats": 16962,
+          "showtimes": 139,
+          "theaters": 151,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "女巫很多",
+          "japanese name": "魔女がいっぱい",
+          "sales": 638,
+          "seats": 14316,
+          "showtimes": 139,
+          "theaters": 202,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Eat Me",
+          "japanese name": "私をくいとめて",
+          "sales": 525,
+          "seats": 9126,
+          "showtimes": 77,
+          "theaters": 51,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bill and Ted's Billow Trip Music Can Save the World!",
+          "japanese name": "ビルとテッドの時空旅行 音楽で世界を救え！",
+          "sales": 465,
+          "seats": 27846,
+          "showtimes": 245,
+          "theaters": 147,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "罗小黑战记 我选择未来",
+          "japanese name": "羅小黒戦記 ぼくが選ぶ未来",
+          "sales": 306,
+          "seats": 1934,
+          "showtimes": 15,
+          "theaters": 45,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Voice of Guilt",
+          "japanese name": "罪の声",
+          "sales": 302,
+          "seats": 4768,
+          "showtimes": 46,
+          "theaters": 151,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Forest School",
+          "japanese name": "森の学校",
+          "sales": 201,
+          "seats": 201,
+          "showtimes": 1,
+          "theaters": 1,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version Violet Evergarden",
+          "japanese name": "劇場版 ヴァイオレット・エヴァーガーデン",
+          "sales": 160,
+          "seats": 406,
+          "showtimes": 4,
+          "theaters": 29,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Paul Patrol, Grand Car Race Campaign GO! GO!",
+          "japanese name": "パウ・パトロール カーレース大作戦 ＧＯ！ＧＯ！",
+          "sales": 151,
+          "seats": 5806,
+          "showtimes": 60,
+          "theaters": 61,
+          "rank": 19,
+          "last_week_ratio": 152.5
+        },
+        {
+          "moviename": "Neon Genesis Evangelion: Break",
+          "japanese name": "ヱヴァンゲリヲン 新劇場版：破",
+          "sales": 151,
+          "seats": 1443,
+          "showtimes": 15,
+          "theaters": 40,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shibata family!",
+          "japanese name": "浅田家！",
+          "sales": 138,
+          "seats": 704,
+          "showtimes": 5,
+          "theaters": 4,
+          "rank": 21,
+          "last_week_ratio": 226.2
+        },
+        {
+          "moviename": "Doctor Death's Legacy BLACK FILE",
+          "japanese name": "ドクター・デスの遺産 ＢＬＡＣＫ ＦＩＬＥ",
+          "sales": 137,
+          "seats": 3672,
+          "showtimes": 28,
+          "theaters": 167,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sakura",
+          "japanese name": "さくら",
+          "sales": 136,
+          "seats": 550,
+          "showtimes": 5,
+          "theaters": 6,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "熊川哲也 K芭蕾 公司 《唐吉诃德》 in Cinema",
+          "japanese name": "熊川哲也 Ｋバレエ カンパニー 「ドン・キホーテ」 ｉｎ Ｃｉｎｅｍａ",
+          "sales": 111,
+          "seats": 720,
+          "showtimes": 7,
+          "theaters": 40,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 28693,
+          "seats": 250029,
+          "showtimes": 1564,
+          "theaters": 280,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New Interpretation: Three Kingdoms",
+          "japanese name": "新解釈・三國志",
+          "sales": 24629,
+          "seats": 235069,
+          "showtimes": 1379,
+          "theaters": 279,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Promised Neverland",
+          "japanese name": "約束のネバーランド",
+          "sales": 19134,
+          "seats": 348949,
+          "showtimes": 1385,
+          "theaters": 277,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "STAND BY ME Doraemon 2",
+          "japanese name": "ＳＴＡＮＤ ＢＹ ＭＥ ドラえもん ２",
+          "sales": 10481,
+          "seats": 99855,
+          "showtimes": 973,
+          "theaters": 280,
+          "rank": 4,
+          "last_week_ratio": 143.8
+        },
+        {
+          "moviename": "Wonder Woman 1984",
+          "japanese name": "ワンダーウーマン １９８４",
+          "sales": 6635,
+          "seats": 247067,
+          "showtimes": 1393,
+          "theaters": 275,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Takeshita Kabuki ZERØ 2020 The Movie",
+          "japanese name": "滝沢歌舞伎 ＺＥＲＯ ２０２０ Ｔｈｅ Ｍｏｖｉｅ",
+          "sales": 4907,
+          "seats": 39815,
+          "showtimes": 328,
+          "theaters": 172,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Foreigner",
+          "japanese name": "天外者",
+          "sales": 3849,
+          "seats": 53052,
+          "showtimes": 480,
+          "theaters": 183,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version Kamen Rider Saber/Zero-One",
+          "japanese name": "劇場版 仮面ライダーセイバー／ゼロワン",
+          "sales": 3371,
+          "seats": 145646,
+          "showtimes": 1127,
+          "theaters": 264,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Neon Genesis Evangelion: The New Movie Q",
+          "japanese name": "ヱヴァンゲリヲン 新劇場版：Ｑ",
+          "sales": 2308,
+          "seats": 42226,
+          "showtimes": 428,
+          "theaters": 236,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Silent Tokyo",
+          "japanese name": "サイレント・トーキョー",
+          "sales": 2296,
+          "seats": 39571,
+          "showtimes": 390,
+          "theaters": 247,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 Fate/Grand Order 神圣圆桌领域卡美洛 前编",
+          "japanese name": "劇場版 Ｆａｔｅ／Ｇｒａｎｄ Ｏｒｄｅｒ 神聖円卓領域キャメロット 前編",
+          "sales": 1661,
+          "seats": 32558,
+          "showtimes": 279,
+          "theaters": 151,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "女巫很多",
+          "japanese name": "魔女がいっぱい",
+          "sales": 1462,
+          "seats": 28352,
+          "showtimes": 265,
+          "theaters": 202,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "熊川哲也 K芭蕾 公司 《唐吉诃德》 in Cinema",
+          "japanese name": "熊川哲也 Ｋバレエ カンパニー 「ドン・キホーテ」 ｉｎ Ｃｉｎｅｍａ",
+          "sales": 1026,
+          "seats": 4277,
+          "showtimes": 40,
+          "theaters": 40,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "罗小黑战记 我选择未来",
+          "japanese name": "羅小黒戦記 ぼくが選ぶ未来",
+          "sales": 863,
+          "seats": 5485,
+          "showtimes": 42,
+          "theaters": 45,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bill and Ted's Billow Trip Music Can Save the World!",
+          "japanese name": "ビルとテッドの時空旅行 音楽で世界を救え！",
+          "sales": 746,
+          "seats": 52462,
+          "showtimes": 457,
+          "theaters": 147,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Eat Me",
+          "japanese name": "私をくいとめて",
+          "sales": 675,
+          "seats": 16779,
+          "showtimes": 136,
+          "theaters": 51,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Voice of Guilt",
+          "japanese name": "罪の声",
+          "sales": 592,
+          "seats": 11113,
+          "showtimes": 108,
+          "theaters": 151,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version Violet Evergarden",
+          "japanese name": "劇場版 ヴァイオレット・エヴァーガーデン",
+          "sales": 446,
+          "seats": 2318,
+          "showtimes": 18,
+          "theaters": 29,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Forest School",
+          "japanese name": "森の学校",
+          "sales": 402,
+          "seats": 402,
+          "showtimes": 2,
+          "theaters": 1,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Doctor Death's Legacy BLACK FILE",
+          "japanese name": "ドクター・デスの遺産 ＢＬＡＣＫ ＦＩＬＥ",
+          "sales": 400,
+          "seats": 10295,
+          "showtimes": 101,
+          "theaters": 167,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "One in a Million",
+          "japanese name": "１０万分の１",
+          "sales": 363,
+          "seats": 3098,
+          "showtimes": 26,
+          "theaters": 30,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Neon Genesis Evangelion: Break",
+          "japanese name": "ヱヴァンゲリヲン 新劇場版：破",
+          "sales": 314,
+          "seats": 4091,
+          "showtimes": 41,
+          "theaters": 40,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shibata family!",
+          "japanese name": "浅田家！",
+          "sales": 287,
+          "seats": 1113,
+          "showtimes": 9,
+          "theaters": 4,
+          "rank": 24,
+          "last_week_ratio": 178.3
+        },
+        {
+          "moviename": "Yes or no, maybe / Let's go, Kintarou (BL FECS!! 2020)",
+          "japanese name": "イエスかノーか半分か／まるだせ金太狼（ＢＬ ＦＥＳ！！２０２０）",
+          "sales": 225,
+          "seats": 2135,
+          "showtimes": 18,
+          "theaters": 13,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 43063,
+          "seats": 301398,
+          "showtimes": 1916,
+          "theaters": 283,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New Interpretation: Three Kingdoms",
+          "japanese name": "新解釈・三國志",
+          "sales": 35377,
+          "seats": 301617,
+          "showtimes": 1691,
+          "theaters": 282,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Promised Neverland",
+          "japanese name": "約束のネバーランド",
+          "sales": 24726,
+          "seats": 419910,
+          "showtimes": 1735,
+          "theaters": 280,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Foreigner",
+          "japanese name": "天外者",
+          "sales": 9930,
+          "seats": 65506,
+          "showtimes": 601,
+          "theaters": 184,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wonder Woman 1984",
+          "japanese name": "ワンダーウーマン １９８４",
+          "sales": 9680,
+          "seats": 320826,
+          "showtimes": 1817,
+          "theaters": 278,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "STAND BY ME Doraemon 2",
+          "japanese name": "ＳＴＡＮＤ ＢＹ ＭＥ ドラえもん ２",
+          "sales": 8353,
+          "seats": 109072,
+          "showtimes": 1061,
+          "theaters": 283,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Takeshita Kabuki ZERØ 2020 The Movie",
+          "japanese name": "滝沢歌舞伎 ＺＥＲＯ ２０２０ Ｔｈｅ Ｍｏｖｉｅ",
+          "sales": 6641,
+          "seats": 47265,
+          "showtimes": 395,
+          "theaters": 174,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version Kamen Rider Saber/Zero-One",
+          "japanese name": "劇場版 仮面ライダーセイバー／ゼロワン",
+          "sales": 5271,
+          "seats": 159486,
+          "showtimes": 1206,
+          "theaters": 267,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Neon Genesis Evangelion: The New Movie Q",
+          "japanese name": "ヱヴァンゲリヲン 新劇場版：Ｑ",
+          "sales": 3343,
+          "seats": 61880,
+          "showtimes": 614,
+          "theaters": 238,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Silent Tokyo",
+          "japanese name": "サイレント・トーキョー",
+          "sales": 2937,
+          "seats": 52908,
+          "showtimes": 516,
+          "theaters": 250,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 Fate/Grand Order 神圣圆桌领域卡美洛 前编",
+          "japanese name": "劇場版 Ｆａｔｅ／Ｇｒａｎｄ Ｏｒｄｅｒ 神聖円卓領域キャメロット 前編",
+          "sales": 2714,
+          "seats": 45886,
+          "showtimes": 392,
+          "theaters": 153,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "女巫很多",
+          "japanese name": "魔女がいっぱい",
+          "sales": 1980,
+          "seats": 38805,
+          "showtimes": 349,
+          "theaters": 204,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Eat Me",
+          "japanese name": "私をくいとめて",
+          "sales": 1657,
+          "seats": 22067,
+          "showtimes": 182,
+          "theaters": 51,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "罗小黑战记 我选择未来",
+          "japanese name": "羅小黒戦記 ぼくが選ぶ未来",
+          "sales": 1562,
+          "seats": 6901,
+          "showtimes": 56,
+          "theaters": 46,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bill and Ted's Billow Trip Music Can Save the World!",
+          "japanese name": "ビルとテッドの時空旅行 音楽で世界を救え！",
+          "sales": 1446,
+          "seats": 69774,
+          "showtimes": 591,
+          "theaters": 148,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Voice of Guilt",
+          "japanese name": "罪の声",
+          "sales": 830,
+          "seats": 15440,
+          "showtimes": 153,
+          "theaters": 153,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version Violet Evergarden",
+          "japanese name": "劇場版 ヴァイオレット・エヴァーガーデン",
+          "sales": 711,
+          "seats": 3351,
+          "showtimes": 27,
+          "theaters": 27,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Doctor Death's Legacy BLACK FILE",
+          "japanese name": "ドクター・デスの遺産 ＢＬＡＣＫ ＦＩＬＥ",
+          "sales": 609,
+          "seats": 18419,
+          "showtimes": 181,
+          "theaters": 169,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Portrait of a Burning Woman",
+          "japanese name": "燃ゆる女の肖像",
+          "sales": 479,
+          "seats": 2848,
+          "showtimes": 24,
+          "theaters": 18,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Yes or no, maybe / Let's go, Kintarou (BL FECS!! 2020)",
+          "japanese name": "イエスかノーか半分か／まるだせ金太狼（ＢＬ ＦＥＳ！！２０２０）",
+          "sales": 412,
+          "seats": 3545,
+          "showtimes": 27,
+          "theaters": 13,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Forest School",
+          "japanese name": "森の学校",
+          "sales": 402,
+          "seats": 402,
+          "showtimes": 2,
+          "theaters": 1,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Looking for a witch apprentice",
+          "japanese name": "魔女見習いをさがして",
+          "sales": 328,
+          "seats": 3358,
+          "showtimes": 29,
+          "theaters": 29,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Next Dream: A Dream Fulfilled Together",
+          "japanese name": "ネクスト・ドリーム ふたりで叶える夢",
+          "sales": 289,
+          "seats": 4123,
+          "showtimes": 36,
+          "theaters": 19,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "One in a Million",
+          "japanese name": "１０万分の１",
+          "sales": 246,
+          "seats": 3473,
+          "showtimes": 30,
+          "theaters": 30,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

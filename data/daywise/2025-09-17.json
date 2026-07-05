@@ -1,0 +1,773 @@
+{
+  "date": "17-09-2025",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 34886,
+          "seats": 87098,
+          "showtimes": 430,
+          "theaters": 278,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Shaman",
+          "japanese name": "ブラック・ショーマン",
+          "sales": 30967,
+          "seats": 139926,
+          "showtimes": 579,
+          "theaters": 276,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 Kimetsu no Yaiba: Unlimited City Chapter 1 Reunion at Yabako",
+          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
+          "sales": 27614,
+          "seats": 163670,
+          "showtimes": 584,
+          "theaters": 279,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Exit 8",
+          "japanese name": "８番出口",
+          "sales": 12507,
+          "seats": 125032,
+          "showtimes": 610,
+          "theaters": 275,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Beethoven Fabrication",
+          "japanese name": "ベートーヴェン捏造",
+          "sales": 7662,
+          "seats": 65729,
+          "showtimes": 480,
+          "theaters": 244,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 \"TOKYO MER～Running Emergency Room～Southern Sea Mission\"",
+          "japanese name": "劇場版「ＴＯＫＹＯ ＭＥＲ～走る緊急救命室～南海ミッション」",
+          "sales": 4982,
+          "seats": 25970,
+          "showtimes": 206,
+          "theaters": 273,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Light of Distant Mountain Peaks",
+          "japanese name": "遠い山なみの光",
+          "sales": 4778,
+          "seats": 35129,
+          "showtimes": 311,
+          "theaters": 258,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Kimi to Idol Precure♪ Omatase! Kira Kira Live to Deliver to You!",
+          "japanese name": "映画キミとアイドルプリキュア♪お待たせ！キミに届けるキラッキライブ！",
+          "sales": 4235,
+          "seats": 136134,
+          "showtimes": 778,
+          "theaters": 269,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hick and Dragon",
+          "japanese name": "ヒックとドラゴン",
+          "sales": 2255,
+          "seats": 35611,
+          "showtimes": 257,
+          "theaters": 265,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Jurassic World / Rebirth of the Land",
+          "japanese name": "ジュラシック・ワールド／復活の大地",
+          "sales": 2089,
+          "seats": 15626,
+          "showtimes": 126,
+          "theaters": 265,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Yukikaze",
+          "japanese name": "雪風 ＹＵＫＩＫＡＺＥ",
+          "sales": 1696,
+          "seats": 20063,
+          "showtimes": 179,
+          "theaters": 223,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Body Search THE LAST NIGHT",
+          "japanese name": "カラダ探し ＴＨＥ ＬＡＳＴ ＮＩＧＨＴ",
+          "sales": 1606,
+          "seats": 36252,
+          "showtimes": 291,
+          "theaters": 273,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Crayon Shin-chan Super Gorgeous! Scorching Kaskabedancers",
+          "japanese name": "映画クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ",
+          "sales": 676,
+          "seats": 24386,
+          "showtimes": 190,
+          "theaters": 256,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Three Villains of the Hidden Fortress",
+          "japanese name": "隠し砦の三悪人",
+          "sales": 602,
+          "seats": 2818,
+          "showtimes": 25,
+          "theaters": 19,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Best Kid: Legends",
+          "japanese name": "ベスト・キッド：レジェンズ",
+          "sales": 590,
+          "seats": 14027,
+          "showtimes": 105,
+          "theaters": 257,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New Mobile Suit Gundam W Endless Waltz Special Edition",
+          "japanese name": "新機動戦記ガンダムＷ Ｅｎｄｌｅｓｓ Ｗａｌｔｚ 特別編",
+          "sales": 442,
+          "seats": 1738,
+          "showtimes": 6,
+          "theaters": 6,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Next Stella",
+          "japanese name": "隣のステラ",
+          "sales": 393,
+          "seats": 7458,
+          "showtimes": 61,
+          "theaters": 235,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Hypnosmic Mic – Division Rap Battle–\"",
+          "japanese name": "映画「ヒプノシスマイク －Ｄｉｖｉｓｉｏｎ Ｒａｐ Ｂａｔｔｌｅ－」",
+          "sales": 388,
+          "seats": 553,
+          "showtimes": 4,
+          "theaters": 47,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "South Korean Musical ON SCREEN \"Phantom\"",
+          "japanese name": "韓国ミュージカル ＯＮ ＳＣＲＥＥＮ「ファントム」",
+          "sales": 384,
+          "seats": 2138,
+          "showtimes": 14,
+          "theaters": 36,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ENHYPE WORLD TOUR WALK THE LINE IN JAPAN – SUMMER",
+          "japanese name": "ＥＮＨＹＰＥＮ ＷＯＲＬＤ ＴＯＵＲ ＷＡＬＫ ＴＨＥ ＬＩＮＥ ＩＮ ＪＡＰＡＮ －ＳＵＭＭＥＲ",
+          "sales": 364,
+          "seats": 1012,
+          "showtimes": 4,
+          "theaters": 1,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Great Length Taroman Grand Explosion",
+          "japanese name": "大長編 タローマン 万博大爆発",
+          "sales": 306,
+          "seats": 1297,
+          "showtimes": 11,
+          "theaters": 38,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "About a place in the Kinki region",
+          "japanese name": "近畿地方のある場所について",
+          "sales": 299,
+          "seats": 3380,
+          "showtimes": 28,
+          "theaters": 207,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ATEZ WORLD TOUR (TOWARDS THE LIGHT (ScX・Subtitle Version))",
+          "japanese name": "ＡＴＥＥＺ ＷＯＲＬＤ ＴＯＵＲ （ＴＯＷＡＲＤＳ ＴＨＥ ＬＩＧＨＴ（ＳｃｒＸ・字幕版）",
+          "sales": 280,
+          "seats": 884,
+          "showtimes": 10,
+          "theaters": 31,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Toy Story 4",
+          "japanese name": "トイ・ストーリー４",
+          "sales": 254,
+          "seats": 3074,
+          "showtimes": 24,
+          "theaters": 52,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Top Gun",
+          "japanese name": "トップガン",
+          "sales": 226,
+          "seats": 2899,
+          "showtimes": 18,
+          "theaters": 20,
+          "rank": 25,
+          "last_week_ratio": 113
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 46078,
+          "seats": 129356,
+          "showtimes": 651,
+          "theaters": 278,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Shaman",
+          "japanese name": "ブラック・ショーマン",
+          "sales": 45203,
+          "seats": 266407,
+          "showtimes": 1096,
+          "theaters": 276,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 Kimetsu no Yaiba: Unlimited City Chapter 1 Reunion at Yabako",
+          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
+          "sales": 44679,
+          "seats": 281668,
+          "showtimes": 1021,
+          "theaters": 279,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Exit 8",
+          "japanese name": "８番出口",
+          "sales": 27875,
+          "seats": 241919,
+          "showtimes": 1172,
+          "theaters": 275,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Beethoven Fabrication",
+          "japanese name": "ベートーヴェン捏造",
+          "sales": 11369,
+          "seats": 119890,
+          "showtimes": 880,
+          "theaters": 244,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 \"TOKYO MER～Running Emergency Room～Southern Sea Mission\"",
+          "japanese name": "劇場版「ＴＯＫＹＯ ＭＥＲ～走る緊急救命室～南海ミッション」",
+          "sales": 7881,
+          "seats": 45019,
+          "showtimes": 351,
+          "theaters": 273,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Kimi to Idol Precure♪ Omatase! Kira Kira Live to Deliver to You!",
+          "japanese name": "映画キミとアイドルプリキュア♪お待たせ！キミに届けるキラッキライブ！",
+          "sales": 7835,
+          "seats": 218750,
+          "showtimes": 1269,
+          "theaters": 269,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Light of Distant Mountain Peaks",
+          "japanese name": "遠い山なみの光",
+          "sales": 6505,
+          "seats": 53335,
+          "showtimes": 467,
+          "theaters": 258,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Body Search THE LAST NIGHT",
+          "japanese name": "カラダ探し ＴＨＥ ＬＡＳＴ ＮＩＧＨＴ",
+          "sales": 5062,
+          "seats": 74447,
+          "showtimes": 595,
+          "theaters": 273,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TWICE <THIS IS FOR> WORLD TOUR IN JAPAN LV",
+          "japanese name": "ＴＷＩＣＥ ＜ＴＨＩＳ ＩＳ ＦＯＲ＞ ＷＯＲＬＤ ＴＯＵＲ ＩＮ ＪＡＰＡＮ ＬＶ",
+          "sales": 4110,
+          "seats": 13922,
+          "showtimes": 122,
+          "theaters": 129,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hick and Dragon",
+          "japanese name": "ヒックとドラゴン",
+          "sales": 4044,
+          "seats": 62165,
+          "showtimes": 467,
+          "theaters": 265,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Jurassic World / Rebirth of the Land",
+          "japanese name": "ジュラシック・ワールド／復活の大地",
+          "sales": 4038,
+          "seats": 35999,
+          "showtimes": 278,
+          "theaters": 265,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Yukikaze",
+          "japanese name": "雪風 ＹＵＫＩＫＡＺＥ",
+          "sales": 1957,
+          "seats": 23210,
+          "showtimes": 204,
+          "theaters": 223,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "About a place in the Kinki region",
+          "japanese name": "近畿地方のある場所について",
+          "sales": 1543,
+          "seats": 16467,
+          "showtimes": 124,
+          "theaters": 207,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Hypnosmic Mic – Division Rap Battle–\"",
+          "japanese name": "映画「ヒプノシスマイク －Ｄｉｖｉｓｉｏｎ Ｒａｐ Ｂａｔｔｌｅ－」",
+          "sales": 1367,
+          "seats": 4689,
+          "showtimes": 29,
+          "theaters": 47,
+          "rank": 15,
+          "last_week_ratio": 107
+        },
+        {
+          "moviename": "Next Stella",
+          "japanese name": "隣のステラ",
+          "sales": 1317,
+          "seats": 23135,
+          "showtimes": 186,
+          "theaters": 235,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Crayon Shin-chan Super Gorgeous! Scorching Kaskabedancers",
+          "japanese name": "映画クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ",
+          "sales": 1043,
+          "seats": 32286,
+          "showtimes": 254,
+          "theaters": 256,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Best Kid: Legends",
+          "japanese name": "ベスト・キッド：レジェンズ",
+          "sales": 999,
+          "seats": 25825,
+          "showtimes": 194,
+          "theaters": 257,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New Mobile Suit Gundam W Endless Waltz Special Edition",
+          "japanese name": "新機動戦記ガンダムＷ Ｅｎｄｌｅｓｓ Ｗａｌｔｚ 特別編",
+          "sales": 928,
+          "seats": 2964,
+          "showtimes": 10,
+          "theaters": 6,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Three Villains of the Hidden Fortress",
+          "japanese name": "隠し砦の三悪人",
+          "sales": 905,
+          "seats": 5273,
+          "showtimes": 43,
+          "theaters": 19,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ballerina: The World of John Wick",
+          "japanese name": "バレリーナ：Ｔｈｅ Ｗｏｒｌｄ ｏｆ Ｊｏｈｎ Ｗｉｃｋ",
+          "sales": 820,
+          "seats": 10599,
+          "showtimes": 82,
+          "theaters": 220,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "South Korean Musical ON SCREEN \"Phantom\"",
+          "japanese name": "韓国ミュージカル ＯＮ ＳＣＲＥＥＮ「ファントム」",
+          "sales": 818,
+          "seats": 5607,
+          "showtimes": 39,
+          "theaters": 36,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Toy Story 4",
+          "japanese name": "トイ・ストーリー４",
+          "sales": 744,
+          "seats": 7207,
+          "showtimes": 52,
+          "theaters": 52,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Great Length Taroman Grand Explosion",
+          "japanese name": "大長編 タローマン 万博大爆発",
+          "sales": 692,
+          "seats": 3841,
+          "showtimes": 27,
+          "theaters": 38,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ENHYPE WORLD TOUR WALK THE LINE IN JAPAN – SUMMER",
+          "japanese name": "ＥＮＨＹＰＥＮ ＷＯＲＬＤ ＴＯＵＲ ＷＡＬＫ ＴＨＥ ＬＩＮＥ ＩＮ ＪＡＰＡＮ －ＳＵＭＭＥＲ",
+          "sales": 606,
+          "seats": 1771,
+          "showtimes": 7,
+          "theaters": 1,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Black Shaman",
+          "japanese name": "ブラック・ショーマン",
+          "sales": 44065,
+          "seats": 334900,
+          "showtimes": 1369,
+          "theaters": 276,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 Kimetsu no Yaiba: Unlimited City Chapter 1 Reunion at Yabako",
+          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
+          "sales": 42479,
+          "seats": 361088,
+          "showtimes": 1299,
+          "theaters": 279,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 37114,
+          "seats": 155059,
+          "showtimes": 794,
+          "theaters": 278,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Exit 8",
+          "japanese name": "８番出口",
+          "sales": 30929,
+          "seats": 310473,
+          "showtimes": 1486,
+          "theaters": 275,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Beethoven Fabrication",
+          "japanese name": "ベートーヴェン捏造",
+          "sales": 9924,
+          "seats": 155433,
+          "showtimes": 1130,
+          "theaters": 244,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Body Search THE LAST NIGHT",
+          "japanese name": "カラダ探し ＴＨＥ ＬＡＳＴ ＮＩＧＨＴ",
+          "sales": 7447,
+          "seats": 103556,
+          "showtimes": 819,
+          "theaters": 273,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 \"TOKYO MER～Running Emergency Room～Southern Sea Mission\"",
+          "japanese name": "劇場版「ＴＯＫＹＯ ＭＥＲ～走る緊急救命室～南海ミッション」",
+          "sales": 7390,
+          "seats": 53228,
+          "showtimes": 411,
+          "theaters": 273,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Kimi to Idol Precure♪ Omatase! Kira Kira Live to Deliver to You!",
+          "japanese name": "映画キミとアイドルプリキュア♪お待たせ！キミに届けるキラッキライブ！",
+          "sales": 6353,
+          "seats": 243407,
+          "showtimes": 1408,
+          "theaters": 269,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Light of Distant Mountain Peaks",
+          "japanese name": "遠い山なみの光",
+          "sales": 6024,
+          "seats": 60347,
+          "showtimes": 522,
+          "theaters": 258,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hick and Dragon",
+          "japanese name": "ヒックとドラゴン",
+          "sales": 4273,
+          "seats": 79802,
+          "showtimes": 605,
+          "theaters": 265,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Jurassic World / Rebirth of the Land",
+          "japanese name": "ジュラシック・ワールド／復活の大地",
+          "sales": 4077,
+          "seats": 47823,
+          "showtimes": 366,
+          "theaters": 266,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Hypnosmic Mic – Division Rap Battle–\"",
+          "japanese name": "映画「ヒプノシスマイク －Ｄｉｖｉｓｉｏｎ Ｒａｐ Ｂａｔｔｌｅ－」",
+          "sales": 3077,
+          "seats": 8450,
+          "showtimes": 50,
+          "theaters": 47,
+          "rank": 12,
+          "last_week_ratio": 174.1
+        },
+        {
+          "moviename": "About a place in the Kinki region",
+          "japanese name": "近畿地方のある場所について",
+          "sales": 1877,
+          "seats": 27490,
+          "showtimes": 206,
+          "theaters": 208,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Yukikaze",
+          "japanese name": "雪風 ＹＵＫＩＫＡＺＥ",
+          "sales": 1633,
+          "seats": 25214,
+          "showtimes": 215,
+          "theaters": 221,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Next Stella",
+          "japanese name": "隣のステラ",
+          "sales": 1371,
+          "seats": 28361,
+          "showtimes": 228,
+          "theaters": 235,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Crayon Shin-chan Super Gorgeous! Scorching Kaskabedancers",
+          "japanese name": "映画クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ",
+          "sales": 1215,
+          "seats": 32561,
+          "showtimes": 256,
+          "theaters": 256,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ballerina: The World of John Wick",
+          "japanese name": "バレリーナ：Ｔｈｅ Ｗｏｒｌｄ ｏｆ Ｊｏｈｎ Ｗｉｃｋ",
+          "sales": 1172,
+          "seats": 26838,
+          "showtimes": 208,
+          "theaters": 217,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Best Kid: Legends",
+          "japanese name": "ベスト・キッド：レジェンズ",
+          "sales": 1070,
+          "seats": 35826,
+          "showtimes": 266,
+          "theaters": 257,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "South Korean Musical ON SCREEN \"Phantom\"",
+          "japanese name": "韓国ミュージカル ＯＮ ＳＣＲＥＥＮ「ファントム」",
+          "sales": 859,
+          "seats": 6291,
+          "showtimes": 42,
+          "theaters": 36,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Toy Story 4",
+          "japanese name": "トイ・ストーリー４",
+          "sales": 858,
+          "seats": 7834,
+          "showtimes": 56,
+          "theaters": 52,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ENHYPE WORLD TOUR WALK THE LINE IN JAPAN – SUMMER",
+          "japanese name": "ＥＮＨＹＰＥＮ ＷＯＲＬＤ ＴＯＵＲ ＷＡＬＫ ＴＨＥ ＬＩＮＥ ＩＮ ＪＡＰＡＮ －ＳＵＭＭＥＲ",
+          "sales": 784,
+          "seats": 2277,
+          "showtimes": 9,
+          "theaters": 1,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New Mobile Suit Gundam W Endless Waltz Special Edition",
+          "japanese name": "新機動戦記ガンダムＷ Ｅｎｄｌｅｓｓ Ｗａｌｔｚ 特別編",
+          "sales": 768,
+          "seats": 3842,
+          "showtimes": 13,
+          "theaters": 6,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Toy Story",
+          "japanese name": "トイ・ストーリー",
+          "sales": 753,
+          "seats": 3802,
+          "showtimes": 25,
+          "theaters": 27,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Three Villains of the Hidden Fortress",
+          "japanese name": "隠し砦の三悪人",
+          "sales": 708,
+          "seats": 7039,
+          "showtimes": 59,
+          "theaters": 19,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Great Length Taroman Grand Explosion",
+          "japanese name": "大長編 タローマン 万博大爆発",
+          "sales": 554,
+          "seats": 4503,
+          "showtimes": 34,
+          "theaters": 36,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

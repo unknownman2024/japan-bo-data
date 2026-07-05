@@ -1,0 +1,983 @@
+{
+  "date": "23-11-2020",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 163179,
+          "seats": 308085,
+          "showtimes": 1787,
+          "theaters": 292,
+          "rank": 1,
+          "last_week_ratio": 249.5
+        },
+        {
+          "moviename": "STAND BY ME Doraemon 2",
+          "japanese name": "ＳＴＡＮＤ ＢＹ ＭＥ ドラえもん ２",
+          "sales": 98353,
+          "seats": 395214,
+          "showtimes": 1935,
+          "theaters": 289,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Doctor Death's Legacy BLACK FILE",
+          "japanese name": "ドクター・デスの遺産 ＢＬＡＣＫ ＦＩＬＥ",
+          "sales": 10902,
+          "seats": 47417,
+          "showtimes": 474,
+          "theaters": 289,
+          "rank": 3,
+          "last_week_ratio": 125.3
+        },
+        {
+          "moviename": "Movie Pretty Cure Miracle Leap Everyone's Mysterious One Day",
+          "japanese name": "映画プリキュアミラクルリープ みんなとの不思議な１日",
+          "sales": 8445,
+          "seats": 32351,
+          "showtimes": 275,
+          "theaters": 191,
+          "rank": 4,
+          "last_week_ratio": 790.7
+        },
+        {
+          "moviename": "Voice of Sin",
+          "japanese name": "罪の声",
+          "sales": 7133,
+          "seats": 28056,
+          "showtimes": 287,
+          "theaters": 283,
+          "rank": 5,
+          "last_week_ratio": 155.4
+        },
+        {
+          "moviename": "The Chronicles of Luo Xiaohui The Future I Chose",
+          "japanese name": "羅小黒戦記 ぼくが選ぶ未来",
+          "sales": 4602,
+          "seats": 13091,
+          "showtimes": 118,
+          "theaters": 150,
+          "rank": 7,
+          "last_week_ratio": 290.2
+        },
+        {
+          "moviename": "Paul Patrol Car Race Great Strategy GO! GO!",
+          "japanese name": "パウ・パトロール カーレース大作戦 ＧＯ！ＧＯ！",
+          "sales": 4602,
+          "seats": 15586,
+          "showtimes": 188,
+          "theaters": 85,
+          "rank": 6,
+          "last_week_ratio": 549.2
+        },
+        {
+          "moviename": "Looking for a Witch Apprentice",
+          "japanese name": "魔女見習いをさがして",
+          "sales": 4542,
+          "seats": 20524,
+          "showtimes": 167,
+          "theaters": 109,
+          "rank": 8,
+          "last_week_ratio": 228
+        },
+        {
+          "moviename": "Your Eyes Are Questioning",
+          "japanese name": "きみの瞳が問いかけている",
+          "sales": 3468,
+          "seats": 10741,
+          "showtimes": 112,
+          "theaters": 275,
+          "rank": 9,
+          "last_week_ratio": 222.6
+        },
+        {
+          "moviename": "461 Bento Boxes",
+          "japanese name": "４６１個のおべんとう",
+          "sales": 3007,
+          "seats": 9563,
+          "showtimes": 93,
+          "theaters": 128,
+          "rank": 10,
+          "last_week_ratio": 287.2
+        },
+        {
+          "moviename": "Shibata family!",
+          "japanese name": "浅田家！",
+          "sales": 1901,
+          "seats": 10565,
+          "showtimes": 92,
+          "theaters": 200,
+          "rank": 11,
+          "last_week_ratio": 396.9
+        },
+        {
+          "moviename": "Food Luck! Food fortune",
+          "japanese name": "フード・ラック！食運",
+          "sales": 1847,
+          "seats": 32173,
+          "showtimes": 279,
+          "theaters": 144,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version Violet Evergarden",
+          "japanese name": "劇場版 ヴァイオレット・エヴァーガーデン",
+          "sales": 1680,
+          "seats": 5081,
+          "showtimes": 25,
+          "theaters": 92,
+          "rank": 13,
+          "last_week_ratio": 136.8
+        },
+        {
+          "moviename": "Sakura",
+          "japanese name": "さくら",
+          "sales": 1404,
+          "seats": 7431,
+          "showtimes": 74,
+          "theaters": 71,
+          "rank": 14,
+          "last_week_ratio": 150.5
+        },
+        {
+          "moviename": "Monster Strike THE MOVIE Lucifer The Dawn of Despair",
+          "japanese name": "モンスターストライク ＴＨＥ ＭＯＶＩＥ ルシファー 絶望の夜明け",
+          "sales": 1394,
+          "seats": 8445,
+          "showtimes": 93,
+          "theaters": 225,
+          "rank": 15,
+          "last_week_ratio": 177.6
+        },
+        {
+          "moviename": "Hotel Royal",
+          "japanese name": "ホテルローヤル",
+          "sales": 1321,
+          "seats": 10584,
+          "showtimes": 109,
+          "theaters": 138,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Barbaro",
+          "japanese name": "ばるぼら",
+          "sales": 1106,
+          "seats": 9532,
+          "showtimes": 90,
+          "theaters": 58,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "It's okay if the child cries",
+          "japanese name": "泣く子はいねぇが",
+          "sales": 1104,
+          "seats": 10749,
+          "showtimes": 100,
+          "theaters": 61,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Harry Potter and the Sorcerer's Stone",
+          "japanese name": "ハリー・ポッターと賢者の石",
+          "sales": 1072,
+          "seats": 4438,
+          "showtimes": 52,
+          "theaters": 67,
+          "rank": 19,
+          "last_week_ratio": 287.4
+        },
+        {
+          "moviename": "A lone wolf who acts cool",
+          "japanese name": "おらおらでひとりいぐも",
+          "sales": 1064,
+          "seats": 11394,
+          "showtimes": 120,
+          "theaters": 151,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TENET TENET",
+          "japanese name": "ＴＥＮＥＴ テネット",
+          "sales": 722,
+          "seats": 1626,
+          "showtimes": 14,
+          "theaters": 38,
+          "rank": 21,
+          "last_week_ratio": 224.2
+        },
+        {
+          "moviename": "＜Monthly Kabuki 2020＞ Ghost Story Peony Lantern",
+          "japanese name": "＜月イチ歌舞伎２０２０＞怪談 牡丹燈籠",
+          "sales": 625,
+          "seats": 3161,
+          "showtimes": 24,
+          "theaters": 23,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Flight over water",
+          "japanese name": "水上のフライト",
+          "sales": 509,
+          "seats": 7836,
+          "showtimes": 93,
+          "theaters": 131,
+          "rank": 24,
+          "last_week_ratio": 105.4
+        },
+        {
+          "moviename": "Child without a home Hope's song",
+          "japanese name": "家なき子 希望の歌声",
+          "sales": 494,
+          "seats": 7888,
+          "showtimes": 84,
+          "theaters": 62,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 265471,
+          "seats": 574696,
+          "showtimes": 3409,
+          "theaters": 292,
+          "rank": 1,
+          "last_week_ratio": 237.7
+        },
+        {
+          "moviename": "STAND BY ME Doraemon 2",
+          "japanese name": "ＳＴＡＮＤ ＢＹ ＭＥ ドラえもん ２",
+          "sales": 133787,
+          "seats": 679513,
+          "showtimes": 3285,
+          "theaters": 289,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Doctor Death's Legacy BLACK FILE",
+          "japanese name": "ドクター・デスの遺産 ＢＬＡＣＫ ＦＩＬＥ",
+          "sales": 17708,
+          "seats": 81986,
+          "showtimes": 810,
+          "theaters": 289,
+          "rank": 3,
+          "last_week_ratio": 126.3
+        },
+        {
+          "moviename": "Voice of Sin",
+          "japanese name": "罪の声",
+          "sales": 12563,
+          "seats": 49469,
+          "showtimes": 508,
+          "theaters": 283,
+          "rank": 4,
+          "last_week_ratio": 174.1
+        },
+        {
+          "moviename": "Movie Pretty Cure Miracle Leap Everyone's Mysterious One Day",
+          "japanese name": "映画プリキュアミラクルリープ みんなとの不思議な１日",
+          "sales": 9270,
+          "seats": 34619,
+          "showtimes": 301,
+          "theaters": 191,
+          "rank": 5,
+          "last_week_ratio": 666.9
+        },
+        {
+          "moviename": "The Chronicles of Luo Xiaohui The Future I Chose",
+          "japanese name": "羅小黒戦記 ぼくが選ぶ未来",
+          "sales": 8430,
+          "seats": 25393,
+          "showtimes": 235,
+          "theaters": 149,
+          "rank": 6,
+          "last_week_ratio": 259.1
+        },
+        {
+          "moviename": "Your Eyes Are Questioning",
+          "japanese name": "きみの瞳が問いかけている",
+          "sales": 7569,
+          "seats": 26113,
+          "showtimes": 275,
+          "theaters": 274,
+          "rank": 7,
+          "last_week_ratio": 197.3
+        },
+        {
+          "moviename": "Looking for a Witch Apprentice",
+          "japanese name": "魔女見習いをさがして",
+          "sales": 6913,
+          "seats": 31846,
+          "showtimes": 265,
+          "theaters": 109,
+          "rank": 8,
+          "last_week_ratio": 183.9
+        },
+        {
+          "moviename": "Paul Patrol Car Race Great Strategy GO! GO!",
+          "japanese name": "パウ・パトロール カーレース大作戦 ＧＯ！ＧＯ！",
+          "sales": 5782,
+          "seats": 18670,
+          "showtimes": 226,
+          "theaters": 85,
+          "rank": 9,
+          "last_week_ratio": 454.2
+        },
+        {
+          "moviename": "Movie Version Violet Evergarden",
+          "japanese name": "劇場版 ヴァイオレット・エヴァーガーデン",
+          "sales": 4654,
+          "seats": 13442,
+          "showtimes": 85,
+          "theaters": 90,
+          "rank": 10,
+          "last_week_ratio": 141.1
+        },
+        {
+          "moviename": "461 Bento Boxes",
+          "japanese name": "４６１個のおべんとう",
+          "sales": 4444,
+          "seats": 15428,
+          "showtimes": 156,
+          "theaters": 128,
+          "rank": 11,
+          "last_week_ratio": 234.5
+        },
+        {
+          "moviename": "Musical \"Sword Dance Revolution\" ~Late Edo Wolf Legend~",
+          "japanese name": "ミュージカル「刀剣乱舞」 ～幕末天狼傳～",
+          "sales": 4364,
+          "seats": 8986,
+          "showtimes": 74,
+          "theaters": 75,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shibata family!",
+          "japanese name": "浅田家！",
+          "sales": 3011,
+          "seats": 19676,
+          "showtimes": 177,
+          "theaters": 200,
+          "rank": 13,
+          "last_week_ratio": 346.9
+        },
+        {
+          "moviename": "Monster Strike THE MOVIE Lucifer The Dawn of Despair",
+          "japanese name": "モンスターストライク ＴＨＥ ＭＯＶＩＥ ルシファー 絶望の夜明け",
+          "sales": 2872,
+          "seats": 19168,
+          "showtimes": 224,
+          "theaters": 224,
+          "rank": 14,
+          "last_week_ratio": 208.1
+        },
+        {
+          "moviename": "Food Luck! Food fortune",
+          "japanese name": "フード・ラック！食運",
+          "sales": 2732,
+          "seats": 53550,
+          "showtimes": 464,
+          "theaters": 144,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Musical \"Sword Dance of the Dead\" ~ Sword Dance of the Dead Festival 2017~ Live Viewing",
+          "japanese name": "ミュージカル「刀剣乱舞」～真剣乱舞祭２０１７～ライブビューイング",
+          "sales": 2583,
+          "seats": 3295,
+          "showtimes": 14,
+          "theaters": 15,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Harry Potter and the Sorcerer's Stone",
+          "japanese name": "ハリー・ポッターと賢者の石",
+          "sales": 2485,
+          "seats": 8541,
+          "showtimes": 100,
+          "theaters": 67,
+          "rank": 17,
+          "last_week_ratio": 249.7
+        },
+        {
+          "moviename": "Sakura",
+          "japanese name": "さくら",
+          "sales": 2027,
+          "seats": 12710,
+          "showtimes": 128,
+          "theaters": 71,
+          "rank": 18,
+          "last_week_ratio": 155.4
+        },
+        {
+          "moviename": "Hotel Royal",
+          "japanese name": "ホテルローヤル",
+          "sales": 2001,
+          "seats": 19154,
+          "showtimes": 195,
+          "theaters": 138,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TENET TENET",
+          "japanese name": "ＴＥＮＥＴ テネット",
+          "sales": 1683,
+          "seats": 4384,
+          "showtimes": 34,
+          "theaters": 38,
+          "rank": 20,
+          "last_week_ratio": 191.9
+        },
+        {
+          "moviename": "Barbaro",
+          "japanese name": "ばるぼら",
+          "sales": 1614,
+          "seats": 15303,
+          "showtimes": 146,
+          "theaters": 58,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "It's okay if the child cries",
+          "japanese name": "泣く子はいねぇが",
+          "sales": 1522,
+          "seats": 17396,
+          "showtimes": 163,
+          "theaters": 61,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A lone wolf who acts cool",
+          "japanese name": "おらおらでひとりいぐも",
+          "sales": 1268,
+          "seats": 14454,
+          "showtimes": 152,
+          "theaters": 151,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tonkatsu DJ Age Tarou",
+          "japanese name": "とんかつＤＪアゲ太郎",
+          "sales": 1107,
+          "seats": 19187,
+          "showtimes": 195,
+          "theaters": 264,
+          "rank": 25,
+          "last_week_ratio": 178.3
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 579804,
+          "seats": 1463837,
+          "showtimes": 8644,
+          "theaters": 292,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "STAND BY ME Doraemon 2",
+          "japanese name": "ＳＴＡＮＤ ＢＹ ＭＥ ドラえもん ２",
+          "sales": 225527,
+          "seats": 1681810,
+          "showtimes": 7892,
+          "theaters": 289,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Doctor Death's Legacy BLACK FILE",
+          "japanese name": "ドクター・デスの遺産 ＢＬＡＣＫ ＦＩＬＥ",
+          "sales": 41408,
+          "seats": 229706,
+          "showtimes": 2264,
+          "theaters": 289,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Voice of Sin",
+          "japanese name": "罪の声",
+          "sales": 27221,
+          "seats": 136604,
+          "showtimes": 1441,
+          "theaters": 282,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Chronicles of Luo Xiaohui The Future I Chose",
+          "japanese name": "羅小黒戦記 ぼくが選ぶ未来",
+          "sales": 24101,
+          "seats": 68194,
+          "showtimes": 627,
+          "theaters": 155,
+          "rank": 5,
+          "last_week_ratio": 111.5
+        },
+        {
+          "moviename": "Looking for a Witch Apprentice",
+          "japanese name": "魔女見習いをさがして",
+          "sales": 17937,
+          "seats": 84282,
+          "showtimes": 689,
+          "theaters": 109,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Pretty Cure Miracle Leap Everyone's Mysterious One Day",
+          "japanese name": "映画プリキュアミラクルリープ みんなとの不思議な１日",
+          "sales": 14897,
+          "seats": 68218,
+          "showtimes": 601,
+          "theaters": 193,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Your Eyes Are Questioning",
+          "japanese name": "きみの瞳が問いかけている",
+          "sales": 13684,
+          "seats": 60603,
+          "showtimes": 629,
+          "theaters": 279,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version Violet Evergarden",
+          "japanese name": "劇場版 ヴァイオレット・エヴァーガーデン",
+          "sales": 13138,
+          "seats": 40554,
+          "showtimes": 252,
+          "theaters": 97,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Paul Patrol Car Race Great Strategy GO! GO!",
+          "japanese name": "パウ・パトロール カーレース大作戦 ＧＯ！ＧＯ！",
+          "sales": 10558,
+          "seats": 37400,
+          "showtimes": 465,
+          "theaters": 86,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "461 Bento Boxes",
+          "japanese name": "４６１個のおべんとう",
+          "sales": 6875,
+          "seats": 33329,
+          "showtimes": 329,
+          "theaters": 125,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Monster Strike THE MOVIE Lucifer The Dawn of Despair",
+          "japanese name": "モンスターストライク ＴＨＥ ＭＯＶＩＥ ルシファー 絶望の夜明け",
+          "sales": 6805,
+          "seats": 45291,
+          "showtimes": 518,
+          "theaters": 227,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Barbaro",
+          "japanese name": "ばるぼら",
+          "sales": 6433,
+          "seats": 41156,
+          "showtimes": 379,
+          "theaters": 58,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Food Luck! Food fortune",
+          "japanese name": "フード・ラック！食運",
+          "sales": 6426,
+          "seats": 141524,
+          "showtimes": 1236,
+          "theaters": 144,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shibata family!",
+          "japanese name": "浅田家！",
+          "sales": 6021,
+          "seats": 48535,
+          "showtimes": 442,
+          "theaters": 200,
+          "rank": 15,
+          "last_week_ratio": 112.4
+        },
+        {
+          "moviename": "Harry Potter and the Sorcerer's Stone",
+          "japanese name": "ハリー・ポッターと賢者の石",
+          "sales": 5537,
+          "seats": 21989,
+          "showtimes": 253,
+          "theaters": 67,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TENET TENET",
+          "japanese name": "ＴＥＮＥＴ テネット",
+          "sales": 4384,
+          "seats": 13194,
+          "showtimes": 104,
+          "theaters": 39,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hotel Royal",
+          "japanese name": "ホテルローヤル",
+          "sales": 4248,
+          "seats": 53920,
+          "showtimes": 533,
+          "theaters": 138,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sakura",
+          "japanese name": "さくら",
+          "sales": 4099,
+          "seats": 30976,
+          "showtimes": 307,
+          "theaters": 71,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "It's okay if the child cries",
+          "japanese name": "泣く子はいねぇが",
+          "sales": 3760,
+          "seats": 45387,
+          "showtimes": 425,
+          "theaters": 61,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Blue Lock: The Beyond Episode 7・8・9",
+          "japanese name": "蒼穹のファフナー ＴＨＥ ＢＥＹＯＮＤ 第七話・第八話・第九話",
+          "sales": 2690,
+          "seats": 19574,
+          "showtimes": 128,
+          "theaters": 23,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tonkatsu DJ Age Tarou",
+          "japanese name": "とんかつＤＪアゲ太郎",
+          "sales": 2682,
+          "seats": 54097,
+          "showtimes": 549,
+          "theaters": 264,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A lone wolf who acts cool",
+          "japanese name": "おらおらでひとりいぐも",
+          "sales": 2134,
+          "seats": 30561,
+          "showtimes": 325,
+          "theaters": 151,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Flight over water",
+          "japanese name": "水上のフライト",
+          "sales": 1697,
+          "seats": 35723,
+          "showtimes": 427,
+          "theaters": 131,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 339125,
+          "seats": 729525,
+          "showtimes": 4317,
+          "theaters": 292,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "STAND BY ME Doraemon 2",
+          "japanese name": "ＳＴＡＮＤ ＢＹ ＭＥ ドラえもん ２",
+          "sales": 137729,
+          "seats": 840401,
+          "showtimes": 3951,
+          "theaters": 289,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Doctor Death's Legacy BLACK FILE",
+          "japanese name": "ドクター・デスの遺産 ＢＬＡＣＫ ＦＩＬＥ",
+          "sales": 23080,
+          "seats": 113930,
+          "showtimes": 1129,
+          "theaters": 289,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Voice of Sin",
+          "japanese name": "罪の声",
+          "sales": 15604,
+          "seats": 68099,
+          "showtimes": 718,
+          "theaters": 282,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Chronicles of Luo Xiaohui The Future I Chose",
+          "japanese name": "羅小黒戦記 ぼくが選ぶ未来",
+          "sales": 11550,
+          "seats": 33770,
+          "showtimes": 308,
+          "theaters": 150,
+          "rank": 5,
+          "last_week_ratio": 120.7
+        },
+        {
+          "moviename": "Looking for a Witch Apprentice",
+          "japanese name": "魔女見習いをさがして",
+          "sales": 9607,
+          "seats": 42022,
+          "showtimes": 343,
+          "theaters": 109,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Pretty Cure Miracle Leap Everyone's Mysterious One Day",
+          "japanese name": "映画プリキュアミラクルリープ みんなとの不思議な１日",
+          "sales": 8944,
+          "seats": 34119,
+          "showtimes": 301,
+          "theaters": 193,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Your Eyes Are Questioning",
+          "japanese name": "きみの瞳が問いかけている",
+          "sales": 7834,
+          "seats": 30105,
+          "showtimes": 314,
+          "theaters": 278,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version Violet Evergarden",
+          "japanese name": "劇場版 ヴァイオレット・エヴァーガーデン",
+          "sales": 7069,
+          "seats": 20077,
+          "showtimes": 125,
+          "theaters": 96,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Paul Patrol Car Race Great Strategy GO! GO!",
+          "japanese name": "パウ・パトロール カーレース大作戦 ＧＯ！ＧＯ！",
+          "sales": 6291,
+          "seats": 19126,
+          "showtimes": 239,
+          "theaters": 86,
+          "rank": 10,
+          "last_week_ratio": 102.1
+        },
+        {
+          "moviename": "461 Bento Boxes",
+          "japanese name": "４６１個のおべんとう",
+          "sales": 4031,
+          "seats": 16602,
+          "showtimes": 164,
+          "theaters": 123,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Monster Strike THE MOVIE Lucifer The Dawn of Despair",
+          "japanese name": "モンスターストライク ＴＨＥ ＭＯＶＩＥ ルシファー 絶望の夜明け",
+          "sales": 3937,
+          "seats": 22396,
+          "showtimes": 257,
+          "theaters": 224,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shibata family!",
+          "japanese name": "浅田家！",
+          "sales": 3500,
+          "seats": 24167,
+          "showtimes": 220,
+          "theaters": 200,
+          "rank": 13,
+          "last_week_ratio": 133.6
+        },
+        {
+          "moviename": "Food Luck! Food fortune",
+          "japanese name": "フード・ラック！食運",
+          "sales": 3369,
+          "seats": 70923,
+          "showtimes": 618,
+          "theaters": 144,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Harry Potter and the Sorcerer's Stone",
+          "japanese name": "ハリー・ポッターと賢者の石",
+          "sales": 3134,
+          "seats": 10954,
+          "showtimes": 126,
+          "theaters": 67,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TENET TENET",
+          "japanese name": "ＴＥＮＥＴ テネット",
+          "sales": 2453,
+          "seats": 6587,
+          "showtimes": 52,
+          "theaters": 39,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sakura",
+          "japanese name": "さくら",
+          "sales": 2238,
+          "seats": 15452,
+          "showtimes": 153,
+          "theaters": 71,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hotel Royal",
+          "japanese name": "ホテルローヤル",
+          "sales": 2203,
+          "seats": 26754,
+          "showtimes": 264,
+          "theaters": 138,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "It's okay if the child cries",
+          "japanese name": "泣く子はいねぇが",
+          "sales": 1988,
+          "seats": 22744,
+          "showtimes": 213,
+          "theaters": 61,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Barbaro",
+          "japanese name": "ばるぼら",
+          "sales": 1937,
+          "seats": 21251,
+          "showtimes": 197,
+          "theaters": 58,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tonkatsu DJ Age Tarou",
+          "japanese name": "とんかつＤＪアゲ太郎",
+          "sales": 1531,
+          "seats": 26819,
+          "showtimes": 274,
+          "theaters": 263,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Blue Lock: The Beyond Episode 7・8・9",
+          "japanese name": "蒼穹のファフナー ＴＨＥ ＢＥＹＯＮＤ 第七話・第八話・第九話",
+          "sales": 1147,
+          "seats": 9352,
+          "showtimes": 62,
+          "theaters": 23,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A lone wolf who acts cool",
+          "japanese name": "おらおらでひとりいぐも",
+          "sales": 1134,
+          "seats": 15176,
+          "showtimes": 162,
+          "theaters": 151,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Flight over water",
+          "japanese name": "水上のフライト",
+          "sales": 928,
+          "seats": 18041,
+          "showtimes": 215,
+          "theaters": 131,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

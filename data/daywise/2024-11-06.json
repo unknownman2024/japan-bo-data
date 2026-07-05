@@ -1,0 +1,773 @@
+{
+  "date": "06-11-2024",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Venom: The Last Dance",
+          "japanese name": "ヴェノム：ザ・ラストダンス",
+          "sales": 8140,
+          "seats": 172776,
+          "showtimes": 575,
+          "theaters": 182,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Jūken denshu",
+          "japanese name": "八犬伝",
+          "sales": 5803,
+          "seats": 43778,
+          "showtimes": 291,
+          "theaters": 170,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Eleven bandits",
+          "japanese name": "十一人の賊軍",
+          "sales": 5569,
+          "seats": 79088,
+          "showtimes": 371,
+          "theaters": 179,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Muroi Shintarō Yarezu mono",
+          "japanese name": "室井慎次 敗れざる者",
+          "sales": 4669,
+          "seats": 44885,
+          "showtimes": 299,
+          "theaters": 181,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Aimita gai",
+          "japanese name": "アイミタガイ",
+          "sales": 3380,
+          "seats": 35720,
+          "showtimes": 271,
+          "theaters": 151,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Smartphone o utta dake na no ~Saishū chapter~ Final Hacking Game",
+          "japanese name": "スマホを落としただけなのに ～最終章～ ファイナル ハッキング ゲーム",
+          "sales": 3333,
+          "seats": 94936,
+          "showtimes": 357,
+          "theaters": 168,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Samurai Slipper",
+          "japanese name": "侍タイムスリッパー",
+          "sales": 1984,
+          "seats": 11238,
+          "showtimes": 84,
+          "theaters": 108,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Joker: For a Dollar",
+          "japanese name": "ジョーカー：フォリ・ア・ドゥ",
+          "sales": 1297,
+          "seats": 24943,
+          "showtimes": 173,
+          "theaters": 182,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Last Mile",
+          "japanese name": "ラストマイル",
+          "sales": 1182,
+          "seats": 15277,
+          "showtimes": 120,
+          "theaters": 168,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Mobile Suit Gundam SEED FREEDOM\"",
+          "japanese name": "劇場版「機動戦士ガンダムＳＥＥＤ ＦＲＥＥＤＯＭ」",
+          "sales": 957,
+          "seats": 9243,
+          "showtimes": 60,
+          "theaters": 89,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版ACMA：GAME 最后的钥匙",
+          "japanese name": "劇場版ＡＣＭＡ：ＧＡＭＥ 最後の鍵",
+          "sales": 845,
+          "seats": 23399,
+          "showtimes": 199,
+          "theaters": 169,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Trap剧场版",
+          "japanese name": "トラップ 劇場版",
+          "sales": 555,
+          "seats": 6581,
+          "showtimes": 46,
+          "theaters": 40,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "\"DOG DAYS WITH YOU\" Special Preview Screening of Korean Cinema Week",
+          "japanese name": "「ＤＯＧ ＤＡＹＳ 君といつまでも」コリアンシネマウィーク特別先行上映",
+          "sales": 513,
+          "seats": 8846,
+          "showtimes": 65,
+          "theaters": 40,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Civil War America's Last Day",
+          "japanese name": "シビル・ウォー アメリカ最後の日",
+          "sales": 481,
+          "seats": 7270,
+          "showtimes": 54,
+          "theaters": 160,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Cinema Kabuki\nHumanity Story\nBuncho's Original Knot",
+          "japanese name": "シネマ歌舞伎 人情噺 文七元結",
+          "sales": 439,
+          "seats": 3799,
+          "showtimes": 26,
+          "theaters": 25,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Round/Full",
+          "japanese name": "まる",
+          "sales": 406,
+          "seats": 5403,
+          "showtimes": 46,
+          "theaters": 137,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let's talk about Soomi",
+          "japanese name": "スオミの話をしよう",
+          "sales": 387,
+          "seats": 10650,
+          "showtimes": 80,
+          "theaters": 162,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ZENBU OF TOKYO",
+          "japanese name": "ゼンブ・オブ・トーキョー",
+          "sales": 336,
+          "seats": 13543,
+          "showtimes": 88,
+          "theaters": 106,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SOU X",
+          "japanese name": "ソウＸ",
+          "sales": 322,
+          "seats": 3574,
+          "showtimes": 27,
+          "theaters": 94,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Given to the Sea",
+          "japanese name": "映画 ギヴン 海へ",
+          "sales": 291,
+          "seats": 4547,
+          "showtimes": 17,
+          "theaters": 22,
+          "rank": 20,
+          "last_week_ratio": 169.2
+        },
+        {
+          "moviename": "JUNG KOOK: I AM STILL",
+          "japanese name": "ＪＵＮＧ ＫＯＯＫ： Ｉ ＡＭ ＳＴＩＬＬ",
+          "sales": 278,
+          "seats": 2369,
+          "showtimes": 14,
+          "theaters": 31,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let's go for it",
+          "japanese name": "がんばっていきまっしょい",
+          "sales": 259,
+          "seats": 13442,
+          "showtimes": 107,
+          "theaters": 133,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Piano Player in Love with Fujiko Heming",
+          "japanese name": "恋するピアニスト フジコヘミング",
+          "sales": 247,
+          "seats": 2294,
+          "showtimes": 18,
+          "theaters": 26,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Unknown",
+          "japanese name": "不明",
+          "sales": 227,
+          "seats": 1578,
+          "showtimes": 9,
+          "theaters": 3,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Breaking the Tomb\nPamyō",
+          "japanese name": "破墓 パミョ",
+          "sales": 226,
+          "seats": 3695,
+          "showtimes": 25,
+          "theaters": 67,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Venom: The Last Dance",
+          "japanese name": "ヴェノム：ザ・ラストダンス",
+          "sales": 16454,
+          "seats": 315782,
+          "showtimes": 1062,
+          "theaters": 182,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Eleven bandits",
+          "japanese name": "十一人の賊軍",
+          "sales": 8191,
+          "seats": 142202,
+          "showtimes": 679,
+          "theaters": 179,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Jūken denshu",
+          "japanese name": "八犬伝",
+          "sales": 7764,
+          "seats": 69558,
+          "showtimes": 462,
+          "theaters": 170,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Muroi Shintarō Yarezu mono",
+          "japanese name": "室井慎次 敗れざる者",
+          "sales": 6623,
+          "seats": 74515,
+          "showtimes": 498,
+          "theaters": 181,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Smartphone o utta dake na no ~Saishū chapter~ Final Hacking Game",
+          "japanese name": "スマホを落としただけなのに ～最終章～ ファイナル ハッキング ゲーム",
+          "sales": 6201,
+          "seats": 178330,
+          "showtimes": 678,
+          "theaters": 168,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Aimita gai",
+          "japanese name": "アイミタガイ",
+          "sales": 4673,
+          "seats": 60826,
+          "showtimes": 461,
+          "theaters": 151,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Joker: For a Dollar",
+          "japanese name": "ジョーカー：フォリ・ア・ドゥ",
+          "sales": 3112,
+          "seats": 50893,
+          "showtimes": 332,
+          "theaters": 182,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Samurai Slipper",
+          "japanese name": "侍タイムスリッパー",
+          "sales": 2983,
+          "seats": 18031,
+          "showtimes": 135,
+          "theaters": 108,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Last Mile",
+          "japanese name": "ラストマイル",
+          "sales": 2454,
+          "seats": 30244,
+          "showtimes": 234,
+          "theaters": 168,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Mobile Suit Gundam SEED FREEDOM\"",
+          "japanese name": "劇場版「機動戦士ガンダムＳＥＥＤ ＦＲＥＥＤＯＭ」",
+          "sales": 1870,
+          "seats": 20061,
+          "showtimes": 130,
+          "theaters": 89,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版ACMA：GAME 最后的钥匙",
+          "japanese name": "劇場版ＡＣＭＡ：ＧＡＭＥ 最後の鍵",
+          "sales": 1502,
+          "seats": 43595,
+          "showtimes": 367,
+          "theaters": 169,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Civil War America's Last Day",
+          "japanese name": "シビル・ウォー アメリカ最後の日",
+          "sales": 1270,
+          "seats": 17815,
+          "showtimes": 133,
+          "theaters": 160,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Trap剧场版",
+          "japanese name": "トラップ 劇場版",
+          "sales": 1035,
+          "seats": 11434,
+          "showtimes": 86,
+          "theaters": 40,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Round/Full",
+          "japanese name": "まる",
+          "sales": 918,
+          "seats": 15255,
+          "showtimes": 125,
+          "theaters": 137,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SOU X",
+          "japanese name": "ソウＸ",
+          "sales": 900,
+          "seats": 9653,
+          "showtimes": 74,
+          "theaters": 94,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "\"DOG DAYS WITH YOU\" Special Preview Screening of Korean Cinema Week",
+          "japanese name": "「ＤＯＧ ＤＡＹＳ 君といつまでも」コリアンシネマウィーク特別先行上映",
+          "sales": 743,
+          "seats": 15530,
+          "showtimes": 112,
+          "theaters": 40,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ZENBU OF TOKYO",
+          "japanese name": "ゼンブ・オブ・トーキョー",
+          "sales": 717,
+          "seats": 25652,
+          "showtimes": 181,
+          "theaters": 106,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "JUNG KOOK: I AM STILL",
+          "japanese name": "ＪＵＮＧ ＫＯＯＫ： Ｉ ＡＭ ＳＴＩＬＬ",
+          "sales": 688,
+          "seats": 5916,
+          "showtimes": 37,
+          "theaters": 31,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Given to the Sea",
+          "japanese name": "映画 ギヴン 海へ",
+          "sales": 643,
+          "seats": 8571,
+          "showtimes": 34,
+          "theaters": 22,
+          "rank": 19,
+          "last_week_ratio": 154.2
+        },
+        {
+          "moviename": "Let's talk about Soomi",
+          "japanese name": "スオミの話をしよう",
+          "sales": 614,
+          "seats": 18646,
+          "showtimes": 142,
+          "theaters": 162,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let's go for it",
+          "japanese name": "がんばっていきまっしょい",
+          "sales": 562,
+          "seats": 25214,
+          "showtimes": 199,
+          "theaters": 133,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Touching.",
+          "japanese name": "ふれる。",
+          "sales": 519,
+          "seats": 15039,
+          "showtimes": 118,
+          "theaters": 147,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Birth of Kitaro\nThe Mystery of Gegege\nTrue Life Version",
+          "japanese name": "鬼太郎誕生 ゲゲゲの謎 真生版",
+          "sales": 482,
+          "seats": 6144,
+          "showtimes": 47,
+          "theaters": 52,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Breaking the Tomb\nPamyō",
+          "japanese name": "破墓 パミョ",
+          "sales": 461,
+          "seats": 7351,
+          "showtimes": 54,
+          "theaters": 67,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Cinema Kabuki\nHumanity Story\nBuncho's Original Knot",
+          "japanese name": "シネマ歌舞伎 人情噺 文七元結",
+          "sales": 447,
+          "seats": 4189,
+          "showtimes": 27,
+          "theaters": 25,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Venom: The Last Dance",
+          "japanese name": "ヴェノム：ザ・ラストダンス",
+          "sales": 19321,
+          "seats": 402030,
+          "showtimes": 1351,
+          "theaters": 180,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Eleven bandits",
+          "japanese name": "十一人の賊軍",
+          "sales": 7899,
+          "seats": 173843,
+          "showtimes": 840,
+          "theaters": 177,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Jūken denshu",
+          "japanese name": "八犬伝",
+          "sales": 6975,
+          "seats": 83453,
+          "showtimes": 555,
+          "theaters": 169,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Smartphone o utta dake na no ~Saishū chapter~ Final Hacking Game",
+          "japanese name": "スマホを落としただけなのに ～最終章～ ファイナル ハッキング ゲーム",
+          "sales": 6585,
+          "seats": 223958,
+          "showtimes": 847,
+          "theaters": 168,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Muroi Shintarō Yarezu mono",
+          "japanese name": "室井慎次 敗れざる者",
+          "sales": 5128,
+          "seats": 92357,
+          "showtimes": 624,
+          "theaters": 180,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Aimita gai",
+          "japanese name": "アイミタガイ",
+          "sales": 3963,
+          "seats": 77633,
+          "showtimes": 587,
+          "theaters": 150,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Joker: For a Dollar",
+          "japanese name": "ジョーカー：フォリ・ア・ドゥ",
+          "sales": 3264,
+          "seats": 66254,
+          "showtimes": 452,
+          "theaters": 180,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Samurai Slipper",
+          "japanese name": "侍タイムスリッパー",
+          "sales": 2248,
+          "seats": 19953,
+          "showtimes": 147,
+          "theaters": 109,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Last Mile",
+          "japanese name": "ラストマイル",
+          "sales": 2178,
+          "seats": 34925,
+          "showtimes": 272,
+          "theaters": 167,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Mobile Suit Gundam SEED FREEDOM\"",
+          "japanese name": "劇場版「機動戦士ガンダムＳＥＥＤ ＦＲＥＥＤＯＭ」",
+          "sales": 1733,
+          "seats": 22679,
+          "showtimes": 156,
+          "theaters": 88,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版ACMA：GAME 最后的钥匙",
+          "japanese name": "劇場版ＡＣＭＡ：ＧＡＭＥ 最後の鍵",
+          "sales": 1614,
+          "seats": 57065,
+          "showtimes": 480,
+          "theaters": 168,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Civil War America's Last Day",
+          "japanese name": "シビル・ウォー アメリカ最後の日",
+          "sales": 1147,
+          "seats": 22322,
+          "showtimes": 165,
+          "theaters": 159,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Trap剧场版",
+          "japanese name": "トラップ 劇場版",
+          "sales": 1028,
+          "seats": 15601,
+          "showtimes": 123,
+          "theaters": 40,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SOU X",
+          "japanese name": "ソウＸ",
+          "sales": 973,
+          "seats": 15450,
+          "showtimes": 120,
+          "theaters": 93,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ZENBU OF TOKYO",
+          "japanese name": "ゼンブ・オブ・トーキョー",
+          "sales": 694,
+          "seats": 32060,
+          "showtimes": 225,
+          "theaters": 106,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Given to the Sea",
+          "japanese name": "映画 ギヴン 海へ",
+          "sales": 692,
+          "seats": 9937,
+          "showtimes": 40,
+          "theaters": 22,
+          "rank": 16,
+          "last_week_ratio": 132.6
+        },
+        {
+          "moviename": "Round/Full",
+          "japanese name": "まる",
+          "sales": 680,
+          "seats": 16890,
+          "showtimes": 138,
+          "theaters": 136,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "JUNG KOOK: I AM STILL",
+          "japanese name": "ＪＵＮＧ ＫＯＯＫ： Ｉ ＡＭ ＳＴＩＬＬ",
+          "sales": 629,
+          "seats": 6601,
+          "showtimes": 41,
+          "theaters": 30,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "\"DOG DAYS WITH YOU\" Special Preview Screening of Korean Cinema Week",
+          "japanese name": "「ＤＯＧ ＤＡＹＳ 君といつまでも」コリアンシネマウィーク特別先行上映",
+          "sales": 606,
+          "seats": 19559,
+          "showtimes": 143,
+          "theaters": 40,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let's go for it",
+          "japanese name": "がんばっていきまっしょい",
+          "sales": 567,
+          "seats": 28797,
+          "showtimes": 228,
+          "theaters": 132,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shining Even Brighter! KING OF PRISM - DRAMATIC PRISM. 1-",
+          "japanese name": "も～っと煌めく！ＫＩＮＧ ＯＦ ＰＲＩＳＭ －Ｄｒａｍａｔｉｃ ＰＲＩＳＭ．１－",
+          "sales": 537,
+          "seats": 4416,
+          "showtimes": 31,
+          "theaters": 16,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Cinema Kabuki\nHumanity Story\nBuncho's Original Knot",
+          "japanese name": "シネマ歌舞伎 人情噺 文七元結",
+          "sales": 516,
+          "seats": 4414,
+          "showtimes": 27,
+          "theaters": 25,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let's talk about Soomi",
+          "japanese name": "スオミの話をしよう",
+          "sales": 471,
+          "seats": 20119,
+          "showtimes": 155,
+          "theaters": 161,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Touching.",
+          "japanese name": "ふれる。",
+          "sales": 457,
+          "seats": 17646,
+          "showtimes": 140,
+          "theaters": 146,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Unknown",
+          "japanese name": "不明",
+          "sales": 456,
+          "seats": 3617,
+          "showtimes": 20,
+          "theaters": 3,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

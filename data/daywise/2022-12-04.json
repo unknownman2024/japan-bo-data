@@ -1,0 +1,773 @@
+{
+  "date": "04-12-2022",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 114653,
+          "seats": 318280,
+          "showtimes": 1109,
+          "theaters": 197,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Suzume's doorstop",
+          "japanese name": "すずめの戸締まり",
+          "sales": 86959,
+          "seats": 182876,
+          "showtimes": 877,
+          "theaters": 198,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Moon phases",
+          "japanese name": "月の満ち欠け",
+          "sales": 24058,
+          "seats": 73127,
+          "showtimes": 440,
+          "theaters": 192,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Reincarnated as a Slime - The Crimson Bond",
+          "japanese name": "劇場版 転生したらスライムだった件 紅蓮の絆編",
+          "sales": 20524,
+          "seats": 49163,
+          "showtimes": 364,
+          "theaters": 187,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Adam",
+          "japanese name": "ブラックアダム",
+          "sales": 12402,
+          "seats": 73649,
+          "showtimes": 508,
+          "theaters": 196,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Maternity",
+          "japanese name": "母性",
+          "sales": 6277,
+          "seats": 37549,
+          "showtimes": 314,
+          "theaters": 197,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ONE PIECE FILM RED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 5046,
+          "seats": 14902,
+          "showtimes": 123,
+          "theaters": 178,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BLACK PANTHER / WAKANDA FOREVER",
+          "japanese name": "ブラックパンサー／ワカンダ・フォーエバー",
+          "sales": 2806,
+          "seats": 14137,
+          "showtimes": 120,
+          "theaters": 186,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 ソードアート・オンライン プログレッシブ 冥き夕闇のスケルツォ",
+          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 冥き夕闇のスケルツォ",
+          "sales": 2728,
+          "seats": 14731,
+          "showtimes": 112,
+          "theaters": 111,
+          "rank": 9,
+          "last_week_ratio": 142.2
+        },
+        {
+          "moviename": "A Man",
+          "japanese name": "ある男",
+          "sales": 2433,
+          "seats": 19872,
+          "showtimes": 165,
+          "theaters": 186,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Strange World / Another World",
+          "japanese name": "ストレンジ・ワールド／もうひとつの世界",
+          "sales": 2200,
+          "seats": 31005,
+          "showtimes": 245,
+          "theaters": 185,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "RRR",
+          "japanese name": "ＲＲＲ",
+          "sales": 1276,
+          "seats": 1927,
+          "showtimes": 12,
+          "theaters": 42,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Galaxy Heroes传说 Die Neue These Strategy Chapter 3",
+          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 策謀 第三章",
+          "sales": 1178,
+          "seats": 6853,
+          "showtimes": 44,
+          "theaters": 49,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Where the crayfish sing",
+          "japanese name": "ザリガニの鳴くところ",
+          "sales": 862,
+          "seats": 5233,
+          "showtimes": 46,
+          "theaters": 116,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Finding the Body",
+          "japanese name": "カラダ探し",
+          "sales": 738,
+          "seats": 2102,
+          "showtimes": 18,
+          "theaters": 42,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "土を喰らう十二ヶ月",
+          "japanese name": "土を喰らう十二ヵ月",
+          "sales": 718,
+          "seats": 4621,
+          "showtimes": 39,
+          "theaters": 47,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mrs. Harris, to Paris",
+          "japanese name": "ミセス・ハリス、パリへ行く",
+          "sales": 637,
+          "seats": 2882,
+          "showtimes": 27,
+          "theaters": 42,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Louis Wein, Life with the Love妻 and Cat",
+          "japanese name": "ルイス・ウェイン 生涯愛した妻とネコ",
+          "sales": 631,
+          "seats": 2590,
+          "showtimes": 21,
+          "theaters": 17,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版舞台「刀剑乱舞」维传 朦胧的志士们",
+          "japanese name": "劇場版 舞台「刀剣乱舞」維伝 朧の志士たち",
+          "sales": 598,
+          "seats": 1460,
+          "showtimes": 14,
+          "theaters": 35,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "＜Monthly Kabuki 2022＞Woman Killing Oil Hell",
+          "japanese name": "＜月イチ歌舞伎２０２２＞女殺油地獄",
+          "sales": 434,
+          "seats": 3895,
+          "showtimes": 24,
+          "theaters": 23,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Public 40th Anniversary Special Screening: Space Adventure Cobra",
+          "japanese name": "公開４０周年記念特別上映 スペースアドベンチャー コブラ",
+          "sales": 427,
+          "seats": 3745,
+          "showtimes": 30,
+          "theaters": 23,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Spider's Nest Castle",
+          "japanese name": "蜘蛛巣城",
+          "sales": 367,
+          "seats": 2272,
+          "showtimes": 20,
+          "theaters": 20,
+          "rank": 22,
+          "last_week_ratio": 139
+        },
+        {
+          "moviename": "The Menu",
+          "japanese name": "ザ・メニュー",
+          "sales": 326,
+          "seats": 3839,
+          "showtimes": 33,
+          "theaters": 115,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Green Night",
+          "japanese name": "グリーン・ナイト",
+          "sales": 302,
+          "seats": 1048,
+          "showtimes": 10,
+          "theaters": 26,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The鬼 over there <Paid Preview Screening>",
+          "japanese name": "あちらにいる鬼 ＜有料先行上映＞",
+          "sales": 296,
+          "seats": 4882,
+          "showtimes": 38,
+          "theaters": 45,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 200945,
+          "seats": 535997,
+          "showtimes": 1892,
+          "theaters": 197,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Suzume's doorstop",
+          "japanese name": "すずめの戸締まり",
+          "sales": 156968,
+          "seats": 328594,
+          "showtimes": 1566,
+          "theaters": 198,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Moon phases",
+          "japanese name": "月の満ち欠け",
+          "sales": 39601,
+          "seats": 129251,
+          "showtimes": 788,
+          "theaters": 192,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Reincarnated as a Slime - The Crimson Bond",
+          "japanese name": "劇場版 転生したらスライムだった件 紅蓮の絆編",
+          "sales": 31989,
+          "seats": 78151,
+          "showtimes": 581,
+          "theaters": 187,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Adam",
+          "japanese name": "ブラックアダム",
+          "sales": 20406,
+          "seats": 129831,
+          "showtimes": 898,
+          "theaters": 196,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Maternity",
+          "japanese name": "母性",
+          "sales": 10659,
+          "seats": 60676,
+          "showtimes": 514,
+          "theaters": 197,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ONE PIECE FILM RED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 7860,
+          "seats": 24765,
+          "showtimes": 207,
+          "theaters": 178,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BLACK PANTHER / WAKANDA FOREVER",
+          "japanese name": "ブラックパンサー／ワカンダ・フォーエバー",
+          "sales": 5468,
+          "seats": 25008,
+          "showtimes": 212,
+          "theaters": 186,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A Man",
+          "japanese name": "ある男",
+          "sales": 4146,
+          "seats": 32704,
+          "showtimes": 271,
+          "theaters": 186,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 ソードアート・オンライン プログレッシブ 冥き夕闇のスケルツォ",
+          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 冥き夕闇のスケルツォ",
+          "sales": 2930,
+          "seats": 15635,
+          "showtimes": 121,
+          "theaters": 111,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Strange World / Another World",
+          "japanese name": "ストレンジ・ワールド／もうひとつの世界",
+          "sales": 2929,
+          "seats": 40486,
+          "showtimes": 320,
+          "theaters": 185,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "RRR",
+          "japanese name": "ＲＲＲ",
+          "sales": 2207,
+          "seats": 4172,
+          "showtimes": 31,
+          "theaters": 42,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Finding the Body",
+          "japanese name": "カラダ探し",
+          "sales": 1777,
+          "seats": 4065,
+          "showtimes": 37,
+          "theaters": 42,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Galaxy Heroes传说 Die Neue These Strategy Chapter 3",
+          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 策謀 第三章",
+          "sales": 1605,
+          "seats": 9687,
+          "showtimes": 68,
+          "theaters": 49,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Where the crayfish sing",
+          "japanese name": "ザリガニの鳴くところ",
+          "sales": 1468,
+          "seats": 9304,
+          "showtimes": 89,
+          "theaters": 116,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Menu",
+          "japanese name": "ザ・メニュー",
+          "sales": 1285,
+          "seats": 9197,
+          "showtimes": 78,
+          "theaters": 115,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mrs. Harris, to Paris",
+          "japanese name": "ミセス・ハリス、パリへ行く",
+          "sales": 1220,
+          "seats": 4554,
+          "showtimes": 40,
+          "theaters": 42,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Louis Wein, Life with the Love妻 and Cat",
+          "japanese name": "ルイス・ウェイン 生涯愛した妻とネコ",
+          "sales": 987,
+          "seats": 4498,
+          "showtimes": 36,
+          "theaters": 17,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版舞台「刀剑乱舞」维传 朦胧的志士们",
+          "japanese name": "劇場版 舞台「刀剣乱舞」維伝 朧の志士たち",
+          "sales": 973,
+          "seats": 2617,
+          "showtimes": 25,
+          "theaters": 35,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 うたの☆プリンスさまっ♪ マジLOVEスターリッシュツアーズ",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
+          "sales": 836,
+          "seats": 3583,
+          "showtimes": 19,
+          "theaters": 22,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "土を喰らう十二ヶ月",
+          "japanese name": "土を喰らう十二ヵ月",
+          "sales": 820,
+          "seats": 5461,
+          "showtimes": 46,
+          "theaters": 47,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "宝冢歌剧 月组福冈市民会馆公演「ブラック・ジャック 危険な賭け」「FULL SWING！」ライブ中继",
+          "japanese name": "宝塚歌劇 月組福岡市民会館公演「ブラック・ジャック 危険な賭け」「ＦＵＬＬ ＳＷＩＮＧ！」ライブ中継",
+          "sales": 690,
+          "seats": 2659,
+          "showtimes": 40,
+          "theaters": 42,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Public 40th Anniversary Special Screening: Space Adventure Cobra",
+          "japanese name": "公開４０周年記念特別上映 スペースアドベンチャー コブラ",
+          "sales": 621,
+          "seats": 5533,
+          "showtimes": 47,
+          "theaters": 23,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Green Night",
+          "japanese name": "グリーン・ナイト",
+          "sales": 589,
+          "seats": 3106,
+          "showtimes": 26,
+          "theaters": 26,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SEVENTEEN WORLD TOUR 'BE THE SUN' – HOUSTON: LV",
+          "japanese name": "ＳＥＶＥＮＴＥＥＮ ＷＯＲＬＤ ＴＯＵＲ 「ＢＥ ＴＨＥ ＳＵＮ」－ＨＯＵＳＴＯＮ：ＬＶ",
+          "sales": 536,
+          "seats": 1305,
+          "showtimes": 18,
+          "theaters": 19,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 290198,
+          "seats": 703906,
+          "showtimes": 2519,
+          "theaters": 196,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Suzume's doorstop",
+          "japanese name": "すずめの戸締まり",
+          "sales": 146966,
+          "seats": 425135,
+          "showtimes": 2015,
+          "theaters": 198,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Moon phases",
+          "japanese name": "月の満ち欠け",
+          "sales": 45734,
+          "seats": 171679,
+          "showtimes": 1018,
+          "theaters": 192,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Reincarnated as a Slime - The Crimson Bond",
+          "japanese name": "劇場版 転生したらスライムだった件 紅蓮の絆編",
+          "sales": 31127,
+          "seats": 106722,
+          "showtimes": 794,
+          "theaters": 187,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Adam",
+          "japanese name": "ブラックアダム",
+          "sales": 26292,
+          "seats": 180261,
+          "showtimes": 1218,
+          "theaters": 196,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Maternity",
+          "japanese name": "母性",
+          "sales": 12501,
+          "seats": 83847,
+          "showtimes": 703,
+          "theaters": 197,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BLACK PANTHER / WAKANDA FOREVER",
+          "japanese name": "ブラックパンサー／ワカンダ・フォーエバー",
+          "sales": 6834,
+          "seats": 44329,
+          "showtimes": 363,
+          "theaters": 186,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ONE PIECE FILM RED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 6005,
+          "seats": 30519,
+          "showtimes": 257,
+          "theaters": 179,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A Man",
+          "japanese name": "ある男",
+          "sales": 5175,
+          "seats": 46541,
+          "showtimes": 384,
+          "theaters": 190,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 ソードアート・オンライン プログレッシブ 冥き夕闇のスケルツォ",
+          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 冥き夕闇のスケルツォ",
+          "sales": 3242,
+          "seats": 16508,
+          "showtimes": 137,
+          "theaters": 116,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "RRR",
+          "japanese name": "ＲＲＲ",
+          "sales": 2775,
+          "seats": 6485,
+          "showtimes": 49,
+          "theaters": 46,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Galaxy Heroes传说 Die Neue These Strategy Chapter 3",
+          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 策謀 第三章",
+          "sales": 2473,
+          "seats": 13930,
+          "showtimes": 102,
+          "theaters": 49,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Strange World / Another World",
+          "japanese name": "ストレンジ・ワールド／もうひとつの世界",
+          "sales": 2311,
+          "seats": 45683,
+          "showtimes": 361,
+          "theaters": 185,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Menu",
+          "japanese name": "ザ・メニュー",
+          "sales": 2134,
+          "seats": 14613,
+          "showtimes": 126,
+          "theaters": 115,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 うたの☆プリンスさまっ♪ マジLOVEスターリッシュツアーズ",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
+          "sales": 1880,
+          "seats": 5402,
+          "showtimes": 29,
+          "theaters": 23,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Where the crayfish sing",
+          "japanese name": "ザリガニの鳴くところ",
+          "sales": 1820,
+          "seats": 12785,
+          "showtimes": 123,
+          "theaters": 116,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版舞台「刀剑乱舞」维传 朦胧的志士们",
+          "japanese name": "劇場版 舞台「刀剣乱舞」維伝 朧の志士たち",
+          "sales": 1354,
+          "seats": 3924,
+          "showtimes": 37,
+          "theaters": 35,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Finding the Body",
+          "japanese name": "カラダ探し",
+          "sales": 1302,
+          "seats": 5425,
+          "showtimes": 45,
+          "theaters": 42,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mrs. Harris, to Paris",
+          "japanese name": "ミセス・ハリス、パリへ行く",
+          "sales": 1287,
+          "seats": 5283,
+          "showtimes": 47,
+          "theaters": 42,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Louis Wein, Life with the Love妻 and Cat",
+          "japanese name": "ルイス・ウェイン 生涯愛した妻とネコ",
+          "sales": 1252,
+          "seats": 5412,
+          "showtimes": 46,
+          "theaters": 17,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Public 40th Anniversary Special Screening: Space Adventure Cobra",
+          "japanese name": "公開４０周年記念特別上映 スペースアドベンチャー コブラ",
+          "sales": 1012,
+          "seats": 7284,
+          "showtimes": 63,
+          "theaters": 23,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Green Night",
+          "japanese name": "グリーン・ナイト",
+          "sales": 919,
+          "seats": 4568,
+          "showtimes": 39,
+          "theaters": 26,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "土を喰らう十二ヶ月",
+          "japanese name": "土を喰らう十二ヵ月",
+          "sales": 794,
+          "seats": 5419,
+          "showtimes": 50,
+          "theaters": 50,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nekomimi Detective on the Coast Road",
+          "japanese name": "海岸通りのネコミミ探偵",
+          "sales": 659,
+          "seats": 2298,
+          "showtimes": 10,
+          "theaters": 5,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Top Gun: Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 556,
+          "seats": 1671,
+          "showtimes": 17,
+          "theaters": 16,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,773 @@
+{
+  "date": "03-05-2023",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "The Super Mario Bros. Movie",
+          "japanese name": "ザ・スーパーマリオブラザーズ・ムービー",
+          "sales": 150377,
+          "seats": 186106,
+          "showtimes": 718,
+          "theaters": 188,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: Black Iron Fish Shadow (Submarine)",
+          "japanese name": "名探偵コナン 黒鉄の魚影（サブマリン）",
+          "sales": 95969,
+          "seats": 157342,
+          "showtimes": 617,
+          "theaters": 186,
+          "rank": 2,
+          "last_week_ratio": 317.7
+        },
+        {
+          "moviename": "剧场版「ＴＯＫＹＯ ＭＥＲ～走る緊急救命室～」",
+          "japanese name": "劇場版「ＴＯＫＹＯ ＭＥＲ～走る緊急救命室～」",
+          "sales": 52698,
+          "seats": 72202,
+          "showtimes": 406,
+          "theaters": 186,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Guardians of the Galaxy: VOLUME 3",
+          "japanese name": "ガーディアンズ・オブ・ギャラクシー：ＶＯＬＵＭＥ ３",
+          "sales": 34926,
+          "seats": 60041,
+          "showtimes": 344,
+          "theaters": 179,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tokyo Revengers 2: Blood Halloween -Fate-",
+          "japanese name": "東京リベンジャーズ２ 血のハロウィン編 －運命－",
+          "sales": 21593,
+          "seats": 47760,
+          "showtimes": 352,
+          "theaters": 187,
+          "rank": 5,
+          "last_week_ratio": 155.1
+        },
+        {
+          "moviename": "Donbrothers V vs Zenkaijaer",
+          "japanese name": "暴太郎戦隊ドンブラザーズＶＳゼンカイジャー",
+          "sales": 11859,
+          "seats": 13767,
+          "showtimes": 91,
+          "theaters": 54,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Doraemon Nobita and the Sky's Ideal Homeland",
+          "japanese name": "映画ドラえもん のび太と空の理想郷",
+          "sales": 7319,
+          "seats": 15011,
+          "showtimes": 122,
+          "theaters": 161,
+          "rank": 7,
+          "last_week_ratio": 1074.7
+        },
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 5939,
+          "seats": 6494,
+          "showtimes": 49,
+          "theaters": 170,
+          "rank": 8,
+          "last_week_ratio": 190.1
+        },
+        {
+          "moviename": "My Happy Marriage",
+          "japanese name": "わたしの幸せな結婚",
+          "sales": 3681,
+          "seats": 6834,
+          "showtimes": 60,
+          "theaters": 151,
+          "rank": 9,
+          "last_week_ratio": 139.3
+        },
+        {
+          "moviename": "Shin Masked Rider",
+          "japanese name": "シン・仮面ライダー",
+          "sales": 2969,
+          "seats": 5167,
+          "showtimes": 43,
+          "theaters": 169,
+          "rank": 10,
+          "last_week_ratio": 160.8
+        },
+        {
+          "moviename": "圣斗士星矢 The Beginning",
+          "japanese name": "聖闘士星矢 Ｔｈｅ Ｂｅｇｉｎｎｉｎｇ",
+          "sales": 2484,
+          "seats": 25777,
+          "showtimes": 222,
+          "theaters": 180,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The sparrow’s task of locking the door",
+          "japanese name": "すずめの戸締まり",
+          "sales": 2216,
+          "seats": 5958,
+          "showtimes": 52,
+          "theaters": 164,
+          "rank": 12,
+          "last_week_ratio": 395
+        },
+        {
+          "moviename": "剧场版 美しい彼～eternal～",
+          "japanese name": "劇場版 美しい彼～ｅｔｅｒｎａｌ～",
+          "sales": 2122,
+          "seats": 4723,
+          "showtimes": 38,
+          "theaters": 95,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Village",
+          "japanese name": "ヴィレッジ",
+          "sales": 1602,
+          "seats": 7518,
+          "showtimes": 68,
+          "theaters": 152,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Misaki Nakamura East Live Index 23 For Theater",
+          "japanese name": "中森明菜イースト・ライヴ インデックス２３ 劇場用",
+          "sales": 1579,
+          "seats": 7399,
+          "showtimes": 61,
+          "theaters": 118,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The world's awakening",
+          "japanese name": "せかいのおきく",
+          "sales": 1491,
+          "seats": 6354,
+          "showtimes": 53,
+          "theaters": 48,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "LIVING",
+          "japanese name": "生きる ＬＩＶＩＮＧ",
+          "sales": 1190,
+          "seats": 4916,
+          "showtimes": 43,
+          "theaters": 68,
+          "rank": 17,
+          "last_week_ratio": 188.9
+        },
+        {
+          "moviename": "Paris Taxi",
+          "japanese name": "パリタクシー",
+          "sales": 1008,
+          "seats": 1454,
+          "showtimes": 13,
+          "theaters": 13,
+          "rank": 18,
+          "last_week_ratio": 112.6
+        },
+        {
+          "moviename": "RRR",
+          "japanese name": "ＲＲＲ",
+          "sales": 967,
+          "seats": 969,
+          "showtimes": 8,
+          "theaters": 38,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gridman Universe",
+          "japanese name": "グリッドマン ユニバース",
+          "sales": 932,
+          "seats": 2015,
+          "showtimes": 17,
+          "theaters": 79,
+          "rank": 20,
+          "last_week_ratio": 167.3
+        },
+        {
+          "moviename": "Movie Nemesis The Mystery of the Golden Spiral",
+          "japanese name": "映画 ネメシス 黄金螺旋の謎",
+          "sales": 895,
+          "seats": 5093,
+          "showtimes": 42,
+          "theaters": 139,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Fair Lady",
+          "japanese name": "マイ・フェア・レディ",
+          "sales": 769,
+          "seats": 3524,
+          "showtimes": 31,
+          "theaters": 39,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Sword Art Online - Dawn -",
+          "japanese name": "映画刀剣乱舞－黎明－",
+          "sales": 633,
+          "seats": 3726,
+          "showtimes": 34,
+          "theaters": 136,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Guardians of the Galaxy: Remix",
+          "japanese name": "ガーディアンズ・オブ・ギャラクシー：リミックス",
+          "sales": 576,
+          "seats": 2109,
+          "showtimes": 16,
+          "theaters": 8,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BLUE GIANT",
+          "japanese name": "ＢＬＵＥ ＧＩＡＮＴ",
+          "sales": 558,
+          "seats": 1109,
+          "showtimes": 10,
+          "theaters": 47,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "The Super Mario Bros. Movie",
+          "japanese name": "ザ・スーパーマリオブラザーズ・ムービー",
+          "sales": 267870,
+          "seats": 346906,
+          "showtimes": 1333,
+          "theaters": 188,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: Black Iron Fish Shadow (Submarine)",
+          "japanese name": "名探偵コナン 黒鉄の魚影（サブマリン）",
+          "sales": 175031,
+          "seats": 301340,
+          "showtimes": 1213,
+          "theaters": 186,
+          "rank": 2,
+          "last_week_ratio": 254.2
+        },
+        {
+          "moviename": "剧场版「ＴＯＫＹＯ ＭＥＲ～走る緊急救命室～」",
+          "japanese name": "劇場版「ＴＯＫＹＯ ＭＥＲ～走る緊急救命室～」",
+          "sales": 96861,
+          "seats": 144030,
+          "showtimes": 792,
+          "theaters": 186,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Guardians of the Galaxy: VOLUME 3",
+          "japanese name": "ガーディアンズ・オブ・ギャラクシー：ＶＯＬＵＭＥ ３",
+          "sales": 63039,
+          "seats": 115458,
+          "showtimes": 670,
+          "theaters": 179,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tokyo Revengers 2: Blood Halloween -Fate-",
+          "japanese name": "東京リベンジャーズ２ 血のハロウィン編 －運命－",
+          "sales": 44588,
+          "seats": 96423,
+          "showtimes": 705,
+          "theaters": 187,
+          "rank": 5,
+          "last_week_ratio": 153.2
+        },
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 17377,
+          "seats": 19572,
+          "showtimes": 146,
+          "theaters": 170,
+          "rank": 6,
+          "last_week_ratio": 226.8
+        },
+        {
+          "moviename": "Donbrothers V vs Zenkaijaer",
+          "japanese name": "暴太郎戦隊ドンブラザーズＶＳゼンカイジャー",
+          "sales": 16669,
+          "seats": 20776,
+          "showtimes": 145,
+          "theaters": 54,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shin Masked Rider",
+          "japanese name": "シン・仮面ライダー",
+          "sales": 7574,
+          "seats": 16657,
+          "showtimes": 133,
+          "theaters": 169,
+          "rank": 8,
+          "last_week_ratio": 221.7
+        },
+        {
+          "moviename": "Movie Doraemon Nobita and the Sky's Ideal Homeland",
+          "japanese name": "映画ドラえもん のび太と空の理想郷",
+          "sales": 7475,
+          "seats": 15325,
+          "showtimes": 125,
+          "theaters": 161,
+          "rank": 9,
+          "last_week_ratio": 816.9
+        },
+        {
+          "moviename": "My Happy Marriage",
+          "japanese name": "わたしの幸せな結婚",
+          "sales": 7002,
+          "seats": 13743,
+          "showtimes": 122,
+          "theaters": 151,
+          "rank": 10,
+          "last_week_ratio": 127.9
+        },
+        {
+          "moviename": "剧场版 美しい彼～eternal～",
+          "japanese name": "劇場版 美しい彼～ｅｔｅｒｎａｌ～",
+          "sales": 4446,
+          "seats": 9942,
+          "showtimes": 81,
+          "theaters": 95,
+          "rank": 11,
+          "last_week_ratio": 113.8
+        },
+        {
+          "moviename": "The sparrow’s task of locking the door",
+          "japanese name": "すずめの戸締まり",
+          "sales": 4428,
+          "seats": 11368,
+          "showtimes": 102,
+          "theaters": 164,
+          "rank": 12,
+          "last_week_ratio": 309.4
+        },
+        {
+          "moviename": "圣斗士星矢 The Beginning",
+          "japanese name": "聖闘士星矢 Ｔｈｅ Ｂｅｇｉｎｎｉｎｇ",
+          "sales": 4166,
+          "seats": 48738,
+          "showtimes": 415,
+          "theaters": 180,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Village",
+          "japanese name": "ヴィレッジ",
+          "sales": 3334,
+          "seats": 15277,
+          "showtimes": 140,
+          "theaters": 152,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Misaki Nakamura East Live Index 23 For Theater",
+          "japanese name": "中森明菜イースト・ライヴ インデックス２３ 劇場用",
+          "sales": 2811,
+          "seats": 14369,
+          "showtimes": 118,
+          "theaters": 118,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gridman Universe",
+          "japanese name": "グリッドマン ユニバース",
+          "sales": 2768,
+          "seats": 6377,
+          "showtimes": 58,
+          "theaters": 79,
+          "rank": 16,
+          "last_week_ratio": 140
+        },
+        {
+          "moviename": "Movie Nemesis The Mystery of the Golden Spiral",
+          "japanese name": "映画 ネメシス 黄金螺旋の謎",
+          "sales": 2474,
+          "seats": 11344,
+          "showtimes": 94,
+          "theaters": 139,
+          "rank": 17,
+          "last_week_ratio": 137
+        },
+        {
+          "moviename": "BLUE GIANT",
+          "japanese name": "ＢＬＵＥ ＧＩＡＮＴ",
+          "sales": 2464,
+          "seats": 3988,
+          "showtimes": 35,
+          "theaters": 47,
+          "rank": 18,
+          "last_week_ratio": 140.9
+        },
+        {
+          "moviename": "The world's awakening",
+          "japanese name": "せかいのおきく",
+          "sales": 2299,
+          "seats": 9904,
+          "showtimes": 82,
+          "theaters": 48,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "RRR",
+          "japanese name": "ＲＲＲ",
+          "sales": 1969,
+          "seats": 2144,
+          "showtimes": 16,
+          "theaters": 38,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "LIVING",
+          "japanese name": "生きる ＬＩＶＩＮＧ",
+          "sales": 1568,
+          "seats": 5896,
+          "showtimes": 52,
+          "theaters": 68,
+          "rank": 21,
+          "last_week_ratio": 135.2
+        },
+        {
+          "moviename": "Movie Sword Art Online - Dawn -",
+          "japanese name": "映画刀剣乱舞－黎明－",
+          "sales": 1529,
+          "seats": 10164,
+          "showtimes": 91,
+          "theaters": 136,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "AIR Air",
+          "japanese name": "ＡＩＲ エア",
+          "sales": 1399,
+          "seats": 2412,
+          "showtimes": 22,
+          "theaters": 35,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Paris Taxi",
+          "japanese name": "パリタクシー",
+          "sales": 1386,
+          "seats": 2039,
+          "showtimes": 18,
+          "theaters": 13,
+          "rank": 24,
+          "last_week_ratio": 109.1
+        },
+        {
+          "moviename": "Guardians of the Galaxy: Remix",
+          "japanese name": "ガーディアンズ・オブ・ギャラクシー：リミックス",
+          "sales": 1052,
+          "seats": 4132,
+          "showtimes": 32,
+          "theaters": 8,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "The Super Mario Bros. Movie",
+          "japanese name": "ザ・スーパーマリオブラザーズ・ムービー",
+          "sales": 127263,
+          "seats": 440069,
+          "showtimes": 1894,
+          "theaters": 188,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: Black Iron Fish Shadow (Submarine)",
+          "japanese name": "名探偵コナン 黒鉄の魚影（サブマリン）",
+          "sales": 85341,
+          "seats": 481893,
+          "showtimes": 1902,
+          "theaters": 186,
+          "rank": 2,
+          "last_week_ratio": 146.1
+        },
+        {
+          "moviename": "剧场版「ＴＯＫＹＯ ＭＥＲ～走る緊急救命室～」",
+          "japanese name": "劇場版「ＴＯＫＹＯ ＭＥＲ～走る緊急救命室～」",
+          "sales": 66065,
+          "seats": 233714,
+          "showtimes": 1211,
+          "theaters": 186,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tokyo Revengers 2: Blood Halloween -Fate-",
+          "japanese name": "東京リベンジャーズ２ 血のハロウィン編 －運命－",
+          "sales": 24140,
+          "seats": 160000,
+          "showtimes": 1101,
+          "theaters": 187,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 21013,
+          "seats": 31870,
+          "showtimes": 240,
+          "theaters": 177,
+          "rank": 5,
+          "last_week_ratio": 351.9
+        },
+        {
+          "moviename": "Shin Masked Rider",
+          "japanese name": "シン・仮面ライダー",
+          "sales": 6442,
+          "seats": 24719,
+          "showtimes": 197,
+          "theaters": 176,
+          "rank": 6,
+          "last_week_ratio": 210.1
+        },
+        {
+          "moviename": "圣斗士星矢 The Beginning",
+          "japanese name": "聖闘士星矢 Ｔｈｅ Ｂｅｇｉｎｎｉｎｇ",
+          "sales": 4345,
+          "seats": 102699,
+          "showtimes": 808,
+          "theaters": 180,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Happy Marriage",
+          "japanese name": "わたしの幸せな結婚",
+          "sales": 3935,
+          "seats": 17512,
+          "showtimes": 154,
+          "theaters": 153,
+          "rank": 8,
+          "last_week_ratio": 107.5
+        },
+        {
+          "moviename": "Village",
+          "japanese name": "ヴィレッジ",
+          "sales": 3904,
+          "seats": 32254,
+          "showtimes": 288,
+          "theaters": 164,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "RRR",
+          "japanese name": "ＲＲＲ",
+          "sales": 3851,
+          "seats": 7051,
+          "showtimes": 51,
+          "theaters": 51,
+          "rank": 10,
+          "last_week_ratio": 204.5
+        },
+        {
+          "moviename": "剧场版 美しい彼～eternal～",
+          "japanese name": "劇場版 美しい彼～ｅｔｅｒｎａｌ～",
+          "sales": 3589,
+          "seats": 14282,
+          "showtimes": 114,
+          "theaters": 103,
+          "rank": 11,
+          "last_week_ratio": 114.8
+        },
+        {
+          "moviename": "Gridman Universe",
+          "japanese name": "グリッドマン ユニバース",
+          "sales": 3037,
+          "seats": 11693,
+          "showtimes": 95,
+          "theaters": 92,
+          "rank": 12,
+          "last_week_ratio": 168
+        },
+        {
+          "moviename": "Misaki Nakamura East Live Index 23 For Theater",
+          "japanese name": "中森明菜イースト・ライヴ インデックス２３ 劇場用",
+          "sales": 2814,
+          "seats": 30644,
+          "showtimes": 222,
+          "theaters": 120,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The world's awakening",
+          "japanese name": "せかいのおきく",
+          "sales": 2504,
+          "seats": 16955,
+          "showtimes": 138,
+          "theaters": 48,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The sparrow’s task of locking the door",
+          "japanese name": "すずめの戸締まり",
+          "sales": 2408,
+          "seats": 17894,
+          "showtimes": 157,
+          "theaters": 164,
+          "rank": 15,
+          "last_week_ratio": 223.2
+        },
+        {
+          "moviename": "BLUE GIANT",
+          "japanese name": "ＢＬＵＥ ＧＩＡＮＴ",
+          "sales": 2296,
+          "seats": 7038,
+          "showtimes": 60,
+          "theaters": 53,
+          "rank": 16,
+          "last_week_ratio": 154.7
+        },
+        {
+          "moviename": "AIR Air",
+          "japanese name": "ＡＩＲ エア",
+          "sales": 1683,
+          "seats": 5980,
+          "showtimes": 54,
+          "theaters": 59,
+          "rank": 17,
+          "last_week_ratio": 106.3
+        },
+        {
+          "moviename": "Movie Doraemon Nobita and the Sky's Ideal Homeland",
+          "japanese name": "映画ドラえもん のび太と空の理想郷",
+          "sales": 1234,
+          "seats": 19619,
+          "showtimes": 167,
+          "theaters": 156,
+          "rank": 18,
+          "last_week_ratio": 194.6
+        },
+        {
+          "moviename": "Movie Nemesis The Mystery of the Golden Spiral",
+          "japanese name": "映画 ネメシス 黄金螺旋の謎",
+          "sales": 1164,
+          "seats": 15627,
+          "showtimes": 135,
+          "theaters": 140,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "LIVING",
+          "japanese name": "生きる ＬＩＶＩＮＧ",
+          "sales": 979,
+          "seats": 8041,
+          "showtimes": 67,
+          "theaters": 68,
+          "rank": 20,
+          "last_week_ratio": 108.3
+        },
+        {
+          "moviename": "Paris Taxi",
+          "japanese name": "パリタクシー",
+          "sales": 963,
+          "seats": 2587,
+          "showtimes": 21,
+          "theaters": 13,
+          "rank": 21,
+          "last_week_ratio": 102.3
+        },
+        {
+          "moviename": "Movie Sword Art Online - Dawn -",
+          "japanese name": "映画刀剣乱舞－黎明－",
+          "sales": 833,
+          "seats": 14899,
+          "showtimes": 132,
+          "theaters": 136,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Whale",
+          "japanese name": "ザ・ホエール",
+          "sales": 612,
+          "seats": 3653,
+          "showtimes": 31,
+          "theaters": 28,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dungeons & Dragons / The Pride of Outlaws",
+          "japanese name": "ダンジョンズ＆ドラゴンズ／アウトローたちの誇り",
+          "sales": 540,
+          "seats": 1337,
+          "showtimes": 10,
+          "theaters": 9,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Halloween THE END",
+          "japanese name": "ハロウィン ＴＨＥ ＥＮＤ",
+          "sales": 513,
+          "seats": 5676,
+          "showtimes": 45,
+          "theaters": 51,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,773 @@
+{
+  "date": "03-03-2026",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Woodsman Town's Adachi",
+          "japanese name": "木挽町のあだ討ち",
+          "sales": 12953,
+          "seats": 61529,
+          "showtimes": 448,
+          "theaters": 259,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Classroom Requiem",
+          "japanese name": "教場 Ｒｅｑｕｉｅｍ",
+          "sales": 12515,
+          "seats": 84550,
+          "showtimes": 413,
+          "theaters": 275,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Soon, goodbye.",
+          "japanese name": "ほどなく、お別れです",
+          "sales": 9486,
+          "seats": 57630,
+          "showtimes": 358,
+          "theaters": 274,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Doraemon: New Nobita's Underwater Ghost Castle",
+          "japanese name": "映画ドラえもん 新・のび太の海底鬼岩城",
+          "sales": 4850,
+          "seats": 156162,
+          "showtimes": 639,
+          "theaters": 275,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Reincarnated as a Slime - The Tears of the Azure Sea",
+          "japanese name": "劇場版 転生したらスライムだった件 蒼海の涙編",
+          "sales": 4354,
+          "seats": 124639,
+          "showtimes": 461,
+          "theaters": 266,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rental Family",
+          "japanese name": "レンタル・ファミリー",
+          "sales": 4080,
+          "seats": 41723,
+          "showtimes": 333,
+          "theaters": 258,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ultra Kaguya-sama!!",
+          "japanese name": "超かぐや姫！",
+          "sales": 3572,
+          "seats": 13396,
+          "showtimes": 43,
+          "theaters": 19,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 2702,
+          "seats": 19412,
+          "showtimes": 157,
+          "theaters": 257,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New剧场版 Gintama –Yoshigara Great Fire–",
+          "japanese name": "新劇場版 銀魂 －吉原大炎上－",
+          "sales": 1978,
+          "seats": 24667,
+          "showtimes": 180,
+          "theaters": 272,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Zootopia 2",
+          "japanese name": "ズートピア２",
+          "sales": 1657,
+          "seats": 24409,
+          "showtimes": 168,
+          "theaters": 263,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Suit Gundam The Flashy Hasshay The Witch of Circe",
+          "japanese name": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
+          "sales": 1199,
+          "seats": 18648,
+          "showtimes": 112,
+          "theaters": 264,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie VersionDemon Slayer: Infinity Castle Arc Chapter 1 Reunion at Yiduo",
+          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
+          "sales": 1041,
+          "seats": 9187,
+          "showtimes": 61,
+          "theaters": 261,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Stormridge",
+          "japanese name": "嵐が丘",
+          "sales": 982,
+          "seats": 20774,
+          "showtimes": 142,
+          "theaters": 142,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BE: THE ONE TO BE—",
+          "japanese name": "ＢＥ：ｔｈｅ ＯＮＥ －ＭＥＡＮＴ ＴＯ ＢＥ－",
+          "sales": 692,
+          "seats": 3832,
+          "showtimes": 23,
+          "theaters": 72,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Night Shift Event The Convenience Store",
+          "japanese name": "夜勤事件 Ｔｈｅ Ｃｏｎｖｅｎｉｅｎｃｅ Ｓｔｏｒｅ",
+          "sales": 544,
+          "seats": 5983,
+          "showtimes": 44,
+          "theaters": 106,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pure Love is the Best!",
+          "japanese name": "純愛上等！",
+          "sales": 425,
+          "seats": 4965,
+          "showtimes": 36,
+          "theaters": 84,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ENHYPEN (WALK THE LINE SUMMER EDITION) IN CINEMAS",
+          "japanese name": "ＥＮＨＹＰＥＮ （ＷＡＬＫ ＴＨＥ ＬＩＮＥ ＳＵＭＭＥＲ ＥＤＩＴＩＯＮ） ＩＮ ＣＩＮＥＭＡＳ",
+          "sales": 343,
+          "seats": 8295,
+          "showtimes": 53,
+          "theaters": 68,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie My变态的心",
+          "japanese name": "劇場版 僕の心のヤバイやつ",
+          "sales": 273,
+          "seats": 3103,
+          "showtimes": 27,
+          "theaters": 91,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "东方神起 20th Anniversary Film「IDENTITY」",
+          "japanese name": "東方神起 ２０ｔｈ Ａｎｎｉｖｅｒｓａｒｙ Ｆｉｌｍ「ＩＤＥＮＴＩＴＹ」",
+          "sales": 258,
+          "seats": 2734,
+          "showtimes": 24,
+          "theaters": 70,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Yamato forever REBEL 3199 Chapter 5 The Blazing Galaxy War",
+          "japanese name": "ヤマトよ永遠に ＲＥＢＥＬ３１９９ 第五章 白熱の銀河大戦",
+          "sales": 229,
+          "seats": 5511,
+          "showtimes": 38,
+          "theaters": 52,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Guardian of the Kusunoki",
+          "japanese name": "クスノキの番人",
+          "sales": 228,
+          "seats": 7481,
+          "showtimes": 62,
+          "theaters": 243,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "♯Diffusion",
+          "japanese name": "♯拡散",
+          "sales": 222,
+          "seats": 4073,
+          "showtimes": 31,
+          "theaters": 58,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Chainsaw Man: Reze Chapter\"",
+          "japanese name": "劇場版「チェンソーマン レゼ篇」",
+          "sales": 221,
+          "seats": 7046,
+          "showtimes": 39,
+          "theaters": 257,
+          "rank": 23,
+          "last_week_ratio": 100.9
+        },
+        {
+          "moviename": "Bagonia",
+          "japanese name": "ブゴニア",
+          "sales": 200,
+          "seats": 3292,
+          "showtimes": 31,
+          "theaters": 138,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sentimental Value",
+          "japanese name": "センチメンタル・バリュー",
+          "sales": 188,
+          "seats": 1738,
+          "showtimes": 15,
+          "theaters": 37,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Classroom Requiem",
+          "japanese name": "教場 Ｒｅｑｕｉｅｍ",
+          "sales": 18464,
+          "seats": 156224,
+          "showtimes": 770,
+          "theaters": 275,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Soon, goodbye.",
+          "japanese name": "ほどなく、お別れです",
+          "sales": 18276,
+          "seats": 104235,
+          "showtimes": 642,
+          "theaters": 274,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Woodsman Town's Adachi",
+          "japanese name": "木挽町のあだ討ち",
+          "sales": 17163,
+          "seats": 109910,
+          "showtimes": 798,
+          "theaters": 259,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Doraemon: New Nobita's Underwater Ghost Castle",
+          "japanese name": "映画ドラえもん 新・のび太の海底鬼岩城",
+          "sales": 11280,
+          "seats": 303266,
+          "showtimes": 1242,
+          "theaters": 275,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Reincarnated as a Slime - The Tears of the Azure Sea",
+          "japanese name": "劇場版 転生したらスライムだった件 蒼海の涙編",
+          "sales": 7637,
+          "seats": 248670,
+          "showtimes": 912,
+          "theaters": 266,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ultra Kaguya-sama!!",
+          "japanese name": "超かぐや姫！",
+          "sales": 6690,
+          "seats": 25617,
+          "showtimes": 83,
+          "theaters": 19,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rental Family",
+          "japanese name": "レンタル・ファミリー",
+          "sales": 6149,
+          "seats": 75825,
+          "showtimes": 603,
+          "theaters": 258,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New剧场版 Gintama –Yoshigara Great Fire–",
+          "japanese name": "新劇場版 銀魂 －吉原大炎上－",
+          "sales": 4918,
+          "seats": 54465,
+          "showtimes": 391,
+          "theaters": 272,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Zootopia 2",
+          "japanese name": "ズートピア２",
+          "sales": 3393,
+          "seats": 38604,
+          "showtimes": 278,
+          "theaters": 263,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 2974,
+          "seats": 22875,
+          "showtimes": 185,
+          "theaters": 257,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Night Shift Event The Convenience Store",
+          "japanese name": "夜勤事件 Ｔｈｅ Ｃｏｎｖｅｎｉｅｎｃｅ Ｓｔｏｒｅ",
+          "sales": 2484,
+          "seats": 21401,
+          "showtimes": 149,
+          "theaters": 106,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie VersionDemon Slayer: Infinity Castle Arc Chapter 1 Reunion at Yiduo",
+          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
+          "sales": 2215,
+          "seats": 30068,
+          "showtimes": 209,
+          "theaters": 261,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Suit Gundam The Flashy Hasshay The Witch of Circe",
+          "japanese name": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
+          "sales": 2171,
+          "seats": 39964,
+          "showtimes": 258,
+          "theaters": 264,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Stormridge",
+          "japanese name": "嵐が丘",
+          "sales": 1644,
+          "seats": 40145,
+          "showtimes": 263,
+          "theaters": 142,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BE: THE ONE TO BE—",
+          "japanese name": "ＢＥ：ｔｈｅ ＯＮＥ －ＭＥＡＮＴ ＴＯ ＢＥ－",
+          "sales": 1144,
+          "seats": 8869,
+          "showtimes": 55,
+          "theaters": 72,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Chainsaw Man: Reze Chapter\"",
+          "japanese name": "劇場版「チェンソーマン レゼ篇」",
+          "sales": 1055,
+          "seats": 27931,
+          "showtimes": 174,
+          "theaters": 257,
+          "rank": 16,
+          "last_week_ratio": 117.9
+        },
+        {
+          "moviename": "Pure Love is the Best!",
+          "japanese name": "純愛上等！",
+          "sales": 1023,
+          "seats": 15246,
+          "showtimes": 105,
+          "theaters": 84,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie My变态的心",
+          "japanese name": "劇場版 僕の心のヤバイやつ",
+          "sales": 883,
+          "seats": 9080,
+          "showtimes": 75,
+          "theaters": 91,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ENHYPEN (WALK THE LINE SUMMER EDITION) IN CINEMAS",
+          "japanese name": "ＥＮＨＹＰＥＮ （ＷＡＬＫ ＴＨＥ ＬＩＮＥ ＳＵＭＭＥＲ ＥＤＩＴＩＯＮ） ＩＮ ＣＩＮＥＭＡＳ",
+          "sales": 822,
+          "seats": 15838,
+          "showtimes": 104,
+          "theaters": 68,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bagonia",
+          "japanese name": "ブゴニア",
+          "sales": 544,
+          "seats": 9205,
+          "showtimes": 77,
+          "theaters": 138,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "东方神起 20th Anniversary Film「IDENTITY」",
+          "japanese name": "東方神起 ２０ｔｈ Ａｎｎｉｖｅｒｓａｒｙ Ｆｉｌｍ「ＩＤＥＮＴＩＴＹ」",
+          "sales": 497,
+          "seats": 7062,
+          "showtimes": 62,
+          "theaters": 70,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Yamato forever REBEL 3199 Chapter 5 The Blazing Galaxy War",
+          "japanese name": "ヤマトよ永遠に ＲＥＢＥＬ３１９９ 第五章 白熱の銀河大戦",
+          "sales": 417,
+          "seats": 9835,
+          "showtimes": 67,
+          "theaters": 52,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Guardian of the Kusunoki",
+          "japanese name": "クスノキの番人",
+          "sales": 405,
+          "seats": 17155,
+          "showtimes": 131,
+          "theaters": 243,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Galaxy Express Milky☆Subway All Stations to Theater",
+          "japanese name": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
+          "sales": 383,
+          "seats": 8028,
+          "showtimes": 42,
+          "theaters": 60,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Crime 101",
+          "japanese name": "クライム１０１",
+          "sales": 329,
+          "seats": 12278,
+          "showtimes": 103,
+          "theaters": 238,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Soon, goodbye.",
+          "japanese name": "ほどなく、お別れです",
+          "sales": 31917,
+          "seats": 158448,
+          "showtimes": 968,
+          "theaters": 274,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Classroom Requiem",
+          "japanese name": "教場 Ｒｅｑｕｉｅｍ",
+          "sales": 31065,
+          "seats": 244190,
+          "showtimes": 1191,
+          "theaters": 275,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Woodsman Town's Adachi",
+          "japanese name": "木挽町のあだ討ち",
+          "sales": 24563,
+          "seats": 158658,
+          "showtimes": 1149,
+          "theaters": 259,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Doraemon: New Nobita's Underwater Ghost Castle",
+          "japanese name": "映画ドラえもん 新・のび太の海底鬼岩城",
+          "sales": 20625,
+          "seats": 431258,
+          "showtimes": 1679,
+          "theaters": 275,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Reincarnated as a Slime - The Tears of the Azure Sea",
+          "japanese name": "劇場版 転生したらスライムだった件 蒼海の涙編",
+          "sales": 15554,
+          "seats": 370286,
+          "showtimes": 1380,
+          "theaters": 267,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ultra Kaguya-sama!!",
+          "japanese name": "超かぐや姫！",
+          "sales": 9925,
+          "seats": 33990,
+          "showtimes": 112,
+          "theaters": 19,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New剧场版 Gintama –Yoshigara Great Fire–",
+          "japanese name": "新劇場版 銀魂 －吉原大炎上－",
+          "sales": 9649,
+          "seats": 82904,
+          "showtimes": 600,
+          "theaters": 272,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rental Family",
+          "japanese name": "レンタル・ファミリー",
+          "sales": 9394,
+          "seats": 119245,
+          "showtimes": 951,
+          "theaters": 258,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Zootopia 2",
+          "japanese name": "ズートピア２",
+          "sales": 5435,
+          "seats": 51268,
+          "showtimes": 370,
+          "theaters": 264,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Night Shift Event The Convenience Store",
+          "japanese name": "夜勤事件 Ｔｈｅ Ｃｏｎｖｅｎｉｅｎｃｅ Ｓｔｏｒｅ",
+          "sales": 4502,
+          "seats": 28328,
+          "showtimes": 199,
+          "theaters": 107,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Suit Gundam The Flashy Hasshay The Witch of Circe",
+          "japanese name": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
+          "sales": 4496,
+          "seats": 74201,
+          "showtimes": 458,
+          "theaters": 265,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 4411,
+          "seats": 31581,
+          "showtimes": 251,
+          "theaters": 256,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie VersionDemon Slayer: Infinity Castle Arc Chapter 1 Reunion at Yiduo",
+          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
+          "sales": 3346,
+          "seats": 45481,
+          "showtimes": 317,
+          "theaters": 261,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Stormridge",
+          "japanese name": "嵐が丘",
+          "sales": 2736,
+          "seats": 74274,
+          "showtimes": 514,
+          "theaters": 142,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Chainsaw Man: Reze Chapter\"",
+          "japanese name": "劇場版「チェンソーマン レゼ篇」",
+          "sales": 2417,
+          "seats": 40743,
+          "showtimes": 262,
+          "theaters": 257,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pure Love is the Best!",
+          "japanese name": "純愛上等！",
+          "sales": 1947,
+          "seats": 18149,
+          "showtimes": 123,
+          "theaters": 84,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie My变态的心",
+          "japanese name": "劇場版 僕の心のヤバイやつ",
+          "sales": 1607,
+          "seats": 13788,
+          "showtimes": 112,
+          "theaters": 87,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BE: THE ONE TO BE—",
+          "japanese name": "ＢＥ：ｔｈｅ ＯＮＥ －ＭＥＡＮＴ ＴＯ ＢＥ－",
+          "sales": 1540,
+          "seats": 12245,
+          "showtimes": 78,
+          "theaters": 72,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Galaxy Express Milky☆Subway All Stations to Theater",
+          "japanese name": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
+          "sales": 1353,
+          "seats": 21409,
+          "showtimes": 119,
+          "theaters": 60,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ENHYPEN (WALK THE LINE SUMMER EDITION) IN CINEMAS",
+          "japanese name": "ＥＮＨＹＰＥＮ （ＷＡＬＫ ＴＨＥ ＬＩＮＥ ＳＵＭＭＥＲ ＥＤＩＴＩＯＮ） ＩＮ ＣＩＮＥＭＡＳ",
+          "sales": 1053,
+          "seats": 21061,
+          "showtimes": 139,
+          "theaters": 68,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bagonia",
+          "japanese name": "ブゴニア",
+          "sales": 1000,
+          "seats": 15819,
+          "showtimes": 131,
+          "theaters": 138,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Guardian of the Kusunoki",
+          "japanese name": "クスノキの番人",
+          "sales": 868,
+          "seats": 30197,
+          "showtimes": 230,
+          "theaters": 240,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Crime 101",
+          "japanese name": "クライム１０１",
+          "sales": 829,
+          "seats": 30113,
+          "showtimes": 229,
+          "theaters": 235,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Osharu Ben",
+          "japanese name": "おさるのベン",
+          "sales": 765,
+          "seats": 19112,
+          "showtimes": 141,
+          "theaters": 140,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "♯Diffusion",
+          "japanese name": "♯拡散",
+          "sales": 762,
+          "seats": 14646,
+          "showtimes": 114,
+          "theaters": 58,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

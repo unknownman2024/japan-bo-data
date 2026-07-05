@@ -1,0 +1,773 @@
+{
+  "date": "13-11-2025",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Bomb",
+          "japanese name": "爆弾",
+          "sales": 11401,
+          "seats": 83542,
+          "showtimes": 461,
+          "theaters": 264,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 7473,
+          "seats": 30700,
+          "showtimes": 219,
+          "theaters": 246,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Jujutsu Kaisen: Shibuya Incident Special Edit Version\" × \"Death轮回\"",
+          "japanese name": "劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 」",
+          "sales": 7291,
+          "seats": 211269,
+          "showtimes": 626,
+          "theaters": 254,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Predator: Badland",
+          "japanese name": "プレデター：バッドランド",
+          "sales": 6748,
+          "seats": 115077,
+          "showtimes": 575,
+          "theaters": 265,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "There you are beyond the peak",
+          "japanese name": "てっぺんの向こうにあなたがいる",
+          "sales": 6123,
+          "seats": 43539,
+          "showtimes": 341,
+          "theaters": 233,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Chainsaw Man: Reze Chapter\"",
+          "japanese name": "劇場版「チェンソーマン レゼ篇」",
+          "sales": 3509,
+          "seats": 54906,
+          "showtimes": 286,
+          "theaters": 265,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sunflowers on the Board",
+          "japanese name": "盤上の向日葵",
+          "sales": 3409,
+          "seats": 38042,
+          "showtimes": 291,
+          "theaters": 248,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Princess Mononoke",
+          "japanese name": "もののけ姫",
+          "sales": 2966,
+          "seats": 46106,
+          "showtimes": 175,
+          "theaters": 128,
+          "rank": 8,
+          "last_week_ratio": 102.1
+        },
+        {
+          "moviename": "Chapter 1: Reunion at Yabakō - Film Version of Kimetsu no Yaiba: Infinite Train Journey",
+          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
+          "sales": 2291,
+          "seats": 24159,
+          "showtimes": 155,
+          "theaters": 248,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "(Love Song)",
+          "japanese name": "（ＬＯＶＥ ＳＯＮＧ）",
+          "sales": 2246,
+          "seats": 23758,
+          "showtimes": 187,
+          "theaters": 234,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "5 Centimeters Per Second",
+          "japanese name": "秒速５センチメートル",
+          "sales": 1953,
+          "seats": 21440,
+          "showtimes": 155,
+          "theaters": 250,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Sumikko Gurashi: The Kingdom of the Sky and the Two of Us",
+          "japanese name": "映画 すみっコぐらし 空の王国とふたりのコ",
+          "sales": 1889,
+          "seats": 79444,
+          "showtimes": 470,
+          "theaters": 245,
+          "rank": 12,
+          "last_week_ratio": 100.3
+        },
+        {
+          "moviename": "The Legend of Luo Xiaohui 2: The Future We Desire",
+          "japanese name": "羅小黒戦記２ ぼくらが望む未来",
+          "sales": 1212,
+          "seats": 31673,
+          "showtimes": 177,
+          "theaters": 112,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "IN THE MOVIE 'I Need I'",
+          "japanese name": "ＩＮＩ ＴＨＥ ＭＯＶＩＥ「Ｉ Ｎｅｅｄ Ｉ」",
+          "sales": 985,
+          "seats": 6360,
+          "showtimes": 47,
+          "theaters": 88,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tsukikaze Man",
+          "japanese name": "トリツカレ男",
+          "sales": 971,
+          "seats": 32368,
+          "showtimes": 245,
+          "theaters": 215,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Travel and Daily Life",
+          "japanese name": "旅と日々",
+          "sales": 776,
+          "seats": 9372,
+          "showtimes": 69,
+          "theaters": 54,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hey, you",
+          "japanese name": "おーい、応為",
+          "sales": 680,
+          "seats": 14065,
+          "showtimes": 107,
+          "theaters": 164,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version: Delicious School Lunch Graduation",
+          "japanese name": "劇場版 おいしい給食 卒業",
+          "sales": 658,
+          "seats": 9829,
+          "showtimes": 75,
+          "theaters": 155,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love Live! Nijigasaki High School Idol Club: Final Chapter Chapter 2",
+          "japanese name": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第２章",
+          "sales": 594,
+          "seats": 28179,
+          "showtimes": 176,
+          "theaters": 104,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hyper Express: The Movie RE:VE",
+          "japanese name": "超特急 Ｔｈｅ Ｍｏｖｉｅ ＲＥ：ＶＥ",
+          "sales": 571,
+          "seats": 11518,
+          "showtimes": 53,
+          "theaters": 53,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Count Monte Cristo: The Musical Life",
+          "japanese name": "モンテ・クリスト伯： Ｔｈｅ Ｍｕｓｉｃａｌ Ｌｉｖｅ",
+          "sales": 556,
+          "seats": 1504,
+          "showtimes": 13,
+          "theaters": 14,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Silent Fleet Arctic Sea Battle",
+          "japanese name": "沈黙の艦隊 北極海大海戦",
+          "sales": 525,
+          "seats": 10270,
+          "showtimes": 84,
+          "theaters": 174,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Fool's Station",
+          "japanese name": "愚か者の身分",
+          "sales": 461,
+          "seats": 6393,
+          "showtimes": 49,
+          "theaters": 190,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Strawberry Moon: A Love Story With Half a Year to Live",
+          "japanese name": "ストロベリームーン 余命半年の恋",
+          "sales": 424,
+          "seats": 6824,
+          "showtimes": 53,
+          "theaters": 224,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Exit 8",
+          "japanese name": "８番出口",
+          "sales": 374,
+          "seats": 9218,
+          "showtimes": 57,
+          "theaters": 241,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Bomb",
+          "japanese name": "爆弾",
+          "sales": 19496,
+          "seats": 147431,
+          "showtimes": 823,
+          "theaters": 264,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Jujutsu Kaisen: Shibuya Incident Special Edit Version\" × \"Death轮回\"",
+          "japanese name": "劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 」",
+          "sales": 15941,
+          "seats": 407359,
+          "showtimes": 1200,
+          "theaters": 254,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Predator: Badland",
+          "japanese name": "プレデター：バッドランド",
+          "sales": 10839,
+          "seats": 206253,
+          "showtimes": 1050,
+          "theaters": 265,
+          "rank": 3,
+          "last_week_ratio": 936
+        },
+        {
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 8362,
+          "seats": 34922,
+          "showtimes": 249,
+          "theaters": 246,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Chainsaw Man: Reze Chapter\"",
+          "japanese name": "劇場版「チェンソーマン レゼ篇」",
+          "sales": 8213,
+          "seats": 111357,
+          "showtimes": 583,
+          "theaters": 265,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "There you are beyond the peak",
+          "japanese name": "てっぺんの向こうにあなたがいる",
+          "sales": 7704,
+          "seats": 57770,
+          "showtimes": 452,
+          "theaters": 233,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Princess Mononoke",
+          "japanese name": "もののけ姫",
+          "sales": 6922,
+          "seats": 92066,
+          "showtimes": 343,
+          "theaters": 128,
+          "rank": 7,
+          "last_week_ratio": 121.1
+        },
+        {
+          "moviename": "5 Centimeters Per Second",
+          "japanese name": "秒速５センチメートル",
+          "sales": 5463,
+          "seats": 51129,
+          "showtimes": 362,
+          "theaters": 250,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sunflowers on the Board",
+          "japanese name": "盤上の向日葵",
+          "sales": 4816,
+          "seats": 62787,
+          "showtimes": 482,
+          "theaters": 248,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Chapter 1: Reunion at Yabakō - Film Version of Kimetsu no Yaiba: Infinite Train Journey",
+          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
+          "sales": 4124,
+          "seats": 50644,
+          "showtimes": 323,
+          "theaters": 248,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "(Love Song)",
+          "japanese name": "（ＬＯＶＥ ＳＯＮＧ）",
+          "sales": 3649,
+          "seats": 44943,
+          "showtimes": 351,
+          "theaters": 234,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Legend of Luo Xiaohui 2: The Future We Desire",
+          "japanese name": "羅小黒戦記２ ぼくらが望む未来",
+          "sales": 2694,
+          "seats": 56891,
+          "showtimes": 329,
+          "theaters": 112,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Sumikko Gurashi: The Kingdom of the Sky and the Two of Us",
+          "japanese name": "映画 すみっコぐらし 空の王国とふたりのコ",
+          "sales": 2657,
+          "seats": 114036,
+          "showtimes": 692,
+          "theaters": 245,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "IN THE MOVIE 'I Need I'",
+          "japanese name": "ＩＮＩ ＴＨＥ ＭＯＶＩＥ「Ｉ Ｎｅｅｄ Ｉ」",
+          "sales": 1920,
+          "seats": 14558,
+          "showtimes": 100,
+          "theaters": 88,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Strawberry Moon: A Love Story With Half a Year to Live",
+          "japanese name": "ストロベリームーン 余命半年の恋",
+          "sales": 1792,
+          "seats": 24835,
+          "showtimes": 190,
+          "theaters": 224,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tsukikaze Man",
+          "japanese name": "トリツカレ男",
+          "sales": 1750,
+          "seats": 63983,
+          "showtimes": 485,
+          "theaters": 215,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hyper Express: The Movie RE:VE",
+          "japanese name": "超特急 Ｔｈｅ Ｍｏｖｉｅ ＲＥ：ＶＥ",
+          "sales": 1330,
+          "seats": 21387,
+          "showtimes": 105,
+          "theaters": 53,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love Live! Nijigasaki High School Idol Club: Final Chapter Chapter 2",
+          "japanese name": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第２章",
+          "sales": 1288,
+          "seats": 49720,
+          "showtimes": 324,
+          "theaters": 104,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Travel and Daily Life",
+          "japanese name": "旅と日々",
+          "sales": 1269,
+          "seats": 16021,
+          "showtimes": 115,
+          "theaters": 54,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version: Delicious School Lunch Graduation",
+          "japanese name": "劇場版 おいしい給食 卒業",
+          "sales": 1134,
+          "seats": 20258,
+          "showtimes": 156,
+          "theaters": 155,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Fool's Station",
+          "japanese name": "愚か者の身分",
+          "sales": 1075,
+          "seats": 15563,
+          "showtimes": 117,
+          "theaters": 190,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Exit 8",
+          "japanese name": "８番出口",
+          "sales": 1061,
+          "seats": 28084,
+          "showtimes": 188,
+          "theaters": 241,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hey, you",
+          "japanese name": "おーい、応為",
+          "sales": 1037,
+          "seats": 19297,
+          "showtimes": 148,
+          "theaters": 164,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Count Monte Cristo: The Musical Life",
+          "japanese name": "モンテ・クリスト伯： Ｔｈｅ Ｍｕｓｉｃａｌ Ｌｉｖｅ",
+          "sales": 1019,
+          "seats": 2572,
+          "showtimes": 21,
+          "theaters": 14,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Preview Anime \"Golden Kamuy\" Sapporo Beer Factory Part 2",
+          "japanese name": "劇場先行版 アニメ「ゴールデンカムイ」札幌ビール工場編 後編",
+          "sales": 898,
+          "seats": 20450,
+          "showtimes": 135,
+          "theaters": 114,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Bomb",
+          "japanese name": "爆弾",
+          "sales": 31277,
+          "seats": 199299,
+          "showtimes": 1109,
+          "theaters": 273,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Jujutsu Kaisen: Shibuya Incident Special Edit Version\" × \"Death轮回\"",
+          "japanese name": "劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 」",
+          "sales": 29018,
+          "seats": 529912,
+          "showtimes": 1562,
+          "theaters": 262,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Predator: Badland",
+          "japanese name": "プレデター：バッドランド",
+          "sales": 18786,
+          "seats": 271516,
+          "showtimes": 1402,
+          "theaters": 274,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Chainsaw Man: Reze Chapter\"",
+          "japanese name": "劇場版「チェンソーマン レゼ篇」",
+          "sales": 13866,
+          "seats": 153679,
+          "showtimes": 809,
+          "theaters": 274,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Princess Mononoke",
+          "japanese name": "もののけ姫",
+          "sales": 11900,
+          "seats": 117920,
+          "showtimes": 443,
+          "theaters": 132,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 10957,
+          "seats": 37519,
+          "showtimes": 262,
+          "theaters": 255,
+          "rank": 6,
+          "last_week_ratio": 113.5
+        },
+        {
+          "moviename": "There you are beyond the peak",
+          "japanese name": "てっぺんの向こうにあなたがいる",
+          "sales": 8596,
+          "seats": 61325,
+          "showtimes": 480,
+          "theaters": 241,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "5 Centimeters Per Second",
+          "japanese name": "秒速５センチメートル",
+          "sales": 8040,
+          "seats": 63471,
+          "showtimes": 456,
+          "theaters": 259,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sunflowers on the Board",
+          "japanese name": "盤上の向日葵",
+          "sales": 6115,
+          "seats": 81522,
+          "showtimes": 630,
+          "theaters": 256,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Chapter 1: Reunion at Yabakō - Film Version of Kimetsu no Yaiba: Infinite Train Journey",
+          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
+          "sales": 5893,
+          "seats": 60456,
+          "showtimes": 393,
+          "theaters": 257,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "(Love Song)",
+          "japanese name": "（ＬＯＶＥ ＳＯＮＧ）",
+          "sales": 5884,
+          "seats": 63164,
+          "showtimes": 490,
+          "theaters": 240,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Legend of Luo Xiaohui 2: The Future We Desire",
+          "japanese name": "羅小黒戦記２ ぼくらが望む未来",
+          "sales": 5226,
+          "seats": 77855,
+          "showtimes": 456,
+          "theaters": 117,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Sumikko Gurashi: The Kingdom of the Sky and the Two of Us",
+          "japanese name": "映画 すみっコぐらし 空の王国とふたりのコ",
+          "sales": 3303,
+          "seats": 121457,
+          "showtimes": 744,
+          "theaters": 252,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "IN THE MOVIE 'I Need I'",
+          "japanese name": "ＩＮＩ ＴＨＥ ＭＯＶＩＥ「Ｉ Ｎｅｅｄ Ｉ」",
+          "sales": 3047,
+          "seats": 20052,
+          "showtimes": 145,
+          "theaters": 92,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tsukikaze Man",
+          "japanese name": "トリツカレ男",
+          "sales": 2981,
+          "seats": 83263,
+          "showtimes": 629,
+          "theaters": 216,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hyper Express: The Movie RE:VE",
+          "japanese name": "超特急 Ｔｈｅ Ｍｏｖｉｅ ＲＥ：ＶＥ",
+          "sales": 2439,
+          "seats": 31291,
+          "showtimes": 153,
+          "theaters": 60,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love Live! Nijigasaki High School Idol Club: Final Chapter Chapter 2",
+          "japanese name": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第２章",
+          "sales": 2355,
+          "seats": 65420,
+          "showtimes": 424,
+          "theaters": 108,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Strawberry Moon: A Love Story With Half a Year to Live",
+          "japanese name": "ストロベリームーン 余命半年の恋",
+          "sales": 2316,
+          "seats": 29541,
+          "showtimes": 227,
+          "theaters": 227,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Travel and Daily Life",
+          "japanese name": "旅と日々",
+          "sales": 2104,
+          "seats": 21075,
+          "showtimes": 153,
+          "theaters": 55,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Fool's Station",
+          "japanese name": "愚か者の身分",
+          "sales": 1838,
+          "seats": 24168,
+          "showtimes": 188,
+          "theaters": 194,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Zombie Land Saga Yume Gin Ga Paradise",
+          "japanese name": "ゾンビランドサガ ゆめぎんがパラダイス",
+          "sales": 1673,
+          "seats": 13874,
+          "showtimes": 103,
+          "theaters": 88,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Exit 8",
+          "japanese name": "８番出口",
+          "sales": 1450,
+          "seats": 35547,
+          "showtimes": 242,
+          "theaters": 250,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version: Delicious School Lunch Graduation",
+          "japanese name": "劇場版 おいしい給食 卒業",
+          "sales": 1373,
+          "seats": 22045,
+          "showtimes": 169,
+          "theaters": 155,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hyakuemu.",
+          "japanese name": "ひゃくえむ。",
+          "sales": 1315,
+          "seats": 14801,
+          "showtimes": 104,
+          "theaters": 106,
+          "rank": 24,
+          "last_week_ratio": 106.4
+        },
+        {
+          "moviename": "Theatrical Preview Anime \"Golden Kamuy\" Sapporo Beer Factory Part 2",
+          "japanese name": "劇場先行版 アニメ「ゴールデンカムイ」札幌ビール工場編 後編",
+          "sales": 1292,
+          "seats": 28492,
+          "showtimes": 189,
+          "theaters": 117,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

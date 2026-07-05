@@ -1,0 +1,522 @@
+{
+  "date": "02-01-2020",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Frozen II",
+          "japanese name": "アナと雪の女王２",
+          "sales": 78615,
+          "seats": 273796,
+          "showtimes": 911,
+          "theaters": 303,
+          "rank": 1,
+          "last_week_ratio": 121.6
+        },
+        {
+          "moviename": "Star Wars: The Skywalker Legacy",
+          "japanese name": "スター・ウォーズ スカイウォーカーの夜明け",
+          "sales": 77747,
+          "seats": 262084,
+          "showtimes": 1136,
+          "theaters": 303,
+          "rank": 2,
+          "last_week_ratio": 184.5
+        },
+        {
+          "moviename": "Tora! Tora! Tora! Mr. Totoro is back",
+          "japanese name": "男はつらいよ お帰り 寅さん",
+          "sales": 30712,
+          "seats": 144007,
+          "showtimes": 729,
+          "theaters": 291,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE Heroes: Rising",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ヒーローズ：ライジング",
+          "sales": 13826,
+          "seats": 94002,
+          "showtimes": 622,
+          "theaters": 274,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Youkai Academy Y: Can Cats Become HERO?",
+          "japanese name": "映画 妖怪学園Ｙ 猫はＨＥＲＯになれるか",
+          "sales": 12474,
+          "seats": 67366,
+          "showtimes": 551,
+          "theaters": 284,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kamen Rider Reiwa: The First Generation",
+          "japanese name": "仮面ライダー 令和 ザ・ファースト・ジェネレーション",
+          "sales": 11824,
+          "seats": 93504,
+          "showtimes": 664,
+          "theaters": 277,
+          "rank": 6,
+          "last_week_ratio": 114.8
+        },
+        {
+          "moviename": "Murder in the Corpse Mansion",
+          "japanese name": "屍人荘の殺人",
+          "sales": 6944,
+          "seats": 30400,
+          "showtimes": 258,
+          "theaters": 274,
+          "rank": 7,
+          "last_week_ratio": 110.1
+        },
+        {
+          "moviename": "Movie version New干线变形机器人 Shinkalion From the Future God Speed ALFA-X",
+          "japanese name": "劇場版 新幹線変形ロボ シンカリオン 未来からきた神速のＡＬＦＡ－Ｘ",
+          "sales": 6300,
+          "seats": 98396,
+          "showtimes": 551,
+          "theaters": 177,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "At midnight, come for a kiss",
+          "japanese name": "午前０時、キスしに来てよ",
+          "sales": 5768,
+          "seats": 25480,
+          "showtimes": 174,
+          "theaters": 221,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rupan三世 THE FIRST",
+          "japanese name": "ルパン三世 ＴＨＥ ＦＩＲＳＴ",
+          "sales": 5541,
+          "seats": 24439,
+          "showtimes": 200,
+          "theaters": 293,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Sumikko Gurashi Flying Picture Book and the Secret of Ko",
+          "japanese name": "映画 すみっコぐらし とびだす絵本とひみつのコ",
+          "sales": 5307,
+          "seats": 38370,
+          "showtimes": 240,
+          "theaters": 151,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Jumanji/Next Level",
+          "japanese name": "ジュマンジ／ネクスト・レベル",
+          "sales": 4763,
+          "seats": 21989,
+          "showtimes": 190,
+          "theaters": 290,
+          "rank": 12,
+          "last_week_ratio": 123.4
+        },
+        {
+          "moviename": "Hick and Dragon Adventure to the Sacred Place",
+          "japanese name": "ヒックとドラゴン 聖地への冒険",
+          "sales": 3266,
+          "seats": 29625,
+          "showtimes": 247,
+          "theaters": 258,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Bunnys Hee-Haw UFO Fever!",
+          "japanese name": "映画 ひつじのショーン ＵＦＯフィーバー！",
+          "sales": 1874,
+          "seats": 14821,
+          "showtimes": 120,
+          "theaters": 125,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Katsuben!",
+          "japanese name": "カツベン！",
+          "sales": 1714,
+          "seats": 11550,
+          "showtimes": 106,
+          "theaters": 237,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Settlement! Chushingura",
+          "japanese name": "決算！忠臣蔵",
+          "sales": 1432,
+          "seats": 8230,
+          "showtimes": 65,
+          "theaters": 149,
+          "rank": 16,
+          "last_week_ratio": 135.2
+        },
+        {
+          "moviename": "In this world's (and more) corners",
+          "japanese name": "この世界の（さらにいくつもの）片隅に",
+          "sales": 1113,
+          "seats": 5443,
+          "showtimes": 43,
+          "theaters": 45,
+          "rank": 17,
+          "last_week_ratio": 230.9
+        },
+        {
+          "moviename": "Shawshank's Sky",
+          "japanese name": "ショーシャンクの空に",
+          "sales": 949,
+          "seats": 5073,
+          "showtimes": 41,
+          "theaters": 42,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "\"Parasite: The Underground Family\" Special Advance Screening",
+          "japanese name": "「パラサイト 半地下の家族」特別先行公開",
+          "sales": 630,
+          "seats": 1446,
+          "showtimes": 4,
+          "theaters": 2,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "FOR REAL 2019 – The moments that won't return, the things left behind. –",
+          "japanese name": "ＦＯＲ ＲＥＡＬ ２０１９ －戻らない瞬間、残されるもの。－",
+          "sales": 472,
+          "seats": 1563,
+          "showtimes": 10,
+          "theaters": 12,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ted Bundy",
+          "japanese name": "テッド・バンディ",
+          "sales": 416,
+          "seats": 1954,
+          "showtimes": 12,
+          "theaters": 24,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Our 7-Day War",
+          "japanese name": "ぼくらの７日間戦争",
+          "sales": 310,
+          "seats": 5128,
+          "showtimes": 33,
+          "theaters": 163,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Door Lock",
+          "japanese name": "ドアロック",
+          "sales": 266,
+          "seats": 329,
+          "showtimes": 1,
+          "theaters": 1,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Burn, Surya!!",
+          "japanese name": "燃えよスーリヤ！！",
+          "sales": 214,
+          "seats": 2857,
+          "showtimes": 25,
+          "theaters": 26,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 SOARA LET IT BE",
+          "japanese name": "劇場版ＳＯＡＲＡ ＬＥＴ ＩＴ ＢＥ",
+          "sales": 202,
+          "seats": 329,
+          "showtimes": 1,
+          "theaters": 1,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Star Wars: The Skywalker Legacy",
+          "japanese name": "スター・ウォーズ スカイウォーカーの夜明け",
+          "sales": 137653,
+          "seats": 508620,
+          "showtimes": 2158,
+          "theaters": 303,
+          "rank": 1,
+          "last_week_ratio": 184
+        },
+        {
+          "moviename": "Frozen II",
+          "japanese name": "アナと雪の女王２",
+          "sales": 123549,
+          "seats": 470463,
+          "showtimes": 1615,
+          "theaters": 303,
+          "rank": 2,
+          "last_week_ratio": 135.2
+        },
+        {
+          "moviename": "Tora! Tora! Tora! Mr. Totoro is back",
+          "japanese name": "男はつらいよ お帰り 寅さん",
+          "sales": 46185,
+          "seats": 241992,
+          "showtimes": 1227,
+          "theaters": 291,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE Heroes: Rising",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ヒーローズ：ライジング",
+          "sales": 22010,
+          "seats": 161976,
+          "showtimes": 1063,
+          "theaters": 274,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Youkai Academy Y: Can Cats Become HERO?",
+          "japanese name": "映画 妖怪学園Ｙ 猫はＨＥＲＯになれるか",
+          "sales": 16195,
+          "seats": 90193,
+          "showtimes": 740,
+          "theaters": 284,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kamen Rider Reiwa: The First Generation",
+          "japanese name": "仮面ライダー 令和 ザ・ファースト・ジェネレーション",
+          "sales": 16121,
+          "seats": 137143,
+          "showtimes": 975,
+          "theaters": 277,
+          "rank": 6,
+          "last_week_ratio": 118.1
+        },
+        {
+          "moviename": "Murder in the Corpse Mansion",
+          "japanese name": "屍人荘の殺人",
+          "sales": 14551,
+          "seats": 71055,
+          "showtimes": 576,
+          "theaters": 274,
+          "rank": 7,
+          "last_week_ratio": 126.7
+        },
+        {
+          "moviename": "Jumanji/Next Level",
+          "japanese name": "ジュマンジ／ネクスト・レベル",
+          "sales": 13196,
+          "seats": 59696,
+          "showtimes": 495,
+          "theaters": 290,
+          "rank": 8,
+          "last_week_ratio": 157.8
+        },
+        {
+          "moviename": "Rupan三世 THE FIRST",
+          "japanese name": "ルパン三世 ＴＨＥ ＦＩＲＳＴ",
+          "sales": 11716,
+          "seats": 56925,
+          "showtimes": 465,
+          "theaters": 293,
+          "rank": 9,
+          "last_week_ratio": 115.1
+        },
+        {
+          "moviename": "At midnight, come for a kiss",
+          "japanese name": "午前０時、キスしに来てよ",
+          "sales": 10822,
+          "seats": 56048,
+          "showtimes": 390,
+          "theaters": 221,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie version New干线变形机器人 Shinkalion From the Future God Speed ALFA-X",
+          "japanese name": "劇場版 新幹線変形ロボ シンカリオン 未来からきた神速のＡＬＦＡ－Ｘ",
+          "sales": 8385,
+          "seats": 156302,
+          "showtimes": 887,
+          "theaters": 177,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Sumikko Gurashi Flying Picture Book and the Secret of Ko",
+          "japanese name": "映画 すみっコぐらし とびだす絵本とひみつのコ",
+          "sales": 7388,
+          "seats": 52036,
+          "showtimes": 327,
+          "theaters": 151,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hick and Dragon Adventure to the Sacred Place",
+          "japanese name": "ヒックとドラゴン 聖地への冒険",
+          "sales": 6637,
+          "seats": 56626,
+          "showtimes": 467,
+          "theaters": 258,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Katsuben!",
+          "japanese name": "カツベン！",
+          "sales": 3645,
+          "seats": 29173,
+          "showtimes": 255,
+          "theaters": 237,
+          "rank": 14,
+          "last_week_ratio": 124.2
+        },
+        {
+          "moviename": "Settlement! Chushingura",
+          "japanese name": "決算！忠臣蔵",
+          "sales": 2735,
+          "seats": 15019,
+          "showtimes": 118,
+          "theaters": 149,
+          "rank": 15,
+          "last_week_ratio": 151
+        },
+        {
+          "moviename": "Movie Bunnys Hee-Haw UFO Fever!",
+          "japanese name": "映画 ひつじのショーン ＵＦＯフィーバー！",
+          "sales": 2575,
+          "seats": 19830,
+          "showtimes": 159,
+          "theaters": 125,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "In this world's (and more) corners",
+          "japanese name": "この世界の（さらにいくつもの）片隅に",
+          "sales": 2000,
+          "seats": 9498,
+          "showtimes": 76,
+          "theaters": 45,
+          "rank": 17,
+          "last_week_ratio": 259.4
+        },
+        {
+          "moviename": "\"Parasite: The Underground Family\" Special Advance Screening",
+          "japanese name": "「パラサイト 半地下の家族」特別先行公開",
+          "sales": 1658,
+          "seats": 2892,
+          "showtimes": 8,
+          "theaters": 2,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Our 7-Day War",
+          "japanese name": "ぼくらの７日間戦争",
+          "sales": 1280,
+          "seats": 15881,
+          "showtimes": 101,
+          "theaters": 163,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shawshank's Sky",
+          "japanese name": "ショーシャンクの空に",
+          "sales": 949,
+          "seats": 5073,
+          "showtimes": 41,
+          "theaters": 42,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "FOR REAL 2019 – The moments that won't return, the things left behind. –",
+          "japanese name": "ＦＯＲ ＲＥＡＬ ２０１９ －戻らない瞬間、残されるもの。－",
+          "sales": 911,
+          "seats": 3635,
+          "showtimes": 22,
+          "theaters": 12,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ted Bundy",
+          "japanese name": "テッド・バンディ",
+          "sales": 810,
+          "seats": 4158,
+          "showtimes": 27,
+          "theaters": 24,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Joker",
+          "japanese name": "ジョーカー",
+          "sales": 703,
+          "seats": 2165,
+          "showtimes": 15,
+          "theaters": 33,
+          "rank": 23,
+          "last_week_ratio": 230.5
+        },
+        {
+          "moviename": "Terminator: New Fate",
+          "japanese name": "ターミネーター ニュー・フェイト",
+          "sales": 644,
+          "seats": 1394,
+          "showtimes": 13,
+          "theaters": 26,
+          "rank": 24,
+          "last_week_ratio": 111.4
+        },
+        {
+          "moviename": "Children of the Sky",
+          "japanese name": "天気の子",
+          "sales": 529,
+          "seats": 2002,
+          "showtimes": 17,
+          "theaters": 44,
+          "rank": 25,
+          "last_week_ratio": 293.9
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": []
+    }
+  ]
+}

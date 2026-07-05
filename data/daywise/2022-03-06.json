@@ -1,0 +1,773 @@
+{
+  "date": "06-03-2022",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Movie Doraemon: Nobita's Space Wars 2021",
+          "japanese name": "映画ドラえもん のび太の宇宙小戦争 ２０２１",
+          "sales": 105033,
+          "seats": 318862,
+          "showtimes": 1362,
+          "theaters": 289,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Life expectancy of 10 years",
+          "japanese name": "余命１０年",
+          "sales": 27907,
+          "seats": 137296,
+          "showtimes": 748,
+          "theaters": 290,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 咒术回战0",
+          "japanese name": "劇場版 呪術廻戦０",
+          "sales": 18061,
+          "seats": 70995,
+          "showtimes": 520,
+          "theaters": 287,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "尼罗河杀人事件",
+          "japanese name": "ナイル殺人事件",
+          "sales": 9065,
+          "seats": 59138,
+          "showtimes": 454,
+          "theaters": 294,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "爱国女子－红武士道",
+          "japanese name": "愛国女子－紅武士道",
+          "sales": 7928,
+          "seats": 26352,
+          "showtimes": 166,
+          "theaters": 140,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Anisong Stars!! Road to Show!!",
+          "japanese name": "あんさんぶるスターズ！！ Ｒｏａｄ ｔｏ Ｓｈｏｗ！！",
+          "sales": 6897,
+          "seats": 37296,
+          "showtimes": 209,
+          "theaters": 99,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "West Side Story",
+          "japanese name": "ウエスト・サイド・ストーリー",
+          "sales": 5957,
+          "seats": 30294,
+          "showtimes": 227,
+          "theaters": 285,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Niushou Village",
+          "japanese name": "牛首村",
+          "sales": 5588,
+          "seats": 20608,
+          "showtimes": 181,
+          "theaters": 267,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Confidence Man JP Hero Edition",
+          "japanese name": "コンフィデンスマンＪＰ 英雄編",
+          "sales": 5492,
+          "seats": 22033,
+          "showtimes": 186,
+          "theaters": 280,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Uncharted",
+          "japanese name": "アンチャーテッド",
+          "sales": 4227,
+          "seats": 34972,
+          "showtimes": 291,
+          "theaters": 283,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Drive My Car",
+          "japanese name": "ドライブ・マイ・カー",
+          "sales": 2528,
+          "seats": 16038,
+          "showtimes": 134,
+          "theaters": 181,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Blue Sky You Lost",
+          "japanese name": "君が落とした青空",
+          "sales": 2411,
+          "seats": 13855,
+          "showtimes": 106,
+          "theaters": 131,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Spider-Man: No Way Home",
+          "japanese name": "スパイダーマン ノー・ウェイ・ホーム",
+          "sales": 2400,
+          "seats": 9469,
+          "showtimes": 65,
+          "theaters": 262,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dream Plan",
+          "japanese name": "ドリームプラン",
+          "sales": 2202,
+          "seats": 24203,
+          "showtimes": 220,
+          "theaters": 253,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Galaxy Heroes Legend: Die Neue These - Clash Chapter 1",
+          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 激突 第一章",
+          "sales": 2177,
+          "seats": 11008,
+          "showtimes": 68,
+          "theaters": 34,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Blue Thermal",
+          "japanese name": "ブルーサーマル",
+          "sales": 1933,
+          "seats": 33031,
+          "showtimes": 231,
+          "theaters": 120,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MANKAI MOVIE \"A3!\" AUTumn & Winter",
+          "japanese name": "ＭＡＮＫＡＩ ＭＯＶＩＥ「Ａ３！」ＡＵＴＵＭＮ＆ＷＩＮＴＥＲ",
+          "sales": 1583,
+          "seats": 26379,
+          "showtimes": 196,
+          "theaters": 146,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fruit Basket – Prelude –",
+          "japanese name": "フルーツバスケット －ｐｒｅｌｕｄｅ－",
+          "sales": 1449,
+          "seats": 7856,
+          "showtimes": 47,
+          "theaters": 45,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Coder Ainouta",
+          "japanese name": "コーダ あいのうた",
+          "sales": 1388,
+          "seats": 6835,
+          "showtimes": 51,
+          "theaters": 98,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Goya's Famous Painting and the Gentle Thief",
+          "japanese name": "ゴヤの名画と優しい泥棒",
+          "sales": 1127,
+          "seats": 5793,
+          "showtimes": 44,
+          "theaters": 43,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The King of Deer Yuna and the Journey of Promise",
+          "japanese name": "鹿の王 ユナと約束の旅",
+          "sales": 1097,
+          "seats": 14314,
+          "showtimes": 136,
+          "theaters": 249,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "99.9 Criminal Specialist Attorney THE MOVIE",
+          "japanese name": "９９．９ 刑事専門弁護士 ＴＨＥ ＭＯＶＩＥ",
+          "sales": 1085,
+          "seats": 5041,
+          "showtimes": 44,
+          "theaters": 110,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Syrano",
+          "japanese name": "シラノ",
+          "sales": 865,
+          "seats": 13397,
+          "showtimes": 118,
+          "theaters": 150,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The aftermath of the giant monster",
+          "japanese name": "大怪獣のあとしまつ",
+          "sales": 855,
+          "seats": 9210,
+          "showtimes": 88,
+          "theaters": 263,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Goodbye, Don Gries!",
+          "japanese name": "グッバイ、ドン・グリーズ！",
+          "sales": 800,
+          "seats": 11188,
+          "showtimes": 88,
+          "theaters": 172,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Movie Doraemon: Nobita's Space Wars 2021",
+          "japanese name": "映画ドラえもん のび太の宇宙小戦争 ２０２１",
+          "sales": 134898,
+          "seats": 502366,
+          "showtimes": 1991,
+          "theaters": 289,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Life expectancy of 10 years",
+          "japanese name": "余命１０年",
+          "sales": 57896,
+          "seats": 261803,
+          "showtimes": 1401,
+          "theaters": 290,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 咒术回战0",
+          "japanese name": "劇場版 呪術廻戦０",
+          "sales": 31397,
+          "seats": 127316,
+          "showtimes": 926,
+          "theaters": 287,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "尼罗河杀人事件",
+          "japanese name": "ナイル殺人事件",
+          "sales": 15863,
+          "seats": 105890,
+          "showtimes": 775,
+          "theaters": 294,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "爱国女子－红武士道",
+          "japanese name": "愛国女子－紅武士道",
+          "sales": 13366,
+          "seats": 46782,
+          "showtimes": 283,
+          "theaters": 140,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Niushou Village",
+          "japanese name": "牛首村",
+          "sales": 12402,
+          "seats": 45724,
+          "showtimes": 405,
+          "theaters": 267,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Confidence Man JP Hero Edition",
+          "japanese name": "コンフィデンスマンＪＰ 英雄編",
+          "sales": 11477,
+          "seats": 46803,
+          "showtimes": 389,
+          "theaters": 280,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Anisong Stars!! Road to Show!!",
+          "japanese name": "あんさんぶるスターズ！！ Ｒｏａｄ ｔｏ Ｓｈｏｗ！！",
+          "sales": 11220,
+          "seats": 65557,
+          "showtimes": 374,
+          "theaters": 99,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "West Side Story",
+          "japanese name": "ウエスト・サイド・ストーリー",
+          "sales": 10081,
+          "seats": 52232,
+          "showtimes": 390,
+          "theaters": 285,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Uncharted",
+          "japanese name": "アンチャーテッド",
+          "sales": 8543,
+          "seats": 68887,
+          "showtimes": 556,
+          "theaters": 283,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Spider-Man: No Way Home",
+          "japanese name": "スパイダーマン ノー・ウェイ・ホーム",
+          "sales": 6056,
+          "seats": 26360,
+          "showtimes": 198,
+          "theaters": 259,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Blue Sky You Lost",
+          "japanese name": "君が落とした青空",
+          "sales": 4329,
+          "seats": 26542,
+          "showtimes": 202,
+          "theaters": 131,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Drive My Car",
+          "japanese name": "ドライブ・マイ・カー",
+          "sales": 3764,
+          "seats": 24621,
+          "showtimes": 201,
+          "theaters": 181,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dream Plan",
+          "japanese name": "ドリームプラン",
+          "sales": 3620,
+          "seats": 43258,
+          "showtimes": 396,
+          "theaters": 253,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Galaxy Heroes Legend: Die Neue These - Clash Chapter 1",
+          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 激突 第一章",
+          "sales": 2974,
+          "seats": 18575,
+          "showtimes": 118,
+          "theaters": 34,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Blue Thermal",
+          "japanese name": "ブルーサーマル",
+          "sales": 2832,
+          "seats": 58283,
+          "showtimes": 402,
+          "theaters": 120,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fruit Basket – Prelude –",
+          "japanese name": "フルーツバスケット －ｐｒｅｌｕｄｅ－",
+          "sales": 2705,
+          "seats": 16212,
+          "showtimes": 96,
+          "theaters": 45,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MANKAI MOVIE \"A3!\" AUTumn & Winter",
+          "japanese name": "ＭＡＮＫＡＩ ＭＯＶＩＥ「Ａ３！」ＡＵＴＵＭＮ＆ＷＩＮＴＥＲ",
+          "sales": 2552,
+          "seats": 50600,
+          "showtimes": 373,
+          "theaters": 146,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "99.9 Criminal Specialist Attorney THE MOVIE",
+          "japanese name": "９９．９ 刑事専門弁護士 ＴＨＥ ＭＯＶＩＥ",
+          "sales": 2147,
+          "seats": 11853,
+          "showtimes": 97,
+          "theaters": 110,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Coder Ainouta",
+          "japanese name": "コーダ あいのうた",
+          "sales": 2042,
+          "seats": 12459,
+          "showtimes": 94,
+          "theaters": 98,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The King of Deer Yuna and the Journey of Promise",
+          "japanese name": "鹿の王 ユナと約束の旅",
+          "sales": 1636,
+          "seats": 21939,
+          "showtimes": 210,
+          "theaters": 249,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Goya's Famous Painting and the Gentle Thief",
+          "japanese name": "ゴヤの名画と優しい泥棒",
+          "sales": 1580,
+          "seats": 8709,
+          "showtimes": 67,
+          "theaters": 43,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The aftermath of the giant monster",
+          "japanese name": "大怪獣のあとしまつ",
+          "sales": 1565,
+          "seats": 21088,
+          "showtimes": 188,
+          "theaters": 263,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Syrano",
+          "japanese name": "シラノ",
+          "sales": 1406,
+          "seats": 22798,
+          "showtimes": 202,
+          "theaters": 150,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Goodbye, Don Gries!",
+          "japanese name": "グッバイ、ドン・グリーズ！",
+          "sales": 1366,
+          "seats": 21562,
+          "showtimes": 161,
+          "theaters": 172,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Movie Doraemon: Nobita's Space Wars 2021",
+          "japanese name": "映画ドラえもん のび太の宇宙小戦争 ２０２１",
+          "sales": 107622,
+          "seats": 558283,
+          "showtimes": 2169,
+          "theaters": 289,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Life expectancy of 10 years",
+          "japanese name": "余命１０年",
+          "sales": 59140,
+          "seats": 328009,
+          "showtimes": 1714,
+          "theaters": 290,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 咒术回战0",
+          "japanese name": "劇場版 呪術廻戦０",
+          "sales": 30600,
+          "seats": 161928,
+          "showtimes": 1130,
+          "theaters": 289,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "尼罗河杀人事件",
+          "japanese name": "ナイル殺人事件",
+          "sales": 19173,
+          "seats": 144500,
+          "showtimes": 1044,
+          "theaters": 294,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Anisong Stars!! Road to Show!!",
+          "japanese name": "あんさんぶるスターズ！！ Ｒｏａｄ ｔｏ Ｓｈｏｗ！！",
+          "sales": 18497,
+          "seats": 84745,
+          "showtimes": 471,
+          "theaters": 99,
+          "rank": 5,
+          "last_week_ratio": 524
+        },
+        {
+          "moviename": "爱国女子－红武士道",
+          "japanese name": "愛国女子－紅武士道",
+          "sales": 12200,
+          "seats": 48652,
+          "showtimes": 291,
+          "theaters": 140,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Niushou Village",
+          "japanese name": "牛首村",
+          "sales": 11544,
+          "seats": 66243,
+          "showtimes": 572,
+          "theaters": 267,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Confidence Man JP Hero Edition",
+          "japanese name": "コンフィデンスマンＪＰ 英雄編",
+          "sales": 10622,
+          "seats": 57087,
+          "showtimes": 484,
+          "theaters": 280,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Uncharted",
+          "japanese name": "アンチャーテッド",
+          "sales": 9865,
+          "seats": 96708,
+          "showtimes": 765,
+          "theaters": 283,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "West Side Story",
+          "japanese name": "ウエスト・サイド・ストーリー",
+          "sales": 9377,
+          "seats": 58643,
+          "showtimes": 448,
+          "theaters": 285,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MANKAI MOVIE \"A3!\" AUTumn & Winter",
+          "japanese name": "ＭＡＮＫＡＩ ＭＯＶＩＥ「Ａ３！」ＡＵＴＵＭＮ＆ＷＩＮＴＥＲ",
+          "sales": 9200,
+          "seats": 63041,
+          "showtimes": 437,
+          "theaters": 147,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Spider-Man: No Way Home",
+          "japanese name": "スパイダーマン ノー・ウェイ・ホーム",
+          "sales": 6275,
+          "seats": 38605,
+          "showtimes": 293,
+          "theaters": 263,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Galaxy Heroes Legend: Die Neue These - Clash Chapter 1",
+          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 激突 第一章",
+          "sales": 5138,
+          "seats": 23762,
+          "showtimes": 146,
+          "theaters": 34,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dream Plan",
+          "japanese name": "ドリームプラン",
+          "sales": 4133,
+          "seats": 58157,
+          "showtimes": 523,
+          "theaters": 253,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Blue Thermal",
+          "japanese name": "ブルーサーマル",
+          "sales": 4001,
+          "seats": 74892,
+          "showtimes": 512,
+          "theaters": 120,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Blue Sky You Lost",
+          "japanese name": "君が落とした青空",
+          "sales": 3834,
+          "seats": 27547,
+          "showtimes": 204,
+          "theaters": 131,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Drive My Car",
+          "japanese name": "ドライブ・マイ・カー",
+          "sales": 3597,
+          "seats": 26626,
+          "showtimes": 214,
+          "theaters": 181,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fruit Basket – Prelude –",
+          "japanese name": "フルーツバスケット －ｐｒｅｌｕｄｅ－",
+          "sales": 3468,
+          "seats": 20084,
+          "showtimes": 117,
+          "theaters": 45,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "99.9 Criminal Specialist Attorney THE MOVIE",
+          "japanese name": "９９．９ 刑事専門弁護士 ＴＨＥ ＭＯＶＩＥ",
+          "sales": 2089,
+          "seats": 13492,
+          "showtimes": 113,
+          "theaters": 112,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Coder Ainouta",
+          "japanese name": "コーダ あいのうた",
+          "sales": 2005,
+          "seats": 12640,
+          "showtimes": 101,
+          "theaters": 96,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Syrano",
+          "japanese name": "シラノ",
+          "sales": 1772,
+          "seats": 29091,
+          "showtimes": 258,
+          "theaters": 150,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The aftermath of the giant monster",
+          "japanese name": "大怪獣のあとしまつ",
+          "sales": 1755,
+          "seats": 31852,
+          "showtimes": 270,
+          "theaters": 263,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Liar",
+          "japanese name": "嘘喰い",
+          "sales": 1747,
+          "seats": 25152,
+          "showtimes": 222,
+          "theaters": 223,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Goya's Famous Painting and the Gentle Thief",
+          "japanese name": "ゴヤの名画と優しい泥棒",
+          "sales": 1734,
+          "seats": 9213,
+          "showtimes": 70,
+          "theaters": 43,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ryoma! The Prince of Tennis New Stage Theater Version",
+          "japanese name": "リョーマ！Ｔｈｅ Ｐｒｉｎｃｅ ｏｆ Ｔｅｎｎｉｓ 新生劇場版テニスの王子様",
+          "sales": 1622,
+          "seats": 6376,
+          "showtimes": 49,
+          "theaters": 49,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

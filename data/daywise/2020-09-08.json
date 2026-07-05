@@ -1,0 +1,773 @@
+{
+  "date": "08-09-2020",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Thread",
+          "japanese name": "糸",
+          "sales": 4977,
+          "seats": 49927,
+          "showtimes": 531,
+          "theaters": 275,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Accident property scary layout",
+          "japanese name": "事故物件 恐い間取り",
+          "sales": 3887,
+          "seats": 82550,
+          "showtimes": 569,
+          "theaters": 272,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Confidence Man JP Princess Edition",
+          "japanese name": "コンフィデンスマンＪＰ プリンセス編",
+          "sales": 2327,
+          "seats": 17319,
+          "showtimes": 263,
+          "theaters": 274,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Our Lies and Truths Documentary of Hinatazaka46",
+          "japanese name": "僕たちの嘘と真実 Ｄｏｃｕｍｅｎｔａｒｙ ｏｆ 欅坂４６",
+          "sales": 2323,
+          "seats": 23069,
+          "showtimes": 166,
+          "theaters": 86,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fate/stay night Heaven's Feel Chapter 3",
+          "japanese name": "Ｆａｔｅ／ｓｔａｙ ｎｉｇｈｔ Ｈｅａｖｅｎｓ Ｆｅｅｌ 第三章",
+          "sales": 1849,
+          "seats": 19516,
+          "showtimes": 250,
+          "theaters": 155,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Starting today, I will!!剧场版",
+          "japanese name": "今日から俺は！！劇場版",
+          "sales": 1516,
+          "seats": 28606,
+          "showtimes": 366,
+          "theaters": 275,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Blue, Painful, and Fragile",
+          "japanese name": "青くて痛くて脆い",
+          "sales": 1399,
+          "seats": 19017,
+          "showtimes": 325,
+          "theaters": 217,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "1/2 Magic",
+          "japanese name": "２分の１の魔法",
+          "sales": 1353,
+          "seats": 33993,
+          "showtimes": 508,
+          "theaters": 282,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Doraemon 2020 Nobita's New Dinosaur",
+          "japanese name": "映画ドラえもん ２０２０ のび太の新恐竜",
+          "sales": 1181,
+          "seats": 51906,
+          "showtimes": 574,
+          "theaters": 277,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pavarotti Tenor of the Sun",
+          "japanese name": "パヴァロッティ 太陽のテノール",
+          "sales": 1024,
+          "seats": 6539,
+          "showtimes": 72,
+          "theaters": 39,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "\"Working cells!!\" The strongest enemy, again. The inside of the body is in a big uproar!",
+          "japanese name": "「はたらく細胞！！」最強の敵、再び。体の中は’腸”大騒ぎ！",
+          "sales": 877,
+          "seats": 22842,
+          "showtimes": 175,
+          "theaters": 81,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Interstellar",
+          "japanese name": "インターステラー",
+          "sales": 834,
+          "seats": 4235,
+          "showtimes": 27,
+          "theaters": 34,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The brightest roof in the universe",
+          "japanese name": "宇宙でいちばんあかるい屋根",
+          "sales": 723,
+          "seats": 14285,
+          "showtimes": 203,
+          "theaters": 114,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Thought, thought, feigned, feigned",
+          "japanese name": "思い、思われ、ふり、ふられ",
+          "sales": 667,
+          "seats": 10978,
+          "showtimes": 188,
+          "theaters": 245,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Weakling Pedal (Live-action version)",
+          "japanese name": "弱虫ペダル（実写版）",
+          "sales": 636,
+          "seats": 9390,
+          "showtimes": 166,
+          "theaters": 274,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Reframe THEATER EXPERIENCE with you",
+          "japanese name": "Ｒｅｆｒａｍｅ ＴＨＥＡＴＥＲ ＥＸＰＥＲＩＥＮＣＥ ｗｉｔｈ ｙｏｕ",
+          "sales": 621,
+          "seats": 11418,
+          "showtimes": 114,
+          "theaters": 59,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Thomas and Friends: Chaot! Singing and Discovering!",
+          "japanese name": "映画 きかんしゃトーマス チャオ！とんでうたってディスカバリー！！",
+          "sales": 481,
+          "seats": 29631,
+          "showtimes": 368,
+          "theaters": 122,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Given",
+          "japanese name": "映画 ギヴン",
+          "sales": 265,
+          "seats": 2914,
+          "showtimes": 30,
+          "theaters": 23,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Small Town",
+          "japanese name": "人数の町",
+          "sales": 257,
+          "seats": 5559,
+          "showtimes": 64,
+          "theaters": 42,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sunny Hills 46 Documentary Film 3rd Year Debut",
+          "japanese name": "日向坂４６ドキュメンタリー映画 ３年目のデビュー",
+          "sales": 193,
+          "seats": 920,
+          "showtimes": 13,
+          "theaters": 49,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Encounter with a miracle. - Embracing the heart. 3 -",
+          "japanese name": "奇跡との出会い。－心に寄り添う。３－",
+          "sales": 117,
+          "seats": 3140,
+          "showtimes": 30,
+          "theaters": 27,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Official Secret",
+          "japanese name": "オフィシャル・シークレット",
+          "sales": 114,
+          "seats": 720,
+          "showtimes": 11,
+          "theaters": 13,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fanatic Hollywood's obsessed lover",
+          "japanese name": "ファナティック ハリウッドの狂愛者",
+          "sales": 99,
+          "seats": 2187,
+          "showtimes": 35,
+          "theaters": 34,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Granelle",
+          "japanese name": "ぐらんぶる",
+          "sales": 78,
+          "seats": 1366,
+          "showtimes": 22,
+          "theaters": 133,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Miyuki Nakajima \"YoruKaikou Koujou VOL.2\" Theatrical Version",
+          "japanese name": "中島みゆき 「夜会工場ＶＯＬ．２」 劇場版",
+          "sales": 77,
+          "seats": 778,
+          "showtimes": 13,
+          "theaters": 15,
+          "rank": 25,
+          "last_week_ratio": 1540
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Accident property scary layout",
+          "japanese name": "事故物件 恐い間取り",
+          "sales": 10369,
+          "seats": 161259,
+          "showtimes": 1123,
+          "theaters": 272,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Thread",
+          "japanese name": "糸",
+          "sales": 10105,
+          "seats": 93954,
+          "showtimes": 994,
+          "theaters": 275,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Our Lies and Truths Documentary of Hinatazaka46",
+          "japanese name": "僕たちの嘘と真実 Ｄｏｃｕｍｅｎｔａｒｙ ｏｆ 欅坂４６",
+          "sales": 4911,
+          "seats": 45252,
+          "showtimes": 325,
+          "theaters": 86,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Confidence Man JP Princess Edition",
+          "japanese name": "コンフィデンスマンＪＰ プリンセス編",
+          "sales": 4675,
+          "seats": 36504,
+          "showtimes": 547,
+          "theaters": 274,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fate/stay night Heaven's Feel Chapter 3",
+          "japanese name": "Ｆａｔｅ／ｓｔａｙ ｎｉｇｈｔ Ｈｅａｖｅｎｓ Ｆｅｅｌ 第三章",
+          "sales": 3725,
+          "seats": 38416,
+          "showtimes": 504,
+          "theaters": 155,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Blue, Painful, and Fragile",
+          "japanese name": "青くて痛くて脆い",
+          "sales": 3619,
+          "seats": 37586,
+          "showtimes": 635,
+          "theaters": 217,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Starting today, I will!!剧场版",
+          "japanese name": "今日から俺は！！劇場版",
+          "sales": 3303,
+          "seats": 57838,
+          "showtimes": 733,
+          "theaters": 275,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "1/2 Magic",
+          "japanese name": "２分の１の魔法",
+          "sales": 2684,
+          "seats": 57920,
+          "showtimes": 865,
+          "theaters": 282,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Thought, thought, feigned, feigned",
+          "japanese name": "思い、思われ、ふり、ふられ",
+          "sales": 2403,
+          "seats": 26028,
+          "showtimes": 437,
+          "theaters": 245,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Doraemon 2020 Nobita's New Dinosaur",
+          "japanese name": "映画ドラえもん ２０２０ のび太の新恐竜",
+          "sales": 2124,
+          "seats": 81084,
+          "showtimes": 901,
+          "theaters": 277,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "\"Working cells!!\" The strongest enemy, again. The inside of the body is in a big uproar!",
+          "japanese name": "「はたらく細胞！！」最強の敵、再び。体の中は’腸”大騒ぎ！",
+          "sales": 1515,
+          "seats": 42340,
+          "showtimes": 327,
+          "theaters": 81,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pavarotti Tenor of the Sun",
+          "japanese name": "パヴァロッティ 太陽のテノール",
+          "sales": 1385,
+          "seats": 11222,
+          "showtimes": 126,
+          "theaters": 39,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Weakling Pedal (Live-action version)",
+          "japanese name": "弱虫ペダル（実写版）",
+          "sales": 1285,
+          "seats": 24483,
+          "showtimes": 393,
+          "theaters": 274,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Interstellar",
+          "japanese name": "インターステラー",
+          "sales": 1207,
+          "seats": 6048,
+          "showtimes": 40,
+          "theaters": 34,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Reframe THEATER EXPERIENCE with you",
+          "japanese name": "Ｒｅｆｒａｍｅ ＴＨＥＡＴＥＲ ＥＸＰＥＲＩＥＮＣＥ ｗｉｔｈ ｙｏｕ",
+          "sales": 1170,
+          "seats": 20817,
+          "showtimes": 211,
+          "theaters": 59,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The brightest roof in the universe",
+          "japanese name": "宇宙でいちばんあかるい屋根",
+          "sales": 999,
+          "seats": 25926,
+          "showtimes": 365,
+          "theaters": 114,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Thomas and Friends: Chaot! Singing and Discovering!",
+          "japanese name": "映画 きかんしゃトーマス チャオ！とんでうたってディスカバリー！！",
+          "sales": 642,
+          "seats": 39782,
+          "showtimes": 497,
+          "theaters": 122,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Given",
+          "japanese name": "映画 ギヴン",
+          "sales": 636,
+          "seats": 5005,
+          "showtimes": 56,
+          "theaters": 23,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sunny Hills 46 Documentary Film 3rd Year Debut",
+          "japanese name": "日向坂４６ドキュメンタリー映画 ３年目のデビュー",
+          "sales": 504,
+          "seats": 3704,
+          "showtimes": 49,
+          "theaters": 49,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Small Town",
+          "japanese name": "人数の町",
+          "sales": 391,
+          "seats": 9939,
+          "showtimes": 115,
+          "theaters": 42,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Granelle",
+          "japanese name": "ぐらんぶる",
+          "sales": 345,
+          "seats": 5188,
+          "showtimes": 80,
+          "theaters": 133,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Official Secret",
+          "japanese name": "オフィシャル・シークレット",
+          "sales": 281,
+          "seats": 1539,
+          "showtimes": 25,
+          "theaters": 13,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Inception",
+          "japanese name": "インセプション",
+          "sales": 182,
+          "seats": 3431,
+          "showtimes": 30,
+          "theaters": 31,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fanatic Hollywood's obsessed lover",
+          "japanese name": "ファナティック ハリウッドの狂愛者",
+          "sales": 159,
+          "seats": 4162,
+          "showtimes": 65,
+          "theaters": 34,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Encounter with a miracle. - Embracing the heart. 3 -",
+          "japanese name": "奇跡との出会い。－心に寄り添う。３－",
+          "sales": 143,
+          "seats": 4110,
+          "showtimes": 41,
+          "theaters": 27,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Accident property scary layout",
+          "japanese name": "事故物件 恐い間取り",
+          "sales": 19601,
+          "seats": 203983,
+          "showtimes": 1396,
+          "theaters": 284,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Thread",
+          "japanese name": "糸",
+          "sales": 13787,
+          "seats": 112925,
+          "showtimes": 1181,
+          "theaters": 284,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Our Lies and Truths Documentary of Hinatazaka46",
+          "japanese name": "僕たちの嘘と真実 Ｄｏｃｕｍｅｎｔａｒｙ ｏｆ 欅坂４６",
+          "sales": 6818,
+          "seats": 53550,
+          "showtimes": 375,
+          "theaters": 84,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Confidence Man JP Princess Edition",
+          "japanese name": "コンフィデンスマンＪＰ プリンセス編",
+          "sales": 6720,
+          "seats": 51386,
+          "showtimes": 737,
+          "theaters": 283,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fate/stay night Heaven's Feel Chapter 3",
+          "japanese name": "Ｆａｔｅ／ｓｔａｙ ｎｉｇｈｔ Ｈｅａｖｅｎｓ Ｆｅｅｌ 第三章",
+          "sales": 5784,
+          "seats": 52631,
+          "showtimes": 662,
+          "theaters": 163,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Starting today, I will!!剧场版",
+          "japanese name": "今日から俺は！！劇場版",
+          "sales": 5486,
+          "seats": 70425,
+          "showtimes": 896,
+          "theaters": 284,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Blue, Painful, and Fragile",
+          "japanese name": "青くて痛くて脆い",
+          "sales": 4966,
+          "seats": 46752,
+          "showtimes": 804,
+          "theaters": 228,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Doraemon 2020 Nobita's New Dinosaur",
+          "japanese name": "映画ドラえもん ２０２０ のび太の新恐竜",
+          "sales": 4162,
+          "seats": 78016,
+          "showtimes": 875,
+          "theaters": 285,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "1/2 Magic",
+          "japanese name": "２分の１の魔法",
+          "sales": 3763,
+          "seats": 64146,
+          "showtimes": 953,
+          "theaters": 292,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Thought, thought, feigned, feigned",
+          "japanese name": "思い、思われ、ふり、ふられ",
+          "sales": 3513,
+          "seats": 32127,
+          "showtimes": 527,
+          "theaters": 255,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "\"Working cells!!\" The strongest enemy, again. The inside of the body is in a big uproar!",
+          "japanese name": "「はたらく細胞！！」最強の敵、再び。体の中は’腸”大騒ぎ！",
+          "sales": 2507,
+          "seats": 56630,
+          "showtimes": 427,
+          "theaters": 86,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Weakling Pedal (Live-action version)",
+          "japanese name": "弱虫ペダル（実写版）",
+          "sales": 1972,
+          "seats": 34222,
+          "showtimes": 517,
+          "theaters": 286,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Interstellar",
+          "japanese name": "インターステラー",
+          "sales": 1732,
+          "seats": 9771,
+          "showtimes": 65,
+          "theaters": 33,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The brightest roof in the universe",
+          "japanese name": "宇宙でいちばんあかるい屋根",
+          "sales": 1489,
+          "seats": 32479,
+          "showtimes": 441,
+          "theaters": 117,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Reframe THEATER EXPERIENCE with you",
+          "japanese name": "Ｒｅｆｒａｍｅ ＴＨＥＡＴＥＲ ＥＸＰＥＲＩＥＮＣＥ ｗｉｔｈ ｙｏｕ",
+          "sales": 1375,
+          "seats": 25498,
+          "showtimes": 252,
+          "theaters": 58,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pavarotti Tenor of the Sun",
+          "japanese name": "パヴァロッティ 太陽のテノール",
+          "sales": 1328,
+          "seats": 12816,
+          "showtimes": 153,
+          "theaters": 41,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Given",
+          "japanese name": "映画 ギヴン",
+          "sales": 1106,
+          "seats": 7353,
+          "showtimes": 78,
+          "theaters": 27,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Thomas and Friends: Chaot! Singing and Discovering!",
+          "japanese name": "映画 きかんしゃトーマス チャオ！とんでうたってディスカバリー！！",
+          "sales": 909,
+          "seats": 39132,
+          "showtimes": 491,
+          "theaters": 124,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Granelle",
+          "japanese name": "ぐらんぶる",
+          "sales": 729,
+          "seats": 9533,
+          "showtimes": 141,
+          "theaters": 151,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "mid90s Mid-Nineties",
+          "japanese name": "ｍｉｄ９０ｓ ミッドナインティーズ",
+          "sales": 705,
+          "seats": 4523,
+          "showtimes": 50,
+          "theaters": 13,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sunny Hills 46 Documentary Film 3rd Year Debut",
+          "japanese name": "日向坂４６ドキュメンタリー映画 ３年目のデビュー",
+          "sales": 561,
+          "seats": 4942,
+          "showtimes": 61,
+          "theaters": 46,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Small Town",
+          "japanese name": "人数の町",
+          "sales": 488,
+          "seats": 11158,
+          "showtimes": 130,
+          "theaters": 39,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Official Secret",
+          "japanese name": "オフィシャル・シークレット",
+          "sales": 369,
+          "seats": 2463,
+          "showtimes": 41,
+          "theaters": 16,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BookSmart Party Debut Before Graduation",
+          "japanese name": "ブックスマート 卒業前夜のパーティーデビュー",
+          "sales": 346,
+          "seats": 4138,
+          "showtimes": 63,
+          "theaters": 24,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fanatic Hollywood's obsessed lover",
+          "japanese name": "ファナティック ハリウッドの狂愛者",
+          "sales": 293,
+          "seats": 6935,
+          "showtimes": 107,
+          "theaters": 41,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

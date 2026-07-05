@@ -1,0 +1,773 @@
+{
+  "date": "01-10-2020",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "TENET",
+          "japanese name": "ＴＥＮＥＴ テネット",
+          "sales": 11772,
+          "seats": 97707,
+          "showtimes": 880,
+          "theaters": 295,
+          "rank": 1,
+          "last_week_ratio": 101.7
+        },
+        {
+          "moviename": "MIDNIGHT SWAN",
+          "japanese name": "ミッドナイトスワン",
+          "sales": 8527,
+          "seats": 35573,
+          "showtimes": 250,
+          "theaters": 133,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 Violet Evergarden",
+          "japanese name": "劇場版 ヴァイオレット・エヴァーガーデン",
+          "sales": 6493,
+          "seats": 49868,
+          "showtimes": 334,
+          "theaters": 143,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Thread",
+          "japanese name": "糸",
+          "sales": 3605,
+          "seats": 25968,
+          "showtimes": 362,
+          "theaters": 289,
+          "rank": 4,
+          "last_week_ratio": 100
+        },
+        {
+          "moviename": "Movie Crayon Shin-chan: Clash! Land of Gakking and Almost Four Heroes",
+          "japanese name": "映画クレヨンしんちゃん 激突！ラクガキングダムとほぼ四人の勇者",
+          "sales": 3540,
+          "seats": 69925,
+          "showtimes": 730,
+          "theaters": 288,
+          "rank": 5,
+          "last_week_ratio": 233.2
+        },
+        {
+          "moviename": "Rats are dreaming of cheese",
+          "japanese name": "窮鼠はチーズの夢を見る",
+          "sales": 3439,
+          "seats": 13845,
+          "showtimes": 198,
+          "theaters": 185,
+          "rank": 6,
+          "last_week_ratio": 123.2
+        },
+        {
+          "moviename": "Don't touch the image research!",
+          "japanese name": "映像研には手を出すな！",
+          "sales": 2409,
+          "seats": 42055,
+          "showtimes": 318,
+          "theaters": 141,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Adams Family",
+          "japanese name": "アダムス・ファミリー",
+          "sales": 2360,
+          "seats": 34449,
+          "showtimes": 393,
+          "theaters": 157,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Confidence Man JP Princess Edition",
+          "japanese name": "コンフィデンスマンＪＰ プリンセス編",
+          "sales": 2118,
+          "seats": 5470,
+          "showtimes": 84,
+          "theaters": 232,
+          "rank": 9,
+          "last_week_ratio": 210.5
+        },
+        {
+          "moviename": "Accident property, scary layout",
+          "japanese name": "事故物件 恐い間取り",
+          "sales": 1927,
+          "seats": 32793,
+          "showtimes": 365,
+          "theaters": 289,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Doraemon 2020 Nobita's New Dinosaur",
+          "japanese name": "映画ドラえもん ２０２０ のび太の新恐竜",
+          "sales": 1879,
+          "seats": 23010,
+          "showtimes": 289,
+          "theaters": 214,
+          "rank": 11,
+          "last_week_ratio": 243.4
+        },
+        {
+          "moviename": "Midway",
+          "japanese name": "ミッドウェイ",
+          "sales": 1473,
+          "seats": 15201,
+          "showtimes": 234,
+          "theaters": 227,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BREAK THE SILENCE: THE MOVIE",
+          "japanese name": "ＢＲＥＡＫ ＴＨＥ ＳＩＬＥＮＣＥ ： ＴＨＥ ＭＯＶＩＥ",
+          "sales": 1069,
+          "seats": 10061,
+          "showtimes": 122,
+          "theaters": 229,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Half a Magic",
+          "japanese name": "２分の１の魔法",
+          "sales": 1048,
+          "seats": 10483,
+          "showtimes": 166,
+          "theaters": 228,
+          "rank": 14,
+          "last_week_ratio": 181.3
+        },
+        {
+          "moviename": "Fate/stay night Heaven's Feel Chapter 3",
+          "japanese name": "Ｆａｔｅ／ｓｔａｙ ｎｉｇｈｔ Ｈｅａｖｅｎｓ Ｆｅｅｌ 第三章",
+          "sales": 875,
+          "seats": 6714,
+          "showtimes": 92,
+          "theaters": 161,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Starting today, I will!!剧场版",
+          "japanese name": "今日から俺は！！劇場版",
+          "sales": 773,
+          "seats": 8293,
+          "showtimes": 125,
+          "theaters": 258,
+          "rank": 16,
+          "last_week_ratio": 116.8
+        },
+        {
+          "moviename": "Thought, Being Thought, Pretending, Being Pretended (Anime Version)",
+          "japanese name": "思い、思われ、ふり、ふられ（アニメ版）",
+          "sales": 543,
+          "seats": 13457,
+          "showtimes": 232,
+          "theaters": 196,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Comedy Love Story",
+          "japanese name": "喜劇 愛妻物語",
+          "sales": 461,
+          "seats": 3472,
+          "showtimes": 63,
+          "theaters": 73,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Our Lies and Truths - Documentary of Hinatazaka46",
+          "japanese name": "僕たちの嘘と真実 Ｄｏｃｕｍｅｎｔａｒｙ ｏｆ 欅坂４６",
+          "sales": 454,
+          "seats": 2422,
+          "showtimes": 32,
+          "theaters": 85,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wolf's Call",
+          "japanese name": "ウルフズ・コール",
+          "sales": 414,
+          "seats": 2887,
+          "showtimes": 27,
+          "theaters": 20,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Given",
+          "japanese name": "映画 ギヴン",
+          "sales": 387,
+          "seats": 6537,
+          "showtimes": 64,
+          "theaters": 64,
+          "rank": 21,
+          "last_week_ratio": 207
+        },
+        {
+          "moviename": "「Working cells!!」The strongest enemy, again. The inside of the body is in a big uproar!",
+          "japanese name": "「はたらく細胞！！」最強の敵、再び。体の中は’腸”大騒ぎ！",
+          "sales": 385,
+          "seats": 2873,
+          "showtimes": 40,
+          "theaters": 87,
+          "rank": 22,
+          "last_week_ratio": 108.5
+        },
+        {
+          "moviename": "Image book",
+          "japanese name": "イメージの本",
+          "sales": 318,
+          "seats": 2026,
+          "showtimes": 28,
+          "theaters": 15,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pavarotti, the tenor of the sun",
+          "japanese name": "パヴァロッティ 太陽のテノール",
+          "sales": 310,
+          "seats": 1594,
+          "showtimes": 22,
+          "theaters": 26,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sweet wine for gargling",
+          "japanese name": "甘いお酒でうがい",
+          "sales": 276,
+          "seats": 3065,
+          "showtimes": 45,
+          "theaters": 39,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "TENET",
+          "japanese name": "ＴＥＮＥＴ テネット",
+          "sales": 22482,
+          "seats": 177532,
+          "showtimes": 1622,
+          "theaters": 295,
+          "rank": 1,
+          "last_week_ratio": 105.2
+        },
+        {
+          "moviename": "MIDNIGHT SWAN",
+          "japanese name": "ミッドナイトスワン",
+          "sales": 13901,
+          "seats": 67060,
+          "showtimes": 479,
+          "theaters": 133,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 Violet Evergarden",
+          "japanese name": "劇場版 ヴァイオレット・エヴァーガーデン",
+          "sales": 13834,
+          "seats": 94306,
+          "showtimes": 656,
+          "theaters": 143,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rats are dreaming of cheese",
+          "japanese name": "窮鼠はチーズの夢を見る",
+          "sales": 7065,
+          "seats": 26896,
+          "showtimes": 386,
+          "theaters": 185,
+          "rank": 4,
+          "last_week_ratio": 117.4
+        },
+        {
+          "moviename": "Thread",
+          "japanese name": "糸",
+          "sales": 6337,
+          "seats": 44522,
+          "showtimes": 629,
+          "theaters": 289,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Crayon Shin-chan: Clash! Land of Gakking and Almost Four Heroes",
+          "japanese name": "映画クレヨンしんちゃん 激突！ラクガキングダムとほぼ四人の勇者",
+          "sales": 5073,
+          "seats": 104921,
+          "showtimes": 1103,
+          "theaters": 288,
+          "rank": 6,
+          "last_week_ratio": 166.4
+        },
+        {
+          "moviename": "Don't touch the image research!",
+          "japanese name": "映像研には手を出すな！",
+          "sales": 4852,
+          "seats": 78996,
+          "showtimes": 590,
+          "theaters": 141,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Accident property, scary layout",
+          "japanese name": "事故物件 恐い間取り",
+          "sales": 4610,
+          "seats": 69953,
+          "showtimes": 774,
+          "theaters": 289,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Confidence Man JP Princess Edition",
+          "japanese name": "コンフィデンスマンＪＰ プリンセス編",
+          "sales": 4580,
+          "seats": 14144,
+          "showtimes": 209,
+          "theaters": 231,
+          "rank": 9,
+          "last_week_ratio": 210.7
+        },
+        {
+          "moviename": "The Adams Family",
+          "japanese name": "アダムス・ファミリー",
+          "sales": 3839,
+          "seats": 57523,
+          "showtimes": 652,
+          "theaters": 157,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BREAK THE SILENCE: THE MOVIE",
+          "japanese name": "ＢＲＥＡＫ ＴＨＥ ＳＩＬＥＮＣＥ ： ＴＨＥ ＭＯＶＩＥ",
+          "sales": 3185,
+          "seats": 25413,
+          "showtimes": 307,
+          "theaters": 229,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Midway",
+          "japanese name": "ミッドウェイ",
+          "sales": 2391,
+          "seats": 25639,
+          "showtimes": 381,
+          "theaters": 227,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fate/stay night Heaven's Feel Chapter 3",
+          "japanese name": "Ｆａｔｅ／ｓｔａｙ ｎｉｇｈｔ Ｈｅａｖｅｎｓ Ｆｅｅｌ 第三章",
+          "sales": 2379,
+          "seats": 17601,
+          "showtimes": 230,
+          "theaters": 161,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Doraemon 2020 Nobita's New Dinosaur",
+          "japanese name": "映画ドラえもん ２０２０ のび太の新恐竜",
+          "sales": 2237,
+          "seats": 29236,
+          "showtimes": 367,
+          "theaters": 214,
+          "rank": 14,
+          "last_week_ratio": 199.9
+        },
+        {
+          "moviename": "Starting today, I will!!剧场版",
+          "japanese name": "今日から俺は！！劇場版",
+          "sales": 1688,
+          "seats": 21061,
+          "showtimes": 308,
+          "theaters": 258,
+          "rank": 15,
+          "last_week_ratio": 106
+        },
+        {
+          "moviename": "Our Lies and Truths - Documentary of Hinatazaka46",
+          "japanese name": "僕たちの嘘と真実 Ｄｏｃｕｍｅｎｔａｒｙ ｏｆ 欅坂４６",
+          "sales": 1577,
+          "seats": 6945,
+          "showtimes": 96,
+          "theaters": 85,
+          "rank": 16,
+          "last_week_ratio": 134.3
+        },
+        {
+          "moviename": "Half a Magic",
+          "japanese name": "２分の１の魔法",
+          "sales": 1566,
+          "seats": 16883,
+          "showtimes": 259,
+          "theaters": 228,
+          "rank": 17,
+          "last_week_ratio": 138.7
+        },
+        {
+          "moviename": "Thought, Being Thought, Pretending, Being Pretended (Anime Version)",
+          "japanese name": "思い、思われ、ふり、ふられ（アニメ版）",
+          "sales": 1188,
+          "seats": 24836,
+          "showtimes": 420,
+          "theaters": 196,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "「Working cells!!」The strongest enemy, again. The inside of the body is in a big uproar!",
+          "japanese name": "「はたらく細胞！！」最強の敵、再び。体の中は’腸”大騒ぎ！",
+          "sales": 1018,
+          "seats": 6499,
+          "showtimes": 91,
+          "theaters": 87,
+          "rank": 19,
+          "last_week_ratio": 138.1
+        },
+        {
+          "moviename": "Movie Given",
+          "japanese name": "映画 ギヴン",
+          "sales": 871,
+          "seats": 12907,
+          "showtimes": 129,
+          "theaters": 64,
+          "rank": 20,
+          "last_week_ratio": 224.5
+        },
+        {
+          "moviename": "Blue and painful and fragile",
+          "japanese name": "青くて痛くて脆い",
+          "sales": 818,
+          "seats": 11159,
+          "showtimes": 177,
+          "theaters": 217,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Comedy Love Story",
+          "japanese name": "喜劇 愛妻物語",
+          "sales": 690,
+          "seats": 6073,
+          "showtimes": 106,
+          "theaters": 73,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Image book",
+          "japanese name": "イメージの本",
+          "sales": 626,
+          "seats": 3653,
+          "showtimes": 51,
+          "theaters": 15,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wolf's Call",
+          "japanese name": "ウルフズ・コール",
+          "sales": 617,
+          "seats": 4769,
+          "showtimes": 49,
+          "theaters": 20,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Thought, thought of, feigned, feigned upon",
+          "japanese name": "思い、思われ、ふり、ふられ",
+          "sales": 492,
+          "seats": 5348,
+          "showtimes": 83,
+          "theaters": 98,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "TENET",
+          "japanese name": "ＴＥＮＥＴ テネット",
+          "sales": 25483,
+          "seats": 224549,
+          "showtimes": 2034,
+          "theaters": 296,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 Violet Evergarden",
+          "japanese name": "劇場版 ヴァイオレット・エヴァーガーデン",
+          "sales": 17157,
+          "seats": 118040,
+          "showtimes": 817,
+          "theaters": 143,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MIDNIGHT SWAN",
+          "japanese name": "ミッドナイトスワン",
+          "sales": 16506,
+          "seats": 85795,
+          "showtimes": 616,
+          "theaters": 133,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rats are dreaming of cheese",
+          "japanese name": "窮鼠はチーズの夢を見る",
+          "sales": 10012,
+          "seats": 36772,
+          "showtimes": 527,
+          "theaters": 185,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Thread",
+          "japanese name": "糸",
+          "sales": 8422,
+          "seats": 56458,
+          "showtimes": 797,
+          "theaters": 290,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Accident property, scary layout",
+          "japanese name": "事故物件 恐い間取り",
+          "sales": 6450,
+          "seats": 93381,
+          "showtimes": 1034,
+          "theaters": 290,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Confidence Man JP Princess Edition",
+          "japanese name": "コンフィデンスマンＪＰ プリンセス編",
+          "sales": 6230,
+          "seats": 19594,
+          "showtimes": 290,
+          "theaters": 233,
+          "rank": 7,
+          "last_week_ratio": 163.9
+        },
+        {
+          "moviename": "Don't touch the image research!",
+          "japanese name": "映像研には手を出すな！",
+          "sales": 4583,
+          "seats": 97893,
+          "showtimes": 731,
+          "theaters": 141,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BREAK THE SILENCE: THE MOVIE",
+          "japanese name": "ＢＲＥＡＫ ＴＨＥ ＳＩＬＥＮＣＥ ： ＴＨＥ ＭＯＶＩＥ",
+          "sales": 4444,
+          "seats": 33361,
+          "showtimes": 399,
+          "theaters": 230,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Adams Family",
+          "japanese name": "アダムス・ファミリー",
+          "sales": 4160,
+          "seats": 66972,
+          "showtimes": 766,
+          "theaters": 158,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Crayon Shin-chan: Clash! Land of Gakking and Almost Four Heroes",
+          "japanese name": "映画クレヨンしんちゃん 激突！ラクガキングダムとほぼ四人の勇者",
+          "sales": 3736,
+          "seats": 107250,
+          "showtimes": 1124,
+          "theaters": 289,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fate/stay night Heaven's Feel Chapter 3",
+          "japanese name": "Ｆａｔｅ／ｓｔａｙ ｎｉｇｈｔ Ｈｅａｖｅｎｓ Ｆｅｅｌ 第三章",
+          "sales": 2973,
+          "seats": 23576,
+          "showtimes": 309,
+          "theaters": 162,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Midway",
+          "japanese name": "ミッドウェイ",
+          "sales": 2477,
+          "seats": 33221,
+          "showtimes": 494,
+          "theaters": 228,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Starting today, I will!!剧场版",
+          "japanese name": "今日から俺は！！劇場版",
+          "sales": 1724,
+          "seats": 25903,
+          "showtimes": 378,
+          "theaters": 259,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Our Lies and Truths - Documentary of Hinatazaka46",
+          "japanese name": "僕たちの嘘と真実 Ｄｏｃｕｍｅｎｔａｒｙ ｏｆ 欅坂４６",
+          "sales": 1578,
+          "seats": 8768,
+          "showtimes": 122,
+          "theaters": 85,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Thought, Being Thought, Pretending, Being Pretended (Anime Version)",
+          "japanese name": "思い、思われ、ふり、ふられ（アニメ版）",
+          "sales": 1402,
+          "seats": 33775,
+          "showtimes": 555,
+          "theaters": 196,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Half a Magic",
+          "japanese name": "２分の１の魔法",
+          "sales": 1247,
+          "seats": 17661,
+          "showtimes": 271,
+          "theaters": 229,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Given",
+          "japanese name": "映画 ギヴン",
+          "sales": 1134,
+          "seats": 16914,
+          "showtimes": 166,
+          "theaters": 65,
+          "rank": 18,
+          "last_week_ratio": 141.2
+        },
+        {
+          "moviename": "Movie Doraemon 2020 Nobita's New Dinosaur",
+          "japanese name": "映画ドラえもん ２０２０ のび太の新恐竜",
+          "sales": 1091,
+          "seats": 29369,
+          "showtimes": 370,
+          "theaters": 215,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Blue and painful and fragile",
+          "japanese name": "青くて痛くて脆い",
+          "sales": 1039,
+          "seats": 14601,
+          "showtimes": 226,
+          "theaters": 217,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "「Working cells!!」The strongest enemy, again. The inside of the body is in a big uproar!",
+          "japanese name": "「はたらく細胞！！」最強の敵、再び。体の中は’腸”大騒ぎ！",
+          "sales": 785,
+          "seats": 7462,
+          "showtimes": 108,
+          "theaters": 87,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Image book",
+          "japanese name": "イメージの本",
+          "sales": 747,
+          "seats": 4599,
+          "showtimes": 64,
+          "theaters": 15,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Comedy Love Story",
+          "japanese name": "喜劇 愛妻物語",
+          "sales": 718,
+          "seats": 6551,
+          "showtimes": 115,
+          "theaters": 73,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Thought, thought of, feigned, feigned upon",
+          "japanese name": "思い、思われ、ふり、ふられ",
+          "sales": 598,
+          "seats": 6755,
+          "showtimes": 106,
+          "theaters": 98,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "mid90s Mid nineties",
+          "japanese name": "ｍｉｄ９０ｓ ミッドナインティーズ",
+          "sales": 572,
+          "seats": 4530,
+          "showtimes": 58,
+          "theaters": 26,
+          "rank": 25,
+          "last_week_ratio": 128.3
+        }
+      ]
+    }
+  ]
+}

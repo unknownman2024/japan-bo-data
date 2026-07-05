@@ -1,0 +1,773 @@
+{
+  "date": "14-05-2021",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Beautiful temptation Modern \"Painted Skin\"",
+          "japanese name": "美しき誘惑 現代の「画皮」",
+          "sales": 10858,
+          "seats": 61903,
+          "showtimes": 288,
+          "theaters": 131,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rurouni Kenshin The Final Chapter",
+          "japanese name": "るろうに剣心 最終章 Ｔｈｅ Ｆｉｎａｌ",
+          "sales": 10548,
+          "seats": 136874,
+          "showtimes": 883,
+          "theaters": 250,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: Crimson Bullet",
+          "japanese name": "名探偵コナン 緋色の弾丸",
+          "sales": 9104,
+          "seats": 183593,
+          "showtimes": 1069,
+          "theaters": 250,
+          "rank": 3,
+          "last_week_ratio": 111.5
+        },
+        {
+          "moviename": "Shin Evangelion The Movie",
+          "japanese name": "シン・エヴァンゲリオン劇場版",
+          "sales": 2610,
+          "seats": 45920,
+          "showtimes": 353,
+          "theaters": 248,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Gentlemen",
+          "japanese name": "ジェントルメン",
+          "sales": 1824,
+          "seats": 23928,
+          "showtimes": 210,
+          "theaters": 114,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Father",
+          "japanese name": "ファーザー",
+          "sales": 1545,
+          "seats": 14921,
+          "showtimes": 82,
+          "theaters": 31,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 1129,
+          "seats": 19222,
+          "showtimes": 180,
+          "theaters": 238,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nomadland",
+          "japanese name": "ノマドランド",
+          "sales": 1053,
+          "seats": 20096,
+          "showtimes": 202,
+          "theaters": 224,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Project V",
+          "japanese name": "プロジェクトＶ",
+          "sales": 799,
+          "seats": 13746,
+          "showtimes": 116,
+          "theaters": 61,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Signal the Movie: Long-Term Unsolved Case Investigation Team",
+          "japanese name": "劇場版シグナル 長期未解決事件捜査班",
+          "sales": 779,
+          "seats": 11425,
+          "showtimes": 133,
+          "theaters": 223,
+          "rank": 10,
+          "last_week_ratio": 131.8
+        },
+        {
+          "moviename": "Girls & Panzer: The Final Chapter Episode 3",
+          "japanese name": "ガールズ＆パンツァー 最終章 第３話",
+          "sales": 610,
+          "seats": 12029,
+          "showtimes": 85,
+          "theaters": 71,
+          "rank": 11,
+          "last_week_ratio": 163.1
+        },
+        {
+          "moviename": "Handle with care",
+          "japanese name": "奥様は、取り扱い注意",
+          "sales": 477,
+          "seats": 6356,
+          "showtimes": 79,
+          "theaters": 164,
+          "rank": 12,
+          "last_week_ratio": 183.5
+        },
+        {
+          "moviename": "Kurenai-zume",
+          "japanese name": "くれなずめ",
+          "sales": 440,
+          "seats": 15599,
+          "showtimes": 107,
+          "theaters": 48,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Monster Hunter",
+          "japanese name": "映画モンスターハンター",
+          "sales": 389,
+          "seats": 8488,
+          "showtimes": 84,
+          "theaters": 219,
+          "rank": 14,
+          "last_week_ratio": 183.5
+        },
+        {
+          "moviename": "Shape towards the future",
+          "japanese name": "未来へのかたち",
+          "sales": 336,
+          "seats": 4677,
+          "showtimes": 60,
+          "theaters": 55,
+          "rank": 15,
+          "last_week_ratio": 236.6
+        },
+        {
+          "moviename": "Love Second Site: It all started from the end of first love (Subtitle version)",
+          "japanese name": "ラブ・セカンド・サイト はじまりは初恋のおわりから （字幕版）",
+          "sales": 325,
+          "seats": 4987,
+          "showtimes": 54,
+          "theaters": 43,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 BAN G DREAM! Episode of Roselia I: Promise",
+          "japanese name": "劇場版 ＢａｎＧ Ｄｒｅａｍ！ Ｅｐｉｓｏｄｅ ｏｆ Ｒｏｓｅｌｉａ Ｉ：約束",
+          "sales": 262,
+          "seats": 9378,
+          "showtimes": 73,
+          "theaters": 87,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Deception's Fang",
+          "japanese name": "騙し絵の牙",
+          "sales": 254,
+          "seats": 3681,
+          "showtimes": 37,
+          "theaters": 81,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Taipei Twilight",
+          "japanese name": "台北暮色",
+          "sales": 178,
+          "seats": 3672,
+          "showtimes": 23,
+          "theaters": 13,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Magical Warrior Kirameiger VS Ryūsōja",
+          "japanese name": "魔進戦隊キラメイジャーＶＳリュウソウジャー",
+          "sales": 178,
+          "seats": 6350,
+          "showtimes": 52,
+          "theaters": 31,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Happiness' Maraschino Cherry",
+          "japanese name": "しあわせのマスカット",
+          "sales": 176,
+          "seats": 2362,
+          "showtimes": 19,
+          "theaters": 12,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fell in love like a bouquet",
+          "japanese name": "花束みたいな恋をした",
+          "sales": 162,
+          "seats": 3293,
+          "showtimes": 32,
+          "theaters": 80,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Love of the Great Outline",
+          "japanese name": "大綱引の恋",
+          "sales": 153,
+          "seats": 2960,
+          "showtimes": 37,
+          "theaters": 33,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Revival Support Date Ninja Unit Combined Version +",
+          "japanese name": "復興応援 政宗ダテニクル 合体版＋",
+          "sales": 142,
+          "seats": 387,
+          "showtimes": 4,
+          "theaters": 4,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ROUGE",
+          "japanese name": "ローグ",
+          "sales": 140,
+          "seats": 1813,
+          "showtimes": 20,
+          "theaters": 21,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Beautiful temptation Modern \"Painted Skin\"",
+          "japanese name": "美しき誘惑 現代の「画皮」",
+          "sales": 20609,
+          "seats": 113630,
+          "showtimes": 530,
+          "theaters": 131,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rurouni Kenshin The Final Chapter",
+          "japanese name": "るろうに剣心 最終章 Ｔｈｅ Ｆｉｎａｌ",
+          "sales": 17823,
+          "seats": 245606,
+          "showtimes": 1575,
+          "theaters": 250,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: Crimson Bullet",
+          "japanese name": "名探偵コナン 緋色の弾丸",
+          "sales": 16643,
+          "seats": 326269,
+          "showtimes": 1836,
+          "theaters": 250,
+          "rank": 3,
+          "last_week_ratio": 112.7
+        },
+        {
+          "moviename": "Shin Evangelion The Movie",
+          "japanese name": "シン・エヴァンゲリオン劇場版",
+          "sales": 4636,
+          "seats": 81421,
+          "showtimes": 633,
+          "theaters": 248,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Gentlemen",
+          "japanese name": "ジェントルメン",
+          "sales": 3215,
+          "seats": 44630,
+          "showtimes": 389,
+          "theaters": 114,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Father",
+          "japanese name": "ファーザー",
+          "sales": 2407,
+          "seats": 25263,
+          "showtimes": 140,
+          "theaters": 31,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 2188,
+          "seats": 36757,
+          "showtimes": 353,
+          "theaters": 238,
+          "rank": 7,
+          "last_week_ratio": 110.3
+        },
+        {
+          "moviename": "Nomadland",
+          "japanese name": "ノマドランド",
+          "sales": 1755,
+          "seats": 33007,
+          "showtimes": 327,
+          "theaters": 224,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Signal the Movie: Long-Term Unsolved Case Investigation Team",
+          "japanese name": "劇場版シグナル 長期未解決事件捜査班",
+          "sales": 1368,
+          "seats": 21717,
+          "showtimes": 242,
+          "theaters": 223,
+          "rank": 9,
+          "last_week_ratio": 119.8
+        },
+        {
+          "moviename": "Girls & Panzer: The Final Chapter Episode 3",
+          "japanese name": "ガールズ＆パンツァー 最終章 第３話",
+          "sales": 1293,
+          "seats": 22615,
+          "showtimes": 163,
+          "theaters": 71,
+          "rank": 10,
+          "last_week_ratio": 166.8
+        },
+        {
+          "moviename": "Project V",
+          "japanese name": "プロジェクトＶ",
+          "sales": 1290,
+          "seats": 25234,
+          "showtimes": 209,
+          "theaters": 61,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Monster Hunter",
+          "japanese name": "映画モンスターハンター",
+          "sales": 979,
+          "seats": 21195,
+          "showtimes": 213,
+          "theaters": 219,
+          "rank": 12,
+          "last_week_ratio": 158.9
+        },
+        {
+          "moviename": "Handle with care",
+          "japanese name": "奥様は、取り扱い注意",
+          "sales": 881,
+          "seats": 13045,
+          "showtimes": 154,
+          "theaters": 164,
+          "rank": 13,
+          "last_week_ratio": 167.5
+        },
+        {
+          "moviename": "Kurenai-zume",
+          "japanese name": "くれなずめ",
+          "sales": 795,
+          "seats": 29069,
+          "showtimes": 201,
+          "theaters": 48,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 BAN G DREAM! Episode of Roselia I: Promise",
+          "japanese name": "劇場版 ＢａｎＧ Ｄｒｅａｍ！ Ｅｐｉｓｏｄｅ ｏｆ Ｒｏｓｅｌｉａ Ｉ：約束",
+          "sales": 792,
+          "seats": 21570,
+          "showtimes": 155,
+          "theaters": 87,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shape towards the future",
+          "japanese name": "未来へのかたち",
+          "sales": 640,
+          "seats": 8731,
+          "showtimes": 112,
+          "theaters": 55,
+          "rank": 16,
+          "last_week_ratio": 261.2
+        },
+        {
+          "moviename": "Love Second Site: It all started from the end of first love (Subtitle version)",
+          "japanese name": "ラブ・セカンド・サイト はじまりは初恋のおわりから （字幕版）",
+          "sales": 614,
+          "seats": 8319,
+          "showtimes": 92,
+          "theaters": 43,
+          "rank": 17,
+          "last_week_ratio": 102.8
+        },
+        {
+          "moviename": "Fell in love like a bouquet",
+          "japanese name": "花束みたいな恋をした",
+          "sales": 439,
+          "seats": 8645,
+          "showtimes": 89,
+          "theaters": 80,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Deception's Fang",
+          "japanese name": "騙し絵の牙",
+          "sales": 355,
+          "seats": 6309,
+          "showtimes": 67,
+          "theaters": 81,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Taipei Twilight",
+          "japanese name": "台北暮色",
+          "sales": 355,
+          "seats": 6648,
+          "showtimes": 46,
+          "theaters": 13,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Happiness' Maraschino Cherry",
+          "japanese name": "しあわせのマスカット",
+          "sales": 253,
+          "seats": 4115,
+          "showtimes": 32,
+          "theaters": 12,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SNS - Girls' 10 Days",
+          "japanese name": "ＳＮＳ 少女たちの１０日間",
+          "sales": 249,
+          "seats": 1208,
+          "showtimes": 10,
+          "theaters": 6,
+          "rank": 22,
+          "last_week_ratio": 830
+        },
+        {
+          "moviename": "Revival Support Date Ninja Unit Combined Version +",
+          "japanese name": "復興応援 政宗ダテニクル 合体版＋",
+          "sales": 237,
+          "seats": 684,
+          "showtimes": 7,
+          "theaters": 4,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "JUNK HEAD",
+          "japanese name": "ＪＵＮＫ ＨＥＡＤ",
+          "sales": 232,
+          "seats": 5421,
+          "showtimes": 48,
+          "theaters": 37,
+          "rank": 24,
+          "last_week_ratio": 201.7
+        },
+        {
+          "moviename": "ROUGE",
+          "japanese name": "ローグ",
+          "sales": 228,
+          "seats": 3722,
+          "showtimes": 39,
+          "theaters": 21,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Rurouni Kenshin The Final Chapter",
+          "japanese name": "るろうに剣心 最終章 Ｔｈｅ Ｆｉｎａｌ",
+          "sales": 18619,
+          "seats": 300705,
+          "showtimes": 1798,
+          "theaters": 249,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: Crimson Bullet",
+          "japanese name": "名探偵コナン 緋色の弾丸",
+          "sales": 17670,
+          "seats": 419260,
+          "showtimes": 2126,
+          "theaters": 249,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shin Evangelion The Movie",
+          "japanese name": "シン・エヴァンゲリオン劇場版",
+          "sales": 3861,
+          "seats": 70968,
+          "showtimes": 653,
+          "theaters": 247,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Gentlemen",
+          "japanese name": "ジェントルメン",
+          "sales": 2803,
+          "seats": 70113,
+          "showtimes": 486,
+          "theaters": 114,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nomadland",
+          "japanese name": "ノマドランド",
+          "sales": 1979,
+          "seats": 42687,
+          "showtimes": 428,
+          "theaters": 228,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 1669,
+          "seats": 39555,
+          "showtimes": 361,
+          "theaters": 235,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Signal the Movie: Long-Term Unsolved Case Investigation Team",
+          "japanese name": "劇場版シグナル 長期未解決事件捜査班",
+          "sales": 1137,
+          "seats": 25320,
+          "showtimes": 284,
+          "theaters": 219,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Girls & Panzer: The Final Chapter Episode 3",
+          "japanese name": "ガールズ＆パンツァー 最終章 第３話",
+          "sales": 963,
+          "seats": 18587,
+          "showtimes": 127,
+          "theaters": 62,
+          "rank": 8,
+          "last_week_ratio": 217.9
+        },
+        {
+          "moviename": "Monster Hunter",
+          "japanese name": "映画モンスターハンター",
+          "sales": 958,
+          "seats": 24721,
+          "showtimes": 248,
+          "theaters": 234,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Project V",
+          "japanese name": "プロジェクトＶ",
+          "sales": 868,
+          "seats": 36685,
+          "showtimes": 270,
+          "theaters": 61,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Handle with care",
+          "japanese name": "奥様は、取り扱い注意",
+          "sales": 802,
+          "seats": 18753,
+          "showtimes": 207,
+          "theaters": 215,
+          "rank": 11,
+          "last_week_ratio": 111.5
+        },
+        {
+          "moviename": "Deception's Fang",
+          "japanese name": "騙し絵の牙",
+          "sales": 756,
+          "seats": 15118,
+          "showtimes": 158,
+          "theaters": 156,
+          "rank": 12,
+          "last_week_ratio": 111.8
+        },
+        {
+          "moviename": "Love Second Site: It all started from the end of first love (Subtitle version)",
+          "japanese name": "ラブ・セカンド・サイト はじまりは初恋のおわりから （字幕版）",
+          "sales": 585,
+          "seats": 11390,
+          "showtimes": 113,
+          "theaters": 38,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Anisong Stars!! ES Music Garden Delay Viewing",
+          "japanese name": "あんさんぶるスターズ！！ ＥＳ Ｍｕｓｉｃ Ｇａｒｄｅｎ Ｄｅｌａｙ Ｖｉｅｗｉｎｇ",
+          "sales": 568,
+          "seats": 7072,
+          "showtimes": 62,
+          "theaters": 53,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fell in love like a bouquet",
+          "japanese name": "花束みたいな恋をした",
+          "sales": 552,
+          "seats": 11704,
+          "showtimes": 132,
+          "theaters": 130,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kurenai-zume",
+          "japanese name": "くれなずめ",
+          "sales": 519,
+          "seats": 34489,
+          "showtimes": 185,
+          "theaters": 38,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Taipei Twilight",
+          "japanese name": "台北暮色",
+          "sales": 357,
+          "seats": 7985,
+          "showtimes": 49,
+          "theaters": 11,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "21 Bridge",
+          "japanese name": "２１ブリッジ",
+          "sales": 339,
+          "seats": 5845,
+          "showtimes": 56,
+          "theaters": 59,
+          "rank": 18,
+          "last_week_ratio": 133.5
+        },
+        {
+          "moviename": "剧场版 BAN G DREAM! Episode of Roselia I: Promise",
+          "japanese name": "劇場版 ＢａｎＧ Ｄｒｅａｍ！ Ｅｐｉｓｏｄｅ ｏｆ Ｒｏｓｅｌｉａ Ｉ：約束",
+          "sales": 316,
+          "seats": 18432,
+          "showtimes": 154,
+          "theaters": 83,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ROUGE",
+          "japanese name": "ローグ",
+          "sales": 308,
+          "seats": 5533,
+          "showtimes": 58,
+          "theaters": 20,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Switch",
+          "japanese name": "ザ・スイッチ",
+          "sales": 254,
+          "seats": 7863,
+          "showtimes": 75,
+          "theaters": 79,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Brave Azure War Chronicle",
+          "japanese name": "ブレイブ－群青戦記－",
+          "sales": 226,
+          "seats": 6379,
+          "showtimes": 70,
+          "theaters": 59,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Magical Warrior Kirameiger VS Ryūsōja",
+          "japanese name": "魔進戦隊キラメイジャーＶＳリュウソウジャー",
+          "sales": 214,
+          "seats": 10209,
+          "showtimes": 93,
+          "theaters": 31,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "At Tiffany for breakfast",
+          "japanese name": "ティファニーで朝食を",
+          "sales": 209,
+          "seats": 4110,
+          "showtimes": 35,
+          "theaters": 34,
+          "rank": 24,
+          "last_week_ratio": 100
+        },
+        {
+          "moviename": "The Love of the Great Outline",
+          "japanese name": "大綱引の恋",
+          "sales": 208,
+          "seats": 8450,
+          "showtimes": 94,
+          "theaters": 32,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

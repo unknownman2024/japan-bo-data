@@ -1,0 +1,773 @@
+{
+  "date": "18-02-2026",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "In a little while, goodbye",
+          "japanese name": "ほどなく、お別れです",
+          "sales": 30714,
+          "seats": 157693,
+          "showtimes": 592,
+          "theaters": 267,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New剧场版 Silver Spirit –Yoshigara Great Fire–",
+          "japanese name": "新劇場版 銀魂 －吉原大炎上－",
+          "sales": 9863,
+          "seats": 178328,
+          "showtimes": 599,
+          "theaters": 266,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 8692,
+          "seats": 32068,
+          "showtimes": 236,
+          "theaters": 248,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Suit Gundam: Flashing Hayato - The Witch of Circe",
+          "japanese name": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
+          "sales": 5421,
+          "seats": 87753,
+          "showtimes": 503,
+          "theaters": 269,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Zootopia 2",
+          "japanese name": "ズートピア２",
+          "sales": 5313,
+          "seats": 72278,
+          "showtimes": 425,
+          "theaters": 266,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Crime 101",
+          "japanese name": "クライム１０１",
+          "sales": 3921,
+          "seats": 67773,
+          "showtimes": 465,
+          "theaters": 249,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 僕の心のヤバイやつ",
+          "japanese name": "劇場版 僕の心のヤバイやつ",
+          "sales": 2386,
+          "seats": 30518,
+          "showtimes": 178,
+          "theaters": 96,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Two Wisteria Girls / Japanese Festive Kimono Begin, Moon Once a Month Kabuki 2016",
+          "japanese name": "二人藤娘／日本振袖始  月イチ歌舞伎２０１６",
+          "sales": 2213,
+          "seats": 4592,
+          "showtimes": 28,
+          "theaters": 28,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BE: THE ONE TO BE—",
+          "japanese name": "ＢＥ：ｔｈｅ ＯＮＥ －ＭＥＡＮＴ ＴＯ ＢＥ－",
+          "sales": 2111,
+          "seats": 14268,
+          "showtimes": 97,
+          "theaters": 84,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bougainvillea",
+          "japanese name": "ブゴニア",
+          "sales": 2046,
+          "seats": 23546,
+          "showtimes": 180,
+          "theaters": 144,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "银河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
+          "japanese name": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
+          "sales": 1807,
+          "seats": 22573,
+          "showtimes": 114,
+          "theaters": 59,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Guardian of Kusunoki",
+          "japanese name": "クスノキの番人",
+          "sales": 1565,
+          "seats": 19664,
+          "showtimes": 173,
+          "theaters": 256,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pure love is superior!",
+          "japanese name": "純愛上等！",
+          "sales": 1459,
+          "seats": 14541,
+          "showtimes": 104,
+          "theaters": 86,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shin Evangelion剧场版",
+          "japanese name": "シン・エヴァンゲリオン劇場版",
+          "sales": 1453,
+          "seats": 9293,
+          "showtimes": 38,
+          "theaters": 70,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版「紧急取调室 THE FINAL」",
+          "japanese name": "劇場版「緊急取調室 ＴＨＥ ＦＩＮＡＬ」",
+          "sales": 1000,
+          "seats": 16164,
+          "showtimes": 137,
+          "theaters": 245,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版《Last Man - FIRST LOVE-》",
+          "japanese name": "映画ラストマン －ＦＩＲＳＴ ＬＯＶＥ－",
+          "sales": 937,
+          "seats": 13871,
+          "showtimes": 114,
+          "theaters": 238,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 鬼灭之刃 无限城篇 第一章 猗窝座再来",
+          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
+          "sales": 902,
+          "seats": 12074,
+          "showtimes": 76,
+          "theaters": 250,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Television shopping queen Aoi Misaki's event channel",
+          "japanese name": "テレビショッピングの女王 青池春香の事件チャンネル",
+          "sales": 710,
+          "seats": 17692,
+          "showtimes": 146,
+          "theaters": 97,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "FUKUYAMA MASAHaru LIVE FILM@NAGASAKI",
+          "japanese name": "ＦＵＫＵＹＡＭＡ ＭＡＳＡＨＡＲＵ ＬＩＶＥ ＦＩＬＭ＠ＮＡＧＡＳＡＫＩ",
+          "sales": 497,
+          "seats": 9379,
+          "showtimes": 72,
+          "theaters": 109,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Glory Back Home",
+          "japanese name": "栄光のバックホーム",
+          "sales": 477,
+          "seats": 9965,
+          "showtimes": 81,
+          "theaters": 129,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Avatar: Fire & Ash",
+          "japanese name": "アバター：ファイヤー・アンド・アッシュ",
+          "sales": 456,
+          "seats": 7304,
+          "showtimes": 61,
+          "theaters": 245,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie version \"Chainsaw Man: Reze Chapter\"",
+          "japanese name": "劇場版「チェンソーマン レゼ篇」",
+          "sales": 448,
+          "seats": 6059,
+          "showtimes": 46,
+          "theaters": 248,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "JO1DEER SHOW 2025 WHERE WE ARE IN TOKYO DOM",
+          "japanese name": "ＪＯ１ＤＥＲ ＳＨＯＷ ２０２５ ＷＨＥＲＥＶＥＲ ＷＥ ＡＲＥ ＩＮ ＴＯＫＹＯ ＤＯＭＥ",
+          "sales": 419,
+          "seats": 3617,
+          "showtimes": 32,
+          "theaters": 87,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "凉宫春日的消失",
+          "japanese name": "涼宮ハルヒの消失",
+          "sales": 391,
+          "seats": 1153,
+          "showtimes": 9,
+          "theaters": 31,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fifty Years Later, Our Journey",
+          "japanese name": "五十年目の俺たちの旅",
+          "sales": 373,
+          "seats": 7041,
+          "showtimes": 53,
+          "theaters": 56,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "In a little while, goodbye",
+          "japanese name": "ほどなく、お別れです",
+          "sales": 51148,
+          "seats": 296205,
+          "showtimes": 1117,
+          "theaters": 267,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New剧场版 Silver Spirit –Yoshigara Great Fire–",
+          "japanese name": "新劇場版 銀魂 －吉原大炎上－",
+          "sales": 18797,
+          "seats": 344003,
+          "showtimes": 1167,
+          "theaters": 266,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Zootopia 2",
+          "japanese name": "ズートピア２",
+          "sales": 10770,
+          "seats": 125800,
+          "showtimes": 754,
+          "theaters": 266,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Suit Gundam: Flashing Hayato - The Witch of Circe",
+          "japanese name": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
+          "sales": 9257,
+          "seats": 165817,
+          "showtimes": 942,
+          "theaters": 269,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 9113,
+          "seats": 34540,
+          "showtimes": 251,
+          "theaters": 248,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Crime 101",
+          "japanese name": "クライム１０１",
+          "sales": 6437,
+          "seats": 127110,
+          "showtimes": 862,
+          "theaters": 249,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shin Evangelion剧场版",
+          "japanese name": "シン・エヴァンゲリオン劇場版",
+          "sales": 4894,
+          "seats": 24581,
+          "showtimes": 91,
+          "theaters": 70,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 僕の心のヤバイやつ",
+          "japanese name": "劇場版 僕の心のヤバイやつ",
+          "sales": 4501,
+          "seats": 54460,
+          "showtimes": 320,
+          "theaters": 96,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "银河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
+          "japanese name": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
+          "sales": 3616,
+          "seats": 43027,
+          "showtimes": 220,
+          "theaters": 59,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bougainvillea",
+          "japanese name": "ブゴニア",
+          "sales": 3597,
+          "seats": 41706,
+          "showtimes": 318,
+          "theaters": 144,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BE: THE ONE TO BE—",
+          "japanese name": "ＢＥ：ｔｈｅ ＯＮＥ －ＭＥＡＮＴ ＴＯ ＢＥ－",
+          "sales": 3190,
+          "seats": 25123,
+          "showtimes": 177,
+          "theaters": 84,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pure love is superior!",
+          "japanese name": "純愛上等！",
+          "sales": 3037,
+          "seats": 29698,
+          "showtimes": 199,
+          "theaters": 86,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Guardian of Kusunoki",
+          "japanese name": "クスノキの番人",
+          "sales": 2820,
+          "seats": 39797,
+          "showtimes": 339,
+          "theaters": 256,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Two Wisteria Girls / Japanese Festive Kimono Begin, Moon Once a Month Kabuki 2016",
+          "japanese name": "二人藤娘／日本振袖始  月イチ歌舞伎２０１６",
+          "sales": 2415,
+          "seats": 5200,
+          "showtimes": 30,
+          "theaters": 28,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 鬼灭之刃 无限城篇 第一章 猗窝座再来",
+          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
+          "sales": 2237,
+          "seats": 33801,
+          "showtimes": 232,
+          "theaters": 250,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版《Last Man - FIRST LOVE-》",
+          "japanese name": "映画ラストマン －ＦＩＲＳＴ ＬＯＶＥ－",
+          "sales": 1489,
+          "seats": 24077,
+          "showtimes": 201,
+          "theaters": 238,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版「紧急取调室 THE FINAL」",
+          "japanese name": "劇場版「緊急取調室 ＴＨＥ ＦＩＮＡＬ」",
+          "sales": 1408,
+          "seats": 24309,
+          "showtimes": 201,
+          "theaters": 245,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "凉宫春日的消失",
+          "japanese name": "涼宮ハルヒの消失",
+          "sales": 1376,
+          "seats": 4928,
+          "showtimes": 35,
+          "theaters": 31,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie version \"Chainsaw Man: Reze Chapter\"",
+          "japanese name": "劇場版「チェンソーマン レゼ篇」",
+          "sales": 1357,
+          "seats": 26749,
+          "showtimes": 192,
+          "theaters": 248,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "JO1DEER SHOW 2025 WHERE WE ARE IN TOKYO DOM",
+          "japanese name": "ＪＯ１ＤＥＲ ＳＨＯＷ ２０２５ ＷＨＥＲＥＶＥＲ ＷＥ ＡＲＥ ＩＮ ＴＯＫＹＯ ＤＯＭＥ",
+          "sales": 1208,
+          "seats": 10273,
+          "showtimes": 79,
+          "theaters": 87,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Avatar: Fire & Ash",
+          "japanese name": "アバター：ファイヤー・アンド・アッシュ",
+          "sales": 1014,
+          "seats": 20744,
+          "showtimes": 164,
+          "theaters": 245,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Television shopping queen Aoi Misaki's event channel",
+          "japanese name": "テレビショッピングの女王 青池春香の事件チャンネル",
+          "sales": 875,
+          "seats": 22261,
+          "showtimes": 184,
+          "theaters": 97,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "FUKUYAMA MASAHaru LIVE FILM@NAGASAKI",
+          "japanese name": "ＦＵＫＵＹＡＭＡ ＭＡＳＡＨＡＲＵ ＬＩＶＥ ＦＩＬＭ＠ＮＡＧＡＳＡＫＩ",
+          "sales": 806,
+          "seats": 18928,
+          "showtimes": 148,
+          "theaters": 109,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Glory Back Home",
+          "japanese name": "栄光のバックホーム",
+          "sales": 746,
+          "seats": 14300,
+          "showtimes": 116,
+          "theaters": 129,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Running Man",
+          "japanese name": "ランニング・マン",
+          "sales": 711,
+          "seats": 21975,
+          "showtimes": 183,
+          "theaters": 244,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "In a little while, goodbye",
+          "japanese name": "ほどなく、お別れです",
+          "sales": 57063,
+          "seats": 354515,
+          "showtimes": 1337,
+          "theaters": 263,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New剧场版 Silver Spirit –Yoshigara Great Fire–",
+          "japanese name": "新劇場版 銀魂 －吉原大炎上－",
+          "sales": 19059,
+          "seats": 400383,
+          "showtimes": 1416,
+          "theaters": 262,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Zootopia 2",
+          "japanese name": "ズートピア２",
+          "sales": 9105,
+          "seats": 135091,
+          "showtimes": 809,
+          "theaters": 262,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Suit Gundam: Flashing Hayato - The Witch of Circe",
+          "japanese name": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
+          "sales": 8593,
+          "seats": 210196,
+          "showtimes": 1188,
+          "theaters": 265,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 7075,
+          "seats": 34593,
+          "showtimes": 247,
+          "theaters": 244,
+          "rank": 5,
+          "last_week_ratio": 141.5
+        },
+        {
+          "moviename": "Crime 101",
+          "japanese name": "クライム１０１",
+          "sales": 6938,
+          "seats": 160831,
+          "showtimes": 1105,
+          "theaters": 245,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shin Evangelion剧场版",
+          "japanese name": "シン・エヴァンゲリオン劇場版",
+          "sales": 5030,
+          "seats": 30582,
+          "showtimes": 119,
+          "theaters": 69,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 僕の心のヤバイやつ",
+          "japanese name": "劇場版 僕の心のヤバイやつ",
+          "sales": 4432,
+          "seats": 69424,
+          "showtimes": 398,
+          "theaters": 92,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bougainvillea",
+          "japanese name": "ブゴニア",
+          "sales": 3924,
+          "seats": 55738,
+          "showtimes": 433,
+          "theaters": 143,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BE: THE ONE TO BE—",
+          "japanese name": "ＢＥ：ｔｈｅ ＯＮＥ －ＭＥＡＮＴ ＴＯ ＢＥ－",
+          "sales": 3612,
+          "seats": 32658,
+          "showtimes": 224,
+          "theaters": 84,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "银河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
+          "japanese name": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
+          "sales": 3254,
+          "seats": 49909,
+          "showtimes": 249,
+          "theaters": 56,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pure love is superior!",
+          "japanese name": "純愛上等！",
+          "sales": 2803,
+          "seats": 36884,
+          "showtimes": 256,
+          "theaters": 85,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Two Wisteria Girls / Japanese Festive Kimono Begin, Moon Once a Month Kabuki 2016",
+          "japanese name": "二人藤娘／日本振袖始  月イチ歌舞伎２０１６",
+          "sales": 2259,
+          "seats": 4866,
+          "showtimes": 29,
+          "theaters": 26,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Guardian of Kusunoki",
+          "japanese name": "クスノキの番人",
+          "sales": 2223,
+          "seats": 47864,
+          "showtimes": 400,
+          "theaters": 246,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 鬼灭之刃 无限城篇 第一章 猗窝座再来",
+          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
+          "sales": 1767,
+          "seats": 38688,
+          "showtimes": 260,
+          "theaters": 246,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "凉宫春日的消失",
+          "japanese name": "涼宮ハルヒの消失",
+          "sales": 1306,
+          "seats": 5974,
+          "showtimes": 43,
+          "theaters": 33,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie version \"Chainsaw Man: Reze Chapter\"",
+          "japanese name": "劇場版「チェンソーマン レゼ篇」",
+          "sales": 1242,
+          "seats": 33165,
+          "showtimes": 239,
+          "theaters": 244,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "JO1DEER SHOW 2025 WHERE WE ARE IN TOKYO DOM",
+          "japanese name": "ＪＯ１ＤＥＲ ＳＨＯＷ ２０２５ ＷＨＥＲＥＶＥＲ ＷＥ ＡＲＥ ＩＮ ＴＯＫＹＯ ＤＯＭＥ",
+          "sales": 1203,
+          "seats": 11414,
+          "showtimes": 87,
+          "theaters": 82,
+          "rank": 18,
+          "last_week_ratio": 116.1
+        },
+        {
+          "moviename": "剧场版《Last Man - FIRST LOVE-》",
+          "japanese name": "映画ラストマン －ＦＩＲＳＴ ＬＯＶＥ－",
+          "sales": 1160,
+          "seats": 28427,
+          "showtimes": 231,
+          "theaters": 234,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版「紧急取调室 THE FINAL」",
+          "japanese name": "劇場版「緊急取調室 ＴＨＥ ＦＩＮＡＬ」",
+          "sales": 1113,
+          "seats": 27969,
+          "showtimes": 231,
+          "theaters": 240,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Avatar: Fire & Ash",
+          "japanese name": "アバター：ファイヤー・アンド・アッシュ",
+          "sales": 992,
+          "seats": 31271,
+          "showtimes": 232,
+          "theaters": 240,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HELP/Revenge Island",
+          "japanese name": "ＨＥＬＰ／復讐島",
+          "sales": 822,
+          "seats": 28070,
+          "showtimes": 220,
+          "theaters": 223,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Running Man",
+          "japanese name": "ランニング・マン",
+          "sales": 808,
+          "seats": 33346,
+          "showtimes": 272,
+          "theaters": 240,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Television shopping queen Aoi Misaki's event channel",
+          "japanese name": "テレビショッピングの女王 青池春香の事件チャンネル",
+          "sales": 798,
+          "seats": 22106,
+          "showtimes": 186,
+          "theaters": 98,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "FUKUYAMA MASAHaru LIVE FILM@NAGASAKI",
+          "japanese name": "ＦＵＫＵＹＡＭＡ ＭＡＳＡＨＡＲＵ ＬＩＶＥ ＦＩＬＭ＠ＮＡＧＡＳＡＫＩ",
+          "sales": 744,
+          "seats": 21710,
+          "showtimes": 175,
+          "theaters": 107,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

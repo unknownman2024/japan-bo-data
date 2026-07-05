@@ -1,0 +1,773 @@
+{
+  "date": "28-12-2022",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Suzume's door locking",
+          "japanese name": "すずめの戸締まり",
+          "sales": 41530,
+          "seats": 123698,
+          "showtimes": 465,
+          "theaters": 198,
+          "rank": 1,
+          "last_week_ratio": 361.3
+        },
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 31941,
+          "seats": 127893,
+          "showtimes": 454,
+          "theaters": 198,
+          "rank": 2,
+          "last_week_ratio": 174.8
+        },
+        {
+          "moviename": "Avatar Way of Water",
+          "japanese name": "アバター ウェイ・オブ・ウォーター",
+          "sales": 19104,
+          "seats": 92527,
+          "showtimes": 526,
+          "theaters": 200,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dr. Coto's Clinic",
+          "japanese name": "Ｄｒ．コトー診療所",
+          "sales": 14024,
+          "seats": 85359,
+          "showtimes": 414,
+          "theaters": 192,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mirror's Lonely Castle",
+          "japanese name": "かがみの孤城",
+          "sales": 13203,
+          "seats": 65632,
+          "showtimes": 412,
+          "theaters": 185,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Knight Parade",
+          "japanese name": "ブラックナイトパレード",
+          "sales": 12327,
+          "seats": 74110,
+          "showtimes": 423,
+          "theaters": 184,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "From Lagre to Love",
+          "japanese name": "ラーゲリより愛を込めて",
+          "sales": 8928,
+          "seats": 46182,
+          "showtimes": 366,
+          "theaters": 194,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kamen Rider Guts × Kamen Rider Revice WINTER MOVIE 2022",
+          "japanese name": "仮面ライダーギーツ×仮面ライダーリバイス ＷＩＮＴＥＲ ＭＯＶＩＥ ２０２２",
+          "sales": 6243,
+          "seats": 72434,
+          "showtimes": 496,
+          "theaters": 181,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Waxing and Waning of the Moon",
+          "japanese name": "月の満ち欠け",
+          "sales": 4014,
+          "seats": 19251,
+          "showtimes": 151,
+          "theaters": 187,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ONE PIECE FILM RED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 3376,
+          "seats": 10580,
+          "showtimes": 78,
+          "theaters": 175,
+          "rank": 10,
+          "last_week_ratio": 391.2
+        },
+        {
+          "moviename": "Theatrical Film: Reincarnated as a Slime, the Case of the Crimson Bond",
+          "japanese name": "劇場版 転生したらスライムだった件 紅蓮の絆編",
+          "sales": 3300,
+          "seats": 13931,
+          "showtimes": 101,
+          "theaters": 179,
+          "rank": 11,
+          "last_week_ratio": 220.9
+        },
+        {
+          "moviename": "WHITNEY HOUSTON I WANNA DANCE WITH SOMEBODY",
+          "japanese name": "ホイットニー・ヒューストン Ｉ ＷＡＮＮＡ ＤＡＮＣＥ ＷＩＴＨ ＳＯＭＥＢＯＤＹ",
+          "sales": 2787,
+          "seats": 20307,
+          "showtimes": 162,
+          "theaters": 115,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "KAGUYA-SAN WA AKIRASETAI－FIRST KISS WA OWARANAI－",
+          "japanese name": "かぐや様は告らせたい－ファーストキッスは終わらない－",
+          "sales": 2308,
+          "seats": 10435,
+          "showtimes": 66,
+          "theaters": 44,
+          "rank": 13,
+          "last_week_ratio": 111.2
+        },
+        {
+          "moviename": "Movie Kaitetsu Zorori Lala La♪ Star's Birthday",
+          "japanese name": "映画かいけつゾロリ ラララ♪スターたんじょう",
+          "sales": 1442,
+          "seats": 20396,
+          "showtimes": 121,
+          "theaters": 125,
+          "rank": 14,
+          "last_week_ratio": 471.2
+        },
+        {
+          "moviename": "A special Christmas is coming for the goat Sean!",
+          "japanese name": "ひつじのショーン スペシャル クリスマスがやってきた！",
+          "sales": 1157,
+          "seats": 14019,
+          "showtimes": 89,
+          "theaters": 63,
+          "rank": 15,
+          "last_week_ratio": 146.5
+        },
+        {
+          "moviename": "STARGAZER: ASTROSCOPE",
+          "japanese name": "ＳＴＡＲＧＡＺＥＲ： ＡＳＴＲＯＳＣＯＰＥ",
+          "sales": 1015,
+          "seats": 2847,
+          "showtimes": 17,
+          "theaters": 19,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "RRR",
+          "japanese name": "ＲＲＲ",
+          "sales": 796,
+          "seats": 1651,
+          "showtimes": 10,
+          "theaters": 26,
+          "rank": 17,
+          "last_week_ratio": 149.6
+        },
+        {
+          "moviename": "Maternity",
+          "japanese name": "母性",
+          "sales": 539,
+          "seats": 4939,
+          "showtimes": 37,
+          "theaters": 103,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MEN Same Face Men",
+          "japanese name": "ＭＥＮ 同じ顔の男たち",
+          "sales": 364,
+          "seats": 4199,
+          "showtimes": 32,
+          "theaters": 97,
+          "rank": 19,
+          "last_week_ratio": 105.8
+        },
+        {
+          "moviename": "Keiko Clear Your Eyes",
+          "japanese name": "ケイコ 目を澄ませて",
+          "sales": 307,
+          "seats": 1798,
+          "showtimes": 15,
+          "theaters": 16,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Flag Day A Day for Missing Father",
+          "japanese name": "フラッグ・デイ 父を想う日",
+          "sales": 300,
+          "seats": 3194,
+          "showtimes": 27,
+          "theaters": 19,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Empty giant monster Radon",
+          "japanese name": "空の大怪獣ラドン",
+          "sales": 295,
+          "seats": 2164,
+          "showtimes": 18,
+          "theaters": 19,
+          "rank": 22,
+          "last_week_ratio": 109.3
+        },
+        {
+          "moviename": "Mrs. Harris, going to Paris",
+          "japanese name": "ミセス・ハリス、パリへ行く",
+          "sales": 282,
+          "seats": 716,
+          "showtimes": 4,
+          "theaters": 5,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Adam",
+          "japanese name": "ブラックアダム",
+          "sales": 272,
+          "seats": 4374,
+          "showtimes": 32,
+          "theaters": 176,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Sword Art Online Progressive - Scherzo of the Dark Evening",
+          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 冥き夕闇のスケルツォ",
+          "sales": 254,
+          "seats": 4305,
+          "showtimes": 28,
+          "theaters": 98,
+          "rank": 25,
+          "last_week_ratio": 138.8
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Suzume's door locking",
+          "japanese name": "すずめの戸締まり",
+          "sales": 70976,
+          "seats": 224237,
+          "showtimes": 844,
+          "theaters": 198,
+          "rank": 1,
+          "last_week_ratio": 265.8
+        },
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 62452,
+          "seats": 243249,
+          "showtimes": 858,
+          "theaters": 198,
+          "rank": 2,
+          "last_week_ratio": 170.5
+        },
+        {
+          "moviename": "Avatar Way of Water",
+          "japanese name": "アバター ウェイ・オブ・ウォーター",
+          "sales": 29776,
+          "seats": 148725,
+          "showtimes": 857,
+          "theaters": 200,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dr. Coto's Clinic",
+          "japanese name": "Ｄｒ．コトー診療所",
+          "sales": 23452,
+          "seats": 154337,
+          "showtimes": 748,
+          "theaters": 192,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mirror's Lonely Castle",
+          "japanese name": "かがみの孤城",
+          "sales": 20601,
+          "seats": 112197,
+          "showtimes": 709,
+          "theaters": 185,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Knight Parade",
+          "japanese name": "ブラックナイトパレード",
+          "sales": 20556,
+          "seats": 132117,
+          "showtimes": 739,
+          "theaters": 184,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "From Lagre to Love",
+          "japanese name": "ラーゲリより愛を込めて",
+          "sales": 17075,
+          "seats": 79130,
+          "showtimes": 623,
+          "theaters": 194,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kamen Rider Guts × Kamen Rider Revice WINTER MOVIE 2022",
+          "japanese name": "仮面ライダーギーツ×仮面ライダーリバイス ＷＩＮＴＥＲ ＭＯＶＩＥ ２０２２",
+          "sales": 8599,
+          "seats": 110973,
+          "showtimes": 750,
+          "theaters": 181,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Waxing and Waning of the Moon",
+          "japanese name": "月の満ち欠け",
+          "sales": 7051,
+          "seats": 35224,
+          "showtimes": 274,
+          "theaters": 187,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Film: Reincarnated as a Slime, the Case of the Crimson Bond",
+          "japanese name": "劇場版 転生したらスライムだった件 紅蓮の絆編",
+          "sales": 6161,
+          "seats": 26356,
+          "showtimes": 196,
+          "theaters": 179,
+          "rank": 10,
+          "last_week_ratio": 181.8
+        },
+        {
+          "moviename": "ONE PIECE FILM RED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 6145,
+          "seats": 22311,
+          "showtimes": 166,
+          "theaters": 175,
+          "rank": 11,
+          "last_week_ratio": 299.2
+        },
+        {
+          "moviename": "WHITNEY HOUSTON I WANNA DANCE WITH SOMEBODY",
+          "japanese name": "ホイットニー・ヒューストン Ｉ ＷＡＮＮＡ ＤＡＮＣＥ ＷＩＴＨ ＳＯＭＥＢＯＤＹ",
+          "sales": 5357,
+          "seats": 36774,
+          "showtimes": 293,
+          "theaters": 115,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "KAGUYA-SAN WA AKIRASETAI－FIRST KISS WA OWARANAI－",
+          "japanese name": "かぐや様は告らせたい－ファーストキッスは終わらない－",
+          "sales": 4172,
+          "seats": 18164,
+          "showtimes": 115,
+          "theaters": 44,
+          "rank": 13,
+          "last_week_ratio": 100
+        },
+        {
+          "moviename": "STARGAZER: ASTROSCOPE",
+          "japanese name": "ＳＴＡＲＧＡＺＥＲ： ＡＳＴＲＯＳＣＯＰＥ",
+          "sales": 1922,
+          "seats": 6029,
+          "showtimes": 35,
+          "theaters": 19,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A special Christmas is coming for the goat Sean!",
+          "japanese name": "ひつじのショーン スペシャル クリスマスがやってきた！",
+          "sales": 1595,
+          "seats": 17843,
+          "showtimes": 114,
+          "theaters": 63,
+          "rank": 15,
+          "last_week_ratio": 132.5
+        },
+        {
+          "moviename": "Movie Kaitetsu Zorori Lala La♪ Star's Birthday",
+          "japanese name": "映画かいけつゾロリ ラララ♪スターたんじょう",
+          "sales": 1490,
+          "seats": 21045,
+          "showtimes": 126,
+          "theaters": 125,
+          "rank": 16,
+          "last_week_ratio": 408.2
+        },
+        {
+          "moviename": "RRR",
+          "japanese name": "ＲＲＲ",
+          "sales": 1340,
+          "seats": 3453,
+          "showtimes": 23,
+          "theaters": 26,
+          "rank": 17,
+          "last_week_ratio": 149.1
+        },
+        {
+          "moviename": "Maternity",
+          "japanese name": "母性",
+          "sales": 1021,
+          "seats": 9939,
+          "showtimes": 77,
+          "theaters": 103,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "NiziU Live with U 2022 “Burn It Up” Live Viewing",
+          "japanese name": "ＮｉｚｉＵ Ｌｉｖｅ ｗｉｔｈ Ｕ ２０２２ ’Ｂｕｒｎ ｉｔ Ｕｐ” Ｌｉｖｅ Ｖｉｅｗｉｎｇ",
+          "sales": 902,
+          "seats": 4851,
+          "showtimes": 63,
+          "theaters": 63,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Adam",
+          "japanese name": "ブラックアダム",
+          "sales": 849,
+          "seats": 13608,
+          "showtimes": 97,
+          "theaters": 176,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MEN Same Face Men",
+          "japanese name": "ＭＥＮ 同じ顔の男たち",
+          "sales": 777,
+          "seats": 9268,
+          "showtimes": 69,
+          "theaters": 97,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Sword Art Online Progressive - Scherzo of the Dark Evening",
+          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 冥き夕闇のスケルツォ",
+          "sales": 677,
+          "seats": 10915,
+          "showtimes": 72,
+          "theaters": 98,
+          "rank": 22,
+          "last_week_ratio": 126.5
+        },
+        {
+          "moviename": "Flag Day A Day for Missing Father",
+          "japanese name": "フラッグ・デイ 父を想う日",
+          "sales": 585,
+          "seats": 5670,
+          "showtimes": 46,
+          "theaters": 19,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version Utawarerumono♪ Maji LOVE Starlight Tours",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
+          "sales": 488,
+          "seats": 2163,
+          "showtimes": 9,
+          "theaters": 11,
+          "rank": 24,
+          "last_week_ratio": 153.9
+        },
+        {
+          "moviename": "A Man",
+          "japanese name": "ある男",
+          "sales": 469,
+          "seats": 4764,
+          "showtimes": 31,
+          "theaters": 41,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Suzume's door locking",
+          "japanese name": "すずめの戸締まり",
+          "sales": 52753,
+          "seats": 275434,
+          "showtimes": 1054,
+          "theaters": 198,
+          "rank": 1,
+          "last_week_ratio": 246.3
+        },
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 44368,
+          "seats": 310537,
+          "showtimes": 1093,
+          "theaters": 198,
+          "rank": 2,
+          "last_week_ratio": 147.8
+        },
+        {
+          "moviename": "Avatar Way of Water",
+          "japanese name": "アバター ウェイ・オブ・ウォーター",
+          "sales": 25013,
+          "seats": 196917,
+          "showtimes": 1133,
+          "theaters": 200,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Knight Parade",
+          "japanese name": "ブラックナイトパレード",
+          "sales": 17191,
+          "seats": 168281,
+          "showtimes": 935,
+          "theaters": 184,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dr. Coto's Clinic",
+          "japanese name": "Ｄｒ．コトー診療所",
+          "sales": 16871,
+          "seats": 193293,
+          "showtimes": 943,
+          "theaters": 192,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mirror's Lonely Castle",
+          "japanese name": "かがみの孤城",
+          "sales": 15171,
+          "seats": 139405,
+          "showtimes": 895,
+          "theaters": 185,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "From Lagre to Love",
+          "japanese name": "ラーゲリより愛を込めて",
+          "sales": 13476,
+          "seats": 94642,
+          "showtimes": 751,
+          "theaters": 194,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kamen Rider Guts × Kamen Rider Revice WINTER MOVIE 2022",
+          "japanese name": "仮面ライダーギーツ×仮面ライダーリバイス ＷＩＮＴＥＲ ＭＯＶＩＥ ２０２２",
+          "sales": 6610,
+          "seats": 119012,
+          "showtimes": 801,
+          "theaters": 181,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Waxing and Waning of the Moon",
+          "japanese name": "月の満ち欠け",
+          "sales": 5582,
+          "seats": 46812,
+          "showtimes": 366,
+          "theaters": 188,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Film: Reincarnated as a Slime, the Case of the Crimson Bond",
+          "japanese name": "劇場版 転生したらスライムだった件 紅蓮の絆編",
+          "sales": 4378,
+          "seats": 31164,
+          "showtimes": 227,
+          "theaters": 179,
+          "rank": 10,
+          "last_week_ratio": 128.7
+        },
+        {
+          "moviename": "WHITNEY HOUSTON I WANNA DANCE WITH SOMEBODY",
+          "japanese name": "ホイットニー・ヒューストン Ｉ ＷＡＮＮＡ ＤＡＮＣＥ ＷＩＴＨ ＳＯＭＥＢＯＤＹ",
+          "sales": 4168,
+          "seats": 49513,
+          "showtimes": 395,
+          "theaters": 115,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "KAGUYA-SAN WA AKIRASETAI－FIRST KISS WA OWARANAI－",
+          "japanese name": "かぐや様は告らせたい－ファーストキッスは終わらない－",
+          "sales": 3900,
+          "seats": 24559,
+          "showtimes": 154,
+          "theaters": 44,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ONE PIECE FILM RED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 3645,
+          "seats": 24000,
+          "showtimes": 178,
+          "theaters": 175,
+          "rank": 13,
+          "last_week_ratio": 253.1
+        },
+        {
+          "moviename": "STARGAZER: ASTROSCOPE",
+          "japanese name": "ＳＴＡＲＧＡＺＥＲ： ＡＳＴＲＯＳＣＯＰＥ",
+          "sales": 1970,
+          "seats": 5643,
+          "showtimes": 36,
+          "theaters": 19,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Kaitetsu Zorori Lala La♪ Star's Birthday",
+          "japanese name": "映画かいけつゾロリ ラララ♪スターたんじょう",
+          "sales": 1063,
+          "seats": 21261,
+          "showtimes": 128,
+          "theaters": 126,
+          "rank": 15,
+          "last_week_ratio": 600.6
+        },
+        {
+          "moviename": "A special Christmas is coming for the goat Sean!",
+          "japanese name": "ひつじのショーン スペシャル クリスマスがやってきた！",
+          "sales": 1042,
+          "seats": 18443,
+          "showtimes": 119,
+          "theaters": 63,
+          "rank": 16,
+          "last_week_ratio": 122.7
+        },
+        {
+          "moviename": "Black Adam",
+          "japanese name": "ブラックアダム",
+          "sales": 822,
+          "seats": 23952,
+          "showtimes": 179,
+          "theaters": 176,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "RRR",
+          "japanese name": "ＲＲＲ",
+          "sales": 727,
+          "seats": 4081,
+          "showtimes": 28,
+          "theaters": 28,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Maternity",
+          "japanese name": "母性",
+          "sales": 724,
+          "seats": 14539,
+          "showtimes": 104,
+          "theaters": 103,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MEN Same Face Men",
+          "japanese name": "ＭＥＮ 同じ顔の男たち",
+          "sales": 717,
+          "seats": 12971,
+          "showtimes": 101,
+          "theaters": 97,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Sword Art Online Progressive - Scherzo of the Dark Evening",
+          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 冥き夕闇のスケルツォ",
+          "sales": 632,
+          "seats": 13771,
+          "showtimes": 98,
+          "theaters": 98,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Flag Day A Day for Missing Father",
+          "japanese name": "フラッグ・デイ 父を想う日",
+          "sales": 554,
+          "seats": 7349,
+          "showtimes": 61,
+          "theaters": 19,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version Utawarerumono♪ Maji LOVE Starlight Tours",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
+          "sales": 471,
+          "seats": 3309,
+          "showtimes": 13,
+          "theaters": 11,
+          "rank": 23,
+          "last_week_ratio": 103.7
+        },
+        {
+          "moviename": "NCCT DREAM THE MOVIE: IN A DREAM",
+          "japanese name": "ＮＣＴ ＤＲＥＡＭ ＴＨＥ ＭＯＶＩＥ ： Ｉｎ Ａ ＤＲＥＡＭ",
+          "sales": 335,
+          "seats": 2604,
+          "showtimes": 23,
+          "theaters": 18,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A Man",
+          "japanese name": "ある男",
+          "sales": 328,
+          "seats": 6516,
+          "showtimes": 44,
+          "theaters": 40,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

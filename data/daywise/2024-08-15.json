@@ -1,0 +1,773 @@
+{
+  "date": "15-08-2024",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Inside Head 2",
+          "japanese name": "インサイド・ヘッド２",
+          "sales": 42829,
+          "seats": 122790,
+          "showtimes": 464,
+          "theaters": 186,
+          "rank": 1,
+          "last_week_ratio": 155.9
+        },
+        {
+          "moviename": "Crayon Shin-chan: The Dinosaur Diary",
+          "japanese name": "映画クレヨンしんちゃん オラたちの恐竜日記",
+          "sales": 36625,
+          "seats": 130708,
+          "showtimes": 503,
+          "theaters": 181,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Minion Super Transformation of Master Thief Grou",
+          "japanese name": "怪盗グルーのミニオン超変身",
+          "sales": 27982,
+          "seats": 76066,
+          "showtimes": 442,
+          "theaters": 186,
+          "rank": 3,
+          "last_week_ratio": 139.2
+        },
+        {
+          "moviename": "The Return of the General of Kingdom",
+          "japanese name": "キングダム 大将軍の帰還",
+          "sales": 20703,
+          "seats": 49996,
+          "showtimes": 300,
+          "theaters": 186,
+          "rank": 4,
+          "last_week_ratio": 200.9
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE Your Next",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ユアネクスト",
+          "sales": 18479,
+          "seats": 117014,
+          "showtimes": 519,
+          "theaters": 180,
+          "rank": 5,
+          "last_week_ratio": 115.6
+        },
+        {
+          "moviename": "If Tokugawa Ieyasu Became Prime Minister",
+          "japanese name": "もしも徳川家康が総理大臣になったら",
+          "sales": 8689,
+          "seats": 28072,
+          "showtimes": 243,
+          "theaters": 179,
+          "rank": 6,
+          "last_week_ratio": 140.9
+        },
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 7020,
+          "seats": 45723,
+          "showtimes": 209,
+          "theaters": 183,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BLUE PERIOD",
+          "japanese name": "ブルーピリオド",
+          "sales": 6383,
+          "seats": 50212,
+          "showtimes": 378,
+          "theaters": 181,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Who's that?",
+          "japanese name": "あのコはだぁれ？",
+          "sales": 5909,
+          "seats": 10639,
+          "showtimes": 75,
+          "theaters": 125,
+          "rank": 9,
+          "last_week_ratio": 131
+        },
+        {
+          "moviename": "Bodyguard of Akane Tsuchiya",
+          "japanese name": "赤羽骨子のボディガード",
+          "sales": 5855,
+          "seats": 27870,
+          "showtimes": 230,
+          "theaters": 176,
+          "rank": 10,
+          "last_week_ratio": 111.1
+        },
+        {
+          "moviename": "DEADPOOL & WOLVERINE",
+          "japanese name": "デッドプール＆ウルヴァリン",
+          "sales": 5380,
+          "seats": 20582,
+          "showtimes": 161,
+          "theaters": 180,
+          "rank": 11,
+          "last_week_ratio": 140.8
+        },
+        {
+          "moviename": "Twisters",
+          "japanese name": "ツイスターズ",
+          "sales": 3630,
+          "seats": 20309,
+          "showtimes": 168,
+          "theaters": 180,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Compilation Bocchi the Rock! Re:Re:",
+          "japanese name": "劇場総集編ぼっち・ざ・ろっく！Ｒｅ：Ｒｅ：",
+          "sales": 3595,
+          "seats": 34076,
+          "showtimes": 182,
+          "theaters": 96,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kamen Rider Gatchaard & Bomber Team Bumbunja",
+          "japanese name": "仮面ライダーガッチャード＆爆上戦隊ブンブンジャー",
+          "sales": 3096,
+          "seats": 18502,
+          "showtimes": 150,
+          "theaters": 158,
+          "rank": 14,
+          "last_week_ratio": 160.5
+        },
+        {
+          "moviename": "Let's Go! Anpanman vs. Bakkinman and the Storybook Lulu",
+          "japanese name": "それいけ！アンパンマン ばいきんまんとえほんのルルン",
+          "sales": 1991,
+          "seats": 20108,
+          "showtimes": 137,
+          "theaters": 142,
+          "rank": 15,
+          "last_week_ratio": 238.7
+        },
+        {
+          "moviename": "Patrol Patroller The Mighty Movie",
+          "japanese name": "パウ・パトロール ザ・マイティ・ムービー",
+          "sales": 1397,
+          "seats": 5203,
+          "showtimes": 34,
+          "theaters": 26,
+          "rank": 16,
+          "last_week_ratio": 201
+        },
+        {
+          "moviename": "Movie version of Sutプリ はじまりの物語 Strawberry School Festival!!!!!",
+          "japanese name": "劇場版すとぷり はじまりの物語 Ｓｔｒａｗｂｅｒｒｙ Ｓｃｈｏｏｌ Ｆｅｓｔｉｖａｌ！！！",
+          "sales": 1333,
+          "seats": 8674,
+          "showtimes": 66,
+          "theaters": 148,
+          "rank": 17,
+          "last_week_ratio": 105.8
+        },
+        {
+          "moviename": "Lookback",
+          "japanese name": "ルックバック",
+          "sales": 1203,
+          "seats": 6331,
+          "showtimes": 34,
+          "theaters": 74,
+          "rank": 18,
+          "last_week_ratio": 106.9
+        },
+        {
+          "moviename": "If I could meet you again on that hill where those flowers bloom.",
+          "japanese name": "あの花が咲く丘で、君とまた出会えたら。",
+          "sales": 1168,
+          "seats": 1429,
+          "showtimes": 11,
+          "theaters": 25,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie version of Mononoke怪 唐傘",
+          "japanese name": "劇場版 モノノ怪 唐傘",
+          "sales": 805,
+          "seats": 4768,
+          "showtimes": 30,
+          "theaters": 127,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan 100 Million Dollar Pentagon (指南针)",
+          "japanese name": "名探偵コナン １００万ドルの五稜星（みちしるべ）",
+          "sales": 737,
+          "seats": 5735,
+          "showtimes": 38,
+          "theaters": 164,
+          "rank": 21,
+          "last_week_ratio": 171
+        },
+        {
+          "moviename": "\"Cardcaptor Sakura the Movie\" 25th Anniversary Screening",
+          "japanese name": "「劇場版カードキャプターさくら」公開２５周年記念上映",
+          "sales": 710,
+          "seats": 2735,
+          "showtimes": 15,
+          "theaters": 16,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Code Geass: Requiem for the Phantom Final Act",
+          "japanese name": "コードギアス 奪還のロゼ 最終幕",
+          "sales": 604,
+          "seats": 7118,
+          "showtimes": 39,
+          "theaters": 40,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "On the Run THE MOVIE",
+          "japanese name": "逃走中 ＴＨＥ ＭＯＶＩＥ",
+          "sales": 570,
+          "seats": 4303,
+          "showtimes": 31,
+          "theaters": 125,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Hiroyuki!! Battle at the Garbage Dump",
+          "japanese name": "劇場版ハイキュー！！ ゴミ捨て場の決戦",
+          "sales": 568,
+          "seats": 1828,
+          "showtimes": 12,
+          "theaters": 39,
+          "rank": 25,
+          "last_week_ratio": 152.3
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Inside Head 2",
+          "japanese name": "インサイド・ヘッド２",
+          "sales": 72121,
+          "seats": 213284,
+          "showtimes": 816,
+          "theaters": 186,
+          "rank": 1,
+          "last_week_ratio": 158.8
+        },
+        {
+          "moviename": "Crayon Shin-chan: The Dinosaur Diary",
+          "japanese name": "映画クレヨンしんちゃん オラたちの恐竜日記",
+          "sales": 50546,
+          "seats": 214999,
+          "showtimes": 848,
+          "theaters": 181,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Minion Super Transformation of Master Thief Grou",
+          "japanese name": "怪盗グルーのミニオン超変身",
+          "sales": 42106,
+          "seats": 122039,
+          "showtimes": 712,
+          "theaters": 186,
+          "rank": 3,
+          "last_week_ratio": 145.5
+        },
+        {
+          "moviename": "The Return of the General of Kingdom",
+          "japanese name": "キングダム 大将軍の帰還",
+          "sales": 36312,
+          "seats": 93630,
+          "showtimes": 552,
+          "theaters": 186,
+          "rank": 4,
+          "last_week_ratio": 190.4
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE Your Next",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ユアネクスト",
+          "sales": 31779,
+          "seats": 204673,
+          "showtimes": 904,
+          "theaters": 180,
+          "rank": 5,
+          "last_week_ratio": 112.1
+        },
+        {
+          "moviename": "If Tokugawa Ieyasu Became Prime Minister",
+          "japanese name": "もしも徳川家康が総理大臣になったら",
+          "sales": 12281,
+          "seats": 41516,
+          "showtimes": 361,
+          "theaters": 179,
+          "rank": 6,
+          "last_week_ratio": 139.8
+        },
+        {
+          "moviename": "Who's that?",
+          "japanese name": "あのコはだぁれ？",
+          "sales": 12181,
+          "seats": 23224,
+          "showtimes": 166,
+          "theaters": 125,
+          "rank": 7,
+          "last_week_ratio": 123
+        },
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 12019,
+          "seats": 89954,
+          "showtimes": 392,
+          "theaters": 183,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "DEADPOOL & WOLVERINE",
+          "japanese name": "デッドプール＆ウルヴァリン",
+          "sales": 11626,
+          "seats": 45469,
+          "showtimes": 331,
+          "theaters": 180,
+          "rank": 9,
+          "last_week_ratio": 136.3
+        },
+        {
+          "moviename": "BLUE PERIOD",
+          "japanese name": "ブルーピリオド",
+          "sales": 10386,
+          "seats": 91127,
+          "showtimes": 687,
+          "theaters": 181,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bodyguard of Akane Tsuchiya",
+          "japanese name": "赤羽骨子のボディガード",
+          "sales": 9113,
+          "seats": 49348,
+          "showtimes": 406,
+          "theaters": 176,
+          "rank": 11,
+          "last_week_ratio": 107.3
+        },
+        {
+          "moviename": "Theatrical Compilation Bocchi the Rock! Re:Re:",
+          "japanese name": "劇場総集編ぼっち・ざ・ろっく！Ｒｅ：Ｒｅ：",
+          "sales": 6799,
+          "seats": 64101,
+          "showtimes": 339,
+          "theaters": 96,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Twisters",
+          "japanese name": "ツイスターズ",
+          "sales": 6491,
+          "seats": 38031,
+          "showtimes": 318,
+          "theaters": 180,
+          "rank": 13,
+          "last_week_ratio": 102.3
+        },
+        {
+          "moviename": "Kamen Rider Gatchaard & Bomber Team Bumbunja",
+          "japanese name": "仮面ライダーガッチャード＆爆上戦隊ブンブンジャー",
+          "sales": 3557,
+          "seats": 21985,
+          "showtimes": 175,
+          "theaters": 158,
+          "rank": 14,
+          "last_week_ratio": 146.9
+        },
+        {
+          "moviename": "Lookback",
+          "japanese name": "ルックバック",
+          "sales": 3162,
+          "seats": 12867,
+          "showtimes": 74,
+          "theaters": 74,
+          "rank": 15,
+          "last_week_ratio": 119.8
+        },
+        {
+          "moviename": "Movie version of Sutプリ はじまりの物語 Strawberry School Festival!!!!!",
+          "japanese name": "劇場版すとぷり はじまりの物語 Ｓｔｒａｗｂｅｒｒｙ Ｓｃｈｏｏｌ Ｆｅｓｔｉｖａｌ！！！",
+          "sales": 2642,
+          "seats": 17246,
+          "showtimes": 131,
+          "theaters": 148,
+          "rank": 16,
+          "last_week_ratio": 112.8
+        },
+        {
+          "moviename": "Movie version of Mononoke怪 唐傘",
+          "japanese name": "劇場版 モノノ怪 唐傘",
+          "sales": 2294,
+          "seats": 12535,
+          "showtimes": 86,
+          "theaters": 127,
+          "rank": 17,
+          "last_week_ratio": 103
+        },
+        {
+          "moviename": "If I could meet you again on that hill where those flowers bloom.",
+          "japanese name": "あの花が咲く丘で、君とまた出会えたら。",
+          "sales": 2228,
+          "seats": 3759,
+          "showtimes": 24,
+          "theaters": 25,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan 100 Million Dollar Pentagon (指南针)",
+          "japanese name": "名探偵コナン １００万ドルの五稜星（みちしるべ）",
+          "sales": 2059,
+          "seats": 14904,
+          "showtimes": 101,
+          "theaters": 164,
+          "rank": 19,
+          "last_week_ratio": 175.8
+        },
+        {
+          "moviename": "Let's Go! Anpanman vs. Bakkinman and the Storybook Lulu",
+          "japanese name": "それいけ！アンパンマン ばいきんまんとえほんのルルン",
+          "sales": 2042,
+          "seats": 20313,
+          "showtimes": 139,
+          "theaters": 142,
+          "rank": 20,
+          "last_week_ratio": 243.7
+        },
+        {
+          "moviename": "Patrol Patroller The Mighty Movie",
+          "japanese name": "パウ・パトロール ザ・マイティ・ムービー",
+          "sales": 1403,
+          "seats": 5203,
+          "showtimes": 34,
+          "theaters": 26,
+          "rank": 21,
+          "last_week_ratio": 183.2
+        },
+        {
+          "moviename": "Movie Hiroyuki!! Battle at the Garbage Dump",
+          "japanese name": "劇場版ハイキュー！！ ゴミ捨て場の決戦",
+          "sales": 1383,
+          "seats": 4619,
+          "showtimes": 30,
+          "theaters": 39,
+          "rank": 22,
+          "last_week_ratio": 146.7
+        },
+        {
+          "moviename": "On the Run THE MOVIE",
+          "japanese name": "逃走中 ＴＨＥ ＭＯＶＩＥ",
+          "sales": 1335,
+          "seats": 10431,
+          "showtimes": 74,
+          "theaters": 125,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Code Geass: Requiem for the Phantom Final Act",
+          "japanese name": "コードギアス 奪還のロゼ 最終幕",
+          "sales": 1152,
+          "seats": 12387,
+          "showtimes": 69,
+          "theaters": 40,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "\"Cardcaptor Sakura the Movie\" 25th Anniversary Screening",
+          "japanese name": "「劇場版カードキャプターさくら」公開２５周年記念上映",
+          "sales": 1019,
+          "seats": 4758,
+          "showtimes": 25,
+          "theaters": 16,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Inside Head 2",
+          "japanese name": "インサイド・ヘッド２",
+          "sales": 102425,
+          "seats": 246193,
+          "showtimes": 966,
+          "theaters": 186,
+          "rank": 1,
+          "last_week_ratio": 142.3
+        },
+        {
+          "moviename": "Crayon Shin-chan: The Dinosaur Diary",
+          "japanese name": "映画クレヨンしんちゃん オラたちの恐竜日記",
+          "sales": 70627,
+          "seats": 238240,
+          "showtimes": 942,
+          "theaters": 181,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Return of the General of Kingdom",
+          "japanese name": "キングダム 大将軍の帰還",
+          "sales": 58567,
+          "seats": 121633,
+          "showtimes": 719,
+          "theaters": 186,
+          "rank": 3,
+          "last_week_ratio": 180.5
+        },
+        {
+          "moviename": "The Minion Super Transformation of Master Thief Grou",
+          "japanese name": "怪盗グルーのミニオン超変身",
+          "sales": 57073,
+          "seats": 131189,
+          "showtimes": 771,
+          "theaters": 186,
+          "rank": 4,
+          "last_week_ratio": 132
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE Your Next",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ユアネクスト",
+          "sales": 43773,
+          "seats": 249472,
+          "showtimes": 1094,
+          "theaters": 180,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 20921,
+          "seats": 122376,
+          "showtimes": 527,
+          "theaters": 183,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "DEADPOOL & WOLVERINE",
+          "japanese name": "デッドプール＆ウルヴァリン",
+          "sales": 19406,
+          "seats": 70333,
+          "showtimes": 488,
+          "theaters": 180,
+          "rank": 7,
+          "last_week_ratio": 135.1
+        },
+        {
+          "moviename": "If Tokugawa Ieyasu Became Prime Minister",
+          "japanese name": "もしも徳川家康が総理大臣になったら",
+          "sales": 17592,
+          "seats": 49906,
+          "showtimes": 430,
+          "theaters": 179,
+          "rank": 8,
+          "last_week_ratio": 136
+        },
+        {
+          "moviename": "BLUE PERIOD",
+          "japanese name": "ブルーピリオド",
+          "sales": 16955,
+          "seats": 118456,
+          "showtimes": 872,
+          "theaters": 181,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bodyguard of Akane Tsuchiya",
+          "japanese name": "赤羽骨子のボディガード",
+          "sales": 16086,
+          "seats": 67510,
+          "showtimes": 513,
+          "theaters": 176,
+          "rank": 10,
+          "last_week_ratio": 114.9
+        },
+        {
+          "moviename": "Who's that?",
+          "japanese name": "あのコはだぁれ？",
+          "sales": 13095,
+          "seats": 27396,
+          "showtimes": 193,
+          "theaters": 125,
+          "rank": 11,
+          "last_week_ratio": 114.2
+        },
+        {
+          "moviename": "Theatrical Compilation Bocchi the Rock! Re:Re:",
+          "japanese name": "劇場総集編ぼっち・ざ・ろっく！Ｒｅ：Ｒｅ：",
+          "sales": 11540,
+          "seats": 82511,
+          "showtimes": 434,
+          "theaters": 96,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Twisters",
+          "japanese name": "ツイスターズ",
+          "sales": 11147,
+          "seats": 57285,
+          "showtimes": 463,
+          "theaters": 180,
+          "rank": 13,
+          "last_week_ratio": 106
+        },
+        {
+          "moviename": "Kamen Rider Gatchaard & Bomber Team Bumbunja",
+          "japanese name": "仮面ライダーガッチャード＆爆上戦隊ブンブンジャー",
+          "sales": 5335,
+          "seats": 22070,
+          "showtimes": 178,
+          "theaters": 158,
+          "rank": 14,
+          "last_week_ratio": 148.4
+        },
+        {
+          "moviename": "Lookback",
+          "japanese name": "ルックバック",
+          "sales": 4746,
+          "seats": 18481,
+          "showtimes": 107,
+          "theaters": 74,
+          "rank": 15,
+          "last_week_ratio": 119.9
+        },
+        {
+          "moviename": "Movie version of Mononoke怪 唐傘",
+          "japanese name": "劇場版 モノノ怪 唐傘",
+          "sales": 4675,
+          "seats": 18867,
+          "showtimes": 133,
+          "theaters": 127,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie version of Sutプリ はじまりの物語 Strawberry School Festival!!!!!",
+          "japanese name": "劇場版すとぷり はじまりの物語 Ｓｔｒａｗｂｅｒｒｙ Ｓｃｈｏｏｌ Ｆｅｓｔｉｖａｌ！！！",
+          "sales": 3667,
+          "seats": 18880,
+          "showtimes": 145,
+          "theaters": 148,
+          "rank": 17,
+          "last_week_ratio": 128.1
+        },
+        {
+          "moviename": "Detective Conan 100 Million Dollar Pentagon (指南针)",
+          "japanese name": "名探偵コナン １００万ドルの五稜星（みちしるべ）",
+          "sales": 3631,
+          "seats": 23144,
+          "showtimes": 157,
+          "theaters": 164,
+          "rank": 18,
+          "last_week_ratio": 193.8
+        },
+        {
+          "moviename": "Let's Go! Anpanman vs. Bakkinman and the Storybook Lulu",
+          "japanese name": "それいけ！アンパンマン ばいきんまんとえほんのルルン",
+          "sales": 3118,
+          "seats": 20452,
+          "showtimes": 140,
+          "theaters": 142,
+          "rank": 19,
+          "last_week_ratio": 238.2
+        },
+        {
+          "moviename": "\"Cardcaptor Sakura the Movie\" 25th Anniversary Screening",
+          "japanese name": "「劇場版カードキャプターさくら」公開２５周年記念上映",
+          "sales": 2246,
+          "seats": 6752,
+          "showtimes": 33,
+          "theaters": 16,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "On the Run THE MOVIE",
+          "japanese name": "逃走中 ＴＨＥ ＭＯＶＩＥ",
+          "sales": 1975,
+          "seats": 17349,
+          "showtimes": 122,
+          "theaters": 126,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Hiroyuki!! Battle at the Garbage Dump",
+          "japanese name": "劇場版ハイキュー！！ ゴミ捨て場の決戦",
+          "sales": 1788,
+          "seats": 6619,
+          "showtimes": 39,
+          "theaters": 39,
+          "rank": 22,
+          "last_week_ratio": 110
+        },
+        {
+          "moviename": "Patrol Patroller The Mighty Movie",
+          "japanese name": "パウ・パトロール ザ・マイティ・ムービー",
+          "sales": 1642,
+          "seats": 5411,
+          "showtimes": 36,
+          "theaters": 26,
+          "rank": 23,
+          "last_week_ratio": 201.7
+        },
+        {
+          "moviename": "Code Geass: Requiem for the Phantom Final Act",
+          "japanese name": "コードギアス 奪還のロゼ 最終幕",
+          "sales": 1545,
+          "seats": 16599,
+          "showtimes": 93,
+          "theaters": 40,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pu 2: The Badger and Friends in the Forest",
+          "japanese name": "プー２ あくまのくまさんとじゃあくななかまたち",
+          "sales": 1397,
+          "seats": 12992,
+          "showtimes": 88,
+          "theaters": 42,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

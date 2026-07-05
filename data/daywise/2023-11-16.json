@@ -1,0 +1,773 @@
+{
+  "date": "16-11-2023",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Godzilla - 1.0",
+          "japanese name": "ゴジラ－１．０",
+          "sales": 12364,
+          "seats": 180725,
+          "showtimes": 668,
+          "theaters": 183,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Marvels",
+          "japanese name": "マーベルズ",
+          "sales": 4602,
+          "seats": 137027,
+          "showtimes": 558,
+          "theaters": 183,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Court Game",
+          "japanese name": "法廷遊戯",
+          "sales": 3529,
+          "seats": 82467,
+          "showtimes": 395,
+          "theaters": 172,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "About to",
+          "japanese name": "正欲",
+          "sales": 2793,
+          "seats": 36657,
+          "showtimes": 243,
+          "theaters": 133,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Sumikko Gurashi Tsugihagi Factory no Fushigi na Ko",
+          "japanese name": "映画 すみっコぐらし ツギハギ工場のふしぎなコ",
+          "sales": 1131,
+          "seats": 54189,
+          "showtimes": 342,
+          "theaters": 142,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Not to be called a mystery",
+          "japanese name": "ミステリと言う勿れ",
+          "sales": 1060,
+          "seats": 19569,
+          "showtimes": 152,
+          "theaters": 177,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Decibel",
+          "japanese name": "デシベル",
+          "sales": 945,
+          "seats": 12319,
+          "showtimes": 96,
+          "theaters": 56,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Welcome to Koshida Distillery",
+          "japanese name": "駒田蒸留所へようこそ",
+          "sales": 805,
+          "seats": 23626,
+          "showtimes": 183,
+          "theaters": 103,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Analog",
+          "japanese name": "アナログ",
+          "sales": 793,
+          "seats": 11987,
+          "showtimes": 98,
+          "theaters": 154,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gintama On Stage 2D Baragaki Chapter",
+          "japanese name": "銀魂オンシアター２Ｄ バラガキ篇",
+          "sales": 523,
+          "seats": 21879,
+          "showtimes": 124,
+          "theaters": 75,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Silent Fleet\"",
+          "japanese name": "映画「沈黙の艦隊」",
+          "sales": 481,
+          "seats": 11684,
+          "showtimes": 97,
+          "theaters": 142,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ONE PIECE FILM RED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 413,
+          "seats": 10838,
+          "showtimes": 85,
+          "theaters": 163,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tenshu Monogatari Cinema Kabuki \"Sakato Kozo III:泉水鏡花抄4 works\" screening",
+          "japanese name": "天守物語 シネマ歌舞伎「坂東玉三郎 泉鏡花抄４作品」上映",
+          "sales": 289,
+          "seats": 3607,
+          "showtimes": 31,
+          "theaters": 33,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Creator",
+          "japanese name": "ザ・クリエイター／創造者",
+          "sales": 263,
+          "seats": 6820,
+          "showtimes": 56,
+          "theaters": 160,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Domino",
+          "japanese name": "ドミノ",
+          "sales": 256,
+          "seats": 12446,
+          "showtimes": 90,
+          "theaters": 163,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version Uta no Prince-sama♪ Maji LOVE Starlight Tours",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
+          "sales": 240,
+          "seats": 3992,
+          "showtimes": 18,
+          "theaters": 51,
+          "rank": 16,
+          "last_week_ratio": 104.3
+        },
+        {
+          "moviename": "Yutori desu ga nanika International",
+          "japanese name": "ゆとりですがなにか インターナショナル",
+          "sales": 229,
+          "seats": 6859,
+          "showtimes": 52,
+          "theaters": 155,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Killers of the Flower Moon",
+          "japanese name": "キラーズ・オブ・ザ・フラワームーン",
+          "sales": 212,
+          "seats": 3960,
+          "showtimes": 30,
+          "theaters": 85,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Digimon Adventure 02 THE BEGINNING",
+          "japanese name": "デジモンアドベンチャー０２ ＴＨＥ ＢＥＧＩＮＮＩＮＧ",
+          "sales": 209,
+          "seats": 7026,
+          "showtimes": 53,
+          "theaters": 50,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Confess your sins",
+          "japanese name": "おまえの罪を自白しろ",
+          "sales": 202,
+          "seats": 9929,
+          "showtimes": 77,
+          "theaters": 156,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "How do you live?",
+          "japanese name": "君たちはどう生きるか",
+          "sales": 178,
+          "seats": 7175,
+          "showtimes": 57,
+          "theaters": 162,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A former idol who had given up on life chose to live with a complete stranger, an old man",
+          "japanese name": "人生に詰んだ元アイドルは、赤の他人のおっさんと住む選択をした",
+          "sales": 175,
+          "seats": 6128,
+          "showtimes": 55,
+          "theaters": 112,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nihonbashi Cinema Kabuki \"Sakata Gokuzō: Izumi Kyōka Four Works\" Screening",
+          "japanese name": "日本橋 シネマ歌舞伎「坂東玉三郎 泉鏡花抄４作品」上映",
+          "sales": 172,
+          "seats": 3110,
+          "showtimes": 25,
+          "theaters": 25,
+          "rank": 23,
+          "last_week_ratio": 121.1
+        },
+        {
+          "moviename": "Forest of Assassination",
+          "japanese name": "暗殺の森",
+          "sales": 149,
+          "seats": 2420,
+          "showtimes": 20,
+          "theaters": 21,
+          "rank": 24,
+          "last_week_ratio": 173.3
+        },
+        {
+          "moviename": "Concierge from the North Pole Department Store",
+          "japanese name": "北極百貨店のコンシェルジュさん",
+          "sales": 140,
+          "seats": 6905,
+          "showtimes": 45,
+          "theaters": 77,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Godzilla - 1.0",
+          "japanese name": "ゴジラ－１．０",
+          "sales": 21062,
+          "seats": 349602,
+          "showtimes": 1280,
+          "theaters": 183,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Marvels",
+          "japanese name": "マーベルズ",
+          "sales": 7905,
+          "seats": 247566,
+          "showtimes": 1024,
+          "theaters": 183,
+          "rank": 2,
+          "last_week_ratio": 6080.8
+        },
+        {
+          "moviename": "Court Game",
+          "japanese name": "法廷遊戯",
+          "sales": 5774,
+          "seats": 153771,
+          "showtimes": 738,
+          "theaters": 172,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "About to",
+          "japanese name": "正欲",
+          "sales": 4486,
+          "seats": 68775,
+          "showtimes": 455,
+          "theaters": 133,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Sumikko Gurashi Tsugihagi Factory no Fushigi na Ko",
+          "japanese name": "映画 すみっコぐらし ツギハギ工場のふしぎなコ",
+          "sales": 2139,
+          "seats": 84711,
+          "showtimes": 545,
+          "theaters": 142,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Not to be called a mystery",
+          "japanese name": "ミステリと言う勿れ",
+          "sales": 2097,
+          "seats": 36209,
+          "showtimes": 282,
+          "theaters": 177,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Welcome to Koshida Distillery",
+          "japanese name": "駒田蒸留所へようこそ",
+          "sales": 1438,
+          "seats": 45610,
+          "showtimes": 358,
+          "theaters": 103,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ONE PIECE FILM RED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 1319,
+          "seats": 26237,
+          "showtimes": 200,
+          "theaters": 163,
+          "rank": 8,
+          "last_week_ratio": 103.1
+        },
+        {
+          "moviename": "Analog",
+          "japanese name": "アナログ",
+          "sales": 1302,
+          "seats": 19150,
+          "showtimes": 152,
+          "theaters": 154,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Decibel",
+          "japanese name": "デシベル",
+          "sales": 1284,
+          "seats": 20497,
+          "showtimes": 158,
+          "theaters": 56,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gintama On Stage 2D Baragaki Chapter",
+          "japanese name": "銀魂オンシアター２Ｄ バラガキ篇",
+          "sales": 1207,
+          "seats": 39009,
+          "showtimes": 224,
+          "theaters": 75,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version Uta no Prince-sama♪ Maji LOVE Starlight Tours",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
+          "sales": 1136,
+          "seats": 10575,
+          "showtimes": 58,
+          "theaters": 51,
+          "rank": 12,
+          "last_week_ratio": 233.3
+        },
+        {
+          "moviename": "Movie \"Silent Fleet\"",
+          "japanese name": "映画「沈黙の艦隊」",
+          "sales": 605,
+          "seats": 15140,
+          "showtimes": 127,
+          "theaters": 142,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Creator",
+          "japanese name": "ザ・クリエイター／創造者",
+          "sales": 596,
+          "seats": 15967,
+          "showtimes": 130,
+          "theaters": 160,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Domino",
+          "japanese name": "ドミノ",
+          "sales": 526,
+          "seats": 24110,
+          "showtimes": 174,
+          "theaters": 163,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Yutori desu ga nanika International",
+          "japanese name": "ゆとりですがなにか インターナショナル",
+          "sales": 475,
+          "seats": 17177,
+          "showtimes": 132,
+          "theaters": 155,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Killers of the Flower Moon",
+          "japanese name": "キラーズ・オブ・ザ・フラワームーン",
+          "sales": 474,
+          "seats": 9085,
+          "showtimes": 70,
+          "theaters": 85,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kiriye no uta",
+          "japanese name": "キリエのうた",
+          "sales": 454,
+          "seats": 8653,
+          "showtimes": 66,
+          "theaters": 85,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "How do you live?",
+          "japanese name": "君たちはどう生きるか",
+          "sales": 425,
+          "seats": 15641,
+          "showtimes": 122,
+          "theaters": 162,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Confess your sins",
+          "japanese name": "おまえの罪を自白しろ",
+          "sales": 422,
+          "seats": 20974,
+          "showtimes": 157,
+          "theaters": 156,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Digimon Adventure 02 THE BEGINNING",
+          "japanese name": "デジモンアドベンチャー０２ ＴＨＥ ＢＥＧＩＮＮＩＮＧ",
+          "sales": 407,
+          "seats": 11125,
+          "showtimes": 85,
+          "theaters": 50,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "IVE THE 1ST WORLD TOUR SHOW WHAT I HAVE IN JAPAN",
+          "japanese name": "ＩＶＥ ＴＨＥ １ＳＴ ＷＯＲＬＤ ＴＯＵＲ ＳＨＯＷ ＷＨＡＴ Ｉ ＨＡＶＥ ＩＮ ＪＡＰＡＮ",
+          "sales": 346,
+          "seats": 1759,
+          "showtimes": 23,
+          "theaters": 23,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A former idol who had given up on life chose to live with a complete stranger, an old man",
+          "japanese name": "人生に詰んだ元アイドルは、赤の他人のおっさんと住む選択をした",
+          "sales": 324,
+          "seats": 13103,
+          "showtimes": 115,
+          "theaters": 112,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Concierge from the North Pole Department Store",
+          "japanese name": "北極百貨店のコンシェルジュさん",
+          "sales": 324,
+          "seats": 11235,
+          "showtimes": 79,
+          "theaters": 77,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tenshu Monogatari Cinema Kabuki \"Sakato Kozo III:泉水鏡花抄4 works\" screening",
+          "japanese name": "天守物語 シネマ歌舞伎「坂東玉三郎 泉鏡花抄４作品」上映",
+          "sales": 323,
+          "seats": 4083,
+          "showtimes": 33,
+          "theaters": 33,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Godzilla - 1.0",
+          "japanese name": "ゴジラ－１．０",
+          "sales": 36977,
+          "seats": 433906,
+          "showtimes": 1594,
+          "theaters": 183,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Marvels",
+          "japanese name": "マーベルズ",
+          "sales": 16457,
+          "seats": 313650,
+          "showtimes": 1309,
+          "theaters": 183,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Court Game",
+          "japanese name": "法廷遊戯",
+          "sales": 10929,
+          "seats": 193966,
+          "showtimes": 929,
+          "theaters": 172,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "About to",
+          "japanese name": "正欲",
+          "sales": 9420,
+          "seats": 89662,
+          "showtimes": 590,
+          "theaters": 133,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Sumikko Gurashi Tsugihagi Factory no Fushigi na Ko",
+          "japanese name": "映画 すみっコぐらし ツギハギ工場のふしぎなコ",
+          "sales": 4610,
+          "seats": 94442,
+          "showtimes": 607,
+          "theaters": 142,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Not to be called a mystery",
+          "japanese name": "ミステリと言う勿れ",
+          "sales": 4095,
+          "seats": 47676,
+          "showtimes": 369,
+          "theaters": 177,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Welcome to Koshida Distillery",
+          "japanese name": "駒田蒸留所へようこそ",
+          "sales": 3392,
+          "seats": 59029,
+          "showtimes": 463,
+          "theaters": 103,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gintama On Stage 2D Baragaki Chapter",
+          "japanese name": "銀魂オンシアター２Ｄ バラガキ篇",
+          "sales": 2597,
+          "seats": 49678,
+          "showtimes": 290,
+          "theaters": 75,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Decibel",
+          "japanese name": "デシベル",
+          "sales": 2492,
+          "seats": 27256,
+          "showtimes": 214,
+          "theaters": 56,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ONE PIECE FILM RED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 2391,
+          "seats": 31796,
+          "showtimes": 239,
+          "theaters": 163,
+          "rank": 10,
+          "last_week_ratio": 104.9
+        },
+        {
+          "moviename": "Analog",
+          "japanese name": "アナログ",
+          "sales": 2338,
+          "seats": 21412,
+          "showtimes": 172,
+          "theaters": 154,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version Uta no Prince-sama♪ Maji LOVE Starlight Tours",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
+          "sales": 2269,
+          "seats": 14575,
+          "showtimes": 81,
+          "theaters": 51,
+          "rank": 12,
+          "last_week_ratio": 128.4
+        },
+        {
+          "moviename": "Yutori desu ga nanika International",
+          "japanese name": "ゆとりですがなにか インターナショナル",
+          "sales": 1247,
+          "seats": 20437,
+          "showtimes": 160,
+          "theaters": 155,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Creator",
+          "japanese name": "ザ・クリエイター／創造者",
+          "sales": 1144,
+          "seats": 22184,
+          "showtimes": 180,
+          "theaters": 161,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Domino",
+          "japanese name": "ドミノ",
+          "sales": 1063,
+          "seats": 34517,
+          "showtimes": 249,
+          "theaters": 163,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Killers of the Flower Moon",
+          "japanese name": "キラーズ・オブ・ザ・フラワームーン",
+          "sales": 1059,
+          "seats": 11302,
+          "showtimes": 87,
+          "theaters": 85,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Digimon Adventure 02 THE BEGINNING",
+          "japanese name": "デジモンアドベンチャー０２ ＴＨＥ ＢＥＧＩＮＮＩＮＧ",
+          "sales": 938,
+          "seats": 12584,
+          "showtimes": 96,
+          "theaters": 50,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "How do you live?",
+          "japanese name": "君たちはどう生きるか",
+          "sales": 860,
+          "seats": 20333,
+          "showtimes": 162,
+          "theaters": 162,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Silent Fleet\"",
+          "japanese name": "映画「沈黙の艦隊」",
+          "sales": 823,
+          "seats": 17537,
+          "showtimes": 143,
+          "theaters": 142,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kiriye no uta",
+          "japanese name": "キリエのうた",
+          "sales": 752,
+          "seats": 11173,
+          "showtimes": 85,
+          "theaters": 85,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Confess your sins",
+          "japanese name": "おまえの罪を自白しろ",
+          "sales": 667,
+          "seats": 23508,
+          "showtimes": 176,
+          "theaters": 156,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I Did It",
+          "japanese name": "私がやりました",
+          "sales": 614,
+          "seats": 2509,
+          "showtimes": 19,
+          "theaters": 10,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Concierge from the North Pole Department Store",
+          "japanese name": "北極百貨店のコンシェルジュさん",
+          "sales": 610,
+          "seats": 12834,
+          "showtimes": 90,
+          "theaters": 77,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A former idol who had given up on life chose to live with a complete stranger, an old man",
+          "japanese name": "人生に詰んだ元アイドルは、赤の他人のおっさんと住む選択をした",
+          "sales": 596,
+          "seats": 16226,
+          "showtimes": 145,
+          "theaters": 112,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SISU / Sis: The Immortal Man",
+          "japanese name": "ＳＩＳＵ／シス 不死身の男",
+          "sales": 578,
+          "seats": 9984,
+          "showtimes": 79,
+          "theaters": 63,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,773 @@
+{
+  "date": "17-10-2021",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Blaze of Swords",
+          "japanese name": "燃えよ剣",
+          "sales": 35749,
+          "seats": 186380,
+          "showtimes": 715,
+          "theaters": 287,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "007 No Time to Die",
+          "japanese name": "００７ ノー・タイム・トゥ・ダイ",
+          "sales": 27431,
+          "seats": 78650,
+          "showtimes": 538,
+          "theaters": 294,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Lupin the Third",
+          "japanese name": "劇場版 ルパンの娘",
+          "sales": 21315,
+          "seats": 129133,
+          "showtimes": 660,
+          "theaters": 275,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Masquerade Night",
+          "japanese name": "マスカレード・ナイト",
+          "sales": 20514,
+          "seats": 58612,
+          "showtimes": 463,
+          "theaters": 287,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "DUNE/Dune: Planet of Sand",
+          "japanese name": "ＤＵＮＥ／デューン 砂の惑星",
+          "sales": 18275,
+          "seats": 119621,
+          "showtimes": 739,
+          "theaters": 286,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Law of the Universe - Elrohir Edition -",
+          "japanese name": "宇宙の法－エローヒム編－",
+          "sales": 14170,
+          "seats": 33695,
+          "showtimes": 221,
+          "theaters": 145,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "For those who were not protected",
+          "japanese name": "護られなかった者たちへ",
+          "sales": 8900,
+          "seats": 37418,
+          "showtimes": 379,
+          "theaters": 287,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Cache Track",
+          "japanese name": "キャッシュトラック",
+          "sales": 4803,
+          "seats": 20183,
+          "showtimes": 189,
+          "theaters": 181,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Macross Δ The Movie Absolute LIVESTREAM!!!!!",
+          "japanese name": "劇場版マクロス△ 絶対ＬＩＶＥ！！！！！！",
+          "sales": 4305,
+          "seats": 14027,
+          "showtimes": 108,
+          "theaters": 112,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Final Trial Duel",
+          "japanese name": "最後の決闘裁判",
+          "sales": 4260,
+          "seats": 55515,
+          "showtimes": 444,
+          "theaters": 265,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 Free! - the Final Stroke- Part 1",
+          "japanese name": "劇場版 Ｆｒｅｅ！ －ｔｈｅ Ｆｉｎａｌ Ｓｔｒｏｋｅ－ 前編",
+          "sales": 3347,
+          "seats": 11210,
+          "showtimes": 67,
+          "theaters": 130,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE World Heroes Mission",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ワールド ヒーローズ ミッション",
+          "sales": 3137,
+          "seats": 14066,
+          "showtimes": 122,
+          "theaters": 219,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 The Man I Want to Marry Rank 1 is Threatening Me.～Spain Edition～",
+          "japanese name": "劇場版 抱かれたい男１位に脅されています。～スペイン編～",
+          "sales": 2868,
+          "seats": 12246,
+          "showtimes": 83,
+          "theaters": 59,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dragon and the Scarred Princess",
+          "japanese name": "竜とそばかすの姫",
+          "sales": 2863,
+          "seats": 10525,
+          "showtimes": 96,
+          "theaters": 267,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Candyman",
+          "japanese name": "キャンディマン",
+          "sales": 2134,
+          "seats": 30091,
+          "showtimes": 243,
+          "theaters": 146,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Uchū Senkan Yamato 2205: A New Journey Begins - Prologue TAKE OFF",
+          "japanese name": "宇宙戦艦ヤマト２２０５ 新たなる旅立ち 前章 ＴＡＫＥ ＯＦＦ",
+          "sales": 1874,
+          "seats": 6277,
+          "showtimes": 43,
+          "theaters": 34,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Prime Minister's husband",
+          "japanese name": "総理の夫",
+          "sales": 1434,
+          "seats": 13493,
+          "showtimes": 135,
+          "theaters": 237,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kaguya-sama: Love Is War～The Love Brain Battle of the Geniuses～Final",
+          "japanese name": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～ファイナル",
+          "sales": 1256,
+          "seats": 2758,
+          "showtimes": 28,
+          "theaters": 71,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ONODA Crossing ten thousand nights",
+          "japanese name": "ＯＮＯＤＡ 一万夜を越えて",
+          "sales": 1125,
+          "seats": 5055,
+          "showtimes": 47,
+          "theaters": 56,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Girls & Panzer The Final Chapter Episode 3",
+          "japanese name": "ガールズ＆パンツァー 最終章 第３話",
+          "sales": 1040,
+          "seats": 6409,
+          "showtimes": 72,
+          "theaters": 67,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Crayon Shin-chan Movie: Mysterious! Flower of the Sky School",
+          "japanese name": "映画クレヨンしんちゃん  謎メキ！花の天カス学園",
+          "sales": 1033,
+          "seats": 3126,
+          "showtimes": 36,
+          "theaters": 43,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MINAMATA Minamata",
+          "japanese name": "ＭＩＮＡＭＡＴＡ ミナマタ",
+          "sales": 919,
+          "seats": 4979,
+          "showtimes": 44,
+          "theaters": 84,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版オトッペ Papa Don't Cry",
+          "japanese name": "劇場版オトッペ パパ・ドント・クライ",
+          "sales": 875,
+          "seats": 27998,
+          "showtimes": 305,
+          "theaters": 117,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "If it's the devil's fault at the haunted house, he's innocent.",
+          "japanese name": "死霊館 悪魔のせいなら、無罪。",
+          "sales": 830,
+          "seats": 3827,
+          "showtimes": 34,
+          "theaters": 171,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The child of the god in the moon",
+          "japanese name": "神在月のこども",
+          "sales": 824,
+          "seats": 10436,
+          "showtimes": 123,
+          "theaters": 162,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Blaze of Swords",
+          "japanese name": "燃えよ剣",
+          "sales": 52315,
+          "seats": 323409,
+          "showtimes": 1261,
+          "theaters": 287,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "007 No Time to Die",
+          "japanese name": "００７ ノー・タイム・トゥ・ダイ",
+          "sales": 41761,
+          "seats": 133984,
+          "showtimes": 915,
+          "theaters": 294,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Masquerade Night",
+          "japanese name": "マスカレード・ナイト",
+          "sales": 36426,
+          "seats": 105380,
+          "showtimes": 833,
+          "theaters": 287,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Lupin the Third",
+          "japanese name": "劇場版 ルパンの娘",
+          "sales": 30858,
+          "seats": 239098,
+          "showtimes": 1194,
+          "theaters": 275,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "DUNE/Dune: Planet of Sand",
+          "japanese name": "ＤＵＮＥ／デューン 砂の惑星",
+          "sales": 29265,
+          "seats": 210286,
+          "showtimes": 1316,
+          "theaters": 286,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Law of the Universe - Elrohir Edition -",
+          "japanese name": "宇宙の法－エローヒム編－",
+          "sales": 26412,
+          "seats": 61270,
+          "showtimes": 396,
+          "theaters": 145,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "For those who were not protected",
+          "japanese name": "護られなかった者たちへ",
+          "sales": 13562,
+          "seats": 59668,
+          "showtimes": 610,
+          "theaters": 287,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Cache Track",
+          "japanese name": "キャッシュトラック",
+          "sales": 7362,
+          "seats": 34942,
+          "showtimes": 328,
+          "theaters": 181,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Macross Δ The Movie Absolute LIVESTREAM!!!!!",
+          "japanese name": "劇場版マクロス△ 絶対ＬＩＶＥ！！！！！！",
+          "sales": 7107,
+          "seats": 26311,
+          "showtimes": 205,
+          "theaters": 112,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Final Trial Duel",
+          "japanese name": "最後の決闘裁判",
+          "sales": 6402,
+          "seats": 93686,
+          "showtimes": 760,
+          "theaters": 265,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 Free! - the Final Stroke- Part 1",
+          "japanese name": "劇場版 Ｆｒｅｅ！ －ｔｈｅ Ｆｉｎａｌ Ｓｔｒｏｋｅ－ 前編",
+          "sales": 6077,
+          "seats": 24061,
+          "showtimes": 151,
+          "theaters": 130,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dragon and the Scarred Princess",
+          "japanese name": "竜とそばかすの姫",
+          "sales": 5850,
+          "seats": 26310,
+          "showtimes": 247,
+          "theaters": 266,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE World Heroes Mission",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ワールド ヒーローズ ミッション",
+          "sales": 5378,
+          "seats": 24854,
+          "showtimes": 220,
+          "theaters": 217,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 The Man I Want to Marry Rank 1 is Threatening Me.～Spain Edition～",
+          "japanese name": "劇場版 抱かれたい男１位に脅されています。～スペイン編～",
+          "sales": 4413,
+          "seats": 21057,
+          "showtimes": 147,
+          "theaters": 59,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Candyman",
+          "japanese name": "キャンディマン",
+          "sales": 4341,
+          "seats": 61730,
+          "showtimes": 491,
+          "theaters": 146,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "If it's the devil's fault at the haunted house, he's innocent.",
+          "japanese name": "死霊館 悪魔のせいなら、無罪。",
+          "sales": 3578,
+          "seats": 14870,
+          "showtimes": 141,
+          "theaters": 171,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Uchū Senkan Yamato 2205: A New Journey Begins - Prologue TAKE OFF",
+          "japanese name": "宇宙戦艦ヤマト２２０５ 新たなる旅立ち 前章 ＴＡＫＥ ＯＦＦ",
+          "sales": 2872,
+          "seats": 10819,
+          "showtimes": 76,
+          "theaters": 34,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kaguya-sama: Love Is War～The Love Brain Battle of the Geniuses～Final",
+          "japanese name": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～ファイナル",
+          "sales": 2538,
+          "seats": 6476,
+          "showtimes": 75,
+          "theaters": 70,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Prime Minister's husband",
+          "japanese name": "総理の夫",
+          "sales": 1966,
+          "seats": 21846,
+          "showtimes": 220,
+          "theaters": 237,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Yumeta Natsumoko Solo Concert Live Viewing",
+          "japanese name": "百田夏菜子ソロコンサート ライブビューイング",
+          "sales": 1748,
+          "seats": 2266,
+          "showtimes": 26,
+          "theaters": 29,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Girls & Panzer The Final Chapter Episode 3",
+          "japanese name": "ガールズ＆パンツァー 最終章 第３話",
+          "sales": 1657,
+          "seats": 10797,
+          "showtimes": 121,
+          "theaters": 67,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Crayon Shin-chan Movie: Mysterious! Flower of the Sky School",
+          "japanese name": "映画クレヨンしんちゃん  謎メキ！花の天カス学園",
+          "sales": 1439,
+          "seats": 3786,
+          "showtimes": 42,
+          "theaters": 42,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MINAMATA Minamata",
+          "japanese name": "ＭＩＮＡＭＡＴＡ ミナマタ",
+          "sales": 1390,
+          "seats": 7277,
+          "showtimes": 70,
+          "theaters": 84,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The child of the god in the moon",
+          "japanese name": "神在月のこども",
+          "sales": 1375,
+          "seats": 17952,
+          "showtimes": 215,
+          "theaters": 162,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ONODA Crossing ten thousand nights",
+          "japanese name": "ＯＮＯＤＡ 一万夜を越えて",
+          "sales": 1369,
+          "seats": 7357,
+          "showtimes": 65,
+          "theaters": 56,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Blaze of Swords",
+          "japanese name": "燃えよ剣",
+          "sales": 57704,
+          "seats": 398737,
+          "showtimes": 1547,
+          "theaters": 287,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "007 No Time to Die",
+          "japanese name": "００７ ノー・タイム・トゥ・ダイ",
+          "sales": 47453,
+          "seats": 173724,
+          "showtimes": 1213,
+          "theaters": 294,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "DUNE/Dune: Planet of Sand",
+          "japanese name": "ＤＵＮＥ／デューン 砂の惑星",
+          "sales": 40364,
+          "seats": 276801,
+          "showtimes": 1682,
+          "theaters": 286,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Masquerade Night",
+          "japanese name": "マスカレード・ナイト",
+          "sales": 35268,
+          "seats": 137567,
+          "showtimes": 1106,
+          "theaters": 287,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Lupin the Third",
+          "japanese name": "劇場版 ルパンの娘",
+          "sales": 27904,
+          "seats": 299459,
+          "showtimes": 1477,
+          "theaters": 275,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Law of the Universe - Elrohir Edition -",
+          "japanese name": "宇宙の法－エローヒム編－",
+          "sales": 25578,
+          "seats": 66157,
+          "showtimes": 430,
+          "theaters": 146,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "For those who were not protected",
+          "japanese name": "護られなかった者たちへ",
+          "sales": 14748,
+          "seats": 77517,
+          "showtimes": 800,
+          "theaters": 287,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Macross Δ The Movie Absolute LIVESTREAM!!!!!",
+          "japanese name": "劇場版マクロス△ 絶対ＬＩＶＥ！！！！！！",
+          "sales": 11276,
+          "seats": 37195,
+          "showtimes": 289,
+          "theaters": 112,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 Free! - the Final Stroke- Part 1",
+          "japanese name": "劇場版 Ｆｒｅｅ！ －ｔｈｅ Ｆｉｎａｌ Ｓｔｒｏｋｅ－ 前編",
+          "sales": 8452,
+          "seats": 29193,
+          "showtimes": 185,
+          "theaters": 132,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Cache Track",
+          "japanese name": "キャッシュトラック",
+          "sales": 8235,
+          "seats": 46994,
+          "showtimes": 455,
+          "theaters": 181,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Final Trial Duel",
+          "japanese name": "最後の決闘裁判",
+          "sales": 8194,
+          "seats": 123050,
+          "showtimes": 1007,
+          "theaters": 265,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Candyman",
+          "japanese name": "キャンディマン",
+          "sales": 5474,
+          "seats": 82758,
+          "showtimes": 641,
+          "theaters": 146,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 The Man I Want to Marry Rank 1 is Threatening Me.～Spain Edition～",
+          "japanese name": "劇場版 抱かれたい男１位に脅されています。～スペイン編～",
+          "sales": 5024,
+          "seats": 24218,
+          "showtimes": 174,
+          "theaters": 59,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dragon and the Scarred Princess",
+          "japanese name": "竜とそばかすの姫",
+          "sales": 4677,
+          "seats": 28497,
+          "showtimes": 272,
+          "theaters": 267,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "If it's the devil's fault at the haunted house, he's innocent.",
+          "japanese name": "死霊館 悪魔のせいなら、無罪。",
+          "sales": 4559,
+          "seats": 22810,
+          "showtimes": 222,
+          "theaters": 172,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Uchū Senkan Yamato 2205: A New Journey Begins - Prologue TAKE OFF",
+          "japanese name": "宇宙戦艦ヤマト２２０５ 新たなる旅立ち 前章 ＴＡＫＥ ＯＦＦ",
+          "sales": 4050,
+          "seats": 14565,
+          "showtimes": 105,
+          "theaters": 34,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE World Heroes Mission",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ワールド ヒーローズ ミッション",
+          "sales": 3863,
+          "seats": 25965,
+          "showtimes": 231,
+          "theaters": 219,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ryoma! The Prince of Tennis New Stage Theater Version",
+          "japanese name": "リョーマ！Ｔｈｅ Ｐｒｉｎｃｅ ｏｆ Ｔｅｎｎｉｓ 新生劇場版テニスの王子様",
+          "sales": 3003,
+          "seats": 12896,
+          "showtimes": 102,
+          "theaters": 70,
+          "rank": 18,
+          "last_week_ratio": 110.2
+        },
+        {
+          "moviename": "Girls & Panzer The Final Chapter Episode 3",
+          "japanese name": "ガールズ＆パンツァー 最終章 第３話",
+          "sales": 2323,
+          "seats": 13136,
+          "showtimes": 146,
+          "theaters": 67,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kaguya-sama: Love Is War～The Love Brain Battle of the Geniuses～Final",
+          "japanese name": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～ファイナル",
+          "sales": 1773,
+          "seats": 6804,
+          "showtimes": 81,
+          "theaters": 75,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Prime Minister's husband",
+          "japanese name": "総理の夫",
+          "sales": 1697,
+          "seats": 23508,
+          "showtimes": 238,
+          "theaters": 237,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MINAMATA Minamata",
+          "japanese name": "ＭＩＮＡＭＡＴＡ ミナマタ",
+          "sales": 1354,
+          "seats": 9308,
+          "showtimes": 85,
+          "theaters": 86,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ONODA Crossing ten thousand nights",
+          "japanese name": "ＯＮＯＤＡ 一万夜を越えて",
+          "sales": 1185,
+          "seats": 7464,
+          "showtimes": 66,
+          "theaters": 56,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Blank",
+          "japanese name": "空白",
+          "sales": 1164,
+          "seats": 11667,
+          "showtimes": 93,
+          "theaters": 93,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The child of the god in the moon",
+          "japanese name": "神在月のこども",
+          "sales": 1136,
+          "seats": 20060,
+          "showtimes": 243,
+          "theaters": 161,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

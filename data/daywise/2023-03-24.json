@@ -1,0 +1,773 @@
+{
+  "date": "24-03-2023",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Movie Doraemon Nobita and the Sky's Ideal乡",
+          "japanese name": "映画ドラえもん のび太と空の理想郷",
+          "sales": 15245,
+          "seats": 150136,
+          "showtimes": 538,
+          "theaters": 186,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My happy marriage",
+          "japanese name": "わたしの幸せな結婚",
+          "sales": 13429,
+          "seats": 116002,
+          "showtimes": 429,
+          "theaters": 168,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gridman Universe",
+          "japanese name": "グリッドマン ユニバース",
+          "sales": 12995,
+          "seats": 43723,
+          "showtimes": 249,
+          "theaters": 117,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shin Masked Rider",
+          "japanese name": "シン・仮面ライダー",
+          "sales": 9516,
+          "seats": 108957,
+          "showtimes": 480,
+          "theaters": 186,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Lost Care",
+          "japanese name": "ロストケア",
+          "sales": 5842,
+          "seats": 29915,
+          "showtimes": 232,
+          "theaters": 131,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SING FOR ME, RILEY",
+          "japanese name": "シング・フォー・ミー、ライル",
+          "sales": 4349,
+          "seats": 64976,
+          "showtimes": 427,
+          "theaters": 181,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "But, Kaito-kun is too sweet.",
+          "japanese name": "なのに、千輝くんが甘すぎる。",
+          "sales": 4185,
+          "seats": 23790,
+          "showtimes": 169,
+          "theaters": 142,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 3286,
+          "seats": 26703,
+          "showtimes": 173,
+          "theaters": 186,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "EVERYTHING, EVERYWHERE, ALL AT ONCE",
+          "japanese name": "エブリシング・エブリウェア・オール・アット・ワンス",
+          "sales": 2085,
+          "seats": 22292,
+          "showtimes": 152,
+          "theaters": 170,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "WORLD TOUR Screening of \"Demon Slayer: Kimetsu no Yaiba\" - Upper弦 Gathering, and to the Village of the Swordsmiths",
+          "japanese name": "ワールドツアー上映「鬼滅の刃」上弦集結、そして刀鍛冶の里へ",
+          "sales": 1716,
+          "seats": 25724,
+          "showtimes": 201,
+          "theaters": 186,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A cat wearing long boots and nine lives",
+          "japanese name": "長ぐつをはいたネコと９つの命",
+          "sales": 1540,
+          "seats": 26828,
+          "showtimes": 231,
+          "theaters": 154,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Suzume's Locksmith",
+          "japanese name": "すずめの戸締まり",
+          "sales": 1432,
+          "seats": 11018,
+          "showtimes": 89,
+          "theaters": 169,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "(Mother and Children) Mother and Children",
+          "japanese name": "（推しの子） Ｍｏｔｈｅｒ ａｎｄ Ｃｈｉｌｄｒｅｎ",
+          "sales": 1269,
+          "seats": 6137,
+          "showtimes": 40,
+          "theaters": 36,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BLUE GIANT",
+          "japanese name": "ＢＬＵＥ ＧＩＡＮＴ",
+          "sales": 1182,
+          "seats": 8021,
+          "showtimes": 44,
+          "theaters": 121,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shazam! The wrath of the gods",
+          "japanese name": "シャザム！ 神々の怒り",
+          "sales": 1173,
+          "seats": 25501,
+          "showtimes": 209,
+          "theaters": 185,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "David Bowie Moonage Daydream",
+          "japanese name": "デヴィッド・ボウイ ムーンエイジ・デイドリーム",
+          "sales": 985,
+          "seats": 8509,
+          "showtimes": 38,
+          "theaters": 44,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A man named Otto",
+          "japanese name": "オットーという男",
+          "sales": 953,
+          "seats": 6987,
+          "showtimes": 58,
+          "theaters": 114,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "RRR",
+          "japanese name": "ＲＲＲ",
+          "sales": 844,
+          "seats": 6488,
+          "showtimes": 43,
+          "theaters": 98,
+          "rank": 18,
+          "last_week_ratio": 126.3
+        },
+        {
+          "moviename": "Massive Talent",
+          "japanese name": "マッシブタレント",
+          "sales": 768,
+          "seats": 7553,
+          "showtimes": 49,
+          "theaters": 31,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Baby Wuruque",
+          "japanese name": "ベイビーわるきゅーれ",
+          "sales": 673,
+          "seats": 5853,
+          "showtimes": 37,
+          "theaters": 28,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Onsen道",
+          "japanese name": "湯道",
+          "sales": 376,
+          "seats": 6198,
+          "showtimes": 56,
+          "theaters": 154,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Thomas & Friends: Dream of the Champion Cup",
+          "japanese name": "映画 きかんしゃトーマス めざせ！夢のチャンピオンカップ",
+          "sales": 333,
+          "seats": 22143,
+          "showtimes": 130,
+          "theaters": 123,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版Argonavis AXIA",
+          "japanese name": "劇場版アルゴナビス ＡＸＩＡ",
+          "sales": 310,
+          "seats": 4694,
+          "showtimes": 33,
+          "theaters": 21,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Granddaughter of a Yokai",
+          "japanese name": "妖怪の孫",
+          "sales": 291,
+          "seats": 892,
+          "showtimes": 8,
+          "theaters": 13,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BTS: Yet To Come In Cinemas",
+          "japanese name": "ＢＴＳ： Ｙｅｔ Ｔｏ Ｃｏｍｅ ｉｎ Ｃｉｎｅｍａｓ",
+          "sales": 249,
+          "seats": 3616,
+          "showtimes": 28,
+          "theaters": 62,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Gridman Universe",
+          "japanese name": "グリッドマン ユニバース",
+          "sales": 24434,
+          "seats": 86259,
+          "showtimes": 466,
+          "theaters": 117,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Doraemon Nobita and the Sky's Ideal乡",
+          "japanese name": "映画ドラえもん のび太と空の理想郷",
+          "sales": 23432,
+          "seats": 233668,
+          "showtimes": 854,
+          "theaters": 186,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My happy marriage",
+          "japanese name": "わたしの幸せな結婚",
+          "sales": 22993,
+          "seats": 209102,
+          "showtimes": 768,
+          "theaters": 168,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shin Masked Rider",
+          "japanese name": "シン・仮面ライダー",
+          "sales": 17965,
+          "seats": 206387,
+          "showtimes": 911,
+          "theaters": 186,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Lost Care",
+          "japanese name": "ロストケア",
+          "sales": 8990,
+          "seats": 53019,
+          "showtimes": 411,
+          "theaters": 131,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "But, Kaito-kun is too sweet.",
+          "japanese name": "なのに、千輝くんが甘すぎる。",
+          "sales": 7537,
+          "seats": 43470,
+          "showtimes": 304,
+          "theaters": 142,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 7488,
+          "seats": 58384,
+          "showtimes": 362,
+          "theaters": 186,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SING FOR ME, RILEY",
+          "japanese name": "シング・フォー・ミー、ライル",
+          "sales": 6772,
+          "seats": 110973,
+          "showtimes": 723,
+          "theaters": 181,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "EVERYTHING, EVERYWHERE, ALL AT ONCE",
+          "japanese name": "エブリシング・エブリウェア・オール・アット・ワンス",
+          "sales": 4233,
+          "seats": 43386,
+          "showtimes": 294,
+          "theaters": 170,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "WORLD TOUR Screening of \"Demon Slayer: Kimetsu no Yaiba\" - Upper弦 Gathering, and to the Village of the Swordsmiths",
+          "japanese name": "ワールドツアー上映「鬼滅の刃」上弦集結、そして刀鍛冶の里へ",
+          "sales": 3272,
+          "seats": 44286,
+          "showtimes": 331,
+          "theaters": 186,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BLUE GIANT",
+          "japanese name": "ＢＬＵＥ ＧＩＡＮＴ",
+          "sales": 3232,
+          "seats": 21693,
+          "showtimes": 130,
+          "theaters": 121,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "(Mother and Children) Mother and Children",
+          "japanese name": "（推しの子） Ｍｏｔｈｅｒ ａｎｄ Ｃｈｉｌｄｒｅｎ",
+          "sales": 3110,
+          "seats": 11950,
+          "showtimes": 81,
+          "theaters": 36,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Suzume's Locksmith",
+          "japanese name": "すずめの戸締まり",
+          "sales": 2872,
+          "seats": 22148,
+          "showtimes": 172,
+          "theaters": 169,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "RRR",
+          "japanese name": "ＲＲＲ",
+          "sales": 2694,
+          "seats": 19441,
+          "showtimes": 106,
+          "theaters": 98,
+          "rank": 14,
+          "last_week_ratio": 147.7
+        },
+        {
+          "moviename": "A cat wearing long boots and nine lives",
+          "japanese name": "長ぐつをはいたネコと９つの命",
+          "sales": 2573,
+          "seats": 41193,
+          "showtimes": 346,
+          "theaters": 154,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shazam! The wrath of the gods",
+          "japanese name": "シャザム！ 神々の怒り",
+          "sales": 2439,
+          "seats": 48720,
+          "showtimes": 411,
+          "theaters": 185,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "David Bowie Moonage Daydream",
+          "japanese name": "デヴィッド・ボウイ ムーンエイジ・デイドリーム",
+          "sales": 1871,
+          "seats": 16253,
+          "showtimes": 72,
+          "theaters": 44,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A man named Otto",
+          "japanese name": "オットーという男",
+          "sales": 1388,
+          "seats": 13210,
+          "showtimes": 110,
+          "theaters": 114,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Baby Wuruque",
+          "japanese name": "ベイビーわるきゅーれ",
+          "sales": 1247,
+          "seats": 10245,
+          "showtimes": 66,
+          "theaters": 28,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Massive Talent",
+          "japanese name": "マッシブタレント",
+          "sales": 1110,
+          "seats": 12281,
+          "showtimes": 79,
+          "theaters": 31,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pulp Fiction",
+          "japanese name": "パルプ・フィクション",
+          "sales": 705,
+          "seats": 3108,
+          "showtimes": 20,
+          "theaters": 22,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Onsen道",
+          "japanese name": "湯道",
+          "sales": 671,
+          "seats": 13634,
+          "showtimes": 117,
+          "theaters": 154,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BTS: Yet To Come In Cinemas",
+          "japanese name": "ＢＴＳ： Ｙｅｔ Ｔｏ Ｃｏｍｅ ｉｎ Ｃｉｎｅｍａｓ",
+          "sales": 650,
+          "seats": 8454,
+          "showtimes": 66,
+          "theaters": 62,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Winnie",
+          "japanese name": "Ｗｉｎｎｙ",
+          "sales": 632,
+          "seats": 7815,
+          "showtimes": 63,
+          "theaters": 95,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Februmans",
+          "japanese name": "フェイブルマンズ",
+          "sales": 553,
+          "seats": 9698,
+          "showtimes": 75,
+          "theaters": 104,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Movie Doraemon Nobita and the Sky's Ideal乡",
+          "japanese name": "映画ドラえもん のび太と空の理想郷",
+          "sales": 28053,
+          "seats": 165437,
+          "showtimes": 882,
+          "theaters": 186,
+          "rank": 1,
+          "last_week_ratio": 166.4
+        },
+        {
+          "moviename": "My happy marriage",
+          "japanese name": "わたしの幸せな結婚",
+          "sales": 27761,
+          "seats": 308229,
+          "showtimes": 1037,
+          "theaters": 168,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shin Masked Rider",
+          "japanese name": "シン・仮面ライダー",
+          "sales": 18899,
+          "seats": 411190,
+          "showtimes": 1508,
+          "theaters": 185,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 8818,
+          "seats": 51767,
+          "showtimes": 372,
+          "theaters": 186,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "But, Kaito-kun is too sweet.",
+          "japanese name": "なのに、千輝くんが甘すぎる。",
+          "sales": 8415,
+          "seats": 60550,
+          "showtimes": 419,
+          "theaters": 140,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "EVERYTHING, EVERYWHERE, ALL AT ONCE",
+          "japanese name": "エブリシング・エブリウェア・オール・アット・ワンス",
+          "sales": 6345,
+          "seats": 81067,
+          "showtimes": 531,
+          "theaters": 175,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shazam! The wrath of the gods",
+          "japanese name": "シャザム！ 神々の怒り",
+          "sales": 5239,
+          "seats": 153106,
+          "showtimes": 989,
+          "theaters": 185,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A cat wearing long boots and nine lives",
+          "japanese name": "長ぐつをはいたネコと９つの命",
+          "sales": 4466,
+          "seats": 93386,
+          "showtimes": 703,
+          "theaters": 154,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "WORLD TOUR Screening of \"Demon Slayer: Kimetsu no Yaiba\" - Upper弦 Gathering, and to the Village of the Swordsmiths",
+          "japanese name": "ワールドツアー上映「鬼滅の刃」上弦集結、そして刀鍛冶の里へ",
+          "sales": 4166,
+          "seats": 44210,
+          "showtimes": 354,
+          "theaters": 185,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BLUE GIANT",
+          "japanese name": "ＢＬＵＥ ＧＩＡＮＴ",
+          "sales": 4048,
+          "seats": 24136,
+          "showtimes": 159,
+          "theaters": 121,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Suzume's Locksmith",
+          "japanese name": "すずめの戸締まり",
+          "sales": 3633,
+          "seats": 23049,
+          "showtimes": 179,
+          "theaters": 170,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A man named Otto",
+          "japanese name": "オットーという男",
+          "sales": 2410,
+          "seats": 23837,
+          "showtimes": 205,
+          "theaters": 115,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "RRR",
+          "japanese name": "ＲＲＲ",
+          "sales": 1906,
+          "seats": 10982,
+          "showtimes": 69,
+          "theaters": 62,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "(Mother and Children) Mother and Children",
+          "japanese name": "（推しの子） Ｍｏｔｈｅｒ ａｎｄ Ｃｈｉｌｄｒｅｎ",
+          "sales": 1533,
+          "seats": 24144,
+          "showtimes": 149,
+          "theaters": 36,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Winnie",
+          "japanese name": "Ｗｉｎｎｙ",
+          "sales": 1303,
+          "seats": 17582,
+          "showtimes": 141,
+          "theaters": 97,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BTS: Yet To Come In Cinemas",
+          "japanese name": "ＢＴＳ： Ｙｅｔ Ｔｏ Ｃｏｍｅ ｉｎ Ｃｉｎｅｍａｓ",
+          "sales": 1268,
+          "seats": 11208,
+          "showtimes": 89,
+          "theaters": 70,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Onsen道",
+          "japanese name": "湯道",
+          "sales": 1261,
+          "seats": 23632,
+          "showtimes": 196,
+          "theaters": 154,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shylock's Children",
+          "japanese name": "シャイロックの子供たち",
+          "sales": 1175,
+          "seats": 24506,
+          "showtimes": 195,
+          "theaters": 164,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Februmans",
+          "japanese name": "フェイブルマンズ",
+          "sales": 1171,
+          "seats": 22597,
+          "showtimes": 177,
+          "theaters": 148,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Legend & Butterfly",
+          "japanese name": "レジェンド＆バタフライ",
+          "sales": 1154,
+          "seats": 17291,
+          "showtimes": 138,
+          "theaters": 132,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ant-Man & Wasp: Quantumania",
+          "japanese name": "アントマン＆ワスプ：クアントマニア",
+          "sales": 953,
+          "seats": 18821,
+          "showtimes": 148,
+          "theaters": 146,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Son / Son",
+          "japanese name": "Ｔｈｅ Ｓｏｎ／息子",
+          "sales": 918,
+          "seats": 9482,
+          "showtimes": 83,
+          "theaters": 27,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "With love from Lageri",
+          "japanese name": "ラーゲリより愛を込めて",
+          "sales": 874,
+          "seats": 5710,
+          "showtimes": 48,
+          "theaters": 48,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Granddaughter of a Yokai",
+          "japanese name": "妖怪の孫",
+          "sales": 850,
+          "seats": 4958,
+          "showtimes": 40,
+          "theaters": 16,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Thomas & Friends: Dream of the Champion Cup",
+          "japanese name": "映画 きかんしゃトーマス めざせ！夢のチャンピオンカップ",
+          "sales": 644,
+          "seats": 36538,
+          "showtimes": 267,
+          "theaters": 133,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,773 @@
+{
+  "date": "25-09-2024",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Last mile",
+          "japanese name": "ラストマイル",
+          "sales": 10775,
+          "seats": 82199,
+          "showtimes": 350,
+          "theaters": 181,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let's talk about Soomi",
+          "japanese name": "スオミの話をしよう",
+          "sales": 10710,
+          "seats": 93347,
+          "showtimes": 390,
+          "theaters": 184,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版「Overlord」圣王国篇",
+          "japanese name": "劇場版「オーバーロード」聖王国編",
+          "sales": 5319,
+          "seats": 69357,
+          "showtimes": 321,
+          "theaters": 164,
+          "rank": 3,
+          "last_week_ratio": 585.8
+        },
+        {
+          "moviename": "那个人消失了",
+          "japanese name": "あの人が消えた",
+          "sales": 4139,
+          "seats": 43760,
+          "showtimes": 236,
+          "theaters": 111,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Transformer / ONE",
+          "japanese name": "トランスフォーマー／ＯＮＥ",
+          "sales": 3150,
+          "seats": 75089,
+          "showtimes": 398,
+          "theaters": 172,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mrs. GREEN APPLE／／The WHITE LUNGE in CINEMA",
+          "japanese name": "Ｍｒｓ．ＧＲＥＥＮ ＡＰＰＬＥ／／Ｔｈｅ Ｗｈｉｔｅ Ｌｏｕｎｇｅ ｉｎ ＣＩＮＥＭＡ",
+          "sales": 2748,
+          "seats": 19575,
+          "showtimes": 89,
+          "theaters": 75,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wonderful Princess! Za-Mubee! Great Adventure in the Doki Doki Game World!",
+          "japanese name": "わんだふるぷりきゅあ！ざ・むーびー！ ドキドキ・ゲームの世界で大冒険！",
+          "sales": 2370,
+          "seats": 83738,
+          "showtimes": 447,
+          "theaters": 175,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Samurai Slipper",
+          "japanese name": "侍タイムスリッパー",
+          "sales": 2343,
+          "seats": 7324,
+          "showtimes": 59,
+          "theaters": 57,
+          "rank": 8,
+          "last_week_ratio": 102
+        },
+        {
+          "moviename": "Five-Pointed Flower Bride*",
+          "japanese name": "五等分の花嫁＊",
+          "sales": 2094,
+          "seats": 42714,
+          "showtimes": 179,
+          "theaters": 77,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Alien Romulus",
+          "japanese name": "エイリアン ロムルス",
+          "sales": 1950,
+          "seats": 30671,
+          "showtimes": 211,
+          "theaters": 182,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Inside Head 2",
+          "japanese name": "インサイド・ヘッド２",
+          "sales": 1615,
+          "seats": 27974,
+          "showtimes": 215,
+          "theaters": 176,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Given Sea",
+          "japanese name": "映画 ギヴン 海へ",
+          "sales": 1519,
+          "seats": 16894,
+          "showtimes": 55,
+          "theaters": 25,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I live in two worlds",
+          "japanese name": "ぼくが生きてる、ふたつの世界",
+          "sales": 1499,
+          "seats": 11097,
+          "showtimes": 76,
+          "theaters": 42,
+          "rank": 13,
+          "last_week_ratio": 1110.4
+        },
+        {
+          "moviename": "Kingdom The General's Return",
+          "japanese name": "キングダム 大将軍の帰還",
+          "sales": 1180,
+          "seats": 9126,
+          "showtimes": 69,
+          "theaters": 168,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Mobile Suit Gundam SEED FREEDOM\"",
+          "japanese name": "劇場版「機動戦士ガンダムＳＥＥＤ ＦＲＥＥＤＯＭ」",
+          "sales": 1080,
+          "seats": 6913,
+          "showtimes": 51,
+          "theaters": 100,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Natsume Arata's Marriage",
+          "japanese name": "夏目アラタの結婚",
+          "sales": 1080,
+          "seats": 14206,
+          "showtimes": 121,
+          "theaters": 176,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Crayon Shin-chan: The Dinosaur Diary of Our Town",
+          "japanese name": "映画クレヨンしんちゃん オラたちの恐竜日記",
+          "sales": 558,
+          "seats": 21099,
+          "showtimes": 167,
+          "theaters": 167,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE Your Next",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ユアネクスト",
+          "sales": 536,
+          "seats": 9232,
+          "showtimes": 70,
+          "theaters": 169,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Sunshine: Hokkaido Victory Screening",
+          "japanese name": "ぼくのお日さま 北海道凱旋上映会",
+          "sales": 487,
+          "seats": 4140,
+          "showtimes": 33,
+          "theaters": 41,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hitman's Wife's Bodyguard",
+          "japanese name": "ヒットマンズ・ワイフズ・ボディガード",
+          "sales": 433,
+          "seats": 3239,
+          "showtimes": 28,
+          "theaters": 31,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Your Color",
+          "japanese name": "きみの色",
+          "sales": 410,
+          "seats": 8742,
+          "showtimes": 62,
+          "theaters": 142,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love Live! Nijigasaki High School Idol Club Friendship Festival Final Chapter Chapter 1",
+          "japanese name": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第１章",
+          "sales": 316,
+          "seats": 10638,
+          "showtimes": 55,
+          "theaters": 88,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shisham",
+          "japanese name": "シサム",
+          "sales": 281,
+          "seats": 2828,
+          "showtimes": 24,
+          "theaters": 41,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Amazing Minions Transformation of Master Thief Grou",
+          "japanese name": "怪盗グルーのミニオン超変身",
+          "sales": 249,
+          "seats": 8316,
+          "showtimes": 61,
+          "theaters": 69,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Namibia's desert",
+          "japanese name": "ナミビアの砂漠",
+          "sales": 208,
+          "seats": 1577,
+          "showtimes": 14,
+          "theaters": 33,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Last mile",
+          "japanese name": "ラストマイル",
+          "sales": 19947,
+          "seats": 158406,
+          "showtimes": 673,
+          "theaters": 181,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let's talk about Soomi",
+          "japanese name": "スオミの話をしよう",
+          "sales": 16033,
+          "seats": 169900,
+          "showtimes": 713,
+          "theaters": 184,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版「Overlord」圣王国篇",
+          "japanese name": "劇場版「オーバーロード」聖王国編",
+          "sales": 9414,
+          "seats": 133533,
+          "showtimes": 622,
+          "theaters": 164,
+          "rank": 3,
+          "last_week_ratio": 591
+        },
+        {
+          "moviename": "那个人消失了",
+          "japanese name": "あの人が消えた",
+          "sales": 6755,
+          "seats": 81760,
+          "showtimes": 442,
+          "theaters": 111,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Transformer / ONE",
+          "japanese name": "トランスフォーマー／ＯＮＥ",
+          "sales": 5577,
+          "seats": 139721,
+          "showtimes": 729,
+          "theaters": 172,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mrs. GREEN APPLE／／The WHITE LUNGE in CINEMA",
+          "japanese name": "Ｍｒｓ．ＧＲＥＥＮ ＡＰＰＬＥ／／Ｔｈｅ Ｗｈｉｔｅ Ｌｏｕｎｇｅ ｉｎ ＣＩＮＥＭＡ",
+          "sales": 5059,
+          "seats": 38120,
+          "showtimes": 177,
+          "theaters": 75,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Five-Pointed Flower Bride*",
+          "japanese name": "五等分の花嫁＊",
+          "sales": 5007,
+          "seats": 77273,
+          "showtimes": 322,
+          "theaters": 77,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Samurai Slipper",
+          "japanese name": "侍タイムスリッパー",
+          "sales": 4242,
+          "seats": 14119,
+          "showtimes": 108,
+          "theaters": 57,
+          "rank": 8,
+          "last_week_ratio": 112.3
+        },
+        {
+          "moviename": "Wonderful Princess! Za-Mubee! Great Adventure in the Doki Doki Game World!",
+          "japanese name": "わんだふるぷりきゅあ！ざ・むーびー！ ドキドキ・ゲームの世界で大冒険！",
+          "sales": 4026,
+          "seats": 121724,
+          "showtimes": 654,
+          "theaters": 175,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Alien Romulus",
+          "japanese name": "エイリアン ロムルス",
+          "sales": 3884,
+          "seats": 57190,
+          "showtimes": 389,
+          "theaters": 182,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Inside Head 2",
+          "japanese name": "インサイド・ヘッド２",
+          "sales": 3078,
+          "seats": 42055,
+          "showtimes": 319,
+          "theaters": 176,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Given Sea",
+          "japanese name": "映画 ギヴン 海へ",
+          "sales": 2763,
+          "seats": 31565,
+          "showtimes": 104,
+          "theaters": 25,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Mobile Suit Gundam SEED FREEDOM\"",
+          "japanese name": "劇場版「機動戦士ガンダムＳＥＥＤ ＦＲＥＥＤＯＭ」",
+          "sales": 2638,
+          "seats": 17242,
+          "showtimes": 115,
+          "theaters": 100,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kingdom The General's Return",
+          "japanese name": "キングダム 大将軍の帰還",
+          "sales": 2470,
+          "seats": 23837,
+          "showtimes": 165,
+          "theaters": 168,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I live in two worlds",
+          "japanese name": "ぼくが生きてる、ふたつの世界",
+          "sales": 2333,
+          "seats": 18485,
+          "showtimes": 127,
+          "theaters": 42,
+          "rank": 15,
+          "last_week_ratio": 1413.9
+        },
+        {
+          "moviename": "Natsume Arata's Marriage",
+          "japanese name": "夏目アラタの結婚",
+          "sales": 2265,
+          "seats": 29595,
+          "showtimes": 246,
+          "theaters": 176,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE Your Next",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ユアネクスト",
+          "sales": 1789,
+          "seats": 22681,
+          "showtimes": 171,
+          "theaters": 169,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Your Color",
+          "japanese name": "きみの色",
+          "sales": 922,
+          "seats": 18908,
+          "showtimes": 135,
+          "theaters": 142,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love Live! Nijigasaki High School Idol Club Friendship Festival Final Chapter Chapter 1",
+          "japanese name": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第１章",
+          "sales": 865,
+          "seats": 21235,
+          "showtimes": 119,
+          "theaters": 88,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sayuri",
+          "japanese name": "サユリ",
+          "sales": 832,
+          "seats": 9548,
+          "showtimes": 79,
+          "theaters": 94,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Crayon Shin-chan: The Dinosaur Diary of Our Town",
+          "japanese name": "映画クレヨンしんちゃん オラたちの恐竜日記",
+          "sales": 796,
+          "seats": 26031,
+          "showtimes": 205,
+          "theaters": 167,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Sunshine: Hokkaido Victory Screening",
+          "japanese name": "ぼくのお日さま 北海道凱旋上映会",
+          "sales": 659,
+          "seats": 6608,
+          "showtimes": 51,
+          "theaters": 41,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "We who don't know love",
+          "japanese name": "恋を知らない僕たちは",
+          "sales": 641,
+          "seats": 13290,
+          "showtimes": 103,
+          "theaters": 122,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hitman's Wife's Bodyguard",
+          "japanese name": "ヒットマンズ・ワイフズ・ボディガード",
+          "sales": 565,
+          "seats": 4984,
+          "showtimes": 43,
+          "theaters": 31,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Namibia's desert",
+          "japanese name": "ナミビアの砂漠",
+          "sales": 480,
+          "seats": 3463,
+          "showtimes": 31,
+          "theaters": 33,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Last mile",
+          "japanese name": "ラストマイル",
+          "sales": 16795,
+          "seats": 194571,
+          "showtimes": 837,
+          "theaters": 181,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let's talk about Soomi",
+          "japanese name": "スオミの話をしよう",
+          "sales": 14140,
+          "seats": 212384,
+          "showtimes": 900,
+          "theaters": 184,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版「Overlord」圣王国篇",
+          "japanese name": "劇場版「オーバーロード」聖王国編",
+          "sales": 10320,
+          "seats": 167915,
+          "showtimes": 786,
+          "theaters": 164,
+          "rank": 3,
+          "last_week_ratio": 526.5
+        },
+        {
+          "moviename": "那个人消失了",
+          "japanese name": "あの人が消えた",
+          "sales": 6738,
+          "seats": 100766,
+          "showtimes": 551,
+          "theaters": 111,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Five-Pointed Flower Bride*",
+          "japanese name": "五等分の花嫁＊",
+          "sales": 6694,
+          "seats": 95840,
+          "showtimes": 401,
+          "theaters": 77,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Transformer / ONE",
+          "japanese name": "トランスフォーマー／ＯＮＥ",
+          "sales": 5849,
+          "seats": 177339,
+          "showtimes": 919,
+          "theaters": 172,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mrs. GREEN APPLE／／The WHITE LUNGE in CINEMA",
+          "japanese name": "Ｍｒｓ．ＧＲＥＥＮ ＡＰＰＬＥ／／Ｔｈｅ Ｗｈｉｔｅ Ｌｏｕｎｇｅ ｉｎ ＣＩＮＥＭＡ",
+          "sales": 5286,
+          "seats": 47388,
+          "showtimes": 220,
+          "theaters": 75,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Alien Romulus",
+          "japanese name": "エイリアン ロムルス",
+          "sales": 4125,
+          "seats": 79113,
+          "showtimes": 547,
+          "theaters": 182,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Samurai Slipper",
+          "japanese name": "侍タイムスリッパー",
+          "sales": 3832,
+          "seats": 17053,
+          "showtimes": 132,
+          "theaters": 57,
+          "rank": 9,
+          "last_week_ratio": 115.7
+        },
+        {
+          "moviename": "Wonderful Princess! Za-Mubee! Great Adventure in the Doki Doki Game World!",
+          "japanese name": "わんだふるぷりきゅあ！ざ・むーびー！ ドキドキ・ゲームの世界で大冒険！",
+          "sales": 3147,
+          "seats": 125088,
+          "showtimes": 680,
+          "theaters": 175,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Inside Head 2",
+          "japanese name": "インサイド・ヘッド２",
+          "sales": 2869,
+          "seats": 44455,
+          "showtimes": 340,
+          "theaters": 175,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Mobile Suit Gundam SEED FREEDOM\"",
+          "japanese name": "劇場版「機動戦士ガンダムＳＥＥＤ ＦＲＥＥＤＯＭ」",
+          "sales": 2848,
+          "seats": 24872,
+          "showtimes": 162,
+          "theaters": 99,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Given Sea",
+          "japanese name": "映画 ギヴン 海へ",
+          "sales": 2783,
+          "seats": 40259,
+          "showtimes": 129,
+          "theaters": 25,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kingdom The General's Return",
+          "japanese name": "キングダム 大将軍の帰還",
+          "sales": 2339,
+          "seats": 32633,
+          "showtimes": 228,
+          "theaters": 168,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Natsume Arata's Marriage",
+          "japanese name": "夏目アラタの結婚",
+          "sales": 2237,
+          "seats": 41040,
+          "showtimes": 346,
+          "theaters": 176,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I live in two worlds",
+          "japanese name": "ぼくが生きてる、ふたつの世界",
+          "sales": 1942,
+          "seats": 23382,
+          "showtimes": 162,
+          "theaters": 42,
+          "rank": 16,
+          "last_week_ratio": 1286.1
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE Your Next",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ユアネクスト",
+          "sales": 1930,
+          "seats": 25454,
+          "showtimes": 189,
+          "theaters": 168,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love Live! Nijigasaki High School Idol Club Friendship Festival Final Chapter Chapter 1",
+          "japanese name": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第１章",
+          "sales": 1107,
+          "seats": 26376,
+          "showtimes": 158,
+          "theaters": 88,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sayuri",
+          "japanese name": "サユリ",
+          "sales": 1038,
+          "seats": 14981,
+          "showtimes": 116,
+          "theaters": 94,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Your Color",
+          "japanese name": "きみの色",
+          "sales": 982,
+          "seats": 22715,
+          "showtimes": 168,
+          "theaters": 142,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Crayon Shin-chan: The Dinosaur Diary of Our Town",
+          "japanese name": "映画クレヨンしんちゃん オラたちの恐竜日記",
+          "sales": 894,
+          "seats": 25780,
+          "showtimes": 205,
+          "theaters": 166,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobil Police Patlabor THE MOVIE",
+          "japanese name": "機動警察パトレイバー ＴＨＥ ＭＯＶＩＥ",
+          "sales": 760,
+          "seats": 4550,
+          "showtimes": 22,
+          "theaters": 19,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Sunshine: Hokkaido Victory Screening",
+          "japanese name": "ぼくのお日さま 北海道凱旋上映会",
+          "sales": 657,
+          "seats": 7981,
+          "showtimes": 61,
+          "theaters": 41,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Lookback",
+          "japanese name": "ルックバック",
+          "sales": 579,
+          "seats": 16224,
+          "showtimes": 92,
+          "theaters": 89,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hitman's Wife's Bodyguard",
+          "japanese name": "ヒットマンズ・ワイフズ・ボディガード",
+          "sales": 560,
+          "seats": 7911,
+          "showtimes": 66,
+          "theaters": 31,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,522 @@
+{
+  "date": "24-01-2020",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Cats",
+          "japanese name": "キャッツ",
+          "sales": 23639,
+          "seats": 321587,
+          "showtimes": 964,
+          "theaters": 305,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Parasite, the Underground Family",
+          "japanese name": "パラサイト 半地下の家族",
+          "sales": 7043,
+          "seats": 47814,
+          "showtimes": 210,
+          "theaters": 139,
+          "rank": 2,
+          "last_week_ratio": 104.6
+        },
+        {
+          "moviename": "The Last Letter",
+          "japanese name": "ラストレター",
+          "sales": 6361,
+          "seats": 66266,
+          "showtimes": 431,
+          "theaters": 231,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Star Wars, Skywalker's Dawn",
+          "japanese name": "スター・ウォーズ スカイウォーカーの夜明け",
+          "sales": 5031,
+          "seats": 54329,
+          "showtimes": 356,
+          "theaters": 302,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kaiji Final Game",
+          "japanese name": "カイジ ファイナルゲーム",
+          "sales": 3618,
+          "seats": 76007,
+          "showtimes": 437,
+          "theaters": 289,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Anna and the Queen of Snow 2",
+          "japanese name": "アナと雪の女王２",
+          "sales": 3404,
+          "seats": 108508,
+          "showtimes": 533,
+          "theaters": 302,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Memory House, Never Forget You",
+          "japanese name": "記憶屋 あなたを忘れない",
+          "sales": 3076,
+          "seats": 58551,
+          "showtimes": 429,
+          "theaters": 286,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "It's tough being a man, welcome back, Mr. Tiger",
+          "japanese name": "男はつらいよ お帰り 寅さん",
+          "sales": 2888,
+          "seats": 42154,
+          "showtimes": 296,
+          "theaters": 277,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE Heroes: Rising",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ヒーローズ：ライジング",
+          "sales": 2693,
+          "seats": 19513,
+          "showtimes": 167,
+          "theaters": 266,
+          "rank": 9,
+          "last_week_ratio": 331.7
+        },
+        {
+          "moviename": "Richard Jewel",
+          "japanese name": "リチャード・ジュエル",
+          "sales": 2613,
+          "seats": 34363,
+          "showtimes": 256,
+          "theaters": 223,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ford vs Ferrari",
+          "japanese name": "フォードｖｓフェラーリ",
+          "sales": 2245,
+          "seats": 29048,
+          "showtimes": 195,
+          "theaters": 297,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 Maid in Abyss 深き魂の黎明",
+          "japanese name": "劇場版 メイドインアビス 深き魂の黎明",
+          "sales": 2175,
+          "seats": 11523,
+          "showtimes": 51,
+          "theaters": 44,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "30 Minutes Until Goodbye",
+          "japanese name": "サヨナラまでの３０分",
+          "sales": 2110,
+          "seats": 46545,
+          "showtimes": 299,
+          "theaters": 181,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Okaasan to Issho: Hajimete no Daibouken",
+          "japanese name": "映画 おかあさんといっしょ はじめての大冒険",
+          "sales": 1881,
+          "seats": 66888,
+          "showtimes": 386,
+          "theaters": 114,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Romance Doll",
+          "japanese name": "ロマンスドール",
+          "sales": 1755,
+          "seats": 18507,
+          "showtimes": 128,
+          "theaters": 83,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "JoJo Rabbit",
+          "japanese name": "ジョジョ・ラビット",
+          "sales": 1753,
+          "seats": 17963,
+          "showtimes": 131,
+          "theaters": 114,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Signal 100",
+          "japanese name": "シグナル１００",
+          "sales": 1182,
+          "seats": 23382,
+          "showtimes": 137,
+          "theaters": 86,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Downton Abbey",
+          "japanese name": "ダウントン・アビー",
+          "sales": 1077,
+          "seats": 6620,
+          "showtimes": 50,
+          "theaters": 72,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kaze no Denwa",
+          "japanese name": "風の電話",
+          "sales": 1043,
+          "seats": 13116,
+          "showtimes": 97,
+          "theaters": 94,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 高中舰队",
+          "japanese name": "劇場版 ハイスクール・フリート",
+          "sales": 830,
+          "seats": 17024,
+          "showtimes": 99,
+          "theaters": 85,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "his",
+          "japanese name": "ｈｉｓ",
+          "sales": 622,
+          "seats": 6394,
+          "showtimes": 47,
+          "theaters": 36,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Terry Gilliam's Don Quixote",
+          "japanese name": "テリー・ギリアムのドン・キホーテ",
+          "sales": 598,
+          "seats": 3705,
+          "showtimes": 27,
+          "theaters": 24,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "KING OF PRISM ALL STARS PRISM SHOES ☆ BEST TEN OVER THE RAI",
+          "japanese name": "ＫＩＮＧ ＯＦ ＰＲＩＳＭ ＡＬＬ ＳＴＡＲＳ プリズムショー☆ベストテン Ｏｖｅｒ Ｔｈｅ Ｒａｉ",
+          "sales": 476,
+          "seats": 4892,
+          "showtimes": 20,
+          "theaters": 28,
+          "rank": 23,
+          "last_week_ratio": 116.7
+        },
+        {
+          "moviename": "Nine translators The bestseller who was imprisoned",
+          "japanese name": "９人の翻訳家 囚われたベストセラー",
+          "sales": 411,
+          "seats": 2988,
+          "showtimes": 17,
+          "theaters": 10,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "House of the Sun",
+          "japanese name": "太陽の家",
+          "sales": 308,
+          "seats": 8039,
+          "showtimes": 58,
+          "theaters": 91,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Cats",
+          "japanese name": "キャッツ",
+          "sales": 39961,
+          "seats": 583787,
+          "showtimes": 1761,
+          "theaters": 305,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Parasite, the Underground Family",
+          "japanese name": "パラサイト 半地下の家族",
+          "sales": 15059,
+          "seats": 94145,
+          "showtimes": 409,
+          "theaters": 139,
+          "rank": 2,
+          "last_week_ratio": 111.2
+        },
+        {
+          "moviename": "The Last Letter",
+          "japanese name": "ラストレター",
+          "sales": 9999,
+          "seats": 111048,
+          "showtimes": 719,
+          "theaters": 231,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Star Wars, Skywalker's Dawn",
+          "japanese name": "スター・ウォーズ スカイウォーカーの夜明け",
+          "sales": 9795,
+          "seats": 111544,
+          "showtimes": 721,
+          "theaters": 302,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kaiji Final Game",
+          "japanese name": "カイジ ファイナルゲーム",
+          "sales": 9412,
+          "seats": 157410,
+          "showtimes": 892,
+          "theaters": 289,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Anna and the Queen of Snow 2",
+          "japanese name": "アナと雪の女王２",
+          "sales": 6715,
+          "seats": 179558,
+          "showtimes": 900,
+          "theaters": 302,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE Heroes: Rising",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ヒーローズ：ライジング",
+          "sales": 6063,
+          "seats": 50322,
+          "showtimes": 393,
+          "theaters": 266,
+          "rank": 7,
+          "last_week_ratio": 222.9
+        },
+        {
+          "moviename": "Memory House, Never Forget You",
+          "japanese name": "記憶屋 あなたを忘れない",
+          "sales": 5890,
+          "seats": 109886,
+          "showtimes": 786,
+          "theaters": 286,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 Maid in Abyss 深き魂の黎明",
+          "japanese name": "劇場版 メイドインアビス 深き魂の黎明",
+          "sales": 5337,
+          "seats": 22058,
+          "showtimes": 104,
+          "theaters": 44,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Richard Jewel",
+          "japanese name": "リチャード・ジュエル",
+          "sales": 4953,
+          "seats": 70844,
+          "showtimes": 513,
+          "theaters": 223,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "30 Minutes Until Goodbye",
+          "japanese name": "サヨナラまでの３０分",
+          "sales": 4933,
+          "seats": 90316,
+          "showtimes": 578,
+          "theaters": 181,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ford vs Ferrari",
+          "japanese name": "フォードｖｓフェラーリ",
+          "sales": 4858,
+          "seats": 67214,
+          "showtimes": 443,
+          "theaters": 297,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "JoJo Rabbit",
+          "japanese name": "ジョジョ・ラビット",
+          "sales": 4027,
+          "seats": 35687,
+          "showtimes": 255,
+          "theaters": 114,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "It's tough being a man, welcome back, Mr. Tiger",
+          "japanese name": "男はつらいよ お帰り 寅さん",
+          "sales": 3462,
+          "seats": 49709,
+          "showtimes": 349,
+          "theaters": 277,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Signal 100",
+          "japanese name": "シグナル１００",
+          "sales": 3384,
+          "seats": 45379,
+          "showtimes": 259,
+          "theaters": 86,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Romance Doll",
+          "japanese name": "ロマンスドール",
+          "sales": 2873,
+          "seats": 35163,
+          "showtimes": 237,
+          "theaters": 83,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "RADWIMPS/ANTI ANTI GENERATION TOUR 2019",
+          "japanese name": "ＲＡＤＷＩＭＰＳ／ＡＮＴＩ ＡＮＴＩ ＧＥＮＥＲＡＴＩＯＮ ＴＯＵＲ ２０１９",
+          "sales": 2337,
+          "seats": 4745,
+          "showtimes": 39,
+          "theaters": 39,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Okaasan to Issho: Hajimete no Daibouken",
+          "japanese name": "映画 おかあさんといっしょ はじめての大冒険",
+          "sales": 2136,
+          "seats": 81693,
+          "showtimes": 469,
+          "theaters": 114,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Downton Abbey",
+          "japanese name": "ダウントン・アビー",
+          "sales": 1893,
+          "seats": 11926,
+          "showtimes": 96,
+          "theaters": 72,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kaze no Denwa",
+          "japanese name": "風の電話",
+          "sales": 1671,
+          "seats": 26173,
+          "showtimes": 188,
+          "theaters": 94,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 高中舰队",
+          "japanese name": "劇場版 ハイスクール・フリート",
+          "sales": 1609,
+          "seats": 31335,
+          "showtimes": 193,
+          "theaters": 85,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "his",
+          "japanese name": "ｈｉｓ",
+          "sales": 1239,
+          "seats": 11793,
+          "showtimes": 86,
+          "theaters": 36,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Terry Gilliam's Don Quixote",
+          "japanese name": "テリー・ギリアムのドン・キホーテ",
+          "sales": 1159,
+          "seats": 7120,
+          "showtimes": 49,
+          "theaters": 24,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "KING OF PRISM ALL STARS PRISM SHOES ☆ BEST TEN OVER THE RAI",
+          "japanese name": "ＫＩＮＧ ＯＦ ＰＲＩＳＭ ＡＬＬ ＳＴＡＲＳ プリズムショー☆ベストテン Ｏｖｅｒ Ｔｈｅ Ｒａｉ",
+          "sales": 1108,
+          "seats": 10136,
+          "showtimes": 45,
+          "theaters": 28,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nine translators The bestseller who was imprisoned",
+          "japanese name": "９人の翻訳家 囚われたベストセラー",
+          "sales": 905,
+          "seats": 5219,
+          "showtimes": 31,
+          "theaters": 10,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": []
+    }
+  ]
+}

@@ -1,0 +1,773 @@
+{
+  "date": "02-06-2022",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Top Gun Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 41004,
+          "seats": 264734,
+          "showtimes": 1073,
+          "theaters": 293,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shin Ultraman",
+          "japanese name": "シン・ウルトラマン",
+          "sales": 9172,
+          "seats": 141171,
+          "showtimes": 711,
+          "theaters": 288,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Path to the Great River",
+          "japanese name": "大河への道",
+          "sales": 5368,
+          "seats": 69457,
+          "showtimes": 591,
+          "theaters": 274,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: The Halloween Flower Bride",
+          "japanese name": "名探偵コナン ハロウィンの花嫁",
+          "sales": 5168,
+          "seats": 71465,
+          "showtimes": 526,
+          "theaters": 288,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Wandering Moon",
+          "japanese name": "流浪の月",
+          "sales": 3181,
+          "seats": 34376,
+          "showtimes": 292,
+          "theaters": 265,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Five Scoundrels' Flower Bride",
+          "japanese name": "映画 五等分の花嫁",
+          "sales": 2893,
+          "seats": 49930,
+          "showtimes": 202,
+          "theaters": 96,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Soul of 20 years old",
+          "japanese name": "２０歳のソウル",
+          "sales": 2285,
+          "seats": 25690,
+          "showtimes": 201,
+          "theaters": 137,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dog King",
+          "japanese name": "犬王",
+          "sales": 1820,
+          "seats": 35708,
+          "showtimes": 228,
+          "theaters": 105,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A disease that leads to the death penalty",
+          "japanese name": "死刑にいたる病",
+          "sales": 1743,
+          "seats": 24951,
+          "showtimes": 221,
+          "theaters": 200,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Crayon Shin-chan: Ninja of the Oni - Strange Legend",
+          "japanese name": "映画クレヨンしんちゃん もののけニンジャ珍風伝",
+          "sales": 1594,
+          "seats": 36515,
+          "showtimes": 306,
+          "theaters": 266,
+          "rank": 10,
+          "last_week_ratio": 216.3
+        },
+        {
+          "moviename": "Special \"Sword Dance: Hanamaru\" Snow Volume",
+          "japanese name": "特「刀剣乱舞 花丸」雪ノ巻",
+          "sales": 1166,
+          "seats": 14167,
+          "showtimes": 97,
+          "theaters": 77,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fullmetal Alchemist: Final Chapter - Scar",
+          "japanese name": "鋼の錬金術師 完結編 復讐者スカー",
+          "sales": 1154,
+          "seats": 36376,
+          "showtimes": 320,
+          "theaters": 287,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Doctor Strange/Madness Multiverse",
+          "japanese name": "ドクター・ストレンジ／マルチバース・オブ・マッドネス",
+          "sales": 1069,
+          "seats": 22688,
+          "showtimes": 202,
+          "theaters": 288,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Haken Anime!",
+          "japanese name": "ハケンアニメ！",
+          "sales": 964,
+          "seats": 25221,
+          "showtimes": 241,
+          "theaters": 274,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fantastic Beast and the Secret of Dumbledore",
+          "japanese name": "ファンタスティック・ビーストとダンブルドアの秘密",
+          "sales": 934,
+          "seats": 11349,
+          "showtimes": 98,
+          "theaters": 269,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version Radiation House",
+          "japanese name": "劇場版ラジエーションハウス",
+          "sales": 525,
+          "seats": 10589,
+          "showtimes": 99,
+          "theaters": 261,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SING SING NEXT STAGE",
+          "japanese name": "ＳＩＮＧ シング ネクストステージ",
+          "sales": 521,
+          "seats": 3266,
+          "showtimes": 37,
+          "theaters": 54,
+          "rank": 17,
+          "last_week_ratio": 280.1
+        },
+        {
+          "moviename": "Sunday Never Returns",
+          "japanese name": "帰らない日曜日",
+          "sales": 457,
+          "seats": 4359,
+          "showtimes": 36,
+          "theaters": 17,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bubble",
+          "japanese name": "バブル",
+          "sales": 331,
+          "seats": 12134,
+          "showtimes": 89,
+          "theaters": 269,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 おいしい给食 卒业",
+          "japanese name": "劇場版 おいしい給食 卒業",
+          "sales": 316,
+          "seats": 6042,
+          "showtimes": 52,
+          "theaters": 41,
+          "rank": 20,
+          "last_week_ratio": 133.9
+        },
+        {
+          "moviename": "Audrey Hepburn",
+          "japanese name": "オードリー・ヘプバーン",
+          "sales": 309,
+          "seats": 3117,
+          "showtimes": 22,
+          "theaters": 22,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version Free! –The Final Stroke– Part 2",
+          "japanese name": "劇場版 Ｆｒｅｅ！ －ｔｈｅ Ｆｉｎａｌ Ｓｔｒｏｋｅ－ 後編",
+          "sales": 281,
+          "seats": 5210,
+          "showtimes": 38,
+          "theaters": 148,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Holick xxxHOLiC",
+          "japanese name": "ホリック ｘｘｘＨＯＬｉＣ",
+          "sales": 273,
+          "seats": 4796,
+          "showtimes": 47,
+          "theaters": 253,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SEVENTEEN POWER OF LOVE: THE MOVIE",
+          "japanese name": "ＳＥＶＥＮＴＥＥＮ ＰＯＷＥＲ ＯＦ ＬＯＶＥ ： ＴＨＥ ＭＯＶＩＥ",
+          "sales": 236,
+          "seats": 1196,
+          "showtimes": 14,
+          "theaters": 44,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Cherry Maho THE MOVIE If you stay a virgin until you're 30, you can become a wizard",
+          "japanese name": "チェリまほ ＴＨＥ ＭＯＶＩＥ ３０歳まで童貞だと魔法使いになれるらしい",
+          "sales": 212,
+          "seats": 747,
+          "showtimes": 4,
+          "theaters": 7,
+          "rank": 25,
+          "last_week_ratio": 181.2
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Top Gun Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 66396,
+          "seats": 499455,
+          "showtimes": 2011,
+          "theaters": 293,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shin Ultraman",
+          "japanese name": "シン・ウルトラマン",
+          "sales": 14874,
+          "seats": 257881,
+          "showtimes": 1299,
+          "theaters": 288,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: The Halloween Flower Bride",
+          "japanese name": "名探偵コナン ハロウィンの花嫁",
+          "sales": 9272,
+          "seats": 128416,
+          "showtimes": 916,
+          "theaters": 288,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Five Scoundrels' Flower Bride",
+          "japanese name": "映画 五等分の花嫁",
+          "sales": 7411,
+          "seats": 99259,
+          "showtimes": 402,
+          "theaters": 96,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Path to the Great River",
+          "japanese name": "大河への道",
+          "sales": 6925,
+          "seats": 103885,
+          "showtimes": 867,
+          "theaters": 274,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Wandering Moon",
+          "japanese name": "流浪の月",
+          "sales": 5083,
+          "seats": 60690,
+          "showtimes": 515,
+          "theaters": 264,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A disease that leads to the death penalty",
+          "japanese name": "死刑にいたる病",
+          "sales": 3799,
+          "seats": 44749,
+          "showtimes": 376,
+          "theaters": 200,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Soul of 20 years old",
+          "japanese name": "２０歳のソウル",
+          "sales": 3511,
+          "seats": 48939,
+          "showtimes": 370,
+          "theaters": 137,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dog King",
+          "japanese name": "犬王",
+          "sales": 3319,
+          "seats": 62992,
+          "showtimes": 405,
+          "theaters": 105,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Special \"Sword Dance: Hanamaru\" Snow Volume",
+          "japanese name": "特「刀剣乱舞 花丸」雪ノ巻",
+          "sales": 2515,
+          "seats": 26711,
+          "showtimes": 182,
+          "theaters": 77,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Doctor Strange/Madness Multiverse",
+          "japanese name": "ドクター・ストレンジ／マルチバース・オブ・マッドネス",
+          "sales": 2455,
+          "seats": 47271,
+          "showtimes": 407,
+          "theaters": 286,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fantastic Beast and the Secret of Dumbledore",
+          "japanese name": "ファンタスティック・ビーストとダンブルドアの秘密",
+          "sales": 2414,
+          "seats": 30907,
+          "showtimes": 264,
+          "theaters": 255,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fullmetal Alchemist: Final Chapter - Scar",
+          "japanese name": "鋼の錬金術師 完結編 復讐者スカー",
+          "sales": 1938,
+          "seats": 63390,
+          "showtimes": 562,
+          "theaters": 286,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Crayon Shin-chan: Ninja of the Oni - Strange Legend",
+          "japanese name": "映画クレヨンしんちゃん もののけニンジャ珍風伝",
+          "sales": 1837,
+          "seats": 43132,
+          "showtimes": 351,
+          "theaters": 260,
+          "rank": 14,
+          "last_week_ratio": 185.4
+        },
+        {
+          "moviename": "Haken Anime!",
+          "japanese name": "ハケンアニメ！",
+          "sales": 1709,
+          "seats": 49687,
+          "showtimes": 473,
+          "theaters": 274,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version Radiation House",
+          "japanese name": "劇場版ラジエーションハウス",
+          "sales": 1210,
+          "seats": 25357,
+          "showtimes": 239,
+          "theaters": 248,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version Free! –The Final Stroke– Part 2",
+          "japanese name": "劇場版 Ｆｒｅｅ！ －ｔｈｅ Ｆｉｎａｌ Ｓｔｒｏｋｅ－ 後編",
+          "sales": 1013,
+          "seats": 18464,
+          "showtimes": 140,
+          "theaters": 145,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Holick xxxHOLiC",
+          "japanese name": "ホリック ｘｘｘＨＯＬｉＣ",
+          "sales": 879,
+          "seats": 19412,
+          "showtimes": 169,
+          "theaters": 246,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bubble",
+          "japanese name": "バブル",
+          "sales": 878,
+          "seats": 30667,
+          "showtimes": 238,
+          "theaters": 257,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SEVENTEEN POWER OF LOVE: THE MOVIE",
+          "japanese name": "ＳＥＶＥＮＴＥＥＮ ＰＯＷＥＲ ＯＦ ＬＯＶＥ ： ＴＨＥ ＭＯＶＩＥ",
+          "sales": 780,
+          "seats": 4182,
+          "showtimes": 46,
+          "theaters": 43,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sunday Never Returns",
+          "japanese name": "帰らない日曜日",
+          "sales": 631,
+          "seats": 7416,
+          "showtimes": 61,
+          "theaters": 17,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SING SING NEXT STAGE",
+          "japanese name": "ＳＩＮＧ シング ネクストステージ",
+          "sales": 603,
+          "seats": 4569,
+          "showtimes": 49,
+          "theaters": 47,
+          "rank": 22,
+          "last_week_ratio": 221.7
+        },
+        {
+          "moviename": "Prometheus",
+          "japanese name": "プロメア",
+          "sales": 517,
+          "seats": 2629,
+          "showtimes": 13,
+          "theaters": 11,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Cherry Maho THE MOVIE If you stay a virgin until you're 30, you can become a wizard",
+          "japanese name": "チェリまほ ＴＨＥ ＭＯＶＩＥ ３０歳まで童貞だと魔法使いになれるらしい",
+          "sales": 483,
+          "seats": 1613,
+          "showtimes": 10,
+          "theaters": 7,
+          "rank": 24,
+          "last_week_ratio": 133.8
+        },
+        {
+          "moviename": "Audrey Hepburn",
+          "japanese name": "オードリー・ヘプバーン",
+          "sales": 410,
+          "seats": 4322,
+          "showtimes": 29,
+          "theaters": 22,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Top Gun Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 135504,
+          "seats": 641060,
+          "showtimes": 2624,
+          "theaters": 293,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shin Ultraman",
+          "japanese name": "シン・ウルトラマン",
+          "sales": 35784,
+          "seats": 325066,
+          "showtimes": 1667,
+          "theaters": 288,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: The Halloween Flower Bride",
+          "japanese name": "名探偵コナン ハロウィンの花嫁",
+          "sales": 16868,
+          "seats": 161657,
+          "showtimes": 1172,
+          "theaters": 288,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Five Scoundrels' Flower Bride",
+          "japanese name": "映画 五等分の花嫁",
+          "sales": 13351,
+          "seats": 125042,
+          "showtimes": 508,
+          "theaters": 96,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Wandering Moon",
+          "japanese name": "流浪の月",
+          "sales": 11475,
+          "seats": 75775,
+          "showtimes": 647,
+          "theaters": 265,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Path to the Great River",
+          "japanese name": "大河への道",
+          "sales": 10220,
+          "seats": 115605,
+          "showtimes": 978,
+          "theaters": 274,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dog King",
+          "japanese name": "犬王",
+          "sales": 9687,
+          "seats": 79237,
+          "showtimes": 524,
+          "theaters": 105,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A disease that leads to the death penalty",
+          "japanese name": "死刑にいたる病",
+          "sales": 8519,
+          "seats": 58381,
+          "showtimes": 499,
+          "theaters": 200,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Soul of 20 years old",
+          "japanese name": "２０歳のソウル",
+          "sales": 6591,
+          "seats": 63393,
+          "showtimes": 488,
+          "theaters": 137,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Special \"Sword Dance: Hanamaru\" Snow Volume",
+          "japanese name": "特「刀剣乱舞 花丸」雪ノ巻",
+          "sales": 6381,
+          "seats": 33285,
+          "showtimes": 231,
+          "theaters": 77,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Doctor Strange/Madness Multiverse",
+          "japanese name": "ドクター・ストレンジ／マルチバース・オブ・マッドネス",
+          "sales": 6132,
+          "seats": 71647,
+          "showtimes": 639,
+          "theaters": 288,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fantastic Beast and the Secret of Dumbledore",
+          "japanese name": "ファンタスティック・ビーストとダンブルドアの秘密",
+          "sales": 5042,
+          "seats": 38765,
+          "showtimes": 337,
+          "theaters": 268,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Haken Anime!",
+          "japanese name": "ハケンアニメ！",
+          "sales": 4530,
+          "seats": 68281,
+          "showtimes": 655,
+          "theaters": 274,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fullmetal Alchemist: Final Chapter - Scar",
+          "japanese name": "鋼の錬金術師 完結編 復讐者スカー",
+          "sales": 4376,
+          "seats": 88497,
+          "showtimes": 805,
+          "theaters": 287,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version Radiation House",
+          "japanese name": "劇場版ラジエーションハウス",
+          "sales": 2291,
+          "seats": 32747,
+          "showtimes": 309,
+          "theaters": 261,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version Free! –The Final Stroke– Part 2",
+          "japanese name": "劇場版 Ｆｒｅｅ！ －ｔｈｅ Ｆｉｎａｌ Ｓｔｒｏｋｅ－ 後編",
+          "sales": 2011,
+          "seats": 22642,
+          "showtimes": 168,
+          "theaters": 147,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Holick xxxHOLiC",
+          "japanese name": "ホリック ｘｘｘＨＯＬｉＣ",
+          "sales": 1872,
+          "seats": 28432,
+          "showtimes": 261,
+          "theaters": 253,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Crayon Shin-chan: Ninja of the Oni - Strange Legend",
+          "japanese name": "映画クレヨンしんちゃん もののけニンジャ珍風伝",
+          "sales": 1639,
+          "seats": 43992,
+          "showtimes": 365,
+          "theaters": 266,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bubble",
+          "japanese name": "バブル",
+          "sales": 1477,
+          "seats": 38389,
+          "showtimes": 304,
+          "theaters": 269,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sunday Never Returns",
+          "japanese name": "帰らない日曜日",
+          "sales": 1206,
+          "seats": 8601,
+          "showtimes": 71,
+          "theaters": 17,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Prometheus",
+          "japanese name": "プロメア",
+          "sales": 945,
+          "seats": 3486,
+          "showtimes": 18,
+          "theaters": 11,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Audrey Hepburn",
+          "japanese name": "オードリー・ヘプバーン",
+          "sales": 847,
+          "seats": 4906,
+          "showtimes": 34,
+          "theaters": 22,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SEVENTEEN POWER OF LOVE: THE MOVIE",
+          "japanese name": "ＳＥＶＥＮＴＥＥＮ ＰＯＷＥＲ ＯＦ ＬＯＶＥ ： ＴＨＥ ＭＯＶＩＥ",
+          "sales": 840,
+          "seats": 4837,
+          "showtimes": 53,
+          "theaters": 44,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Cherry Maho THE MOVIE If you stay a virgin until you're 30, you can become a wizard",
+          "japanese name": "チェリまほ ＴＨＥ ＭＯＶＩＥ ３０歳まで童貞だと魔法使いになれるらしい",
+          "sales": 761,
+          "seats": 1614,
+          "showtimes": 10,
+          "theaters": 7,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 おいしい给食 卒业",
+          "japanese name": "劇場版 おいしい給食 卒業",
+          "sales": 747,
+          "seats": 10107,
+          "showtimes": 95,
+          "theaters": 41,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}
