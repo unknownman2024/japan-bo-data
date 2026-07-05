@@ -1,47 +1,33 @@
-name: Full Data Fetch (2019–today)
+name: Full Data Fetch
 
 on:
   schedule:
-    # Run on the 1st of every month at 02:00 UTC (adjust as needed)
-    - cron: '0 2 1 * *'
+    - cron: '0 2 1 * *'   # 1st of each month at 02:00 UTC
   workflow_dispatch:
-    # Manual trigger with optional input to override the schedule
     inputs:
       confirm:
-        description: 'Confirm full fetch (type "yes" to proceed)'
+        description: 'Confirm full fetch (type "yes")'
         required: true
         default: 'no'
 
 jobs:
   full-fetch:
     runs-on: ubuntu-latest
-    # Only run if manual trigger has confirm='yes' or if scheduled
     if: |
       (github.event_name == 'schedule') ||
       (github.event_name == 'workflow_dispatch' && github.event.inputs.confirm == 'yes')
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install aiohttp aiofiles
-
-      - name: Run full fetch script
-        run: python fetch_boxoffice.py --full
-        env:
-          PYTHONUNBUFFERED: 1
-
+      - run: pip install aiohttp aiofiles
+      - run: python fetch_boxoffice.py --full
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
           git add data/ database/ state.json
           git diff --staged --quiet || git commit -m "Full data update $(date -I)"
-          git push
+          git push origin main
