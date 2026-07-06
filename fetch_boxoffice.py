@@ -26,7 +26,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 # Configuration
-BASE_URL = "https://japanapi.text2024mail.workers.dev/?date={}"
+BASE_URL = "https://japanapi.bfilmyisback.workers.dev/?date={}"
 START_DATE = datetime(2019, 1, 1)
 DATA_DIR = Path("data")
 DATABASE_DIR = Path("database")
