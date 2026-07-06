@@ -1,0 +1,773 @@
+{
+  "date": "20-01-2024",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Golden Kamuy",
+          "japanese name": "ゴールデンカムイ",
+          "sales": 32395,
+          "seats": 165166,
+          "showtimes": 499,
+          "theaters": 176,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 SPY×FAMILY CODE: White",
+          "japanese name": "劇場版 ＳＰＹ×ＦＡＭＩＬＹ ＣＯＤＥ：Ｗｈｉｔｅ",
+          "sales": 17437,
+          "seats": 92065,
+          "showtimes": 398,
+          "theaters": 181,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wish",
+          "japanese name": "ウィッシュ",
+          "sales": 12099,
+          "seats": 46651,
+          "showtimes": 315,
+          "theaters": 183,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "If I could meet you again on that hill where those flowers bloom.",
+          "japanese name": "あの花が咲く丘で、君とまた出会えたら。",
+          "sales": 11065,
+          "seats": 43055,
+          "showtimes": 261,
+          "theaters": 173,
+          "rank": 4,
+          "last_week_ratio": 111
+        },
+        {
+          "moviename": "In a certain closed snow cabin",
+          "japanese name": "ある閉ざされた雪の山荘で",
+          "sales": 8820,
+          "seats": 38181,
+          "showtimes": 259,
+          "theaters": 151,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Aquaman/Lost Kingdom",
+          "japanese name": "アクアマン／失われた王国",
+          "sales": 7354,
+          "seats": 51166,
+          "showtimes": 330,
+          "theaters": 181,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let's go karaoke!",
+          "japanese name": "カラオケ行こ！",
+          "sales": 6179,
+          "seats": 19654,
+          "showtimes": 155,
+          "theaters": 150,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Paul Patrol The Mighty Movie",
+          "japanese name": "パウ・パトロール ザ・マイティ・ムービー",
+          "sales": 4640,
+          "seats": 19318,
+          "showtimes": 136,
+          "theaters": 116,
+          "rank": 8,
+          "last_week_ratio": 102.6
+        },
+        {
+          "moviename": "TV series special edition \"Detective Conan vs. The Phantom Kid\"",
+          "japanese name": "ＴＶシリーズ特別編集版「名探偵コナンｖｓ．怪盗キッド」",
+          "sales": 4113,
+          "seats": 24882,
+          "showtimes": 178,
+          "theaters": 121,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Godzilla - 1.0",
+          "japanese name": "ゴジラ－１．０",
+          "sales": 4001,
+          "seats": 25009,
+          "showtimes": 183,
+          "theaters": 167,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "PERFECT DAYS",
+          "japanese name": "ＰＥＲＦＥＣＴ ＤＡＹＳ",
+          "sales": 3826,
+          "seats": 12037,
+          "showtimes": 88,
+          "theaters": 98,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kiryu Monogatari - Koyomi Vampire -",
+          "japanese name": "傷物語 －こよみヴァンプ－",
+          "sales": 2422,
+          "seats": 10866,
+          "showtimes": 81,
+          "theaters": 87,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "FUKUYAMA MASAHIRO LIVE FILM Koto no Sakuyaku no Natsuyasumi",
+          "japanese name": "ＦＵＫＵＹＡＭＡ ＭＡＳＡＨＡＲＵ ＬＩＶＥ ＦＩＬＭ 言霊の幸わう夏",
+          "sales": 2339,
+          "seats": 38037,
+          "showtimes": 169,
+          "theaters": 102,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The beginning of Wonka and the Chocolate Factory",
+          "japanese name": "ウォンカとチョコレート工場のはじまり",
+          "sales": 2104,
+          "seats": 8095,
+          "showtimes": 66,
+          "theaters": 171,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Totto-chan\"",
+          "japanese name": "映画「窓ぎわのトットちゃん」",
+          "sales": 2083,
+          "seats": 15179,
+          "showtimes": 120,
+          "theaters": 155,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kitaro's birth, the mystery of Gegege",
+          "japanese name": "鬼太郎誕生 ゲゲゲの謎",
+          "sales": 2010,
+          "seats": 8087,
+          "showtimes": 49,
+          "theaters": 148,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Expendables: Nowhere to Run",
+          "japanese name": "エクスペンダブルズ ニューブラッド",
+          "sales": 1742,
+          "seats": 19867,
+          "showtimes": 149,
+          "theaters": 164,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Masked Rider THE WINTER MOVIE Gatchaman & Geats Strongest Kemi★Gatcha Great Strategy",
+          "japanese name": "仮面ライダー ＴＨＥ ＷＩＮＴＥＲ ＭＯＶＩＥ ガッチャード＆ギーツ 最強ケミー★ガッチャ大作戦",
+          "sales": 1536,
+          "seats": 18250,
+          "showtimes": 133,
+          "theaters": 147,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "FINAL FANTASY VII ADVENT CHILDREN COMPLETE 4K REMASTER",
+          "japanese name": "ＦＩＮＡＬ ＦＡＮＴＡＳＹ ＶＩＩ ＡＤＶＥＮＴ ＣＨＩＬＤＲＥＮ ＣＯＭＰＬＥＴＥ ４Ｋリマスター版",
+          "sales": 1530,
+          "seats": 3085,
+          "showtimes": 19,
+          "theaters": 21,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Overcome your memories. 30th DOCUMENTARY HAWKS",
+          "japanese name": "思い出を、超えていけ。３０ｔｈ ＤＯＣＵＭＥＮＴＡＲＹ ＨＡＷＫＳ",
+          "sales": 1082,
+          "seats": 5940,
+          "showtimes": 34,
+          "theaters": 24,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Todoroki no Kibun ~Biwako yori Ai o Komete~",
+          "japanese name": "翔んで埼玉 ～琵琶湖より愛をこめて～",
+          "sales": 1074,
+          "seats": 5181,
+          "showtimes": 37,
+          "theaters": 90,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "How You Live",
+          "japanese name": "君たちはどう生きるか",
+          "sales": 981,
+          "seats": 5863,
+          "showtimes": 47,
+          "theaters": 158,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Welcome to San Sebastian",
+          "japanese name": "サン・セバスチャンへ、ようこそ",
+          "sales": 742,
+          "seats": 6478,
+          "showtimes": 48,
+          "theaters": 34,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Concrete Utopia",
+          "japanese name": "コンクリート・ユートピア",
+          "sales": 548,
+          "seats": 4076,
+          "showtimes": 28,
+          "theaters": 84,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Millennium Actress <>",
+          "japanese name": "千年女優 ＜＞",
+          "sales": 491,
+          "seats": 1763,
+          "showtimes": 10,
+          "theaters": 20,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Golden Kamuy",
+          "japanese name": "ゴールデンカムイ",
+          "sales": 60983,
+          "seats": 302058,
+          "showtimes": 922,
+          "theaters": 176,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 SPY×FAMILY CODE: White",
+          "japanese name": "劇場版 ＳＰＹ×ＦＡＭＩＬＹ ＣＯＤＥ：Ｗｈｉｔｅ",
+          "sales": 35224,
+          "seats": 163873,
+          "showtimes": 722,
+          "theaters": 181,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "If I could meet you again on that hill where those flowers bloom.",
+          "japanese name": "あの花が咲く丘で、君とまた出会えたら。",
+          "sales": 24482,
+          "seats": 81934,
+          "showtimes": 495,
+          "theaters": 173,
+          "rank": 3,
+          "last_week_ratio": 100.3
+        },
+        {
+          "moviename": "Wish",
+          "japanese name": "ウィッシュ",
+          "sales": 19804,
+          "seats": 72774,
+          "showtimes": 494,
+          "theaters": 183,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "In a certain closed snow cabin",
+          "japanese name": "ある閉ざされた雪の山荘で",
+          "sales": 16416,
+          "seats": 66698,
+          "showtimes": 449,
+          "theaters": 151,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Aquaman/Lost Kingdom",
+          "japanese name": "アクアマン／失われた王国",
+          "sales": 14952,
+          "seats": 95826,
+          "showtimes": 619,
+          "theaters": 181,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let's go karaoke!",
+          "japanese name": "カラオケ行こ！",
+          "sales": 11003,
+          "seats": 34081,
+          "showtimes": 273,
+          "theaters": 150,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kitaro's birth, the mystery of Gegege",
+          "japanese name": "鬼太郎誕生 ゲゲゲの謎",
+          "sales": 10047,
+          "seats": 30751,
+          "showtimes": 174,
+          "theaters": 148,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TV series special edition \"Detective Conan vs. The Phantom Kid\"",
+          "japanese name": "ＴＶシリーズ特別編集版「名探偵コナンｖｓ．怪盗キッド」",
+          "sales": 8658,
+          "seats": 44587,
+          "showtimes": 316,
+          "theaters": 121,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Godzilla - 1.0",
+          "japanese name": "ゴジラ－１．０",
+          "sales": 8366,
+          "seats": 46836,
+          "showtimes": 352,
+          "theaters": 167,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The beginning of Wonka and the Chocolate Factory",
+          "japanese name": "ウォンカとチョコレート工場のはじまり",
+          "sales": 6306,
+          "seats": 22939,
+          "showtimes": 179,
+          "theaters": 171,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "PERFECT DAYS",
+          "japanese name": "ＰＥＲＦＥＣＴ ＤＡＹＳ",
+          "sales": 5577,
+          "seats": 17179,
+          "showtimes": 125,
+          "theaters": 98,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kiryu Monogatari - Koyomi Vampire -",
+          "japanese name": "傷物語 －こよみヴァンプ－",
+          "sales": 5338,
+          "seats": 21743,
+          "showtimes": 163,
+          "theaters": 87,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Paul Patrol The Mighty Movie",
+          "japanese name": "パウ・パトロール ザ・マイティ・ムービー",
+          "sales": 5278,
+          "seats": 20666,
+          "showtimes": 148,
+          "theaters": 116,
+          "rank": 14,
+          "last_week_ratio": 105.5
+        },
+        {
+          "moviename": "FUKUYAMA MASAHIRO LIVE FILM Koto no Sakuyaku no Natsuyasumi",
+          "japanese name": "ＦＵＫＵＹＡＭＡ ＭＡＳＡＨＡＲＵ ＬＩＶＥ ＦＩＬＭ 言霊の幸わう夏",
+          "sales": 3879,
+          "seats": 70979,
+          "showtimes": 319,
+          "theaters": 102,
+          "rank": 15,
+          "last_week_ratio": 476.5
+        },
+        {
+          "moviename": "The Expendables: Nowhere to Run",
+          "japanese name": "エクスペンダブルズ ニューブラッド",
+          "sales": 3795,
+          "seats": 37304,
+          "showtimes": 285,
+          "theaters": 164,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Todoroki no Kibun ~Biwako yori Ai o Komete~",
+          "japanese name": "翔んで埼玉 ～琵琶湖より愛をこめて～",
+          "sales": 2889,
+          "seats": 11894,
+          "showtimes": 92,
+          "theaters": 90,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Totto-chan\"",
+          "japanese name": "映画「窓ぎわのトットちゃん」",
+          "sales": 2830,
+          "seats": 19512,
+          "showtimes": 155,
+          "theaters": 155,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "FINAL FANTASY VII ADVENT CHILDREN COMPLETE 4K REMASTER",
+          "japanese name": "ＦＩＮＡＬ ＦＡＮＴＡＳＹ ＶＩＩ ＡＤＶＥＮＴ ＣＨＩＬＤＲＥＮ ＣＯＭＰＬＥＴＥ ４Ｋリマスター版",
+          "sales": 2743,
+          "seats": 5959,
+          "showtimes": 35,
+          "theaters": 21,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "How You Live",
+          "japanese name": "君たちはどう生きるか",
+          "sales": 2730,
+          "seats": 17326,
+          "showtimes": 134,
+          "theaters": 158,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Overcome your memories. 30th DOCUMENTARY HAWKS",
+          "japanese name": "思い出を、超えていけ。３０ｔｈ ＤＯＣＵＭＥＮＴＡＲＹ ＨＡＷＫＳ",
+          "sales": 1772,
+          "seats": 10763,
+          "showtimes": 62,
+          "theaters": 24,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Masked Rider THE WINTER MOVIE Gatchaman & Geats Strongest Kemi★Gatcha Great Strategy",
+          "japanese name": "仮面ライダー ＴＨＥ ＷＩＮＴＥＲ ＭＯＶＩＥ ガッチャード＆ギーツ 最強ケミー★ガッチャ大作戦",
+          "sales": 1669,
+          "seats": 19775,
+          "showtimes": 144,
+          "theaters": 147,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mrs. GREEN APPLE ARENA SHOW Utopia Cinema Viewing",
+          "japanese name": "Ｍｒｓ．ＧＲＥＥＮ ＡＰＰＬＥ ＡＲＥＮＡ ＳＨＯＷ Ｕｔｏｐｉａ ＣＩＮＥＭＡ ＶＩＥＷＩＮＧ",
+          "sales": 1661,
+          "seats": 2542,
+          "showtimes": 22,
+          "theaters": 17,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Welcome to San Sebastian",
+          "japanese name": "サン・セバスチャンへ、ようこそ",
+          "sales": 1322,
+          "seats": 11917,
+          "showtimes": 89,
+          "theaters": 34,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Concrete Utopia",
+          "japanese name": "コンクリート・ユートピア",
+          "sales": 1142,
+          "seats": 9565,
+          "showtimes": 75,
+          "theaters": 84,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Golden Kamuy",
+          "japanese name": "ゴールデンカムイ",
+          "sales": 73540,
+          "seats": 382152,
+          "showtimes": 1161,
+          "theaters": 176,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version of SPY×FAMILY CODE: White",
+          "japanese name": "劇場版 ＳＰＹ×ＦＡＭＩＬＹ ＣＯＤＥ：Ｗｈｉｔｅ",
+          "sales": 39063,
+          "seats": 201198,
+          "showtimes": 889,
+          "theaters": 181,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "If I could meet you again on that hill where those flowers bloom.",
+          "japanese name": "あの花が咲く丘で、君とまた出会えたら。",
+          "sales": 27923,
+          "seats": 98888,
+          "showtimes": 599,
+          "theaters": 173,
+          "rank": 3,
+          "last_week_ratio": 100.7
+        },
+        {
+          "moviename": "Wish",
+          "japanese name": "ウィッシュ",
+          "sales": 20911,
+          "seats": 79797,
+          "showtimes": 541,
+          "theaters": 183,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "In a secluded snow-covered mountain cabin",
+          "japanese name": "ある閉ざされた雪の山荘で",
+          "sales": 19425,
+          "seats": 88051,
+          "showtimes": 586,
+          "theaters": 151,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Aquaman/Lost Kingdom",
+          "japanese name": "アクアマン／失われた王国",
+          "sales": 18363,
+          "seats": 126488,
+          "showtimes": 816,
+          "theaters": 181,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let’s go karaoke!",
+          "japanese name": "カラオケ行こ！",
+          "sales": 13061,
+          "seats": 45044,
+          "showtimes": 356,
+          "theaters": 150,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ghost Taro is born: The mysteries of Gegenge",
+          "japanese name": "鬼太郎誕生 ゲゲゲの謎",
+          "sales": 10658,
+          "seats": 34945,
+          "showtimes": 198,
+          "theaters": 148,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Godzilla-1.0",
+          "japanese name": "ゴジラ－１．０",
+          "sales": 9954,
+          "seats": 63468,
+          "showtimes": 469,
+          "theaters": 167,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TV Series Special Edition “Detective Conan vs. Kid Phantom”",
+          "japanese name": "ＴＶシリーズ特別編集版「名探偵コナンｖｓ．怪盗キッド」",
+          "sales": 9749,
+          "seats": 53706,
+          "showtimes": 377,
+          "theaters": 121,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wounded Stories – Koyomi Vampire –",
+          "japanese name": "傷物語 －こよみヴァンプ－",
+          "sales": 6943,
+          "seats": 32029,
+          "showtimes": 241,
+          "theaters": 87,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Beginning of Wonka and the Chocolate Factory",
+          "japanese name": "ウォンカとチョコレート工場のはじまり",
+          "sales": 6851,
+          "seats": 26582,
+          "showtimes": 205,
+          "theaters": 171,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Perfect Days",
+          "japanese name": "ＰＥＲＦＥＣＴ ＤＡＹＳ",
+          "sales": 5807,
+          "seats": 17870,
+          "showtimes": 133,
+          "theaters": 98,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Paw Patrol: The Mighty Movie",
+          "japanese name": "パウ・パトロール ザ・マイティ・ムービー",
+          "sales": 5278,
+          "seats": 20666,
+          "showtimes": 148,
+          "theaters": 116,
+          "rank": 14,
+          "last_week_ratio": 105.5
+        },
+        {
+          "moviename": "The Expendables: New Blood",
+          "japanese name": "エクスペンダブルズ ニューブラッド",
+          "sales": 4905,
+          "seats": 52626,
+          "showtimes": 405,
+          "theaters": 164,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "FUKUYAMA MASAHARU LIVE FILM: The Lucky Summer of Words",
+          "japanese name": "ＦＵＫＵＹＡＭＡ ＭＡＳＡＨＡＲＵ ＬＩＶＥ ＦＩＬＭ 言霊の幸わう夏",
+          "sales": 4325,
+          "seats": 89180,
+          "showtimes": 399,
+          "theaters": 102,
+          "rank": 16,
+          "last_week_ratio": 508.8
+        },
+        {
+          "moviename": "Flying over Saitama ~With love from Lake Biwa~",
+          "japanese name": "翔んで埼玉 ～琵琶湖より愛をこめて～",
+          "sales": 3149,
+          "seats": 14283,
+          "showtimes": 112,
+          "theaters": 90,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "How do you choose to live your lives?",
+          "japanese name": "君たちはどう生きるか",
+          "sales": 3105,
+          "seats": 21745,
+          "showtimes": 167,
+          "theaters": 158,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "FINAL FANTASY VII: Advent Children – 4K Remaster Edition",
+          "japanese name": "ＦＩＮＡＬ ＦＡＮＴＡＳＹ ＶＩＩ ＡＤＶＥＮＴ ＣＨＩＬＤＲＥＮ ＣＯＭＰＬＥＴＥ ４Ｋリマスター版",
+          "sales": 2996,
+          "seats": 6705,
+          "showtimes": 41,
+          "theaters": 21,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Movie “Totto-chan at the Window”",
+          "japanese name": "映画「窓ぎわのトットちゃん」",
+          "sales": 2908,
+          "seats": 20337,
+          "showtimes": 161,
+          "theaters": 155,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Go beyond the memories. 30th DOCUMENTARY HAWKS",
+          "japanese name": "思い出を、超えていけ。３０ｔｈ ＤＯＣＵＭＥＮＴＡＲＹ ＨＡＷＫＳ",
+          "sales": 2137,
+          "seats": 14389,
+          "showtimes": 82,
+          "theaters": 24,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kamen Rider THE WINTER MOVIE: Gatchard & Geats – The Ultimate Team-up★Gatcha Operation",
+          "japanese name": "仮面ライダー ＴＨＥ ＷＩＮＴＥＲ ＭＯＶＩＥ ガッチャード＆ギーツ 最強ケミー★ガッチャ大作戦",
+          "sales": 1673,
+          "seats": 19914,
+          "showtimes": 145,
+          "theaters": 147,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ms. GREEN APPLE ARENA SHOW Topia Cinema Viewing",
+          "japanese name": "Ｍｒｓ．ＧＲＥＥＮ ＡＰＰＬＥ ＡＲＥＮＡ ＳＨＯＷ Ｕｔｏｐｉａ ＣＩＮＥＭＡ ＶＩＥＷＩＮＧ",
+          "sales": 1661,
+          "seats": 2542,
+          "showtimes": 22,
+          "theaters": 17,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Welcome to San Sebastián.",
+          "japanese name": "サン・セバスチャンへ、ようこそ",
+          "sales": 1436,
+          "seats": 15019,
+          "showtimes": 113,
+          "theaters": 34,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Concrete Utopia",
+          "japanese name": "コンクリート・ユートピア",
+          "sales": 1366,
+          "seats": 13890,
+          "showtimes": 108,
+          "theaters": 84,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

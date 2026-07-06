@@ -1,0 +1,773 @@
+{
+  "date": "14-06-2026",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Michael/Mike",
+          "japanese name": "Ｍｉｃｈａｅｌ／マイケル",
+          "sales": 70188,
+          "seats": 241532,
+          "showtimes": 857,
+          "theaters": 271,
+          "rank": 1,
+          "last_week_ratio": 1208.5
+        },
+        {
+          "moviename": "Star Wars/Mandalorian and Grogu",
+          "japanese name": "スター・ウォーズ／マンダロリアン・アンド・グローグー",
+          "sales": 17183,
+          "seats": 43889,
+          "showtimes": 263,
+          "theaters": 267,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Super Mario Galaxy Movie",
+          "japanese name": "ザ・スーパーマリオギャラクシー・ムービー",
+          "sales": 14690,
+          "seats": 44440,
+          "showtimes": 275,
+          "theaters": 260,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Osomatsu-san The Plan to Dehumanize Humanity!!!!?",
+          "japanese name": "映画 おそ松さん 人類クズ化計画！！！！！？",
+          "sales": 13256,
+          "seats": 62274,
+          "showtimes": 289,
+          "theaters": 172,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan The Angel on the Highway",
+          "japanese name": "名探偵コナン ハイウェイの堕天使",
+          "sales": 10689,
+          "seats": 30818,
+          "showtimes": 210,
+          "theaters": 265,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Devil Wears Prada 2",
+          "japanese name": "プラダを着た悪魔２",
+          "sales": 9129,
+          "seats": 29549,
+          "showtimes": 202,
+          "theaters": 263,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sheep in the box",
+          "japanese name": "箱の中の羊",
+          "sales": 4803,
+          "seats": 30718,
+          "showtimes": 247,
+          "theaters": 270,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Film Demon Slayer: Infinite Train Chapter 1, Yiguo Theater Returns",
+          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
+          "sales": 3842,
+          "seats": 5179,
+          "showtimes": 34,
+          "theaters": 67,
+          "rank": 8,
+          "last_week_ratio": 7840.8
+        },
+        {
+          "moviename": "Kato-kun isn't bad",
+          "japanese name": "山口くんはワルくない",
+          "sales": 3069,
+          "seats": 22618,
+          "showtimes": 181,
+          "theaters": 183,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SAKAMOTO DAI",
+          "japanese name": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ",
+          "sales": 2383,
+          "seats": 6624,
+          "showtimes": 57,
+          "theaters": 251,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Galaxy Express Milky☆Subway, stopping at every station to the theater",
+          "japanese name": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
+          "sales": 2196,
+          "seats": 24244,
+          "showtimes": 138,
+          "theaters": 137,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version Travel Inspection Official Maeda Shusaku",
+          "japanese name": "劇場版 旅人検視官 道場修作",
+          "sales": 2054,
+          "seats": 12157,
+          "showtimes": 100,
+          "theaters": 116,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theater Edition Mononoke Chapter 3, Snake God",
+          "japanese name": "劇場版モノノ怪 第三章 蛇神",
+          "sales": 1963,
+          "seats": 9583,
+          "showtimes": 68,
+          "theaters": 168,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Uta no ☆ Prince-sama♪ QUARTET NIGHT LIVES ENDLESS JEWELS LV",
+          "japanese name": "うたの☆プリンスさまっ♪ ＱＵＡＲＴＥＴ ＮＩＧＨＴ ＬＩＶＥ ＥＮＤＬＥＳＳ ＪＥＷＥＬＳ ＬＶ",
+          "sales": 1804,
+          "seats": 6476,
+          "showtimes": 71,
+          "theaters": 97,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Blue in Cinema",
+          "japanese name": "ブルーイ ｉｎ シネマ",
+          "sales": 1751,
+          "seats": 6244,
+          "showtimes": 41,
+          "theaters": 116,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Goat Detectives",
+          "japanese name": "ひつじ探偵団",
+          "sales": 1727,
+          "seats": 6825,
+          "showtimes": 57,
+          "theaters": 132,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Honest Real Estate\"",
+          "japanese name": "映画「正直不動産」",
+          "sales": 1605,
+          "seats": 8424,
+          "showtimes": 70,
+          "theaters": 245,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Silat",
+          "japanese name": "シラート",
+          "sales": 1438,
+          "seats": 4535,
+          "showtimes": 29,
+          "theaters": 36,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Masters of the Universe",
+          "japanese name": "マスターズ・オブ・ユニバース",
+          "sales": 1415,
+          "seats": 14000,
+          "showtimes": 112,
+          "theaters": 237,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Amazing Digital Circuit: The Zarast Act",
+          "japanese name": "Ｔｈｅ Ａｍａｚｉｎｇ Ｄｉｇｉｔａｌ Ｃｉｒｃｕｓ：ザラストアクト",
+          "sales": 1399,
+          "seats": 3489,
+          "showtimes": 18,
+          "theaters": 54,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SAMURAI BLUE Project for FIFA World Cup 2026 \"ONE CREATURE\" Endless individualities, one life.",
+          "japanese name": "ＳＡＭＵＲＡＩ ＢＬＵＥ Ｐｒｏｊｅｃｔ ｆｏｒ ＦＩＦＡ Ｗｏｒｌｄ Ｃｕｐ ２０２６ 「ＯＮＥ ＣＲＥＡＴＵＲＥ」無数の個性、ひとつの生きもの。",
+          "sales": 1345,
+          "seats": 6434,
+          "showtimes": 50,
+          "theaters": 188,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Never After Dark/Never After Dark",
+          "japanese name": "Ｎｅｖｅｒ Ａｆｔｅｒ Ｄａｒｋ／ネバーアフターダーク",
+          "sales": 1090,
+          "seats": 8896,
+          "showtimes": 70,
+          "theaters": 119,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nameless",
+          "japanese name": "名無し",
+          "sales": 1082,
+          "seats": 8399,
+          "showtimes": 50,
+          "theaters": 79,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Yushan",
+          "japanese name": "祝山",
+          "sales": 822,
+          "seats": 3689,
+          "showtimes": 26,
+          "theaters": 47,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Your Quiz",
+          "japanese name": "君のクイズ",
+          "sales": 732,
+          "seats": 4975,
+          "showtimes": 42,
+          "theaters": 250,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Michael/Mike",
+          "japanese name": "Ｍｉｃｈａｅｌ／マイケル",
+          "sales": 120551,
+          "seats": 440141,
+          "showtimes": 1586,
+          "theaters": 271,
+          "rank": 1,
+          "last_week_ratio": 1003.3
+        },
+        {
+          "moviename": "Star Wars/Mandalorian and Grogu",
+          "japanese name": "スター・ウォーズ／マンダロリアン・アンド・グローグー",
+          "sales": 28485,
+          "seats": 76415,
+          "showtimes": 466,
+          "theaters": 267,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Osomatsu-san The Plan to Dehumanize Humanity!!!!?",
+          "japanese name": "映画 おそ松さん 人類クズ化計画！！！！！？",
+          "sales": 21283,
+          "seats": 110153,
+          "showtimes": 521,
+          "theaters": 172,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Super Mario Galaxy Movie",
+          "japanese name": "ザ・スーパーマリオギャラクシー・ムービー",
+          "sales": 20768,
+          "seats": 60806,
+          "showtimes": 380,
+          "theaters": 260,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan The Angel on the Highway",
+          "japanese name": "名探偵コナン ハイウェイの堕天使",
+          "sales": 17321,
+          "seats": 49959,
+          "showtimes": 345,
+          "theaters": 265,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Devil Wears Prada 2",
+          "japanese name": "プラダを着た悪魔２",
+          "sales": 16773,
+          "seats": 50645,
+          "showtimes": 339,
+          "theaters": 263,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sheep in the box",
+          "japanese name": "箱の中の羊",
+          "sales": 7431,
+          "seats": 48486,
+          "showtimes": 381,
+          "theaters": 270,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bz LIV-GYM 2019",
+          "japanese name": "Ｂｚ ＬＩＶＥ－ＧＹＭ ２０１９",
+          "sales": 6825,
+          "seats": 9134,
+          "showtimes": 61,
+          "theaters": 66,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Film Demon Slayer: Infinite Train Chapter 1, Yiguo Theater Returns",
+          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
+          "sales": 4917,
+          "seats": 6709,
+          "showtimes": 46,
+          "theaters": 67,
+          "rank": 9,
+          "last_week_ratio": 10034.7
+        },
+        {
+          "moviename": "SAKAMOTO DAI",
+          "japanese name": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ",
+          "sales": 4865,
+          "seats": 18235,
+          "showtimes": 141,
+          "theaters": 251,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kato-kun isn't bad",
+          "japanese name": "山口くんはワルくない",
+          "sales": 3728,
+          "seats": 28469,
+          "showtimes": 229,
+          "theaters": 183,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Galaxy Express Milky☆Subway, stopping at every station to the theater",
+          "japanese name": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
+          "sales": 3405,
+          "seats": 37023,
+          "showtimes": 226,
+          "theaters": 137,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theater Edition Mononoke Chapter 3, Snake God",
+          "japanese name": "劇場版モノノ怪 第三章 蛇神",
+          "sales": 3263,
+          "seats": 16407,
+          "showtimes": 118,
+          "theaters": 168,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SAMURAI BLUE Project for FIFA World Cup 2026 \"ONE CREATURE\" Endless individualities, one life.",
+          "japanese name": "ＳＡＭＵＲＡＩ ＢＬＵＥ Ｐｒｏｊｅｃｔ ｆｏｒ ＦＩＦＡ Ｗｏｒｌｄ Ｃｕｐ ２０２６ 「ＯＮＥ ＣＲＥＡＴＵＲＥ」無数の個性、ひとつの生きもの。",
+          "sales": 3242,
+          "seats": 14994,
+          "showtimes": 118,
+          "theaters": 188,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Goat Detectives",
+          "japanese name": "ひつじ探偵団",
+          "sales": 2720,
+          "seats": 11106,
+          "showtimes": 93,
+          "theaters": 132,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Honest Real Estate\"",
+          "japanese name": "映画「正直不動産」",
+          "sales": 2555,
+          "seats": 13781,
+          "showtimes": 115,
+          "theaters": 245,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version Travel Inspection Official Maeda Shusaku",
+          "japanese name": "劇場版 旅人検視官 道場修作",
+          "sales": 2544,
+          "seats": 17574,
+          "showtimes": 143,
+          "theaters": 116,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Silat",
+          "japanese name": "シラート",
+          "sales": 2510,
+          "seats": 8148,
+          "showtimes": 51,
+          "theaters": 36,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Blue in Cinema",
+          "japanese name": "ブルーイ ｉｎ シネマ",
+          "sales": 2422,
+          "seats": 8974,
+          "showtimes": 59,
+          "theaters": 116,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nameless",
+          "japanese name": "名無し",
+          "sales": 2223,
+          "seats": 12069,
+          "showtimes": 74,
+          "theaters": 79,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Never After Dark/Never After Dark",
+          "japanese name": "Ｎｅｖｅｒ Ａｆｔｅｒ Ｄａｒｋ／ネバーアフターダーク",
+          "sales": 2178,
+          "seats": 14796,
+          "showtimes": 116,
+          "theaters": 119,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Masters of the Universe",
+          "japanese name": "マスターズ・オブ・ユニバース",
+          "sales": 2113,
+          "seats": 25645,
+          "showtimes": 199,
+          "theaters": 237,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Amazing Digital Circuit: The Zarast Act",
+          "japanese name": "Ｔｈｅ Ａｍａｚｉｎｇ Ｄｉｇｉｔａｌ Ｃｉｒｃｕｓ：ザラストアクト",
+          "sales": 2105,
+          "seats": 5629,
+          "showtimes": 30,
+          "theaters": 54,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Your Quiz",
+          "japanese name": "君のクイズ",
+          "sales": 1884,
+          "seats": 11712,
+          "showtimes": 102,
+          "theaters": 250,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Yushan",
+          "japanese name": "祝山",
+          "sales": 1822,
+          "seats": 7157,
+          "showtimes": 52,
+          "theaters": 47,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Michael",
+          "japanese name": "Ｍｉｃｈａｅｌ／マイケル",
+          "sales": 132537,
+          "seats": 546786,
+          "showtimes": 1970,
+          "theaters": 271,
+          "rank": 1,
+          "last_week_ratio": 1016.7
+        },
+        {
+          "moviename": "Star Wars: Mandalorian and Grogg",
+          "japanese name": "スター・ウォーズ／マンダロリアン・アンド・グローグー",
+          "sales": 30559,
+          "seats": 101055,
+          "showtimes": 611,
+          "theaters": 267,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Osomatsu-san: The Plan to Turn Humans into Trash!!!!!!!",
+          "japanese name": "映画 おそ松さん 人類クズ化計画！！！！！？",
+          "sales": 23678,
+          "seats": 138473,
+          "showtimes": 657,
+          "theaters": 172,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Super Mario Galaxy Movie",
+          "japanese name": "ザ・スーパーマリオギャラクシー・ムービー",
+          "sales": 20905,
+          "seats": 62241,
+          "showtimes": 390,
+          "theaters": 260,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: The Fallen Angel of the Highway",
+          "japanese name": "名探偵コナン ハイウェイの堕天使",
+          "sales": 17985,
+          "seats": 58522,
+          "showtimes": 401,
+          "theaters": 265,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Devil Wears Prada 2",
+          "japanese name": "プラダを着た悪魔２",
+          "sales": 17950,
+          "seats": 63593,
+          "showtimes": 423,
+          "theaters": 263,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The sheep inside the box",
+          "japanese name": "箱の中の羊",
+          "sales": 7878,
+          "seats": 65038,
+          "showtimes": 511,
+          "theaters": 270,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bz LIVE-GYM 2019",
+          "japanese name": "Ｂｚ ＬＩＶＥ－ＧＹＭ ２０１９",
+          "sales": 6825,
+          "seats": 9134,
+          "showtimes": 61,
+          "theaters": 66,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SAKAMOTO DAYS",
+          "japanese name": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ",
+          "sales": 5078,
+          "seats": 21145,
+          "showtimes": 162,
+          "theaters": 251,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version of Demon Slayer: Infinite City – Chapter 1: The Return of Gaozu",
+          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
+          "sales": 5069,
+          "seats": 7458,
+          "showtimes": 50,
+          "theaters": 67,
+          "rank": 10,
+          "last_week_ratio": 10344.9
+        },
+        {
+          "moviename": "Theatrical Version of Mononoke: Chapter 3 – The Snake God",
+          "japanese name": "劇場版モノノ怪 第三章 蛇神",
+          "sales": 3965,
+          "seats": 22181,
+          "showtimes": 160,
+          "theaters": 168,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Yamaguchi-kun isn’t a bad person.",
+          "japanese name": "山口くんはワルくない",
+          "sales": 3901,
+          "seats": 32386,
+          "showtimes": 256,
+          "theaters": 183,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Galaxy Express Milky☆Subway: Direct to the Theater Station",
+          "japanese name": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
+          "sales": 3848,
+          "seats": 46100,
+          "showtimes": 288,
+          "theaters": 137,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SAMURAI BLUE Project for FIFA World Cup 2026 “ONE CREATION” Countless individualities, one being.",
+          "japanese name": "ＳＡＭＵＲＡＩ ＢＬＵＥ Ｐｒｏｊｅｃｔ ｆｏｒ ＦＩＦＡ Ｗｏｒｌｄ Ｃｕｐ ２０２６ 「ＯＮＥ ＣＲＥＡＴＵＲＥ」無数の個性、ひとつの生きもの。",
+          "sales": 3523,
+          "seats": 17638,
+          "showtimes": 139,
+          "theaters": 188,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sheep Detective Team",
+          "japanese name": "ひつじ探偵団",
+          "sales": 2992,
+          "seats": 13527,
+          "showtimes": 108,
+          "theaters": 132,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sirat",
+          "japanese name": "シラート",
+          "sales": 2753,
+          "seats": 10618,
+          "showtimes": 65,
+          "theaters": 36,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The movie “Honest Real Estate”",
+          "japanese name": "映画「正直不動産」",
+          "sales": 2745,
+          "seats": 19407,
+          "showtimes": 150,
+          "theaters": 245,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Traveling Coroner: Dojo Shuuzou",
+          "japanese name": "劇場版 旅人検視官 道場修作",
+          "sales": 2636,
+          "seats": 19759,
+          "showtimes": 163,
+          "theaters": 116,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Never After Dark/ネバーアフターダーク",
+          "japanese name": "Ｎｅｖｅｒ Ａｆｔｅｒ Ｄａｒｋ／ネバーアフターダーク",
+          "sales": 2588,
+          "seats": 23401,
+          "showtimes": 177,
+          "theaters": 119,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Anonymous",
+          "japanese name": "名無し",
+          "sales": 2537,
+          "seats": 15300,
+          "showtimes": 95,
+          "theaters": 79,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bluey in Cinema",
+          "japanese name": "ブルーイ ｉｎ シネマ",
+          "sales": 2422,
+          "seats": 9093,
+          "showtimes": 60,
+          "theaters": 116,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Masters of the Universe",
+          "japanese name": "マスターズ・オブ・ユニバース",
+          "sales": 2397,
+          "seats": 35595,
+          "showtimes": 277,
+          "theaters": 237,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Amazon Digital Circus: The Last Act",
+          "japanese name": "Ｔｈｅ Ａｍａｚｉｎｇ Ｄｉｇｉｔａｌ Ｃｉｒｃｕｓ：ザラストアクト",
+          "sales": 2213,
+          "seats": 6079,
+          "showtimes": 33,
+          "theaters": 54,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Your Quiz",
+          "japanese name": "君のクイズ",
+          "sales": 2113,
+          "seats": 18655,
+          "showtimes": 152,
+          "theaters": 250,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Zhu Shan",
+          "japanese name": "祝山",
+          "sales": 1971,
+          "seats": 9009,
+          "showtimes": 65,
+          "theaters": 47,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

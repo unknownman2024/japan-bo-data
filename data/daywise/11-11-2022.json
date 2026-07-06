@@ -1,0 +1,773 @@
+{
+  "date": "11-11-2022",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "The sparrow’s task of locking the door",
+          "japanese name": "すずめの戸締まり",
+          "sales": 61985,
+          "seats": 439792,
+          "showtimes": 1739,
+          "theaters": 188,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Panther/Wakanda Forever",
+          "japanese name": "ブラックパンサー／ワカンダ・フォーエバー",
+          "sales": 22338,
+          "seats": 115657,
+          "showtimes": 633,
+          "theaters": 196,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Movie: Uta no☆Prinsamas♪ Maji LOVE Starlish Tours",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
+          "sales": 5028,
+          "seats": 5752,
+          "showtimes": 31,
+          "theaters": 60,
+          "rank": 3,
+          "last_week_ratio": 117.9
+        },
+        {
+          "moviename": "Twelve months of eating dirt",
+          "japanese name": "土を喰らう十二ヵ月",
+          "sales": 4722,
+          "seats": 27085,
+          "showtimes": 226,
+          "theaters": 117,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The demon over there <Exclusive preview>",
+          "japanese name": "あちらにいる鬼 ＜有料先行上映＞",
+          "sales": 2670,
+          "seats": 21272,
+          "showtimes": 173,
+          "theaters": 105,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ticket to Paradise",
+          "japanese name": "チケット・トゥ・パラダイス",
+          "sales": 1497,
+          "seats": 12456,
+          "showtimes": 111,
+          "theaters": 110,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "One Piece Film Red",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 1362,
+          "seats": 37757,
+          "showtimes": 277,
+          "theaters": 194,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sword Art Online: The Movie – Progressive: Sketches of a Dark Evening",
+          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 冥き夕闇のスケルツォ",
+          "sales": 1120,
+          "seats": 22094,
+          "showtimes": 180,
+          "theaters": 151,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Don’t Worry, Darling",
+          "japanese name": "ドント・ウォーリー・ダーリン",
+          "sales": 710,
+          "seats": 8032,
+          "showtimes": 66,
+          "theaters": 36,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The lines depict me.",
+          "japanese name": "線は、僕を描く",
+          "sales": 637,
+          "seats": 10269,
+          "showtimes": 90,
+          "theaters": 145,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Searching for the body",
+          "japanese name": "カラダ探し",
+          "sales": 613,
+          "seats": 23062,
+          "showtimes": 174,
+          "theaters": 191,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Crime City THE ROUNDUP Japan Premiere",
+          "japanese name": "犯罪都市 ＴＨＥ ＲＯＵＮＤＵＰ ジャパンプレミア",
+          "sales": 411,
+          "seats": 8381,
+          "showtimes": 72,
+          "theaters": 113,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Panther",
+          "japanese name": "ブラックパンサー",
+          "sales": 406,
+          "seats": 1368,
+          "showtimes": 8,
+          "theaters": 3,
+          "rank": 13,
+          "last_week_ratio": 356.1
+        },
+        {
+          "moviename": "In that case, have a good evening.",
+          "japanese name": "左様なら今晩は",
+          "sales": 403,
+          "seats": 2757,
+          "showtimes": 23,
+          "theaters": 16,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "By the window",
+          "japanese name": "窓辺にて",
+          "sales": 394,
+          "seats": 8183,
+          "showtimes": 74,
+          "theaters": 97,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Three Sisters of Tenkan-so",
+          "japanese name": "天間荘の三姉妹",
+          "sales": 390,
+          "seats": 12581,
+          "showtimes": 107,
+          "theaters": 157,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nirvana’s Home",
+          "japanese name": "奈落のマイホーム",
+          "sales": 352,
+          "seats": 2785,
+          "showtimes": 24,
+          "theaters": 14,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "RRR",
+          "japanese name": "ＲＲＲ",
+          "sales": 322,
+          "seats": 2057,
+          "showtimes": 19,
+          "theaters": 63,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Silent Parade",
+          "japanese name": "沈黙のパレード",
+          "sales": 318,
+          "seats": 6420,
+          "showtimes": 54,
+          "theaters": 171,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "If you listen carefully",
+          "japanese name": "耳をすませば",
+          "sales": 278,
+          "seats": 9370,
+          "showtimes": 67,
+          "theaters": 126,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "＜Monthly Kabuki 2022＞Onna Satsujigoku",
+          "japanese name": "＜月イチ歌舞伎２０２２＞女殺油地獄",
+          "sales": 272,
+          "seats": 3018,
+          "showtimes": 23,
+          "theaters": 23,
+          "rank": 21,
+          "last_week_ratio": 3400
+        },
+        {
+          "moviename": "Reiko DX",
+          "japanese name": "貞子ＤＸ",
+          "sales": 264,
+          "seats": 12557,
+          "showtimes": 100,
+          "theaters": 184,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Amsterdam",
+          "japanese name": "アムステルダム",
+          "sales": 223,
+          "seats": 7845,
+          "showtimes": 65,
+          "theaters": 153,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New Kabuki production “Nausicaä of the Valley of the Wind: Part 1”",
+          "japanese name": "新作歌舞伎「風の谷のナウシカ：前編」",
+          "sales": 185,
+          "seats": 819,
+          "showtimes": 9,
+          "theaters": 9,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Galaxy Heroes Legend: Die Neue These – Strategies, Chapter Two",
+          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 策謀 第二章",
+          "sales": 181,
+          "seats": 2755,
+          "showtimes": 21,
+          "theaters": 48,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "The sparrow’s task of locking the door",
+          "japanese name": "すずめの戸締まり",
+          "sales": 138563,
+          "seats": 783143,
+          "showtimes": 3134,
+          "theaters": 188,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Panther/Wakanda Forever",
+          "japanese name": "ブラックパンサー／ワカンダ・フォーエバー",
+          "sales": 40547,
+          "seats": 201576,
+          "showtimes": 1117,
+          "theaters": 196,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Movie: Uta no☆Prinsamas♪ Maji LOVE Starlish Tours",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
+          "sales": 9723,
+          "seats": 10694,
+          "showtimes": 63,
+          "theaters": 60,
+          "rank": 3,
+          "last_week_ratio": 101.2
+        },
+        {
+          "moviename": "Twelve months of eating dirt",
+          "japanese name": "土を喰らう十二ヵ月",
+          "sales": 5892,
+          "seats": 41243,
+          "showtimes": 349,
+          "theaters": 117,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The demon over there <Exclusive preview>",
+          "japanese name": "あちらにいる鬼 ＜有料先行上映＞",
+          "sales": 3391,
+          "seats": 32065,
+          "showtimes": 261,
+          "theaters": 105,
+          "rank": 5,
+          "last_week_ratio": 1971.5
+        },
+        {
+          "moviename": "One Piece Film Red",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 2873,
+          "seats": 63048,
+          "showtimes": 468,
+          "theaters": 194,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Searching for the body",
+          "japanese name": "カラダ探し",
+          "sales": 2372,
+          "seats": 46671,
+          "showtimes": 353,
+          "theaters": 191,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ticket to Paradise",
+          "japanese name": "チケット・トゥ・パラダイス",
+          "sales": 2312,
+          "seats": 20168,
+          "showtimes": 180,
+          "theaters": 110,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sword Art Online: The Movie – Progressive: Sketches of a Dark Evening",
+          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 冥き夕闇のスケルツォ",
+          "sales": 2308,
+          "seats": 35824,
+          "showtimes": 292,
+          "theaters": 151,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Don’t Worry, Darling",
+          "japanese name": "ドント・ウォーリー・ダーリン",
+          "sales": 1371,
+          "seats": 14496,
+          "showtimes": 118,
+          "theaters": 36,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The lines depict me.",
+          "japanese name": "線は、僕を描く",
+          "sales": 998,
+          "seats": 15315,
+          "showtimes": 133,
+          "theaters": 145,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Reiko DX",
+          "japanese name": "貞子ＤＸ",
+          "sales": 917,
+          "seats": 25221,
+          "showtimes": 211,
+          "theaters": 184,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "RRR",
+          "japanese name": "ＲＲＲ",
+          "sales": 905,
+          "seats": 6170,
+          "showtimes": 53,
+          "theaters": 63,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Panther",
+          "japanese name": "ブラックパンサー",
+          "sales": 857,
+          "seats": 2700,
+          "showtimes": 16,
+          "theaters": 3,
+          "rank": 14,
+          "last_week_ratio": 453.4
+        },
+        {
+          "moviename": "Crime City THE ROUNDUP Japan Premiere",
+          "japanese name": "犯罪都市 ＴＨＥ ＲＯＵＮＤＵＰ ジャパンプレミア",
+          "sales": 838,
+          "seats": 15620,
+          "showtimes": 136,
+          "theaters": 113,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "In that case, have a good evening.",
+          "japanese name": "左様なら今晩は",
+          "sales": 769,
+          "seats": 4375,
+          "showtimes": 37,
+          "theaters": 16,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Silent Parade",
+          "japanese name": "沈黙のパレード",
+          "sales": 717,
+          "seats": 15200,
+          "showtimes": 123,
+          "theaters": 171,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "By the window",
+          "japanese name": "窓辺にて",
+          "sales": 692,
+          "seats": 15394,
+          "showtimes": 138,
+          "theaters": 97,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nirvana’s Home",
+          "japanese name": "奈落のマイホーム",
+          "sales": 633,
+          "seats": 4837,
+          "showtimes": 42,
+          "theaters": 14,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "If you listen carefully",
+          "japanese name": "耳をすませば",
+          "sales": 541,
+          "seats": 15768,
+          "showtimes": 116,
+          "theaters": 126,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Three Sisters of Tenkan-so",
+          "japanese name": "天間荘の三姉妹",
+          "sales": 532,
+          "seats": 17987,
+          "showtimes": 155,
+          "theaters": 157,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Amsterdam",
+          "japanese name": "アムステルダム",
+          "sales": 482,
+          "seats": 15050,
+          "showtimes": 129,
+          "theaters": 153,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Galaxy Heroes Legend: Die Neue These – Strategies, Chapter Two",
+          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 策謀 第二章",
+          "sales": 399,
+          "seats": 5904,
+          "showtimes": 47,
+          "theaters": 48,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "＜Monthly Kabuki 2022＞Onna Satsujigoku",
+          "japanese name": "＜月イチ歌舞伎２０２２＞女殺油地獄",
+          "sales": 293,
+          "seats": 3798,
+          "showtimes": 25,
+          "theaters": 23,
+          "rank": 24,
+          "last_week_ratio": 1126.9
+        },
+        {
+          "moviename": "Sword Art Online: The Movie – Progressive, Aria in a Starless Night",
+          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア",
+          "sales": 227,
+          "seats": 4218,
+          "showtimes": 30,
+          "theaters": 19,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Suzume's Locksmith",
+          "japanese name": "すずめの戸締まり",
+          "sales": 203845,
+          "seats": 984453,
+          "showtimes": 3941,
+          "theaters": 188,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Panther / Wakanda Forever",
+          "japanese name": "ブラックパンサー／ワカンダ・フォーエバー",
+          "sales": 64693,
+          "seats": 264274,
+          "showtimes": 1468,
+          "theaters": 196,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version Uta no ☆ Prince-sama♪ Maji LOVE Starlight Tours",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
+          "sales": 16139,
+          "seats": 17392,
+          "showtimes": 101,
+          "theaters": 60,
+          "rank": 3,
+          "last_week_ratio": 105.2
+        },
+        {
+          "moviename": "The Twelve Months That Devour Earth",
+          "japanese name": "土を喰らう十二ヵ月",
+          "sales": 6406,
+          "seats": 48849,
+          "showtimes": 413,
+          "theaters": 117,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ONE PIECE FILM RED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 3955,
+          "seats": 78221,
+          "showtimes": 581,
+          "theaters": 194,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Demon Over There <Paid Preview Screening>",
+          "japanese name": "あちらにいる鬼 ＜有料先行上映＞",
+          "sales": 3637,
+          "seats": 39593,
+          "showtimes": 322,
+          "theaters": 105,
+          "rank": 6,
+          "last_week_ratio": 2114.5
+        },
+        {
+          "moviename": "剧场版 Sword Art Online Progressive - Scherzo of the Dark Night",
+          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 冥き夕闇のスケルツォ",
+          "sales": 3594,
+          "seats": 48049,
+          "showtimes": 391,
+          "theaters": 151,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Body Search",
+          "japanese name": "カラダ探し",
+          "sales": 3109,
+          "seats": 57414,
+          "showtimes": 436,
+          "theaters": 191,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ticket to Paradise",
+          "japanese name": "チケット・トゥ・パラダイス",
+          "sales": 2718,
+          "seats": 24346,
+          "showtimes": 220,
+          "theaters": 110,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Don't worry, darling",
+          "japanese name": "ドント・ウォーリー・ダーリン",
+          "sales": 1993,
+          "seats": 19076,
+          "showtimes": 158,
+          "theaters": 36,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "RRR",
+          "japanese name": "ＲＲＲ",
+          "sales": 1418,
+          "seats": 8587,
+          "showtimes": 71,
+          "theaters": 63,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ohtani DX",
+          "japanese name": "貞子ＤＸ",
+          "sales": 1287,
+          "seats": 34345,
+          "showtimes": 277,
+          "theaters": 184,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Panther",
+          "japanese name": "ブラックパンサー",
+          "sales": 1264,
+          "seats": 3359,
+          "showtimes": 20,
+          "theaters": 3,
+          "rank": 13,
+          "last_week_ratio": 566.8
+        },
+        {
+          "moviename": "If you're on the left, then tonight",
+          "japanese name": "左様なら今晩は",
+          "sales": 1141,
+          "seats": 5665,
+          "showtimes": 49,
+          "theaters": 16,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Crime City THE ROUNDUP Japan Premier",
+          "japanese name": "犯罪都市 ＴＨＥ ＲＯＵＮＤＵＰ ジャパンプレミア",
+          "sales": 1140,
+          "seats": 21491,
+          "showtimes": 187,
+          "theaters": 113,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The line draws me",
+          "japanese name": "線は、僕を描く",
+          "sales": 1132,
+          "seats": 17799,
+          "showtimes": 153,
+          "theaters": 145,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Silent Parade",
+          "japanese name": "沈黙のパレード",
+          "sales": 998,
+          "seats": 21237,
+          "showtimes": 174,
+          "theaters": 171,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "By the window",
+          "japanese name": "窓辺にて",
+          "sales": 858,
+          "seats": 19065,
+          "showtimes": 171,
+          "theaters": 97,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Naraku's Home",
+          "japanese name": "奈落のマイホーム",
+          "sales": 813,
+          "seats": 6361,
+          "showtimes": 56,
+          "theaters": 14,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Amsterdam",
+          "japanese name": "アムステルダム",
+          "sales": 626,
+          "seats": 19921,
+          "showtimes": 167,
+          "theaters": 153,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "If you listen closely",
+          "japanese name": "耳をすませば",
+          "sales": 623,
+          "seats": 17414,
+          "showtimes": 130,
+          "theaters": 126,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Galaxy Heroes传说 Die Neue These 策谋 第二章",
+          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 策謀 第二章",
+          "sales": 618,
+          "seats": 8427,
+          "showtimes": 67,
+          "theaters": 48,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The three sisters of Tenma-cho",
+          "japanese name": "天間荘の三姉妹",
+          "sales": 555,
+          "seats": 19410,
+          "showtimes": 165,
+          "theaters": 157,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Top Gun: Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 360,
+          "seats": 3029,
+          "showtimes": 26,
+          "theaters": 23,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 Sword Art Online Progressive: Starless Night's aria",
+          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア",
+          "sales": 324,
+          "seats": 5673,
+          "showtimes": 40,
+          "theaters": 19,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,773 @@
+{
+  "date": "06-01-2026",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Zootopia 2",
+          "japanese name": "ズートピア２",
+          "sales": 68892,
+          "seats": 293959,
+          "showtimes": 968,
+          "theaters": 278,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Emergency Investigation Team THE FINAL\"",
+          "japanese name": "劇場版「緊急取調室 ＴＨＥ ＦＩＮＡＬ」",
+          "sales": 13179,
+          "seats": 114622,
+          "showtimes": 557,
+          "theaters": 278,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Last Man – FIRST LOVE –",
+          "japanese name": "映画ラストマン －ＦＩＲＳＴ ＬＯＶＥ－",
+          "sales": 12512,
+          "seats": 92333,
+          "showtimes": 508,
+          "theaters": 271,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 8935,
+          "seats": 50256,
+          "showtimes": 296,
+          "theaters": 270,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Avatar: Fire and Ash",
+          "japanese name": "アバター：ファイヤー・アンド・アッシュ",
+          "sales": 7519,
+          "seats": 64999,
+          "showtimes": 404,
+          "theaters": 271,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Working Man",
+          "japanese name": "ワーキングマン",
+          "sales": 5499,
+          "seats": 47461,
+          "showtimes": 328,
+          "theaters": 207,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New Interpretation - Bakumatsu Monogatari",
+          "japanese name": "新解釈・幕末伝",
+          "sales": 4332,
+          "seats": 42564,
+          "showtimes": 334,
+          "theaters": 270,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Glory Back Home",
+          "japanese name": "栄光のバックホーム",
+          "sales": 4103,
+          "seats": 25586,
+          "showtimes": 185,
+          "theaters": 231,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Demon Slayer: Infinity Castle Arc - Chapter 1: Yidaoza Returns\"",
+          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
+          "sales": 2594,
+          "seats": 22512,
+          "showtimes": 158,
+          "theaters": 262,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Chainsaw Man: Reze Chapter\"",
+          "japanese name": "劇場版「チェンソーマン レゼ篇」",
+          "sales": 2373,
+          "seats": 13608,
+          "showtimes": 90,
+          "theaters": 258,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TOKYO Taxi",
+          "japanese name": "ＴＯＫＹＯタクシー",
+          "sales": 2341,
+          "seats": 31159,
+          "showtimes": 234,
+          "theaters": 253,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Maple",
+          "japanese name": "楓",
+          "sales": 1503,
+          "seats": 14036,
+          "showtimes": 124,
+          "theaters": 269,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "♯RUNSOCKJIN_EP.TOUR in AMSTERDAM Live Viewing",
+          "japanese name": "♯ＲＵＮＳＥＯＫＪＩＮ＿ＥＰ．ＴＯＵＲ ｉｎ ＡＭＳＴＥＲＤＡＭ ライブビューイング",
+          "sales": 1189,
+          "seats": 14832,
+          "showtimes": 98,
+          "theaters": 86,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bomb",
+          "japanese name": "爆弾",
+          "sales": 1139,
+          "seats": 9004,
+          "showtimes": 70,
+          "theaters": 224,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nakajima Miyuki Theatre Version Live History 2007-2016 Song Journey～Reunion～One Meeting",
+          "japanese name": "中島みゆき 劇場版 ライヴ・ヒストリー ２００７－２０１６ 歌旅～縁会～一会",
+          "sales": 1058,
+          "seats": 10247,
+          "showtimes": 66,
+          "theaters": 59,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mitani Miyuki Concert \"Kahikai VOL.1\" Theatrical Version",
+          "japanese name": "中島みゆきコンサート「歌会ＶＯＬ．１」劇場版",
+          "sales": 872,
+          "seats": 10121,
+          "showtimes": 65,
+          "theaters": 61,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Lost Lands The Dark Hunter",
+          "japanese name": "ロストランズ 闇を狩る者",
+          "sales": 690,
+          "seats": 22493,
+          "showtimes": 174,
+          "theaters": 144,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nissy Entertainment’s ‘RE: 10th Anniversary Final” BE",
+          "japanese name": "Ｎｉｓｓｙ Ｅｎｔｅｒｔａｉｎｍｅｎｔ ’Ｒｅ：１０ｔｈ Ａｎｎｉｖｅｒｓａｒｙ Ｆｉｎａｌ” ＢＥ",
+          "sales": 635,
+          "seats": 2341,
+          "showtimes": 16,
+          "theaters": 53,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pelleyu – Gernika of Paradise –",
+          "japanese name": "ペリリュー －楽園のゲルニカ－",
+          "sales": 493,
+          "seats": 8160,
+          "showtimes": 65,
+          "theaters": 158,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Maze Bookmark",
+          "japanese name": "迷宮のしおり",
+          "sales": 490,
+          "seats": 29231,
+          "showtimes": 243,
+          "theaters": 195,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kabuki NEXT In the Foggy Forest Where the Demon Resides <Completion Screening>",
+          "japanese name": "歌舞伎ＮＥＸＴ 朧の森に棲む鬼＜完成披露上映会＞",
+          "sales": 475,
+          "seats": 5421,
+          "showtimes": 41,
+          "theaters": 34,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "D) MGA MAGICAL 10 YEARS DOCUMENTARY FILM ～THE ORIGIN～",
+          "japanese name": "D) ＭＧＡ ＭＡＧＩＣＡＬ １０ ＹＥＡＲＳ ＤＯＣＵＭＥＮＴＡＲＹ ＦＩＬＭ ～ＴＨＥ ＯＲＩＧＩＮ～",
+          "sales": 457,
+          "seats": 4431,
+          "showtimes": 40,
+          "theaters": 172,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Romantic Killer",
+          "japanese name": "ロマンティック・キラー",
+          "sales": 452,
+          "seats": 9093,
+          "showtimes": 79,
+          "theaters": 247,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A) MGA MAgICAL 10 YEARS ANNIVERSARY LIVE FORORD",
+          "japanese name": "A) ＭＧＡ ＭＡＧＩＣＡＬ １０ ＹＥＡＲＳ ＡＮＮＩＶＥＲＳＡＲＹ ＬＩＶＥ ＦＪＯＲＤ",
+          "sales": 423,
+          "seats": 3605,
+          "showtimes": 32,
+          "theaters": 157,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version Jujutsu Kaisen \"Shibuya Incident Special Edit Version\" × \"Immortal Revolving\"",
+          "japanese name": "劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 」",
+          "sales": 380,
+          "seats": 3893,
+          "showtimes": 29,
+          "theaters": 96,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Zootopia 2",
+          "japanese name": "ズートピア２",
+          "sales": 99431,
+          "seats": 508999,
+          "showtimes": 1692,
+          "theaters": 278,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Emergency Investigation Team THE FINAL\"",
+          "japanese name": "劇場版「緊急取調室 ＴＨＥ ＦＩＮＡＬ」",
+          "sales": 17532,
+          "seats": 190737,
+          "showtimes": 933,
+          "theaters": 278,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Last Man – FIRST LOVE –",
+          "japanese name": "映画ラストマン －ＦＩＲＳＴ ＬＯＶＥ－",
+          "sales": 17409,
+          "seats": 157433,
+          "showtimes": 861,
+          "theaters": 271,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 12029,
+          "seats": 75918,
+          "showtimes": 441,
+          "theaters": 270,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Avatar: Fire and Ash",
+          "japanese name": "アバター：ファイヤー・アンド・アッシュ",
+          "sales": 11590,
+          "seats": 108493,
+          "showtimes": 664,
+          "theaters": 271,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Working Man",
+          "japanese name": "ワーキングマン",
+          "sales": 7825,
+          "seats": 78162,
+          "showtimes": 533,
+          "theaters": 207,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New Interpretation - Bakumatsu Monogatari",
+          "japanese name": "新解釈・幕末伝",
+          "sales": 6685,
+          "seats": 69765,
+          "showtimes": 544,
+          "theaters": 270,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Glory Back Home",
+          "japanese name": "栄光のバックホーム",
+          "sales": 5773,
+          "seats": 40065,
+          "showtimes": 281,
+          "theaters": 231,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Chainsaw Man: Reze Chapter\"",
+          "japanese name": "劇場版「チェンソーマン レゼ篇」",
+          "sales": 5436,
+          "seats": 39025,
+          "showtimes": 250,
+          "theaters": 258,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Demon Slayer: Infinity Castle Arc - Chapter 1: Yidaoza Returns\"",
+          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
+          "sales": 4060,
+          "seats": 47826,
+          "showtimes": 320,
+          "theaters": 262,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Maple",
+          "japanese name": "楓",
+          "sales": 3518,
+          "seats": 32548,
+          "showtimes": 272,
+          "theaters": 269,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bomb",
+          "japanese name": "爆弾",
+          "sales": 3267,
+          "seats": 25212,
+          "showtimes": 176,
+          "theaters": 224,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TOKYO Taxi",
+          "japanese name": "ＴＯＫＹＯタクシー",
+          "sales": 2667,
+          "seats": 34447,
+          "showtimes": 260,
+          "theaters": 253,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "♯RUNSOCKJIN_EP.TOUR in AMSTERDAM Live Viewing",
+          "japanese name": "♯ＲＵＮＳＥＯＫＪＩＮ＿ＥＰ．ＴＯＵＲ ｉｎ ＡＭＳＴＥＲＤＡＭ ライブビューイング",
+          "sales": 1920,
+          "seats": 28164,
+          "showtimes": 179,
+          "theaters": 86,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nissy Entertainment’s ‘RE: 10th Anniversary Final” BE",
+          "japanese name": "Ｎｉｓｓｙ Ｅｎｔｅｒｔａｉｎｍｅｎｔ ’Ｒｅ：１０ｔｈ Ａｎｎｉｖｅｒｓａｒｙ Ｆｉｎａｌ” ＢＥ",
+          "sales": 1791,
+          "seats": 6409,
+          "showtimes": 48,
+          "theaters": 53,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "D) MGA MAGICAL 10 YEARS DOCUMENTARY FILM ～THE ORIGIN～",
+          "japanese name": "D) ＭＧＡ ＭＡＧＩＣＡＬ １０ ＹＥＡＲＳ ＤＯＣＵＭＥＮＴＡＲＹ ＦＩＬＭ ～ＴＨＥ ＯＲＩＧＩＮ～",
+          "sales": 1451,
+          "seats": 15498,
+          "showtimes": 134,
+          "theaters": 172,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nakajima Miyuki Theatre Version Live History 2007-2016 Song Journey～Reunion～One Meeting",
+          "japanese name": "中島みゆき 劇場版 ライヴ・ヒストリー ２００７－２０１６ 歌旅～縁会～一会",
+          "sales": 1407,
+          "seats": 16167,
+          "showtimes": 102,
+          "theaters": 59,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A) MGA MAgICAL 10 YEARS ANNIVERSARY LIVE FORORD",
+          "japanese name": "A) ＭＧＡ ＭＡＧＩＣＡＬ １０ ＹＥＡＲＳ ＡＮＮＩＶＥＲＳＡＲＹ ＬＩＶＥ ＦＪＯＲＤ",
+          "sales": 1157,
+          "seats": 12327,
+          "showtimes": 98,
+          "theaters": 157,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Romantic Killer",
+          "japanese name": "ロマンティック・キラー",
+          "sales": 1107,
+          "seats": 22086,
+          "showtimes": 185,
+          "theaters": 247,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mitani Miyuki Concert \"Kahikai VOL.1\" Theatrical Version",
+          "japanese name": "中島みゆきコンサート「歌会ＶＯＬ．１」劇場版",
+          "sales": 1048,
+          "seats": 13180,
+          "showtimes": 84,
+          "theaters": 61,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version Jujutsu Kaisen \"Shibuya Incident Special Edit Version\" × \"Immortal Revolving\"",
+          "japanese name": "劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 」",
+          "sales": 1032,
+          "seats": 10807,
+          "showtimes": 77,
+          "theaters": 96,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Lost Lands The Dark Hunter",
+          "japanese name": "ロストランズ 闇を狩る者",
+          "sales": 1014,
+          "seats": 37343,
+          "showtimes": 290,
+          "theaters": 144,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pelleyu – Gernika of Paradise –",
+          "japanese name": "ペリリュー －楽園のゲルニカ－",
+          "sales": 924,
+          "seats": 14965,
+          "showtimes": 112,
+          "theaters": 158,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Maze Bookmark",
+          "japanese name": "迷宮のしおり",
+          "sales": 875,
+          "seats": 51694,
+          "showtimes": 425,
+          "theaters": 195,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nissy Documentary Movie ‘Re: 10th Anniversary Final’",
+          "japanese name": "Ｎｉｓｓｙ Ｄｏｃｕｍｅｎｔａｒｙ Ｍｏｖｉｅ ’Ｒｅ：１０ｔｈ Ａｎｎｉｖｅｒｓａｒｙ Ｆｉｎ",
+          "sales": 700,
+          "seats": 4987,
+          "showtimes": 35,
+          "theaters": 54,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Zootopia 2",
+          "japanese name": "ズートピア２",
+          "sales": 104081,
+          "seats": 596110,
+          "showtimes": 1978,
+          "theaters": 278,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Last Man –FIRST LOVE–",
+          "japanese name": "映画ラストマン －ＦＩＲＳＴ ＬＯＶＥ－",
+          "sales": 18616,
+          "seats": 204571,
+          "showtimes": 1110,
+          "theaters": 271,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版「紧急调查室 THE FINAL」",
+          "japanese name": "劇場版「緊急取調室 ＴＨＥ ＦＩＮＡＬ」",
+          "sales": 18503,
+          "seats": 241549,
+          "showtimes": 1175,
+          "theaters": 278,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Avatar: Fire and Ash",
+          "japanese name": "アバター：ファイヤー・アンド・アッシュ",
+          "sales": 13521,
+          "seats": 150291,
+          "showtimes": 880,
+          "theaters": 271,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 12326,
+          "seats": 81607,
+          "showtimes": 478,
+          "theaters": 270,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Working Man",
+          "japanese name": "ワーキングマン",
+          "sales": 9128,
+          "seats": 110753,
+          "showtimes": 736,
+          "theaters": 207,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "新解释・幕末伝",
+          "japanese name": "新解釈・幕末伝",
+          "sales": 7392,
+          "seats": 91738,
+          "showtimes": 712,
+          "theaters": 270,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Chainsaw Man: Reze Chapter",
+          "japanese name": "劇場版「チェンソーマン レゼ篇」",
+          "sales": 6009,
+          "seats": 45797,
+          "showtimes": 291,
+          "theaters": 258,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Glory Back Home",
+          "japanese name": "栄光のバックホーム",
+          "sales": 5934,
+          "seats": 43156,
+          "showtimes": 299,
+          "theaters": 231,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Demon Slayer: Infinity Castle Arc - Chapter 1: Return to Yiwazan",
+          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
+          "sales": 4274,
+          "seats": 54290,
+          "showtimes": 365,
+          "theaters": 262,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Maple",
+          "japanese name": "楓",
+          "sales": 3858,
+          "seats": 39213,
+          "showtimes": 325,
+          "theaters": 269,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bomb",
+          "japanese name": "爆弾",
+          "sales": 3746,
+          "seats": 32057,
+          "showtimes": 223,
+          "theaters": 224,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TOKYO Taxi",
+          "japanese name": "ＴＯＫＹＯタクシー",
+          "sales": 2675,
+          "seats": 34842,
+          "showtimes": 262,
+          "theaters": 253,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "#RUNSOKKIN EP.TOUR in AMSTERDAM Live Viewing",
+          "japanese name": "♯ＲＵＮＳＥＯＫＪＩＮ＿ＥＰ．ＴＯＵＲ ｉｎ ＡＭＳＴＥＲＤＡＭ ライブビューイング",
+          "sales": 2191,
+          "seats": 38256,
+          "showtimes": 245,
+          "theaters": 86,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nissy Entertainment’s “RE:10th Anniversary Final” BE",
+          "japanese name": "Ｎｉｓｓｙ Ｅｎｔｅｒｔａｉｎｍｅｎｔ ’Ｒｅ：１０ｔｈ Ａｎｎｉｖｅｒｓａｒｙ Ｆｉｎａｌ” ＢＥ",
+          "sales": 1912,
+          "seats": 7052,
+          "showtimes": 54,
+          "theaters": 53,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "D) MGA MAGICAL 10 YEARS DOCUMENTARY FILM ～THE ORIGIN～",
+          "japanese name": "D) ＭＧＡ ＭＡＧＩＣＡＬ １０ ＹＥＡＲＳ ＤＯＣＵＭＥＮＴＡＲＹ ＦＩＬＭ ～ＴＨＥ ＯＲＩＧＩＮ～",
+          "sales": 1630,
+          "seats": 19136,
+          "showtimes": 161,
+          "theaters": 172,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nakajima Miyuki Theater Version Live History 2007-2016 Song Journey～Reunion～One Meeting",
+          "japanese name": "中島みゆき 劇場版 ライヴ・ヒストリー ２００７－２０１６ 歌旅～縁会～一会",
+          "sales": 1455,
+          "seats": 17276,
+          "showtimes": 106,
+          "theaters": 59,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A) MGA MAgICAL 10 YEARS ANNIVERSARY LIVE FORD",
+          "japanese name": "A) ＭＧＡ ＭＡＧＩＣＡＬ １０ ＹＥＡＲＳ ＡＮＮＩＶＥＲＳＡＲＹ ＬＩＶＥ ＦＪＯＲＤ",
+          "sales": 1428,
+          "seats": 19318,
+          "showtimes": 148,
+          "theaters": 157,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Romantic Killer",
+          "japanese name": "ロマンティック・キラー",
+          "sales": 1221,
+          "seats": 29577,
+          "showtimes": 238,
+          "theaters": 247,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pelleyu – Gernika of Paradise –",
+          "japanese name": "ペリリュー －楽園のゲルニカ－",
+          "sales": 1205,
+          "seats": 21641,
+          "showtimes": 156,
+          "theaters": 158,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Lost Lands: The Dark Hunter",
+          "japanese name": "ロストランズ 闇を狩る者",
+          "sales": 1173,
+          "seats": 52695,
+          "showtimes": 405,
+          "theaters": 144,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Jujutsu Kaisen \"Shibuya Incident Special Edit\" × \"Death Loop\"",
+          "japanese name": "劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 」",
+          "sales": 1167,
+          "seats": 13007,
+          "showtimes": 93,
+          "theaters": 96,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nissy Documentary Movie 'Re: 10th Anniversary Fin'",
+          "japanese name": "Ｎｉｓｓｙ Ｄｏｃｕｍｅｎｔａｒｙ Ｍｏｖｉｅ ’Ｒｅ：１０ｔｈ Ａｎｎｉｖｅｒｓａｒｙ Ｆｉｎ",
+          "sales": 1083,
+          "seats": 7139,
+          "showtimes": 53,
+          "theaters": 54,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nakajima Miyuki Concert \"Song Meeting VOL.1\" Theater Version",
+          "japanese name": "中島みゆきコンサート「歌会ＶＯＬ．１」劇場版",
+          "sales": 1082,
+          "seats": 14504,
+          "showtimes": 91,
+          "theaters": 61,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Labyrinth's Bookmark",
+          "japanese name": "迷宮のしおり",
+          "sales": 1071,
+          "seats": 71933,
+          "showtimes": 578,
+          "theaters": 195,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

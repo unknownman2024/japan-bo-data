@@ -1,0 +1,773 @@
+{
+  "date": "07-02-2022",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Movie: Jujutsu Kaisen 0",
+          "japanese name": "劇場版 呪術廻戦０",
+          "sales": 15028,
+          "seats": 159016,
+          "showtimes": 775,
+          "theaters": 289,
+          "rank": 1,
+          "last_week_ratio": 143.7
+        },
+        {
+          "moviename": "Clean-up after the giant monster",
+          "japanese name": "大怪獣のあとしまつ",
+          "sales": 7391,
+          "seats": 170314,
+          "showtimes": 659,
+          "theaters": 287,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Confidence Man JP Hero Edition",
+          "japanese name": "コンフィデンスマンＪＰ 英雄編",
+          "sales": 4981,
+          "seats": 64135,
+          "showtimes": 450,
+          "theaters": 287,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ghostbusters Afterlife",
+          "japanese name": "ゴーストバスターズ アフターライフ",
+          "sales": 4736,
+          "seats": 121191,
+          "showtimes": 640,
+          "theaters": 288,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Deer King: Yuna and the Journey of the Promise",
+          "japanese name": "鹿の王 ユナと約束の旅",
+          "sales": 4239,
+          "seats": 85703,
+          "showtimes": 598,
+          "theaters": 265,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "355",
+          "japanese name": "３５５",
+          "sales": 3407,
+          "seats": 38768,
+          "showtimes": 312,
+          "theaters": 220,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Spider-Man No Way Home",
+          "japanese name": "スパイダーマン ノー・ウェイ・ホーム",
+          "sales": 3136,
+          "seats": 44276,
+          "showtimes": 352,
+          "theaters": 292,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Noise",
+          "japanese name": "ノイズ",
+          "sales": 2861,
+          "seats": 45351,
+          "showtimes": 426,
+          "theaters": 289,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Resident Evil: Welcome to Raccoon City",
+          "japanese name": "バイオハザード：ウェルカム・トゥ・ラクーンシティ",
+          "sales": 2657,
+          "seats": 46040,
+          "showtimes": 366,
+          "theaters": 237,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "99.9 Criminal Specialist Attorney THE MOVIE",
+          "japanese name": "９９．９ 刑事専門弁護士 ＴＨＥ ＭＯＶＩＥ",
+          "sales": 2386,
+          "seats": 28551,
+          "showtimes": 271,
+          "theaters": 282,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Space Battleship Yamato 2205: A New Journey - Epilogue STasha",
+          "japanese name": "宇宙戦艦ヤマト２２０５ 新たなる旅立ち 後章 ＳＴＡＳＨＡ",
+          "sales": 1303,
+          "seats": 11435,
+          "showtimes": 65,
+          "theaters": 34,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ex-convict",
+          "japanese name": "前科者",
+          "sales": 1171,
+          "seats": 14076,
+          "showtimes": 130,
+          "theaters": 131,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Coder Aino Uta",
+          "japanese name": "コーダ あいのうた",
+          "sales": 1064,
+          "seats": 12368,
+          "showtimes": 101,
+          "theaters": 145,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "French Dispatch The Liberty, Kansas Evening Sun Special Issue",
+          "japanese name": "フレンチ・ディスパッチ ザ・リバティ、カンザス・イヴニング・サン別冊",
+          "sales": 741,
+          "seats": 10985,
+          "showtimes": 99,
+          "theaters": 104,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "House of Gucci",
+          "japanese name": "ハウス・オブ・グッチ",
+          "sales": 706,
+          "seats": 5848,
+          "showtimes": 56,
+          "theaters": 179,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Midnight Girl War",
+          "japanese name": "真夜中乙女戦争",
+          "sales": 685,
+          "seats": 7773,
+          "showtimes": 68,
+          "theaters": 176,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Drive My Car",
+          "japanese name": "ドライブ・マイ・カー",
+          "sales": 533,
+          "seats": 3953,
+          "showtimes": 32,
+          "theaters": 38,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "＜Monthly Kabuki 2021＞ Noda Version: The Battle of Ken Tora",
+          "japanese name": "＜月イチ歌舞伎２０２１＞野田版 研辰の討たれ",
+          "sales": 436,
+          "seats": 3236,
+          "showtimes": 23,
+          "theaters": 24,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Still Dreamin' ～Tatsuya Yoshida's Passion and Glory Guitarism～",
+          "japanese name": "Ｓｔｉｌｌ Ｄｒｅａｍｉｎ ～布袋寅泰情熱と栄光のギタリズム～",
+          "sales": 428,
+          "seats": 12521,
+          "showtimes": 80,
+          "theaters": 53,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Extreme Job",
+          "japanese name": "エクストリーム・ジョブ",
+          "sales": 371,
+          "seats": 5938,
+          "showtimes": 28,
+          "theaters": 24,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Adam's Family 2: Across America Adventure!",
+          "japanese name": "アダムス・ファミリー２ アメリカ横断旅行！",
+          "sales": 278,
+          "seats": 15420,
+          "showtimes": 157,
+          "theaters": 166,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Miyuki Nakajima Live History 2007–2016 Song Journey～Reunion～One Meeting",
+          "japanese name": "中島みゆき 劇場版 ライヴ・ヒストリー ２００７－２０１６ 歌旅～縁会～一会",
+          "sales": 256,
+          "seats": 10165,
+          "showtimes": 76,
+          "theaters": 133,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pipeline",
+          "japanese name": "パイプライン",
+          "sales": 212,
+          "seats": 2505,
+          "showtimes": 17,
+          "theaters": 10,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ARASHI 5×20 FILM",
+          "japanese name": "ＡＲＡＳＨＩ ５×２０ ＦＩＬＭ",
+          "sales": 204,
+          "seats": 2709,
+          "showtimes": 24,
+          "theaters": 91,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Masked Rider Saber: Deep Sins Triple Concerto",
+          "japanese name": "仮面ライダーセイバー 深罪の三重奏",
+          "sales": 203,
+          "seats": 6042,
+          "showtimes": 44,
+          "theaters": 36,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Movie: Jujutsu Kaisen 0",
+          "japanese name": "劇場版 呪術廻戦０",
+          "sales": 28054,
+          "seats": 277281,
+          "showtimes": 1369,
+          "theaters": 289,
+          "rank": 1,
+          "last_week_ratio": 137.9
+        },
+        {
+          "moviename": "Clean-up after the giant monster",
+          "japanese name": "大怪獣のあとしまつ",
+          "sales": 12312,
+          "seats": 319025,
+          "showtimes": 1219,
+          "theaters": 287,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Confidence Man JP Hero Edition",
+          "japanese name": "コンフィデンスマンＪＰ 英雄編",
+          "sales": 10203,
+          "seats": 121514,
+          "showtimes": 840,
+          "theaters": 287,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ghostbusters Afterlife",
+          "japanese name": "ゴーストバスターズ アフターライフ",
+          "sales": 8123,
+          "seats": 229447,
+          "showtimes": 1212,
+          "theaters": 288,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Spider-Man No Way Home",
+          "japanese name": "スパイダーマン ノー・ウェイ・ホーム",
+          "sales": 7017,
+          "seats": 89309,
+          "showtimes": 691,
+          "theaters": 292,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Deer King: Yuna and the Journey of the Promise",
+          "japanese name": "鹿の王 ユナと約束の旅",
+          "sales": 6845,
+          "seats": 158258,
+          "showtimes": 1078,
+          "theaters": 265,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Resident Evil: Welcome to Raccoon City",
+          "japanese name": "バイオハザード：ウェルカム・トゥ・ラクーンシティ",
+          "sales": 5190,
+          "seats": 86892,
+          "showtimes": 677,
+          "theaters": 237,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "355",
+          "japanese name": "３５５",
+          "sales": 5057,
+          "seats": 70486,
+          "showtimes": 559,
+          "theaters": 220,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Noise",
+          "japanese name": "ノイズ",
+          "sales": 4980,
+          "seats": 81894,
+          "showtimes": 771,
+          "theaters": 289,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "99.9 Criminal Specialist Attorney THE MOVIE",
+          "japanese name": "９９．９ 刑事専門弁護士 ＴＨＥ ＭＯＶＩＥ",
+          "sales": 3978,
+          "seats": 55247,
+          "showtimes": 513,
+          "theaters": 282,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Coder Aino Uta",
+          "japanese name": "コーダ あいのうた",
+          "sales": 2154,
+          "seats": 24710,
+          "showtimes": 205,
+          "theaters": 145,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Midnight Girl War",
+          "japanese name": "真夜中乙女戦争",
+          "sales": 2011,
+          "seats": 21297,
+          "showtimes": 193,
+          "theaters": 176,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Space Battleship Yamato 2205: A New Journey - Epilogue STasha",
+          "japanese name": "宇宙戦艦ヤマト２２０５ 新たなる旅立ち 後章 ＳＴＡＳＨＡ",
+          "sales": 1987,
+          "seats": 21906,
+          "showtimes": 126,
+          "theaters": 34,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ex-convict",
+          "japanese name": "前科者",
+          "sales": 1982,
+          "seats": 26708,
+          "showtimes": 240,
+          "theaters": 131,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "French Dispatch The Liberty, Kansas Evening Sun Special Issue",
+          "japanese name": "フレンチ・ディスパッチ ザ・リバティ、カンザス・イヴニング・サン別冊",
+          "sales": 1666,
+          "seats": 23800,
+          "showtimes": 201,
+          "theaters": 104,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "House of Gucci",
+          "japanese name": "ハウス・オブ・グッチ",
+          "sales": 1437,
+          "seats": 18111,
+          "showtimes": 180,
+          "theaters": 179,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Still Dreamin' ～Tatsuya Yoshida's Passion and Glory Guitarism～",
+          "japanese name": "Ｓｔｉｌｌ Ｄｒｅａｍｉｎ ～布袋寅泰情熱と栄光のギタリズム～",
+          "sales": 714,
+          "seats": 21235,
+          "showtimes": 145,
+          "theaters": 53,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Drive My Car",
+          "japanese name": "ドライブ・マイ・カー",
+          "sales": 695,
+          "seats": 6128,
+          "showtimes": 48,
+          "theaters": 38,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Extreme Job",
+          "japanese name": "エクストリーム・ジョブ",
+          "sales": 622,
+          "seats": 11062,
+          "showtimes": 53,
+          "theaters": 24,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ARASHI 5×20 FILM",
+          "japanese name": "ＡＲＡＳＨＩ ５×２０ ＦＩＬＭ",
+          "sales": 520,
+          "seats": 9198,
+          "showtimes": 81,
+          "theaters": 91,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "＜Monthly Kabuki 2021＞ Noda Version: The Battle of Ken Tora",
+          "japanese name": "＜月イチ歌舞伎２０２１＞野田版 研辰の討たれ",
+          "sales": 441,
+          "seats": 3417,
+          "showtimes": 24,
+          "theaters": 24,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Adam's Family 2: Across America Adventure!",
+          "japanese name": "アダムス・ファミリー２ アメリカ横断旅行！",
+          "sales": 401,
+          "seats": 21671,
+          "showtimes": 215,
+          "theaters": 166,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Miyuki Nakajima Live History 2007–2016 Song Journey～Reunion～One Meeting",
+          "japanese name": "中島みゆき 劇場版 ライヴ・ヒストリー ２００７－２０１６ 歌旅～縁会～一会",
+          "sales": 398,
+          "seats": 17434,
+          "showtimes": 129,
+          "theaters": 133,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "It's Your Turn Movie Version",
+          "japanese name": "あなたの番です 劇場版",
+          "sales": 374,
+          "seats": 17586,
+          "showtimes": 137,
+          "theaters": 185,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pipeline",
+          "japanese name": "パイプライン",
+          "sales": 321,
+          "seats": 4220,
+          "showtimes": 30,
+          "theaters": 10,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Theatrical Version: Jujutsu Kaisen 0",
+          "japanese name": "劇場版 呪術廻戦０",
+          "sales": 33021,
+          "seats": 340055,
+          "showtimes": 1689,
+          "theaters": 289,
+          "rank": 1,
+          "last_week_ratio": 137.4
+        },
+        {
+          "moviename": "After the giant monster",
+          "japanese name": "大怪獣のあとしまつ",
+          "sales": 14214,
+          "seats": 397304,
+          "showtimes": 1512,
+          "theaters": 287,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Confident Man JP: Hero Edition",
+          "japanese name": "コンフィデンスマンＪＰ 英雄編",
+          "sales": 11712,
+          "seats": 156539,
+          "showtimes": 1092,
+          "theaters": 287,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ghostbusters: Afterlife",
+          "japanese name": "ゴーストバスターズ アフターライフ",
+          "sales": 9355,
+          "seats": 290750,
+          "showtimes": 1522,
+          "theaters": 288,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Spider-Man: No Way Home",
+          "japanese name": "スパイダーマン ノー・ウェイ・ホーム",
+          "sales": 8862,
+          "seats": 119338,
+          "showtimes": 931,
+          "theaters": 292,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The King of Deer: Yuna’s Promised Journey",
+          "japanese name": "鹿の王 ユナと約束の旅",
+          "sales": 7813,
+          "seats": 197421,
+          "showtimes": 1344,
+          "theaters": 265,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Biohazard: Welcome to Raccoon City",
+          "japanese name": "バイオハザード：ウェルカム・トゥ・ラクーンシティ",
+          "sales": 6385,
+          "seats": 116744,
+          "showtimes": 906,
+          "theaters": 237,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Noise",
+          "japanese name": "ノイズ",
+          "sales": 5791,
+          "seats": 106681,
+          "showtimes": 1015,
+          "theaters": 289,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "355",
+          "japanese name": "３５５",
+          "sales": 5763,
+          "seats": 93916,
+          "showtimes": 747,
+          "theaters": 220,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "99.9 Criminal Defense Lawyers THE MOVIE",
+          "japanese name": "９９．９ 刑事専門弁護士 ＴＨＥ ＭＯＶＩＥ",
+          "sales": 4125,
+          "seats": 63696,
+          "showtimes": 585,
+          "theaters": 282,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ultraman Yamato 2205: New Journey – Part 2: STASHA",
+          "japanese name": "宇宙戦艦ヤマト２２０５ 新たなる旅立ち 後章 ＳＴＡＳＨＡ",
+          "sales": 2325,
+          "seats": 27703,
+          "showtimes": 160,
+          "theaters": 34,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Coda: Ai no Uta",
+          "japanese name": "コーダ あいのうた",
+          "sales": 2263,
+          "seats": 26953,
+          "showtimes": 223,
+          "theaters": 145,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Convicted offenders",
+          "japanese name": "前科者",
+          "sales": 2138,
+          "seats": 30848,
+          "showtimes": 278,
+          "theaters": 131,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Midnight Girl War",
+          "japanese name": "真夜中乙女戦争",
+          "sales": 2101,
+          "seats": 23774,
+          "showtimes": 213,
+          "theaters": 176,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "French Dispatch: The Liberty, Kansas Evening Sun Supplement",
+          "japanese name": "フレンチ・ディスパッチ ザ・リバティ、カンザス・イヴニング・サン別冊",
+          "sales": 1904,
+          "seats": 28177,
+          "showtimes": 238,
+          "theaters": 104,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "House of Gucci",
+          "japanese name": "ハウス・オブ・グッチ",
+          "sales": 1657,
+          "seats": 20495,
+          "showtimes": 200,
+          "theaters": 179,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Still Dreaming ~布袋寅泰’s Passionate and Glorious Guitarism~",
+          "japanese name": "Ｓｔｉｌｌ Ｄｒｅａｍｉｎ ～布袋寅泰情熱と栄光のギタリズム～",
+          "sales": 835,
+          "seats": 27179,
+          "showtimes": 193,
+          "theaters": 53,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Drive My Car",
+          "japanese name": "ドライブ・マイ・カー",
+          "sales": 717,
+          "seats": 6824,
+          "showtimes": 53,
+          "theaters": 38,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Extreme Job",
+          "japanese name": "エクストリーム・ジョブ",
+          "sales": 703,
+          "seats": 14442,
+          "showtimes": 68,
+          "theaters": 24,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ARASHI 5×20 Film",
+          "japanese name": "ＡＲＡＳＨＩ ５×２０ ＦＩＬＭ",
+          "sales": 545,
+          "seats": 9959,
+          "showtimes": 91,
+          "theaters": 91,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "It’s your turn now, in the movie version.",
+          "japanese name": "あなたの番です 劇場版",
+          "sales": 468,
+          "seats": 21359,
+          "showtimes": 185,
+          "theaters": 185,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nakajima Miyuki: Live History 2007–2016 – Song Journey: Meetings and Reunions",
+          "japanese name": "中島みゆき 劇場版 ライヴ・ヒストリー ２００７－２０１６ 歌旅～縁会～一会",
+          "sales": 451,
+          "seats": 18490,
+          "showtimes": 138,
+          "theaters": 133,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "＜Monthly Kabuki 2021＞Noda Version: Kenjin’s Death",
+          "japanese name": "＜月イチ歌舞伎２０２１＞野田版 研辰の討たれ",
+          "sales": 441,
+          "seats": 3417,
+          "showtimes": 24,
+          "theaters": 24,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Adams Family 2: Across America!",
+          "japanese name": "アダムス・ファミリー２ アメリカ横断旅行！",
+          "sales": 417,
+          "seats": 22234,
+          "showtimes": 221,
+          "theaters": 166,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Klay Macho",
+          "japanese name": "クライ・マッチョ",
+          "sales": 359,
+          "seats": 15938,
+          "showtimes": 129,
+          "theaters": 127,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

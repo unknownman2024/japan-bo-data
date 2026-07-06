@@ -1,0 +1,773 @@
+{
+  "date": "17-03-2024",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Movie Doraemon: Nobita's Earth Symphony",
+          "japanese name": "映画ドラえもん のび太の地球交響楽",
+          "sales": 51656,
+          "seats": 120302,
+          "showtimes": 425,
+          "theaters": 179,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Strange House",
+          "japanese name": "変な家",
+          "sales": 32539,
+          "seats": 68954,
+          "showtimes": 343,
+          "theaters": 167,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版Haikyu!! The Battle at the Dumpsite",
+          "japanese name": "劇場版ハイキュー！！ ゴミ捨て場の決戦",
+          "sales": 26564,
+          "seats": 105929,
+          "showtimes": 446,
+          "theaters": 179,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Godzilla x Kong The New Empire Official Trailer",
+          "japanese name": "ゴジラ－１．０",
+          "sales": 12765,
+          "seats": 20188,
+          "showtimes": 125,
+          "theaters": 181,
+          "rank": 4,
+          "last_week_ratio": 446.8
+        },
+        {
+          "moviename": "Dune Part Two The Battle for the Planet",
+          "japanese name": "デューン 砂の惑星 ＰＡＲＴ２",
+          "sales": 11466,
+          "seats": 56846,
+          "showtimes": 335,
+          "theaters": 178,
+          "rank": 5,
+          "last_week_ratio": 492.3
+        },
+        {
+          "moviename": "Matching",
+          "japanese name": "マッチング",
+          "sales": 11308,
+          "seats": 48735,
+          "showtimes": 226,
+          "theaters": 143,
+          "rank": 6,
+          "last_week_ratio": 186.6
+        },
+        {
+          "moviename": "FLY! / FLY!",
+          "japanese name": "ＦＬＹ！／フライ！",
+          "sales": 11266,
+          "seats": 62647,
+          "showtimes": 406,
+          "theaters": 179,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ella of the Sun",
+          "japanese name": "恋わずらいのエリー",
+          "sales": 10967,
+          "seats": 53246,
+          "showtimes": 326,
+          "theaters": 166,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Shimajiro \"Miracle Town's Colorful Carnation\"",
+          "japanese name": "映画しまじろう「ミラクルじまのなないろカーネーション」",
+          "sales": 3662,
+          "seats": 22138,
+          "showtimes": 169,
+          "theaters": 93,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "How do you live?",
+          "japanese name": "君たちはどう生きるか",
+          "sales": 3453,
+          "seats": 12357,
+          "showtimes": 84,
+          "theaters": 151,
+          "rank": 10,
+          "last_week_ratio": 822.1
+        },
+        {
+          "moviename": "Movie My Hero Academia",
+          "japanese name": "映画 マイホームヒーロー",
+          "sales": 2459,
+          "seats": 17774,
+          "showtimes": 150,
+          "theaters": 177,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kamen Rider Geats Jamato Awayking",
+          "japanese name": "仮面ライダーギーツ ジャマト・アウェイキング",
+          "sales": 2234,
+          "seats": 11160,
+          "showtimes": 62,
+          "theaters": 53,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Mobile Suit Gundam SEED FREEDOM\"",
+          "japanese name": "劇場版「機動戦士ガンダムＳＥＥＤ ＦＲＥＥＤＯＭ」",
+          "sales": 1959,
+          "seats": 4463,
+          "showtimes": 34,
+          "theaters": 158,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "World Tour Screening \"Demon Slayer: Kimetsu no Yaiba\" - Bonds Miracle, and then Pillar Training",
+          "japanese name": "ワールドツアー上映「鬼滅の刃」絆の奇跡、そして柱稽古へ",
+          "sales": 1718,
+          "seats": 7884,
+          "showtimes": 54,
+          "theaters": 160,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MY SHINE WORLD",
+          "japanese name": "ＭＹ ＳＨＩＮｅｅ ＷＯＲＬＤ",
+          "sales": 1630,
+          "seats": 13723,
+          "showtimes": 78,
+          "theaters": 93,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "FIFTY-TWO HERTZ WHALE",
+          "japanese name": "５２ヘルツのクジラたち",
+          "sales": 1455,
+          "seats": 6208,
+          "showtimes": 58,
+          "theaters": 153,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 SPY×FAMILY CODE: WHITE",
+          "japanese name": "劇場版 ＳＰＹ×ＦＡＭＩＬＹ ＣＯＤＥ：Ｗｈｉｔｅ",
+          "sales": 1397,
+          "seats": 10611,
+          "showtimes": 78,
+          "theaters": 137,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "我和熊猫有时",
+          "japanese name": "私ときどきレッサーパンダ",
+          "sales": 1337,
+          "seats": 11351,
+          "showtimes": 92,
+          "theaters": 118,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "PERFECT DAYS",
+          "japanese name": "ＰＥＲＦＥＣＴ ＤＡＹＳ",
+          "sales": 1235,
+          "seats": 4029,
+          "showtimes": 34,
+          "theaters": 54,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "坠落解剖学",
+          "japanese name": "落下の解剖学",
+          "sales": 889,
+          "seats": 1674,
+          "showtimes": 14,
+          "theaters": 45,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dinosaur Super Legend Theatrical Version Darwin Came!",
+          "japanese name": "恐竜超伝説 劇場版 ダーウィンが来た！",
+          "sales": 849,
+          "seats": 9030,
+          "showtimes": 64,
+          "theaters": 58,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "GOLDEN CUMI",
+          "japanese name": "ゴールデンカムイ",
+          "sales": 805,
+          "seats": 2347,
+          "showtimes": 23,
+          "theaters": 156,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "If I could meet you again on the hill where that flower blooms.",
+          "japanese name": "あの花が咲く丘で、君とまた出会えたら。",
+          "sales": 748,
+          "seats": 2670,
+          "showtimes": 21,
+          "theaters": 71,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ARGYLE/ARGYLL",
+          "japanese name": "ＡＲＧＹＬＬＥ／アーガイル",
+          "sales": 729,
+          "seats": 4004,
+          "showtimes": 30,
+          "theaters": 158,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Unknown",
+          "japanese name": "不明",
+          "sales": 699,
+          "seats": 1919,
+          "showtimes": 15,
+          "theaters": 14,
+          "rank": 25,
+          "last_week_ratio": 285.3
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Movie Doraemon: Nobita's Earth Symphony",
+          "japanese name": "映画ドラえもん のび太の地球交響楽",
+          "sales": 74941,
+          "seats": 201812,
+          "showtimes": 716,
+          "theaters": 179,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Strange House",
+          "japanese name": "変な家",
+          "sales": 63673,
+          "seats": 127441,
+          "showtimes": 624,
+          "theaters": 167,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版Haikyu!! The Battle at the Dumpsite",
+          "japanese name": "劇場版ハイキュー！！ ゴミ捨て場の決戦",
+          "sales": 47692,
+          "seats": 195342,
+          "showtimes": 804,
+          "theaters": 179,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Godzilla x Kong The New Empire Official Trailer",
+          "japanese name": "ゴジラ－１．０",
+          "sales": 23832,
+          "seats": 43727,
+          "showtimes": 240,
+          "theaters": 181,
+          "rank": 4,
+          "last_week_ratio": 520.3
+        },
+        {
+          "moviename": "Dune Part Two The Battle for the Planet",
+          "japanese name": "デューン 砂の惑星 ＰＡＲＴ２",
+          "sales": 19332,
+          "seats": 107507,
+          "showtimes": 605,
+          "theaters": 178,
+          "rank": 5,
+          "last_week_ratio": 480.9
+        },
+        {
+          "moviename": "Ella of the Sun",
+          "japanese name": "恋わずらいのエリー",
+          "sales": 17356,
+          "seats": 106159,
+          "showtimes": 628,
+          "theaters": 166,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "FLY! / FLY!",
+          "japanese name": "ＦＬＹ！／フライ！",
+          "sales": 17238,
+          "seats": 112017,
+          "showtimes": 719,
+          "theaters": 179,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Matching",
+          "japanese name": "マッチング",
+          "sales": 11346,
+          "seats": 49005,
+          "showtimes": 228,
+          "theaters": 143,
+          "rank": 8,
+          "last_week_ratio": 110.8
+        },
+        {
+          "moviename": "How do you live?",
+          "japanese name": "君たちはどう生きるか",
+          "sales": 6795,
+          "seats": 27045,
+          "showtimes": 186,
+          "theaters": 151,
+          "rank": 9,
+          "last_week_ratio": 1200.5
+        },
+        {
+          "moviename": "Movie \"Mobile Suit Gundam SEED FREEDOM\"",
+          "japanese name": "劇場版「機動戦士ガンダムＳＥＥＤ ＦＲＥＥＤＯＭ」",
+          "sales": 4847,
+          "seats": 17674,
+          "showtimes": 127,
+          "theaters": 158,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie My Hero Academia",
+          "japanese name": "映画 マイホームヒーロー",
+          "sales": 4548,
+          "seats": 35287,
+          "showtimes": 287,
+          "theaters": 177,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "World Tour Screening \"Demon Slayer: Kimetsu no Yaiba\" - Bonds Miracle, and then Pillar Training",
+          "japanese name": "ワールドツアー上映「鬼滅の刃」絆の奇跡、そして柱稽古へ",
+          "sales": 4408,
+          "seats": 19763,
+          "showtimes": 130,
+          "theaters": 160,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Shimajiro \"Miracle Town's Colorful Carnation\"",
+          "japanese name": "映画しまじろう「ミラクルじまのなないろカーネーション」",
+          "sales": 4213,
+          "seats": 25294,
+          "showtimes": 196,
+          "theaters": 93,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kamen Rider Geats Jamato Awayking",
+          "japanese name": "仮面ライダーギーツ ジャマト・アウェイキング",
+          "sales": 3461,
+          "seats": 18042,
+          "showtimes": 106,
+          "theaters": 53,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MY SHINE WORLD",
+          "japanese name": "ＭＹ ＳＨＩＮｅｅ ＷＯＲＬＤ",
+          "sales": 2956,
+          "seats": 28053,
+          "showtimes": 156,
+          "theaters": 93,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "FIFTY-TWO HERTZ WHALE",
+          "japanese name": "５２ヘルツのクジラたち",
+          "sales": 2756,
+          "seats": 14157,
+          "showtimes": 124,
+          "theaters": 153,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ARGYLE/ARGYLL",
+          "japanese name": "ＡＲＧＹＬＬＥ／アーガイル",
+          "sales": 2659,
+          "seats": 15120,
+          "showtimes": 115,
+          "theaters": 158,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "GOLDEN CUMI",
+          "japanese name": "ゴールデンカムイ",
+          "sales": 2632,
+          "seats": 10903,
+          "showtimes": 87,
+          "theaters": 156,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "If I could meet you again on the hill where that flower blooms.",
+          "japanese name": "あの花が咲く丘で、君とまた出会えたら。",
+          "sales": 2411,
+          "seats": 8831,
+          "showtimes": 68,
+          "theaters": 71,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 SPY×FAMILY CODE: WHITE",
+          "japanese name": "劇場版 ＳＰＹ×ＦＡＭＩＬＹ ＣＯＤＥ：Ｗｈｉｔｅ",
+          "sales": 2129,
+          "seats": 16077,
+          "showtimes": 119,
+          "theaters": 137,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "我和熊猫有时",
+          "japanese name": "私ときどきレッサーパンダ",
+          "sales": 1884,
+          "seats": 16194,
+          "showtimes": 125,
+          "theaters": 118,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "坠落解剖学",
+          "japanese name": "落下の解剖学",
+          "sales": 1752,
+          "seats": 4634,
+          "showtimes": 33,
+          "theaters": 45,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "PERFECT DAYS",
+          "japanese name": "ＰＥＲＦＥＣＴ ＤＡＹＳ",
+          "sales": 1709,
+          "seats": 5751,
+          "showtimes": 48,
+          "theaters": 54,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dinosaur Super Legend Theatrical Version Darwin Came!",
+          "japanese name": "恐竜超伝説 劇場版 ダーウィンが来た！",
+          "sales": 1116,
+          "seats": 11899,
+          "showtimes": 80,
+          "theaters": 58,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "GOLD BOY",
+          "japanese name": "ゴールド・ボーイ",
+          "sales": 1074,
+          "seats": 8587,
+          "showtimes": 74,
+          "theaters": 93,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "The Movie: Doraemon: Nobita’s Symphony on Earth",
+          "japanese name": "映画ドラえもん のび太の地球交響楽",
+          "sales": 75253,
+          "seats": 211606,
+          "showtimes": 750,
+          "theaters": 179,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Strange house",
+          "japanese name": "変な家",
+          "sales": 72233,
+          "seats": 163853,
+          "showtimes": 792,
+          "theaters": 167,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version of High Kick!! The Battle at the Dump",
+          "japanese name": "劇場版ハイキュー！！ ゴミ捨て場の決戦",
+          "sales": 51405,
+          "seats": 243039,
+          "showtimes": 980,
+          "theaters": 179,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Godzilla-1.0",
+          "japanese name": "ゴジラ－１．０",
+          "sales": 25562,
+          "seats": 60440,
+          "showtimes": 324,
+          "theaters": 181,
+          "rank": 4,
+          "last_week_ratio": 482
+        },
+        {
+          "moviename": "Dune: The Planet of Sand – PART 2",
+          "japanese name": "デューン 砂の惑星 ＰＡＲＴ２",
+          "sales": 21958,
+          "seats": 147549,
+          "showtimes": 793,
+          "theaters": 178,
+          "rank": 5,
+          "last_week_ratio": 428.2
+        },
+        {
+          "moviename": "Eli, Troubled by Love",
+          "japanese name": "恋わずらいのエリー",
+          "sales": 18035,
+          "seats": 136229,
+          "showtimes": 790,
+          "theaters": 166,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "FLY! / Fly!",
+          "japanese name": "ＦＬＹ！／フライ！",
+          "sales": 17715,
+          "seats": 132739,
+          "showtimes": 840,
+          "theaters": 179,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Matching",
+          "japanese name": "マッチング",
+          "sales": 11405,
+          "seats": 49544,
+          "showtimes": 232,
+          "theaters": 143,
+          "rank": 8,
+          "last_week_ratio": 103.3
+        },
+        {
+          "moviename": "How do you choose to live your lives?",
+          "japanese name": "君たちはどう生きるか",
+          "sales": 7179,
+          "seats": 34469,
+          "showtimes": 228,
+          "theaters": 151,
+          "rank": 9,
+          "last_week_ratio": 1097.7
+        },
+        {
+          "moviename": "Theatrical Movie “Mobile Suit Gundam SEED FREEDOM”",
+          "japanese name": "劇場版「機動戦士ガンダムＳＥＥＤ ＦＲＥＥＤＯＭ」",
+          "sales": 5675,
+          "seats": 25800,
+          "showtimes": 180,
+          "theaters": 158,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: My Home Hero",
+          "japanese name": "映画 マイホームヒーロー",
+          "sales": 4988,
+          "seats": 50014,
+          "showtimes": 409,
+          "theaters": 177,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "World Tour Screening of “Demon Slayer”: The Miracle of Bonds, and Training with the Pillars",
+          "japanese name": "ワールドツアー上映「鬼滅の刃」絆の奇跡、そして柱稽古へ",
+          "sales": 4817,
+          "seats": 24339,
+          "showtimes": 159,
+          "theaters": 160,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shimajiro Movie: “Miracle Shimano’s Multicolored Carnations”",
+          "japanese name": "映画しまじろう「ミラクルじまのなないろカーネーション」",
+          "sales": 4213,
+          "seats": 25294,
+          "showtimes": 196,
+          "theaters": 93,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kamen Rider Geats: Jamat Awakening",
+          "japanese name": "仮面ライダーギーツ ジャマト・アウェイキング",
+          "sales": 3697,
+          "seats": 20776,
+          "showtimes": 125,
+          "theaters": 53,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MY SHINEE WORLD",
+          "japanese name": "ＭＹ ＳＨＩＮｅｅ ＷＯＲＬＤ",
+          "sales": 3217,
+          "seats": 36697,
+          "showtimes": 198,
+          "theaters": 93,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ARGYLLLE/Argyle",
+          "japanese name": "ＡＲＧＹＬＬＥ／アーガイル",
+          "sales": 3157,
+          "seats": 24357,
+          "showtimes": 183,
+          "theaters": 158,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Golden Kamuy",
+          "japanese name": "ゴールデンカムイ",
+          "sales": 3029,
+          "seats": 21678,
+          "showtimes": 152,
+          "theaters": 156,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Whales at 52 Hertz",
+          "japanese name": "５２ヘルツのクジラたち",
+          "sales": 2940,
+          "seats": 19822,
+          "showtimes": 162,
+          "theaters": 153,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "If I could meet you again on that hill where those flowers bloom.",
+          "japanese name": "あの花が咲く丘で、君とまた出会えたら。",
+          "sales": 2449,
+          "seats": 9544,
+          "showtimes": 72,
+          "theaters": 71,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version of SPY×FAMILY CODE: White",
+          "japanese name": "劇場版 ＳＰＹ×ＦＡＭＩＬＹ ＣＯＤＥ：Ｗｈｉｔｅ",
+          "sales": 2197,
+          "seats": 17611,
+          "showtimes": 129,
+          "theaters": 137,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Perfect Days",
+          "japanese name": "ＰＥＲＦＥＣＴ ＤＡＹＳ",
+          "sales": 1908,
+          "seats": 7300,
+          "showtimes": 56,
+          "theaters": 54,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I sometimes see red pandas.",
+          "japanese name": "私ときどきレッサーパンダ",
+          "sales": 1901,
+          "seats": 16578,
+          "showtimes": 128,
+          "theaters": 118,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Anatomy of Fall",
+          "japanese name": "落下の解剖学",
+          "sales": 1817,
+          "seats": 5872,
+          "showtimes": 43,
+          "theaters": 45,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love Live! The School Idol Movie",
+          "japanese name": "ラブライブ！Ｔｈｅ Ｓｃｈｏｏｌ Ｉｄｏｌ Ｍｏｖｉｅ",
+          "sales": 1414,
+          "seats": 3087,
+          "showtimes": 35,
+          "theaters": 32,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gold Boy",
+          "japanese name": "ゴールド・ボーイ",
+          "sales": 1185,
+          "seats": 12455,
+          "showtimes": 104,
+          "theaters": 93,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

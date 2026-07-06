@@ -1,0 +1,773 @@
+{
+  "date": "24-07-2021",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "The Dragon and the Princess with Freckles",
+          "japanese name": "竜とそばかすの姫",
+          "sales": 66218,
+          "seats": 294350,
+          "showtimes": 1401,
+          "theaters": 292,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tokyo Revengers",
+          "japanese name": "東京リベンジャーズ",
+          "sales": 29711,
+          "seats": 135812,
+          "showtimes": 768,
+          "theaters": 290,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Saber + Zankai Ja Super Hero Senki",
+          "japanese name": "セイバー＋ゼンカイジャースーパーヒーロー戦記",
+          "sales": 17223,
+          "seats": 104213,
+          "showtimes": 835,
+          "theaters": 277,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Honey Lemon Soda",
+          "japanese name": "ハニーレモンソーダ",
+          "sales": 11130,
+          "seats": 40958,
+          "showtimes": 364,
+          "theaters": 195,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Godzilla x Kong",
+          "japanese name": "ゴジラｖｓコング",
+          "sales": 9932,
+          "seats": 54495,
+          "showtimes": 535,
+          "theaters": 292,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 7445,
+          "seats": 37296,
+          "showtimes": 250,
+          "theaters": 290,
+          "rank": 6,
+          "last_week_ratio": 23265.6
+        },
+        {
+          "moviename": "Black Widow",
+          "japanese name": "ブラックウィドウ",
+          "sales": 6925,
+          "seats": 35015,
+          "showtimes": 335,
+          "theaters": 187,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Jump! Dash! PUUI PUUI Molcar",
+          "japanese name": "とびだせ！ならせ！ ＰＵＩ ＰＵＩ モルカー",
+          "sales": 5964,
+          "seats": 45670,
+          "showtimes": 309,
+          "theaters": 79,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan Crimson Bullet",
+          "japanese name": "名探偵コナン 緋色の弾丸",
+          "sales": 3904,
+          "seats": 17696,
+          "showtimes": 150,
+          "theaters": 260,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sugoi! Anpanman: Fuwafuwa Fuwari to Kumo no Kuni",
+          "japanese name": "それいけ！アンパンマン ふわふわフワリーと雲の国",
+          "sales": 3327,
+          "seats": 34801,
+          "showtimes": 274,
+          "theaters": 245,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rurouni Kenshin: Final Chapter The Beginning",
+          "japanese name": "るろうに剣心 最終章 Ｔｈｅ Ｂｅｇｉｎｎｉｎｇ",
+          "sales": 3307,
+          "seats": 10710,
+          "showtimes": 105,
+          "theaters": 275,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Fable Killer Who Doesn't Kill",
+          "japanese name": "ザ・ファブル 殺さない殺し屋",
+          "sales": 3179,
+          "seats": 10948,
+          "showtimes": 118,
+          "theaters": 273,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SEOBOK/SOBOK",
+          "japanese name": "ＳＥＯＢＯＫ／ソボク",
+          "sales": 2995,
+          "seats": 17636,
+          "showtimes": 203,
+          "theaters": 170,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Inuji!",
+          "japanese name": "犬部！",
+          "sales": 2945,
+          "seats": 29554,
+          "showtimes": 251,
+          "theaters": 120,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rurouni Kenshin: The Final",
+          "japanese name": "るろうに剣心 最終章 Ｔｈｅ Ｆｉｎａｌ",
+          "sales": 2344,
+          "seats": 9022,
+          "showtimes": 92,
+          "theaters": 207,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Suit Gundam Flashy Hasshay",
+          "japanese name": "機動戦士ガンダム 閃光のハサウェイ",
+          "sales": 2174,
+          "seats": 7508,
+          "showtimes": 65,
+          "theaters": 183,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Words flow like cider",
+          "japanese name": "サイダーのように言葉が湧き上がる",
+          "sales": 1609,
+          "seats": 25319,
+          "showtimes": 194,
+          "theaters": 87,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Characters",
+          "japanese name": "キャラクター",
+          "sales": 1551,
+          "seats": 5918,
+          "showtimes": 62,
+          "theaters": 243,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"G's RECONGISTA III\", \"Legacy from Space\"",
+          "japanese name": "劇場版「Ｇのレコンギスタ ＩＩＩ」「宇宙からの遺産」",
+          "sales": 1547,
+          "seats": 16161,
+          "showtimes": 141,
+          "theaters": 76,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie The Seven Deadly Sins: Beings Cursed by Light",
+          "japanese name": "劇場版 七つの大罪 光に呪われし者たち",
+          "sales": 1317,
+          "seats": 10994,
+          "showtimes": 109,
+          "theaters": 163,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Promising Young Woman",
+          "japanese name": "プロミシング・ヤング・ウーマン",
+          "sales": 1161,
+          "seats": 3601,
+          "showtimes": 31,
+          "theaters": 37,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Peter Rabbit 2: Barnaby's Temptation",
+          "japanese name": "ピーターラビット２ バーナバスの誘惑",
+          "sales": 1076,
+          "seats": 11520,
+          "showtimes": 124,
+          "theaters": 198,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Final Plan",
+          "japanese name": "ファイナル・プラン",
+          "sales": 642,
+          "seats": 8157,
+          "showtimes": 73,
+          "theaters": 110,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Door to Summer - To Your Future -",
+          "japanese name": "夏への扉－キミのいる未来へ－",
+          "sales": 485,
+          "seats": 9419,
+          "showtimes": 99,
+          "theaters": 255,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gekiga Shinchō 2 2021: Noda Version: The Battle of Ken-Tarō",
+          "japanese name": "＜月イチ歌舞伎２０２１＞野田版 研辰の討たれ",
+          "sales": 471,
+          "seats": 3083,
+          "showtimes": 25,
+          "theaters": 24,
+          "rank": 25,
+          "last_week_ratio": 461.8
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "The Dragon and the Princess with Freckles",
+          "japanese name": "竜とそばかすの姫",
+          "sales": 118996,
+          "seats": 509991,
+          "showtimes": 2284,
+          "theaters": 292,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tokyo Revengers",
+          "japanese name": "東京リベンジャーズ",
+          "sales": 59749,
+          "seats": 255748,
+          "showtimes": 1419,
+          "theaters": 290,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Saber + Zankai Ja Super Hero Senki",
+          "japanese name": "セイバー＋ゼンカイジャースーパーヒーロー戦記",
+          "sales": 22944,
+          "seats": 152589,
+          "showtimes": 1226,
+          "theaters": 277,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Honey Lemon Soda",
+          "japanese name": "ハニーレモンソーダ",
+          "sales": 17551,
+          "seats": 71260,
+          "showtimes": 613,
+          "theaters": 194,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Godzilla x Kong",
+          "japanese name": "ゴジラｖｓコング",
+          "sales": 17089,
+          "seats": 96601,
+          "showtimes": 953,
+          "theaters": 292,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Widow",
+          "japanese name": "ブラックウィドウ",
+          "sales": 13614,
+          "seats": 66890,
+          "showtimes": 615,
+          "theaters": 187,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 13479,
+          "seats": 68033,
+          "showtimes": 458,
+          "theaters": 290,
+          "rank": 7,
+          "last_week_ratio": 14040.6
+        },
+        {
+          "moviename": "Jump! Dash! PUUI PUUI Molcar",
+          "japanese name": "とびだせ！ならせ！ ＰＵＩ ＰＵＩ モルカー",
+          "sales": 9359,
+          "seats": 65050,
+          "showtimes": 447,
+          "theaters": 79,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rurouni Kenshin: Final Chapter The Beginning",
+          "japanese name": "るろうに剣心 最終章 Ｔｈｅ Ｂｅｇｉｎｎｉｎｇ",
+          "sales": 8292,
+          "seats": 27632,
+          "showtimes": 270,
+          "theaters": 273,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Fable Killer Who Doesn't Kill",
+          "japanese name": "ザ・ファブル 殺さない殺し屋",
+          "sales": 7509,
+          "seats": 27996,
+          "showtimes": 286,
+          "theaters": 272,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan Crimson Bullet",
+          "japanese name": "名探偵コナン 緋色の弾丸",
+          "sales": 6866,
+          "seats": 29392,
+          "showtimes": 261,
+          "theaters": 260,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Characters",
+          "japanese name": "キャラクター",
+          "sales": 6175,
+          "seats": 21573,
+          "showtimes": 213,
+          "theaters": 242,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Suit Gundam Flashy Hasshay",
+          "japanese name": "機動戦士ガンダム 閃光のハサウェイ",
+          "sales": 6076,
+          "seats": 22648,
+          "showtimes": 193,
+          "theaters": 182,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SEOBOK/SOBOK",
+          "japanese name": "ＳＥＯＢＯＫ／ソボク",
+          "sales": 4825,
+          "seats": 29254,
+          "showtimes": 334,
+          "theaters": 170,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rurouni Kenshin: The Final",
+          "japanese name": "るろうに剣心 最終章 Ｔｈｅ Ｆｉｎａｌ",
+          "sales": 4628,
+          "seats": 18328,
+          "showtimes": 185,
+          "theaters": 206,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Inuji!",
+          "japanese name": "犬部！",
+          "sales": 4385,
+          "seats": 53684,
+          "showtimes": 449,
+          "theaters": 120,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sugoi! Anpanman: Fuwafuwa Fuwari to Kumo no Kuni",
+          "japanese name": "それいけ！アンパンマン ふわふわフワリーと雲の国",
+          "sales": 3426,
+          "seats": 35194,
+          "showtimes": 280,
+          "theaters": 245,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Words flow like cider",
+          "japanese name": "サイダーのように言葉が湧き上がる",
+          "sales": 2956,
+          "seats": 45517,
+          "showtimes": 354,
+          "theaters": 87,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"G's RECONGISTA III\", \"Legacy from Space\"",
+          "japanese name": "劇場版「Ｇのレコンギスタ ＩＩＩ」「宇宙からの遺産」",
+          "sales": 2630,
+          "seats": 28340,
+          "showtimes": 249,
+          "theaters": 76,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie The Seven Deadly Sins: Beings Cursed by Light",
+          "japanese name": "劇場版 七つの大罪 光に呪われし者たち",
+          "sales": 2575,
+          "seats": 19163,
+          "showtimes": 186,
+          "theaters": 163,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Promising Young Woman",
+          "japanese name": "プロミシング・ヤング・ウーマン",
+          "sales": 2174,
+          "seats": 6991,
+          "showtimes": 62,
+          "theaters": 37,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Peter Rabbit 2: Barnaby's Temptation",
+          "japanese name": "ピーターラビット２ バーナバスの誘惑",
+          "sales": 1844,
+          "seats": 17791,
+          "showtimes": 188,
+          "theaters": 198,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Final Plan",
+          "japanese name": "ファイナル・プラン",
+          "sales": 1334,
+          "seats": 16537,
+          "showtimes": 141,
+          "theaters": 110,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Chinatown Tokyo MISSION",
+          "japanese name": "唐人街探偵 東京ＭＩＳＳＩＯＮ",
+          "sales": 1216,
+          "seats": 8152,
+          "showtimes": 78,
+          "theaters": 87,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wild Speed SKY MISSION",
+          "japanese name": "ワイルド・スピード ＳＫＹ ＭＩＳＳＩＯＮ",
+          "sales": 1200,
+          "seats": 4764,
+          "showtimes": 58,
+          "theaters": 66,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "The Dragon and the Princess with Freckles",
+          "japanese name": "竜とそばかすの姫",
+          "sales": 128204,
+          "seats": 576113,
+          "showtimes": 2531,
+          "theaters": 292,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tokyo Revengers",
+          "japanese name": "東京リベンジャーズ",
+          "sales": 66291,
+          "seats": 297630,
+          "showtimes": 1645,
+          "theaters": 290,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Saber + Zenkaija Super Hero Chronicle",
+          "japanese name": "セイバー＋ゼンカイジャースーパーヒーロー戦記",
+          "sales": 23374,
+          "seats": 158040,
+          "showtimes": 1266,
+          "theaters": 277,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Godzilla x Kong The New Empire Official Trailer",
+          "japanese name": "ゴジラｖｓコング",
+          "sales": 18755,
+          "seats": 117306,
+          "showtimes": 1147,
+          "theaters": 292,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Honey Lemon Soda",
+          "japanese name": "ハニーレモンソーダ",
+          "sales": 18169,
+          "seats": 79069,
+          "showtimes": 672,
+          "theaters": 194,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Widow",
+          "japanese name": "ブラックウィドウ",
+          "sales": 15197,
+          "seats": 79704,
+          "showtimes": 748,
+          "theaters": 187,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Demon Slayer: Infinite Train Arc",
+          "japanese name": "鬼滅の刃 無限列車編",
+          "sales": 14263,
+          "seats": 75475,
+          "showtimes": 509,
+          "theaters": 290,
+          "rank": 7,
+          "last_week_ratio": 14857.3
+        },
+        {
+          "moviename": "Go! Go! PUUI PUUI Mokkar",
+          "japanese name": "とびだせ！ならせ！ ＰＵＩ ＰＵＩ モルカー",
+          "sales": 9643,
+          "seats": 67542,
+          "showtimes": 465,
+          "theaters": 79,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rurouni Kenshin: Final Chapter The Beginning",
+          "japanese name": "るろうに剣心 最終章 Ｔｈｅ Ｂｅｇｉｎｎｉｎｇ",
+          "sales": 8987,
+          "seats": 31848,
+          "showtimes": 307,
+          "theaters": 273,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Fabul Assassin Who Doesn't Kill",
+          "japanese name": "ザ・ファブル 殺さない殺し屋",
+          "sales": 8432,
+          "seats": 34975,
+          "showtimes": 349,
+          "theaters": 272,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Suit Gundam: Flashing Hayato",
+          "japanese name": "機動戦士ガンダム 閃光のハサウェイ",
+          "sales": 7234,
+          "seats": 28804,
+          "showtimes": 240,
+          "theaters": 182,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: Crimson Bullet",
+          "japanese name": "名探偵コナン 緋色の弾丸",
+          "sales": 6956,
+          "seats": 30964,
+          "showtimes": 281,
+          "theaters": 260,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Characters",
+          "japanese name": "キャラクター",
+          "sales": 6827,
+          "seats": 26697,
+          "showtimes": 268,
+          "theaters": 242,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SEOBOK/SOBOK",
+          "japanese name": "ＳＥＯＢＯＫ／ソボク",
+          "sales": 5294,
+          "seats": 34802,
+          "showtimes": 400,
+          "theaters": 170,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rurouni Kenshin: The Final Chapter",
+          "japanese name": "るろうに剣心 最終章 Ｔｈｅ Ｆｉｎａｌ",
+          "sales": 4901,
+          "seats": 20430,
+          "showtimes": 211,
+          "theaters": 206,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dog!",
+          "japanese name": "犬部！",
+          "sales": 4664,
+          "seats": 62666,
+          "showtimes": 519,
+          "theaters": 120,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Go! Anpanman Fufufu Furai and the Cloud Country",
+          "japanese name": "それいけ！アンパンマン ふわふわフワリーと雲の国",
+          "sales": 3426,
+          "seats": 35194,
+          "showtimes": 280,
+          "theaters": 245,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Words涌如汽水般",
+          "japanese name": "サイダーのように言葉が湧き上がる",
+          "sales": 3409,
+          "seats": 54380,
+          "showtimes": 419,
+          "theaters": 87,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"G's Recコンギスタ III\", \"Legacy from Space\"",
+          "japanese name": "劇場版「Ｇのレコンギスタ ＩＩＩ」「宇宙からの遺産」",
+          "sales": 2904,
+          "seats": 33570,
+          "showtimes": 297,
+          "theaters": 76,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version Seven Deadly Sins Those Bound by Light",
+          "japanese name": "劇場版 七つの大罪 光に呪われし者たち",
+          "sales": 2652,
+          "seats": 20073,
+          "showtimes": 193,
+          "theaters": 163,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Promising Young Woman",
+          "japanese name": "プロミシング・ヤング・ウーマン",
+          "sales": 2277,
+          "seats": 8315,
+          "showtimes": 74,
+          "theaters": 37,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Peter Rabbit 2: Barnabas's Temptation",
+          "japanese name": "ピーターラビット２ バーナバスの誘惑",
+          "sales": 1901,
+          "seats": 19050,
+          "showtimes": 198,
+          "theaters": 198,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wild Speed SKY MISSION",
+          "japanese name": "ワイルド・スピード ＳＫＹ ＭＩＳＳＩＯＮ",
+          "sales": 1522,
+          "seats": 6013,
+          "showtimes": 73,
+          "theaters": 66,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Final Plan",
+          "japanese name": "ファイナル・プラン",
+          "sales": 1497,
+          "seats": 21315,
+          "showtimes": 180,
+          "theaters": 110,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Chinatown Tokyo MISSION",
+          "japanese name": "唐人街探偵 東京ＭＩＳＳＩＯＮ",
+          "sales": 1281,
+          "seats": 9779,
+          "showtimes": 91,
+          "theaters": 87,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

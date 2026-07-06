@@ -1,0 +1,773 @@
+{
+  "date": "24-02-2023",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 12586,
+          "seats": 62388,
+          "showtimes": 273,
+          "theaters": 196,
+          "rank": 1,
+          "last_week_ratio": 261
+        },
+        {
+          "moviename": "Shylock’s children",
+          "japanese name": "シャイロックの子供たち",
+          "sales": 8906,
+          "seats": 67501,
+          "showtimes": 376,
+          "theaters": 191,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BTSS: Yet To Come In Cinemas",
+          "japanese name": "ＢＴＳ： Ｙｅｔ Ｔｏ Ｃｏｍｅ ｉｎ Ｃｉｎｅｍａｓ",
+          "sales": 8871,
+          "seats": 26299,
+          "showtimes": 171,
+          "theaters": 137,
+          "rank": 3,
+          "last_week_ratio": 124.4
+        },
+        {
+          "moviename": "Soup channel",
+          "japanese name": "湯道",
+          "sales": 8750,
+          "seats": 95502,
+          "showtimes": 376,
+          "theaters": 180,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "World Tour Screening of “Demon Slayer”: The Upper Strings Gather, and Then to the Village of Swordsmiths",
+          "japanese name": "ワールドツアー上映「鬼滅の刃」上弦集結、そして刀鍛冶の里へ",
+          "sales": 7941,
+          "seats": 131029,
+          "showtimes": 436,
+          "theaters": 198,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Legends & Butterflies",
+          "japanese name": "レジェンド＆バタフライ",
+          "sales": 6184,
+          "seats": 46154,
+          "showtimes": 283,
+          "theaters": 195,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ant-Man & the Wasp: Quantumania",
+          "japanese name": "アントマン＆ワスプ：クアントマニア",
+          "sales": 5000,
+          "seats": 80132,
+          "showtimes": 415,
+          "theaters": 198,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BLUE GIANT",
+          "japanese name": "ＢＬＵＥ ＧＩＡＮＴ",
+          "sales": 4534,
+          "seats": 25357,
+          "showtimes": 177,
+          "theaters": 134,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The sparrow’s task of locking the door",
+          "japanese name": "すずめの戸締まり",
+          "sales": 2729,
+          "seats": 27689,
+          "showtimes": 189,
+          "theaters": 194,
+          "rank": 9,
+          "last_week_ratio": 118.5
+        },
+        {
+          "moviename": "Empire of Light",
+          "japanese name": "エンパイア・オブ・ライト",
+          "sales": 1496,
+          "seats": 20781,
+          "showtimes": 164,
+          "theaters": 100,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "With love from the Lager",
+          "japanese name": "ラーゲリより愛を込めて",
+          "sales": 1434,
+          "seats": 13654,
+          "showtimes": 101,
+          "theaters": 173,
+          "rank": 11,
+          "last_week_ratio": 109.3
+        },
+        {
+          "moviename": "RRR",
+          "japanese name": "ＲＲＲ",
+          "sales": 1358,
+          "seats": 8610,
+          "showtimes": 44,
+          "theaters": 80,
+          "rank": 12,
+          "last_week_ratio": 264.2
+        },
+        {
+          "moviename": "Movie: Sasaki and Miyanoo – Graduation Edition –",
+          "japanese name": "映画 佐々木と宮野－卒業編－",
+          "sales": 1229,
+          "seats": 5738,
+          "showtimes": 39,
+          "theaters": 30,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Arabian Nights: A Wish of Three Thousand Years",
+          "japanese name": "アラビアンナイト 三千年の願い",
+          "sales": 1146,
+          "seats": 8183,
+          "showtimes": 58,
+          "theaters": 41,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The decision to part ways",
+          "japanese name": "別れる決心",
+          "sales": 1097,
+          "seats": 13767,
+          "showtimes": 109,
+          "theaters": 137,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Babylon",
+          "japanese name": "バビロン",
+          "sales": 1059,
+          "seats": 12559,
+          "showtimes": 100,
+          "theaters": 171,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Triangle of Reversal",
+          "japanese name": "逆転のトライアングル",
+          "sales": 877,
+          "seats": 4264,
+          "showtimes": 33,
+          "theaters": 23,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Mastermind: Fujieda Meian (1)",
+          "japanese name": "仕掛人・藤枝梅安（一）",
+          "sales": 874,
+          "seats": 15507,
+          "showtimes": 115,
+          "theaters": 134,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Worth: The price of life",
+          "japanese name": "ワース 命の値段",
+          "sales": 870,
+          "seats": 8901,
+          "showtimes": 66,
+          "theaters": 48,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Egoist",
+          "japanese name": "エゴイスト",
+          "sales": 808,
+          "seats": 3642,
+          "showtimes": 29,
+          "theaters": 75,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ultraman Trigger: Episode Z",
+          "japanese name": "ウルトラマントリガー エピソードＺ",
+          "sales": 621,
+          "seats": 10810,
+          "showtimes": 58,
+          "theaters": 30,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The movie “Ichikei no Karasu”",
+          "japanese name": "映画「イチケイのカラス」",
+          "sales": 471,
+          "seats": 6371,
+          "showtimes": 50,
+          "theaters": 157,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Avatar: Way of Water",
+          "japanese name": "アバター ウェイ・オブ・ウォーター",
+          "sales": 439,
+          "seats": 5588,
+          "showtimes": 40,
+          "theaters": 111,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Music of My Life",
+          "japanese name": "Ｍｕｓｉｃ Ｏｆ Ｍｙ Ｌｉｆｅ",
+          "sales": 407,
+          "seats": 1252,
+          "showtimes": 7,
+          "theaters": 10,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "♯Manhole",
+          "japanese name": "♯マンホール",
+          "sales": 365,
+          "seats": 7112,
+          "showtimes": 44,
+          "theaters": 105,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 24419,
+          "seats": 121454,
+          "showtimes": 538,
+          "theaters": 196,
+          "rank": 1,
+          "last_week_ratio": 241.8
+        },
+        {
+          "moviename": "BTSS: Yet To Come In Cinemas",
+          "japanese name": "ＢＴＳ： Ｙｅｔ Ｔｏ Ｃｏｍｅ ｉｎ Ｃｉｎｅｍａｓ",
+          "sales": 17044,
+          "seats": 52766,
+          "showtimes": 338,
+          "theaters": 137,
+          "rank": 2,
+          "last_week_ratio": 132
+        },
+        {
+          "moviename": "World Tour Screening of “Demon Slayer”: The Upper Strings Gather, and Then to the Village of Swordsmiths",
+          "japanese name": "ワールドツアー上映「鬼滅の刃」上弦集結、そして刀鍛冶の里へ",
+          "sales": 15533,
+          "seats": 232371,
+          "showtimes": 782,
+          "theaters": 198,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Soup channel",
+          "japanese name": "湯道",
+          "sales": 13839,
+          "seats": 185100,
+          "showtimes": 722,
+          "theaters": 180,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shylock’s children",
+          "japanese name": "シャイロックの子供たち",
+          "sales": 12848,
+          "seats": 117871,
+          "showtimes": 660,
+          "theaters": 191,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ant-Man & the Wasp: Quantumania",
+          "japanese name": "アントマン＆ワスプ：クアントマニア",
+          "sales": 9839,
+          "seats": 149663,
+          "showtimes": 785,
+          "theaters": 198,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BLUE GIANT",
+          "japanese name": "ＢＬＵＥ ＧＩＡＮＴ",
+          "sales": 8600,
+          "seats": 49036,
+          "showtimes": 331,
+          "theaters": 134,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Legends & Butterflies",
+          "japanese name": "レジェンド＆バタフライ",
+          "sales": 8191,
+          "seats": 67194,
+          "showtimes": 430,
+          "theaters": 195,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The sparrow’s task of locking the door",
+          "japanese name": "すずめの戸締まり",
+          "sales": 5579,
+          "seats": 54723,
+          "showtimes": 372,
+          "theaters": 194,
+          "rank": 9,
+          "last_week_ratio": 118.2
+        },
+        {
+          "moviename": "With love from the Lager",
+          "japanese name": "ラーゲリより愛を込めて",
+          "sales": 2985,
+          "seats": 26029,
+          "showtimes": 189,
+          "theaters": 173,
+          "rank": 10,
+          "last_week_ratio": 125.5
+        },
+        {
+          "moviename": "RRR",
+          "japanese name": "ＲＲＲ",
+          "sales": 2642,
+          "seats": 18310,
+          "showtimes": 89,
+          "theaters": 80,
+          "rank": 11,
+          "last_week_ratio": 175.3
+        },
+        {
+          "moviename": "Empire of Light",
+          "japanese name": "エンパイア・オブ・ライト",
+          "sales": 2434,
+          "seats": 38309,
+          "showtimes": 300,
+          "theaters": 100,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Sasaki and Miyanoo – Graduation Edition –",
+          "japanese name": "映画 佐々木と宮野－卒業編－",
+          "sales": 2084,
+          "seats": 10731,
+          "showtimes": 68,
+          "theaters": 30,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Arabian Nights: A Wish of Three Thousand Years",
+          "japanese name": "アラビアンナイト 三千年の願い",
+          "sales": 1907,
+          "seats": 14226,
+          "showtimes": 104,
+          "theaters": 41,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The decision to part ways",
+          "japanese name": "別れる決心",
+          "sales": 1846,
+          "seats": 25767,
+          "showtimes": 205,
+          "theaters": 137,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Babylon",
+          "japanese name": "バビロン",
+          "sales": 1813,
+          "seats": 24662,
+          "showtimes": 184,
+          "theaters": 171,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Triangle of Reversal",
+          "japanese name": "逆転のトライアングル",
+          "sales": 1715,
+          "seats": 8542,
+          "showtimes": 62,
+          "theaters": 23,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Egoist",
+          "japanese name": "エゴイスト",
+          "sales": 1602,
+          "seats": 10237,
+          "showtimes": 77,
+          "theaters": 75,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Worth: The price of life",
+          "japanese name": "ワース 命の値段",
+          "sales": 1415,
+          "seats": 16177,
+          "showtimes": 116,
+          "theaters": 48,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Avatar: Way of Water",
+          "japanese name": "アバター ウェイ・オブ・ウォーター",
+          "sales": 1175,
+          "seats": 12006,
+          "showtimes": 86,
+          "theaters": 111,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "♯Manhole",
+          "japanese name": "♯マンホール",
+          "sales": 1059,
+          "seats": 16151,
+          "showtimes": 105,
+          "theaters": 105,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Mastermind: Fujieda Meian (1)",
+          "japanese name": "仕掛人・藤枝梅安（一）",
+          "sales": 968,
+          "seats": 18315,
+          "showtimes": 131,
+          "theaters": 134,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The movie “Ichikei no Karasu”",
+          "japanese name": "映画「イチケイのカラス」",
+          "sales": 958,
+          "seats": 16399,
+          "showtimes": 126,
+          "theaters": 157,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Music of My Life",
+          "japanese name": "Ｍｕｓｉｃ Ｏｆ Ｍｙ Ｌｉｆｅ",
+          "sales": 915,
+          "seats": 2897,
+          "showtimes": 16,
+          "theaters": 10,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "IVETHE FIRST FANCOUNT The Prom Queens in Japan",
+          "japanese name": "ＩＶＥ ＴＨＥ ＦＩＲＳＴ ＦＡＮ ＣＯＮＣＥＲＴ Ｔｈｅ Ｐｒｏｍ Ｑｕｅｅｎｓ ＩＮ ＪＡＰＡＮ",
+          "sales": 903,
+          "seats": 7788,
+          "showtimes": 39,
+          "theaters": 40,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 35124,
+          "seats": 158753,
+          "showtimes": 708,
+          "theaters": 196,
+          "rank": 1,
+          "last_week_ratio": 239.9
+        },
+        {
+          "moviename": "BTM: Yet To Come In Cinemas",
+          "japanese name": "ＢＴＳ： Ｙｅｔ Ｔｏ Ｃｏｍｅ ｉｎ Ｃｉｎｅｍａｓ",
+          "sales": 21980,
+          "seats": 65063,
+          "showtimes": 415,
+          "theaters": 137,
+          "rank": 2,
+          "last_week_ratio": 143.7
+        },
+        {
+          "moviename": "World Tour screening \"Demon Slayer: The First Slain,\" and to the village of swordsmiths",
+          "japanese name": "ワールドツアー上映「鬼滅の刃」上弦集結、そして刀鍛冶の里へ",
+          "sales": 21063,
+          "seats": 290299,
+          "showtimes": 986,
+          "theaters": 198,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Onsen",
+          "japanese name": "湯道",
+          "sales": 16377,
+          "seats": 233478,
+          "showtimes": 912,
+          "theaters": 180,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sherlock's Children",
+          "japanese name": "シャイロックの子供たち",
+          "sales": 14480,
+          "seats": 148697,
+          "showtimes": 839,
+          "theaters": 191,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ant-Man & The Wasp: Quantumania",
+          "japanese name": "アントマン＆ワスプ：クアントマニア",
+          "sales": 13183,
+          "seats": 193233,
+          "showtimes": 1006,
+          "theaters": 198,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BLUE GIANT",
+          "japanese name": "ＢＬＵＥ ＧＩＡＮＴ",
+          "sales": 11015,
+          "seats": 62115,
+          "showtimes": 429,
+          "theaters": 134,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "LEGEND & BUTTERFLY",
+          "japanese name": "レジェンド＆バタフライ",
+          "sales": 9060,
+          "seats": 78236,
+          "showtimes": 502,
+          "theaters": 195,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Suzume's Locksmith",
+          "japanese name": "すずめの戸締まり",
+          "sales": 6320,
+          "seats": 65934,
+          "showtimes": 454,
+          "theaters": 194,
+          "rank": 9,
+          "last_week_ratio": 113.4
+        },
+        {
+          "moviename": "RRR",
+          "japanese name": "ＲＲＲ",
+          "sales": 3416,
+          "seats": 22279,
+          "showtimes": 110,
+          "theaters": 80,
+          "rank": 10,
+          "last_week_ratio": 170.5
+        },
+        {
+          "moviename": "With love from Lageri",
+          "japanese name": "ラーゲリより愛を込めて",
+          "sales": 3110,
+          "seats": 27210,
+          "showtimes": 197,
+          "theaters": 173,
+          "rank": 11,
+          "last_week_ratio": 120.8
+        },
+        {
+          "moviename": "Empire of Light",
+          "japanese name": "エンパイア・オブ・ライト",
+          "sales": 3041,
+          "seats": 51916,
+          "showtimes": 398,
+          "theaters": 100,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Sasaki and Miyano - Graduation Edition",
+          "japanese name": "映画 佐々木と宮野－卒業編－",
+          "sales": 2743,
+          "seats": 14183,
+          "showtimes": 86,
+          "theaters": 30,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Arabian Night, a thousand-year wish",
+          "japanese name": "アラビアンナイト 三千年の願い",
+          "sales": 2496,
+          "seats": 19415,
+          "showtimes": 140,
+          "theaters": 41,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Babylon",
+          "japanese name": "バビロン",
+          "sales": 2425,
+          "seats": 32882,
+          "showtimes": 242,
+          "theaters": 171,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Determination to break up",
+          "japanese name": "別れる決心",
+          "sales": 2200,
+          "seats": 33845,
+          "showtimes": 270,
+          "theaters": 137,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Reversal Triangle",
+          "japanese name": "逆転のトライアングル",
+          "sales": 2062,
+          "seats": 11389,
+          "showtimes": 84,
+          "theaters": 23,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Egoist",
+          "japanese name": "エゴイスト",
+          "sales": 1786,
+          "seats": 11747,
+          "showtimes": 89,
+          "theaters": 75,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wass's Price of Life",
+          "japanese name": "ワース 命の値段",
+          "sales": 1671,
+          "seats": 20677,
+          "showtimes": 154,
+          "theaters": 48,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Avatar Way of Water",
+          "japanese name": "アバター ウェイ・オブ・ウォーター",
+          "sales": 1397,
+          "seats": 15730,
+          "showtimes": 112,
+          "theaters": 111,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "♯Manhole",
+          "japanese name": "♯マンホール",
+          "sales": 1244,
+          "seats": 19897,
+          "showtimes": 128,
+          "theaters": 105,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Ichikéi no Karasu\"",
+          "japanese name": "映画「イチケイのカラス」",
+          "sales": 1076,
+          "seats": 21347,
+          "showtimes": 156,
+          "theaters": 157,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Gambler: Tsubakiume (Part 1)",
+          "japanese name": "仕掛人・藤枝梅安（一）",
+          "sales": 971,
+          "seats": 18994,
+          "showtimes": 135,
+          "theaters": 134,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ultraman Trigger Episode Z",
+          "japanese name": "ウルトラマントリガー エピソードＺ",
+          "sales": 954,
+          "seats": 17440,
+          "showtimes": 95,
+          "theaters": 30,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Music of My Life",
+          "japanese name": "Ｍｕｓｉｃ Ｏｆ Ｍｙ Ｌｉｆｅ",
+          "sales": 915,
+          "seats": 2897,
+          "showtimes": 16,
+          "theaters": 10,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

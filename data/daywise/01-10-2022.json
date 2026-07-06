@@ -1,0 +1,773 @@
+{
+  "date": "01-10-2022",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "One Piece Film Red",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 41638,
+          "seats": 141880,
+          "showtimes": 514,
+          "theaters": 197,
+          "rank": 1,
+          "last_week_ratio": 130.5
+        },
+        {
+          "moviename": "Silent Parade",
+          "japanese name": "沈黙のパレード",
+          "sales": 27569,
+          "seats": 99784,
+          "showtimes": 424,
+          "theaters": 195,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Delish Party Precure",
+          "japanese name": "映画デリシャスパーティ・プリキュア",
+          "sales": 21313,
+          "seats": 79974,
+          "showtimes": 418,
+          "theaters": 135,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The forest where “it” lives",
+          "japanese name": "’それ”がいる森",
+          "sales": 18481,
+          "seats": 111089,
+          "showtimes": 474,
+          "theaters": 193,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Movie: Uta no☆Prinsamas♪ Maji LOVE Starlish Tours",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
+          "sales": 8599,
+          "seats": 20228,
+          "showtimes": 103,
+          "theaters": 91,
+          "rank": 5,
+          "last_week_ratio": 148.2
+        },
+        {
+          "moviename": "I am Makimoto.",
+          "japanese name": "アイ・アム まきもと",
+          "sales": 8390,
+          "seats": 62107,
+          "showtimes": 429,
+          "theaters": 193,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Broken Mariko",
+          "japanese name": "マイ・ブロークン・マリコ",
+          "sales": 5169,
+          "seats": 28936,
+          "showtimes": 211,
+          "theaters": 103,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "4.5-Tatami Time Machine Blues",
+          "japanese name": "四畳半タイムマシンブルース",
+          "sales": 5026,
+          "seats": 15260,
+          "showtimes": 98,
+          "theaters": 48,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HellDogs",
+          "japanese name": "ヘルドッグス",
+          "sales": 4714,
+          "seats": 23252,
+          "showtimes": 188,
+          "theaters": 192,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Downton Abbey: A New Era",
+          "japanese name": "ダウントン・アビー 新たなる時代へ",
+          "sales": 3805,
+          "seats": 13623,
+          "showtimes": 95,
+          "theaters": 52,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Galaxy Heroes Legend: Die Neue These – Chapter 1: Intrigues",
+          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 策謀 第一章",
+          "sales": 3449,
+          "seats": 14313,
+          "showtimes": 93,
+          "theaters": 49,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A hundred flowers",
+          "japanese name": "百花",
+          "sales": 3342,
+          "seats": 17682,
+          "showtimes": 142,
+          "theaters": 129,
+          "rank": 12,
+          "last_week_ratio": 107.1
+        },
+        {
+          "moviename": "Brett Train",
+          "japanese name": "ブレット・トレイン",
+          "sales": 3153,
+          "seats": 14379,
+          "showtimes": 111,
+          "theaters": 196,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Avatar: James Cameron 3D Remaster",
+          "japanese name": "アバター：ジェームズキャメロン ３Ｄリマスター",
+          "sales": 3054,
+          "seats": 8517,
+          "showtimes": 54,
+          "theaters": 93,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HIGH&LOW THE WORST X",
+          "japanese name": "ＨｉＧＨ＆ＬＯＷ ＴＨＥ ＷＯＲＳＴ Ｘ",
+          "sales": 3039,
+          "seats": 15133,
+          "showtimes": 121,
+          "theaters": 188,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Top Gun: Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 2869,
+          "seats": 13065,
+          "showtimes": 94,
+          "theaters": 177,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "LAMB/Lamb",
+          "japanese name": "ＬＡＭＢ／ラム",
+          "sales": 2251,
+          "seats": 6037,
+          "showtimes": 42,
+          "theaters": 28,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let’s do it! PUI PUI Moroker + Driving School: Preview Edition",
+          "japanese name": "ならせ！ＰＵＩ ＰＵＩ モルカー＋ＤＲＩＶＩＮＧ ＳＣＨＯＯＬ 予習編",
+          "sales": 2126,
+          "seats": 14570,
+          "showtimes": 96,
+          "theaters": 54,
+          "rank": 18,
+          "last_week_ratio": 100.1
+        },
+        {
+          "moviename": "Jurassic World: The New Rulers",
+          "japanese name": "ジュラシック・ワールド／新たなる支配者",
+          "sales": 1791,
+          "seats": 9114,
+          "showtimes": 71,
+          "theaters": 174,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New Sea Shiong IMAX Film Festival: Your Name.",
+          "japanese name": "新海誠ＩＭＡＸ映画祭 君の名は。",
+          "sales": 1577,
+          "seats": 2798,
+          "showtimes": 10,
+          "theaters": 19,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Even dogs won’t eat it, but Charlie laughs anyway.",
+          "japanese name": "犬も食わねどチャーリーは笑う",
+          "sales": 1447,
+          "seats": 11923,
+          "showtimes": 100,
+          "theaters": 123,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Princess Diana",
+          "japanese name": "プリンセス・ダイアナ",
+          "sales": 1177,
+          "seats": 6417,
+          "showtimes": 52,
+          "theaters": 29,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New Sea Sheng IMAX Film Festival: 5 Centimeters per Second",
+          "japanese name": "新海誠ＩＭＡＸ映画祭 秒速５センチメートル",
+          "sales": 1137,
+          "seats": 6827,
+          "showtimes": 22,
+          "theaters": 22,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Chuanpeeri Mukoritta",
+          "japanese name": "川っぺりムコリッタ",
+          "sales": 1117,
+          "seats": 6297,
+          "showtimes": 51,
+          "theaters": 73,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Akira and Akira",
+          "japanese name": "アキラとあきら",
+          "sales": 1085,
+          "seats": 6709,
+          "showtimes": 57,
+          "theaters": 165,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "One Piece Film Red",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 67718,
+          "seats": 231791,
+          "showtimes": 840,
+          "theaters": 197,
+          "rank": 1,
+          "last_week_ratio": 112.3
+        },
+        {
+          "moviename": "Silent Parade",
+          "japanese name": "沈黙のパレード",
+          "sales": 56646,
+          "seats": 191425,
+          "showtimes": 801,
+          "theaters": 195,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The forest where “it” lives",
+          "japanese name": "’それ”がいる森",
+          "sales": 29753,
+          "seats": 198979,
+          "showtimes": 876,
+          "theaters": 193,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Delish Party Precure",
+          "japanese name": "映画デリシャスパーティ・プリキュア",
+          "sales": 28303,
+          "seats": 106165,
+          "showtimes": 562,
+          "theaters": 135,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Movie: Uta no☆Prinsamas♪ Maji LOVE Starlish Tours",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
+          "sales": 16478,
+          "seats": 36870,
+          "showtimes": 195,
+          "theaters": 91,
+          "rank": 5,
+          "last_week_ratio": 143.8
+        },
+        {
+          "moviename": "I am Makimoto.",
+          "japanese name": "アイ・アム まきもと",
+          "sales": 13851,
+          "seats": 113937,
+          "showtimes": 775,
+          "theaters": 193,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Broken Mariko",
+          "japanese name": "マイ・ブロークン・マリコ",
+          "sales": 9688,
+          "seats": 52214,
+          "showtimes": 382,
+          "theaters": 103,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HellDogs",
+          "japanese name": "ヘルドッグス",
+          "sales": 8807,
+          "seats": 41871,
+          "showtimes": 333,
+          "theaters": 192,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "4.5-Tatami Time Machine Blues",
+          "japanese name": "四畳半タイムマシンブルース",
+          "sales": 8702,
+          "seats": 25554,
+          "showtimes": 169,
+          "theaters": 48,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ONE PIECE FILM RED (UtaliVE in the Cinema: Silent Support Screening) with Japanese subtitles",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ（ウタＬＩＶＥ ｉｎ 映画館 無発声応援上映）日本語字幕付き",
+          "sales": 7927,
+          "seats": 29665,
+          "showtimes": 85,
+          "theaters": 85,
+          "rank": 10,
+          "last_week_ratio": 13211.7
+        },
+        {
+          "moviename": "Brett Train",
+          "japanese name": "ブレット・トレイン",
+          "sales": 7755,
+          "seats": 32367,
+          "showtimes": 246,
+          "theaters": 196,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ONE PIECE FILM RED (Utalive in the Cinema: Silent Support Screening) – With Japanese characters",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ（ウタＬＩＶＥ ｉｎ 映画館 無発声応援上映）日字付",
+          "sales": 7543,
+          "seats": 22037,
+          "showtimes": 65,
+          "theaters": 65,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Top Gun: Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 7374,
+          "seats": 28370,
+          "showtimes": 196,
+          "theaters": 177,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HIGH&LOW THE WORST X",
+          "japanese name": "ＨｉＧＨ＆ＬＯＷ ＴＨＥ ＷＯＲＳＴ Ｘ",
+          "sales": 6998,
+          "seats": 32316,
+          "showtimes": 249,
+          "theaters": 188,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Downton Abbey: A New Era",
+          "japanese name": "ダウントン・アビー 新たなる時代へ",
+          "sales": 6365,
+          "seats": 24332,
+          "showtimes": 170,
+          "theaters": 52,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Avatar: James Cameron 3D Remaster",
+          "japanese name": "アバター：ジェームズキャメロン ３Ｄリマスター",
+          "sales": 5994,
+          "seats": 17547,
+          "showtimes": 109,
+          "theaters": 93,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Galaxy Heroes Legend: Die Neue These – Chapter 1: Intrigues",
+          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 策謀 第一章",
+          "sales": 5046,
+          "seats": 24659,
+          "showtimes": 160,
+          "theaters": 49,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Jurassic World: The New Rulers",
+          "japanese name": "ジュラシック・ワールド／新たなる支配者",
+          "sales": 5030,
+          "seats": 24536,
+          "showtimes": 181,
+          "theaters": 174,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "LAMB/Lamb",
+          "japanese name": "ＬＡＭＢ／ラム",
+          "sales": 4517,
+          "seats": 10543,
+          "showtimes": 72,
+          "theaters": 28,
+          "rank": 19,
+          "last_week_ratio": 111.9
+        },
+        {
+          "moviename": "A hundred flowers",
+          "japanese name": "百花",
+          "sales": 4387,
+          "seats": 22780,
+          "showtimes": 180,
+          "theaters": 129,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New Sea Shiong IMAX Film Festival: Your Name.",
+          "japanese name": "新海誠ＩＭＡＸ映画祭 君の名は。",
+          "sales": 3435,
+          "seats": 5952,
+          "showtimes": 19,
+          "theaters": 19,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let’s do it! PUI PUI Moroker + Driving School: Preview Edition",
+          "japanese name": "ならせ！ＰＵＩ ＰＵＩ モルカー＋ＤＲＩＶＩＮＧ ＳＣＨＯＯＬ 予習編",
+          "sales": 3306,
+          "seats": 20103,
+          "showtimes": 134,
+          "theaters": 54,
+          "rank": 22,
+          "last_week_ratio": 100.1
+        },
+        {
+          "moviename": "Kingdom 2: Towards the Distant Lands",
+          "japanese name": "キングダム２ 遥かなる大地へ",
+          "sales": 3201,
+          "seats": 17875,
+          "showtimes": 137,
+          "theaters": 170,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Akira and Akira",
+          "japanese name": "アキラとあきら",
+          "sales": 2826,
+          "seats": 17665,
+          "showtimes": 143,
+          "theaters": 165,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Even dogs won’t eat it, but Charlie laughs anyway.",
+          "japanese name": "犬も食わねどチャーリーは笑う",
+          "sales": 2684,
+          "seats": 21671,
+          "showtimes": 184,
+          "theaters": 123,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "ONE PIECE FILM RED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 78491,
+          "seats": 303925,
+          "showtimes": 1078,
+          "theaters": 197,
+          "rank": 1,
+          "last_week_ratio": 114
+        },
+        {
+          "moviename": "Silent Parade",
+          "japanese name": "沈黙のパレード",
+          "sales": 66374,
+          "seats": 243257,
+          "showtimes": 1014,
+          "theaters": 195,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "\"The\" is in the forest",
+          "japanese name": "’それ”がいる森",
+          "sales": 34044,
+          "seats": 251756,
+          "showtimes": 1117,
+          "theaters": 193,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Delicious Party Pretty Cure",
+          "japanese name": "映画デリシャスパーティ・プリキュア",
+          "sales": 28401,
+          "seats": 106878,
+          "showtimes": 567,
+          "theaters": 135,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version utsu no ☆ prince-sama♪ Maji LOVE Starlight Tours",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
+          "sales": 20947,
+          "seats": 48023,
+          "showtimes": 252,
+          "theaters": 91,
+          "rank": 5,
+          "last_week_ratio": 148.3
+        },
+        {
+          "moviename": "I Am Makimoto",
+          "japanese name": "アイ・アム まきもと",
+          "sales": 15497,
+          "seats": 146779,
+          "showtimes": 984,
+          "theaters": 193,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Broken Maria",
+          "japanese name": "マイ・ブロークン・マリコ",
+          "sales": 11744,
+          "seats": 66579,
+          "showtimes": 487,
+          "theaters": 103,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hell Dogs",
+          "japanese name": "ヘルドッグス",
+          "sales": 11377,
+          "seats": 61674,
+          "showtimes": 489,
+          "theaters": 192,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Four-and-a-half Time Machine Blues",
+          "japanese name": "四畳半タイムマシンブルース",
+          "sales": 10599,
+          "seats": 32918,
+          "showtimes": 217,
+          "theaters": 48,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Brett Train",
+          "japanese name": "ブレット・トレイン",
+          "sales": 10068,
+          "seats": 47032,
+          "showtimes": 358,
+          "theaters": 196,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Top Gun Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 9106,
+          "seats": 37559,
+          "showtimes": 254,
+          "theaters": 177,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HIGH & LOW THE WORST X",
+          "japanese name": "ＨｉＧＨ＆ＬＯＷ ＴＨＥ ＷＯＲＳＴ Ｘ",
+          "sales": 8712,
+          "seats": 46327,
+          "showtimes": 359,
+          "theaters": 188,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ONE PIECE FILM RED（UTALIVE in Cinema Silent Support Screening）With Japanese Subtitles",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ（ウタＬＩＶＥ ｉｎ 映画館 無発声応援上映）日本語字幕付き",
+          "sales": 7927,
+          "seats": 29665,
+          "showtimes": 85,
+          "theaters": 85,
+          "rank": 13,
+          "last_week_ratio": 13211.7
+        },
+        {
+          "moviename": "Avatar: James Cameron 3D Remaster",
+          "japanese name": "アバター：ジェームズキャメロン ３Ｄリマスター",
+          "sales": 7559,
+          "seats": 21393,
+          "showtimes": 132,
+          "theaters": 93,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ONE PIECE FILM RED（UTALIVE in Cinema Silent Support Screening）With Japanese Subtitles",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ（ウタＬＩＶＥ ｉｎ 映画館 無発声応援上映）日字付",
+          "sales": 7543,
+          "seats": 22037,
+          "showtimes": 65,
+          "theaters": 65,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Downton Abbey / The New Era",
+          "japanese name": "ダウントン・アビー 新たなる時代へ",
+          "sales": 6997,
+          "seats": 31003,
+          "showtimes": 216,
+          "theaters": 52,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Galactic Heroes传说 Die Neue These 策谋 第一章",
+          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 策謀 第一章",
+          "sales": 5981,
+          "seats": 32290,
+          "showtimes": 208,
+          "theaters": 49,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Jurassic World / The New Ruler",
+          "japanese name": "ジュラシック・ワールド／新たなる支配者",
+          "sales": 5495,
+          "seats": 28616,
+          "showtimes": 209,
+          "theaters": 174,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "LAMB/Lamb",
+          "japanese name": "ＬＡＭＢ／ラム",
+          "sales": 5240,
+          "seats": 13797,
+          "showtimes": 93,
+          "theaters": 28,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hundred Flowers",
+          "japanese name": "百花",
+          "sales": 4479,
+          "seats": 23871,
+          "showtimes": 187,
+          "theaters": 129,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kingdom 2 To the Distant Land",
+          "japanese name": "キングダム２ 遥かなる大地へ",
+          "sales": 3729,
+          "seats": 22948,
+          "showtimes": 172,
+          "theaters": 170,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New York Film Festival Makoto Shinkai IMAX Movie Your Name.",
+          "japanese name": "新海誠ＩＭＡＸ映画祭 君の名は。",
+          "sales": 3540,
+          "seats": 6247,
+          "showtimes": 20,
+          "theaters": 19,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Then do it! PUI PUI MOLCARA+DRIVING SCHOOL Review",
+          "japanese name": "ならせ！ＰＵＩ ＰＵＩ モルカー＋ＤＲＩＶＩＮＧ ＳＣＨＯＯＬ 予習編",
+          "sales": 3495,
+          "seats": 21671,
+          "showtimes": 144,
+          "theaters": 54,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Akira and Akira",
+          "japanese name": "アキラとあきら",
+          "sales": 3081,
+          "seats": 21868,
+          "showtimes": 171,
+          "theaters": 165,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Makoto Shinkai IMAX Film Festival 5 Centimeters Per Second",
+          "japanese name": "新海誠ＩＭＡＸ映画祭 秒速５センチメートル",
+          "sales": 3028,
+          "seats": 16611,
+          "showtimes": 54,
+          "theaters": 22,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

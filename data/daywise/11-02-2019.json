@@ -1,0 +1,773 @@
+{
+  "date": "11-02-2019",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Seven Meetings",
+          "japanese name": "七つの会議",
+          "sales": 43613,
+          "seats": 137672,
+          "showtimes": 581,
+          "theaters": 263,
+          "rank": 1,
+          "last_week_ratio": 219.3
+        },
+        {
+          "moviename": "Mascarade Hotel",
+          "japanese name": "マスカレード・ホテル",
+          "sales": 42129,
+          "seats": 109767,
+          "showtimes": 528,
+          "theaters": 265,
+          "rank": 2,
+          "last_week_ratio": 314
+        },
+        {
+          "moviename": "Aquaman",
+          "japanese name": "アクアマン",
+          "sales": 36509,
+          "seats": 139188,
+          "showtimes": 572,
+          "theaters": 266,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "City Hunter: Shinjuku Private Eyes – The Movie",
+          "japanese name": "劇場版シティーハンター 新宿プライベート・アイズ",
+          "sales": 30437,
+          "seats": 127704,
+          "showtimes": 515,
+          "theaters": 217,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mary Poppins Returns",
+          "japanese name": "メリー・ポピンズ リターンズ",
+          "sales": 28999,
+          "seats": 71168,
+          "showtimes": 502,
+          "theaters": 274,
+          "rank": 5,
+          "last_week_ratio": 295.5
+        },
+        {
+          "moviename": "Twelve children who wanted to die",
+          "japanese name": "十二人の死にたい子どもたち",
+          "sales": 24387,
+          "seats": 61005,
+          "showtimes": 430,
+          "theaters": 269,
+          "rank": 6,
+          "last_week_ratio": 340.9
+        },
+        {
+          "moviename": "Bohemian Rhapsody",
+          "japanese name": "ボヘミアン・ラプソディ",
+          "sales": 20721,
+          "seats": 35931,
+          "showtimes": 224,
+          "theaters": 269,
+          "rank": 7,
+          "last_week_ratio": 221.1
+        },
+        {
+          "moviename": "Snow Flowers",
+          "japanese name": "雪の華",
+          "sales": 18910,
+          "seats": 68897,
+          "showtimes": 465,
+          "theaters": 258,
+          "rank": 8,
+          "last_week_ratio": 219
+        },
+        {
+          "moviename": "Code Geass: Lelouch of the Resurrection",
+          "japanese name": "コードギアス 復活のルルーシュ",
+          "sales": 18453,
+          "seats": 44736,
+          "showtimes": 198,
+          "theaters": 100,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "First Man",
+          "japanese name": "ファースト・マン",
+          "sales": 17772,
+          "seats": 104299,
+          "showtimes": 566,
+          "theaters": 266,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sugar Rush: Online",
+          "japanese name": "シュガー・ラッシュ：オンライン",
+          "sales": 9515,
+          "seats": 28030,
+          "showtimes": 205,
+          "theaters": 258,
+          "rank": 11,
+          "last_week_ratio": 570.4
+        },
+        {
+          "moviename": "Fate/Stay Night: Haveens Feel Chapter 2",
+          "japanese name": "Ｆａｔｅ／ｓｔａｙ ｎｉｇｈｔ Ｈｅａｖｅｎｓ Ｆｅｅｌ 第二章",
+          "sales": 4537,
+          "seats": 10547,
+          "showtimes": 63,
+          "theaters": 110,
+          "rank": 12,
+          "last_week_ratio": 172.4
+        },
+        {
+          "moviename": "Theatrical Version: Maiden Warriors",
+          "japanese name": "劇場版 幼女戦記",
+          "sales": 4298,
+          "seats": 10808,
+          "showtimes": 62,
+          "theaters": 35,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Collasho’s Exciting Underwater Adventure!",
+          "japanese name": "映画 コラショの海底わくわく大冒険！",
+          "sales": 4071,
+          "seats": 31185,
+          "showtimes": 173,
+          "theaters": 96,
+          "rank": 14,
+          "last_week_ratio": 1615.5
+        },
+        {
+          "moviename": "Dragon Ball Super: Broly",
+          "japanese name": "ドラゴンボール超 ブロリー",
+          "sales": 3068,
+          "seats": 19099,
+          "showtimes": 123,
+          "theaters": 253,
+          "rank": 15,
+          "last_week_ratio": 677.3
+        },
+        {
+          "moviename": "Movie: Sword Art Online",
+          "japanese name": "映画 刀剣乱舞",
+          "sales": 2541,
+          "seats": 5221,
+          "showtimes": 36,
+          "theaters": 99,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Pokémon Watch: Forever Friends",
+          "japanese name": "映画 妖怪ウォッチ ＦＯＲＥＶＥＲ ＦＲＩＥＮＤＳ フォーエバーフレンズ",
+          "sales": 1858,
+          "seats": 18525,
+          "showtimes": 128,
+          "theaters": 143,
+          "rank": 17,
+          "last_week_ratio": 2773.1
+        },
+        {
+          "moviename": "Love Live! Sunshine!! The School Idol Movie Over the Rainbow",
+          "japanese name": "ラブライブ！サンシャイン！！ザ スクール アイドル Ｍｏｖｉｅ Ｏｖｅｒ ｔｈｅ Ｒａｉｎｂｏｗ",
+          "sales": 1844,
+          "seats": 6305,
+          "showtimes": 38,
+          "theaters": 110,
+          "rank": 18,
+          "last_week_ratio": 130.7
+        },
+        {
+          "moviename": "In commemoration of the 20th installment in the Heisei Kamen Rider series: Kamen Rider Heisei Generations FOREVER",
+          "japanese name": "平成仮面ライダー２０作記念 仮面ライダー平成ジェネレーションズ ＦＯＲＥＶＥＲ",
+          "sales": 1788,
+          "seats": 17840,
+          "showtimes": 122,
+          "theaters": 138,
+          "rank": 19,
+          "last_week_ratio": 787.7
+        },
+        {
+          "moviename": "The Shoplifter's Family",
+          "japanese name": "万引き家族",
+          "sales": 1719,
+          "seats": 7703,
+          "showtimes": 56,
+          "theaters": 71,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MET Live Viewing 2018-19: Princess Tsubaki",
+          "japanese name": "ＭＥＴライブビューイング２０１８－１９ 椿姫",
+          "sales": 1567,
+          "seats": 2735,
+          "showtimes": 16,
+          "theaters": 17,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "PSYCHO-PASS: Psychopath Case.1 “Sin and Punishment”",
+          "japanese name": "ＰＳＹＣＨＯ－ＰＡＳＳ サイコパス  Ｃａｓｅ．１「罪と罰」",
+          "sales": 1394,
+          "seats": 8354,
+          "showtimes": 52,
+          "theaters": 72,
+          "rank": 22,
+          "last_week_ratio": 146
+        },
+        {
+          "moviename": "Bone Washing",
+          "japanese name": "洗骨",
+          "sales": 997,
+          "seats": 4535,
+          "showtimes": 33,
+          "theaters": 23,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Wife of a Genius Writer – The Truth After 40 Years –",
+          "japanese name": "天才作家の妻 －４０年目の真実－",
+          "sales": 891,
+          "seats": 2633,
+          "showtimes": 21,
+          "theaters": 17,
+          "rank": 24,
+          "last_week_ratio": 126.6
+        },
+        {
+          "moviename": "Sora’s Restaurant",
+          "japanese name": "そらのレストラン",
+          "sales": 661,
+          "seats": 3519,
+          "showtimes": 27,
+          "theaters": 49,
+          "rank": 25,
+          "last_week_ratio": 168.6
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Mascarade Hotel",
+          "japanese name": "マスカレード・ホテル",
+          "sales": 74687,
+          "seats": 199794,
+          "showtimes": 948,
+          "theaters": 265,
+          "rank": 1,
+          "last_week_ratio": 302.1
+        },
+        {
+          "moviename": "Aquaman",
+          "japanese name": "アクアマン",
+          "sales": 69437,
+          "seats": 266031,
+          "showtimes": 1109,
+          "theaters": 266,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Seven Meetings",
+          "japanese name": "七つの会議",
+          "sales": 66344,
+          "seats": 238485,
+          "showtimes": 1023,
+          "theaters": 263,
+          "rank": 3,
+          "last_week_ratio": 221.5
+        },
+        {
+          "moviename": "City Hunter: Shinjuku Private Eyes – The Movie",
+          "japanese name": "劇場版シティーハンター 新宿プライベート・アイズ",
+          "sales": 48089,
+          "seats": 213534,
+          "showtimes": 863,
+          "theaters": 217,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mary Poppins Returns",
+          "japanese name": "メリー・ポピンズ リターンズ",
+          "sales": 44241,
+          "seats": 120655,
+          "showtimes": 846,
+          "theaters": 274,
+          "rank": 5,
+          "last_week_ratio": 252.6
+        },
+        {
+          "moviename": "Twelve children who wanted to die",
+          "japanese name": "十二人の死にたい子どもたち",
+          "sales": 40607,
+          "seats": 108408,
+          "showtimes": 755,
+          "theaters": 269,
+          "rank": 6,
+          "last_week_ratio": 251.7
+        },
+        {
+          "moviename": "Bohemian Rhapsody",
+          "japanese name": "ボヘミアン・ラプソディ",
+          "sales": 36915,
+          "seats": 68233,
+          "showtimes": 399,
+          "theaters": 269,
+          "rank": 7,
+          "last_week_ratio": 219.1
+        },
+        {
+          "moviename": "Snow Flowers",
+          "japanese name": "雪の華",
+          "sales": 31870,
+          "seats": 117191,
+          "showtimes": 798,
+          "theaters": 258,
+          "rank": 8,
+          "last_week_ratio": 172.6
+        },
+        {
+          "moviename": "First Man",
+          "japanese name": "ファースト・マン",
+          "sales": 30079,
+          "seats": 195225,
+          "showtimes": 1054,
+          "theaters": 266,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Code Geass: Lelouch of the Resurrection",
+          "japanese name": "コードギアス 復活のルルーシュ",
+          "sales": 29422,
+          "seats": 73688,
+          "showtimes": 329,
+          "theaters": 100,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Sword Art Online",
+          "japanese name": "映画 刀剣乱舞",
+          "sales": 16906,
+          "seats": 28150,
+          "showtimes": 134,
+          "theaters": 99,
+          "rank": 11,
+          "last_week_ratio": 236.8
+        },
+        {
+          "moviename": "EXILE LIVE TOUR 2018–2019 “STAR OF WISH” Live Viewing",
+          "japanese name": "ＥＸＩＬＥ ＬＩＶＥ ＴＯＵＲ ２０１８－２０１９ ”ＳＴＡＲ ＯＦ ＷＩＳＨ”ライブ・ビューイング",
+          "sales": 15723,
+          "seats": 28033,
+          "showtimes": 205,
+          "theaters": 206,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sugar Rush: Online",
+          "japanese name": "シュガー・ラッシュ：オンライン",
+          "sales": 12747,
+          "seats": 37516,
+          "showtimes": 271,
+          "theaters": 258,
+          "rank": 13,
+          "last_week_ratio": 536.7
+        },
+        {
+          "moviename": "Fate/Stay Night: Haveens Feel Chapter 2",
+          "japanese name": "Ｆａｔｅ／ｓｔａｙ ｎｉｇｈｔ Ｈｅａｖｅｎｓ Ｆｅｅｌ 第二章",
+          "sales": 8378,
+          "seats": 21141,
+          "showtimes": 132,
+          "theaters": 110,
+          "rank": 14,
+          "last_week_ratio": 169
+        },
+        {
+          "moviename": "Theatrical Version: Maiden Warriors",
+          "japanese name": "劇場版 幼女戦記",
+          "sales": 7707,
+          "seats": 19771,
+          "showtimes": 113,
+          "theaters": 35,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "JANG KEOONSUK THE CRISIS 4 Voyage Theater Edition Screening",
+          "japanese name": "ＪＡＮＧ ＫＥＵＮ ＳＵＫ ＴＨＥ ＣＲＩＳＨＯＷ ４ Ｖｏｙａｇｅ シアターエディション上映会",
+          "sales": 6107,
+          "seats": 9028,
+          "showtimes": 41,
+          "theaters": 39,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dragon Ball Super: Broly",
+          "japanese name": "ドラゴンボール超 ブロリー",
+          "sales": 5321,
+          "seats": 35703,
+          "showtimes": 228,
+          "theaters": 253,
+          "rank": 17,
+          "last_week_ratio": 457.1
+        },
+        {
+          "moviename": "Movie: Collasho’s Exciting Underwater Adventure!",
+          "japanese name": "映画 コラショの海底わくわく大冒険！",
+          "sales": 5025,
+          "seats": 39136,
+          "showtimes": 217,
+          "theaters": 96,
+          "rank": 18,
+          "last_week_ratio": 1354.4
+        },
+        {
+          "moviename": "Love Live! Sunshine!! The School Idol Movie Over the Rainbow",
+          "japanese name": "ラブライブ！サンシャイン！！ザ スクール アイドル Ｍｏｖｉｅ Ｏｖｅｒ ｔｈｅ Ｒａｉｎｂｏｗ",
+          "sales": 4096,
+          "seats": 15560,
+          "showtimes": 95,
+          "theaters": 110,
+          "rank": 19,
+          "last_week_ratio": 105.3
+        },
+        {
+          "moviename": "PSYCHO-PASS: Psychopath Case.1 “Sin and Punishment”",
+          "japanese name": "ＰＳＹＣＨＯ－ＰＡＳＳ サイコパス  Ｃａｓｅ．１「罪と罰」",
+          "sales": 2917,
+          "seats": 13390,
+          "showtimes": 88,
+          "theaters": 72,
+          "rank": 20,
+          "last_week_ratio": 128.2
+        },
+        {
+          "moviename": "Movie: Pokémon Watch: Forever Friends",
+          "japanese name": "映画 妖怪ウォッチ ＦＯＲＥＶＥＲ ＦＲＩＥＮＤＳ フォーエバーフレンズ",
+          "sales": 2131,
+          "seats": 20336,
+          "showtimes": 141,
+          "theaters": 143,
+          "rank": 21,
+          "last_week_ratio": 2243.2
+        },
+        {
+          "moviename": "The Shoplifter's Family",
+          "japanese name": "万引き家族",
+          "sales": 2103,
+          "seats": 10072,
+          "showtimes": 74,
+          "theaters": 71,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MET Live Viewing 2018-19: Princess Tsubaki",
+          "japanese name": "ＭＥＴライブビューイング２０１８－１９ 椿姫",
+          "sales": 1978,
+          "seats": 3819,
+          "showtimes": 20,
+          "theaters": 17,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "In commemoration of the 20th installment in the Heisei Kamen Rider series: Kamen Rider Heisei Generations FOREVER",
+          "japanese name": "平成仮面ライダー２０作記念 仮面ライダー平成ジェネレーションズ ＦＯＲＥＶＥＲ",
+          "sales": 1967,
+          "seats": 19810,
+          "showtimes": 136,
+          "theaters": 138,
+          "rank": 24,
+          "last_week_ratio": 630.4
+        },
+        {
+          "moviename": "Aiuta – Promise of Nakuhito –",
+          "japanese name": "愛唄－約束のナクヒト－",
+          "sales": 1624,
+          "seats": 16840,
+          "showtimes": 115,
+          "theaters": 130,
+          "rank": 25,
+          "last_week_ratio": 115.2
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Mascarade Hotel",
+          "japanese name": "マスカレード・ホテル",
+          "sales": 78169,
+          "seats": 251529,
+          "showtimes": 1203,
+          "theaters": 265,
+          "rank": 1,
+          "last_week_ratio": 284
+        },
+        {
+          "moviename": "Aquaman",
+          "japanese name": "アクアマン",
+          "sales": 76568,
+          "seats": 342138,
+          "showtimes": 1427,
+          "theaters": 266,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Seven Meetings",
+          "japanese name": "七つの会議",
+          "sales": 68704,
+          "seats": 296782,
+          "showtimes": 1283,
+          "theaters": 263,
+          "rank": 3,
+          "last_week_ratio": 209.8
+        },
+        {
+          "moviename": "City Hunter: Shinjuku Private Eyes – The Movie",
+          "japanese name": "劇場版シティーハンター 新宿プライベート・アイズ",
+          "sales": 54270,
+          "seats": 272719,
+          "showtimes": 1108,
+          "theaters": 217,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mary Poppins Returns",
+          "japanese name": "メリー・ポピンズ リターンズ",
+          "sales": 45829,
+          "seats": 152186,
+          "showtimes": 1080,
+          "theaters": 274,
+          "rank": 5,
+          "last_week_ratio": 234.3
+        },
+        {
+          "moviename": "Twelve children who wanted to die",
+          "japanese name": "十二人の死にたい子どもたち",
+          "sales": 42702,
+          "seats": 138379,
+          "showtimes": 979,
+          "theaters": 269,
+          "rank": 6,
+          "last_week_ratio": 235
+        },
+        {
+          "moviename": "Bohemian Rhapsody",
+          "japanese name": "ボヘミアン・ラプソディ",
+          "sales": 39518,
+          "seats": 83046,
+          "showtimes": 498,
+          "theaters": 269,
+          "rank": 7,
+          "last_week_ratio": 206.4
+        },
+        {
+          "moviename": "Code Geass: Lelouch of the Resurrection",
+          "japanese name": "コードギアス 復活のルルーシュ",
+          "sales": 36246,
+          "seats": 96408,
+          "showtimes": 428,
+          "theaters": 99,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Snow Flowers",
+          "japanese name": "雪の華",
+          "sales": 34222,
+          "seats": 153024,
+          "showtimes": 1040,
+          "theaters": 258,
+          "rank": 9,
+          "last_week_ratio": 159.2
+        },
+        {
+          "moviename": "First Man",
+          "japanese name": "ファースト・マン",
+          "sales": 31989,
+          "seats": 248497,
+          "showtimes": 1320,
+          "theaters": 266,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Sword Art Online",
+          "japanese name": "映画 刀剣乱舞",
+          "sales": 17933,
+          "seats": 30074,
+          "showtimes": 145,
+          "theaters": 99,
+          "rank": 11,
+          "last_week_ratio": 218.1
+        },
+        {
+          "moviename": "EXILE LIVE TOUR 2018–2019 “STAR OF WISH” Live Viewing",
+          "japanese name": "ＥＸＩＬＥ ＬＩＶＥ ＴＯＵＲ ２０１８－２０１９ ”ＳＴＡＲ ＯＦ ＷＩＳＨ”ライブ・ビューイング",
+          "sales": 15723,
+          "seats": 28033,
+          "showtimes": 205,
+          "theaters": 206,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sugar Rush: Online",
+          "japanese name": "シュガー・ラッシュ：オンライン",
+          "sales": 12776,
+          "seats": 37855,
+          "showtimes": 274,
+          "theaters": 258,
+          "rank": 13,
+          "last_week_ratio": 530.6
+        },
+        {
+          "moviename": "Fate/Stay Night: Haveens Feel Chapter 2",
+          "japanese name": "Ｆａｔｅ／ｓｔａｙ ｎｉｇｈｔ Ｈｅａｖｅｎｓ Ｆｅｅｌ 第二章",
+          "sales": 9174,
+          "seats": 23964,
+          "showtimes": 154,
+          "theaters": 110,
+          "rank": 14,
+          "last_week_ratio": 149.7
+        },
+        {
+          "moviename": "Theatrical Version: Maiden Warriors",
+          "japanese name": "劇場版 幼女戦記",
+          "sales": 9023,
+          "seats": 26284,
+          "showtimes": 149,
+          "theaters": 35,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "JANG KEOONSUK THE CRISIS 4 Voyage Theater Edition Screening",
+          "japanese name": "ＪＡＮＧ ＫＥＵＮ ＳＵＫ ＴＨＥ ＣＲＩＳＨＯＷ ４ Ｖｏｙａｇｅ シアターエディション上映会",
+          "sales": 6107,
+          "seats": 9028,
+          "showtimes": 41,
+          "theaters": 39,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dragon Ball Super: Broly",
+          "japanese name": "ドラゴンボール超 ブロリー",
+          "sales": 5576,
+          "seats": 39494,
+          "showtimes": 254,
+          "theaters": 253,
+          "rank": 17,
+          "last_week_ratio": 434.9
+        },
+        {
+          "moviename": "Movie: Collasho’s Exciting Underwater Adventure!",
+          "japanese name": "映画 コラショの海底わくわく大冒険！",
+          "sales": 5025,
+          "seats": 39136,
+          "showtimes": 217,
+          "theaters": 96,
+          "rank": 18,
+          "last_week_ratio": 1369.2
+        },
+        {
+          "moviename": "Love Live! Sunshine!! The School Idol Movie Over the Rainbow",
+          "japanese name": "ラブライブ！サンシャイン！！ザ スクール アイドル Ｍｏｖｉｅ Ｏｖｅｒ ｔｈｅ Ｒａｉｎｂｏｗ",
+          "sales": 4975,
+          "seats": 21583,
+          "showtimes": 126,
+          "theaters": 110,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "PSYCHO-PASS: Psychopath Case.1 “Sin and Punishment”",
+          "japanese name": "ＰＳＹＣＨＯ－ＰＡＳＳ サイコパス  Ｃａｓｅ．１「罪と罰」",
+          "sales": 3779,
+          "seats": 18621,
+          "showtimes": 118,
+          "theaters": 72,
+          "rank": 20,
+          "last_week_ratio": 127.8
+        },
+        {
+          "moviename": "Movie: Pokémon Watch: Forever Friends",
+          "japanese name": "映画 妖怪ウォッチ ＦＯＲＥＶＥＲ ＦＲＩＥＮＤＳ フォーエバーフレンズ",
+          "sales": 2131,
+          "seats": 20336,
+          "showtimes": 141,
+          "theaters": 143,
+          "rank": 21,
+          "last_week_ratio": 2243.2
+        },
+        {
+          "moviename": "The Shoplifter's Family",
+          "japanese name": "万引き家族",
+          "sales": 2105,
+          "seats": 10290,
+          "showtimes": 76,
+          "theaters": 71,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MET Live Viewing 2018-19: Princess Tsubaki",
+          "japanese name": "ＭＥＴライブビューイング２０１８－１９ 椿姫",
+          "sales": 1978,
+          "seats": 3819,
+          "showtimes": 20,
+          "theaters": 17,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "In commemoration of the 20th installment in the Heisei Kamen Rider series: Kamen Rider Heisei Generations FOREVER",
+          "japanese name": "平成仮面ライダー２０作記念 仮面ライダー平成ジェネレーションズ ＦＯＲＥＶＥＲ",
+          "sales": 1975,
+          "seats": 20049,
+          "showtimes": 137,
+          "theaters": 138,
+          "rank": 24,
+          "last_week_ratio": 633
+        },
+        {
+          "moviename": "Aiuta – Promise of Nakuhito –",
+          "japanese name": "愛唄－約束のナクヒト－",
+          "sales": 1715,
+          "seats": 18594,
+          "showtimes": 128,
+          "theaters": 130,
+          "rank": 25,
+          "last_week_ratio": 112.2
+        }
+      ]
+    }
+  ]
+}

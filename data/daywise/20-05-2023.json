@@ -1,0 +1,773 @@
+{
+  "date": "20-05-2023",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "The Super Mario Bros. Movie",
+          "japanese name": "ザ・スーパーマリオブラザーズ・ムービー",
+          "sales": 52822,
+          "seats": 171835,
+          "showtimes": 620,
+          "theaters": 189,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wild Speed / Fire Boost",
+          "japanese name": "ワイルド・スピード／ファイヤーブースト",
+          "sales": 41271,
+          "seats": 125028,
+          "showtimes": 518,
+          "theaters": 188,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: Black Iron Fish Shadow (Submarine)",
+          "japanese name": "名探偵コナン 黒鉄の魚影（サブマリン）",
+          "sales": 24781,
+          "seats": 85025,
+          "showtimes": 436,
+          "theaters": 186,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version of Idolish 7 LIVE 4bit BEYOND THE PERIOD",
+          "japanese name": "劇場版アイドリッシュセブン ＬＩＶＥ ４ｂｉｔ ＢＥＹＯＮＤ ＴＨＥ ＰＥＲｉＯＤ",
+          "sales": 22295,
+          "seats": 48072,
+          "showtimes": 211,
+          "theaters": 119,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version \"Tokyo MER～Running Emergency Room～\"",
+          "japanese name": "劇場版「ＴＯＫＹＯ ＭＥＲ～走る緊急救命室～」",
+          "sales": 14726,
+          "seats": 51037,
+          "showtimes": 346,
+          "theaters": 186,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Go all the way",
+          "japanese name": "最後まで行く",
+          "sales": 11779,
+          "seats": 59627,
+          "showtimes": 378,
+          "theaters": 171,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shin-chan the Movie: Puffy Noodle World",
+          "japanese name": "シナぷしゅ ＴＨＥ ＭＯＶＩＥ ぷしゅほっぺにゅうワールド",
+          "sales": 9406,
+          "seats": 23919,
+          "showtimes": 158,
+          "theaters": 72,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Psycho-Pass: Provider of Justice",
+          "japanese name": "劇場版 ＰＳＹＣＨＯ－ＰＡＳＳ サイコパス ＰＲＯＶＩＤＥＮＣＥ",
+          "sales": 5679,
+          "seats": 20121,
+          "showtimes": 159,
+          "theaters": 130,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tokyo Revengers 2: Blood Halloween -Destiny-",
+          "japanese name": "東京リベンジャーズ２ 血のハロウィン編 －運命－",
+          "sales": 4472,
+          "seats": 23682,
+          "showtimes": 187,
+          "theaters": 187,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Guardians of the Galaxy: Volume 3",
+          "japanese name": "ガーディアンズ・オブ・ギャラクシー：ＶＯＬＵＭＥ ３",
+          "sales": 3533,
+          "seats": 15749,
+          "showtimes": 127,
+          "theaters": 172,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Father of the Galaxy Train",
+          "japanese name": "銀河鉄道の父",
+          "sales": 3503,
+          "seats": 18186,
+          "showtimes": 160,
+          "theaters": 165,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Alien",
+          "japanese name": "宇宙人のあいつ",
+          "sales": 3268,
+          "seats": 18330,
+          "showtimes": 157,
+          "theaters": 103,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "浜田省吾「A PLACE IN THE SUN at Shukuen Summer of 1988」",
+          "japanese name": "浜田省吾「Ａ ＰＬＡＣＥ ＩＮ ＴＨＥ ＳＵＮ ａｔ 渚園 Ｓｕｍｍｅｒ ｏｆ １９８８」",
+          "sales": 1901,
+          "seats": 3318,
+          "showtimes": 25,
+          "theaters": 56,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TAR Tar",
+          "japanese name": "ＴＡＲ ター",
+          "sales": 1783,
+          "seats": 6617,
+          "showtimes": 57,
+          "theaters": 97,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 1757,
+          "seats": 5220,
+          "showtimes": 37,
+          "theaters": 167,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Suzume's door locking",
+          "japanese name": "すずめの戸締まり",
+          "sales": 1495,
+          "seats": 6722,
+          "showtimes": 49,
+          "theaters": 165,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let It Be ~Scary things are still scary~",
+          "japanese name": "レット・イット・ビー ～怖いものは、やはり怖い～",
+          "sales": 1350,
+          "seats": 5122,
+          "showtimes": 36,
+          "theaters": 50,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BABYMETAL BEGINS - THE OTHER ONE - DELAY VIEWING",
+          "japanese name": "ＢＡＢＹＭＥＴＡＬ ＢＥＧＩＮＳ －ＴＨＥ ＯＴＨＥＲ ＯＮＥ－ ＤＥＬＡＹ ＶＩＥＷＩＮＧ",
+          "sales": 1064,
+          "seats": 3446,
+          "showtimes": 35,
+          "theaters": 35,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Doraemon: Nobita and the Sky's Ideal乡",
+          "japanese name": "映画ドラえもん のび太と空の理想郷",
+          "sales": 1017,
+          "seats": 11946,
+          "showtimes": 103,
+          "theaters": 110,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Adult's familiarity",
+          "japanese name": "おとななじみ",
+          "sales": 955,
+          "seats": 11963,
+          "showtimes": 106,
+          "theaters": 133,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MEMORY Memory",
+          "japanese name": "ＭＥＭＯＲＹ メモリー",
+          "sales": 858,
+          "seats": 7902,
+          "showtimes": 68,
+          "theaters": 111,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My happy marriage",
+          "japanese name": "わたしの幸せな結婚",
+          "sales": 858,
+          "seats": 5864,
+          "showtimes": 46,
+          "theaters": 141,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Battle Titan Team Donbrothers V.S. Zenkaijaer",
+          "japanese name": "暴太郎戦隊ドンブラザーズＶＳゼンカイジャー",
+          "sales": 755,
+          "seats": 5787,
+          "showtimes": 35,
+          "theaters": 39,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "RRR",
+          "japanese name": "ＲＲＲ",
+          "sales": 624,
+          "seats": 2442,
+          "showtimes": 14,
+          "theaters": 37,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie My Girlfriend Went to the Koshien Stadium and I Almost Died",
+          "japanese name": "劇場版 推しが武道館いってくれたら死ぬ",
+          "sales": 594,
+          "seats": 3762,
+          "showtimes": 32,
+          "theaters": 48,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "The Super Mario Bros. Movie",
+          "japanese name": "ザ・スーパーマリオブラザーズ・ムービー",
+          "sales": 105311,
+          "seats": 308875,
+          "showtimes": 1122,
+          "theaters": 189,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wild Speed / Fire Boost",
+          "japanese name": "ワイルド・スピード／ファイヤーブースト",
+          "sales": 88101,
+          "seats": 239445,
+          "showtimes": 968,
+          "theaters": 188,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: Black Iron Fish Shadow (Submarine)",
+          "japanese name": "名探偵コナン 黒鉄の魚影（サブマリン）",
+          "sales": 49081,
+          "seats": 147525,
+          "showtimes": 752,
+          "theaters": 186,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version of Idolish 7 LIVE 4bit BEYOND THE PERIOD",
+          "japanese name": "劇場版アイドリッシュセブン ＬＩＶＥ ４ｂｉｔ ＢＥＹＯＮＤ ＴＨＥ ＰＥＲｉＯＤ",
+          "sales": 34377,
+          "seats": 93582,
+          "showtimes": 428,
+          "theaters": 119,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Version \"Tokyo MER～Running Emergency Room～\"",
+          "japanese name": "劇場版「ＴＯＫＹＯ ＭＥＲ～走る緊急救命室～」",
+          "sales": 28147,
+          "seats": 90006,
+          "showtimes": 606,
+          "theaters": 186,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Go all the way",
+          "japanese name": "最後まで行く",
+          "sales": 19739,
+          "seats": 108265,
+          "showtimes": 681,
+          "theaters": 171,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Psycho-Pass: Provider of Justice",
+          "japanese name": "劇場版 ＰＳＹＣＨＯ－ＰＡＳＳ サイコパス ＰＲＯＶＩＤＥＮＣＥ",
+          "sales": 11565,
+          "seats": 39376,
+          "showtimes": 306,
+          "theaters": 130,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shin-chan the Movie: Puffy Noodle World",
+          "japanese name": "シナぷしゅ ＴＨＥ ＭＯＶＩＥ ぷしゅほっぺにゅうワールド",
+          "sales": 10419,
+          "seats": 27648,
+          "showtimes": 183,
+          "theaters": 72,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tokyo Revengers 2: Blood Halloween -Destiny-",
+          "japanese name": "東京リベンジャーズ２ 血のハロウィン編 －運命－",
+          "sales": 10272,
+          "seats": 45580,
+          "showtimes": 345,
+          "theaters": 187,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Guardians of the Galaxy: Volume 3",
+          "japanese name": "ガーディアンズ・オブ・ギャラクシー：ＶＯＬＵＭＥ ３",
+          "sales": 9361,
+          "seats": 34174,
+          "showtimes": 270,
+          "theaters": 172,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 6528,
+          "seats": 21501,
+          "showtimes": 143,
+          "theaters": 167,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Alien",
+          "japanese name": "宇宙人のあいつ",
+          "sales": 5580,
+          "seats": 33657,
+          "showtimes": 288,
+          "theaters": 103,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Father of the Galaxy Train",
+          "japanese name": "銀河鉄道の父",
+          "sales": 4674,
+          "seats": 23615,
+          "showtimes": 203,
+          "theaters": 165,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "浜田省吾「A PLACE IN THE SUN at Shukuen Summer of 1988」",
+          "japanese name": "浜田省吾「Ａ ＰＬＡＣＥ ＩＮ ＴＨＥ ＳＵＮ ａｔ 渚園 Ｓｕｍｍｅｒ ｏｆ １９８８」",
+          "sales": 3987,
+          "seats": 7689,
+          "showtimes": 56,
+          "theaters": 56,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Suzume's door locking",
+          "japanese name": "すずめの戸締まり",
+          "sales": 3847,
+          "seats": 18852,
+          "showtimes": 143,
+          "theaters": 165,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TAR Tar",
+          "japanese name": "ＴＡＲ ター",
+          "sales": 3650,
+          "seats": 13153,
+          "showtimes": 113,
+          "theaters": 97,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let It Be ~Scary things are still scary~",
+          "japanese name": "レット・イット・ビー ～怖いものは、やはり怖い～",
+          "sales": 2237,
+          "seats": 10308,
+          "showtimes": 67,
+          "theaters": 50,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Adult's familiarity",
+          "japanese name": "おとななじみ",
+          "sales": 2118,
+          "seats": 22329,
+          "showtimes": 199,
+          "theaters": 133,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My happy marriage",
+          "japanese name": "わたしの幸せな結婚",
+          "sales": 1956,
+          "seats": 14070,
+          "showtimes": 111,
+          "theaters": 141,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shin Masked Rider",
+          "japanese name": "シン・仮面ライダー",
+          "sales": 1590,
+          "seats": 10508,
+          "showtimes": 82,
+          "theaters": 129,
+          "rank": 20,
+          "last_week_ratio": 101.7
+        },
+        {
+          "moviename": "RRR",
+          "japanese name": "ＲＲＲ",
+          "sales": 1588,
+          "seats": 4886,
+          "showtimes": 32,
+          "theaters": 37,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MEMORY Memory",
+          "japanese name": "ＭＥＭＯＲＹ メモリー",
+          "sales": 1564,
+          "seats": 13914,
+          "showtimes": 121,
+          "theaters": 111,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Doraemon: Nobita and the Sky's Ideal乡",
+          "japanese name": "映画ドラえもん のび太と空の理想郷",
+          "sales": 1128,
+          "seats": 12771,
+          "showtimes": 109,
+          "theaters": 110,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie My Girlfriend Went to the Koshien Stadium and I Almost Died",
+          "japanese name": "劇場版 推しが武道館いってくれたら死ぬ",
+          "sales": 1113,
+          "seats": 7610,
+          "showtimes": 62,
+          "theaters": 48,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BABYMETAL BEGINS - THE OTHER ONE - DELAY VIEWING",
+          "japanese name": "ＢＡＢＹＭＥＴＡＬ ＢＥＧＩＮＳ －ＴＨＥ ＯＴＨＥＲ ＯＮＥ－ ＤＥＬＡＹ ＶＩＥＷＩＮＧ",
+          "sales": 1064,
+          "seats": 3446,
+          "showtimes": 35,
+          "theaters": 35,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Wild Speed/Fire Boost",
+          "japanese name": "ワイルド・スピード／ファイヤーブースト",
+          "sales": 124820,
+          "seats": 318679,
+          "showtimes": 1260,
+          "theaters": 188,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Super Mario Bros. Movie",
+          "japanese name": "ザ・スーパーマリオブラザーズ・ムービー",
+          "sales": 116203,
+          "seats": 355877,
+          "showtimes": 1301,
+          "theaters": 189,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: The Shadow of the Submarine",
+          "japanese name": "名探偵コナン 黒鉄の魚影（サブマリン）",
+          "sales": 58476,
+          "seats": 180151,
+          "showtimes": 922,
+          "theaters": 186,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Movie Idolish Seven LIVE 4bit BEYOND THE PERIOD",
+          "japanese name": "劇場版アイドリッシュセブン ＬＩＶＥ ４ｂｉｔ ＢＥＹＯＮＤ ＴＨＥ ＰＥＲｉＯＤ",
+          "sales": 38174,
+          "seats": 116942,
+          "showtimes": 530,
+          "theaters": 119,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Movie “TOKYO MER ~Running Emergency Room~”",
+          "japanese name": "劇場版「ＴＯＫＹＯ ＭＥＲ～走る緊急救命室～」",
+          "sales": 34129,
+          "seats": 113737,
+          "showtimes": 765,
+          "theaters": 186,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Go all the way to the end.",
+          "japanese name": "最後まで行く",
+          "sales": 23426,
+          "seats": 134510,
+          "showtimes": 845,
+          "theaters": 171,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version of PSYCHO-PASS: Saikopass PROVISION",
+          "japanese name": "劇場版 ＰＳＹＣＨＯ－ＰＡＳＳ サイコパス ＰＲＯＶＩＤＥＮＣＥ",
+          "sales": 14579,
+          "seats": 52549,
+          "showtimes": 407,
+          "theaters": 130,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Guardians of the Galaxy: Volume 3",
+          "japanese name": "ガーディアンズ・オブ・ギャラクシー：ＶＯＬＵＭＥ ３",
+          "sales": 12867,
+          "seats": 48180,
+          "showtimes": 384,
+          "theaters": 172,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tokyo Revengers 2: Blood Halloween Chapter – Fate –",
+          "japanese name": "東京リベンジャーズ２ 血のハロウィン編 －運命－",
+          "sales": 12298,
+          "seats": 58784,
+          "showtimes": 443,
+          "theaters": 187,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shinapushu THE MOVIE Pusuhope Nyuu World",
+          "japanese name": "シナぷしゅ ＴＨＥ ＭＯＶＩＥ ぷしゅほっぺにゅうワールド",
+          "sales": 10428,
+          "seats": 27793,
+          "showtimes": 184,
+          "theaters": 72,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 8295,
+          "seats": 25723,
+          "showtimes": 171,
+          "theaters": 167,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "That alien guy",
+          "japanese name": "宇宙人のあいつ",
+          "sales": 6390,
+          "seats": 43041,
+          "showtimes": 365,
+          "theaters": 103,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Father of the Galactic Railroad",
+          "japanese name": "銀河鉄道の父",
+          "sales": 4743,
+          "seats": 24263,
+          "showtimes": 209,
+          "theaters": 165,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hamada Seigo “A Place in the Sun at Azumi-en Summer of 1988”",
+          "japanese name": "浜田省吾「Ａ ＰＬＡＣＥ ＩＮ ＴＨＥ ＳＵＮ ａｔ 渚園 Ｓｕｍｍｅｒ ｏｆ １９８８」",
+          "sales": 4426,
+          "seats": 8833,
+          "showtimes": 64,
+          "theaters": 56,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The sparrow’s task of locking the door",
+          "japanese name": "すずめの戸締まり",
+          "sales": 4313,
+          "seats": 22660,
+          "showtimes": 162,
+          "theaters": 165,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TAR Tar",
+          "japanese name": "ＴＡＲ ター",
+          "sales": 4140,
+          "seats": 16574,
+          "showtimes": 143,
+          "theaters": 97,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My happy marriage",
+          "japanese name": "わたしの幸せな結婚",
+          "sales": 2343,
+          "seats": 17229,
+          "showtimes": 136,
+          "theaters": 141,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shin Kamen Rider",
+          "japanese name": "シン・仮面ライダー",
+          "sales": 2331,
+          "seats": 15623,
+          "showtimes": 126,
+          "theaters": 129,
+          "rank": 19,
+          "last_week_ratio": 101.1
+        },
+        {
+          "moviename": "Let It Be ~What’s scary, is still scary~",
+          "japanese name": "レット・イット・ビー ～怖いものは、やはり怖い～",
+          "sales": 2331,
+          "seats": 10903,
+          "showtimes": 71,
+          "theaters": 50,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Familiar to adults",
+          "japanese name": "おとななじみ",
+          "sales": 2254,
+          "seats": 25253,
+          "showtimes": 224,
+          "theaters": 133,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "RRR",
+          "japanese name": "ＲＲＲ",
+          "sales": 2152,
+          "seats": 6025,
+          "showtimes": 41,
+          "theaters": 37,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MEMORY Memory",
+          "japanese name": "ＭＥＭＯＲＹ メモリー",
+          "sales": 1775,
+          "seats": 16728,
+          "showtimes": 145,
+          "theaters": 111,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: If My Favorite Person Goes to the Budokan, I’ll Die",
+          "japanese name": "劇場版 推しが武道館いってくれたら死ぬ",
+          "sales": 1241,
+          "seats": 8895,
+          "showtimes": 71,
+          "theaters": 48,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Movie: Doraemon: Nobita and the Sky Island",
+          "japanese name": "映画ドラえもん のび太と空の理想郷",
+          "sales": 1128,
+          "seats": 12771,
+          "showtimes": 109,
+          "theaters": 110,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BabyMetal Begins – The Other One – Day Viewing",
+          "japanese name": "ＢＡＢＹＭＥＴＡＬ ＢＥＧＩＮＳ －ＴＨＥ ＯＴＨＥＲ ＯＮＥ－ ＤＥＬＡＹ ＶＩＥＷＩＮＧ",
+          "sales": 1064,
+          "seats": 3446,
+          "showtimes": 35,
+          "theaters": 35,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

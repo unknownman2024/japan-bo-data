@@ -1,0 +1,773 @@
+{
+  "date": "13-01-2020",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Frozen 2",
+          "japanese name": "アナと雪の女王２",
+          "sales": 85434,
+          "seats": 191896,
+          "showtimes": 801,
+          "theaters": 305,
+          "rank": 1,
+          "last_week_ratio": 157.9
+        },
+        {
+          "moviename": "Star Wars: The Skywalker Saga",
+          "japanese name": "スター・ウォーズ スカイウォーカーの夜明け",
+          "sales": 51127,
+          "seats": 139728,
+          "showtimes": 793,
+          "theaters": 305,
+          "rank": 2,
+          "last_week_ratio": 199.9
+        },
+        {
+          "moviename": "Kaizoku: Final Game",
+          "japanese name": "カイジ ファイナルゲーム",
+          "sales": 35449,
+          "seats": 211666,
+          "showtimes": 645,
+          "theaters": 293,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ford vs Ferrari",
+          "japanese name": "フォードｖｓフェラーリ",
+          "sales": 25110,
+          "seats": 131657,
+          "showtimes": 671,
+          "theaters": 302,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Parasite: The Family in the Semi-Basement",
+          "japanese name": "パラサイト 半地下の家族",
+          "sales": 20143,
+          "seats": 42742,
+          "showtimes": 213,
+          "theaters": 109,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Man Who Is Hard to Live With: Welcome Back, Toru-san",
+          "japanese name": "男はつらいよ お帰り 寅さん",
+          "sales": 17875,
+          "seats": 85457,
+          "showtimes": 610,
+          "theaters": 291,
+          "rank": 6,
+          "last_week_ratio": 112.6
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE Heroes: Rising",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ヒーローズ：ライジング",
+          "sales": 15313,
+          "seats": 43306,
+          "showtimes": 343,
+          "theaters": 274,
+          "rank": 7,
+          "last_week_ratio": 161.6
+        },
+        {
+          "moviename": "Movie: Monster Academy Y: Can Cats Become Heroes?",
+          "japanese name": "映画 妖怪学園Ｙ 猫はＨＥＲＯになれるか",
+          "sales": 11714,
+          "seats": 37054,
+          "showtimes": 300,
+          "theaters": 273,
+          "rank": 8,
+          "last_week_ratio": 124.3
+        },
+        {
+          "moviename": "Kamen Rider Reiwa: The First Generation",
+          "japanese name": "仮面ライダー 令和 ザ・ファースト・ジェネレーション",
+          "sales": 11711,
+          "seats": 45826,
+          "showtimes": 372,
+          "theaters": 274,
+          "rank": 9,
+          "last_week_ratio": 198.8
+        },
+        {
+          "moviename": "Movie: Sumikko Gurashi: The Picture Book That Takes Off and the Secret Code",
+          "japanese name": "映画 すみっコぐらし とびだす絵本とひみつのコ",
+          "sales": 8356,
+          "seats": 33359,
+          "showtimes": 219,
+          "theaters": 186,
+          "rank": 10,
+          "last_week_ratio": 164
+        },
+        {
+          "moviename": "At 0:00 a.m., come and kiss me.",
+          "japanese name": "午前０時、キスしに来てよ",
+          "sales": 7983,
+          "seats": 11132,
+          "showtimes": 84,
+          "theaters": 214,
+          "rank": 11,
+          "last_week_ratio": 113.5
+        },
+        {
+          "moviename": "Theatrical Version: Shinkalion: The Superhuman Alpha-X from the Future",
+          "japanese name": "劇場版 新幹線変形ロボ シンカリオン 未来からきた神速のＡＬＦＡ－Ｘ",
+          "sales": 6907,
+          "seats": 42113,
+          "showtimes": 308,
+          "theaters": 178,
+          "rank": 12,
+          "last_week_ratio": 202.4
+        },
+        {
+          "moviename": "Downton Abbey",
+          "japanese name": "ダウントン・アビー",
+          "sales": 6120,
+          "seats": 20583,
+          "showtimes": 151,
+          "theaters": 78,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Murders in the House of the Dead",
+          "japanese name": "屍人荘の殺人",
+          "sales": 4178,
+          "seats": 10336,
+          "showtimes": 88,
+          "theaters": 274,
+          "rank": 14,
+          "last_week_ratio": 110.3
+        },
+        {
+          "moviename": "Lupin III: The First",
+          "japanese name": "ルパン三世 ＴＨＥ ＦＩＲＳＴ",
+          "sales": 2566,
+          "seats": 9801,
+          "showtimes": 72,
+          "theaters": 284,
+          "rank": 15,
+          "last_week_ratio": 100.2
+        },
+        {
+          "moviename": "Shiraisan",
+          "japanese name": "シライサン",
+          "sales": 2313,
+          "seats": 12153,
+          "showtimes": 84,
+          "theaters": 54,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hick and the Dragon: Adventure to the Holy Land",
+          "japanese name": "ヒックとドラゴン 聖地への冒険",
+          "sales": 2156,
+          "seats": 10236,
+          "showtimes": 78,
+          "theaters": 245,
+          "rank": 17,
+          "last_week_ratio": 101.9
+        },
+        {
+          "moviename": "Movie: Shaun the Sheep: UFO Fieber!",
+          "japanese name": "映画 ひつじのショーン ＵＦＯフィーバー！",
+          "sales": 1908,
+          "seats": 9414,
+          "showtimes": 69,
+          "theaters": 91,
+          "rank": 18,
+          "last_week_ratio": 116.6
+        },
+        {
+          "moviename": "Jumanji: Next Level",
+          "japanese name": "ジュマンジ／ネクスト・レベル",
+          "sales": 1671,
+          "seats": 3983,
+          "showtimes": 32,
+          "theaters": 271,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "KING OF PRISM ALL STARS Prism Show☆Top Ten Over The Rain",
+          "japanese name": "ＫＩＮＧ ＯＦ ＰＲＩＳＭ ＡＬＬ ＳＴＡＲＳ プリズムショー☆ベストテン Ｏｖｅｒ Ｔｈｅ Ｒａｉ",
+          "sales": 1409,
+          "seats": 12737,
+          "showtimes": 57,
+          "theaters": 29,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shinema Kabuki: Kōbunshō, Yoshida-ya",
+          "japanese name": "シネマ歌舞伎 廓文章 吉田屋",
+          "sales": 1350,
+          "seats": 5241,
+          "showtimes": 36,
+          "theaters": 43,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "In some far-off corners of this world (and many more like them)",
+          "japanese name": "この世界の（さらにいくつもの）片隅に",
+          "sales": 1173,
+          "seats": 3705,
+          "showtimes": 32,
+          "theaters": 59,
+          "rank": 22,
+          "last_week_ratio": 206.5
+        },
+        {
+          "moviename": "Let’s Go! Koshin 2019 – Kids Version",
+          "japanese name": "れっしゃだいこうしん２０１９ キッズバージョン",
+          "sales": 1061,
+          "seats": 36350,
+          "showtimes": 205,
+          "theaters": 91,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Searching for Ozaki Toyohiko",
+          "japanese name": "尾崎豊を探して",
+          "sales": 955,
+          "seats": 4158,
+          "showtimes": 30,
+          "theaters": 90,
+          "rank": 24,
+          "last_week_ratio": 102.4
+        },
+        {
+          "moviename": "Tomorrow, in a world without you",
+          "japanese name": "明日、キミのいない世界で",
+          "sales": 856,
+          "seats": 4915,
+          "showtimes": 31,
+          "theaters": 43,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Frozen 2",
+          "japanese name": "アナと雪の女王２",
+          "sales": 119016,
+          "seats": 327532,
+          "showtimes": 1393,
+          "theaters": 305,
+          "rank": 1,
+          "last_week_ratio": 163.6
+        },
+        {
+          "moviename": "Star Wars: The Skywalker Saga",
+          "japanese name": "スター・ウォーズ スカイウォーカーの夜明け",
+          "sales": 80462,
+          "seats": 260024,
+          "showtimes": 1481,
+          "theaters": 305,
+          "rank": 2,
+          "last_week_ratio": 193.4
+        },
+        {
+          "moviename": "Kaizoku: Final Game",
+          "japanese name": "カイジ ファイナルゲーム",
+          "sales": 73051,
+          "seats": 406683,
+          "showtimes": 1227,
+          "theaters": 293,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ford vs Ferrari",
+          "japanese name": "フォードｖｓフェラーリ",
+          "sales": 41947,
+          "seats": 245716,
+          "showtimes": 1253,
+          "theaters": 302,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Parasite: The Family in the Semi-Basement",
+          "japanese name": "パラサイト 半地下の家族",
+          "sales": 36778,
+          "seats": 80908,
+          "showtimes": 402,
+          "theaters": 109,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE Heroes: Rising",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ヒーローズ：ライジング",
+          "sales": 24698,
+          "seats": 80634,
+          "showtimes": 631,
+          "theaters": 274,
+          "rank": 6,
+          "last_week_ratio": 164.6
+        },
+        {
+          "moviename": "The Man Who Is Hard to Live With: Welcome Back, Toru-san",
+          "japanese name": "男はつらいよ お帰り 寅さん",
+          "sales": 24305,
+          "seats": 130438,
+          "showtimes": 945,
+          "theaters": 291,
+          "rank": 7,
+          "last_week_ratio": 115.9
+        },
+        {
+          "moviename": "At 0:00 a.m., come and kiss me.",
+          "japanese name": "午前０時、キスしに来てよ",
+          "sales": 16381,
+          "seats": 31937,
+          "showtimes": 239,
+          "theaters": 212,
+          "rank": 8,
+          "last_week_ratio": 134.1
+        },
+        {
+          "moviename": "Kamen Rider Reiwa: The First Generation",
+          "japanese name": "仮面ライダー 令和 ザ・ファースト・ジェネレーション",
+          "sales": 14712,
+          "seats": 64081,
+          "showtimes": 517,
+          "theaters": 274,
+          "rank": 9,
+          "last_week_ratio": 187.5
+        },
+        {
+          "moviename": "Movie: Monster Academy Y: Can Cats Become Heroes?",
+          "japanese name": "映画 妖怪学園Ｙ 猫はＨＥＲＯになれるか",
+          "sales": 14406,
+          "seats": 47099,
+          "showtimes": 380,
+          "theaters": 272,
+          "rank": 10,
+          "last_week_ratio": 125.5
+        },
+        {
+          "moviename": "Murders in the House of the Dead",
+          "japanese name": "屍人荘の殺人",
+          "sales": 11133,
+          "seats": 36299,
+          "showtimes": 294,
+          "theaters": 274,
+          "rank": 11,
+          "last_week_ratio": 133.8
+        },
+        {
+          "moviename": "Movie: Sumikko Gurashi: The Picture Book That Takes Off and the Secret Code",
+          "japanese name": "映画 すみっコぐらし とびだす絵本とひみつのコ",
+          "sales": 10769,
+          "seats": 46202,
+          "showtimes": 303,
+          "theaters": 186,
+          "rank": 12,
+          "last_week_ratio": 167.4
+        },
+        {
+          "moviename": "Downton Abbey",
+          "japanese name": "ダウントン・アビー",
+          "sales": 9403,
+          "seats": 37139,
+          "showtimes": 272,
+          "theaters": 78,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Shinkalion: The Superhuman Alpha-X from the Future",
+          "japanese name": "劇場版 新幹線変形ロボ シンカリオン 未来からきた神速のＡＬＦＡ－Ｘ",
+          "sales": 8137,
+          "seats": 57078,
+          "showtimes": 418,
+          "theaters": 178,
+          "rank": 14,
+          "last_week_ratio": 184.3
+        },
+        {
+          "moviename": "Jumanji: Next Level",
+          "japanese name": "ジュマンジ／ネクスト・レベル",
+          "sales": 6780,
+          "seats": 20275,
+          "showtimes": 161,
+          "theaters": 271,
+          "rank": 15,
+          "last_week_ratio": 144.7
+        },
+        {
+          "moviename": "Lupin III: The First",
+          "japanese name": "ルパン三世 ＴＨＥ ＦＩＲＳＴ",
+          "sales": 5571,
+          "seats": 34639,
+          "showtimes": 257,
+          "theaters": 284,
+          "rank": 16,
+          "last_week_ratio": 102.4
+        },
+        {
+          "moviename": "Shiraisan",
+          "japanese name": "シライサン",
+          "sales": 3969,
+          "seats": 22373,
+          "showtimes": 151,
+          "theaters": 54,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hick and the Dragon: Adventure to the Holy Land",
+          "japanese name": "ヒックとドラゴン 聖地への冒険",
+          "sales": 3807,
+          "seats": 27797,
+          "showtimes": 208,
+          "theaters": 245,
+          "rank": 18,
+          "last_week_ratio": 104
+        },
+        {
+          "moviename": "KING OF PRISM ALL STARS Prism Show☆Top Ten Over The Rain",
+          "japanese name": "ＫＩＮＧ ＯＦ ＰＲＩＳＭ ＡＬＬ ＳＴＡＲＳ プリズムショー☆ベストテン Ｏｖｅｒ Ｔｈｅ Ｒａｉ",
+          "sales": 2367,
+          "seats": 23336,
+          "showtimes": 111,
+          "theaters": 29,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Shaun the Sheep: UFO Fieber!",
+          "japanese name": "映画 ひつじのショーン ＵＦＯフィーバー！",
+          "sales": 2330,
+          "seats": 12515,
+          "showtimes": 93,
+          "theaters": 91,
+          "rank": 20,
+          "last_week_ratio": 103.2
+        },
+        {
+          "moviename": "Searching for Ozaki Toyohiko",
+          "japanese name": "尾崎豊を探して",
+          "sales": 1937,
+          "seats": 10923,
+          "showtimes": 80,
+          "theaters": 90,
+          "rank": 21,
+          "last_week_ratio": 109.6
+        },
+        {
+          "moviename": "In some far-off corners of this world (and many more like them)",
+          "japanese name": "この世界の（さらにいくつもの）片隅に",
+          "sales": 1802,
+          "seats": 8326,
+          "showtimes": 66,
+          "theaters": 59,
+          "rank": 22,
+          "last_week_ratio": 173.8
+        },
+        {
+          "moviename": "Tomorrow, in a world without you",
+          "japanese name": "明日、キミのいない世界で",
+          "sales": 1724,
+          "seats": 12306,
+          "showtimes": 74,
+          "theaters": 43,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shinema Kabuki: Kōbunshō, Yoshida-ya",
+          "japanese name": "シネマ歌舞伎 廓文章 吉田屋",
+          "sales": 1512,
+          "seats": 6982,
+          "showtimes": 45,
+          "theaters": 43,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Teen Spirit",
+          "japanese name": "ティーンスピリット",
+          "sales": 1378,
+          "seats": 14338,
+          "showtimes": 112,
+          "theaters": 41,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Frozen 2",
+          "japanese name": "アナと雪の女王２",
+          "sales": 121167,
+          "seats": 384801,
+          "showtimes": 1664,
+          "theaters": 305,
+          "rank": 1,
+          "last_week_ratio": 161.4
+        },
+        {
+          "moviename": "Star Wars: The Skywalker Saga",
+          "japanese name": "スター・ウォーズ スカイウォーカーの夜明け",
+          "sales": 84985,
+          "seats": 335224,
+          "showtimes": 1912,
+          "theaters": 305,
+          "rank": 2,
+          "last_week_ratio": 178.4
+        },
+        {
+          "moviename": "Kaizoku: Final Game",
+          "japanese name": "カイジ ファイナルゲーム",
+          "sales": 80924,
+          "seats": 508605,
+          "showtimes": 1538,
+          "theaters": 293,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ford vs Ferrari",
+          "japanese name": "フォードｖｓフェラーリ",
+          "sales": 46009,
+          "seats": 316453,
+          "showtimes": 1598,
+          "theaters": 302,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Parasite: The Family in the Semi-Basement",
+          "japanese name": "パラサイト 半地下の家族",
+          "sales": 40632,
+          "seats": 103698,
+          "showtimes": 516,
+          "theaters": 109,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE Heroes: Rising",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ヒーローズ：ライジング",
+          "sales": 25721,
+          "seats": 101619,
+          "showtimes": 793,
+          "theaters": 274,
+          "rank": 6,
+          "last_week_ratio": 157.6
+        },
+        {
+          "moviename": "The Man Who Is Hard to Live With: Welcome Back, Toru-san",
+          "japanese name": "男はつらいよ お帰り 寅さん",
+          "sales": 24632,
+          "seats": 140978,
+          "showtimes": 1024,
+          "theaters": 291,
+          "rank": 7,
+          "last_week_ratio": 113.9
+        },
+        {
+          "moviename": "At 0:00 a.m., come and kiss me.",
+          "japanese name": "午前０時、キスしに来てよ",
+          "sales": 16615,
+          "seats": 36099,
+          "showtimes": 272,
+          "theaters": 212,
+          "rank": 8,
+          "last_week_ratio": 131.2
+        },
+        {
+          "moviename": "Kamen Rider Reiwa: The First Generation",
+          "japanese name": "仮面ライダー 令和 ザ・ファースト・ジェネレーション",
+          "sales": 14773,
+          "seats": 65543,
+          "showtimes": 529,
+          "theaters": 274,
+          "rank": 9,
+          "last_week_ratio": 183.1
+        },
+        {
+          "moviename": "Movie: Monster Academy Y: Can Cats Become Heroes?",
+          "japanese name": "映画 妖怪学園Ｙ 猫はＨＥＲＯになれるか",
+          "sales": 14407,
+          "seats": 47176,
+          "showtimes": 381,
+          "theaters": 272,
+          "rank": 10,
+          "last_week_ratio": 120.3
+        },
+        {
+          "moviename": "Murders in the House of the Dead",
+          "japanese name": "屍人荘の殺人",
+          "sales": 11920,
+          "seats": 61205,
+          "showtimes": 487,
+          "theaters": 274,
+          "rank": 11,
+          "last_week_ratio": 128.8
+        },
+        {
+          "moviename": "Movie: Sumikko Gurashi: The Picture Book That Takes Off and the Secret Code",
+          "japanese name": "映画 すみっコぐらし とびだす絵本とひみつのコ",
+          "sales": 10927,
+          "seats": 48556,
+          "showtimes": 319,
+          "theaters": 186,
+          "rank": 12,
+          "last_week_ratio": 167.8
+        },
+        {
+          "moviename": "Downton Abbey",
+          "japanese name": "ダウントン・アビー",
+          "sales": 9772,
+          "seats": 47678,
+          "showtimes": 350,
+          "theaters": 78,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Jumanji: Next Level",
+          "japanese name": "ジュマンジ／ネクスト・レベル",
+          "sales": 8220,
+          "seats": 39584,
+          "showtimes": 310,
+          "theaters": 271,
+          "rank": 14,
+          "last_week_ratio": 148.3
+        },
+        {
+          "moviename": "Theatrical Version: Shinkalion: The Superhuman Alpha-X from the Future",
+          "japanese name": "劇場版 新幹線変形ロボ シンカリオン 未来からきた神速のＡＬＦＡ－Ｘ",
+          "sales": 8155,
+          "seats": 58202,
+          "showtimes": 427,
+          "theaters": 178,
+          "rank": 15,
+          "last_week_ratio": 179.3
+        },
+        {
+          "moviename": "Lupin III: The First",
+          "japanese name": "ルパン三世 ＴＨＥ ＦＩＲＳＴ",
+          "sales": 6047,
+          "seats": 47407,
+          "showtimes": 351,
+          "theaters": 284,
+          "rank": 16,
+          "last_week_ratio": 100
+        },
+        {
+          "moviename": "Shiraisan",
+          "japanese name": "シライサン",
+          "sales": 4407,
+          "seats": 30732,
+          "showtimes": 206,
+          "theaters": 54,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hick and the Dragon: Adventure to the Holy Land",
+          "japanese name": "ヒックとドラゴン 聖地への冒険",
+          "sales": 3992,
+          "seats": 33955,
+          "showtimes": 249,
+          "theaters": 245,
+          "rank": 18,
+          "last_week_ratio": 101.8
+        },
+        {
+          "moviename": "KING OF PRISM ALL STARS Prism Show☆Top Ten Over The Rain",
+          "japanese name": "ＫＩＮＧ ＯＦ ＰＲＩＳＭ ＡＬＬ ＳＴＡＲＳ プリズムショー☆ベストテン Ｏｖｅｒ Ｔｈｅ Ｒａｉ",
+          "sales": 2965,
+          "seats": 31175,
+          "showtimes": 148,
+          "theaters": 29,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Searching for Ozaki Toyohiko",
+          "japanese name": "尾崎豊を探して",
+          "sales": 2384,
+          "seats": 17135,
+          "showtimes": 126,
+          "theaters": 90,
+          "rank": 20,
+          "last_week_ratio": 113.5
+        },
+        {
+          "moviename": "Movie: Shaun the Sheep: UFO Fieber!",
+          "japanese name": "映画 ひつじのショーン ＵＦＯフィーバー！",
+          "sales": 2332,
+          "seats": 12651,
+          "showtimes": 94,
+          "theaters": 91,
+          "rank": 21,
+          "last_week_ratio": 102.4
+        },
+        {
+          "moviename": "In some far-off corners of this world (and many more like them)",
+          "japanese name": "この世界の（さらにいくつもの）片隅に",
+          "sales": 1922,
+          "seats": 10337,
+          "showtimes": 85,
+          "theaters": 59,
+          "rank": 22,
+          "last_week_ratio": 164.1
+        },
+        {
+          "moviename": "Tomorrow, in a world without you",
+          "japanese name": "明日、キミのいない世界で",
+          "sales": 1829,
+          "seats": 17301,
+          "showtimes": 109,
+          "theaters": 43,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Teen Spirit",
+          "japanese name": "ティーンスピリット",
+          "sales": 1595,
+          "seats": 20434,
+          "showtimes": 155,
+          "theaters": 41,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shinema Kabuki: Kōbunshō, Yoshida-ya",
+          "japanese name": "シネマ歌舞伎 廓文章 吉田屋",
+          "sales": 1512,
+          "seats": 6982,
+          "showtimes": 45,
+          "theaters": 43,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

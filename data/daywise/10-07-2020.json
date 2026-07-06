@@ -1,0 +1,773 @@
+{
+  "date": "10-07-2020",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Invisible Man",
+          "japanese name": "透明人間",
+          "sales": 2371,
+          "seats": 32779,
+          "showtimes": 304,
+          "theaters": 155,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Spirited Away",
+          "japanese name": "千と千尋の神隠し",
+          "sales": 2346,
+          "seats": 54636,
+          "showtimes": 438,
+          "theaters": 305,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Princess Mononoke",
+          "japanese name": "もののけ姫",
+          "sales": 2329,
+          "seats": 44441,
+          "showtimes": 395,
+          "theaters": 303,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nausicaa of the Valley of the Wind",
+          "japanese name": "風の谷のナウシカ",
+          "sales": 2286,
+          "seats": 41257,
+          "showtimes": 397,
+          "theaters": 305,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "What’s the point of being popular?",
+          "japanese name": "私がモテてどうすんだ",
+          "sales": 2036,
+          "seats": 75810,
+          "showtimes": 586,
+          "theaters": 248,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rambo: Last Blood",
+          "japanese name": "ランボー ラスト・ブラッド",
+          "sales": 1667,
+          "seats": 31531,
+          "showtimes": 439,
+          "theaters": 297,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MOTHER MASTER",
+          "japanese name": "ＭＯＴＨＥＲ マザー",
+          "sales": 1571,
+          "seats": 20877,
+          "showtimes": 295,
+          "theaters": 195,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dr. Doolittle",
+          "japanese name": "ドクター・ドリトル",
+          "sales": 1229,
+          "seats": 24526,
+          "showtimes": 379,
+          "theaters": 301,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "黑暗骑士",
+          "japanese name": "ダークナイト",
+          "sales": 1035,
+          "seats": 9922,
+          "showtimes": 113,
+          "theaters": 93,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "瓦维斯·韦布斯",
+          "japanese name": "ＷＡＶＥＳ ウェイブス",
+          "sales": 923,
+          "seats": 16627,
+          "showtimes": 195,
+          "theaters": 109,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wednesday disappeared.",
+          "japanese name": "水曜日が消えた",
+          "sales": 527,
+          "seats": 5209,
+          "showtimes": 73,
+          "theaters": 77,
+          "rank": 11,
+          "last_week_ratio": 115.1
+        },
+        {
+          "moviename": "Rainy Day in New York",
+          "japanese name": "レイニーデイインニューヨーク",
+          "sales": 521,
+          "seats": 5657,
+          "showtimes": 85,
+          "theaters": 61,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Story of My Life: My Youthful Days",
+          "japanese name": "ストーリー・オブ・マイライフ わたしの若草物語",
+          "sales": 476,
+          "seats": 8759,
+          "showtimes": 136,
+          "theaters": 284,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hunter Killer, dive in.",
+          "japanese name": "ハンターキラー 潜航せよ",
+          "sales": 425,
+          "seats": 11346,
+          "showtimes": 52,
+          "theaters": 26,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Wandering Dutchman <MET Live Viewing 2019–20>",
+          "japanese name": "さまよえるオランダ人 ＜ＭＥＴライブビューイング２０１９－２０＞",
+          "sales": 385,
+          "seats": 1205,
+          "showtimes": 15,
+          "theaters": 16,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fukushima 50",
+          "japanese name": "Ｆｕｋｕｓｈｉｍａ ５０",
+          "sales": 381,
+          "seats": 5047,
+          "showtimes": 79,
+          "theaters": 121,
+          "rank": 16,
+          "last_week_ratio": 886
+        },
+        {
+          "moviename": "Sonic the Movie",
+          "japanese name": "ソニック・ザ・ムービー",
+          "sales": 342,
+          "seats": 19524,
+          "showtimes": 315,
+          "theaters": 261,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ged Battle Chronicles",
+          "japanese name": "ゲド戦記",
+          "sales": 297,
+          "seats": 10701,
+          "showtimes": 153,
+          "theaters": 294,
+          "rank": 18,
+          "last_week_ratio": 107.6
+        },
+        {
+          "moviename": "Cassette Tape Diaries",
+          "japanese name": "カセットテープ・ダイアリーズ",
+          "sales": 261,
+          "seats": 1982,
+          "showtimes": 30,
+          "theaters": 32,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "＜Monthly Kabuki 2020＞Selected Performances / Stick Binding",
+          "japanese name": "＜月イチ歌舞伎２０２０＞喜撰／棒しばり",
+          "sales": 256,
+          "seats": 1787,
+          "showtimes": 23,
+          "theaters": 24,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Haven’t fired a single shot yet.",
+          "japanese name": "一度も撃ってません",
+          "sales": 248,
+          "seats": 2724,
+          "showtimes": 42,
+          "theaters": 35,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hot Faze: We’re the Super Police Men!",
+          "japanese name": "ホット・ファズ 俺たちスーパーポリスメン！",
+          "sales": 227,
+          "seats": 4988,
+          "showtimes": 67,
+          "theaters": 62,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Balloon: A Miraculous Escape Flight",
+          "japanese name": "バルーン 奇蹟の脱出飛行",
+          "sales": 149,
+          "seats": 683,
+          "showtimes": 8,
+          "theaters": 5,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Edisons’ Game",
+          "japanese name": "エジソンズ・ゲーム",
+          "sales": 147,
+          "seats": 2485,
+          "showtimes": 37,
+          "theaters": 83,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Elephant Man <4K Restored Version>",
+          "japanese name": "エレファントマン ＜４Ｋ修復版＞",
+          "sales": 121,
+          "seats": 1124,
+          "showtimes": 17,
+          "theaters": 25,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Spirited Away",
+          "japanese name": "千と千尋の神隠し",
+          "sales": 7322,
+          "seats": 99672,
+          "showtimes": 810,
+          "theaters": 305,
+          "rank": 1,
+          "last_week_ratio": 102.2
+        },
+        {
+          "moviename": "Princess Mononoke",
+          "japanese name": "もののけ姫",
+          "sales": 6705,
+          "seats": 84892,
+          "showtimes": 757,
+          "theaters": 303,
+          "rank": 2,
+          "last_week_ratio": 106.1
+        },
+        {
+          "moviename": "Nausicaa of the Valley of the Wind",
+          "japanese name": "風の谷のナウシカ",
+          "sales": 5576,
+          "seats": 79986,
+          "showtimes": 743,
+          "theaters": 305,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Invisible Man",
+          "japanese name": "透明人間",
+          "sales": 4707,
+          "seats": 64169,
+          "showtimes": 598,
+          "theaters": 155,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "What’s the point of being popular?",
+          "japanese name": "私がモテてどうすんだ",
+          "sales": 4380,
+          "seats": 134190,
+          "showtimes": 1042,
+          "theaters": 248,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rambo: Last Blood",
+          "japanese name": "ランボー ラスト・ブラッド",
+          "sales": 2642,
+          "seats": 54487,
+          "showtimes": 762,
+          "theaters": 297,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MOTHER MASTER",
+          "japanese name": "ＭＯＴＨＥＲ マザー",
+          "sales": 2627,
+          "seats": 35769,
+          "showtimes": 507,
+          "theaters": 195,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dr. Doolittle",
+          "japanese name": "ドクター・ドリトル",
+          "sales": 2164,
+          "seats": 44012,
+          "showtimes": 675,
+          "theaters": 301,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "瓦维斯·韦布斯",
+          "japanese name": "ＷＡＶＥＳ ウェイブス",
+          "sales": 2034,
+          "seats": 30764,
+          "showtimes": 365,
+          "theaters": 109,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "黑暗骑士",
+          "japanese name": "ダークナイト",
+          "sales": 1576,
+          "seats": 13830,
+          "showtimes": 174,
+          "theaters": 93,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Story of My Life: My Youthful Days",
+          "japanese name": "ストーリー・オブ・マイライフ わたしの若草物語",
+          "sales": 1215,
+          "seats": 19444,
+          "showtimes": 297,
+          "theaters": 284,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hunter Killer, dive in.",
+          "japanese name": "ハンターキラー 潜航せよ",
+          "sales": 1121,
+          "seats": 24065,
+          "showtimes": 115,
+          "theaters": 26,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ged Battle Chronicles",
+          "japanese name": "ゲド戦記",
+          "sales": 1118,
+          "seats": 28199,
+          "showtimes": 380,
+          "theaters": 294,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rainy Day in New York",
+          "japanese name": "レイニーデイインニューヨーク",
+          "sales": 1103,
+          "seats": 11341,
+          "showtimes": 167,
+          "theaters": 61,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wednesday disappeared.",
+          "japanese name": "水曜日が消えた",
+          "sales": 1041,
+          "seats": 10056,
+          "showtimes": 139,
+          "theaters": 77,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sonic the Movie",
+          "japanese name": "ソニック・ザ・ムービー",
+          "sales": 724,
+          "seats": 33110,
+          "showtimes": 540,
+          "theaters": 261,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fukushima 50",
+          "japanese name": "Ｆｕｋｕｓｈｉｍａ ５０",
+          "sales": 557,
+          "seats": 7959,
+          "showtimes": 120,
+          "theaters": 121,
+          "rank": 17,
+          "last_week_ratio": 1237.8
+        },
+        {
+          "moviename": "Cassette Tape Diaries",
+          "japanese name": "カセットテープ・ダイアリーズ",
+          "sales": 443,
+          "seats": 3807,
+          "showtimes": 59,
+          "theaters": 32,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hot Faze: We’re the Super Police Men!",
+          "japanese name": "ホット・ファズ 俺たちスーパーポリスメン！",
+          "sales": 435,
+          "seats": 10202,
+          "showtimes": 134,
+          "theaters": 62,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Haven’t fired a single shot yet.",
+          "japanese name": "一度も撃ってません",
+          "sales": 417,
+          "seats": 4240,
+          "showtimes": 66,
+          "theaters": 35,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Wandering Dutchman <MET Live Viewing 2019–20>",
+          "japanese name": "さまよえるオランダ人 ＜ＭＥＴライブビューイング２０１９－２０＞",
+          "sales": 413,
+          "seats": 1301,
+          "showtimes": 16,
+          "theaters": 16,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Beauty and the Beast",
+          "japanese name": "美女と野獣",
+          "sales": 313,
+          "seats": 11940,
+          "showtimes": 180,
+          "theaters": 215,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Edisons’ Game",
+          "japanese name": "エジソンズ・ゲーム",
+          "sales": 281,
+          "seats": 5390,
+          "showtimes": 78,
+          "theaters": 83,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "＜Monthly Kabuki 2020＞Selected Performances / Stick Binding",
+          "japanese name": "＜月イチ歌舞伎２０２０＞喜撰／棒しばり",
+          "sales": 265,
+          "seats": 1869,
+          "showtimes": 24,
+          "theaters": 24,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Elephant Man <4K Restored Version>",
+          "japanese name": "エレファントマン ＜４Ｋ修復版＞",
+          "sales": 261,
+          "seats": 2509,
+          "showtimes": 37,
+          "theaters": 25,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Spirited Away",
+          "japanese name": "千と千尋の神隠し",
+          "sales": 11454,
+          "seats": 124729,
+          "showtimes": 1026,
+          "theaters": 305,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Princess Mononoke",
+          "japanese name": "もののけ姫",
+          "sales": 11322,
+          "seats": 110607,
+          "showtimes": 999,
+          "theaters": 303,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nausicaa of the Valley of the Wind",
+          "japanese name": "風の谷のナウシカ",
+          "sales": 9171,
+          "seats": 102824,
+          "showtimes": 976,
+          "theaters": 305,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Invisible Man",
+          "japanese name": "透明人間",
+          "sales": 6195,
+          "seats": 80078,
+          "showtimes": 748,
+          "theaters": 155,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "What’s the point of being popular?",
+          "japanese name": "私がモテてどうすんだ",
+          "sales": 5543,
+          "seats": 163679,
+          "showtimes": 1272,
+          "theaters": 248,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rambo: Last Blood",
+          "japanese name": "ランボー ラスト・ブラッド",
+          "sales": 3484,
+          "seats": 72032,
+          "showtimes": 1002,
+          "theaters": 297,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MOTHER Mother",
+          "japanese name": "ＭＯＴＨＥＲ マザー",
+          "sales": 3423,
+          "seats": 46530,
+          "showtimes": 663,
+          "theaters": 195,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "WAVES Waves",
+          "japanese name": "ＷＡＶＥＳ ウェイブス",
+          "sales": 3088,
+          "seats": 39253,
+          "showtimes": 472,
+          "theaters": 109,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dark Knight",
+          "japanese name": "ダークナイト",
+          "sales": 2889,
+          "seats": 20584,
+          "showtimes": 252,
+          "theaters": 93,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dr. Dolittle",
+          "japanese name": "ドクター・ドリトル",
+          "sales": 2536,
+          "seats": 49531,
+          "showtimes": 765,
+          "theaters": 301,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ged Battle Chronicles",
+          "japanese name": "ゲド戦記",
+          "sales": 1413,
+          "seats": 32613,
+          "showtimes": 453,
+          "theaters": 294,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Story of My Life: My Youthful Days",
+          "japanese name": "ストーリー・オブ・マイライフ わたしの若草物語",
+          "sales": 1397,
+          "seats": 21426,
+          "showtimes": 332,
+          "theaters": 284,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rainy Day in New York",
+          "japanese name": "レイニーデイインニューヨーク",
+          "sales": 1390,
+          "seats": 14666,
+          "showtimes": 212,
+          "theaters": 61,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hunter Killer, dive in.",
+          "japanese name": "ハンターキラー 潜航せよ",
+          "sales": 1386,
+          "seats": 28843,
+          "showtimes": 139,
+          "theaters": 26,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wednesday disappeared.",
+          "japanese name": "水曜日が消えた",
+          "sales": 1196,
+          "seats": 12004,
+          "showtimes": 168,
+          "theaters": 77,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sonic the Movie",
+          "japanese name": "ソニック・ザ・ムービー",
+          "sales": 828,
+          "seats": 35157,
+          "showtimes": 578,
+          "theaters": 261,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hot Faze: We’re the Super Police Men!",
+          "japanese name": "ホット・ファズ 俺たちスーパーポリスメン！",
+          "sales": 667,
+          "seats": 14364,
+          "showtimes": 188,
+          "theaters": 62,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Cassette Tape Diaries",
+          "japanese name": "カセットテープ・ダイアリーズ",
+          "sales": 622,
+          "seats": 4695,
+          "showtimes": 75,
+          "theaters": 32,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fukushima 50",
+          "japanese name": "Ｆｕｋｕｓｈｉｍａ ５０",
+          "sales": 564,
+          "seats": 8163,
+          "showtimes": 124,
+          "theaters": 121,
+          "rank": 19,
+          "last_week_ratio": 1044.4
+        },
+        {
+          "moviename": "Haven’t fired a single shot yet.",
+          "japanese name": "一度も撃ってません",
+          "sales": 451,
+          "seats": 4901,
+          "showtimes": 76,
+          "theaters": 35,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Edisons’ Game",
+          "japanese name": "エジソンズ・ゲーム",
+          "sales": 421,
+          "seats": 6994,
+          "showtimes": 101,
+          "theaters": 83,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Wandering Dutchman <MET Live Viewing 2019–20>",
+          "japanese name": "さまよえるオランダ人 ＜ＭＥＴライブビューイング２０１９－２０＞",
+          "sales": 413,
+          "seats": 1301,
+          "showtimes": 16,
+          "theaters": 16,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "AKIRA Akira",
+          "japanese name": "ＡＫＩＲＡ アキラ",
+          "sales": 397,
+          "seats": 10069,
+          "showtimes": 95,
+          "theaters": 50,
+          "rank": 23,
+          "last_week_ratio": 108.2
+        },
+        {
+          "moviename": "Beauty and the Beast",
+          "japanese name": "美女と野獣",
+          "sales": 377,
+          "seats": 13746,
+          "showtimes": 207,
+          "theaters": 215,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Stage “Mobile Suit Gundam 00” Live Screening",
+          "japanese name": "舞台「機動戦士ガンダム００」ライブビューイング",
+          "sales": 289,
+          "seats": 1914,
+          "showtimes": 41,
+          "theaters": 29,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

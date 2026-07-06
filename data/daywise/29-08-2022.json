@@ -1,0 +1,773 @@
+{
+  "date": "29-08-2022",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "One Piece Film Red",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 40078,
+          "seats": 224628,
+          "showtimes": 718,
+          "theaters": 197,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Akira and Akira",
+          "japanese name": "アキラとあきら",
+          "sales": 8967,
+          "seats": 89664,
+          "showtimes": 383,
+          "theaters": 187,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The order to move around is like music to the band!",
+          "japanese name": "異動辞令は音楽隊！",
+          "sales": 8155,
+          "seats": 50728,
+          "showtimes": 330,
+          "theaters": 169,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Jurassic World: The New Rulers",
+          "japanese name": "ジュラシック・ワールド／新たなる支配者",
+          "sales": 6808,
+          "seats": 51344,
+          "showtimes": 297,
+          "theaters": 200,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Minions Fever",
+          "japanese name": "ミニオンズ フィーバー",
+          "sales": 5728,
+          "seats": 53259,
+          "showtimes": 321,
+          "theaters": 196,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Top Gun: Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 4995,
+          "seats": 29154,
+          "showtimes": 165,
+          "theaters": 186,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "25th Pokémon Movie Festival: Pokémon the Movie 2007: Diamond & Pearl: Dialga vs. Palkia",
+          "japanese name": "２５周年ポケモン映画祭 劇場版ポケットモンスター２００７ ダイヤモンド・パール ディアルガＶＳパルキ",
+          "sales": 4310,
+          "seats": 57785,
+          "showtimes": 356,
+          "theaters": 173,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kingdom 2: Towards the Distant Lands",
+          "japanese name": "キングダム２ 遥かなる大地へ",
+          "sales": 3536,
+          "seats": 24397,
+          "showtimes": 171,
+          "theaters": 196,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "NOPE Nope",
+          "japanese name": "ＮＯＰＥ ノープ",
+          "sales": 3092,
+          "seats": 32015,
+          "showtimes": 204,
+          "theaters": 126,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tonight, even if this love disappears from the world",
+          "japanese name": "今夜、世界からこの恋が消えても",
+          "sales": 2768,
+          "seats": 13688,
+          "showtimes": 93,
+          "theaters": 163,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TANG Tang",
+          "japanese name": "ＴＡＮＧ タング",
+          "sales": 2183,
+          "seats": 24439,
+          "showtimes": 188,
+          "theaters": 197,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SABAKAN",
+          "japanese name": "サバカン ＳＡＢＡＫＡＮ",
+          "sales": 1681,
+          "seats": 13794,
+          "showtimes": 110,
+          "theaters": 109,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "DC, keep going! Super Pets",
+          "japanese name": "ＤＣ がんばれ！スーパーペット",
+          "sales": 1350,
+          "seats": 43663,
+          "showtimes": 308,
+          "theaters": 151,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version of Tsurune: The First Shot",
+          "japanese name": "劇場版ツルネ－はじまりの一射－",
+          "sales": 1346,
+          "seats": 12724,
+          "showtimes": 88,
+          "theaters": 64,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sonic the Movie/Sonic vs. Knuckles",
+          "japanese name": "ソニック・ザ・ムービー／ソニック ｖｓ ナックルズ",
+          "sales": 1137,
+          "seats": 20232,
+          "showtimes": 165,
+          "theaters": 145,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "How",
+          "japanese name": "ハウ",
+          "sales": 1113,
+          "seats": 20780,
+          "showtimes": 164,
+          "theaters": 170,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Violent Action",
+          "japanese name": "バイオレンスアクション",
+          "sales": 789,
+          "seats": 17332,
+          "showtimes": 136,
+          "theaters": 173,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Paw Patrol The Movie",
+          "japanese name": "パウ・パトロール ザ・ムービー",
+          "sales": 650,
+          "seats": 10222,
+          "showtimes": 54,
+          "theaters": 21,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sengoku Yoroi: Female Hell",
+          "japanese name": "眠狂四郎 女地獄",
+          "sales": 448,
+          "seats": 5474,
+          "showtimes": 33,
+          "theaters": 18,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sea Four Me",
+          "japanese name": "シーフォーミー",
+          "sales": 277,
+          "seats": 8002,
+          "showtimes": 59,
+          "theaters": 37,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ghost Book: The Book of Ghosts",
+          "japanese name": "ゴーストブック おばけずかん",
+          "sales": 220,
+          "seats": 4534,
+          "showtimes": 33,
+          "theaters": 89,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rainman",
+          "japanese name": "レインマン",
+          "sales": 204,
+          "seats": 2287,
+          "showtimes": 19,
+          "theaters": 19,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Driving Miss Daisy",
+          "japanese name": "ドライビングＭｉｓｓデイジー",
+          "sales": 179,
+          "seats": 1882,
+          "showtimes": 18,
+          "theaters": 19,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Yurukamp△",
+          "japanese name": "映画 ゆるキャン△",
+          "sales": 174,
+          "seats": 1916,
+          "showtimes": 9,
+          "theaters": 28,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Zola Zola",
+          "japanese name": "Ｚｏｌａ ゾラ",
+          "sales": 144,
+          "seats": 3983,
+          "showtimes": 31,
+          "theaters": 22,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "One Piece Film Red",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 75026,
+          "seats": 410725,
+          "showtimes": 1326,
+          "theaters": 197,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Akira and Akira",
+          "japanese name": "アキラとあきら",
+          "sales": 14026,
+          "seats": 174362,
+          "showtimes": 750,
+          "theaters": 187,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Jurassic World: The New Rulers",
+          "japanese name": "ジュラシック・ワールド／新たなる支配者",
+          "sales": 13480,
+          "seats": 97577,
+          "showtimes": 589,
+          "theaters": 200,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The order to move around is like music to the band!",
+          "japanese name": "異動辞令は音楽隊！",
+          "sales": 10819,
+          "seats": 87839,
+          "showtimes": 571,
+          "theaters": 169,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Top Gun: Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 9400,
+          "seats": 57815,
+          "showtimes": 324,
+          "theaters": 186,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Minions Fever",
+          "japanese name": "ミニオンズ フィーバー",
+          "sales": 8653,
+          "seats": 76602,
+          "showtimes": 469,
+          "theaters": 196,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tonight, even if this love disappears from the world",
+          "japanese name": "今夜、世界からこの恋が消えても",
+          "sales": 6925,
+          "seats": 32333,
+          "showtimes": 230,
+          "theaters": 163,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kingdom 2: Towards the Distant Lands",
+          "japanese name": "キングダム２ 遥かなる大地へ",
+          "sales": 6857,
+          "seats": 50766,
+          "showtimes": 352,
+          "theaters": 196,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "25th Pokémon Movie Festival: Pokémon the Movie 2007: Diamond & Pearl: Dialga vs. Palkia",
+          "japanese name": "２５周年ポケモン映画祭 劇場版ポケットモンスター２００７ ダイヤモンド・パール ディアルガＶＳパルキ",
+          "sales": 6762,
+          "seats": 83207,
+          "showtimes": 525,
+          "theaters": 173,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "NOPE Nope",
+          "japanese name": "ＮＯＰＥ ノープ",
+          "sales": 6029,
+          "seats": 61786,
+          "showtimes": 395,
+          "theaters": 126,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TANG Tang",
+          "japanese name": "ＴＡＮＧ タング",
+          "sales": 3703,
+          "seats": 48356,
+          "showtimes": 364,
+          "theaters": 197,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Even dogs won’t eat it, but Charlie laughs anyway.",
+          "japanese name": "犬も食わねどチャーリーは笑う",
+          "sales": 2466,
+          "seats": 19737,
+          "showtimes": 103,
+          "theaters": 103,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SABAKAN",
+          "japanese name": "サバカン ＳＡＢＡＫＡＮ",
+          "sales": 2444,
+          "seats": 23612,
+          "showtimes": 189,
+          "theaters": 109,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version of Tsurune: The First Shot",
+          "japanese name": "劇場版ツルネ－はじまりの一射－",
+          "sales": 2202,
+          "seats": 23386,
+          "showtimes": 158,
+          "theaters": 64,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "DC, keep going! Super Pets",
+          "japanese name": "ＤＣ がんばれ！スーパーペット",
+          "sales": 1874,
+          "seats": 69497,
+          "showtimes": 488,
+          "theaters": 151,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sonic the Movie/Sonic vs. Knuckles",
+          "japanese name": "ソニック・ザ・ムービー／ソニック ｖｓ ナックルズ",
+          "sales": 1803,
+          "seats": 35110,
+          "showtimes": 284,
+          "theaters": 145,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "How",
+          "japanese name": "ハウ",
+          "sales": 1634,
+          "seats": 36204,
+          "showtimes": 284,
+          "theaters": 170,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Violent Action",
+          "japanese name": "バイオレンスアクション",
+          "sales": 1609,
+          "seats": 35069,
+          "showtimes": 272,
+          "theaters": 173,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sengoku Yoroi: Female Hell",
+          "japanese name": "眠狂四郎 女地獄",
+          "sales": 932,
+          "seats": 10083,
+          "showtimes": 61,
+          "theaters": 18,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Paw Patrol The Movie",
+          "japanese name": "パウ・パトロール ザ・ムービー",
+          "sales": 755,
+          "seats": 13079,
+          "showtimes": 70,
+          "theaters": 21,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Yurukamp△",
+          "japanese name": "映画 ゆるキャン△",
+          "sales": 485,
+          "seats": 4089,
+          "showtimes": 25,
+          "theaters": 28,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ghost Book: The Book of Ghosts",
+          "japanese name": "ゴーストブック おばけずかん",
+          "sales": 471,
+          "seats": 9921,
+          "showtimes": 75,
+          "theaters": 89,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sea Four Me",
+          "japanese name": "シーフォーミー",
+          "sales": 430,
+          "seats": 13573,
+          "showtimes": 96,
+          "theaters": 37,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Planet in Love (1995)",
+          "japanese name": "恋する惑星（１９９５）",
+          "sales": 287,
+          "seats": 436,
+          "showtimes": 2,
+          "theaters": 2,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Zola Zola",
+          "japanese name": "Ｚｏｌａ ゾラ",
+          "sales": 281,
+          "seats": 7475,
+          "showtimes": 57,
+          "theaters": 22,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "One Piece Film Red",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 88520,
+          "seats": 506719,
+          "showtimes": 1638,
+          "theaters": 197,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Jurassic World: The New Rulers",
+          "japanese name": "ジュラシック・ワールド／新たなる支配者",
+          "sales": 15912,
+          "seats": 129189,
+          "showtimes": 774,
+          "theaters": 200,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Akira and Akira",
+          "japanese name": "アキラとあきら",
+          "sales": 15429,
+          "seats": 219197,
+          "showtimes": 943,
+          "theaters": 187,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The order to move around is like music to the band!",
+          "japanese name": "異動辞令は音楽隊！",
+          "sales": 11536,
+          "seats": 112970,
+          "showtimes": 733,
+          "theaters": 169,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Top Gun: Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 11068,
+          "seats": 74184,
+          "showtimes": 428,
+          "theaters": 186,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Minions Fever",
+          "japanese name": "ミニオンズ フィーバー",
+          "sales": 8802,
+          "seats": 79099,
+          "showtimes": 486,
+          "theaters": 196,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kingdom 2: Towards the Distant Lands",
+          "japanese name": "キングダム２ 遥かなる大地へ",
+          "sales": 8183,
+          "seats": 72827,
+          "showtimes": 502,
+          "theaters": 196,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tonight, even if this love disappears from the world",
+          "japanese name": "今夜、世界からこの恋が消えても",
+          "sales": 7460,
+          "seats": 38121,
+          "showtimes": 274,
+          "theaters": 163,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "NOPE Nope",
+          "japanese name": "ＮＯＰＥ ノープ",
+          "sales": 7318,
+          "seats": 82254,
+          "showtimes": 528,
+          "theaters": 126,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "25th Pokémon Movie Festival: Pokémon the Movie 2007: Diamond & Pearl: Dialga vs. Palkia",
+          "japanese name": "２５周年ポケモン映画祭 劇場版ポケットモンスター２００７ ダイヤモンド・パール ディアルガＶＳパルキ",
+          "sales": 7263,
+          "seats": 90649,
+          "showtimes": 569,
+          "theaters": 173,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TANG Tang",
+          "japanese name": "ＴＡＮＧ タング",
+          "sales": 3941,
+          "seats": 62092,
+          "showtimes": 469,
+          "theaters": 197,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SABAKAN",
+          "japanese name": "サバカン ＳＡＢＡＫＡＮ",
+          "sales": 2640,
+          "seats": 29626,
+          "showtimes": 229,
+          "theaters": 109,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version of Tsurune: The First Shot",
+          "japanese name": "劇場版ツルネ－はじまりの一射－",
+          "sales": 2574,
+          "seats": 32041,
+          "showtimes": 208,
+          "theaters": 64,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Even dogs won’t eat it, but Charlie laughs anyway.",
+          "japanese name": "犬も食わねどチャーリーは笑う",
+          "sales": 2466,
+          "seats": 19737,
+          "showtimes": 103,
+          "theaters": 103,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Violent Action",
+          "japanese name": "バイオレンスアクション",
+          "sales": 1932,
+          "seats": 49253,
+          "showtimes": 387,
+          "theaters": 173,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "DC, keep going! Super Pets",
+          "japanese name": "ＤＣ がんばれ！スーパーペット",
+          "sales": 1915,
+          "seats": 75839,
+          "showtimes": 529,
+          "theaters": 151,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sonic the Movie/Sonic vs. Knuckles",
+          "japanese name": "ソニック・ザ・ムービー／ソニック ｖｓ ナックルズ",
+          "sales": 1889,
+          "seats": 39754,
+          "showtimes": 321,
+          "theaters": 145,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "How",
+          "japanese name": "ハウ",
+          "sales": 1701,
+          "seats": 40555,
+          "showtimes": 319,
+          "theaters": 170,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sengoku Yoroi: Female Hell",
+          "japanese name": "眠狂四郎 女地獄",
+          "sales": 1107,
+          "seats": 13189,
+          "showtimes": 79,
+          "theaters": 18,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Paw Patrol The Movie",
+          "japanese name": "パウ・パトロール ザ・ムービー",
+          "sales": 755,
+          "seats": 13203,
+          "showtimes": 71,
+          "theaters": 21,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Yurukamp△",
+          "japanese name": "映画 ゆるキャン△",
+          "sales": 556,
+          "seats": 4952,
+          "showtimes": 32,
+          "theaters": 28,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sea Four Me",
+          "japanese name": "シーフォーミー",
+          "sales": 537,
+          "seats": 18419,
+          "showtimes": 129,
+          "theaters": 37,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ghost Book: The Book of Ghosts",
+          "japanese name": "ゴーストブック おばけずかん",
+          "sales": 501,
+          "seats": 12067,
+          "showtimes": 88,
+          "theaters": 89,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Zola Zola",
+          "japanese name": "Ｚｏｌａ ゾラ",
+          "sales": 372,
+          "seats": 11012,
+          "showtimes": 80,
+          "theaters": 22,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Planet in Love (1995)",
+          "japanese name": "恋する惑星（１９９５）",
+          "sales": 317,
+          "seats": 537,
+          "showtimes": 3,
+          "theaters": 2,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

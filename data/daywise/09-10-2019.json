@@ -1,0 +1,522 @@
+{
+  "date": "09-10-2019",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Joker",
+          "japanese name": "ジョーカー",
+          "sales": 22372,
+          "seats": 173684,
+          "showtimes": 546,
+          "theaters": 270,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bees and Distant Thunder",
+          "japanese name": "蜜蜂と遠雷",
+          "sales": 12280,
+          "seats": 128643,
+          "showtimes": 570,
+          "theaters": 269,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I have no memory of it at all!",
+          "japanese name": "記憶にございません！",
+          "sales": 10697,
+          "seats": 96738,
+          "showtimes": 501,
+          "theaters": 277,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "John Wick: Parabellum",
+          "japanese name": "ジョン・ウィック：パラベラム",
+          "sales": 5089,
+          "seats": 56670,
+          "showtimes": 271,
+          "theaters": 162,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HIGH & LOW THE WORST×THE RAMPAGE",
+          "japanese name": "ＨｉＧＨ＆ＬＯＷ ＴＨＥ ＷＯＲＳＴ×ＴＨＥ ＲＡＭＰＡＧＥ",
+          "sales": 4105,
+          "seats": 131627,
+          "showtimes": 516,
+          "theaters": 268,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Inhumanity: Dazai Osamu and Three Women",
+          "japanese name": "人間失格 太宰治と３人の女たち",
+          "sales": 3320,
+          "seats": 24585,
+          "showtimes": 200,
+          "theaters": 261,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Weather Child",
+          "japanese name": "天気の子",
+          "sales": 2408,
+          "seats": 48663,
+          "showtimes": 358,
+          "theaters": 279,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kaguya-sama Wants to Be Confessed to~The Love and Brain Battle of Geniuses~",
+          "japanese name": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
+          "sales": 2002,
+          "seats": 49363,
+          "showtimes": 329,
+          "theaters": 248,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Renxia Academy",
+          "japanese name": "任侠学園",
+          "sales": 1568,
+          "seats": 21955,
+          "showtimes": 173,
+          "theaters": 156,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "“Hikita-san! You’re pregnant!” Special screening to mark the announcement",
+          "japanese name": "「ヒキタさん！ご懐妊ですよ」公開記念上映",
+          "sales": 1546,
+          "seats": 37054,
+          "showtimes": 265,
+          "theaters": 121,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ad Astra",
+          "japanese name": "アド・アストラ",
+          "sales": 1304,
+          "seats": 26019,
+          "showtimes": 207,
+          "theaters": 271,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hotel Mumbai",
+          "japanese name": "ホテル・ムンバイ",
+          "sales": 1270,
+          "seats": 8083,
+          "showtimes": 68,
+          "theaters": 72,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Ossanzu Love ~Love or Death~",
+          "japanese name": "劇場版 おっさんずラブ ～ＬＯＶＥ ｏｒ ＤＥＡＤ～",
+          "sales": 1138,
+          "seats": 10484,
+          "showtimes": 78,
+          "theaters": 268,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Wonderful Journey",
+          "japanese name": "僕のワンダフル・ジャーニー",
+          "sales": 961,
+          "seats": 17855,
+          "showtimes": 133,
+          "theaters": 222,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HELLO WORLD Hello World",
+          "japanese name": "ＨＥＬＬＯ ＷＯＲＬＤ ハロー・ワールド",
+          "sales": 935,
+          "seats": 30136,
+          "showtimes": 205,
+          "theaters": 219,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Aine Kleine Nachtmusik",
+          "japanese name": "アイネクライネナハトムジーク",
+          "sales": 814,
+          "seats": 7100,
+          "showtimes": 61,
+          "theaters": 112,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Lion King",
+          "japanese name": "ライオン・キング",
+          "sales": 792,
+          "seats": 17180,
+          "showtimes": 138,
+          "theaters": 269,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mystical: The First Kabuki Performance of 19 months",
+          "japanese name": "幽玄 １９月イチ歌舞伎",
+          "sales": 764,
+          "seats": 3788,
+          "showtimes": 26,
+          "theaters": 25,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Moving King!",
+          "japanese name": "引っ越し大名！",
+          "sales": 712,
+          "seats": 12449,
+          "showtimes": 96,
+          "theaters": 127,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Invisible witnesses",
+          "japanese name": "見えない目撃者",
+          "sales": 633,
+          "seats": 11895,
+          "showtimes": 96,
+          "theaters": 202,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Anabel: The Museum of the Dead",
+          "japanese name": "アナベル 死霊博物館",
+          "sales": 480,
+          "seats": 7580,
+          "showtimes": 62,
+          "theaters": 139,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shinema Kabuki: Yūgen",
+          "japanese name": "シネマ歌舞伎 幽玄",
+          "sales": 437,
+          "seats": 2007,
+          "showtimes": 18,
+          "theaters": 22,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Once Upon a Time in Hollywood",
+          "japanese name": "ワンス・アポン・ア・タイム・イン・ハリウッド",
+          "sales": 420,
+          "seats": 3431,
+          "showtimes": 24,
+          "theaters": 109,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Violet Evergarden: Side Story – Eternity and the Automaton Puppet",
+          "japanese name": "ヴァイオレット・エヴァーガーデン 外伝 永遠と自動手記人形",
+          "sales": 410,
+          "seats": 6685,
+          "showtimes": 32,
+          "theaters": 69,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Galaxy Heroes Legend Die Neue These: Star Chaos, Chapter One",
+          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 星乱 第一章",
+          "sales": 407,
+          "seats": 4986,
+          "showtimes": 34,
+          "theaters": 33,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Joker",
+          "japanese name": "ジョーカー",
+          "sales": 48964,
+          "seats": 331420,
+          "showtimes": 1042,
+          "theaters": 270,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bees and Distant Thunder",
+          "japanese name": "蜜蜂と遠雷",
+          "sales": 18460,
+          "seats": 227732,
+          "showtimes": 1011,
+          "theaters": 269,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I have no memory of it at all!",
+          "japanese name": "記憶にございません！",
+          "sales": 17596,
+          "seats": 167510,
+          "showtimes": 878,
+          "theaters": 277,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HIGH & LOW THE WORST×THE RAMPAGE",
+          "japanese name": "ＨｉＧＨ＆ＬＯＷ ＴＨＥ ＷＯＲＳＴ×ＴＨＥ ＲＡＭＰＡＧＥ",
+          "sales": 9599,
+          "seats": 253145,
+          "showtimes": 989,
+          "theaters": 268,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "John Wick: Parabellum",
+          "japanese name": "ジョン・ウィック：パラベラム",
+          "sales": 9139,
+          "seats": 106385,
+          "showtimes": 512,
+          "theaters": 162,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Inhumanity: Dazai Osamu and Three Women",
+          "japanese name": "人間失格 太宰治と３人の女たち",
+          "sales": 6808,
+          "seats": 47742,
+          "showtimes": 376,
+          "theaters": 261,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Weather Child",
+          "japanese name": "天気の子",
+          "sales": 4795,
+          "seats": 86175,
+          "showtimes": 641,
+          "theaters": 279,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kaguya-sama Wants to Be Confessed to~The Love and Brain Battle of Geniuses~",
+          "japanese name": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
+          "sales": 4639,
+          "seats": 88459,
+          "showtimes": 595,
+          "theaters": 248,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Ossanzu Love ~Love or Death~",
+          "japanese name": "劇場版 おっさんずラブ ～ＬＯＶＥ ｏｒ ＤＥＡＤ～",
+          "sales": 3209,
+          "seats": 32287,
+          "showtimes": 234,
+          "theaters": 268,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HELLO WORLD Hello World",
+          "japanese name": "ＨＥＬＬＯ ＷＯＲＬＤ ハロー・ワールド",
+          "sales": 2466,
+          "seats": 57942,
+          "showtimes": 399,
+          "theaters": 219,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ad Astra",
+          "japanese name": "アド・アストラ",
+          "sales": 2384,
+          "seats": 50006,
+          "showtimes": 389,
+          "theaters": 271,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Renxia Academy",
+          "japanese name": "任侠学園",
+          "sales": 2372,
+          "seats": 36875,
+          "showtimes": 293,
+          "theaters": 156,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "“Hikita-san! You’re pregnant!” Special screening to mark the announcement",
+          "japanese name": "「ヒキタさん！ご懐妊ですよ」公開記念上映",
+          "sales": 2165,
+          "seats": 57454,
+          "showtimes": 405,
+          "theaters": 121,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hotel Mumbai",
+          "japanese name": "ホテル・ムンバイ",
+          "sales": 2005,
+          "seats": 14634,
+          "showtimes": 122,
+          "theaters": 72,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Anabel: The Museum of the Dead",
+          "japanese name": "アナベル 死霊博物館",
+          "sales": 2005,
+          "seats": 21582,
+          "showtimes": 174,
+          "theaters": 139,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Metallica & San Francisco Symphony Orchestra: S&M2",
+          "japanese name": "メタリカ＆サンフランシスコ交響楽団：Ｓ＆Ｍ２",
+          "sales": 1793,
+          "seats": 4743,
+          "showtimes": 14,
+          "theaters": 16,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Invisible witnesses",
+          "japanese name": "見えない目撃者",
+          "sales": 1658,
+          "seats": 27526,
+          "showtimes": 214,
+          "theaters": 202,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Aine Kleine Nachtmusik",
+          "japanese name": "アイネクライネナハトムジーク",
+          "sales": 1648,
+          "seats": 14109,
+          "showtimes": 121,
+          "theaters": 112,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Lion King",
+          "japanese name": "ライオン・キング",
+          "sales": 1619,
+          "seats": 32938,
+          "showtimes": 257,
+          "theaters": 269,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Wonderful Journey",
+          "japanese name": "僕のワンダフル・ジャーニー",
+          "sales": 1617,
+          "seats": 28247,
+          "showtimes": 205,
+          "theaters": 222,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Violet Evergarden: Side Story – Eternity and the Automaton Puppet",
+          "japanese name": "ヴァイオレット・エヴァーガーデン 外伝 永遠と自動手記人形",
+          "sales": 1217,
+          "seats": 14384,
+          "showtimes": 75,
+          "theaters": 69,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Once Upon a Time in Hollywood",
+          "japanese name": "ワンス・アポン・ア・タイム・イン・ハリウッド",
+          "sales": 1072,
+          "seats": 10616,
+          "showtimes": 76,
+          "theaters": 109,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Linking Love",
+          "japanese name": "リンキング・ラブ",
+          "sales": 999,
+          "seats": 2579,
+          "showtimes": 9,
+          "theaters": 2,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Moving King!",
+          "japanese name": "引っ越し大名！",
+          "sales": 891,
+          "seats": 15454,
+          "showtimes": 124,
+          "theaters": 126,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mystical: The First Kabuki Performance of 19 months",
+          "japanese name": "幽玄 １９月イチ歌舞伎",
+          "sales": 807,
+          "seats": 4332,
+          "showtimes": 28,
+          "theaters": 25,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": []
+    }
+  ]
+}

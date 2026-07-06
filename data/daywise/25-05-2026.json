@@ -1,0 +1,773 @@
+{
+  "date": "25-05-2026",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "The Super Mario Galaxy Movie",
+          "japanese name": "ザ・スーパーマリオギャラクシー・ムービー",
+          "sales": 34131,
+          "seats": 102318,
+          "showtimes": 568,
+          "theaters": 270,
+          "rank": 1,
+          "last_week_ratio": 202.1
+        },
+        {
+          "moviename": "Star Wars / Mandalorian and Grogu",
+          "japanese name": "スター・ウォーズ／マンダロリアン・アンド・グローグー",
+          "sales": 27164,
+          "seats": 291337,
+          "showtimes": 979,
+          "theaters": 272,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: The Fallen Angel of the Highway",
+          "japanese name": "名探偵コナン ハイウェイの堕天使",
+          "sales": 20249,
+          "seats": 79962,
+          "showtimes": 492,
+          "theaters": 272,
+          "rank": 3,
+          "last_week_ratio": 136.2
+        },
+        {
+          "moviename": "The Devil in Prada 2",
+          "japanese name": "プラダを着た悪魔２",
+          "sales": 16500,
+          "seats": 89418,
+          "showtimes": 494,
+          "theaters": 270,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SAKAMOTO Dais",
+          "japanese name": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ",
+          "sales": 8814,
+          "seats": 40356,
+          "showtimes": 304,
+          "theaters": 272,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Honest Real Estate\"",
+          "japanese name": "映画「正直不動産」",
+          "sales": 6345,
+          "seats": 49366,
+          "showtimes": 390,
+          "theaters": 268,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Your Quiz",
+          "japanese name": "君のクイズ",
+          "sales": 3519,
+          "seats": 41408,
+          "showtimes": 353,
+          "theaters": 271,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Goat Detective Team",
+          "japanese name": "ひつじ探偵団",
+          "sales": 3347,
+          "seats": 16807,
+          "showtimes": 133,
+          "theaters": 206,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Anon",
+          "japanese name": "名無し",
+          "sales": 3148,
+          "seats": 16294,
+          "showtimes": 101,
+          "theaters": 76,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mystery Arena",
+          "japanese name": "ミステリー・アリーナ",
+          "sales": 2784,
+          "seats": 70529,
+          "showtimes": 490,
+          "theaters": 243,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Doraemon New Nobita's Underwater Ghost Castle",
+          "japanese name": "映画ドラえもん 新・のび太の海底鬼岩城",
+          "sales": 2510,
+          "seats": 27541,
+          "showtimes": 190,
+          "theaters": 212,
+          "rank": 11,
+          "last_week_ratio": 252
+        },
+        {
+          "moviename": "SUPER BEAVER LIFE & DOCUMENTARY – CURRENT LOCATION –",
+          "japanese name": "ＳＵＰＥＲ ＢＥＡＶＥＲ ＬＩＶＥ ＆ ＤＯＣＵＭＥＮＴＡＲＹ －現在地－",
+          "sales": 2277,
+          "seats": 24575,
+          "showtimes": 147,
+          "theaters": 93,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Cinema Kabuki: Kyoka Musume Nin Nin Dōjōji",
+          "japanese name": "シネマ歌舞伎 京鹿子娘二人道成寺（きょうかのこむすめににんどうじょうじ）",
+          "sales": 1241,
+          "seats": 4402,
+          "showtimes": 28,
+          "theaters": 27,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Why do people write love letters",
+          "japanese name": "人はなぜラブレターを書くのか",
+          "sales": 1166,
+          "seats": 15812,
+          "showtimes": 135,
+          "theaters": 240,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "STRAY KIDS: The DOMINATE Experience",
+          "japanese name": "Ｓｔｒａｙ Ｋｉｄｓ： Ｔｈｅ ｄｏｍｉｎＡＴＥ Ｅｘｐｅｒｉｅｎｃｅ",
+          "sales": 1148,
+          "seats": 8350,
+          "showtimes": 65,
+          "theaters": 104,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Magic High School of the Elite - Four-Leaf Inheritance Edition",
+          "japanese name": "劇場版 魔法科高校の劣等生 四葉継承編",
+          "sales": 1119,
+          "seats": 10004,
+          "showtimes": 73,
+          "theaters": 116,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hyoujun shin",
+          "japanese name": "廃用身",
+          "sales": 779,
+          "seats": 4357,
+          "showtimes": 36,
+          "theaters": 82,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Police Patlabor EZY File 1",
+          "japanese name": "機動警察パトレイバー ＥＺＹ Ｆｉｌｅ１",
+          "sales": 728,
+          "seats": 10072,
+          "showtimes": 55,
+          "theaters": 52,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Future",
+          "japanese name": "未来",
+          "sales": 565,
+          "seats": 12389,
+          "showtimes": 96,
+          "theaters": 190,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Thank you, Chuck",
+          "japanese name": "サンキュー、チャック",
+          "sales": 496,
+          "seats": 3265,
+          "showtimes": 27,
+          "theaters": 73,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love Live! Renai High School Idol Club Bloom Garden Party",
+          "japanese name": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ Ｂｌｏｏｍ Ｇａｒｄｅｎ Ｐａｒｔｙ",
+          "sales": 422,
+          "seats": 5387,
+          "showtimes": 31,
+          "theaters": 68,
+          "rank": 21,
+          "last_week_ratio": 143.5
+        },
+        {
+          "moviename": "Epic/Epic Elvis Presley In Concert",
+          "japanese name": "ＥＰｉＣ／エピック エルヴィス・プレスリー・イン・コンサート",
+          "sales": 413,
+          "seats": 4040,
+          "showtimes": 29,
+          "theaters": 43,
+          "rank": 22,
+          "last_week_ratio": 158.8
+        },
+        {
+          "moviename": "Grand Illusion / Diamond Mission",
+          "japanese name": "グランド・イリュージョン／ダイヤモンド・ミッション",
+          "sales": 366,
+          "seats": 5277,
+          "showtimes": 41,
+          "theaters": 178,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Agito - Super Power War -",
+          "japanese name": "アギト－超能力戦争－",
+          "sales": 354,
+          "seats": 10941,
+          "showtimes": 75,
+          "theaters": 162,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Final Movement Resonate! Euphonium Part 1",
+          "japanese name": "最終楽章 響け！ユーフォニアム 前編",
+          "sales": 289,
+          "seats": 4517,
+          "showtimes": 33,
+          "theaters": 130,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Star Wars / Mandalorian and Grogu",
+          "japanese name": "スター・ウォーズ／マンダロリアン・アンド・グローグー",
+          "sales": 44376,
+          "seats": 570181,
+          "showtimes": 1928,
+          "theaters": 272,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Super Mario Galaxy Movie",
+          "japanese name": "ザ・スーパーマリオギャラクシー・ムービー",
+          "sales": 42594,
+          "seats": 166973,
+          "showtimes": 949,
+          "theaters": 270,
+          "rank": 2,
+          "last_week_ratio": 177.3
+        },
+        {
+          "moviename": "Detective Conan: The Fallen Angel of the Highway",
+          "japanese name": "名探偵コナン ハイウェイの堕天使",
+          "sales": 28628,
+          "seats": 145077,
+          "showtimes": 885,
+          "theaters": 272,
+          "rank": 3,
+          "last_week_ratio": 117.9
+        },
+        {
+          "moviename": "The Devil in Prada 2",
+          "japanese name": "プラダを着た悪魔２",
+          "sales": 27536,
+          "seats": 163615,
+          "showtimes": 900,
+          "theaters": 270,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SAKAMOTO Dais",
+          "japanese name": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ",
+          "sales": 12915,
+          "seats": 77857,
+          "showtimes": 578,
+          "theaters": 272,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Honest Real Estate\"",
+          "japanese name": "映画「正直不動産」",
+          "sales": 9327,
+          "seats": 88146,
+          "showtimes": 684,
+          "theaters": 268,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Anon",
+          "japanese name": "名無し",
+          "sales": 5686,
+          "seats": 26981,
+          "showtimes": 175,
+          "theaters": 76,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Your Quiz",
+          "japanese name": "君のクイズ",
+          "sales": 5684,
+          "seats": 76036,
+          "showtimes": 640,
+          "theaters": 271,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Goat Detective Team",
+          "japanese name": "ひつじ探偵団",
+          "sales": 5476,
+          "seats": 32579,
+          "showtimes": 254,
+          "theaters": 206,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mystery Arena",
+          "japanese name": "ミステリー・アリーナ",
+          "sales": 4177,
+          "seats": 128773,
+          "showtimes": 893,
+          "theaters": 243,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SUPER BEAVER LIFE & DOCUMENTARY – CURRENT LOCATION –",
+          "japanese name": "ＳＵＰＥＲ ＢＥＡＶＥＲ ＬＩＶＥ ＆ ＤＯＣＵＭＥＮＴＡＲＹ －現在地－",
+          "sales": 3603,
+          "seats": 46672,
+          "showtimes": 276,
+          "theaters": 93,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Doraemon New Nobita's Underwater Ghost Castle",
+          "japanese name": "映画ドラえもん 新・のび太の海底鬼岩城",
+          "sales": 2634,
+          "seats": 30180,
+          "showtimes": 211,
+          "theaters": 212,
+          "rank": 12,
+          "last_week_ratio": 242.1
+        },
+        {
+          "moviename": "STRAY KIDS: The DOMINATE Experience",
+          "japanese name": "Ｓｔｒａｙ Ｋｉｄｓ： Ｔｈｅ ｄｏｍｉｎＡＴＥ Ｅｘｐｅｒｉｅｎｃｅ",
+          "sales": 2432,
+          "seats": 20431,
+          "showtimes": 157,
+          "theaters": 104,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Magic High School of the Elite - Four-Leaf Inheritance Edition",
+          "japanese name": "劇場版 魔法科高校の劣等生 四葉継承編",
+          "sales": 2182,
+          "seats": 19292,
+          "showtimes": 143,
+          "theaters": 116,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Why do people write love letters",
+          "japanese name": "人はなぜラブレターを書くのか",
+          "sales": 2024,
+          "seats": 27040,
+          "showtimes": 210,
+          "theaters": 240,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hyoujun shin",
+          "japanese name": "廃用身",
+          "sales": 1431,
+          "seats": 10346,
+          "showtimes": 83,
+          "theaters": 82,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Police Patlabor EZY File 1",
+          "japanese name": "機動警察パトレイバー ＥＺＹ Ｆｉｌｅ１",
+          "sales": 1270,
+          "seats": 19645,
+          "showtimes": 110,
+          "theaters": 52,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Cinema Kabuki: Kyoka Musume Nin Nin Dōjōji",
+          "japanese name": "シネマ歌舞伎 京鹿子娘二人道成寺（きょうかのこむすめににんどうじょうじ）",
+          "sales": 1263,
+          "seats": 4541,
+          "showtimes": 29,
+          "theaters": 27,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Live Viewing Musical \"Sword Dance of the Dead\" Kageyama Seikō Single Ride to Battle Extreme",
+          "japanese name": "ライブビューイング ミュージカル「刀剣乱舞」 加州清光 単騎出陣 極",
+          "sales": 1128,
+          "seats": 3233,
+          "showtimes": 51,
+          "theaters": 52,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Thank you, Chuck",
+          "japanese name": "サンキュー、チャック",
+          "sales": 1072,
+          "seats": 7391,
+          "showtimes": 58,
+          "theaters": 73,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Grand Illusion / Diamond Mission",
+          "japanese name": "グランド・イリュージョン／ダイヤモンド・ミッション",
+          "sales": 981,
+          "seats": 16250,
+          "showtimes": 131,
+          "theaters": 178,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Future",
+          "japanese name": "未来",
+          "sales": 922,
+          "seats": 22916,
+          "showtimes": 172,
+          "theaters": 190,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Final Movement Resonate! Euphonium Part 1",
+          "japanese name": "最終楽章 響け！ユーフォニアム 前編",
+          "sales": 895,
+          "seats": 13331,
+          "showtimes": 100,
+          "theaters": 130,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love Live! Renai High School Idol Club Bloom Garden Party",
+          "japanese name": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ Ｂｌｏｏｍ Ｇａｒｄｅｎ Ｐａｒｔｙ",
+          "sales": 849,
+          "seats": 9725,
+          "showtimes": 63,
+          "theaters": 68,
+          "rank": 24,
+          "last_week_ratio": 135.8
+        },
+        {
+          "moviename": "Agito - Super Power War -",
+          "japanese name": "アギト－超能力戦争－",
+          "sales": 736,
+          "seats": 20785,
+          "showtimes": 147,
+          "theaters": 162,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Star Wars: Mandalorian and Grogg",
+          "japanese name": "スター・ウォーズ／マンダロリアン・アンド・グローグー",
+          "sales": 51230,
+          "seats": 721111,
+          "showtimes": 2458,
+          "theaters": 272,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Super Mario Galaxy Movie",
+          "japanese name": "ザ・スーパーマリオギャラクシー・ムービー",
+          "sales": 43430,
+          "seats": 181391,
+          "showtimes": 1024,
+          "theaters": 270,
+          "rank": 2,
+          "last_week_ratio": 170.3
+        },
+        {
+          "moviename": "The Devil Wears Prada 2",
+          "japanese name": "プラダを着た悪魔２",
+          "sales": 31368,
+          "seats": 210384,
+          "showtimes": 1156,
+          "theaters": 270,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: The Fallen Angel of the Highway",
+          "japanese name": "名探偵コナン ハイウェイの堕天使",
+          "sales": 31281,
+          "seats": 180207,
+          "showtimes": 1104,
+          "theaters": 272,
+          "rank": 4,
+          "last_week_ratio": 111.2
+        },
+        {
+          "moviename": "SAKAMOTO DAYS",
+          "japanese name": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ",
+          "sales": 14205,
+          "seats": 103478,
+          "showtimes": 772,
+          "theaters": 272,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The movie “Honest Real Estate”",
+          "japanese name": "映画「正直不動産」",
+          "sales": 10207,
+          "seats": 114652,
+          "showtimes": 890,
+          "theaters": 268,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Anonymous",
+          "japanese name": "名無し",
+          "sales": 7538,
+          "seats": 36350,
+          "showtimes": 236,
+          "theaters": 76,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Your Quiz",
+          "japanese name": "君のクイズ",
+          "sales": 6782,
+          "seats": 103598,
+          "showtimes": 872,
+          "theaters": 271,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sheep Detective Team",
+          "japanese name": "ひつじ探偵団",
+          "sales": 6167,
+          "seats": 38968,
+          "showtimes": 299,
+          "theaters": 206,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mystery Arena",
+          "japanese name": "ミステリー・アリーナ",
+          "sales": 4824,
+          "seats": 165770,
+          "showtimes": 1152,
+          "theaters": 243,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SUPER BEAVER: Live & Documentary – Current Location –",
+          "japanese name": "ＳＵＰＥＲ ＢＥＡＶＥＲ ＬＩＶＥ ＆ ＤＯＣＵＭＥＮＴＡＲＹ －現在地－",
+          "sales": 4320,
+          "seats": 61497,
+          "showtimes": 363,
+          "theaters": 93,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Magical High School: The Underachiever – The Four Leaves Succession Arc",
+          "japanese name": "劇場版 魔法科高校の劣等生 四葉継承編",
+          "sales": 3001,
+          "seats": 26253,
+          "showtimes": 197,
+          "theaters": 116,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Doraemon: Nobita and the Undersea Castle of the Haunted Rock",
+          "japanese name": "映画ドラえもん 新・のび太の海底鬼岩城",
+          "sales": 2634,
+          "seats": 30180,
+          "showtimes": 211,
+          "theaters": 212,
+          "rank": 13,
+          "last_week_ratio": 240.5
+        },
+        {
+          "moviename": "Stray Kids: The DominATE Experience",
+          "japanese name": "Ｓｔｒａｙ Ｋｉｄｓ： Ｔｈｅ ｄｏｍｉｎＡＴＥ Ｅｘｐｅｒｉｅｎｃｅ",
+          "sales": 2600,
+          "seats": 23652,
+          "showtimes": 182,
+          "theaters": 104,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Why do people write love letters?",
+          "japanese name": "人はなぜラブレターを書くのか",
+          "sales": 2133,
+          "seats": 31279,
+          "showtimes": 239,
+          "theaters": 240,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Disused body",
+          "japanese name": "廃用身",
+          "sales": 1642,
+          "seats": 11942,
+          "showtimes": 96,
+          "theaters": 82,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Police Patlabor EZY File 1",
+          "japanese name": "機動警察パトレイバー ＥＺＹ Ｆｉｌｅ１",
+          "sales": 1625,
+          "seats": 26250,
+          "showtimes": 147,
+          "theaters": 52,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Grand Illusion/Diamond Mission",
+          "japanese name": "グランド・イリュージョン／ダイヤモンド・ミッション",
+          "sales": 1493,
+          "seats": 26855,
+          "showtimes": 205,
+          "theaters": 178,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "LoveLive! Suzuhara no Skyrise School Idol Club: Bloom Garden Party",
+          "japanese name": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ Ｂｌｏｏｍ Ｇａｒｄｅｎ Ｐａｒｔｙ",
+          "sales": 1341,
+          "seats": 13726,
+          "showtimes": 92,
+          "theaters": 68,
+          "rank": 19,
+          "last_week_ratio": 131
+        },
+        {
+          "moviename": "Cinema Kabuki: Kyōkano Komusume Nini Dōjōji",
+          "japanese name": "シネマ歌舞伎 京鹿子娘二人道成寺（きょうかのこむすめににんどうじょうじ）",
+          "sales": 1263,
+          "seats": 4541,
+          "showtimes": 29,
+          "theaters": 27,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Thanks, Chuck.",
+          "japanese name": "サンキュー、チャック",
+          "sales": 1212,
+          "seats": 9640,
+          "showtimes": 76,
+          "theaters": 73,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Final Movement: Let the Euphonium Resound! Part 1",
+          "japanese name": "最終楽章 響け！ユーフォニアム 前編",
+          "sales": 1175,
+          "seats": 17445,
+          "showtimes": 134,
+          "theaters": 130,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Live Viewing of the Musical “Sword Art Online”: California Kiyomitsu – Going Alone into Battle",
+          "japanese name": "ライブビューイング ミュージカル「刀剣乱舞」 加州清光 単騎出陣 極",
+          "sales": 1128,
+          "seats": 3233,
+          "showtimes": 51,
+          "theaters": 52,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Future",
+          "japanese name": "未来",
+          "sales": 992,
+          "seats": 25295,
+          "showtimes": 191,
+          "theaters": 190,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "“Perfume” Cold Sleep – 25 Years Document",
+          "japanese name": "Ｐｅｒｆｕｍｅ’コールドスリープ”－２５ ｙｅａｒｓ Ｄｏｃｕｍｅｎｔ－",
+          "sales": 881,
+          "seats": 13567,
+          "showtimes": 97,
+          "theaters": 90,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}
