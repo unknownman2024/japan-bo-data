@@ -4,514 +4,12 @@
     {
       "title": "Including Independents",
       "time": "2PM",
-      "data": [
-        {
-          "moviename": "Toy Story 5",
-          "japanese name": "トイ・ストーリー５",
-          "sales": 48224,
-          "seats": 418104,
-          "showtimes": 1514,
-          "theaters": 269,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Michael",
-          "japanese name": "Ｍｉｃｈａｅｌ／マイケル",
-          "sales": 23381,
-          "seats": 108019,
-          "showtimes": 547,
-          "theaters": 268,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Black Prison City",
-          "japanese name": "黒牢城",
-          "sales": 6757,
-          "seats": 51585,
-          "showtimes": 380,
-          "theaters": 255,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "License returned!?",
-          "japanese name": "免許返納！？",
-          "sales": 6073,
-          "seats": 43890,
-          "showtimes": 366,
-          "theaters": 257,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Surveys related to the mouth",
-          "japanese name": "口に関するアンケート",
-          "sales": 4448,
-          "seats": 77724,
-          "showtimes": 515,
-          "theaters": 255,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Super Girl",
-          "japanese name": "スーパーガール",
-          "sales": 2484,
-          "seats": 50314,
-          "showtimes": 356,
-          "theaters": 266,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Star Wars: Mandalorian and Grogg",
-          "japanese name": "スター・ウォーズ／マンダロリアン・アンド・グローグー",
-          "sales": 2262,
-          "seats": 12914,
-          "showtimes": 102,
-          "theaters": 249,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Let’s Go! Mr. Breadman and the Star of Promise with Pantan",
-          "japanese name": "それいけ！アンパンマン パンタンと約束の星",
-          "sales": 2080,
-          "seats": 82647,
-          "showtimes": 535,
-          "theaters": 249,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Witch’s Delivery Service",
-          "japanese name": "魔女の宅急便",
-          "sales": 1803,
-          "seats": 22197,
-          "showtimes": 119,
-          "theaters": 97,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Love ≠ Comedy",
-          "japanese name": "ラブ≠コメディ",
-          "sales": 1465,
-          "seats": 22264,
-          "showtimes": 166,
-          "theaters": 159,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Devil Wears Prada 2",
-          "japanese name": "プラダを着た悪魔２",
-          "sales": 1323,
-          "seats": 6721,
-          "showtimes": 54,
-          "theaters": 149,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Suddenly feel unwell",
-          "japanese name": "急に具合が悪くなる",
-          "sales": 1243,
-          "seats": 8263,
-          "showtimes": 69,
-          "theaters": 160,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Gravity of Goodbye",
-          "japanese name": "サヨナラの引力",
-          "sales": 1070,
-          "seats": 9371,
-          "showtimes": 77,
-          "theaters": 68,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "New Theater Version ☆ Sgt. Keroro: Back from the Dead, and now Earth is in immediate danger of destruction!",
-          "japanese name": "新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！",
-          "sales": 968,
-          "seats": 26739,
-          "showtimes": 220,
-          "theaters": 257,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The sheep inside the box",
-          "japanese name": "箱の中の羊",
-          "sales": 731,
-          "seats": 17078,
-          "showtimes": 150,
-          "theaters": 247,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Ice Blood",
-          "japanese name": "氷血",
-          "sales": 630,
-          "seats": 9828,
-          "showtimes": 77,
-          "theaters": 67,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Detective Conan: The Fallen Angel of the Highway",
-          "japanese name": "名探偵コナン ハイウェイの堕天使",
-          "sales": 624,
-          "seats": 7933,
-          "showtimes": 59,
-          "theaters": 247,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Girl Who Leapt Through Time",
-          "japanese name": "時をかける少女",
-          "sales": 454,
-          "seats": 7784,
-          "showtimes": 53,
-          "theaters": 88,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Origin of Ultraman",
-          "japanese name": "ＴＨＥ ＯＲＩＧＩＮ ＯＦ ＵＬＴＲＡＭＡＮ",
-          "sales": 444,
-          "seats": 6576,
-          "showtimes": 49,
-          "theaters": 28,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie: Osomatsu-san: The Plan to Turn Humans into Trash!!!!!!!",
-          "japanese name": "映画 おそ松さん 人類クズ化計画！！！！！？",
-          "sales": 440,
-          "seats": 6337,
-          "showtimes": 53,
-          "theaters": 161,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Movie: Ai Kakusutāz! – Anniversary Stars –",
-          "japanese name": "劇場版アイカツスターズ！－Ａｎｎｉｖｅｒｓａｒｙ Ｓｔａｒｓ－",
-          "sales": 435,
-          "seats": 6591,
-          "showtimes": 48,
-          "theaters": 57,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version of Mononoke: Chapter 3 – The Snake God",
-          "japanese name": "劇場版モノノ怪 第三章 蛇神",
-          "sales": 411,
-          "seats": 5731,
-          "showtimes": 37,
-          "theaters": 142,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Super Mario Galaxy Movie",
-          "japanese name": "ザ・スーパーマリオギャラクシー・ムービー",
-          "sales": 361,
-          "seats": 10416,
-          "showtimes": 76,
-          "theaters": 114,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "O-Teikatsu 3: Happy Spring! Life Memories <Premiere Screening>",
-          "japanese name": "お終活３ 幸春！人生メモリーズ＜完成披露上映＞",
-          "sales": 350,
-          "seats": 11004,
-          "showtimes": 83,
-          "theaters": 87,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Yamato, Forever REBEL3199 Chapter 6: The Blue Labyrinth",
-          "japanese name": "ヤマトよ永遠に ＲＥＢＥＬ３１９９ 第六章 碧い迷宮",
-          "sales": 269,
-          "seats": 5006,
-          "showtimes": 36,
-          "theaters": 50,
-          "rank": 25,
-          "last_week_ratio": null
-        }
-      ]
+      "data": []
     },
     {
       "title": "Including Independents",
       "time": "7PM",
-      "data": [
-        {
-          "moviename": "Toy Story 5",
-          "japanese name": "トイ・ストーリー５",
-          "sales": 109751,
-          "seats": 792892,
-          "showtimes": 2905,
-          "theaters": 269,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Michael",
-          "japanese name": "Ｍｉｃｈａｅｌ／マイケル",
-          "sales": 39371,
-          "seats": 197007,
-          "showtimes": 1006,
-          "theaters": 268,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Surveys related to the mouth",
-          "japanese name": "口に関するアンケート",
-          "sales": 10239,
-          "seats": 149160,
-          "showtimes": 980,
-          "theaters": 255,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Black Prison City",
-          "japanese name": "黒牢城",
-          "sales": 9037,
-          "seats": 79133,
-          "showtimes": 583,
-          "theaters": 255,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "License returned!?",
-          "japanese name": "免許返納！？",
-          "sales": 7606,
-          "seats": 59117,
-          "showtimes": 498,
-          "theaters": 257,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Star Wars: Mandalorian and Grogg",
-          "japanese name": "スター・ウォーズ／マンダロリアン・アンド・グローグー",
-          "sales": 5500,
-          "seats": 33425,
-          "showtimes": 262,
-          "theaters": 249,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Super Girl",
-          "japanese name": "スーパーガール",
-          "sales": 4235,
-          "seats": 93490,
-          "showtimes": 683,
-          "theaters": 266,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Witch’s Delivery Service",
-          "japanese name": "魔女の宅急便",
-          "sales": 3696,
-          "seats": 39257,
-          "showtimes": 216,
-          "theaters": 97,
-          "rank": 8,
-          "last_week_ratio": 102.3
-        },
-        {
-          "moviename": "The Devil Wears Prada 2",
-          "japanese name": "プラダを着た悪魔２",
-          "sales": 2899,
-          "seats": 16688,
-          "showtimes": 129,
-          "theaters": 149,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Let’s Go! Mr. Breadman and the Star of Promise with Pantan",
-          "japanese name": "それいけ！アンパンマン パンタンと約束の星",
-          "sales": 2456,
-          "seats": 99600,
-          "showtimes": 668,
-          "theaters": 249,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Love ≠ Comedy",
-          "japanese name": "ラブ≠コメディ",
-          "sales": 2446,
-          "seats": 46830,
-          "showtimes": 336,
-          "theaters": 159,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Suddenly feel unwell",
-          "japanese name": "急に具合が悪くなる",
-          "sales": 2263,
-          "seats": 17411,
-          "showtimes": 141,
-          "theaters": 160,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "New Theater Version ☆ Sgt. Keroro: Back from the Dead, and now Earth is in immediate danger of destruction!",
-          "japanese name": "新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！",
-          "sales": 2238,
-          "seats": 53067,
-          "showtimes": 437,
-          "theaters": 257,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Detective Conan: The Fallen Angel of the Highway",
-          "japanese name": "名探偵コナン ハイウェイの堕天使",
-          "sales": 1903,
-          "seats": 27667,
-          "showtimes": 210,
-          "theaters": 247,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Gravity of Goodbye",
-          "japanese name": "サヨナラの引力",
-          "sales": 1838,
-          "seats": 15806,
-          "showtimes": 133,
-          "theaters": 68,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Girl Who Leapt Through Time",
-          "japanese name": "時をかける少女",
-          "sales": 1367,
-          "seats": 18869,
-          "showtimes": 123,
-          "theaters": 88,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Ice Blood",
-          "japanese name": "氷血",
-          "sales": 1225,
-          "seats": 18104,
-          "showtimes": 138,
-          "theaters": 67,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie: Osomatsu-san: The Plan to Turn Humans into Trash!!!!!!!",
-          "japanese name": "映画 おそ松さん 人類クズ化計画！！！！！？",
-          "sales": 1105,
-          "seats": 18896,
-          "showtimes": 155,
-          "theaters": 161,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version of Mononoke: Chapter 3 – The Snake God",
-          "japanese name": "劇場版モノノ怪 第三章 蛇神",
-          "sales": 1041,
-          "seats": 12171,
-          "showtimes": 87,
-          "theaters": 142,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The sheep inside the box",
-          "japanese name": "箱の中の羊",
-          "sales": 942,
-          "seats": 23934,
-          "showtimes": 204,
-          "theaters": 247,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Movie: Ai Kakusutāz! – Anniversary Stars –",
-          "japanese name": "劇場版アイカツスターズ！－Ａｎｎｉｖｅｒｓａｒｙ Ｓｔａｒｓ－",
-          "sales": 918,
-          "seats": 12066,
-          "showtimes": 84,
-          "theaters": 57,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Origin of Ultraman",
-          "japanese name": "ＴＨＥ ＯＲＩＧＩＮ ＯＦ ＵＬＴＲＡＭＡＮ",
-          "sales": 700,
-          "seats": 10895,
-          "showtimes": 84,
-          "theaters": 28,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Super Mario Galaxy Movie",
-          "japanese name": "ザ・スーパーマリオギャラクシー・ムービー",
-          "sales": 632,
-          "seats": 15551,
-          "showtimes": 114,
-          "theaters": 114,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Long Walk",
-          "japanese name": "ロングウォーク",
-          "sales": 585,
-          "seats": 8618,
-          "showtimes": 73,
-          "theaters": 99,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Yamato, Forever REBEL3199 Chapter 6: The Blue Labyrinth",
-          "japanese name": "ヤマトよ永遠に ＲＥＢＥＬ３１９９ 第六章 碧い迷宮",
-          "sales": 519,
-          "seats": 10336,
-          "showtimes": 78,
-          "theaters": 50,
-          "rank": 25,
-          "last_week_ratio": null
-        }
-      ]
+      "data": []
     },
     {
       "title": "Including Independents",
@@ -528,7 +26,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Michael / Michael",
+          "moviename": "Michael",
           "japanese name": "Ｍｉｃｈａｅｌ／マイケル",
           "sales": 45360,
           "seats": 252523,
@@ -538,7 +36,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Survey about mouth",
+          "moviename": "Surveys related to the mouth",
           "japanese name": "口に関するアンケート",
           "sales": 13467,
           "seats": 197808,
@@ -548,7 +46,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Black Castle",
+          "moviename": "Black Prison City",
           "japanese name": "黒牢城",
           "sales": 9486,
           "seats": 93218,
@@ -558,7 +56,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "License Revocation!?",
+          "moviename": "License returned!?",
           "japanese name": "免許返納！？",
           "sales": 7663,
           "seats": 61531,
@@ -568,7 +66,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Star Wars / Mandalorian and Grogu",
+          "moviename": "Star Wars: Mandalorian and Grogg",
           "japanese name": "スター・ウォーズ／マンダロリアン・アンド・グローグー",
           "sales": 6374,
           "seats": 42949,
@@ -588,7 +86,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Witchy Express",
+          "moviename": "The Witch’s Delivery Service",
           "japanese name": "魔女の宅急便",
           "sales": 4977,
           "seats": 52739,
@@ -598,7 +96,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Devil in Prada 2",
+          "moviename": "The Devil Wears Prada 2",
           "japanese name": "プラダを着た悪魔２",
           "sales": 3205,
           "seats": 21727,
@@ -618,7 +116,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "New剧场版☆Keroro Army Captain Revived! Speedy Earth Destruction Crisis!",
+          "moviename": "New Theater Version ☆ Sgt. Keroro: Back from the Dead, and now Earth is in immediate danger of destruction!",
           "japanese name": "新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！",
           "sales": 2766,
           "seats": 69457,
@@ -628,7 +126,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Come on! Panman Panタン and the Promise Star",
+          "moviename": "Let’s Go! Mr. Breadman and the Star of Promise with Pantan",
           "japanese name": "それいけ！アンパンマン パンタンと約束の星",
           "sales": 2485,
           "seats": 100486,
@@ -638,7 +136,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Suddenly feeling unwell",
+          "moviename": "Suddenly feel unwell",
           "japanese name": "急に具合が悪くなる",
           "sales": 2376,
           "seats": 20053,
@@ -648,7 +146,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Detective Conan: The Highway's Fallen Angel",
+          "moviename": "Detective Conan: The Fallen Angel of the Highway",
           "japanese name": "名探偵コナン ハイウェイの堕天使",
           "sales": 2142,
           "seats": 32469,
@@ -658,7 +156,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The gravity of goodbye",
+          "moviename": "The Gravity of Goodbye",
           "japanese name": "サヨナラの引力",
           "sales": 2060,
           "seats": 21641,
@@ -668,7 +166,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The Time-Traveling Girl",
+          "moviename": "The Girl Who Leapt Through Time",
           "japanese name": "時をかける少女",
           "sales": 1960,
           "seats": 25301,
@@ -678,7 +176,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Theatrical Version Mononoke Chapter 3: Snake God",
+          "moviename": "Theatrical Version of Mononoke: Chapter 3 – The Snake God",
           "japanese name": "劇場版モノノ怪 第三章 蛇神",
           "sales": 1801,
           "seats": 20320,
@@ -688,7 +186,7 @@
           "last_week_ratio": 113.8
         },
         {
-          "moviename": "Frostblood",
+          "moviename": "Ice Blood",
           "japanese name": "氷血",
           "sales": 1597,
           "seats": 24020,
@@ -698,7 +196,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Movie: Osomatsu-san: The Plan to Dehumanize Humanity!!!!!!?",
+          "moviename": "Movie: Osomatsu-san: The Plan to Turn Humans into Trash!!!!!!!",
           "japanese name": "映画 おそ松さん 人類クズ化計画！！！！！？",
           "sales": 1380,
           "seats": 25145,
@@ -708,7 +206,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Theatrical Version Aikatsu Stars! - Anniversary Stars -",
+          "moviename": "Theatrical Movie: Ai Kakusutāz! – Anniversary Stars –",
           "japanese name": "劇場版アイカツスターズ！－Ａｎｎｉｖｅｒｓａｒｙ Ｓｔａｒｓ－",
           "sales": 1245,
           "seats": 15683,
@@ -718,7 +216,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Sheep in the box",
+          "moviename": "The sheep inside the box",
           "japanese name": "箱の中の羊",
           "sales": 1027,
           "seats": 29192,
@@ -728,7 +226,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "THE ORIGIN OF ULTRAMAN",
+          "moviename": "The Origin of Ultraman",
           "japanese name": "ＴＨＥ ＯＲＩＧＩＮ ＯＦ ＵＬＴＲＡＭＡＮ",
           "sales": 850,
           "seats": 14467,
