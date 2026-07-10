@@ -17,7 +17,7 @@ jobs:
         with:
           python-version: '3.10'
       - run: pip install aiohttp aiofiles
-      - run: python fetch_boxoffice.py --full
+      - run: python fetch_boxoffice.py
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
