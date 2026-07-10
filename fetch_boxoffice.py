@@ -31,12 +31,15 @@ logger = logging.getLogger(__name__)
 # Configuration
 BASE_URL = "https://japanapi.bfilmyisback.workers.dev/?date={}"
 START_DATE = datetime(2019, 1, 1)
-DATA_DIR = Path("data")
-DATABASE_DIR = Path("database")
+
+# Use absolute paths based on script location
+BASE_DIR = Path(__file__).parent
+DATA_DIR = BASE_DIR / "data"
+DATABASE_DIR = BASE_DIR / "database"
 DAYWISE_DIR = DATA_DIR / "daywise"
-STATE_FILE = Path("state.json")
+STATE_FILE = BASE_DIR / "state.json"
 MOVIE_SLUG_MAP_FILE = DATA_DIR / "movieslug.json"
-CORRECTIONS_FILE = Path("correctedslug.json")   # manual overrides
+CORRECTIONS_FILE = BASE_DIR / "correctedslug.json"   # now absolute
 
 SEMAPHORE = asyncio.Semaphore(45)
 
@@ -439,21 +442,17 @@ async def rebuild_daywise_from_database():
     entries reflect the primary Japanese name and the correct movie_name.
     """
     logger.info("Rebuilding all daywise files from database...")
-    # Gather all movie data
     movies = movie_store.get_all_movies()
-    # Build a dict: date_str -> dict of time -> list of entries
     daywise_data = defaultdict(lambda: {t: [] for t in TIME_ORDER})
 
     for movie in movies:
         jp_name = movie["jp_name"]
         movie_name = movie["movie_name"]
-        release_date = datetime.strptime(movie["releaseDate"], "%d-%m-%Y")
         for entry in movie["entries"]:
             date_str = entry["date"]
             time_label = entry["time"]
             if time_label not in TIME_ORDER:
-                continue  # should not happen
-            # Prepare a daywise entry (same structure as before)
+                continue
             day_entry = {
                 "moviename": movie_name,
                 "japanese name": jp_name,
@@ -466,7 +465,6 @@ async def rebuild_daywise_from_database():
             }
             daywise_data[date_str][time_label].append(day_entry)
 
-    # Write each date file
     for date_str, times_dict in daywise_data.items():
         times_list = [
             {
@@ -533,6 +531,7 @@ async def apply_corrections():
     try:
         async with aiofiles.open(CORRECTIONS_FILE, 'r', encoding='utf-8') as f:
             corrections = json.loads(await f.read())
+        logger.info(f"Loaded corrections file with {len(corrections)} entries.")
     except Exception as e:
         logger.error(f"Failed to read corrections file: {e}")
         return False
@@ -559,6 +558,7 @@ async def apply_corrections():
         if "new_slug" in data:
             new_slug = data["new_slug"]
             if entry.get("slug") != new_slug:
+                logger.info(f"Updating slug for '{primary}': '{entry.get('slug')}' -> '{new_slug}'")
                 entry["slug"] = new_slug
                 entry["manual_slug"] = True
                 changed = True
@@ -566,6 +566,7 @@ async def apply_corrections():
         if "new_english_name" in data:
             new_name = data["new_english_name"]
             if entry.get("english_name") != new_name:
+                logger.info(f"Updating English name for '{primary}': '{entry.get('english_name')}' -> '{new_name}'")
                 entry["english_name"] = new_name
                 entry["manual_english"] = True
                 changed = True
@@ -575,6 +576,7 @@ async def apply_corrections():
                 if merged_jp == primary:
                     continue
                 if movie_slug_mapper.map.get(merged_jp, {}).get("redirect") != primary:
+                    logger.info(f"Redirecting '{merged_jp}' -> '{primary}'")
                     movie_slug_mapper.map[merged_jp] = {"redirect": primary}
                     changed = True
 
@@ -658,11 +660,11 @@ async def main(full_fetch=False):
     # 1. Load mapper
     await movie_slug_mapper.load()
 
-    # 2. Apply corrections (this now also rebuilds daywise if changed)
-    await apply_corrections()
-
-    # 3. Load all movie data (ensures database is up‑to‑date)
+    # 2. Load all movie data (this also consolidates existing files)
     await movie_store.load_all()
+
+    # 3. Apply corrections (now after load_all, so daywise rebuild has full data)
+    await apply_corrections()
 
     # 4. Fetch new data
     today = datetime.today().date()
