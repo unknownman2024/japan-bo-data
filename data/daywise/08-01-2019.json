@@ -6,13 +6,93 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "Bohemian Rhapsody",
-          "japanese name": "ボヘミアン・ラプソディ",
-          "sales": 11895,
-          "seats": 132024,
-          "showtimes": 507,
-          "theaters": 273,
-          "rank": 1,
+          "moviename": "Alien／Star Birth",
+          "japanese name": "アリー／スター誕生",
+          "sales": 3917,
+          "seats": 64837,
+          "showtimes": 424,
+          "theaters": 264,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I am Maria Callas",
+          "japanese name": "私は、マリア・カラス",
+          "sales": 293,
+          "seats": 1369,
+          "showtimes": 12,
+          "theaters": 11,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Spring Awaits Us",
+          "japanese name": "春待つ僕ら",
+          "sales": 153,
+          "seats": 6602,
+          "showtimes": 56,
+          "theaters": 247,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let’s Go! Koshin 2019 – Kids Version",
+          "japanese name": "れっしゃだいこうしん２０１９ キッズバージョン",
+          "sales": 138,
+          "seats": 19351,
+          "showtimes": 130,
+          "theaters": 89,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bananas at this late hour, what a sweet story",
+          "japanese name": "こんな夜更けにバナナかよ 愛しき実話",
+          "sales": 6368,
+          "seats": 77149,
+          "showtimes": 513,
+          "theaters": 261,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dragon Ball Super: Broly",
+          "japanese name": "ドラゴンボール超 ブロリー",
+          "sales": 3250,
+          "seats": 126394,
+          "showtimes": 608,
+          "theaters": 270,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Heisei Kamen Rider 20th Anniversary Kamen Rider Heisei Generations FOREVER",
+          "japanese name": "平成仮面ライダー２０作記念 仮面ライダー平成ジェネレーションズ ＦＯＲＥＶＥＲ",
+          "sales": 2739,
+          "seats": 100219,
+          "showtimes": 601,
+          "theaters": 258,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Chance",
+          "japanese name": "チャンス",
+          "sales": 130,
+          "seats": 2233,
+          "showtimes": 22,
+          "theaters": 22,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Gamera Watch FOREVER FRIENDS Forever Friends",
+          "japanese name": "映画 妖怪ウォッチ ＦＯＲＥＶＥＲ ＦＲＩＥＮＤＳ フォーエバーフレンズ",
+          "sales": 1555,
+          "seats": 78543,
+          "showtimes": 578,
+          "theaters": 265,
+          "rank": 9,
           "last_week_ratio": null
         },
         {
@@ -26,83 +106,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Why bananas at this late hour, my dear story",
-          "japanese name": "こんな夜更けにバナナかよ 愛しき実話",
-          "sales": 6368,
-          "seats": 77149,
-          "showtimes": 513,
-          "theaters": 261,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Alien / Star Born",
-          "japanese name": "アリー／スター誕生",
-          "sales": 3917,
-          "seats": 64837,
-          "showtimes": 424,
-          "theaters": 264,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Dragon Ball Super Broly",
-          "japanese name": "ドラゴンボール超 ブロリー",
-          "sales": 3250,
-          "seats": 126394,
-          "showtimes": 608,
-          "theaters": 270,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Heisei Masked Rider 20th Anniversary Masked Rider Heisei Generations FOREVER",
-          "japanese name": "平成仮面ライダー２０作記念 仮面ライダー平成ジェネレーションズ ＦＯＲＥＶＥＲ",
-          "sales": 2739,
-          "seats": 100219,
-          "showtimes": 601,
-          "theaters": 258,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Love Live! Sunshine!! The School Idol Movie Over the Rainbow",
-          "japanese name": "ラブライブ！サンシャイン！！ザ スクール アイドル Ｍｏｖｉｅ Ｏｖｅｒ ｔｈｅ Ｒａｉｎｂｏｗ",
-          "sales": 2461,
-          "seats": 92841,
-          "showtimes": 291,
-          "theaters": 112,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Birth of Fantastic Beast and the Black Mage",
+          "moviename": "The Birth of Fantastic Beasts and the Black Witch",
           "japanese name": "ファンタスティック・ビーストと黒い魔法使いの誕生",
           "sales": 2092,
           "seats": 58534,
           "showtimes": 396,
           "theaters": 273,
           "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Gekkou Watashi no Choushinpa FOR EVER FRIENDS",
-          "japanese name": "映画 妖怪ウォッチ ＦＯＲＥＶＥＲ ＦＲＩＥＮＤＳ フォーエバーフレンズ",
-          "sales": 1555,
-          "seats": 78543,
-          "showtimes": 578,
-          "theaters": 265,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Grinch",
-          "japanese name": "グリンチ",
-          "sales": 1400,
-          "seats": 56381,
-          "showtimes": 401,
-          "theaters": 270,
-          "rank": 10,
           "last_week_ratio": null
         },
         {
@@ -116,27 +126,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Wild Storm",
-          "japanese name": "ワイルド・ストーム",
-          "sales": 779,
-          "seats": 9388,
-          "showtimes": 71,
-          "theaters": 40,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Coming",
-          "japanese name": "来る",
-          "sales": 404,
-          "seats": 8774,
-          "showtimes": 74,
-          "theaters": 262,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "I Feel Pretty! The Best Life Event Ever! Advance Screening",
+          "moviename": "I Feel Pretty! The Best Life Event Ever - Advance Screening",
           "japanese name": "アイ・フィール・プリティ！ 人生最高のハプニング 先行上映会",
           "sales": 398,
           "seats": 4265,
@@ -146,47 +136,17 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Whitney – Always Love You –",
-          "japanese name": "ホイットニー～オールウェイズ・ラヴ・ユー～",
-          "sales": 375,
-          "seats": 3253,
-          "showtimes": 21,
-          "theaters": 11,
-          "rank": 15,
+          "moviename": "Grinch",
+          "japanese name": "グリンチ",
+          "sales": 1400,
+          "seats": 56381,
+          "showtimes": 401,
+          "theaters": 270,
+          "rank": 10,
           "last_week_ratio": null
         },
         {
-          "moviename": "That's all, my world",
-          "japanese name": "それだけが、僕の世界",
-          "sales": 298,
-          "seats": 2629,
-          "showtimes": 22,
-          "theaters": 18,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "I am, Maria Callas",
-          "japanese name": "私は、マリア・カラス",
-          "sales": 293,
-          "seats": 1369,
-          "showtimes": 12,
-          "theaters": 11,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Walnut Doll and the Secret Kingdom",
-          "japanese name": "くるみ割り人形と秘密の王国",
-          "sales": 245,
-          "seats": 4004,
-          "showtimes": 34,
-          "theaters": 87,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Every day is a good day",
+          "moviename": "Everyday is a Good Day",
           "japanese name": "日日是好日",
           "sales": 174,
           "seats": 5726,
@@ -196,13 +156,53 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Remains of the Sun",
+          "moviename": "Theatrical Edition: Compilation (Part 1) Maid in Abyss: Dawn of Departure",
+          "japanese name": "劇場版総集編 （前編）メイドインアビス 旅立ちの夜明け",
+          "sales": 139,
+          "seats": 3378,
+          "showtimes": 24,
+          "theaters": 11,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love Live! Sunshine!! The School Idol Movie Over the Rainbow",
+          "japanese name": "ラブライブ！サンシャイン！！ザ スクール アイドル Ｍｏｖｉｅ Ｏｖｅｒ ｔｈｅ Ｒａｉｎｂｏｗ",
+          "sales": 2461,
+          "seats": 92841,
+          "showtimes": 291,
+          "theaters": 112,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Remnants of the day",
           "japanese name": "日の名残り",
           "sales": 161,
           "seats": 2447,
           "showtimes": 22,
           "theaters": 22,
           "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kuru",
+          "japanese name": "来る",
+          "sales": 404,
+          "seats": 8774,
+          "showtimes": 74,
+          "theaters": 262,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wild Storm",
+          "japanese name": "ワイルド・ストーム",
+          "sales": 779,
+          "seats": 9388,
+          "showtimes": 71,
+          "theaters": 40,
+          "rank": 12,
           "last_week_ratio": null
         },
         {
@@ -216,43 +216,43 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Spring is Coming for Us",
-          "japanese name": "春待つ僕ら",
-          "sales": 153,
-          "seats": 6602,
-          "showtimes": 56,
-          "theaters": 247,
-          "rank": 22,
+          "moviename": "Bohemian Rhapsody",
+          "japanese name": "ボヘミアン・ラプソディ",
+          "sales": 11895,
+          "seats": 132024,
+          "showtimes": 507,
+          "theaters": 273,
+          "rank": 1,
           "last_week_ratio": null
         },
         {
-          "moviename": "剧场版总集编（前编）Made in Abyss: Departure of Dawn",
-          "japanese name": "劇場版総集編 （前編）メイドインアビス 旅立ちの夜明け",
-          "sales": 139,
-          "seats": 3378,
-          "showtimes": 24,
+          "moviename": "Kurumiwarizukin to Himitsu no Ou koku",
+          "japanese name": "くるみ割り人形と秘密の王国",
+          "sales": 245,
+          "seats": 4004,
+          "showtimes": 34,
+          "theaters": 87,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Whitney~Always Love You~",
+          "japanese name": "ホイットニー～オールウェイズ・ラヴ・ユー～",
+          "sales": 375,
+          "seats": 3253,
+          "showtimes": 21,
           "theaters": 11,
-          "rank": 23,
+          "rank": 15,
           "last_week_ratio": null
         },
         {
-          "moviename": "Leeds Daiikou Shin 2019 Kids Version",
-          "japanese name": "れっしゃだいこうしん２０１９ キッズバージョン",
-          "sales": 138,
-          "seats": 19351,
-          "showtimes": 130,
-          "theaters": 89,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Chance",
-          "japanese name": "チャンス",
-          "sales": 130,
-          "seats": 2233,
+          "moviename": "That's my world",
+          "japanese name": "それだけが、僕の世界",
+          "sales": 298,
+          "seats": 2629,
           "showtimes": 22,
-          "theaters": 22,
-          "rank": 25,
+          "theaters": 18,
+          "rank": 16,
           "last_week_ratio": null
         }
       ]
@@ -262,13 +262,93 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "Bohemian Rhapsody",
-          "japanese name": "ボヘミアン・ラプソディ",
-          "sales": 22685,
-          "seats": 259668,
-          "showtimes": 993,
-          "theaters": 273,
-          "rank": 1,
+          "moviename": "Alien／Star Birth",
+          "japanese name": "アリー／スター誕生",
+          "sales": 7958,
+          "seats": 129840,
+          "showtimes": 837,
+          "theaters": 264,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I am Maria Callas",
+          "japanese name": "私は、マリア・カラス",
+          "sales": 476,
+          "seats": 2433,
+          "showtimes": 19,
+          "theaters": 11,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Spring Awaits Us",
+          "japanese name": "春待つ僕ら",
+          "sales": 988,
+          "seats": 32639,
+          "showtimes": 234,
+          "theaters": 247,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I Only Dropped My Phone",
+          "japanese name": "スマホを落としただけなのに",
+          "sales": 289,
+          "seats": 7696,
+          "showtimes": 54,
+          "theaters": 126,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "“HIGH&LOW THE MOVIE” Premiere: Live Screening",
+          "japanese name": "「ＨｉＧＨ＆ＬＯＷ ＴＨＥ ＭＯＶＩＥ」完成披露 ライブビューイング",
+          "sales": 217,
+          "seats": 3139,
+          "showtimes": 12,
+          "theaters": 2,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bananas at this late hour, what a sweet story",
+          "japanese name": "こんな夜更けにバナナかよ 愛しき実話",
+          "sales": 9584,
+          "seats": 143130,
+          "showtimes": 943,
+          "theaters": 261,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dragon Ball Super: Broly",
+          "japanese name": "ドラゴンボール超 ブロリー",
+          "sales": 6587,
+          "seats": 231302,
+          "showtimes": 1122,
+          "theaters": 270,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Heisei Kamen Rider 20th Anniversary Kamen Rider Heisei Generations FOREVER",
+          "japanese name": "平成仮面ライダー２０作記念 仮面ライダー平成ジェネレーションズ ＦＯＲＥＶＥＲ",
+          "sales": 4440,
+          "seats": 151140,
+          "showtimes": 922,
+          "theaters": 258,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Gamera Watch FOREVER FRIENDS Forever Friends",
+          "japanese name": "映画 妖怪ウォッチ ＦＯＲＥＶＥＲ ＦＲＩＥＮＤＳ フォーエバーフレンズ",
+          "sales": 2334,
+          "seats": 110365,
+          "showtimes": 813,
+          "theaters": 265,
+          "rank": 11,
           "last_week_ratio": null
         },
         {
@@ -282,37 +362,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Why bananas at this late hour, my dear story",
-          "japanese name": "こんな夜更けにバナナかよ 愛しき実話",
-          "sales": 9584,
-          "seats": 143130,
-          "showtimes": 943,
-          "theaters": 261,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Alien / Star Born",
-          "japanese name": "アリー／スター誕生",
-          "sales": 7958,
-          "seats": 129840,
-          "showtimes": 837,
-          "theaters": 264,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Dragon Ball Super Broly",
-          "japanese name": "ドラゴンボール超 ブロリー",
-          "sales": 6587,
-          "seats": 231302,
-          "showtimes": 1122,
-          "theaters": 270,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Birth of Fantastic Beast and the Black Mage",
+          "moviename": "The Birth of Fantastic Beasts and the Black Witch",
           "japanese name": "ファンタスティック・ビーストと黒い魔法使いの誕生",
           "sales": 5421,
           "seats": 120536,
@@ -322,33 +372,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Love Live! Sunshine!! The School Idol Movie Over the Rainbow",
-          "japanese name": "ラブライブ！サンシャイン！！ザ スクール アイドル Ｍｏｖｉｅ Ｏｖｅｒ ｔｈｅ Ｒａｉｎｂｏｗ",
-          "sales": 4673,
-          "seats": 167988,
-          "showtimes": 530,
-          "theaters": 112,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Heisei Masked Rider 20th Anniversary Masked Rider Heisei Generations FOREVER",
-          "japanese name": "平成仮面ライダー２０作記念 仮面ライダー平成ジェネレーションズ ＦＯＲＥＶＥＲ",
-          "sales": 4440,
-          "seats": 151140,
-          "showtimes": 922,
-          "theaters": 258,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Grinch",
-          "japanese name": "グリンチ",
-          "sales": 2736,
-          "seats": 96598,
-          "showtimes": 701,
-          "theaters": 270,
-          "rank": 9,
+          "moviename": "The Mermaid's Sleep House",
+          "japanese name": "人魚の眠る家",
+          "sales": 203,
+          "seats": 4747,
+          "showtimes": 32,
+          "theaters": 52,
+          "rank": 25,
           "last_week_ratio": null
         },
         {
@@ -362,17 +392,57 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Movie Gekkou Watashi no Choushinpa FOR EVER FRIENDS",
-          "japanese name": "映画 妖怪ウォッチ ＦＯＲＥＶＥＲ ＦＲＩＥＮＤＳ フォーエバーフレンズ",
-          "sales": 2334,
-          "seats": 110365,
-          "showtimes": 813,
-          "theaters": 265,
-          "rank": 11,
+          "moviename": "I Feel Pretty! The Best Life Event Ever - Advance Screening",
+          "japanese name": "アイ・フィール・プリティ！ 人生最高のハプニング 先行上映会",
+          "sales": 696,
+          "seats": 8564,
+          "showtimes": 71,
+          "theaters": 40,
+          "rank": 15,
           "last_week_ratio": null
         },
         {
-          "moviename": "Coming",
+          "moviename": "Grinch",
+          "japanese name": "グリンチ",
+          "sales": 2736,
+          "seats": 96598,
+          "showtimes": 701,
+          "theaters": 270,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Everyday is a Good Day",
+          "japanese name": "日日是好日",
+          "sales": 204,
+          "seats": 6879,
+          "showtimes": 49,
+          "theaters": 44,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Edition: Compilation (Part 1) Maid in Abyss: Dawn of Departure",
+          "japanese name": "劇場版総集編 （前編）メイドインアビス 旅立ちの夜明け",
+          "sales": 246,
+          "seats": 5338,
+          "showtimes": 38,
+          "theaters": 11,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love Live! Sunshine!! The School Idol Movie Over the Rainbow",
+          "japanese name": "ラブライブ！サンシャイン！！ザ スクール アイドル Ｍｏｖｉｅ Ｏｖｅｒ ｔｈｅ Ｒａｉｎｂｏｗ",
+          "sales": 4673,
+          "seats": 167988,
+          "showtimes": 530,
+          "theaters": 112,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kuru",
           "japanese name": "来る",
           "sales": 1888,
           "seats": 38485,
@@ -392,26 +462,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Spring is Coming for Us",
-          "japanese name": "春待つ僕ら",
-          "sales": 988,
-          "seats": 32639,
-          "showtimes": 234,
-          "theaters": 247,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "I Feel Pretty! The Best Life Event Ever! Advance Screening",
-          "japanese name": "アイ・フィール・プリティ！ 人生最高のハプニング 先行上映会",
-          "sales": 696,
-          "seats": 8564,
-          "showtimes": 71,
-          "theaters": 40,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Mobile Suit Gundam NT",
           "japanese name": "機動戦士ガンダムＮＴ",
           "sales": 621,
@@ -422,7 +472,17 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Walnut Doll and the Secret Kingdom",
+          "moviename": "Bohemian Rhapsody",
+          "japanese name": "ボヘミアン・ラプソディ",
+          "sales": 22685,
+          "seats": 259668,
+          "showtimes": 993,
+          "theaters": 273,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kurumiwarizukin to Himitsu no Ou koku",
           "japanese name": "くるみ割り人形と秘密の王国",
           "sales": 585,
           "seats": 10113,
@@ -432,7 +492,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Whitney – Always Love You –",
+          "moviename": "Whitney~Always Love You~",
           "japanese name": "ホイットニー～オールウェイズ・ラヴ・ユー～",
           "sales": 576,
           "seats": 5731,
@@ -442,73 +502,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "I am, Maria Callas",
-          "japanese name": "私は、マリア・カラス",
-          "sales": 476,
-          "seats": 2433,
-          "showtimes": 19,
-          "theaters": 11,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "That's all, my world",
+          "moviename": "That's my world",
           "japanese name": "それだけが、僕の世界",
           "sales": 409,
           "seats": 4945,
           "showtimes": 41,
           "theaters": 18,
           "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "I only dropped my phone",
-          "japanese name": "スマホを落としただけなのに",
-          "sales": 289,
-          "seats": 7696,
-          "showtimes": 54,
-          "theaters": 126,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "剧场版总集编（前编）Made in Abyss: Departure of Dawn",
-          "japanese name": "劇場版総集編 （前編）メイドインアビス 旅立ちの夜明け",
-          "sales": 246,
-          "seats": 5338,
-          "showtimes": 38,
-          "theaters": 11,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "\"HI GH&LOW THE MOVIE\" Completion Disclosure Live Viewing",
-          "japanese name": "「ＨｉＧＨ＆ＬＯＷ ＴＨＥ ＭＯＶＩＥ」完成披露 ライブビューイング",
-          "sales": 217,
-          "seats": 3139,
-          "showtimes": 12,
-          "theaters": 2,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Every day is a good day",
-          "japanese name": "日日是好日",
-          "sales": 204,
-          "seats": 6879,
-          "showtimes": 49,
-          "theaters": 44,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The House Where the Mermaid Sleeps",
-          "japanese name": "人魚の眠る家",
-          "sales": 203,
-          "seats": 4747,
-          "showtimes": 32,
-          "theaters": 52,
-          "rank": 25,
           "last_week_ratio": null
         }
       ]

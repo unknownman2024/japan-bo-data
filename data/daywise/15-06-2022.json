@@ -6,16 +6,6 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "Top Gun Maverick",
-          "japanese name": "トップガン マーヴェリック",
-          "sales": 41416,
-          "seats": 180709,
-          "showtimes": 855,
-          "theaters": 293,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Dragon Ball Super Super Hero",
           "japanese name": "ドラゴンボール超 スーパーヒーロー",
           "sales": 17897,
@@ -26,74 +16,24 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Superman X",
-          "japanese name": "シン・ウルトラマン",
-          "sales": 9309,
-          "seats": 91139,
-          "showtimes": 616,
-          "theaters": 288,
-          "rank": 3,
+          "moviename": "The Wandering Moon",
+          "japanese name": "流浪の月",
+          "sales": 1551,
+          "seats": 14325,
+          "showtimes": 115,
+          "theaters": 233,
+          "rank": 13,
           "last_week_ratio": null
         },
         {
-          "moviename": "Yes, I cannot swim",
-          "japanese name": "はい、泳げません",
-          "sales": 4881,
-          "seats": 66781,
-          "showtimes": 482,
-          "theaters": 241,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Cuckold Prince: The Movie",
-          "japanese name": "極主夫道 ザ・シネマ",
-          "sales": 4815,
-          "seats": 42402,
-          "showtimes": 380,
-          "theaters": 287,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Detective Conan: The Movie - Halloween's Bride",
-          "japanese name": "名探偵コナン ハロウィンの花嫁",
-          "sales": 4429,
-          "seats": 36824,
-          "showtimes": 295,
-          "theaters": 286,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Mobile Suit Gundam: Cucuruz Doan's Island",
-          "japanese name": "機動戦士ガンダム ククルス・ドアンの島",
-          "sales": 3410,
-          "seats": 44901,
-          "showtimes": 294,
-          "theaters": 162,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Movie: The Story of Highashi Koko",
-          "japanese name": "劇場版 からかい上手の高木さん",
-          "sales": 3290,
-          "seats": 56413,
-          "showtimes": 322,
-          "theaters": 135,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Movie - Flower of Five Ranks",
-          "japanese name": "映画 五等分の花嫁",
-          "sales": 2849,
-          "seats": 28724,
-          "showtimes": 153,
-          "theaters": 96,
-          "rank": 9,
-          "last_week_ratio": 119.3
+          "moviename": "Crayon Shin-chan: Ninja Hero's Adventure",
+          "japanese name": "映画クレヨンしんちゃん もののけニンジャ珍風伝",
+          "sales": 1141,
+          "seats": 13305,
+          "showtimes": 128,
+          "theaters": 121,
+          "rank": 16,
+          "last_week_ratio": 302.7
         },
         {
           "moviename": "The Road to the Great River",
@@ -106,47 +46,17 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Sun and Bolero Life is a Miracle!",
-          "japanese name": "太陽とボレロ Ｌｉｆｅ ｉｓ ａ ｍｉｒａｃｌｅ！",
-          "sales": 2109,
-          "seats": 19835,
-          "showtimes": 167,
-          "theaters": 164,
-          "rank": 11,
+          "moviename": "Detective Conan Halloween Bride",
+          "japanese name": "名探偵コナン ハロウィンの花嫁",
+          "sales": 4429,
+          "seats": 36824,
+          "showtimes": 295,
+          "theaters": 286,
+          "rank": 6,
           "last_week_ratio": null
         },
         {
-          "moviename": "King of Dogs",
-          "japanese name": "犬王",
-          "sales": 1647,
-          "seats": 9392,
-          "showtimes": 71,
-          "theaters": 106,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Wandering Moon",
-          "japanese name": "流浪の月",
-          "sales": 1551,
-          "seats": 14325,
-          "showtimes": 115,
-          "theaters": 233,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Disease That Leads to the Death Penalty",
-          "japanese name": "死刑にいたる病",
-          "sales": 1299,
-          "seats": 9652,
-          "showtimes": 79,
-          "theaters": 180,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Twenty-year-old Seoul",
+          "moviename": "20-year-old Soul",
           "japanese name": "２０歳のソウル",
           "sales": 1219,
           "seats": 6353,
@@ -156,53 +66,73 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Crayon Shin-chan: Ninja of the Oni Clan",
-          "japanese name": "映画クレヨンしんちゃん もののけニンジャ珍風伝",
-          "sales": 1141,
-          "seats": 13305,
-          "showtimes": 128,
-          "theaters": 121,
-          "rank": 16,
-          "last_week_ratio": 302.7
+          "moviename": "Shin Ultraman",
+          "japanese name": "シン・ウルトラマン",
+          "sales": 9309,
+          "seats": 91139,
+          "showtimes": 616,
+          "theaters": 288,
+          "rank": 3,
+          "last_week_ratio": null
         },
         {
-          "moviename": "Movie Version Another World卡拉特～Anaza World～",
+          "moviename": "Movie: Five Flowers of Marriage",
+          "japanese name": "映画 五等分の花嫁",
+          "sales": 2849,
+          "seats": 28724,
+          "showtimes": 153,
+          "theaters": 96,
+          "rank": 9,
+          "last_week_ratio": 119.3
+        },
+        {
+          "moviename": "Steel Alchemist: The Final Chapter – The Avenger Scar",
+          "japanese name": "鋼の錬金術師 完結編 復讐者スカー",
+          "sales": 362,
+          "seats": 4356,
+          "showtimes": 44,
+          "theaters": 232,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Death-Dealing Disease",
+          "japanese name": "死刑にいたる病",
+          "sales": 1299,
+          "seats": 9652,
+          "showtimes": 79,
+          "theaters": 180,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Ultimate Househusband: The Movie",
+          "japanese name": "極主夫道 ザ・シネマ",
+          "sales": 4815,
+          "seats": 42402,
+          "showtimes": 380,
+          "theaters": 287,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dog King",
+          "japanese name": "犬王",
+          "sales": 1647,
+          "seats": 9392,
+          "showtimes": 71,
+          "theaters": 106,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Another World Kartetto ~Anaza-World~",
           "japanese name": "劇場版 異世界かるてっと ～あなざーわーるど～",
           "sales": 854,
           "seats": 14435,
           "showtimes": 84,
           "theaters": 47,
           "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "ALIVEHOON ALIVE Hoon Completion Preview Screening",
-          "japanese name": "ＡＬＩＶＥＨＯＯＮ アライブフーン 完成披露上映会",
-          "sales": 752,
-          "seats": 20516,
-          "showtimes": 200,
-          "theaters": 152,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Tokyo 2020 Olympics SIDE: A",
-          "japanese name": "東京２０２０オリンピック ＳＩＤＥ：Ａ",
-          "sales": 701,
-          "seats": 12995,
-          "showtimes": 126,
-          "theaters": 164,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Fantastic Beast and the Secret of Dumbledore",
-          "japanese name": "ファンタスティック・ビーストとダンブルドアの秘密",
-          "sales": 559,
-          "seats": 4304,
-          "showtimes": 33,
-          "theaters": 146,
-          "rank": 20,
           "last_week_ratio": null
         },
         {
@@ -216,27 +146,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Officer & Spy",
-          "japanese name": "オフィサー・アンド・スパイ",
-          "sales": 373,
-          "seats": 2984,
-          "showtimes": 24,
-          "theaters": 41,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Fullmetal Alchemist: Final Chapter: Scars of Revenge",
-          "japanese name": "鋼の錬金術師 完結編 復讐者スカー",
-          "sales": 362,
-          "seats": 4356,
-          "showtimes": 44,
-          "theaters": 232,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "MET Puccini \"Tosca\"",
+          "moviename": "MET Puccini “Tosca”",
           "japanese name": "ＭＥＴ プッチーニ「トスカ」",
           "sales": 360,
           "seats": 1429,
@@ -246,13 +156,103 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "BISH presents PRC is PAIPAI CHINCHIN ROCK'N'ROLL",
+          "moviename": "Yes, I can't swim",
+          "japanese name": "はい、泳げません",
+          "sales": 4881,
+          "seats": 66781,
+          "showtimes": 482,
+          "theaters": 241,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sun and Bolero: Life is a Miracle!",
+          "japanese name": "太陽とボレロ Ｌｉｆｅ ｉｓ ａ ｍｉｒａｃｌｅ！",
+          "sales": 2109,
+          "seats": 19835,
+          "showtimes": 167,
+          "theaters": 164,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Suit Gundam: Kuurusu Doan’s Island",
+          "japanese name": "機動戦士ガンダム ククルス・ドアンの島",
+          "sales": 3410,
+          "seats": 44901,
+          "showtimes": 294,
+          "theaters": 162,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Top Gun: Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 41416,
+          "seats": 180709,
+          "showtimes": 855,
+          "theaters": 293,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fantastic Beasts and the Secrets of Dumbledore",
+          "japanese name": "ファンタスティック・ビーストとダンブルドアの秘密",
+          "sales": 559,
+          "seats": 4304,
+          "showtimes": 33,
+          "theaters": 146,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tokyo 2020 Olympics: SIDE:A",
+          "japanese name": "東京２０２０オリンピック ＳＩＤＥ：Ａ",
+          "sales": 701,
+          "seats": 12995,
+          "showtimes": 126,
+          "theaters": 164,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Officers and Spies",
+          "japanese name": "オフィサー・アンド・スパイ",
+          "sales": 373,
+          "seats": 2984,
+          "showtimes": 24,
+          "theaters": 41,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BISH presents PCR is PAIPAI CHINCHIN ROCK’N’ROLL",
           "japanese name": "ＢｉＳＨ ｐｒｅｓｅｎｔｓ ＰＣＲ ｉｓ ＰＡｉＰＡｉ ＣＨｉＮＣＨｉＮ ＲＯＣＫ’Ｎ’ＲＯＬＬ",
           "sales": 326,
           "seats": 5734,
           "showtimes": 36,
           "theaters": 21,
           "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ALIVEHOOON ALIVEHOON Completion Screening",
+          "japanese name": "ＡＬＩＶＥＨＯＯＮ アライブフーン 完成披露上映会",
+          "sales": 752,
+          "seats": 20516,
+          "showtimes": 200,
+          "theaters": 152,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 からかい上手の高木さん",
+          "japanese name": "劇場版 からかい上手の高木さん",
+          "sales": 3290,
+          "seats": 56413,
+          "showtimes": 322,
+          "theaters": 135,
+          "rank": 8,
           "last_week_ratio": null
         }
       ]
@@ -261,16 +261,6 @@
       "title": "Including Independents",
       "time": "7PM",
       "data": [
-        {
-          "moviename": "Top Gun Maverick",
-          "japanese name": "トップガン マーヴェリック",
-          "sales": 72021,
-          "seats": 349584,
-          "showtimes": 1638,
-          "theaters": 293,
-          "rank": 1,
-          "last_week_ratio": null
-        },
         {
           "moviename": "Dragon Ball Super Super Hero",
           "japanese name": "ドラゴンボール超 スーパーヒーロー",
@@ -282,103 +272,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Superman X",
-          "japanese name": "シン・ウルトラマン",
-          "sales": 15678,
-          "seats": 166007,
-          "showtimes": 1123,
-          "theaters": 288,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Detective Conan: The Movie - Halloween's Bride",
-          "japanese name": "名探偵コナン ハロウィンの花嫁",
-          "sales": 9031,
-          "seats": 66966,
-          "showtimes": 529,
-          "theaters": 286,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Cuckold Prince: The Movie",
-          "japanese name": "極主夫道 ザ・シネマ",
-          "sales": 7590,
-          "seats": 74308,
-          "showtimes": 673,
-          "theaters": 287,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Movie - Flower of Five Ranks",
-          "japanese name": "映画 五等分の花嫁",
-          "sales": 6919,
-          "seats": 58066,
-          "showtimes": 308,
-          "theaters": 96,
-          "rank": 6,
-          "last_week_ratio": 104.4
-        },
-        {
-          "moviename": "Yes, I cannot swim",
-          "japanese name": "はい、泳げません",
-          "sales": 6841,
-          "seats": 114170,
-          "showtimes": 824,
-          "theaters": 241,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Movie: The Story of Highashi Koko",
-          "japanese name": "劇場版 からかい上手の高木さん",
-          "sales": 6687,
-          "seats": 104028,
-          "showtimes": 593,
-          "theaters": 135,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Mobile Suit Gundam: Cucuruz Doan's Island",
-          "japanese name": "機動戦士ガンダム ククルス・ドアンの島",
-          "sales": 5868,
-          "seats": 85283,
-          "showtimes": 556,
-          "theaters": 162,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Disease That Leads to the Death Penalty",
-          "japanese name": "死刑にいたる病",
-          "sales": 3864,
-          "seats": 24188,
-          "showtimes": 198,
-          "theaters": 180,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "King of Dogs",
-          "japanese name": "犬王",
-          "sales": 3644,
-          "seats": 18100,
-          "showtimes": 141,
-          "theaters": 105,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Wandering Moon",
+          "moviename": "The Wandering Moon",
           "japanese name": "流浪の月",
           "sales": 3311,
           "seats": 28051,
           "showtimes": 225,
           "theaters": 233,
           "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Crayon Shin-chan: Ninja Hero's Adventure",
+          "japanese name": "映画クレヨンしんちゃん もののけニンジャ珍風伝",
+          "sales": 1289,
+          "seats": 15199,
+          "showtimes": 146,
+          "theaters": 121,
+          "rank": 20,
+          "last_week_ratio": 224.6
+        },
+        {
+          "moviename": "Kisaragi Station",
+          "japanese name": "きさらぎ駅",
+          "sales": 759,
+          "seats": 14281,
+          "showtimes": 133,
+          "theaters": 103,
+          "rank": 24,
           "last_week_ratio": null
         },
         {
@@ -392,17 +312,17 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Sun and Bolero Life is a Miracle!",
-          "japanese name": "太陽とボレロ Ｌｉｆｅ ｉｓ ａ ｍｉｒａｃｌｅ！",
-          "sales": 2898,
-          "seats": 30359,
-          "showtimes": 252,
-          "theaters": 164,
-          "rank": 14,
+          "moviename": "Detective Conan Halloween Bride",
+          "japanese name": "名探偵コナン ハロウィンの花嫁",
+          "sales": 9031,
+          "seats": 66966,
+          "showtimes": 529,
+          "theaters": 286,
+          "rank": 4,
           "last_week_ratio": null
         },
         {
-          "moviename": "Twenty-year-old Seoul",
+          "moviename": "20-year-old Soul",
           "japanese name": "２０歳のソウル",
           "sales": 2543,
           "seats": 15128,
@@ -412,37 +332,27 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Fantastic Beast and the Secret of Dumbledore",
-          "japanese name": "ファンタスティック・ビーストとダンブルドアの秘密",
-          "sales": 1694,
-          "seats": 13790,
-          "showtimes": 112,
-          "theaters": 146,
-          "rank": 16,
+          "moviename": "Shin Ultraman",
+          "japanese name": "シン・ウルトラマン",
+          "sales": 15678,
+          "seats": 166007,
+          "showtimes": 1123,
+          "theaters": 288,
+          "rank": 3,
           "last_week_ratio": null
         },
         {
-          "moviename": "Movie Version Another World卡拉特～Anaza World～",
-          "japanese name": "劇場版 異世界かるてっと ～あなざーわーるど～",
-          "sales": 1510,
-          "seats": 26090,
-          "showtimes": 157,
-          "theaters": 47,
-          "rank": 17,
-          "last_week_ratio": null
+          "moviename": "Movie: Five Flowers of Marriage",
+          "japanese name": "映画 五等分の花嫁",
+          "sales": 6919,
+          "seats": 58066,
+          "showtimes": 308,
+          "theaters": 96,
+          "rank": 6,
+          "last_week_ratio": 104.4
         },
         {
-          "moviename": "Doctor Strange/ multiverse of madness",
-          "japanese name": "ドクター・ストレンジ／マルチバース・オブ・マッドネス",
-          "sales": 1383,
-          "seats": 16155,
-          "showtimes": 133,
-          "theaters": 195,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Fullmetal Alchemist: Final Chapter: Scars of Revenge",
+          "moviename": "Steel Alchemist: The Final Chapter – The Avenger Scar",
           "japanese name": "鋼の錬金術師 完結編 復讐者スカー",
           "sales": 1308,
           "seats": 19813,
@@ -452,27 +362,97 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Crayon Shin-chan: Ninja of the Oni Clan",
-          "japanese name": "映画クレヨンしんちゃん もののけニンジャ珍風伝",
-          "sales": 1289,
-          "seats": 15199,
-          "showtimes": 146,
-          "theaters": 121,
-          "rank": 20,
-          "last_week_ratio": 224.6
-        },
-        {
-          "moviename": "ALIVEHOON ALIVE Hoon Completion Preview Screening",
-          "japanese name": "ＡＬＩＶＥＨＯＯＮ アライブフーン 完成披露上映会",
-          "sales": 1288,
-          "seats": 36217,
-          "showtimes": 353,
-          "theaters": 152,
-          "rank": 21,
+          "moviename": "The Death-Dealing Disease",
+          "japanese name": "死刑にいたる病",
+          "sales": 3864,
+          "seats": 24188,
+          "showtimes": 198,
+          "theaters": 180,
+          "rank": 10,
           "last_week_ratio": null
         },
         {
-          "moviename": "Tokyo 2020 Olympics SIDE: A",
+          "moviename": "The Ultimate Househusband: The Movie",
+          "japanese name": "極主夫道 ザ・シネマ",
+          "sales": 7590,
+          "seats": 74308,
+          "showtimes": 673,
+          "theaters": 287,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dog King",
+          "japanese name": "犬王",
+          "sales": 3644,
+          "seats": 18100,
+          "showtimes": 141,
+          "theaters": 105,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Another World Kartetto ~Anaza-World~",
+          "japanese name": "劇場版 異世界かるてっと ～あなざーわーるど～",
+          "sales": 1510,
+          "seats": 26090,
+          "showtimes": 157,
+          "theaters": 47,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Yes, I can't swim",
+          "japanese name": "はい、泳げません",
+          "sales": 6841,
+          "seats": 114170,
+          "showtimes": 824,
+          "theaters": 241,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sun and Bolero: Life is a Miracle!",
+          "japanese name": "太陽とボレロ Ｌｉｆｅ ｉｓ ａ ｍｉｒａｃｌｅ！",
+          "sales": 2898,
+          "seats": 30359,
+          "showtimes": 252,
+          "theaters": 164,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Suit Gundam: Kuurusu Doan’s Island",
+          "japanese name": "機動戦士ガンダム ククルス・ドアンの島",
+          "sales": 5868,
+          "seats": 85283,
+          "showtimes": 556,
+          "theaters": 162,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Top Gun: Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 72021,
+          "seats": 349584,
+          "showtimes": 1638,
+          "theaters": 293,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fantastic Beasts and the Secrets of Dumbledore",
+          "japanese name": "ファンタスティック・ビーストとダンブルドアの秘密",
+          "sales": 1694,
+          "seats": 13790,
+          "showtimes": 112,
+          "theaters": 146,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tokyo 2020 Olympics: SIDE:A",
           "japanese name": "東京２０２０オリンピック ＳＩＤＥ：Ａ",
           "sales": 1057,
           "seats": 22042,
@@ -482,33 +462,53 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "剧场版 Free! - the Final Stroke - Part 2",
-          "japanese name": "劇場版 Ｆｒｅｅ！ －ｔｈｅ Ｆｉｎａｌ Ｓｔｒｏｋｅ－ 後編",
-          "sales": 951,
-          "seats": 14157,
-          "showtimes": 107,
-          "theaters": 129,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Kisaragi Station",
-          "japanese name": "きさらぎ駅",
-          "sales": 759,
-          "seats": 14281,
-          "showtimes": 133,
-          "theaters": 103,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Officer & Spy",
+          "moviename": "Officers and Spies",
           "japanese name": "オフィサー・アンド・スパイ",
           "sales": 759,
           "seats": 5245,
           "showtimes": 44,
           "theaters": 41,
           "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Doctor Strange/Madness Multiverse",
+          "japanese name": "ドクター・ストレンジ／マルチバース・オブ・マッドネス",
+          "sales": 1383,
+          "seats": 16155,
+          "showtimes": 133,
+          "theaters": 195,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ALIVEHOOON ALIVEHOON Completion Screening",
+          "japanese name": "ＡＬＩＶＥＨＯＯＮ アライブフーン 完成披露上映会",
+          "sales": 1288,
+          "seats": 36217,
+          "showtimes": 353,
+          "theaters": 152,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 からかい上手の高木さん",
+          "japanese name": "劇場版 からかい上手の高木さん",
+          "sales": 6687,
+          "seats": 104028,
+          "showtimes": 593,
+          "theaters": 135,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Free! –The Final Stroke– Part 2",
+          "japanese name": "劇場版 Ｆｒｅｅ！ －ｔｈｅ Ｆｉｎａｌ Ｓｔｒｏｋｅ－ 後編",
+          "sales": 951,
+          "seats": 14157,
+          "showtimes": 107,
+          "theaters": 129,
+          "rank": 23,
           "last_week_ratio": null
         }
       ]
@@ -518,113 +518,13 @@
       "time": "Final",
       "data": [
         {
-          "moviename": "Top Gun: Maverick",
-          "japanese name": "トップガン マーヴェリック",
-          "sales": 83249,
-          "seats": 437861,
-          "showtimes": 2048,
-          "theaters": 293,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Dragon Ball Super: Super Heroes",
+          "moviename": "Dragon Ball Super Super Hero",
           "japanese name": "ドラゴンボール超 スーパーヒーロー",
           "sales": 41565,
           "seats": 657685,
           "showtimes": 2363,
           "theaters": 287,
           "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Shin Ultraman",
-          "japanese name": "シン・ウルトラマン",
-          "sales": 18440,
-          "seats": 215341,
-          "showtimes": 1456,
-          "theaters": 288,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Detective Conan: Halloween Bride",
-          "japanese name": "名探偵コナン ハロウィンの花嫁",
-          "sales": 10018,
-          "seats": 78284,
-          "showtimes": 609,
-          "theaters": 286,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Ultimate Househusband: The Movie",
-          "japanese name": "極主夫道 ザ・シネマ",
-          "sales": 8529,
-          "seats": 99674,
-          "showtimes": 903,
-          "theaters": 287,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version: Kousaka-san, the One Who Teases People Well",
-          "japanese name": "劇場版 からかい上手の高木さん",
-          "sales": 8430,
-          "seats": 131009,
-          "showtimes": 748,
-          "theaters": 135,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie: Five Flowers of Marriage",
-          "japanese name": "映画 五等分の花嫁",
-          "sales": 8089,
-          "seats": 73751,
-          "showtimes": 388,
-          "theaters": 96,
-          "rank": 7,
-          "last_week_ratio": 101.9
-        },
-        {
-          "moviename": "Yes, I can’t swim.",
-          "japanese name": "はい、泳げません",
-          "sales": 7387,
-          "seats": 145884,
-          "showtimes": 1053,
-          "theaters": 241,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Mobile Suit Gundam: Kuurusu Doan’s Island",
-          "japanese name": "機動戦士ガンダム ククルス・ドアンの島",
-          "sales": 7060,
-          "seats": 110189,
-          "showtimes": 722,
-          "theaters": 162,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Diseases that lead to the death penalty",
-          "japanese name": "死刑にいたる病",
-          "sales": 4597,
-          "seats": 27803,
-          "showtimes": 227,
-          "theaters": 180,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Dog King",
-          "japanese name": "犬王",
-          "sales": 4581,
-          "seats": 21990,
-          "showtimes": 172,
-          "theaters": 105,
-          "rank": 11,
           "last_week_ratio": null
         },
         {
@@ -638,6 +538,26 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Crayon Shin-chan: Ninja Hero's Adventure",
+          "japanese name": "映画クレヨンしんちゃん もののけニンジャ珍風伝",
+          "sales": 1294,
+          "seats": 15302,
+          "showtimes": 147,
+          "theaters": 121,
+          "rank": 21,
+          "last_week_ratio": 225.4
+        },
+        {
+          "moviename": "Kisaragi Station",
+          "japanese name": "きさらぎ駅",
+          "sales": 868,
+          "seats": 16478,
+          "showtimes": 152,
+          "theaters": 103,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "The Road to the Great River",
           "japanese name": "大河への道",
           "sales": 3075,
@@ -648,13 +568,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Sun and Bolero: Life is a Miracle!",
-          "japanese name": "太陽とボレロ Ｌｉｆｅ ｉｓ ａ ｍｉｒａｃｌｅ！",
-          "sales": 2917,
-          "seats": 31432,
-          "showtimes": 262,
-          "theaters": 164,
-          "rank": 14,
+          "moviename": "Detective Conan Halloween Bride",
+          "japanese name": "名探偵コナン ハロウィンの花嫁",
+          "sales": 10018,
+          "seats": 78284,
+          "showtimes": 609,
+          "theaters": 286,
+          "rank": 4,
           "last_week_ratio": null
         },
         {
@@ -668,43 +588,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Doctor Strange: Multiverse of Madness",
-          "japanese name": "ドクター・ストレンジ／マルチバース・オブ・マッドネス",
-          "sales": 2181,
-          "seats": 23860,
-          "showtimes": 203,
-          "theaters": 195,
-          "rank": 16,
+          "moviename": "Shin Ultraman",
+          "japanese name": "シン・ウルトラマン",
+          "sales": 18440,
+          "seats": 215341,
+          "showtimes": 1456,
+          "theaters": 288,
+          "rank": 3,
           "last_week_ratio": null
         },
         {
-          "moviename": "Fantastic Beasts and the Secrets of Dumbledore",
-          "japanese name": "ファンタスティック・ビーストとダンブルドアの秘密",
-          "sales": 2125,
-          "seats": 18633,
-          "showtimes": 152,
-          "theaters": 146,
-          "rank": 17,
-          "last_week_ratio": null
+          "moviename": "Movie: Five Flowers of Marriage",
+          "japanese name": "映画 五等分の花嫁",
+          "sales": 8089,
+          "seats": 73751,
+          "showtimes": 388,
+          "theaters": 96,
+          "rank": 7,
+          "last_week_ratio": 101.9
         },
         {
-          "moviename": "Theatrical Version: Other World Card Battle ~Anazawa Ward~",
-          "japanese name": "劇場版 異世界かるてっと ～あなざーわーるど～",
-          "sales": 1824,
-          "seats": 33239,
-          "showtimes": 201,
-          "theaters": 47,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "ALIVEHOOON Livehooon Completion Screening Event",
-          "japanese name": "ＡＬＩＶＥＨＯＯＮ アライブフーン 完成披露上映会",
-          "sales": 1750,
-          "seats": 49989,
-          "showtimes": 482,
-          "theaters": 152,
-          "rank": 19,
+          "moviename": "Radiation House Theatrical Trailer",
+          "japanese name": "劇場版ラジエーションハウス",
+          "sales": 992,
+          "seats": 24061,
+          "showtimes": 197,
+          "theaters": 194,
+          "rank": 24,
           "last_week_ratio": null
         },
         {
@@ -718,23 +628,93 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Movie: Crayon Shin-chan: The Ninja Warriors of the Lost Legend",
-          "japanese name": "映画クレヨンしんちゃん もののけニンジャ珍風伝",
-          "sales": 1294,
-          "seats": 15302,
-          "showtimes": 147,
-          "theaters": 121,
-          "rank": 21,
-          "last_week_ratio": 225.4
+          "moviename": "The Death-Dealing Disease",
+          "japanese name": "死刑にいたる病",
+          "sales": 4597,
+          "seats": 27803,
+          "showtimes": 227,
+          "theaters": 180,
+          "rank": 10,
+          "last_week_ratio": null
         },
         {
-          "moviename": "Theatrical Version of Free! – The Final Stroke – Part 2",
-          "japanese name": "劇場版 Ｆｒｅｅ！ －ｔｈｅ Ｆｉｎａｌ Ｓｔｒｏｋｅ－ 後編",
-          "sales": 1213,
-          "seats": 17088,
-          "showtimes": 132,
-          "theaters": 129,
-          "rank": 22,
+          "moviename": "The Ultimate Househusband: The Movie",
+          "japanese name": "極主夫道 ザ・シネマ",
+          "sales": 8529,
+          "seats": 99674,
+          "showtimes": 903,
+          "theaters": 287,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dog King",
+          "japanese name": "犬王",
+          "sales": 4581,
+          "seats": 21990,
+          "showtimes": 172,
+          "theaters": 105,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Another World Kartetto ~Anaza-World~",
+          "japanese name": "劇場版 異世界かるてっと ～あなざーわーるど～",
+          "sales": 1824,
+          "seats": 33239,
+          "showtimes": 201,
+          "theaters": 47,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Yes, I can't swim",
+          "japanese name": "はい、泳げません",
+          "sales": 7387,
+          "seats": 145884,
+          "showtimes": 1053,
+          "theaters": 241,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sun and Bolero: Life is a Miracle!",
+          "japanese name": "太陽とボレロ Ｌｉｆｅ ｉｓ ａ ｍｉｒａｃｌｅ！",
+          "sales": 2917,
+          "seats": 31432,
+          "showtimes": 262,
+          "theaters": 164,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Suit Gundam: Kuurusu Doan’s Island",
+          "japanese name": "機動戦士ガンダム ククルス・ドアンの島",
+          "sales": 7060,
+          "seats": 110189,
+          "showtimes": 722,
+          "theaters": 162,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Top Gun: Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 83249,
+          "seats": 437861,
+          "showtimes": 2048,
+          "theaters": 293,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fantastic Beasts and the Secrets of Dumbledore",
+          "japanese name": "ファンタスティック・ビーストとダンブルドアの秘密",
+          "sales": 2125,
+          "seats": 18633,
+          "showtimes": 152,
+          "theaters": 146,
+          "rank": 17,
           "last_week_ratio": null
         },
         {
@@ -748,23 +728,43 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Theatrical Version of Radiation House",
-          "japanese name": "劇場版ラジエーションハウス",
-          "sales": 992,
-          "seats": 24061,
-          "showtimes": 197,
-          "theaters": 194,
-          "rank": 24,
+          "moviename": "Doctor Strange/Madness Multiverse",
+          "japanese name": "ドクター・ストレンジ／マルチバース・オブ・マッドネス",
+          "sales": 2181,
+          "seats": 23860,
+          "showtimes": 203,
+          "theaters": 195,
+          "rank": 16,
           "last_week_ratio": null
         },
         {
-          "moviename": "Kisaragi Station",
-          "japanese name": "きさらぎ駅",
-          "sales": 868,
-          "seats": 16478,
-          "showtimes": 152,
-          "theaters": 103,
-          "rank": 25,
+          "moviename": "ALIVEHOOON ALIVEHOON Completion Screening",
+          "japanese name": "ＡＬＩＶＥＨＯＯＮ アライブフーン 完成披露上映会",
+          "sales": 1750,
+          "seats": 49989,
+          "showtimes": 482,
+          "theaters": 152,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 からかい上手の高木さん",
+          "japanese name": "劇場版 からかい上手の高木さん",
+          "sales": 8430,
+          "seats": 131009,
+          "showtimes": 748,
+          "theaters": 135,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Free! –The Final Stroke– Part 2",
+          "japanese name": "劇場版 Ｆｒｅｅ！ －ｔｈｅ Ｆｉｎａｌ Ｓｔｒｏｋｅ－ 後編",
+          "sales": 1213,
+          "seats": 17088,
+          "showtimes": 132,
+          "theaters": 129,
+          "rank": 22,
           "last_week_ratio": null
         }
       ]

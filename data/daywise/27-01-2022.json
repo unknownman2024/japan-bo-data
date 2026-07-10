@@ -6,7 +6,27 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "Movie: Jujutsu Kaisen 0",
+          "moviename": "Black Box: Audio Analysis Investigation",
+          "japanese name": "ブラックボックス：音声分析捜査",
+          "sales": 297,
+          "seats": 2117,
+          "showtimes": 17,
+          "theaters": 11,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The big red puppy grew bigger, I'm Clifford",
+          "japanese name": "でっかくなっちゃった赤い子犬 僕はクリフォード",
+          "sales": 493,
+          "seats": 26293,
+          "showtimes": 231,
+          "theaters": 107,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Jujutsu Kaisen 0",
           "japanese name": "劇場版 呪術廻戦０",
           "sales": 11929,
           "seats": 208113,
@@ -16,83 +36,33 @@
           "last_week_ratio": 116.4
         },
         {
-          "moviename": "Confidence Man JP: Hero Edition",
-          "japanese name": "コンフィデンスマンＪＰ 英雄編",
-          "sales": 9109,
-          "seats": 148645,
-          "showtimes": 696,
-          "theaters": 286,
-          "rank": 2,
+          "moviename": "ARASHI 5×20 Film",
+          "japanese name": "ＡＲＡＳＨＩ ５×２０ ＦＩＬＭ",
+          "sales": 815,
+          "seats": 5824,
+          "showtimes": 49,
+          "theaters": 152,
+          "rank": 11,
+          "last_week_ratio": 115.6
+        },
+        {
+          "moviename": "Riders of Justice",
+          "japanese name": "ライダーズオブジャスティス",
+          "sales": 196,
+          "seats": 2185,
+          "showtimes": 14,
+          "theaters": 8,
+          "rank": 24,
           "last_week_ratio": null
         },
         {
-          "moviename": "Spider-Man: No Way Home",
-          "japanese name": "スパイダーマン ノー・ウェイ・ホーム",
-          "sales": 6163,
-          "seats": 132875,
-          "showtimes": 836,
-          "theaters": 293,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "99.9 Criminal Specialist Attorney THE MOVIE",
-          "japanese name": "９９．９ 刑事専門弁護士 ＴＨＥ ＭＯＶＩＥ",
-          "sales": 4636,
-          "seats": 66135,
-          "showtimes": 522,
-          "theaters": 288,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Coder Aino Uta",
-          "japanese name": "コーダ あいのうた",
-          "sales": 3448,
-          "seats": 41293,
-          "showtimes": 347,
-          "theaters": 175,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "House of Gucci",
-          "japanese name": "ハウス・オブ・グッチ",
-          "sales": 2599,
-          "seats": 35107,
-          "showtimes": 314,
-          "theaters": 243,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Midnight Girl War",
-          "japanese name": "真夜中乙女戦争",
-          "sales": 2499,
-          "seats": 81502,
-          "showtimes": 414,
-          "theaters": 185,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Cry Macho",
-          "japanese name": "クライ・マッチョ",
-          "sales": 1591,
-          "seats": 37533,
-          "showtimes": 339,
-          "theaters": 235,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Miyuki Nakajima Live History 2007–2016 Song Journey～Reunion～One Meeting",
-          "japanese name": "中島みゆき 劇場版 ライヴ・ヒストリー ２００７－２０１６ 歌旅～縁会～一会",
-          "sales": 1044,
-          "seats": 22189,
-          "showtimes": 181,
-          "theaters": 133,
-          "rank": 9,
+          "moviename": "A man fascinated by Rubik's Cube",
+          "japanese name": "キューブリックに魅せられた男",
+          "sales": 381,
+          "seats": 4401,
+          "showtimes": 32,
+          "theaters": 24,
+          "rank": 17,
           "last_week_ratio": null
         },
         {
@@ -106,14 +76,24 @@
           "last_week_ratio": 185.7
         },
         {
-          "moviename": "ARASHI 5×20 FILM",
-          "japanese name": "ＡＲＡＳＨＩ ５×２０ ＦＩＬＭ",
-          "sales": 815,
-          "seats": 5824,
-          "showtimes": 49,
-          "theaters": 152,
-          "rank": 11,
-          "last_week_ratio": 115.6
+          "moviename": "Galaxy Express 999 HD Remaster",
+          "japanese name": "銀河鉄道９９９ ＨＤリマスター版",
+          "sales": 185,
+          "seats": 1001,
+          "showtimes": 4,
+          "theaters": 4,
+          "rank": 25,
+          "last_week_ratio": 150.4
+        },
+        {
+          "moviename": "Mitani Miyuki剧场版 Live History 2007-2016 Song Journey～Reunion～One Meeting",
+          "japanese name": "中島みゆき 劇場版 ライヴ・ヒストリー ２００７－２０１６ 歌旅～縁会～一会",
+          "sales": 1044,
+          "seats": 22189,
+          "showtimes": 181,
+          "theaters": 133,
+          "rank": 9,
+          "last_week_ratio": null
         },
         {
           "moviename": "Kingsman: The First Agent",
@@ -126,33 +106,83 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The big red puppy, I'm Clifford",
-          "japanese name": "でっかくなっちゃった赤い子犬 僕はクリフォード",
-          "sales": 493,
-          "seats": 26293,
-          "showtimes": 231,
-          "theaters": 107,
-          "rank": 13,
+          "moviename": "Coder Aino Uta",
+          "japanese name": "コーダ あいのうた",
+          "sales": 3448,
+          "seats": 41293,
+          "showtimes": 347,
+          "theaters": 175,
+          "rank": 5,
           "last_week_ratio": null
         },
         {
-          "moviename": "Boss Baby: Family Mission",
-          "japanese name": "ボス・ベイビー ファミリー・ミッション",
-          "sales": 486,
-          "seats": 19042,
-          "showtimes": 192,
-          "theaters": 234,
-          "rank": 14,
-          "last_week_ratio": 105.4
+          "moviename": "Matrix Resurrections",
+          "japanese name": "マトリックス レザレクションズ",
+          "sales": 214,
+          "seats": 4764,
+          "showtimes": 36,
+          "theaters": 273,
+          "rank": 23,
+          "last_week_ratio": null
         },
         {
-          "moviename": "It's Your Turn: The Movie",
-          "japanese name": "あなたの番です 劇場版",
-          "sales": 458,
-          "seats": 11909,
-          "showtimes": 97,
-          "theaters": 266,
-          "rank": 15,
+          "moviename": "99.9 Criminal Specialist THE MOVIE",
+          "japanese name": "９９．９ 刑事専門弁護士 ＴＨＥ ＭＯＶＩＥ",
+          "sales": 4636,
+          "seats": 66135,
+          "showtimes": 522,
+          "theaters": 288,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version Stage \"Sword Dance of the Dead\" - The Dawn of the One-Eyed Dragon",
+          "japanese name": "劇場版 舞台「刀剣乱舞」義伝 暁の独眼竜",
+          "sales": 340,
+          "seats": 6003,
+          "showtimes": 42,
+          "theaters": 43,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Thunderbird 55 / GO GO",
+          "japanese name": "サンダーバード５５／ＧＯＧＯ",
+          "sales": 263,
+          "seats": 4079,
+          "showtimes": 34,
+          "theaters": 73,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Literary Stray Dogs BEST",
+          "japanese name": "映画 文豪ストレイドッグス ＢＥＡＳＴ",
+          "sales": 292,
+          "seats": 3359,
+          "showtimes": 32,
+          "theaters": 62,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Silkroad.com – The largest dark site in history",
+          "japanese name": "シルクロード．ｃｏｍ －史上最大の闇サイト－",
+          "sales": 262,
+          "seats": 7713,
+          "showtimes": 67,
+          "theaters": 36,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Midnight Girl War",
+          "japanese name": "真夜中乙女戦争",
+          "sales": 2499,
+          "seats": 81502,
+          "showtimes": 414,
+          "theaters": 185,
+          "rank": 7,
           "last_week_ratio": null
         },
         {
@@ -166,94 +196,64 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The man fascinated by Kubrick",
-          "japanese name": "キューブリックに魅せられた男",
-          "sales": 381,
-          "seats": 4401,
-          "showtimes": 32,
-          "theaters": 24,
-          "rank": 17,
+          "moviename": "Cry Macho",
+          "japanese name": "クライ・マッチョ",
+          "sales": 1591,
+          "seats": 37533,
+          "showtimes": 339,
+          "theaters": 235,
+          "rank": 8,
           "last_week_ratio": null
         },
         {
-          "moviename": "Theatrical Version: Stage \"Sword Art Online: The Dawn of the Dragon Eye\" - Kage no Dokugan",
-          "japanese name": "劇場版 舞台「刀剣乱舞」義伝 暁の独眼竜",
-          "sales": 340,
-          "seats": 6003,
-          "showtimes": 42,
-          "theaters": 43,
-          "rank": 18,
+          "moviename": "Boss Baby Family Mission",
+          "japanese name": "ボス・ベイビー ファミリー・ミッション",
+          "sales": 486,
+          "seats": 19042,
+          "showtimes": 192,
+          "theaters": 234,
+          "rank": 14,
+          "last_week_ratio": 105.4
+        },
+        {
+          "moviename": "Confident Man JP: Hero Edition",
+          "japanese name": "コンフィデンスマンＪＰ 英雄編",
+          "sales": 9109,
+          "seats": 148645,
+          "showtimes": 696,
+          "theaters": 286,
+          "rank": 2,
           "last_week_ratio": null
         },
         {
-          "moviename": "Black Box: Voice Analysis Investigation",
-          "japanese name": "ブラックボックス：音声分析捜査",
-          "sales": 297,
-          "seats": 2117,
-          "showtimes": 17,
-          "theaters": 11,
-          "rank": 19,
+          "moviename": "It's your turn Theater version",
+          "japanese name": "あなたの番です 劇場版",
+          "sales": 458,
+          "seats": 11909,
+          "showtimes": 97,
+          "theaters": 266,
+          "rank": 15,
           "last_week_ratio": null
         },
         {
-          "moviename": "Movie: The Master's Hat: Stray Dogs BEST",
-          "japanese name": "映画 文豪ストレイドッグス ＢＥＡＳＴ",
-          "sales": 292,
-          "seats": 3359,
-          "showtimes": 32,
-          "theaters": 62,
-          "rank": 20,
+          "moviename": "House of Gucci",
+          "japanese name": "ハウス・オブ・グッチ",
+          "sales": 2599,
+          "seats": 35107,
+          "showtimes": 314,
+          "theaters": 243,
+          "rank": 6,
           "last_week_ratio": null
         },
         {
-          "moviename": "Thunderbirds 55 / GO GO",
-          "japanese name": "サンダーバード５５／ＧＯＧＯ",
-          "sales": 263,
-          "seats": 4079,
-          "showtimes": 34,
-          "theaters": 73,
-          "rank": 21,
+          "moviename": "Spider-Man: No Way Home",
+          "japanese name": "スパイダーマン ノー・ウェイ・ホーム",
+          "sales": 6163,
+          "seats": 132875,
+          "showtimes": 836,
+          "theaters": 293,
+          "rank": 3,
           "last_week_ratio": null
-        },
-        {
-          "moviename": "Silkroad.com – The Largest Dark Site in History –",
-          "japanese name": "シルクロード．ｃｏｍ －史上最大の闇サイト－",
-          "sales": 262,
-          "seats": 7713,
-          "showtimes": 67,
-          "theaters": 36,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Matrix Resurrections",
-          "japanese name": "マトリックス レザレクションズ",
-          "sales": 214,
-          "seats": 4764,
-          "showtimes": 36,
-          "theaters": 273,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Riders of Justice",
-          "japanese name": "ライダーズオブジャスティス",
-          "sales": 196,
-          "seats": 2185,
-          "showtimes": 14,
-          "theaters": 8,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Galaxy Express 999 HD Remaster",
-          "japanese name": "銀河鉄道９９９ ＨＤリマスター版",
-          "sales": 185,
-          "seats": 1001,
-          "showtimes": 4,
-          "theaters": 4,
-          "rank": 25,
-          "last_week_ratio": 150.4
         }
       ]
     },
@@ -262,7 +262,27 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "Movie: Jujutsu Kaisen 0",
+          "moviename": "Black Box: Audio Analysis Investigation",
+          "japanese name": "ブラックボックス：音声分析捜査",
+          "sales": 452,
+          "seats": 3538,
+          "showtimes": 27,
+          "theaters": 11,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The big red puppy grew bigger, I'm Clifford",
+          "japanese name": "でっかくなっちゃった赤い子犬 僕はクリフォード",
+          "sales": 803,
+          "seats": 43948,
+          "showtimes": 385,
+          "theaters": 107,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Jujutsu Kaisen 0",
           "japanese name": "劇場版 呪術廻戦０",
           "sales": 23799,
           "seats": 377383,
@@ -272,77 +292,7 @@
           "last_week_ratio": 115.6
         },
         {
-          "moviename": "Confidence Man JP: Hero Edition",
-          "japanese name": "コンフィデンスマンＪＰ 英雄編",
-          "sales": 18077,
-          "seats": 292556,
-          "showtimes": 1350,
-          "theaters": 286,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Spider-Man: No Way Home",
-          "japanese name": "スパイダーマン ノー・ウェイ・ホーム",
-          "sales": 12849,
-          "seats": 245365,
-          "showtimes": 1526,
-          "theaters": 293,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "99.9 Criminal Specialist Attorney THE MOVIE",
-          "japanese name": "９９．９ 刑事専門弁護士 ＴＨＥ ＭＯＶＩＥ",
-          "sales": 7575,
-          "seats": 115828,
-          "showtimes": 925,
-          "theaters": 288,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Coder Aino Uta",
-          "japanese name": "コーダ あいのうた",
-          "sales": 5226,
-          "seats": 74490,
-          "showtimes": 611,
-          "theaters": 175,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Midnight Girl War",
-          "japanese name": "真夜中乙女戦争",
-          "sales": 4633,
-          "seats": 150946,
-          "showtimes": 755,
-          "theaters": 185,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "House of Gucci",
-          "japanese name": "ハウス・オブ・グッチ",
-          "sales": 4525,
-          "seats": 59577,
-          "showtimes": 530,
-          "theaters": 243,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Cry Macho",
-          "japanese name": "クライ・マッチョ",
-          "sales": 2477,
-          "seats": 60784,
-          "showtimes": 560,
-          "theaters": 235,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "ARASHI 5×20 FILM",
+          "moviename": "ARASHI 5×20 Film",
           "japanese name": "ＡＲＡＳＨＩ ５×２０ ＦＩＬＭ",
           "sales": 2012,
           "seats": 16524,
@@ -352,17 +302,37 @@
           "last_week_ratio": 155.2
         },
         {
-          "moviename": "My Hero Academia THE MOVIE World Heroes Mission Special Screening",
-          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ワールド ヒーローズ ミッション 特別上映",
-          "sales": 1523,
-          "seats": 2636,
-          "showtimes": 17,
-          "theaters": 7,
-          "rank": 10,
+          "moviename": "A man fascinated by Rubik's Cube",
+          "japanese name": "キューブリックに魅せられた男",
+          "sales": 690,
+          "seats": 7367,
+          "showtimes": 55,
+          "theaters": 24,
+          "rank": 18,
           "last_week_ratio": null
         },
         {
-          "moviename": "Miyuki Nakajima Live History 2007–2016 Song Journey～Reunion～One Meeting",
+          "moviename": "Drive My Car",
+          "japanese name": "ドライブ・マイ・カー",
+          "sales": 1404,
+          "seats": 10554,
+          "showtimes": 68,
+          "theaters": 32,
+          "rank": 13,
+          "last_week_ratio": 174
+        },
+        {
+          "moviename": "Youth at dawn",
+          "japanese name": "明け方の若者たち",
+          "sales": 733,
+          "seats": 3162,
+          "showtimes": 30,
+          "theaters": 37,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mitani Miyuki剧场版 Live History 2007-2016 Song Journey～Reunion～One Meeting",
           "japanese name": "中島みゆき 劇場版 ライヴ・ヒストリー ２００７－２０１６ 歌旅～縁会～一会",
           "sales": 1503,
           "seats": 38094,
@@ -382,107 +352,17 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Drive My Car",
-          "japanese name": "ドライブ・マイ・カー",
-          "sales": 1404,
-          "seats": 10554,
-          "showtimes": 68,
-          "theaters": 32,
-          "rank": 13,
-          "last_week_ratio": 174
-        },
-        {
-          "moviename": "It's Your Turn: The Movie",
-          "japanese name": "あなたの番です 劇場版",
-          "sales": 1296,
-          "seats": 26719,
-          "showtimes": 250,
-          "theaters": 266,
-          "rank": 14,
+          "moviename": "Coder Aino Uta",
+          "japanese name": "コーダ あいのうた",
+          "sales": 5226,
+          "seats": 74490,
+          "showtimes": 611,
+          "theaters": 175,
+          "rank": 5,
           "last_week_ratio": null
         },
         {
-          "moviename": "The Matrix Resurrections",
-          "japanese name": "マトリックス レザレクションズ",
-          "sales": 1047,
-          "seats": 18704,
-          "showtimes": 160,
-          "theaters": 273,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The big red puppy, I'm Clifford",
-          "japanese name": "でっかくなっちゃった赤い子犬 僕はクリフォード",
-          "sales": 803,
-          "seats": 43948,
-          "showtimes": 385,
-          "theaters": 107,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The young people of the early morning",
-          "japanese name": "明け方の若者たち",
-          "sales": 733,
-          "seats": 3162,
-          "showtimes": 30,
-          "theaters": 37,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The man fascinated by Kubrick",
-          "japanese name": "キューブリックに魅せられた男",
-          "sales": 690,
-          "seats": 7367,
-          "showtimes": 55,
-          "theaters": 24,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Boss Baby: Family Mission",
-          "japanese name": "ボス・ベイビー ファミリー・ミッション",
-          "sales": 642,
-          "seats": 26148,
-          "showtimes": 236,
-          "theaters": 234,
-          "rank": 19,
-          "last_week_ratio": 113.2
-        },
-        {
-          "moviename": "Movie: The Master's Hat: Stray Dogs BEST",
-          "japanese name": "映画 文豪ストレイドッグス ＢＥＡＳＴ",
-          "sales": 641,
-          "seats": 7921,
-          "showtimes": 70,
-          "theaters": 62,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version: Stage \"Sword Art Online: The Dawn of the Dragon Eye\" - Kage no Dokugan",
-          "japanese name": "劇場版 舞台「刀剣乱舞」義伝 暁の独眼竜",
-          "sales": 561,
-          "seats": 9168,
-          "showtimes": 67,
-          "theaters": 43,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Thunderbirds 55 / GO GO",
-          "japanese name": "サンダーバード５５／ＧＯＧＯ",
-          "sales": 556,
-          "seats": 9219,
-          "showtimes": 80,
-          "theaters": 73,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "White Snake: Fate",
+          "moviename": "White Snake: Good omen",
           "japanese name": "白蛇：縁起",
           "sales": 488,
           "seats": 4953,
@@ -492,23 +372,143 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Black Box: Voice Analysis Investigation",
-          "japanese name": "ブラックボックス：音声分析捜査",
-          "sales": 452,
-          "seats": 3538,
-          "showtimes": 27,
-          "theaters": 11,
-          "rank": 24,
+          "moviename": "Matrix Resurrections",
+          "japanese name": "マトリックス レザレクションズ",
+          "sales": 1047,
+          "seats": 18704,
+          "showtimes": 160,
+          "theaters": 273,
+          "rank": 15,
           "last_week_ratio": null
         },
         {
-          "moviename": "Silkroad.com – The Largest Dark Site in History –",
+          "moviename": "99.9 Criminal Specialist THE MOVIE",
+          "japanese name": "９９．９ 刑事専門弁護士 ＴＨＥ ＭＯＶＩＥ",
+          "sales": 7575,
+          "seats": 115828,
+          "showtimes": 925,
+          "theaters": 288,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version Stage \"Sword Dance of the Dead\" - The Dawn of the One-Eyed Dragon",
+          "japanese name": "劇場版 舞台「刀剣乱舞」義伝 暁の独眼竜",
+          "sales": 561,
+          "seats": 9168,
+          "showtimes": 67,
+          "theaters": 43,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Thunderbird 55 / GO GO",
+          "japanese name": "サンダーバード５５／ＧＯＧＯ",
+          "sales": 556,
+          "seats": 9219,
+          "showtimes": 80,
+          "theaters": 73,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Literary Stray Dogs BEST",
+          "japanese name": "映画 文豪ストレイドッグス ＢＥＡＳＴ",
+          "sales": 641,
+          "seats": 7921,
+          "showtimes": 70,
+          "theaters": 62,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Silkroad.com – The largest dark site in history",
           "japanese name": "シルクロード．ｃｏｍ －史上最大の闇サイト－",
           "sales": 403,
           "seats": 12213,
           "showtimes": 107,
           "theaters": 36,
           "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Midnight Girl War",
+          "japanese name": "真夜中乙女戦争",
+          "sales": 4633,
+          "seats": 150946,
+          "showtimes": 755,
+          "theaters": 185,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE World Heroes Mission Special Screening",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ワールド ヒーローズ ミッション 特別上映",
+          "sales": 1523,
+          "seats": 2636,
+          "showtimes": 17,
+          "theaters": 7,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Cry Macho",
+          "japanese name": "クライ・マッチョ",
+          "sales": 2477,
+          "seats": 60784,
+          "showtimes": 560,
+          "theaters": 235,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Boss Baby Family Mission",
+          "japanese name": "ボス・ベイビー ファミリー・ミッション",
+          "sales": 642,
+          "seats": 26148,
+          "showtimes": 236,
+          "theaters": 234,
+          "rank": 19,
+          "last_week_ratio": 113.2
+        },
+        {
+          "moviename": "Confident Man JP: Hero Edition",
+          "japanese name": "コンフィデンスマンＪＰ 英雄編",
+          "sales": 18077,
+          "seats": 292556,
+          "showtimes": 1350,
+          "theaters": 286,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "It's your turn Theater version",
+          "japanese name": "あなたの番です 劇場版",
+          "sales": 1296,
+          "seats": 26719,
+          "showtimes": 250,
+          "theaters": 266,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "House of Gucci",
+          "japanese name": "ハウス・オブ・グッチ",
+          "sales": 4525,
+          "seats": 59577,
+          "showtimes": 530,
+          "theaters": 243,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Spider-Man: No Way Home",
+          "japanese name": "スパイダーマン ノー・ウェイ・ホーム",
+          "sales": 12849,
+          "seats": 245365,
+          "showtimes": 1526,
+          "theaters": 293,
+          "rank": 3,
           "last_week_ratio": null
         }
       ]
@@ -517,6 +517,26 @@
       "title": "Including Independents",
       "time": "Final",
       "data": [
+        {
+          "moviename": "Black Box: Audio Analysis Investigation",
+          "japanese name": "ブラックボックス：音声分析捜査",
+          "sales": 583,
+          "seats": 4753,
+          "showtimes": 37,
+          "theaters": 11,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The big red puppy grew bigger, I'm Clifford",
+          "japanese name": "でっかくなっちゃった赤い子犬 僕はクリフォード",
+          "sales": 885,
+          "seats": 50969,
+          "showtimes": 442,
+          "theaters": 107,
+          "rank": 17,
+          "last_week_ratio": null
+        },
         {
           "moviename": "Theatrical Version: Jujutsu Kaisen 0",
           "japanese name": "劇場版 呪術廻戦０",
@@ -528,77 +548,7 @@
           "last_week_ratio": 117.3
         },
         {
-          "moviename": "Confidence Man JP Hero Edition",
-          "japanese name": "コンフィデンスマンＪＰ 英雄編",
-          "sales": 20735,
-          "seats": 360576,
-          "showtimes": 1638,
-          "theaters": 286,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Spider-Man: No Way Home",
-          "japanese name": "スパイダーマン ノー・ウェイ・ホーム",
-          "sales": 15945,
-          "seats": 320698,
-          "showtimes": 1962,
-          "theaters": 293,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "99.9 Criminal Specialist Attorney THE MOVIE",
-          "japanese name": "９９．９ 刑事専門弁護士 ＴＨＥ ＭＯＶＩＥ",
-          "sales": 8393,
-          "seats": 148680,
-          "showtimes": 1179,
-          "theaters": 288,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Coder: Aionuta",
-          "japanese name": "コーダ あいのうた",
-          "sales": 6025,
-          "seats": 96392,
-          "showtimes": 788,
-          "theaters": 175,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Midnight Girl War",
-          "japanese name": "真夜中乙女戦争",
-          "sales": 5436,
-          "seats": 188525,
-          "showtimes": 942,
-          "theaters": 185,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "House of Gucci",
-          "japanese name": "ハウス・オブ・グッチ",
-          "sales": 5307,
-          "seats": 80355,
-          "showtimes": 725,
-          "theaters": 243,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Cry Macho",
-          "japanese name": "クライ・マッチョ",
-          "sales": 2778,
-          "seats": 77999,
-          "showtimes": 713,
-          "theaters": 235,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "ARASHI 5×20 FILM",
+          "moviename": "ARASHI 5×20 Film",
           "japanese name": "ＡＲＡＳＨＩ ５×２０ ＦＩＬＭ",
           "sales": 2162,
           "seats": 17935,
@@ -608,43 +558,13 @@
           "last_week_ratio": 152.5
         },
         {
-          "moviename": "KINGSMAN FIRST AGENT",
-          "japanese name": "キングスマン ファースト・エージェント",
-          "sales": 1893,
-          "seats": 29638,
-          "showtimes": 281,
-          "theaters": 270,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Matrix Resurrections",
-          "japanese name": "マトリックス レザレクションズ",
-          "sales": 1852,
-          "seats": 28955,
-          "showtimes": 275,
-          "theaters": 273,
-          "rank": 11,
-          "last_week_ratio": 136.9
-        },
-        {
-          "moviename": "My Hero Academia THE MOVIE World Heroes Mission Special Screening",
-          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ワールド ヒーローズ ミッション 特別上映",
-          "sales": 1801,
-          "seats": 3231,
-          "showtimes": 20,
-          "theaters": 7,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Mitani Miyuki Live History 2007-2016 Song Journey～Reunion～One Meeting",
-          "japanese name": "中島みゆき 劇場版 ライヴ・ヒストリー ２００７－２０１６ 歌旅～縁会～一会",
-          "sales": 1606,
-          "seats": 41881,
-          "showtimes": 335,
-          "theaters": 133,
-          "rank": 13,
+          "moviename": "A man fascinated by Rubik's Cube",
+          "japanese name": "キューブリックに魅せられた男",
+          "sales": 843,
+          "seats": 9858,
+          "showtimes": 75,
+          "theaters": 24,
+          "rank": 18,
           "last_week_ratio": null
         },
         {
@@ -658,17 +578,7 @@
           "last_week_ratio": 173.3
         },
         {
-          "moviename": "It's your turn Movie version",
-          "japanese name": "あなたの番です 劇場版",
-          "sales": 1387,
-          "seats": 30697,
-          "showtimes": 287,
-          "theaters": 266,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Youth in the Morning",
+          "moviename": "Youth at dawn",
           "japanese name": "明け方の若者たち",
           "sales": 934,
           "seats": 3892,
@@ -678,37 +588,67 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The big red puppy grew up, I'm Clifford",
-          "japanese name": "でっかくなっちゃった赤い子犬 僕はクリフォード",
-          "sales": 885,
-          "seats": 50969,
-          "showtimes": 442,
-          "theaters": 107,
-          "rank": 17,
+          "moviename": "Mitani Miyuki剧场版 Live History 2007-2016 Song Journey～Reunion～One Meeting",
+          "japanese name": "中島みゆき 劇場版 ライヴ・ヒストリー ２００７－２０１６ 歌旅～縁会～一会",
+          "sales": 1606,
+          "seats": 41881,
+          "showtimes": 335,
+          "theaters": 133,
+          "rank": 13,
           "last_week_ratio": null
         },
         {
-          "moviename": "The Man Who Was Enchanted by the Rubik's Cube",
-          "japanese name": "キューブリックに魅せられた男",
-          "sales": 843,
-          "seats": 9858,
-          "showtimes": 75,
-          "theaters": 24,
-          "rank": 18,
+          "moviename": "Kingsman: The First Agent",
+          "japanese name": "キングスマン ファースト・エージェント",
+          "sales": 1893,
+          "seats": 29638,
+          "showtimes": 281,
+          "theaters": 270,
+          "rank": 10,
           "last_week_ratio": null
         },
         {
-          "moviename": "Movie The Master of St. Petersburg BEST",
-          "japanese name": "映画 文豪ストレイドッグス ＢＥＡＳＴ",
-          "sales": 708,
-          "seats": 9136,
-          "showtimes": 82,
-          "theaters": 62,
-          "rank": 19,
+          "moviename": "Coder Aino Uta",
+          "japanese name": "コーダ あいのうた",
+          "sales": 6025,
+          "seats": 96392,
+          "showtimes": 788,
+          "theaters": 175,
+          "rank": 5,
           "last_week_ratio": null
         },
         {
-          "moviename": "Movie version Stage \"Swords Dance of the Dead\" True Story Dawn One-Eyed Dragon",
+          "moviename": "White Snake: Good omen",
+          "japanese name": "白蛇：縁起",
+          "sales": 526,
+          "seats": 5786,
+          "showtimes": 86,
+          "theaters": 59,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Matrix Resurrections",
+          "japanese name": "マトリックス レザレクションズ",
+          "sales": 1852,
+          "seats": 28955,
+          "showtimes": 275,
+          "theaters": 273,
+          "rank": 11,
+          "last_week_ratio": 136.9
+        },
+        {
+          "moviename": "99.9 Criminal Specialist THE MOVIE",
+          "japanese name": "９９．９ 刑事専門弁護士 ＴＨＥ ＭＯＶＩＥ",
+          "sales": 8393,
+          "seats": 148680,
+          "showtimes": 1179,
+          "theaters": 288,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version Stage \"Sword Dance of the Dead\" - The Dawn of the One-Eyed Dragon",
           "japanese name": "劇場版 舞台「刀剣乱舞」義伝 暁の独眼竜",
           "sales": 669,
           "seats": 11509,
@@ -716,16 +656,6 @@
           "theaters": 43,
           "rank": 20,
           "last_week_ratio": null
-        },
-        {
-          "moviename": "Boss Baby: Family Mission",
-          "japanese name": "ボス・ベイビー ファミリー・ミッション",
-          "sales": 644,
-          "seats": 26265,
-          "showtimes": 237,
-          "theaters": 234,
-          "rank": 21,
-          "last_week_ratio": 112
         },
         {
           "moviename": "Thunderbird 55 / GO GO",
@@ -738,33 +668,103 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Black Box: Audio Analysis Investigation",
-          "japanese name": "ブラックボックス：音声分析捜査",
-          "sales": 583,
-          "seats": 4753,
-          "showtimes": 37,
-          "theaters": 11,
-          "rank": 23,
+          "moviename": "Movie Literary Stray Dogs BEST",
+          "japanese name": "映画 文豪ストレイドッグス ＢＥＡＳＴ",
+          "sales": 708,
+          "seats": 9136,
+          "showtimes": 82,
+          "theaters": 62,
+          "rank": 19,
           "last_week_ratio": null
         },
         {
-          "moviename": "White Snake: Good Fortune",
-          "japanese name": "白蛇：縁起",
-          "sales": 526,
-          "seats": 5786,
-          "showtimes": 86,
-          "theaters": 59,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Silkroad.com – The Largest Dark Site in History",
+          "moviename": "Silkroad.com – The largest dark site in history",
           "japanese name": "シルクロード．ｃｏｍ －史上最大の闇サイト－",
           "sales": 509,
           "seats": 16828,
           "showtimes": 143,
           "theaters": 36,
           "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Midnight Girl War",
+          "japanese name": "真夜中乙女戦争",
+          "sales": 5436,
+          "seats": 188525,
+          "showtimes": 942,
+          "theaters": 185,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE World Heroes Mission Special Screening",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ワールド ヒーローズ ミッション 特別上映",
+          "sales": 1801,
+          "seats": 3231,
+          "showtimes": 20,
+          "theaters": 7,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Cry Macho",
+          "japanese name": "クライ・マッチョ",
+          "sales": 2778,
+          "seats": 77999,
+          "showtimes": 713,
+          "theaters": 235,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Boss Baby Family Mission",
+          "japanese name": "ボス・ベイビー ファミリー・ミッション",
+          "sales": 644,
+          "seats": 26265,
+          "showtimes": 237,
+          "theaters": 234,
+          "rank": 21,
+          "last_week_ratio": 112
+        },
+        {
+          "moviename": "Confident Man JP: Hero Edition",
+          "japanese name": "コンフィデンスマンＪＰ 英雄編",
+          "sales": 20735,
+          "seats": 360576,
+          "showtimes": 1638,
+          "theaters": 286,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "It's your turn Theater version",
+          "japanese name": "あなたの番です 劇場版",
+          "sales": 1387,
+          "seats": 30697,
+          "showtimes": 287,
+          "theaters": 266,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "House of Gucci",
+          "japanese name": "ハウス・オブ・グッチ",
+          "sales": 5307,
+          "seats": 80355,
+          "showtimes": 725,
+          "theaters": 243,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Spider-Man: No Way Home",
+          "japanese name": "スパイダーマン ノー・ウェイ・ホーム",
+          "sales": 15945,
+          "seats": 320698,
+          "showtimes": 1962,
+          "theaters": 293,
+          "rank": 3,
           "last_week_ratio": null
         }
       ]

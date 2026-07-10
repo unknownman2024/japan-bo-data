@@ -6,23 +6,43 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "Aladdin",
-          "japanese name": "アラジン",
-          "sales": 17736,
-          "seats": 243827,
-          "showtimes": 843,
-          "theaters": 274,
-          "rank": 1,
+          "moviename": "Prometheus",
+          "japanese name": "プロメア",
+          "sales": 738,
+          "seats": 3501,
+          "showtimes": 22,
+          "theaters": 140,
+          "rank": 16,
           "last_week_ratio": null
         },
         {
-          "moviename": "The Fabule",
-          "japanese name": "ザ・ファブル",
-          "sales": 11783,
-          "seats": 145560,
-          "showtimes": 580,
-          "theaters": 261,
-          "rank": 2,
+          "moviename": "Kingdom",
+          "japanese name": "キングダム",
+          "sales": 650,
+          "seats": 9564,
+          "showtimes": 76,
+          "theaters": 256,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Don't cry, Red Demon",
+          "japanese name": "泣くな赤鬼",
+          "sales": 700,
+          "seats": 14793,
+          "showtimes": 129,
+          "theaters": 95,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Godzilla: King of Monsters",
+          "japanese name": "ゴジラ キング・オブ・モンスターズ",
+          "sales": 2578,
+          "seats": 67723,
+          "showtimes": 467,
+          "theaters": 271,
+          "rank": 5,
           "last_week_ratio": null
         },
         {
@@ -46,13 +66,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Godzilla: King of Monsters",
-          "japanese name": "ゴジラ キング・オブ・モンスターズ",
-          "sales": 2578,
-          "seats": 67723,
-          "showtimes": 467,
-          "theaters": 271,
-          "rank": 5,
+          "moviename": "Parallel World Love Story",
+          "japanese name": "パラレルワールド・ラブストーリー",
+          "sales": 517,
+          "seats": 13014,
+          "showtimes": 94,
+          "theaters": 252,
+          "rank": 23,
           "last_week_ratio": null
         },
         {
@@ -66,14 +86,24 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Theatrical Movie: Uta no☆Prinsesama♪ Maji LOVE Kingdom",
-          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥキングダム",
-          "sales": 2142,
-          "seats": 22075,
-          "showtimes": 154,
-          "theaters": 114,
-          "rank": 7,
-          "last_week_ratio": 127.2
+          "moviename": "The Fabule",
+          "japanese name": "ザ・ファブル",
+          "sales": 11783,
+          "seats": 145560,
+          "showtimes": 580,
+          "theaters": 261,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A Town's Tall Chimney",
+          "japanese name": "ある町の高い煙突",
+          "sales": 675,
+          "seats": 13381,
+          "showtimes": 102,
+          "theaters": 72,
+          "rank": 19,
+          "last_week_ratio": 237.7
         },
         {
           "moviename": "If only I could ride the waves with you…",
@@ -86,43 +116,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Confident Man JP",
-          "japanese name": "コンフィデンスマンＪＰ",
-          "sales": 1527,
-          "seats": 35661,
-          "showtimes": 276,
-          "theaters": 255,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Final Fantasy XIV: The Father of Light – Theatrical Version",
-          "japanese name": "劇場版 ファイナルファンタジーＸＩＶ 光のお父さん",
-          "sales": 1475,
-          "seats": 20239,
-          "showtimes": 146,
-          "theaters": 86,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Girls & Panzers: Final Chapter, Episode 2",
-          "japanese name": "ガールズ＆パンツァー 最終章 第２話",
-          "sales": 1208,
-          "seats": 17234,
-          "showtimes": 86,
-          "theaters": 44,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The youth pig doesn’t dream of the dreams of girls.",
+          "moviename": "The young piglet never dreams of the girl’s dreams.",
           "japanese name": "青春ブタ野郎はゆめみる少女の夢を見ない",
           "sales": 931,
           "seats": 10300,
           "showtimes": 46,
           "theaters": 26,
           "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Aladdin",
+          "japanese name": "アラジン",
+          "sales": 17736,
+          "seats": 243827,
+          "showtimes": 843,
+          "theaters": 274,
+          "rank": 1,
           "last_week_ratio": null
         },
         {
@@ -136,6 +146,76 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Avengers/Endgame",
+          "japanese name": "アベンジャーズ／エンドゲーム",
+          "sales": 644,
+          "seats": 3710,
+          "showtimes": 33,
+          "theaters": 215,
+          "rank": 21,
+          "last_week_ratio": 100.2
+        },
+        {
+          "moviename": "Theatrical Version Uta no ☆ Prince-sama♪ Maji LOVE Kingdom",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥキングダム",
+          "sales": 2142,
+          "seats": 22075,
+          "showtimes": 154,
+          "theaters": 114,
+          "rank": 7,
+          "last_week_ratio": 127.2
+        },
+        {
+          "moviename": "Detective Conan 2019: Blue Fist",
+          "japanese name": "名探偵コナン２０１９ 紺青の拳（フィスト）",
+          "sales": 246,
+          "seats": 11464,
+          "showtimes": 80,
+          "theaters": 255,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Girls & Panzers: Final Chapter, Episode 2",
+          "japanese name": "ガールズ＆パンツァー 最終章 第２話",
+          "sales": 1208,
+          "seats": 17234,
+          "showtimes": 86,
+          "theaters": 44,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Final Fantasy XIV: The Father of Light – Theatrical Version",
+          "japanese name": "劇場版 ファイナルファンタジーＸＩＶ 光のお父さん",
+          "sales": 1475,
+          "seats": 20239,
+          "showtimes": 146,
+          "theaters": 86,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Papillon",
+          "japanese name": "パピヨン",
+          "sales": 584,
+          "seats": 3217,
+          "showtimes": 22,
+          "theaters": 16,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Confident Man JP",
+          "japanese name": "コンフィデンスマンＪＰ",
+          "sales": 1527,
+          "seats": 35661,
+          "showtimes": 276,
+          "theaters": 255,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Children of sea beasts",
           "japanese name": "海獣の子供",
           "sales": 800,
@@ -143,26 +223,6 @@
           "showtimes": 90,
           "theaters": 139,
           "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "A long goodbye",
-          "japanese name": "長いお別れ",
-          "sales": 788,
-          "seats": 13623,
-          "showtimes": 111,
-          "theaters": 137,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Promea",
-          "japanese name": "プロメア",
-          "sales": 738,
-          "seats": 3501,
-          "showtimes": 22,
-          "theaters": 140,
-          "rank": 16,
           "last_week_ratio": null
         },
         {
@@ -176,63 +236,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Don’t cry, Red Ghost.",
-          "japanese name": "泣くな赤鬼",
-          "sales": 700,
-          "seats": 14793,
-          "showtimes": 129,
-          "theaters": 95,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The tall chimneys of a certain town",
-          "japanese name": "ある町の高い煙突",
-          "sales": 675,
-          "seats": 13381,
-          "showtimes": 102,
-          "theaters": 72,
-          "rank": 19,
-          "last_week_ratio": 237.7
-        },
-        {
-          "moviename": "Kingdom",
-          "japanese name": "キングダム",
-          "sales": 650,
-          "seats": 9564,
-          "showtimes": 76,
-          "theaters": 256,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Avengers: Endgame",
-          "japanese name": "アベンジャーズ／エンドゲーム",
-          "sales": 644,
-          "seats": 3710,
-          "showtimes": 33,
-          "theaters": 215,
-          "rank": 21,
-          "last_week_ratio": 100.2
-        },
-        {
-          "moviename": "Papillon",
-          "japanese name": "パピヨン",
-          "sales": 584,
-          "seats": 3217,
-          "showtimes": 22,
-          "theaters": 16,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Parallel World Love Story",
-          "japanese name": "パラレルワールド・ラブストーリー",
-          "sales": 517,
-          "seats": 13014,
-          "showtimes": 94,
-          "theaters": 252,
-          "rank": 23,
+          "moviename": "A long goodbye",
+          "japanese name": "長いお別れ",
+          "sales": 788,
+          "seats": 13623,
+          "showtimes": 111,
+          "theaters": 137,
+          "rank": 15,
           "last_week_ratio": null
         },
         {
@@ -244,16 +254,6 @@
           "theaters": 255,
           "rank": 24,
           "last_week_ratio": null
-        },
-        {
-          "moviename": "Detective Conan 2019: Blue Fist",
-          "japanese name": "名探偵コナン２０１９ 紺青の拳（フィスト）",
-          "sales": 246,
-          "seats": 11464,
-          "showtimes": 80,
-          "theaters": 255,
-          "rank": 25,
-          "last_week_ratio": null
         }
       ]
     },
@@ -262,23 +262,43 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "Aladdin",
-          "japanese name": "アラジン",
-          "sales": 42600,
-          "seats": 471310,
-          "showtimes": 1631,
-          "theaters": 274,
-          "rank": 1,
+          "moviename": "Prometheus",
+          "japanese name": "プロメア",
+          "sales": 4354,
+          "seats": 19233,
+          "showtimes": 127,
+          "theaters": 140,
+          "rank": 7,
+          "last_week_ratio": 118.6
+        },
+        {
+          "moviename": "Kingdom",
+          "japanese name": "キングダム",
+          "sales": 1597,
+          "seats": 29703,
+          "showtimes": 217,
+          "theaters": 256,
+          "rank": 16,
           "last_week_ratio": null
         },
         {
-          "moviename": "The Fabule",
-          "japanese name": "ザ・ファブル",
-          "sales": 20021,
-          "seats": 269462,
-          "showtimes": 1081,
-          "theaters": 261,
-          "rank": 2,
+          "moviename": "Don't cry, Red Demon",
+          "japanese name": "泣くな赤鬼",
+          "sales": 906,
+          "seats": 20513,
+          "showtimes": 178,
+          "theaters": 95,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Godzilla: King of Monsters",
+          "japanese name": "ゴジラ キング・オブ・モンスターズ",
+          "sales": 5445,
+          "seats": 128435,
+          "showtimes": 895,
+          "theaters": 271,
+          "rank": 5,
           "last_week_ratio": null
         },
         {
@@ -302,53 +322,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Godzilla: King of Monsters",
-          "japanese name": "ゴジラ キング・オブ・モンスターズ",
-          "sales": 5445,
-          "seats": 128435,
-          "showtimes": 895,
-          "theaters": 271,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Movie: Uta no☆Prinsesama♪ Maji LOVE Kingdom",
-          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥキングダム",
-          "sales": 4785,
-          "seats": 41233,
-          "showtimes": 286,
-          "theaters": 114,
-          "rank": 6,
-          "last_week_ratio": 127.9
-        },
-        {
-          "moviename": "Promea",
-          "japanese name": "プロメア",
-          "sales": 4354,
-          "seats": 19233,
-          "showtimes": 127,
-          "theaters": 140,
-          "rank": 7,
-          "last_week_ratio": 118.6
-        },
-        {
-          "moviename": "If only I could ride the waves with you…",
-          "japanese name": "きみと、波にのれたら",
-          "sales": 3228,
-          "seats": 178856,
-          "showtimes": 1021,
-          "theaters": 246,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Confident Man JP",
-          "japanese name": "コンフィデンスマンＪＰ",
-          "sales": 3195,
-          "seats": 61334,
-          "showtimes": 465,
-          "theaters": 255,
-          "rank": 9,
+          "moviename": "Parallel World Love Story",
+          "japanese name": "パラレルワールド・ラブストーリー",
+          "sales": 1132,
+          "seats": 32665,
+          "showtimes": 248,
+          "theaters": 252,
+          "rank": 18,
           "last_week_ratio": null
         },
         {
@@ -362,27 +342,37 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Final Fantasy XIV: The Father of Light – Theatrical Version",
-          "japanese name": "劇場版 ファイナルファンタジーＸＩＶ 光のお父さん",
-          "sales": 2709,
-          "seats": 34541,
-          "showtimes": 250,
-          "theaters": 86,
-          "rank": 11,
+          "moviename": "The Fabule",
+          "japanese name": "ザ・ファブル",
+          "sales": 20021,
+          "seats": 269462,
+          "showtimes": 1081,
+          "theaters": 261,
+          "rank": 2,
           "last_week_ratio": null
         },
         {
-          "moviename": "Girls & Panzers: Final Chapter, Episode 2",
-          "japanese name": "ガールズ＆パンツァー 最終章 第２話",
-          "sales": 2498,
-          "seats": 28720,
-          "showtimes": 152,
-          "theaters": 44,
-          "rank": 12,
+          "moviename": "A Town's Tall Chimney",
+          "japanese name": "ある町の高い煙突",
+          "sales": 879,
+          "seats": 22791,
+          "showtimes": 169,
+          "theaters": 72,
+          "rank": 24,
+          "last_week_ratio": 193.6
+        },
+        {
+          "moviename": "If only I could ride the waves with you…",
+          "japanese name": "きみと、波にのれたら",
+          "sales": 3228,
+          "seats": 178856,
+          "showtimes": 1021,
+          "theaters": 246,
+          "rank": 8,
           "last_week_ratio": null
         },
         {
-          "moviename": "The youth pig doesn’t dream of the dreams of girls.",
+          "moviename": "The young piglet never dreams of the girl’s dreams.",
           "japanese name": "青春ブタ野郎はゆめみる少女の夢を見ない",
           "sales": 2309,
           "seats": 19736,
@@ -392,33 +382,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Avengers: Endgame",
-          "japanese name": "アベンジャーズ／エンドゲーム",
-          "sales": 2266,
-          "seats": 19272,
-          "showtimes": 151,
-          "theaters": 215,
-          "rank": 14,
-          "last_week_ratio": 121.5
-        },
-        {
-          "moviename": "Children of sea beasts",
-          "japanese name": "海獣の子供",
-          "sales": 1620,
-          "seats": 21273,
-          "showtimes": 170,
-          "theaters": 139,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Kingdom",
-          "japanese name": "キングダム",
-          "sales": 1597,
-          "seats": 29703,
-          "showtimes": 217,
-          "theaters": 256,
-          "rank": 16,
+          "moviename": "Aladdin",
+          "japanese name": "アラジン",
+          "sales": 42600,
+          "seats": 471310,
+          "showtimes": 1631,
+          "theaters": 274,
+          "rank": 1,
           "last_week_ratio": null
         },
         {
@@ -432,33 +402,53 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Parallel World Love Story",
-          "japanese name": "パラレルワールド・ラブストーリー",
-          "sales": 1132,
-          "seats": 32665,
-          "showtimes": 248,
-          "theaters": 252,
-          "rank": 18,
+          "moviename": "Avengers/Endgame",
+          "japanese name": "アベンジャーズ／エンドゲーム",
+          "sales": 2266,
+          "seats": 19272,
+          "showtimes": 151,
+          "theaters": 215,
+          "rank": 14,
+          "last_week_ratio": 121.5
+        },
+        {
+          "moviename": "Theatrical Version Uta no ☆ Prince-sama♪ Maji LOVE Kingdom",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥキングダム",
+          "sales": 4785,
+          "seats": 41233,
+          "showtimes": 286,
+          "theaters": 114,
+          "rank": 6,
+          "last_week_ratio": 127.9
+        },
+        {
+          "moviename": "Detective Conan 2019: Blue Fist",
+          "japanese name": "名探偵コナン２０１９ 紺青の拳（フィスト）",
+          "sales": 832,
+          "seats": 34415,
+          "showtimes": 243,
+          "theaters": 255,
+          "rank": 25,
           "last_week_ratio": null
         },
         {
-          "moviename": "A long goodbye",
-          "japanese name": "長いお別れ",
-          "sales": 942,
-          "seats": 18207,
-          "showtimes": 142,
-          "theaters": 137,
-          "rank": 19,
+          "moviename": "Girls & Panzers: Final Chapter, Episode 2",
+          "japanese name": "ガールズ＆パンツァー 最終章 第２話",
+          "sales": 2498,
+          "seats": 28720,
+          "showtimes": 152,
+          "theaters": 44,
+          "rank": 12,
           "last_week_ratio": null
         },
         {
-          "moviename": "Don’t cry, Red Ghost.",
-          "japanese name": "泣くな赤鬼",
-          "sales": 906,
-          "seats": 20513,
-          "showtimes": 178,
-          "theaters": 95,
-          "rank": 20,
+          "moviename": "Final Fantasy XIV: The Father of Light – Theatrical Version",
+          "japanese name": "劇場版 ファイナルファンタジーＸＩＶ 光のお父さん",
+          "sales": 2709,
+          "seats": 34541,
+          "showtimes": 250,
+          "theaters": 86,
+          "rank": 11,
           "last_week_ratio": null
         },
         {
@@ -472,13 +462,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Famous Detective Pikachu",
-          "japanese name": "名探偵ピカチュウ",
-          "sales": 892,
-          "seats": 34172,
-          "showtimes": 251,
+          "moviename": "Confident Man JP",
+          "japanese name": "コンフィデンスマンＪＰ",
+          "sales": 3195,
+          "seats": 61334,
+          "showtimes": 465,
           "theaters": 255,
-          "rank": 22,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Children of sea beasts",
+          "japanese name": "海獣の子供",
+          "sales": 1620,
+          "seats": 21273,
+          "showtimes": 170,
+          "theaters": 139,
+          "rank": 15,
           "last_week_ratio": null
         },
         {
@@ -492,23 +492,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The tall chimneys of a certain town",
-          "japanese name": "ある町の高い煙突",
-          "sales": 879,
-          "seats": 22791,
-          "showtimes": 169,
-          "theaters": 72,
-          "rank": 24,
-          "last_week_ratio": 193.6
+          "moviename": "A long goodbye",
+          "japanese name": "長いお別れ",
+          "sales": 942,
+          "seats": 18207,
+          "showtimes": 142,
+          "theaters": 137,
+          "rank": 19,
+          "last_week_ratio": null
         },
         {
-          "moviename": "Detective Conan 2019: Blue Fist",
-          "japanese name": "名探偵コナン２０１９ 紺青の拳（フィスト）",
-          "sales": 832,
-          "seats": 34415,
-          "showtimes": 243,
+          "moviename": "Famous Detective Pikachu",
+          "japanese name": "名探偵ピカチュウ",
+          "sales": 892,
+          "seats": 34172,
+          "showtimes": 251,
           "theaters": 255,
-          "rank": 25,
+          "rank": 22,
           "last_week_ratio": null
         }
       ]

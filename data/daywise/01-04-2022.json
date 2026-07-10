@@ -6,36 +6,6 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "SING Sing Next Stage",
-          "japanese name": "ＳＩＮＧ シング ネクストステージ",
-          "sales": 45395,
-          "seats": 177777,
-          "showtimes": 805,
-          "theaters": 292,
-          "rank": 1,
-          "last_week_ratio": 181
-        },
-        {
-          "moviename": "Movie Doraemon Nobita's Space Wars 2021",
-          "japanese name": "映画ドラえもん のび太の宇宙小戦争 ２０２１",
-          "sales": 35676,
-          "seats": 121924,
-          "showtimes": 823,
-          "theaters": 286,
-          "rank": 2,
-          "last_week_ratio": 172.5
-        },
-        {
-          "moviename": "Mobius",
-          "japanese name": "モービウス",
-          "sales": 20875,
-          "seats": 154334,
-          "showtimes": 826,
-          "theaters": 291,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Movie Osomatsu-san",
           "japanese name": "映画 おそ松さん",
           "sales": 13879,
@@ -46,14 +16,24 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "10 years to live",
-          "japanese name": "余命１０年",
-          "sales": 13199,
-          "seats": 59849,
-          "showtimes": 442,
-          "theaters": 287,
-          "rank": 5,
-          "last_week_ratio": 106.6
+          "moviename": "Theatrical Version: Jujutsu Kaisen 0",
+          "japanese name": "劇場版 呪術廻戦０",
+          "sales": 4573,
+          "seats": 19068,
+          "showtimes": 182,
+          "theaters": 268,
+          "rank": 8,
+          "last_week_ratio": 103.4
+        },
+        {
+          "moviename": "Movie Doraemon: Nobita's Space Wars 2021",
+          "japanese name": "映画ドラえもん のび太の宇宙小戦争 ２０２１",
+          "sales": 35676,
+          "seats": 121924,
+          "showtimes": 823,
+          "theaters": 286,
+          "rank": 2,
+          "last_week_ratio": 172.5
         },
         {
           "moviename": "Drive My Car",
@@ -66,37 +46,7 @@
           "last_week_ratio": 482.3
         },
         {
-          "moviename": "东西ジャニーズJr. ぼくらのサバイバルウォーズ",
-          "japanese name": "東西ジャニーズＪｒ．ぼくらのサバイバルウォーズ",
-          "sales": 5722,
-          "seats": 44259,
-          "showtimes": 222,
-          "theaters": 93,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "剧场版 咒术回战0",
-          "japanese name": "劇場版 呪術廻戦０",
-          "sales": 4573,
-          "seats": 19068,
-          "showtimes": 182,
-          "theaters": 268,
-          "rank": 8,
-          "last_week_ratio": 103.4
-        },
-        {
-          "moviename": "电影 Odd Taxi In The Woods",
-          "japanese name": "映画 オッドタクシー イン・ザ・ウッズ",
-          "sales": 3817,
-          "seats": 9455,
-          "showtimes": 57,
-          "theaters": 33,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "MOVIE ASSISTANT SYRIARTI",
+          "moviename": "Movie Asshole Tantei Shiriati",
           "japanese name": "映画おしりたんてい シリアーティ",
           "sales": 3651,
           "seats": 29842,
@@ -106,7 +56,7 @@
           "last_week_ratio": 170.1
         },
         {
-          "moviename": "CODA あいのうた",
+          "moviename": "Coder Aino Uta",
           "japanese name": "コーダ あいのうた",
           "sales": 2896,
           "seats": 26591,
@@ -116,63 +66,23 @@
           "last_week_ratio": 2068.6
         },
         {
-          "moviename": "KAMEN RIDER OZ 10TH REBIRTH CORE MEDAL",
-          "japanese name": "仮面ライダーオーズ １０ｔｈ 復活のコアメダル",
-          "sales": 2070,
-          "seats": 17791,
-          "showtimes": 92,
-          "theaters": 67,
-          "rank": 12,
+          "moviename": "Theatrical Version Stage \"Sword Dance of the Dead\" Tenken: Tenka no Hei -Osaka Winter Campaign-",
+          "japanese name": "劇場版 舞台「刀剣乱舞」天伝 蒼空の兵 －大坂冬の陣－",
+          "sales": 794,
+          "seats": 3321,
+          "showtimes": 31,
+          "theaters": 37,
+          "rank": 24,
           "last_week_ratio": null
         },
         {
-          "moviename": "THE BATMAN – THE BATMAN –",
-          "japanese name": "ＴＨＥ ＢＡＴＭＡＮ －ザ・バットマン－",
-          "sales": 2003,
-          "seats": 26627,
-          "showtimes": 203,
-          "theaters": 283,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Soon to reach the sea",
-          "japanese name": "やがて海へと届く",
-          "sales": 1500,
-          "seats": 16023,
-          "showtimes": 126,
-          "theaters": 77,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Galaxy Heroes传说 Die Neue These Conflict Chapter 2",
-          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 激突 第二章",
-          "sales": 1399,
-          "seats": 7319,
-          "showtimes": 54,
-          "theaters": 32,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Want to be killed by a high school girl",
-          "japanese name": "女子高生に殺されたい",
-          "sales": 1319,
-          "seats": 9922,
-          "showtimes": 75,
-          "theaters": 46,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "KAPPÉI KAPPÉI",
-          "japanese name": "ＫＡＰＰＥＩ カッペイ",
-          "sales": 1292,
-          "seats": 17338,
-          "showtimes": 166,
-          "theaters": 275,
-          "rank": 17,
+          "moviename": "电影 Odd Taxi In The Woods",
+          "japanese name": "映画 オッドタクシー イン・ザ・ウッズ",
+          "sales": 3817,
+          "seats": 9455,
+          "showtimes": 57,
+          "theaters": 33,
+          "rank": 9,
           "last_week_ratio": null
         },
         {
@@ -186,6 +96,36 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Movie Thomas & Friends: All Star Parade",
+          "japanese name": "映画 きかんしゃトーマス オールスター☆パレード",
+          "sales": 872,
+          "seats": 20483,
+          "showtimes": 250,
+          "theaters": 133,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Soon to reach the sea",
+          "japanese name": "やがて海へと届く",
+          "sales": 1500,
+          "seats": 16023,
+          "showtimes": 126,
+          "theaters": 77,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "KAPPÉI KAPPÉI",
+          "japanese name": "ＫＡＰＰＥＩ カッペイ",
+          "sales": 1292,
+          "seats": 17338,
+          "showtimes": 166,
+          "theaters": 275,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Belfast",
           "japanese name": "ベルファスト",
           "sales": 1106,
@@ -196,7 +136,37 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Wedding Day",
+          "moviename": "Want to be killed by a high school girl",
+          "japanese name": "女子高生に殺されたい",
+          "sales": 1319,
+          "seats": 9922,
+          "showtimes": 75,
+          "theaters": 46,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Galaxy Heroes传说 Die Neue These Conflict Chapter 2",
+          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 激突 第二章",
+          "sales": 1399,
+          "seats": 7319,
+          "showtimes": 54,
+          "theaters": 32,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nintama Rō: Nintama Rō and the Sparkling Kingdom's Prince",
+          "japanese name": "映画しまじろう しまじろうと キラキラおうこくの おうじさま",
+          "sales": 799,
+          "seats": 12205,
+          "showtimes": 103,
+          "theaters": 87,
+          "rank": 23,
+          "last_week_ratio": 125
+        },
+        {
+          "moviename": "Wedding High",
           "japanese name": "ウェディング・ハイ",
           "sales": 914,
           "seats": 11367,
@@ -206,13 +176,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Movie Thomas the Tank Engine All-Star Parade",
-          "japanese name": "映画 きかんしゃトーマス オールスター☆パレード",
-          "sales": 872,
-          "seats": 20483,
-          "showtimes": 250,
-          "theaters": 133,
-          "rank": 21,
+          "moviename": "Life expectancy of 10 years",
+          "japanese name": "余命１０年",
+          "sales": 13199,
+          "seats": 59849,
+          "showtimes": 442,
+          "theaters": 287,
+          "rank": 5,
+          "last_week_ratio": 106.6
+        },
+        {
+          "moviename": "ＴＨＥ ＢＡＴＭＡＮ －ＴＨＥ ＢＡＴＭＡＮ－",
+          "japanese name": "ＴＨＥ ＢＡＴＭＡＮ －ザ・バットマン－",
+          "sales": 2003,
+          "seats": 26627,
+          "showtimes": 203,
+          "theaters": 283,
+          "rank": 13,
           "last_week_ratio": null
         },
         {
@@ -226,27 +206,47 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Crayon Shin-chan: Shin-chan and the Kira-Kira Kingdom's Prince",
-          "japanese name": "映画しまじろう しまじろうと キラキラおうこくの おうじさま",
-          "sales": 799,
-          "seats": 12205,
-          "showtimes": 103,
-          "theaters": 87,
-          "rank": 23,
-          "last_week_ratio": 125
-        },
-        {
-          "moviename": "Theatrical Version Stage \"Sword Dance of the Dead\" Tenken: Tenka no Hei -Osaka Winter Campaign-",
-          "japanese name": "劇場版 舞台「刀剣乱舞」天伝 蒼空の兵 －大坂冬の陣－",
-          "sales": 794,
-          "seats": 3321,
-          "showtimes": 31,
-          "theaters": 37,
-          "rank": 24,
+          "moviename": "东西ジャニーズJr. ぼくらのサバイバルウォーズ",
+          "japanese name": "東西ジャニーズＪｒ．ぼくらのサバイバルウォーズ",
+          "sales": 5722,
+          "seats": 44259,
+          "showtimes": 222,
+          "theaters": 93,
+          "rank": 7,
           "last_week_ratio": null
         },
         {
-          "moviename": "Outsider",
+          "moviename": "SING Sing Next Stage",
+          "japanese name": "ＳＩＮＧ シング ネクストステージ",
+          "sales": 45395,
+          "seats": 177777,
+          "showtimes": 805,
+          "theaters": 292,
+          "rank": 1,
+          "last_week_ratio": 181
+        },
+        {
+          "moviename": "Kamen Rider Ooz 10th Rebirth Core Medal",
+          "japanese name": "仮面ライダーオーズ １０ｔｈ 復活のコアメダル",
+          "sales": 2070,
+          "seats": 17791,
+          "showtimes": 92,
+          "theaters": 67,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobius",
+          "japanese name": "モービウス",
+          "sales": 20875,
+          "seats": 154334,
+          "showtimes": 826,
+          "theaters": 291,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Those beyond the heavens",
           "japanese name": "天外者",
           "sales": 753,
           "seats": 8006,
@@ -262,46 +262,6 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "SING Sing Next Stage",
-          "japanese name": "ＳＩＮＧ シング ネクストステージ",
-          "sales": 64956,
-          "seats": 302204,
-          "showtimes": 1371,
-          "theaters": 292,
-          "rank": 1,
-          "last_week_ratio": 165.2
-        },
-        {
-          "moviename": "Movie Doraemon Nobita's Space Wars 2021",
-          "japanese name": "映画ドラえもん のび太の宇宙小戦争 ２０２１",
-          "sales": 45423,
-          "seats": 183815,
-          "showtimes": 1231,
-          "theaters": 286,
-          "rank": 2,
-          "last_week_ratio": 157.7
-        },
-        {
-          "moviename": "Mobius",
-          "japanese name": "モービウス",
-          "sales": 39650,
-          "seats": 290328,
-          "showtimes": 1531,
-          "theaters": 291,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "10 years to live",
-          "japanese name": "余命１０年",
-          "sales": 25832,
-          "seats": 114642,
-          "showtimes": 846,
-          "theaters": 287,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Movie Osomatsu-san",
           "japanese name": "映画 おそ松さん",
           "sales": 20365,
@@ -310,6 +270,36 @@
           "theaters": 180,
           "rank": 5,
           "last_week_ratio": null
+        },
+        {
+          "moviename": "Anisong Stars!! Road to Show!!",
+          "japanese name": "あんさんぶるスターズ！！ Ｒｏａｄ ｔｏ Ｓｈｏｗ！！",
+          "sales": 1643,
+          "seats": 15055,
+          "showtimes": 81,
+          "theaters": 83,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Jujutsu Kaisen 0",
+          "japanese name": "劇場版 呪術廻戦０",
+          "sales": 9159,
+          "seats": 47828,
+          "showtimes": 411,
+          "theaters": 268,
+          "rank": 7,
+          "last_week_ratio": 101.3
+        },
+        {
+          "moviename": "Movie Doraemon: Nobita's Space Wars 2021",
+          "japanese name": "映画ドラえもん のび太の宇宙小戦争 ２０２１",
+          "sales": 45423,
+          "seats": 183815,
+          "showtimes": 1231,
+          "theaters": 286,
+          "rank": 2,
+          "last_week_ratio": 157.7
         },
         {
           "moviename": "Drive My Car",
@@ -322,23 +312,33 @@
           "last_week_ratio": 465.5
         },
         {
-          "moviename": "剧场版 咒术回战0",
-          "japanese name": "劇場版 呪術廻戦０",
-          "sales": 9159,
-          "seats": 47828,
-          "showtimes": 411,
-          "theaters": 268,
-          "rank": 7,
-          "last_week_ratio": 101.3
+          "moviename": "Movie Asshole Tantei Shiriati",
+          "japanese name": "映画おしりたんてい シリアーティ",
+          "sales": 3904,
+          "seats": 33039,
+          "showtimes": 301,
+          "theaters": 204,
+          "rank": 12,
+          "last_week_ratio": 155.7
         },
         {
-          "moviename": "东西ジャニーズJr. ぼくらのサバイバルウォーズ",
-          "japanese name": "東西ジャニーズＪｒ．ぼくらのサバイバルウォーズ",
-          "sales": 8651,
-          "seats": 78070,
-          "showtimes": 384,
-          "theaters": 93,
-          "rank": 8,
+          "moviename": "Coder Aino Uta",
+          "japanese name": "コーダ あいのうた",
+          "sales": 5529,
+          "seats": 46657,
+          "showtimes": 313,
+          "theaters": 165,
+          "rank": 10,
+          "last_week_ratio": 1466.6
+        },
+        {
+          "moviename": "Theatrical Version Stage \"Sword Dance of the Dead\" Tenken: Tenka no Hei -Osaka Winter Campaign-",
+          "japanese name": "劇場版 舞台「刀剣乱舞」天伝 蒼空の兵 －大坂冬の陣－",
+          "sales": 1506,
+          "seats": 6782,
+          "showtimes": 59,
+          "theaters": 37,
+          "rank": 24,
           "last_week_ratio": null
         },
         {
@@ -352,63 +352,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "CODA あいのうた",
-          "japanese name": "コーダ あいのうた",
-          "sales": 5529,
-          "seats": 46657,
-          "showtimes": 313,
-          "theaters": 165,
-          "rank": 10,
-          "last_week_ratio": 1466.6
-        },
-        {
-          "moviename": "THE BATMAN – THE BATMAN –",
-          "japanese name": "ＴＨＥ ＢＡＴＭＡＮ －ザ・バットマン－",
-          "sales": 4456,
-          "seats": 52500,
-          "showtimes": 395,
+          "moviename": "Nightmare Ali",
+          "japanese name": "ナイトメア・アリー",
+          "sales": 2577,
+          "seats": 48413,
+          "showtimes": 442,
           "theaters": 283,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "MOVIE ASSISTANT SYRIARTI",
-          "japanese name": "映画おしりたんてい シリアーティ",
-          "sales": 3904,
-          "seats": 33039,
-          "showtimes": 301,
-          "theaters": 204,
-          "rank": 12,
-          "last_week_ratio": 155.7
-        },
-        {
-          "moviename": "KAMEN RIDER OZ 10TH REBIRTH CORE MEDAL",
-          "japanese name": "仮面ライダーオーズ １０ｔｈ 復活のコアメダル",
-          "sales": 3154,
-          "seats": 28775,
-          "showtimes": 147,
-          "theaters": 67,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "KAPPÉI KAPPÉI",
-          "japanese name": "ＫＡＰＰＥＩ カッペイ",
-          "sales": 2782,
-          "seats": 39096,
-          "showtimes": 363,
-          "theaters": 275,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Galaxy Heroes传说 Die Neue These Conflict Chapter 2",
-          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 激突 第二章",
-          "sales": 2765,
-          "seats": 14253,
-          "showtimes": 99,
-          "theaters": 32,
-          "rank": 15,
+          "rank": 17,
           "last_week_ratio": null
         },
         {
@@ -422,23 +372,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Nightmare Ali",
-          "japanese name": "ナイトメア・アリー",
-          "sales": 2577,
-          "seats": 48413,
-          "showtimes": 442,
-          "theaters": 283,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Want to be killed by a high school girl",
-          "japanese name": "女子高生に殺されたい",
-          "sales": 2253,
-          "seats": 17904,
-          "showtimes": 136,
-          "theaters": 46,
-          "rank": 18,
+          "moviename": "KAPPÉI KAPPÉI",
+          "japanese name": "ＫＡＰＰＥＩ カッペイ",
+          "sales": 2782,
+          "seats": 39096,
+          "showtimes": 363,
+          "theaters": 275,
+          "rank": 14,
           "last_week_ratio": null
         },
         {
@@ -452,37 +392,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Wedding Day",
-          "japanese name": "ウェディング・ハイ",
-          "sales": 2140,
-          "seats": 30600,
-          "showtimes": 276,
-          "theaters": 255,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Outsider",
-          "japanese name": "天外者",
-          "sales": 1910,
-          "seats": 22078,
-          "showtimes": 192,
-          "theaters": 169,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Anisanguru Stars!! Road to Show!!",
-          "japanese name": "あんさんぶるスターズ！！ Ｒｏａｄ ｔｏ Ｓｈｏｗ！！",
-          "sales": 1643,
-          "seats": 15055,
-          "showtimes": 81,
-          "theaters": 83,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "JO1 THE MOVIE \"INCOMPLETE\" -GO TO THE TOP-",
+          "moviename": "JO1 THE MOVIE \"INCOMPLETE\" - GO TO THE TOP -",
           "japanese name": "ＪＯ１ ＴＨＥ ＭＯＶＩＥ「未完成」－Ｇｏ ｔｏ ｔｈｅ ＴＯＰ－",
           "sales": 1576,
           "seats": 10163,
@@ -492,13 +402,53 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Theatrical Version Stage \"Sword Dance of the Dead\" Tenken: Tenka no Hei -Osaka Winter Campaign-",
-          "japanese name": "劇場版 舞台「刀剣乱舞」天伝 蒼空の兵 －大坂冬の陣－",
-          "sales": 1506,
-          "seats": 6782,
-          "showtimes": 59,
-          "theaters": 37,
-          "rank": 24,
+          "moviename": "Want to be killed by a high school girl",
+          "japanese name": "女子高生に殺されたい",
+          "sales": 2253,
+          "seats": 17904,
+          "showtimes": 136,
+          "theaters": 46,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Galaxy Heroes传说 Die Neue These Conflict Chapter 2",
+          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 激突 第二章",
+          "sales": 2765,
+          "seats": 14253,
+          "showtimes": 99,
+          "theaters": 32,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wedding High",
+          "japanese name": "ウェディング・ハイ",
+          "sales": 2140,
+          "seats": 30600,
+          "showtimes": 276,
+          "theaters": 255,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Life expectancy of 10 years",
+          "japanese name": "余命１０年",
+          "sales": 25832,
+          "seats": 114642,
+          "showtimes": 846,
+          "theaters": 287,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ＴＨＥ ＢＡＴＭＡＮ －ＴＨＥ ＢＡＴＭＡＮ－",
+          "japanese name": "ＴＨＥ ＢＡＴＭＡＮ －ザ・バットマン－",
+          "sales": 4456,
+          "seats": 52500,
+          "showtimes": 395,
+          "theaters": 283,
+          "rank": 11,
           "last_week_ratio": null
         },
         {
@@ -510,6 +460,56 @@
           "theaters": 52,
           "rank": 25,
           "last_week_ratio": null
+        },
+        {
+          "moviename": "东西ジャニーズJr. ぼくらのサバイバルウォーズ",
+          "japanese name": "東西ジャニーズＪｒ．ぼくらのサバイバルウォーズ",
+          "sales": 8651,
+          "seats": 78070,
+          "showtimes": 384,
+          "theaters": 93,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SING Sing Next Stage",
+          "japanese name": "ＳＩＮＧ シング ネクストステージ",
+          "sales": 64956,
+          "seats": 302204,
+          "showtimes": 1371,
+          "theaters": 292,
+          "rank": 1,
+          "last_week_ratio": 165.2
+        },
+        {
+          "moviename": "Kamen Rider Ooz 10th Rebirth Core Medal",
+          "japanese name": "仮面ライダーオーズ １０ｔｈ 復活のコアメダル",
+          "sales": 3154,
+          "seats": 28775,
+          "showtimes": 147,
+          "theaters": 67,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobius",
+          "japanese name": "モービウス",
+          "sales": 39650,
+          "seats": 290328,
+          "showtimes": 1531,
+          "theaters": 291,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Those beyond the heavens",
+          "japanese name": "天外者",
+          "sales": 1910,
+          "seats": 22078,
+          "showtimes": 192,
+          "theaters": 169,
+          "rank": 21,
+          "last_week_ratio": null
         }
       ]
     },
@@ -517,46 +517,6 @@
       "title": "Including Independents",
       "time": "Final",
       "data": [
-        {
-          "moviename": "SING Sing Next Stage",
-          "japanese name": "ＳＩＮＧ シング ネクストステージ",
-          "sales": 69480,
-          "seats": 344039,
-          "showtimes": 1556,
-          "theaters": 292,
-          "rank": 1,
-          "last_week_ratio": 156.9
-        },
-        {
-          "moviename": "Möbius",
-          "japanese name": "モービウス",
-          "sales": 55359,
-          "seats": 385363,
-          "showtimes": 1978,
-          "theaters": 291,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Doraemon Nobita's Space Wars 2021",
-          "japanese name": "映画ドラえもん のび太の宇宙小戦争 ２０２１",
-          "sales": 45517,
-          "seats": 185615,
-          "showtimes": 1241,
-          "theaters": 286,
-          "rank": 3,
-          "last_week_ratio": 155.3
-        },
-        {
-          "moviename": "10 years to live",
-          "japanese name": "余命１０年",
-          "sales": 29596,
-          "seats": 150176,
-          "showtimes": 1104,
-          "theaters": 287,
-          "rank": 4,
-          "last_week_ratio": null
-        },
         {
           "moviename": "Movie Osomatsu-san",
           "japanese name": "映画 おそ松さん",
@@ -568,23 +528,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Drive My Car",
-          "japanese name": "ドライブ・マイ・カー",
-          "sales": 11760,
-          "seats": 93466,
-          "showtimes": 585,
-          "theaters": 257,
-          "rank": 6,
-          "last_week_ratio": 489.6
-        },
-        {
-          "moviename": "Movie: Odd Taxi in the Woods",
-          "japanese name": "映画 オッドタクシー イン・ザ・ウッズ",
-          "sales": 11230,
-          "seats": 25361,
-          "showtimes": 142,
-          "theaters": 33,
-          "rank": 7,
+          "moviename": "Anisong Stars!! Road to Show!!",
+          "japanese name": "あんさんぶるスターズ！！ Ｒｏａｄ ｔｏ Ｓｈｏｗ！！",
+          "sales": 2049,
+          "seats": 19134,
+          "showtimes": 102,
+          "theaters": 83,
+          "rank": 22,
           "last_week_ratio": null
         },
         {
@@ -598,24 +548,34 @@
           "last_week_ratio": 100.5
         },
         {
-          "moviename": "东西ジャニーズJr.ぼくらのサバイバルウォーズ",
-          "japanese name": "東西ジャニーズＪｒ．ぼくらのサバイバルウォーズ",
-          "sales": 9493,
-          "seats": 92375,
-          "showtimes": 454,
-          "theaters": 93,
-          "rank": 9,
-          "last_week_ratio": null
+          "moviename": "Movie Doraemon: Nobita's Space Wars 2021",
+          "japanese name": "映画ドラえもん のび太の宇宙小戦争 ２０２１",
+          "sales": 45517,
+          "seats": 185615,
+          "showtimes": 1241,
+          "theaters": 286,
+          "rank": 3,
+          "last_week_ratio": 155.3
         },
         {
-          "moviename": "THE BATMAN – THE BATMAN –",
-          "japanese name": "ＴＨＥ ＢＡＴＭＡＮ －ザ・バットマン－",
-          "sales": 7051,
-          "seats": 80237,
-          "showtimes": 616,
-          "theaters": 283,
-          "rank": 10,
-          "last_week_ratio": null
+          "moviename": "Drive My Car",
+          "japanese name": "ドライブ・マイ・カー",
+          "sales": 11760,
+          "seats": 93466,
+          "showtimes": 585,
+          "theaters": 257,
+          "rank": 6,
+          "last_week_ratio": 489.6
+        },
+        {
+          "moviename": "Movie Asshole Tantei Shiriati",
+          "japanese name": "映画おしりたんてい シリアーティ",
+          "sales": 3904,
+          "seats": 33039,
+          "showtimes": 301,
+          "theaters": 204,
+          "rank": 13,
+          "last_week_ratio": 155.7
         },
         {
           "moviename": "Coder Aino Uta",
@@ -628,37 +588,17 @@
           "last_week_ratio": 1564.1
         },
         {
-          "moviename": "Galaxy Heroes传说 Die Neue These 激突 第二章",
-          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 激突 第二章",
-          "sales": 3943,
-          "seats": 19575,
-          "showtimes": 130,
-          "theaters": 32,
-          "rank": 12,
+          "moviename": "电影 Odd Taxi In The Woods",
+          "japanese name": "映画 オッドタクシー イン・ザ・ウッズ",
+          "sales": 11230,
+          "seats": 25361,
+          "showtimes": 142,
+          "theaters": 33,
+          "rank": 7,
           "last_week_ratio": null
         },
         {
-          "moviename": "Movie Asshole Detective Sieraita",
-          "japanese name": "映画おしりたんてい シリアーティ",
-          "sales": 3904,
-          "seats": 33039,
-          "showtimes": 301,
-          "theaters": 204,
-          "rank": 13,
-          "last_week_ratio": 155.7
-        },
-        {
-          "moviename": "KAMEN RIDER OZ 10TH REBIRTH CORE MEDAL",
-          "japanese name": "仮面ライダーオーズ １０ｔｈ 復活のコアメダル",
-          "sales": 3817,
-          "seats": 35018,
-          "showtimes": 179,
-          "theaters": 67,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "NIGHTMARE ALICE",
+          "moviename": "Nightmare Ali",
           "japanese name": "ナイトメア・アリー",
           "sales": 3799,
           "seats": 73056,
@@ -668,13 +608,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "KAPPÉI Kappéi",
-          "japanese name": "ＫＡＰＰＥＩ カッペイ",
-          "sales": 3702,
-          "seats": 59185,
-          "showtimes": 554,
-          "theaters": 275,
-          "rank": 16,
+          "moviename": "AMBULANCE",
+          "japanese name": "アンビュランス",
+          "sales": 1854,
+          "seats": 37549,
+          "showtimes": 315,
+          "theaters": 159,
+          "rank": 25,
           "last_week_ratio": null
         },
         {
@@ -688,13 +628,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Want to be killed by a high school girl",
-          "japanese name": "女子高生に殺されたい",
-          "sales": 2806,
-          "seats": 24477,
-          "showtimes": 185,
-          "theaters": 46,
-          "rank": 18,
+          "moviename": "KAPPÉI KAPPÉI",
+          "japanese name": "ＫＡＰＰＥＩ カッペイ",
+          "sales": 3702,
+          "seats": 59185,
+          "showtimes": 554,
+          "theaters": 275,
+          "rank": 16,
           "last_week_ratio": null
         },
         {
@@ -708,7 +648,37 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "WEDDING HI",
+          "moviename": "JO1 THE MOVIE \"INCOMPLETE\" - GO TO THE TOP -",
+          "japanese name": "ＪＯ１ ＴＨＥ ＭＯＶＩＥ「未完成」－Ｇｏ ｔｏ ｔｈｅ ＴＯＰ－",
+          "sales": 1902,
+          "seats": 13072,
+          "showtimes": 92,
+          "theaters": 83,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Want to be killed by a high school girl",
+          "japanese name": "女子高生に殺されたい",
+          "sales": 2806,
+          "seats": 24477,
+          "showtimes": 185,
+          "theaters": 46,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Galaxy Heroes传说 Die Neue These Conflict Chapter 2",
+          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 激突 第二章",
+          "sales": 3943,
+          "seats": 19575,
+          "showtimes": 130,
+          "theaters": 32,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wedding High",
           "japanese name": "ウェディング・ハイ",
           "sales": 2550,
           "seats": 41246,
@@ -718,33 +688,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Heavenly Being",
-          "japanese name": "天外者",
-          "sales": 2180,
-          "seats": 24413,
-          "showtimes": 209,
-          "theaters": 169,
-          "rank": 21,
+          "moviename": "Life expectancy of 10 years",
+          "japanese name": "余命１０年",
+          "sales": 29596,
+          "seats": 150176,
+          "showtimes": 1104,
+          "theaters": 287,
+          "rank": 4,
           "last_week_ratio": null
         },
         {
-          "moviename": "Anisanguru Stars!! Road to Show!!",
-          "japanese name": "あんさんぶるスターズ！！ Ｒｏａｄ ｔｏ Ｓｈｏｗ！！",
-          "sales": 2049,
-          "seats": 19134,
-          "showtimes": 102,
-          "theaters": 83,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "JO1 THE MOVIE \"Unfinished\" - Go to the TOP -",
-          "japanese name": "ＪＯ１ ＴＨＥ ＭＯＶＩＥ「未完成」－Ｇｏ ｔｏ ｔｈｅ ＴＯＰ－",
-          "sales": 1902,
-          "seats": 13072,
-          "showtimes": 92,
-          "theaters": 83,
-          "rank": 23,
+          "moviename": "ＴＨＥ ＢＡＴＭＡＮ －ＴＨＥ ＢＡＴＭＡＮ－",
+          "japanese name": "ＴＨＥ ＢＡＴＭＡＮ －ザ・バットマン－",
+          "sales": 7051,
+          "seats": 80237,
+          "showtimes": 616,
+          "theaters": 283,
+          "rank": 10,
           "last_week_ratio": null
         },
         {
@@ -758,13 +718,53 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Amburane",
-          "japanese name": "アンビュランス",
-          "sales": 1854,
-          "seats": 37549,
-          "showtimes": 315,
-          "theaters": 159,
-          "rank": 25,
+          "moviename": "东西ジャニーズJr. ぼくらのサバイバルウォーズ",
+          "japanese name": "東西ジャニーズＪｒ．ぼくらのサバイバルウォーズ",
+          "sales": 9493,
+          "seats": 92375,
+          "showtimes": 454,
+          "theaters": 93,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SING Sing Next Stage",
+          "japanese name": "ＳＩＮＧ シング ネクストステージ",
+          "sales": 69480,
+          "seats": 344039,
+          "showtimes": 1556,
+          "theaters": 292,
+          "rank": 1,
+          "last_week_ratio": 156.9
+        },
+        {
+          "moviename": "Kamen Rider Ooz 10th Rebirth Core Medal",
+          "japanese name": "仮面ライダーオーズ １０ｔｈ 復活のコアメダル",
+          "sales": 3817,
+          "seats": 35018,
+          "showtimes": 179,
+          "theaters": 67,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobius",
+          "japanese name": "モービウス",
+          "sales": 55359,
+          "seats": 385363,
+          "showtimes": 1978,
+          "theaters": 291,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Those beyond the heavens",
+          "japanese name": "天外者",
+          "sales": 2180,
+          "seats": 24413,
+          "showtimes": 209,
+          "theaters": 169,
+          "rank": 21,
           "last_week_ratio": null
         }
       ]

@@ -6,53 +6,13 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "Oppenheimer",
-          "japanese name": "オッペンハイマー",
-          "sales": 7800,
-          "seats": 81206,
-          "showtimes": 343,
-          "theaters": 175,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Strange house",
-          "japanese name": "変な家",
-          "sales": 6951,
-          "seats": 99305,
-          "showtimes": 333,
-          "theaters": 164,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Doraemon Nobita's Earth Symphony",
-          "japanese name": "映画ドラえもん のび太の地球交響楽",
-          "sales": 3787,
-          "seats": 81241,
-          "showtimes": 349,
-          "theaters": 175,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "剧场版Haikyu!! The Battle at the Dumpsite",
-          "japanese name": "劇場版ハイキュー！！ ゴミ捨て場の決戦",
-          "sales": 3582,
-          "seats": 72516,
-          "showtimes": 347,
-          "theaters": 175,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "When April comes, she",
-          "japanese name": "四月になれば彼女は",
-          "sales": 2900,
-          "seats": 30216,
-          "showtimes": 230,
-          "theaters": 145,
-          "rank": 5,
+          "moviename": "FLY! / Fly!",
+          "japanese name": "ＦＬＹ！／フライ！",
+          "sales": 705,
+          "seats": 19174,
+          "showtimes": 139,
+          "theaters": 157,
+          "rank": 11,
           "last_week_ratio": null
         },
         {
@@ -66,7 +26,27 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Omen: The First",
+          "moviename": "Movie \"Mobile Suit Gundam SEED FREEDOM\"",
+          "japanese name": "劇場版「機動戦士ガンダムＳＥＥＤ ＦＲＥＥＤＯＭ」",
+          "sales": 250,
+          "seats": 5257,
+          "showtimes": 37,
+          "theaters": 152,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "When it becomes April, she will",
+          "japanese name": "四月になれば彼女は",
+          "sales": 2900,
+          "seats": 30216,
+          "showtimes": 230,
+          "theaters": 145,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Omen the First",
           "japanese name": "オーメン ザ・ファースト",
           "sales": 2016,
           "seats": 50328,
@@ -76,23 +56,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Ghostbusters / Frozen Summer",
-          "japanese name": "ゴーストバスターズ／フローズン・サマー",
-          "sales": 1854,
-          "seats": 33203,
-          "showtimes": 247,
-          "theaters": 172,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Past Lives: Reunion",
-          "japanese name": "パスト ライブス 再会",
-          "sales": 1330,
-          "seats": 15227,
-          "showtimes": 110,
-          "theaters": 66,
-          "rank": 9,
+          "moviename": "Geki×Shine “Tianhao Star”",
+          "japanese name": "ゲキ×シネ「天號星」",
+          "sales": 359,
+          "seats": 9408,
+          "showtimes": 54,
+          "theaters": 48,
+          "rank": 16,
           "last_week_ratio": null
         },
         {
@@ -106,63 +76,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "FLY! / FLY!",
-          "japanese name": "ＦＬＹ！／フライ！",
-          "sales": 705,
-          "seats": 19174,
-          "showtimes": 139,
-          "theaters": 157,
-          "rank": 11,
+          "moviename": "Movie Sailor Moon Eternal Part 1",
+          "japanese name": "劇場版 美少女戦士セーラームーンＥｔｅｒｎａｌ 前編",
+          "sales": 269,
+          "seats": 4549,
+          "showtimes": 25,
+          "theaters": 21,
+          "rank": 20,
           "last_week_ratio": null
         },
         {
-          "moviename": "Unwilling Love of Eri",
-          "japanese name": "恋わずらいのエリー",
-          "sales": 613,
-          "seats": 12816,
-          "showtimes": 91,
-          "theaters": 159,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Dead by Daylight: Chapter Before",
-          "japanese name": "デッドデッドデーモンズデデデデデストラクション 前章",
-          "sales": 607,
-          "seats": 6741,
-          "showtimes": 60,
-          "theaters": 135,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Dune: Part Two",
-          "japanese name": "デューン 砂の惑星 ＰＡＲＴ２",
-          "sales": 568,
-          "seats": 8662,
-          "showtimes": 55,
-          "theaters": 155,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "How Do You Live?",
+          "moviename": "How do you live",
           "japanese name": "君たちはどう生きるか",
           "sales": 561,
           "seats": 9459,
           "showtimes": 63,
           "theaters": 147,
           "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Geki×Cine \"Tenkousei\"",
-          "japanese name": "ゲキ×シネ「天號星」",
-          "sales": 359,
-          "seats": 9408,
-          "showtimes": 54,
-          "theaters": 48,
-          "rank": 16,
           "last_week_ratio": null
         },
         {
@@ -176,47 +106,17 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Raiders/Lost Ark \"The Ark\" (4K・Subtitle Version)",
-          "japanese name": "レイダース／失われたアーク「聖櫃」（４Ｋ・字幕版）",
-          "sales": 340,
-          "seats": 3923,
-          "showtimes": 25,
-          "theaters": 28,
-          "rank": 18,
+          "moviename": "Ghostbusters: Frozen Summer",
+          "japanese name": "ゴーストバスターズ／フローズン・サマー",
+          "sales": 1854,
+          "seats": 33203,
+          "showtimes": 247,
+          "theaters": 172,
+          "rank": 8,
           "last_week_ratio": null
         },
         {
-          "moviename": "World Tour Screening “Demon Slayer: Kimetsu no Yaiba” Miracle of Bonds, and then Pillar Training",
-          "japanese name": "ワールドツアー上映「鬼滅の刃」絆の奇跡、そして柱稽古へ",
-          "sales": 334,
-          "seats": 8829,
-          "showtimes": 56,
-          "theaters": 156,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Version Sailor Moon Eternal Part 1",
-          "japanese name": "劇場版 美少女戦士セーラームーンＥｔｅｒｎａｌ 前編",
-          "sales": 269,
-          "seats": 4549,
-          "showtimes": 25,
-          "theaters": 21,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie \"Mobile Suit Gundam SEED FREEDOM\"",
-          "japanese name": "劇場版「機動戦士ガンダムＳＥＥＤ ＦＲＥＥＤＯＭ」",
-          "sales": 250,
-          "seats": 5257,
-          "showtimes": 37,
-          "theaters": 152,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Asshole Detective, Farewell My Beloved Partner (Asshole)",
+          "moviename": "Movie Asshole Detective: Farewell, My Beloved Partner (Asshole)",
           "japanese name": "映画おしりたんてい さらば愛しき相棒（おしり）よ",
           "sales": 246,
           "seats": 17653,
@@ -236,7 +136,87 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Poison Girl",
+          "moviename": "The Movie: Doraemon: Nobita’s Symphony on Earth",
+          "japanese name": "映画ドラえもん のび太の地球交響楽",
+          "sales": 3787,
+          "seats": 81241,
+          "showtimes": 349,
+          "theaters": 175,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Raiders of the Lost Ark (4K/Subtitles)",
+          "japanese name": "レイダース／失われたアーク「聖櫃」（４Ｋ・字幕版）",
+          "sales": 340,
+          "seats": 3923,
+          "showtimes": 25,
+          "theaters": 28,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Oppenheimer",
+          "japanese name": "オッペンハイマー",
+          "sales": 7800,
+          "seats": 81206,
+          "showtimes": 343,
+          "theaters": 175,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Eli, Troubled by Love",
+          "japanese name": "恋わずらいのエリー",
+          "sales": 613,
+          "seats": 12816,
+          "showtimes": 91,
+          "theaters": 159,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Past Lives: Reunion",
+          "japanese name": "パスト ライブス 再会",
+          "sales": 1330,
+          "seats": 15227,
+          "showtimes": 110,
+          "theaters": 66,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "That summer's Luke",
+          "japanese name": "あの夏のルカ",
+          "sales": 190,
+          "seats": 10744,
+          "showtimes": 78,
+          "theaters": 115,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Haikyu!! The Battle at the Dumpsite",
+          "japanese name": "劇場版ハイキュー！！ ゴミ捨て場の決戦",
+          "sales": 3582,
+          "seats": 72516,
+          "showtimes": 347,
+          "theaters": 175,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "World Tour Screening of “Demon Slayer”: The Miracle of Bonds, and Training with the Pillars",
+          "japanese name": "ワールドツアー上映「鬼滅の刃」絆の奇跡、そして柱稽古へ",
+          "sales": 334,
+          "seats": 8829,
+          "showtimes": 56,
+          "theaters": 156,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Poisonous Mother",
           "japanese name": "毒娘",
           "sales": 196,
           "seats": 5103,
@@ -246,13 +226,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Luke of That Summer",
-          "japanese name": "あの夏のルカ",
-          "sales": 190,
-          "seats": 10744,
-          "showtimes": 78,
-          "theaters": 115,
-          "rank": 25,
+          "moviename": "Dune: The Planet of Sand – PART 2",
+          "japanese name": "デューン 砂の惑星 ＰＡＲＴ２",
+          "sales": 568,
+          "seats": 8662,
+          "showtimes": 55,
+          "theaters": 155,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dead Dead Demon DeDemonstration Prologue",
+          "japanese name": "デッドデッドデーモンズデデデデデストラクション 前章",
+          "sales": 607,
+          "seats": 6741,
+          "showtimes": 60,
+          "theaters": 135,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Strange house",
+          "japanese name": "変な家",
+          "sales": 6951,
+          "seats": 99305,
+          "showtimes": 333,
+          "theaters": 164,
+          "rank": 2,
           "last_week_ratio": null
         }
       ]
@@ -262,53 +262,13 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "Strange house",
-          "japanese name": "変な家",
-          "sales": 16393,
-          "seats": 192649,
-          "showtimes": 640,
-          "theaters": 164,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Oppenheimer",
-          "japanese name": "オッペンハイマー",
-          "sales": 11164,
-          "seats": 128413,
-          "showtimes": 554,
-          "theaters": 175,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "剧场版Haikyu!! The Battle at the Dumpsite",
-          "japanese name": "劇場版ハイキュー！！ ゴミ捨て場の決戦",
-          "sales": 7559,
-          "seats": 138489,
-          "showtimes": 662,
-          "theaters": 175,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "When April comes, she",
-          "japanese name": "四月になれば彼女は",
-          "sales": 6226,
-          "seats": 54601,
-          "showtimes": 414,
-          "theaters": 145,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Doraemon Nobita's Earth Symphony",
-          "japanese name": "映画ドラえもん のび太の地球交響楽",
-          "sales": 5803,
-          "seats": 122369,
-          "showtimes": 520,
-          "theaters": 175,
-          "rank": 5,
+          "moviename": "FLY! / Fly!",
+          "japanese name": "ＦＬＹ！／フライ！",
+          "sales": 771,
+          "seats": 22582,
+          "showtimes": 164,
+          "theaters": 157,
+          "rank": 18,
           "last_week_ratio": null
         },
         {
@@ -322,7 +282,27 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Omen: The First",
+          "moviename": "Movie \"Mobile Suit Gundam SEED FREEDOM\"",
+          "japanese name": "劇場版「機動戦士ガンダムＳＥＥＤ ＦＲＥＥＤＯＭ」",
+          "sales": 1155,
+          "seats": 19467,
+          "showtimes": 126,
+          "theaters": 152,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "When it becomes April, she will",
+          "japanese name": "四月になれば彼女は",
+          "sales": 6226,
+          "seats": 54601,
+          "showtimes": 414,
+          "theaters": 145,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Omen the First",
           "japanese name": "オーメン ザ・ファースト",
           "sales": 3637,
           "seats": 95167,
@@ -332,53 +312,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Ghostbusters / Frozen Summer",
-          "japanese name": "ゴーストバスターズ／フローズン・サマー",
-          "sales": 3386,
-          "seats": 62314,
-          "showtimes": 457,
-          "theaters": 172,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Past Lives: Reunion",
-          "japanese name": "パスト ライブス 再会",
-          "sales": 2239,
-          "seats": 27939,
-          "showtimes": 198,
-          "theaters": 66,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Dead by Daylight: Chapter Before",
-          "japanese name": "デッドデッドデーモンズデデデデデストラクション 前章",
-          "sales": 1671,
-          "seats": 18703,
-          "showtimes": 150,
-          "theaters": 135,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Unwilling Love of Eri",
-          "japanese name": "恋わずらいのエリー",
-          "sales": 1659,
-          "seats": 26680,
-          "showtimes": 201,
-          "theaters": 159,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Dune: Part Two",
-          "japanese name": "デューン 砂の惑星 ＰＡＲＴ２",
-          "sales": 1556,
-          "seats": 22495,
-          "showtimes": 139,
-          "theaters": 155,
-          "rank": 12,
+          "moviename": "Geki×Shine “Tianhao Star”",
+          "japanese name": "ゲキ×シネ「天號星」",
+          "sales": 528,
+          "seats": 17937,
+          "showtimes": 101,
+          "theaters": 48,
+          "rank": 20,
           "last_week_ratio": null
         },
         {
@@ -392,27 +332,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Movie \"Mobile Suit Gundam SEED FREEDOM\"",
-          "japanese name": "劇場版「機動戦士ガンダムＳＥＥＤ ＦＲＥＥＤＯＭ」",
-          "sales": 1155,
-          "seats": 19467,
-          "showtimes": 126,
-          "theaters": 152,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Yuzuru HanYu ICE STORY2nd “RE_PRAY” TOU LiveViewing",
-          "japanese name": "Ｙｕｚｕｒｕ Ｈａｎｙｕ ＩＣＥ ＳＴＯＲＹ２ｎｄ ’ＲＥ＿ＰＲＡＹ”ＴＯＵＲ ライブビューイング",
-          "sales": 940,
-          "seats": 4388,
-          "showtimes": 45,
-          "theaters": 48,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "How Do You Live?",
+          "moviename": "How do you live",
           "japanese name": "君たちはどう生きるか",
           "sales": 885,
           "seats": 19499,
@@ -422,27 +342,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "World Tour Screening “Demon Slayer: Kimetsu no Yaiba” Miracle of Bonds, and then Pillar Training",
-          "japanese name": "ワールドツアー上映「鬼滅の刃」絆の奇跡、そして柱稽古へ",
-          "sales": 775,
-          "seats": 22454,
-          "showtimes": 138,
-          "theaters": 156,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "FLY! / FLY!",
-          "japanese name": "ＦＬＹ！／フライ！",
-          "sales": 771,
-          "seats": 22582,
-          "showtimes": 164,
-          "theaters": 157,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "MY Shinne WORLD",
+          "moviename": "MY SHINEE WORLD",
           "japanese name": "ＭＹ ＳＨＩＮｅｅ ＷＯＲＬＤ",
           "sales": 601,
           "seats": 7862,
@@ -452,13 +352,13 @@
           "last_week_ratio": 173.7
         },
         {
-          "moviename": "Geki×Cine \"Tenkousei\"",
-          "japanese name": "ゲキ×シネ「天號星」",
-          "sales": 528,
-          "seats": 17937,
-          "showtimes": 101,
+          "moviename": "Yuzuru HanYu ICE STORY2nd “RE_PRAY” TOU LiveViewing",
+          "japanese name": "Ｙｕｚｕｒｕ Ｈａｎｙｕ ＩＣＥ ＳＴＯＲＹ２ｎｄ ’ＲＥ＿ＰＲＡＹ”ＴＯＵＲ ライブビューイング",
+          "sales": 940,
+          "seats": 4388,
+          "showtimes": 45,
           "theaters": 48,
-          "rank": 20,
+          "rank": 15,
           "last_week_ratio": null
         },
         {
@@ -472,6 +372,76 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Ghostbusters: Frozen Summer",
+          "japanese name": "ゴーストバスターズ／フローズン・サマー",
+          "sales": 3386,
+          "seats": 62314,
+          "showtimes": 457,
+          "theaters": 172,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Movie: Doraemon: Nobita’s Symphony on Earth",
+          "japanese name": "映画ドラえもん のび太の地球交響楽",
+          "sales": 5803,
+          "seats": 122369,
+          "showtimes": 520,
+          "theaters": 175,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Raiders of the Lost Ark (4K/Subtitles)",
+          "japanese name": "レイダース／失われたアーク「聖櫃」（４Ｋ・字幕版）",
+          "sales": 340,
+          "seats": 3923,
+          "showtimes": 25,
+          "theaters": 28,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Oppenheimer",
+          "japanese name": "オッペンハイマー",
+          "sales": 11164,
+          "seats": 128413,
+          "showtimes": 554,
+          "theaters": 175,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Eli, Troubled by Love",
+          "japanese name": "恋わずらいのエリー",
+          "sales": 1659,
+          "seats": 26680,
+          "showtimes": 201,
+          "theaters": 159,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Past Lives: Reunion",
+          "japanese name": "パスト ライブス 再会",
+          "sales": 2239,
+          "seats": 27939,
+          "showtimes": 198,
+          "theaters": 66,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Haikyu!! The Battle at the Dumpsite",
+          "japanese name": "劇場版ハイキュー！！ ゴミ捨て場の決戦",
+          "sales": 7559,
+          "seats": 138489,
+          "showtimes": 662,
+          "theaters": 175,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Matching",
           "japanese name": "マッチング",
           "sales": 391,
@@ -479,6 +449,16 @@
           "showtimes": 45,
           "theaters": 54,
           "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "World Tour Screening of “Demon Slayer”: The Miracle of Bonds, and Training with the Pillars",
+          "japanese name": "ワールドツアー上映「鬼滅の刃」絆の奇跡、そして柱稽古へ",
+          "sales": 775,
+          "seats": 22454,
+          "showtimes": 138,
+          "theaters": 156,
+          "rank": 17,
           "last_week_ratio": null
         },
         {
@@ -492,7 +472,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Poison Girl",
+          "moviename": "Poisonous Mother",
           "japanese name": "毒娘",
           "sales": 356,
           "seats": 8822,
@@ -502,13 +482,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Raiders/Lost Ark \"The Ark\" (4K・Subtitle Version)",
-          "japanese name": "レイダース／失われたアーク「聖櫃」（４Ｋ・字幕版）",
-          "sales": 340,
-          "seats": 3923,
-          "showtimes": 25,
-          "theaters": 28,
-          "rank": 25,
+          "moviename": "Dune: The Planet of Sand – PART 2",
+          "japanese name": "デューン 砂の惑星 ＰＡＲＴ２",
+          "sales": 1556,
+          "seats": 22495,
+          "showtimes": 139,
+          "theaters": 155,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dead Dead Demon DeDemonstration Prologue",
+          "japanese name": "デッドデッドデーモンズデデデデデストラクション 前章",
+          "sales": 1671,
+          "seats": 18703,
+          "showtimes": 150,
+          "theaters": 135,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Strange house",
+          "japanese name": "変な家",
+          "sales": 16393,
+          "seats": 192649,
+          "showtimes": 640,
+          "theaters": 164,
+          "rank": 1,
           "last_week_ratio": null
         }
       ]
@@ -518,133 +518,23 @@
       "time": "Final",
       "data": [
         {
-          "moviename": "Weird house",
-          "japanese name": "変な家",
-          "sales": 18752,
-          "seats": 240180,
-          "showtimes": 799,
-          "theaters": 164,
-          "rank": 1,
+          "moviename": "FLY! / Fly!",
+          "japanese name": "ＦＬＹ！／フライ！",
+          "sales": 771,
+          "seats": 22582,
+          "showtimes": 164,
+          "theaters": 157,
+          "rank": 19,
           "last_week_ratio": null
         },
         {
-          "moviename": "Oppenheimer",
-          "japanese name": "オッペンハイマー",
-          "sales": 13335,
-          "seats": 167122,
-          "showtimes": 714,
-          "theaters": 175,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "剧场版Haikyu!! The Battle at the Dumpsite",
-          "japanese name": "劇場版ハイキュー！！ ゴミ捨て場の決戦",
-          "sales": 9462,
-          "seats": 171248,
-          "showtimes": 817,
-          "theaters": 175,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "When it's April, she",
-          "japanese name": "四月になれば彼女は",
-          "sales": 7535,
-          "seats": 70468,
-          "showtimes": 531,
-          "theaters": 145,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Doraemon Nobita's Earth Symphony",
-          "japanese name": "映画ドラえもん のび太の地球交響楽",
-          "sales": 5803,
-          "seats": 122369,
-          "showtimes": 520,
-          "theaters": 175,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Godzilla-1.0",
+          "moviename": "Godzilla - 1.0",
           "japanese name": "ゴジラ－１．０",
           "sales": 4517,
           "seats": 67496,
           "showtimes": 400,
           "theaters": 170,
           "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Omen: The First",
-          "japanese name": "オーメン ザ・ファースト",
-          "sales": 4359,
-          "seats": 118533,
-          "showtimes": 739,
-          "theaters": 164,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Ghostbusters / Frozen Summer",
-          "japanese name": "ゴーストバスターズ／フローズン・サマー",
-          "sales": 4025,
-          "seats": 85327,
-          "showtimes": 611,
-          "theaters": 172,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Past Lives Reunion",
-          "japanese name": "パスト ライブス 再会",
-          "sales": 2799,
-          "seats": 36121,
-          "showtimes": 256,
-          "theaters": 66,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Dead Dead Demon Debuffstruction - Previous Chapter",
-          "japanese name": "デッドデッドデーモンズデデデデデストラクション 前章",
-          "sales": 2007,
-          "seats": 24073,
-          "showtimes": 195,
-          "theaters": 135,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Dune: Part Two",
-          "japanese name": "デューン 砂の惑星 ＰＡＲＴ２",
-          "sales": 1831,
-          "seats": 33399,
-          "showtimes": 208,
-          "theaters": 155,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Eri of the Unrequited Love",
-          "japanese name": "恋わずらいのエリー",
-          "sales": 1764,
-          "seats": 30800,
-          "showtimes": 228,
-          "theaters": 159,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Iron Claw",
-          "japanese name": "アイアンクロー",
-          "sales": 1630,
-          "seats": 29712,
-          "showtimes": 221,
-          "theaters": 63,
-          "rank": 13,
           "last_week_ratio": null
         },
         {
@@ -658,7 +548,57 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "How Do You Live?",
+          "moviename": "When it becomes April, she will",
+          "japanese name": "四月になれば彼女は",
+          "sales": 7535,
+          "seats": 70468,
+          "showtimes": 531,
+          "theaters": 145,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Omen the First",
+          "japanese name": "オーメン ザ・ファースト",
+          "sales": 4359,
+          "seats": 118533,
+          "showtimes": 739,
+          "theaters": 164,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Geki×Shine “Tianhao Star”",
+          "japanese name": "ゲキ×シネ「天號星」",
+          "sales": 564,
+          "seats": 20379,
+          "showtimes": 114,
+          "theaters": 48,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Iron Claw",
+          "japanese name": "アイアンクロー",
+          "sales": 1630,
+          "seats": 29712,
+          "showtimes": 221,
+          "theaters": 63,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Sailor Moon Eternal Part 1",
+          "japanese name": "劇場版 美少女戦士セーラームーンＥｔｅｒｎａｌ 前編",
+          "sales": 358,
+          "seats": 8404,
+          "showtimes": 45,
+          "theaters": 21,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "How do you live",
           "japanese name": "君たちはどう生きるか",
           "sales": 1016,
           "seats": 23131,
@@ -668,27 +608,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Yuzuru HanYu ICE STORY2nd 'RE_PRAY”TOUR Live Viewing",
-          "japanese name": "Ｙｕｚｕｒｕ Ｈａｎｙｕ ＩＣＥ ＳＴＯＲＹ２ｎｄ ’ＲＥ＿ＰＲＡＹ”ＴＯＵＲ ライブビューイング",
-          "sales": 940,
-          "seats": 4388,
-          "showtimes": 45,
-          "theaters": 48,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "World Tour Screening of \"Demon Slayer: Kimetsu no Yaiba\" - The Miracle of Bonds, and then Training with the Pillars",
-          "japanese name": "ワールドツアー上映「鬼滅の刃」絆の奇跡、そして柱稽古へ",
-          "sales": 926,
-          "seats": 25896,
-          "showtimes": 159,
-          "theaters": 156,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "MY SHINne WORLD",
+          "moviename": "MY SHINEE WORLD",
           "japanese name": "ＭＹ ＳＨＩＮｅｅ ＷＯＲＬＤ",
           "sales": 791,
           "seats": 11936,
@@ -698,33 +618,13 @@
           "last_week_ratio": 169.4
         },
         {
-          "moviename": "FLY! / FLY!",
-          "japanese name": "ＦＬＹ！／フライ！",
-          "sales": 771,
-          "seats": 22582,
-          "showtimes": 164,
-          "theaters": 157,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Golden Kamuy",
-          "japanese name": "ゴールデンカムイ",
-          "sales": 585,
-          "seats": 19073,
-          "showtimes": 112,
-          "theaters": 119,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Geki x Cinema \"Tenkōsei\"",
-          "japanese name": "ゲキ×シネ「天號星」",
-          "sales": 564,
-          "seats": 20379,
-          "showtimes": 114,
+          "moviename": "Yuzuru HanYu ICE STORY2nd “RE_PRAY” TOU LiveViewing",
+          "japanese name": "Ｙｕｚｕｒｕ Ｈａｎｙｕ ＩＣＥ ＳＴＯＲＹ２ｎｄ ’ＲＥ＿ＰＲＡＹ”ＴＯＵＲ ライブビューイング",
+          "sales": 940,
+          "seats": 4388,
+          "showtimes": 45,
           "theaters": 48,
-          "rank": 21,
+          "rank": 16,
           "last_week_ratio": null
         },
         {
@@ -738,13 +638,63 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Poison Girl",
-          "japanese name": "毒娘",
-          "sales": 470,
-          "seats": 11735,
-          "showtimes": 86,
-          "theaters": 27,
-          "rank": 23,
+          "moviename": "Ghostbusters: Frozen Summer",
+          "japanese name": "ゴーストバスターズ／フローズン・サマー",
+          "sales": 4025,
+          "seats": 85327,
+          "showtimes": 611,
+          "theaters": 172,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Movie: Doraemon: Nobita’s Symphony on Earth",
+          "japanese name": "映画ドラえもん のび太の地球交響楽",
+          "sales": 5803,
+          "seats": 122369,
+          "showtimes": 520,
+          "theaters": 175,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Oppenheimer",
+          "japanese name": "オッペンハイマー",
+          "sales": 13335,
+          "seats": 167122,
+          "showtimes": 714,
+          "theaters": 175,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Eli, Troubled by Love",
+          "japanese name": "恋わずらいのエリー",
+          "sales": 1764,
+          "seats": 30800,
+          "showtimes": 228,
+          "theaters": 159,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Past Lives: Reunion",
+          "japanese name": "パスト ライブス 再会",
+          "sales": 2799,
+          "seats": 36121,
+          "showtimes": 256,
+          "theaters": 66,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Haikyu!! The Battle at the Dumpsite",
+          "japanese name": "劇場版ハイキュー！！ ゴミ捨て場の決戦",
+          "sales": 9462,
+          "seats": 171248,
+          "showtimes": 817,
+          "theaters": 175,
+          "rank": 3,
           "last_week_ratio": null
         },
         {
@@ -758,13 +708,63 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Movie: Sailor Moon Eternal - Part 1",
-          "japanese name": "劇場版 美少女戦士セーラームーンＥｔｅｒｎａｌ 前編",
-          "sales": 358,
-          "seats": 8404,
-          "showtimes": 45,
-          "theaters": 21,
-          "rank": 25,
+          "moviename": "World Tour Screening of “Demon Slayer”: The Miracle of Bonds, and Training with the Pillars",
+          "japanese name": "ワールドツアー上映「鬼滅の刃」絆の奇跡、そして柱稽古へ",
+          "sales": 926,
+          "seats": 25896,
+          "showtimes": 159,
+          "theaters": 156,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Golden Kamuy",
+          "japanese name": "ゴールデンカムイ",
+          "sales": 585,
+          "seats": 19073,
+          "showtimes": 112,
+          "theaters": 119,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Poisonous Mother",
+          "japanese name": "毒娘",
+          "sales": 470,
+          "seats": 11735,
+          "showtimes": 86,
+          "theaters": 27,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dune: The Planet of Sand – PART 2",
+          "japanese name": "デューン 砂の惑星 ＰＡＲＴ２",
+          "sales": 1831,
+          "seats": 33399,
+          "showtimes": 208,
+          "theaters": 155,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dead Dead Demon DeDemonstration Prologue",
+          "japanese name": "デッドデッドデーモンズデデデデデストラクション 前章",
+          "sales": 2007,
+          "seats": 24073,
+          "showtimes": 195,
+          "theaters": 135,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Strange house",
+          "japanese name": "変な家",
+          "sales": 18752,
+          "seats": 240180,
+          "showtimes": 799,
+          "theaters": 164,
+          "rank": 1,
           "last_week_ratio": null
         }
       ]

@@ -6,13 +6,123 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "One Piece Film Red",
-          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
-          "sales": 58408,
-          "seats": 143601,
-          "showtimes": 610,
-          "theaters": 193,
-          "rank": 1,
+          "moviename": "Theatrical Version of Tsurune: The First Shot",
+          "japanese name": "劇場版ツルネ－はじまりの一射－",
+          "sales": 1038,
+          "seats": 3632,
+          "showtimes": 24,
+          "theaters": 56,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Deeply in love",
+          "japanese name": "川っぺりムコリッタ",
+          "sales": 2408,
+          "seats": 18708,
+          "showtimes": 142,
+          "theaters": 81,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Lord of the Rings",
+          "japanese name": "ロード・オブ・ザ・リング",
+          "sales": 1530,
+          "seats": 3993,
+          "showtimes": 13,
+          "theaters": 25,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Brett Train",
+          "japanese name": "ブレット・トレイン",
+          "sales": 8710,
+          "seats": 34693,
+          "showtimes": 246,
+          "theaters": 196,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HELDOGS",
+          "japanese name": "ヘルドッグス",
+          "sales": 13063,
+          "seats": 67286,
+          "showtimes": 368,
+          "theaters": 188,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Tunnel to Summer, The Exit of Farewell",
+          "japanese name": "夏へのトンネル、さよならの出口",
+          "sales": 1200,
+          "seats": 8582,
+          "showtimes": 68,
+          "theaters": 72,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Jurassic World / New Rulers",
+          "japanese name": "ジュラシック・ワールド／新たなる支配者",
+          "sales": 5900,
+          "seats": 16371,
+          "showtimes": 114,
+          "theaters": 182,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Saigon Couture",
+          "japanese name": "サイゴン・クチュール",
+          "sales": 735,
+          "seats": 1697,
+          "showtimes": 13,
+          "theaters": 14,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The order to move around is like music to the band!",
+          "japanese name": "異動辞令は音楽隊！",
+          "sales": 2592,
+          "seats": 15925,
+          "showtimes": 120,
+          "theaters": 151,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Goodbye, Cruel World",
+          "japanese name": "グッバイ・クルエル・ワールド",
+          "sales": 713,
+          "seats": 11917,
+          "showtimes": 93,
+          "theaters": 153,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HIGH & LOW THE WORST X",
+          "japanese name": "ＨｉＧＨ＆ＬＯＷ ＴＨＥ ＷＯＲＳＴ Ｘ",
+          "sales": 7245,
+          "seats": 38307,
+          "showtimes": 268,
+          "theaters": 185,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fish stuff",
+          "japanese name": "さかなのこ",
+          "sales": 2905,
+          "seats": 10255,
+          "showtimes": 85,
+          "theaters": 149,
+          "rank": 13,
           "last_week_ratio": null
         },
         {
@@ -26,53 +136,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "HellDogs",
-          "japanese name": "ヘルドッグス",
-          "sales": 13063,
-          "seats": 67286,
-          "showtimes": 368,
-          "theaters": 188,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Movie: Uta no☆Prinsamas♪ Maji LOVE Starlish Tours",
-          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
-          "sales": 8810,
-          "seats": 30594,
-          "showtimes": 158,
-          "theaters": 96,
-          "rank": 4,
-          "last_week_ratio": 119.1
-        },
-        {
-          "moviename": "Brett Train",
-          "japanese name": "ブレット・トレイン",
-          "sales": 8710,
-          "seats": 34693,
-          "showtimes": 246,
-          "theaters": 196,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "HIGH&LOW THE WORST X",
-          "japanese name": "ＨｉＧＨ＆ＬＯＷ ＴＨＥ ＷＯＲＳＴ Ｘ",
-          "sales": 7245,
-          "seats": 38307,
-          "showtimes": 268,
-          "theaters": 185,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Jurassic World: The New Rulers",
-          "japanese name": "ジュラシック・ワールド／新たなる支配者",
-          "sales": 5900,
-          "seats": 16371,
-          "showtimes": 114,
-          "theaters": 182,
-          "rank": 7,
+          "moviename": "ONE PIECE FILM RED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 58408,
+          "seats": 143601,
+          "showtimes": 610,
+          "theaters": 193,
+          "rank": 1,
           "last_week_ratio": null
         },
         {
@@ -86,23 +156,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Top Gun: Maverick",
-          "japanese name": "トップガン マーヴェリック",
-          "sales": 5142,
-          "seats": 12007,
-          "showtimes": 78,
-          "theaters": 168,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "<Continuous Showings> “Top Gun” × “Top Gun: Maverick”",
-          "japanese name": "＜連続上映＞「トップガン」×「トップガン マーヴェリック」",
-          "sales": 5119,
-          "seats": 25805,
-          "showtimes": 138,
-          "theaters": 160,
-          "rank": 10,
+          "moviename": "This child is evil.",
+          "japanese name": "この子は邪悪",
+          "sales": 949,
+          "seats": 4211,
+          "showtimes": 35,
+          "theaters": 78,
+          "rank": 22,
           "last_week_ratio": null
         },
         {
@@ -126,6 +186,36 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Tonight, if this love disappears from the world",
+          "japanese name": "今夜、世界からこの恋が消えても",
+          "sales": 1571,
+          "seats": 4249,
+          "showtimes": 31,
+          "theaters": 127,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Top Gun: Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 5142,
+          "seats": 12007,
+          "showtimes": 78,
+          "theaters": 168,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "＜Continuous Screening＞ \"Top Gun\" × \"Top Gun Maverick\"",
+          "japanese name": "＜連続上映＞「トップガン」×「トップガン マーヴェリック」",
+          "sales": 5119,
+          "seats": 25805,
+          "showtimes": 138,
+          "theaters": 160,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Special “Sword Art Online: Hanamaru” – Flower Volume",
           "japanese name": "特「刀剣乱舞 花丸」華ノ巻",
           "sales": 2905,
@@ -136,94 +226,14 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Fish stuff",
-          "japanese name": "さかなのこ",
-          "sales": 2905,
-          "seats": 10255,
-          "showtimes": 85,
-          "theaters": 149,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The order to move around is like music to the band!",
-          "japanese name": "異動辞令は音楽隊！",
-          "sales": 2592,
-          "seats": 15925,
-          "showtimes": 120,
-          "theaters": 151,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Chuanpeeri Mukoritta",
-          "japanese name": "川っぺりムコリッタ",
-          "sales": 2408,
-          "seats": 18708,
-          "showtimes": 142,
-          "theaters": 81,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Tonight, even if this love disappears from the world",
-          "japanese name": "今夜、世界からこの恋が消えても",
-          "sales": 1571,
-          "seats": 4249,
-          "showtimes": 31,
-          "theaters": 127,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Lord of the Rings",
-          "japanese name": "ロード・オブ・ザ・リング",
-          "sales": 1530,
-          "seats": 3993,
-          "showtimes": 13,
-          "theaters": 25,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Kingdom 2: Towards the Distant Lands",
-          "japanese name": "キングダム２ 遥かなる大地へ",
-          "sales": 1395,
-          "seats": 4227,
-          "showtimes": 34,
-          "theaters": 170,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The tunnel to summer, the exit to goodbye",
-          "japanese name": "夏へのトンネル、さよならの出口",
-          "sales": 1200,
-          "seats": 8582,
-          "showtimes": 68,
-          "theaters": 72,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version of Tsurune: The First Shot",
-          "japanese name": "劇場版ツルネ－はじまりの一射－",
-          "sales": 1038,
-          "seats": 3632,
-          "showtimes": 24,
-          "theaters": 56,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "This child is evil.",
-          "japanese name": "この子は邪悪",
-          "sales": 949,
-          "seats": 4211,
-          "showtimes": 35,
-          "theaters": 78,
-          "rank": 22,
-          "last_week_ratio": null
+          "moviename": "剧场版 うたの☆プリンスさまっ♪ Maji LOVE Starlight Tours",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
+          "sales": 8810,
+          "seats": 30594,
+          "showtimes": 158,
+          "theaters": 96,
+          "rank": 4,
+          "last_week_ratio": 119.1
         },
         {
           "moviename": "Spider-Man: No Way Home",
@@ -236,23 +246,13 @@
           "last_week_ratio": 116.9
         },
         {
-          "moviename": "Saigon Couture",
-          "japanese name": "サイゴン・クチュール",
-          "sales": 735,
-          "seats": 1697,
-          "showtimes": 13,
-          "theaters": 14,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Goodbye, Cruel World",
-          "japanese name": "グッバイ・クルエル・ワールド",
-          "sales": 713,
-          "seats": 11917,
-          "showtimes": 93,
-          "theaters": 153,
-          "rank": 25,
+          "moviename": "Kingdom 2: Towards the Distant Lands",
+          "japanese name": "キングダム２ 遥かなる大地へ",
+          "sales": 1395,
+          "seats": 4227,
+          "showtimes": 34,
+          "theaters": 170,
+          "rank": 19,
           "last_week_ratio": null
         }
       ]
@@ -262,193 +262,13 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "One Piece Film Red",
-          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
-          "sales": 98502,
-          "seats": 249135,
-          "showtimes": 1063,
-          "theaters": 193,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Silent Parade",
-          "japanese name": "沈黙のパレード",
-          "sales": 82086,
-          "seats": 285885,
-          "showtimes": 843,
-          "theaters": 191,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "HellDogs",
-          "japanese name": "ヘルドッグス",
-          "sales": 23018,
-          "seats": 127577,
-          "showtimes": 696,
-          "theaters": 188,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Brett Train",
-          "japanese name": "ブレット・トレイン",
-          "sales": 17760,
-          "seats": 66018,
-          "showtimes": 459,
-          "theaters": 196,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Movie: Uta no☆Prinsamas♪ Maji LOVE Starlish Tours",
-          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
-          "sales": 15802,
-          "seats": 53813,
-          "showtimes": 282,
-          "theaters": 96,
-          "rank": 5,
-          "last_week_ratio": 124.3
-        },
-        {
-          "moviename": "HIGH&LOW THE WORST X",
-          "japanese name": "ＨｉＧＨ＆ＬＯＷ ＴＨＥ ＷＯＲＳＴ Ｘ",
-          "sales": 12574,
-          "seats": 69960,
-          "showtimes": 489,
-          "theaters": 185,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Jurassic World: The New Rulers",
-          "japanese name": "ジュラシック・ワールド／新たなる支配者",
-          "sales": 11797,
-          "seats": 31244,
-          "showtimes": 219,
-          "theaters": 182,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Top Gun: Maverick",
-          "japanese name": "トップガン マーヴェリック",
-          "sales": 9992,
-          "seats": 24116,
-          "showtimes": 155,
-          "theaters": 168,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "A hundred flowers",
-          "japanese name": "百花",
-          "sales": 7630,
-          "seats": 49591,
-          "showtimes": 382,
-          "theaters": 140,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Akira and Akira",
-          "japanese name": "アキラとあきら",
-          "sales": 6816,
-          "seats": 35328,
-          "showtimes": 292,
-          "theaters": 184,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "<Continuous Showings> “Top Gun” × “Top Gun: Maverick”",
-          "japanese name": "＜連続上映＞「トップガン」×「トップガン マーヴェリック」",
-          "sales": 6560,
-          "seats": 37075,
-          "showtimes": 191,
-          "theaters": 160,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Minions Fever",
-          "japanese name": "ミニオンズ フィーバー",
-          "sales": 6009,
-          "seats": 21125,
-          "showtimes": 139,
-          "theaters": 133,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Tonight, even if this love disappears from the world",
-          "japanese name": "今夜、世界からこの恋が消えても",
-          "sales": 5058,
-          "seats": 14566,
-          "showtimes": 109,
-          "theaters": 127,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Kingdom 2: Towards the Distant Lands",
-          "japanese name": "キングダム２ 遥かなる大地へ",
-          "sales": 4933,
-          "seats": 17039,
-          "showtimes": 128,
-          "theaters": 170,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Special “Sword Art Online: Hanamaru” – Flower Volume",
-          "japanese name": "特「刀剣乱舞 花丸」華ノ巻",
-          "sales": 4730,
-          "seats": 16128,
-          "showtimes": 96,
-          "theaters": 71,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Fish stuff",
-          "japanese name": "さかなのこ",
-          "sales": 4568,
-          "seats": 16935,
-          "showtimes": 143,
-          "theaters": 149,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Chuanpeeri Mukoritta",
-          "japanese name": "川っぺりムコリッタ",
-          "sales": 3630,
-          "seats": 30454,
-          "showtimes": 233,
-          "theaters": 81,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The order to move around is like music to the band!",
-          "japanese name": "異動辞令は音楽隊！",
-          "sales": 3617,
-          "seats": 21739,
-          "showtimes": 166,
-          "theaters": 151,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Lord of the Rings",
-          "japanese name": "ロード・オブ・ザ・リング",
-          "sales": 2920,
-          "seats": 7750,
-          "showtimes": 25,
-          "theaters": 25,
-          "rank": 19,
+          "moviename": "TANG TANG",
+          "japanese name": "ＴＡＮＧ タング",
+          "sales": 1417,
+          "seats": 8837,
+          "showtimes": 61,
+          "theaters": 100,
+          "rank": 25,
           "last_week_ratio": null
         },
         {
@@ -462,7 +282,47 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The tunnel to summer, the exit to goodbye",
+          "moviename": "Deeply in love",
+          "japanese name": "川っぺりムコリッタ",
+          "sales": 3630,
+          "seats": 30454,
+          "showtimes": 233,
+          "theaters": 81,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Lord of the Rings",
+          "japanese name": "ロード・オブ・ザ・リング",
+          "sales": 2920,
+          "seats": 7750,
+          "showtimes": 25,
+          "theaters": 25,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Brett Train",
+          "japanese name": "ブレット・トレイン",
+          "sales": 17760,
+          "seats": 66018,
+          "showtimes": 459,
+          "theaters": 196,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HELDOGS",
+          "japanese name": "ヘルドッグス",
+          "sales": 23018,
+          "seats": 127577,
+          "showtimes": 696,
+          "theaters": 188,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Tunnel to Summer, The Exit of Farewell",
           "japanese name": "夏へのトンネル、さよならの出口",
           "sales": 2375,
           "seats": 14640,
@@ -472,13 +332,53 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "This child is evil.",
-          "japanese name": "この子は邪悪",
-          "sales": 2339,
-          "seats": 10292,
-          "showtimes": 82,
-          "theaters": 78,
-          "rank": 22,
+          "moviename": "Jurassic World / New Rulers",
+          "japanese name": "ジュラシック・ワールド／新たなる支配者",
+          "sales": 11797,
+          "seats": 31244,
+          "showtimes": 219,
+          "theaters": 182,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The order to move around is like music to the band!",
+          "japanese name": "異動辞令は音楽隊！",
+          "sales": 3617,
+          "seats": 21739,
+          "showtimes": 166,
+          "theaters": 151,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HIGH & LOW THE WORST X",
+          "japanese name": "ＨｉＧＨ＆ＬＯＷ ＴＨＥ ＷＯＲＳＴ Ｘ",
+          "sales": 12574,
+          "seats": 69960,
+          "showtimes": 489,
+          "theaters": 185,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fish stuff",
+          "japanese name": "さかなのこ",
+          "sales": 4568,
+          "seats": 16935,
+          "showtimes": 143,
+          "theaters": 149,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Silent Parade",
+          "japanese name": "沈黙のパレード",
+          "sales": 82086,
+          "seats": 285885,
+          "showtimes": 843,
+          "theaters": 191,
+          "rank": 2,
           "last_week_ratio": null
         },
         {
@@ -492,6 +392,106 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "ONE PIECE FILM RED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 98502,
+          "seats": 249135,
+          "showtimes": 1063,
+          "theaters": 193,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A hundred flowers",
+          "japanese name": "百花",
+          "sales": 7630,
+          "seats": 49591,
+          "showtimes": 382,
+          "theaters": 140,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "This child is evil.",
+          "japanese name": "この子は邪悪",
+          "sales": 2339,
+          "seats": 10292,
+          "showtimes": 82,
+          "theaters": 78,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Minions Fever",
+          "japanese name": "ミニオンズ フィーバー",
+          "sales": 6009,
+          "seats": 21125,
+          "showtimes": 139,
+          "theaters": 133,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Akira and Akira",
+          "japanese name": "アキラとあきら",
+          "sales": 6816,
+          "seats": 35328,
+          "showtimes": 292,
+          "theaters": 184,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tonight, if this love disappears from the world",
+          "japanese name": "今夜、世界からこの恋が消えても",
+          "sales": 5058,
+          "seats": 14566,
+          "showtimes": 109,
+          "theaters": 127,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Top Gun: Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 9992,
+          "seats": 24116,
+          "showtimes": 155,
+          "theaters": 168,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "＜Continuous Screening＞ \"Top Gun\" × \"Top Gun Maverick\"",
+          "japanese name": "＜連続上映＞「トップガン」×「トップガン マーヴェリック」",
+          "sales": 6560,
+          "seats": 37075,
+          "showtimes": 191,
+          "theaters": 160,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Special “Sword Art Online: Hanamaru” – Flower Volume",
+          "japanese name": "特「刀剣乱舞 花丸」華ノ巻",
+          "sales": 4730,
+          "seats": 16128,
+          "showtimes": 96,
+          "theaters": 71,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 うたの☆プリンスさまっ♪ Maji LOVE Starlight Tours",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
+          "sales": 15802,
+          "seats": 53813,
+          "showtimes": 282,
+          "theaters": 96,
+          "rank": 5,
+          "last_week_ratio": 124.3
+        },
+        {
           "moviename": "Spider-Man: No Way Home",
           "japanese name": "スパイダーマン ノー・ウェイ・ホーム",
           "sales": 1668,
@@ -502,13 +502,13 @@
           "last_week_ratio": 136.2
         },
         {
-          "moviename": "TANG Tang",
-          "japanese name": "ＴＡＮＧ タング",
-          "sales": 1417,
-          "seats": 8837,
-          "showtimes": 61,
-          "theaters": 100,
-          "rank": 25,
+          "moviename": "Kingdom 2: Towards the Distant Lands",
+          "japanese name": "キングダム２ 遥かなる大地へ",
+          "sales": 4933,
+          "seats": 17039,
+          "showtimes": 128,
+          "theaters": 170,
+          "rank": 14,
           "last_week_ratio": null
         }
       ]
@@ -518,183 +518,33 @@
       "time": "Final",
       "data": [
         {
-          "moviename": "ONE PIECE FILM RED",
-          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
-          "sales": 108533,
-          "seats": 308507,
-          "showtimes": 1311,
-          "theaters": 193,
-          "rank": 1,
+          "moviename": "TANG TANG",
+          "japanese name": "ＴＡＮＧ タング",
+          "sales": 1705,
+          "seats": 13652,
+          "showtimes": 98,
+          "theaters": 100,
+          "rank": 25,
           "last_week_ratio": null
         },
         {
-          "moviename": "Silent Parade",
-          "japanese name": "沈黙のパレード",
-          "sales": 94670,
-          "seats": 358573,
-          "showtimes": 1051,
-          "theaters": 191,
-          "rank": 2,
+          "moviename": "Theatrical Version of Tsurune: The First Shot",
+          "japanese name": "劇場版ツルネ－はじまりの一射－",
+          "sales": 2814,
+          "seats": 12146,
+          "showtimes": 75,
+          "theaters": 56,
+          "rank": 20,
           "last_week_ratio": null
         },
         {
-          "moviename": "Hellhounds",
-          "japanese name": "ヘルドッグス",
-          "sales": 26227,
-          "seats": 161607,
-          "showtimes": 878,
-          "theaters": 188,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Brett Train",
-          "japanese name": "ブレット・トレイン",
-          "sales": 20673,
-          "seats": 94030,
-          "showtimes": 629,
-          "theaters": 196,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Version Uta no☆Prince-sama♪ Maji LOVE Story Tour",
-          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
-          "sales": 18391,
-          "seats": 67310,
-          "showtimes": 355,
-          "theaters": 96,
-          "rank": 5,
-          "last_week_ratio": 123.4
-        },
-        {
-          "moviename": "HIGH & LOW THE WORST X",
-          "japanese name": "ＨｉＧＨ＆ＬＯＷ ＴＨＥ ＷＯＲＳＴ Ｘ",
-          "sales": 15136,
-          "seats": 93382,
-          "showtimes": 653,
-          "theaters": 185,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Jurassic World/Dominion",
-          "japanese name": "ジュラシック・ワールド／新たなる支配者",
-          "sales": 13294,
-          "seats": 39695,
-          "showtimes": 282,
-          "theaters": 182,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "TOPGUN MARVELLICK",
-          "japanese name": "トップガン マーヴェリック",
-          "sales": 12588,
-          "seats": 34304,
-          "showtimes": 223,
-          "theaters": 168,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Hundred Flowers",
-          "japanese name": "百花",
-          "sales": 8098,
-          "seats": 56195,
-          "showtimes": 434,
-          "theaters": 140,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Akira and Akira",
-          "japanese name": "アキラとあきら",
-          "sales": 7446,
-          "seats": 44102,
-          "showtimes": 363,
-          "theaters": 184,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "＜Continuous Screening＞ \"Top Gun\" × \"Top Gun Maverick\"",
-          "japanese name": "＜連続上映＞「トップガン」×「トップガン マーヴェリック」",
-          "sales": 6818,
-          "seats": 39582,
-          "showtimes": 203,
-          "theaters": 160,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "MINIONS FEVER",
-          "japanese name": "ミニオンズ フィーバー",
-          "sales": 6063,
-          "seats": 21348,
-          "showtimes": 141,
-          "theaters": 133,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Kingdom 2: To the Distant Land",
-          "japanese name": "キングダム２ 遥かなる大地へ",
-          "sales": 5696,
-          "seats": 21943,
-          "showtimes": 165,
-          "theaters": 170,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Special \"Sword Dance: Kagemaru\" Hana no Maki",
-          "japanese name": "特「刀剣乱舞 花丸」華ノ巻",
-          "sales": 5643,
-          "seats": 22401,
-          "showtimes": 139,
-          "theaters": 71,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "If this love disappears from the world tonight",
-          "japanese name": "今夜、世界からこの恋が消えても",
-          "sales": 5310,
-          "seats": 17046,
-          "showtimes": 125,
-          "theaters": 127,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Sakana no ko",
-          "japanese name": "さかなのこ",
-          "sales": 4726,
-          "seats": 18029,
-          "showtimes": 151,
-          "theaters": 149,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Kawappeki Mukoritta",
+          "moviename": "Deeply in love",
           "japanese name": "川っぺりムコリッタ",
           "sales": 4057,
           "seats": 39014,
           "showtimes": 300,
           "theaters": 81,
           "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Transfer Order is to the Music Team!",
-          "japanese name": "異動辞令は音楽隊！",
-          "sales": 3675,
-          "seats": 22515,
-          "showtimes": 172,
-          "theaters": 151,
-          "rank": 18,
           "last_week_ratio": null
         },
         {
@@ -708,17 +558,27 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "剧场版ツルネ－はじまりの一射－",
-          "japanese name": "劇場版ツルネ－はじまりの一射－",
-          "sales": 2814,
-          "seats": 12146,
-          "showtimes": 75,
-          "theaters": 56,
-          "rank": 20,
+          "moviename": "Brett Train",
+          "japanese name": "ブレット・トレイン",
+          "sales": 20673,
+          "seats": 94030,
+          "showtimes": 629,
+          "theaters": 196,
+          "rank": 4,
           "last_week_ratio": null
         },
         {
-          "moviename": "The Tunnel to Summer, Farewell Exit",
+          "moviename": "HELDOGS",
+          "japanese name": "ヘルドッグス",
+          "sales": 26227,
+          "seats": 161607,
+          "showtimes": 878,
+          "theaters": 188,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Tunnel to Summer, The Exit of Farewell",
           "japanese name": "夏へのトンネル、さよならの出口",
           "sales": 2760,
           "seats": 18836,
@@ -728,7 +588,57 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "NOPE",
+          "moviename": "Jurassic World / New Rulers",
+          "japanese name": "ジュラシック・ワールド／新たなる支配者",
+          "sales": 13294,
+          "seats": 39695,
+          "showtimes": 282,
+          "theaters": 182,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The order to move around is like music to the band!",
+          "japanese name": "異動辞令は音楽隊！",
+          "sales": 3675,
+          "seats": 22515,
+          "showtimes": 172,
+          "theaters": 151,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HIGH & LOW THE WORST X",
+          "japanese name": "ＨｉＧＨ＆ＬＯＷ ＴＨＥ ＷＯＲＳＴ Ｘ",
+          "sales": 15136,
+          "seats": 93382,
+          "showtimes": 653,
+          "theaters": 185,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fish stuff",
+          "japanese name": "さかなのこ",
+          "sales": 4726,
+          "seats": 18029,
+          "showtimes": 151,
+          "theaters": 149,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Silent Parade",
+          "japanese name": "沈黙のパレード",
+          "sales": 94670,
+          "seats": 358573,
+          "showtimes": 1051,
+          "theaters": 191,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "NOPE Nope",
           "japanese name": "ＮＯＰＥ ノープ",
           "sales": 2730,
           "seats": 14118,
@@ -738,7 +648,27 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "This child is evil",
+          "moviename": "ONE PIECE FILM RED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 108533,
+          "seats": 308507,
+          "showtimes": 1311,
+          "theaters": 193,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A hundred flowers",
+          "japanese name": "百花",
+          "sales": 8098,
+          "seats": 56195,
+          "showtimes": 434,
+          "theaters": 140,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "This child is evil.",
           "japanese name": "この子は邪悪",
           "sales": 2606,
           "seats": 13013,
@@ -748,7 +678,77 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Spider-Man No Way Home",
+          "moviename": "Minions Fever",
+          "japanese name": "ミニオンズ フィーバー",
+          "sales": 6063,
+          "seats": 21348,
+          "showtimes": 141,
+          "theaters": 133,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Akira and Akira",
+          "japanese name": "アキラとあきら",
+          "sales": 7446,
+          "seats": 44102,
+          "showtimes": 363,
+          "theaters": 184,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tonight, if this love disappears from the world",
+          "japanese name": "今夜、世界からこの恋が消えても",
+          "sales": 5310,
+          "seats": 17046,
+          "showtimes": 125,
+          "theaters": 127,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Top Gun: Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 12588,
+          "seats": 34304,
+          "showtimes": 223,
+          "theaters": 168,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "＜Continuous Screening＞ \"Top Gun\" × \"Top Gun Maverick\"",
+          "japanese name": "＜連続上映＞「トップガン」×「トップガン マーヴェリック」",
+          "sales": 6818,
+          "seats": 39582,
+          "showtimes": 203,
+          "theaters": 160,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Special “Sword Art Online: Hanamaru” – Flower Volume",
+          "japanese name": "特「刀剣乱舞 花丸」華ノ巻",
+          "sales": 5643,
+          "seats": 22401,
+          "showtimes": 139,
+          "theaters": 71,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 うたの☆プリンスさまっ♪ Maji LOVE Starlight Tours",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
+          "sales": 18391,
+          "seats": 67310,
+          "showtimes": 355,
+          "theaters": 96,
+          "rank": 5,
+          "last_week_ratio": 123.4
+        },
+        {
+          "moviename": "Spider-Man: No Way Home",
           "japanese name": "スパイダーマン ノー・ウェイ・ホーム",
           "sales": 1875,
           "seats": 3297,
@@ -758,13 +758,13 @@
           "last_week_ratio": 103.2
         },
         {
-          "moviename": "TANG TANG",
-          "japanese name": "ＴＡＮＧ タング",
-          "sales": 1705,
-          "seats": 13652,
-          "showtimes": 98,
-          "theaters": 100,
-          "rank": 25,
+          "moviename": "Kingdom 2: Towards the Distant Lands",
+          "japanese name": "キングダム２ 遥かなる大地へ",
+          "sales": 5696,
+          "seats": 21943,
+          "showtimes": 165,
+          "theaters": 170,
+          "rank": 13,
           "last_week_ratio": null
         }
       ]

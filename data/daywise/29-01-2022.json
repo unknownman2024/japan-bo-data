@@ -6,6 +6,16 @@
       "time": "2PM",
       "data": [
         {
+          "moviename": "The big red puppy grew bigger, I'm Clifford",
+          "japanese name": "でっかくなっちゃった赤い子犬 僕はクリフォード",
+          "sales": 544,
+          "seats": 6513,
+          "showtimes": 73,
+          "theaters": 60,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Theatrical Version: Jujutsu Kaisen 0",
           "japanese name": "劇場版 呪術廻戦０",
           "sales": 29333,
@@ -13,206 +23,6 @@
           "showtimes": 761,
           "theaters": 290,
           "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Confident Man JP: Hero Edition",
-          "japanese name": "コンフィデンスマンＪＰ 英雄編",
-          "sales": 21177,
-          "seats": 112710,
-          "showtimes": 616,
-          "theaters": 287,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Biohazard: Welcome to Raccoon City",
-          "japanese name": "バイオハザード：ウェルカム・トゥ・ラクーンシティ",
-          "sales": 17586,
-          "seats": 151376,
-          "showtimes": 675,
-          "theaters": 232,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Spider-Man: No Way Home",
-          "japanese name": "スパイダーマン ノー・ウェイ・ホーム",
-          "sales": 14312,
-          "seats": 83239,
-          "showtimes": 600,
-          "theaters": 294,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Noise",
-          "japanese name": "ノイズ",
-          "sales": 13167,
-          "seats": 118331,
-          "showtimes": 631,
-          "theaters": 289,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "99.9 Criminal Defense Lawyers THE MOVIE",
-          "japanese name": "９９．９ 刑事専門弁護士 ＴＨＥ ＭＯＶＩＥ",
-          "sales": 9628,
-          "seats": 54088,
-          "showtimes": 481,
-          "theaters": 289,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Convicted offenders",
-          "japanese name": "前科者",
-          "sales": 7202,
-          "seats": 46431,
-          "showtimes": 229,
-          "theaters": 131,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "French Dispatch: The Liberty, Kansas Evening Sun Supplement",
-          "japanese name": "フレンチ・ディスパッチ ザ・リバティ、カンザス・イヴニング・サン別冊",
-          "sales": 4309,
-          "seats": 24509,
-          "showtimes": 208,
-          "theaters": 104,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Coda: Ai no Uta",
-          "japanese name": "コーダ あいのうた",
-          "sales": 3847,
-          "seats": 21248,
-          "showtimes": 191,
-          "theaters": 175,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Midnight Girl War",
-          "japanese name": "真夜中乙女戦争",
-          "sales": 3496,
-          "seats": 25567,
-          "showtimes": 228,
-          "theaters": 186,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "House of Gucci",
-          "japanese name": "ハウス・オブ・グッチ",
-          "sales": 3218,
-          "seats": 17726,
-          "showtimes": 159,
-          "theaters": 244,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Adams Family 2: Across America!",
-          "japanese name": "アダムス・ファミリー２ アメリカ横断旅行！",
-          "sales": 2919,
-          "seats": 38894,
-          "showtimes": 380,
-          "theaters": 169,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Kamen Rider Saber: The Trio of Sinful Crimes",
-          "japanese name": "仮面ライダーセイバー 深罪の三重奏",
-          "sales": 2721,
-          "seats": 15367,
-          "showtimes": 81,
-          "theaters": 36,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Drive My Car",
-          "japanese name": "ドライブ・マイ・カー",
-          "sales": 1481,
-          "seats": 5914,
-          "showtimes": 43,
-          "theaters": 43,
-          "rank": 14,
-          "last_week_ratio": 101.9
-        },
-        {
-          "moviename": "Klay Macho",
-          "japanese name": "クライ・マッチョ",
-          "sales": 1372,
-          "seats": 21253,
-          "showtimes": 181,
-          "theaters": 234,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Boss Baby: Family Mission",
-          "japanese name": "ボス・ベイビー ファミリー・ミッション",
-          "sales": 1344,
-          "seats": 11114,
-          "showtimes": 115,
-          "theaters": 137,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Teenagers from Beyond Earth: Part 1 “Messengers from Outer Space”",
-          "japanese name": "地球外少年少女 前編「地球外からの使者」",
-          "sales": 1340,
-          "seats": 5735,
-          "showtimes": 20,
-          "theaters": 8,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Nakajima Miyuki: Live History 2007–2016 – Song Journey: Meetings and Reunions",
-          "japanese name": "中島みゆき 劇場版 ライヴ・ヒストリー ２００７－２０１６ 歌旅～縁会～一会",
-          "sales": 1297,
-          "seats": 15008,
-          "showtimes": 148,
-          "theaters": 133,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie: Great Authors: Stray Dogs BEST",
-          "japanese name": "映画 文豪ストレイドッグス ＢＥＡＳＴ",
-          "sales": 727,
-          "seats": 3007,
-          "showtimes": 22,
-          "theaters": 59,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Crescendo: A Bridge in Music",
-          "japanese name": "クレッシェンド 音楽の架け橋",
-          "sales": 712,
-          "seats": 4759,
-          "showtimes": 40,
-          "theaters": 18,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version: “Sword Art Online” Legend: The One-Eyed Dragon of Dawn",
-          "japanese name": "劇場版 舞台「刀剣乱舞」義伝 暁の独眼竜",
-          "sales": 708,
-          "seats": 1154,
-          "showtimes": 11,
-          "theaters": 38,
-          "rank": 21,
           "last_week_ratio": null
         },
         {
@@ -226,17 +36,187 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The big red puppy. I’m Clifford.",
-          "japanese name": "でっかくなっちゃった赤い子犬 僕はクリフォード",
-          "sales": 544,
-          "seats": 6513,
-          "showtimes": 73,
-          "theaters": 60,
-          "rank": 23,
+          "moviename": "Noise",
+          "japanese name": "ノイズ",
+          "sales": 13167,
+          "seats": 118331,
+          "showtimes": 631,
+          "theaters": 289,
+          "rank": 5,
           "last_week_ratio": null
         },
         {
-          "moviename": "It’s your turn now, in the movie version.",
+          "moviename": "French Dispatch: The Liberty, Kansas Evening Sun Special Issue",
+          "japanese name": "フレンチ・ディスパッチ ザ・リバティ、カンザス・イヴニング・サン別冊",
+          "sales": 4309,
+          "seats": 24509,
+          "showtimes": 208,
+          "theaters": 104,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A man fascinated by Rubik's Cube",
+          "japanese name": "キューブリックに魅せられた男",
+          "sales": 428,
+          "seats": 2633,
+          "showtimes": 20,
+          "theaters": 24,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Drive My Car",
+          "japanese name": "ドライブ・マイ・カー",
+          "sales": 1481,
+          "seats": 5914,
+          "showtimes": 43,
+          "theaters": 43,
+          "rank": 14,
+          "last_week_ratio": 101.9
+        },
+        {
+          "moviename": "Crescendo Bridge of Music",
+          "japanese name": "クレッシェンド 音楽の架け橋",
+          "sales": 712,
+          "seats": 4759,
+          "showtimes": 40,
+          "theaters": 18,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mitani Miyuki剧场版 Live History 2007-2016 Song Journey～Reunion～One Meeting",
+          "japanese name": "中島みゆき 劇場版 ライヴ・ヒストリー ２００７－２０１６ 歌旅～縁会～一会",
+          "sales": 1297,
+          "seats": 15008,
+          "showtimes": 148,
+          "theaters": 133,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Coder Aino Uta",
+          "japanese name": "コーダ あいのうた",
+          "sales": 3847,
+          "seats": 21248,
+          "showtimes": 191,
+          "theaters": 175,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Resident Evil: Welcome to Raccoon City",
+          "japanese name": "バイオハザード：ウェルカム・トゥ・ラクーンシティ",
+          "sales": 17586,
+          "seats": 151376,
+          "showtimes": 675,
+          "theaters": 232,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "99.9 Criminal Specialist THE MOVIE",
+          "japanese name": "９９．９ 刑事専門弁護士 ＴＨＥ ＭＯＶＩＥ",
+          "sales": 9628,
+          "seats": 54088,
+          "showtimes": 481,
+          "theaters": 289,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version Stage \"Sword Dance of the Dead\" - The Dawn of the One-Eyed Dragon",
+          "japanese name": "劇場版 舞台「刀剣乱舞」義伝 暁の独眼竜",
+          "sales": 708,
+          "seats": 1154,
+          "showtimes": 11,
+          "theaters": 38,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ex-offender",
+          "japanese name": "前科者",
+          "sales": 7202,
+          "seats": 46431,
+          "showtimes": 229,
+          "theaters": 131,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Literary Stray Dogs BEST",
+          "japanese name": "映画 文豪ストレイドッグス ＢＥＡＳＴ",
+          "sales": 727,
+          "seats": 3007,
+          "showtimes": 22,
+          "theaters": 59,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Adam's Family 2: Across America!",
+          "japanese name": "アダムス・ファミリー２ アメリカ横断旅行！",
+          "sales": 2919,
+          "seats": 38894,
+          "showtimes": 380,
+          "theaters": 169,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Midnight Girl War",
+          "japanese name": "真夜中乙女戦争",
+          "sales": 3496,
+          "seats": 25567,
+          "showtimes": 228,
+          "theaters": 186,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Cry Macho",
+          "japanese name": "クライ・マッチョ",
+          "sales": 1372,
+          "seats": 21253,
+          "showtimes": 181,
+          "theaters": 234,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Boss Baby Family Mission",
+          "japanese name": "ボス・ベイビー ファミリー・ミッション",
+          "sales": 1344,
+          "seats": 11114,
+          "showtimes": 115,
+          "theaters": 137,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kamen Rider Saber: Deep罪的奏鸣曲",
+          "japanese name": "仮面ライダーセイバー 深罪の三重奏",
+          "sales": 2721,
+          "seats": 15367,
+          "showtimes": 81,
+          "theaters": 36,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Confident Man JP: Hero Edition",
+          "japanese name": "コンフィデンスマンＪＰ 英雄編",
+          "sales": 21177,
+          "seats": 112710,
+          "showtimes": 616,
+          "theaters": 287,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "It's your turn Theater version",
           "japanese name": "あなたの番です 劇場版",
           "sales": 470,
           "seats": 6686,
@@ -246,13 +226,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "A Man Captivated by Kubrick",
-          "japanese name": "キューブリックに魅せられた男",
-          "sales": 428,
-          "seats": 2633,
+          "moviename": "House of Gucci",
+          "japanese name": "ハウス・オブ・グッチ",
+          "sales": 3218,
+          "seats": 17726,
+          "showtimes": 159,
+          "theaters": 244,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Alien Boy Girl Part 1 \"Messenger from Outer Space\"",
+          "japanese name": "地球外少年少女 前編「地球外からの使者」",
+          "sales": 1340,
+          "seats": 5735,
           "showtimes": 20,
-          "theaters": 24,
-          "rank": 25,
+          "theaters": 8,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Spider-Man: No Way Home",
+          "japanese name": "スパイダーマン ノー・ウェイ・ホーム",
+          "sales": 14312,
+          "seats": 83239,
+          "showtimes": 600,
+          "theaters": 294,
+          "rank": 4,
           "last_week_ratio": null
         }
       ]
@@ -272,33 +272,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Confident Man JP: Hero Edition",
-          "japanese name": "コンフィデンスマンＪＰ 英雄編",
-          "sales": 46467,
-          "seats": 218144,
-          "showtimes": 1175,
-          "theaters": 287,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Biohazard: Welcome to Raccoon City",
-          "japanese name": "バイオハザード：ウェルカム・トゥ・ラクーンシティ",
-          "sales": 34039,
-          "seats": 277381,
-          "showtimes": 1228,
-          "theaters": 232,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Spider-Man: No Way Home",
-          "japanese name": "スパイダーマン ノー・ウェイ・ホーム",
-          "sales": 32042,
-          "seats": 160763,
-          "showtimes": 1137,
-          "theaters": 294,
-          "rank": 4,
+          "moviename": "ARASHI 5×20 Film",
+          "japanese name": "ＡＲＡＳＨＩ ５×２０ ＦＩＬＭ",
+          "sales": 1548,
+          "seats": 9534,
+          "showtimes": 83,
+          "theaters": 98,
+          "rank": 21,
           "last_week_ratio": null
         },
         {
@@ -312,27 +292,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "99.9 Criminal Defense Lawyers THE MOVIE",
-          "japanese name": "９９．９ 刑事専門弁護士 ＴＨＥ ＭＯＶＩＥ",
-          "sales": 15257,
-          "seats": 81984,
-          "showtimes": 727,
-          "theaters": 289,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Convicted offenders",
-          "japanese name": "前科者",
-          "sales": 10586,
-          "seats": 82392,
-          "showtimes": 425,
-          "theaters": 131,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "French Dispatch: The Liberty, Kansas Evening Sun Supplement",
+          "moviename": "French Dispatch: The Liberty, Kansas Evening Sun Special Issue",
           "japanese name": "フレンチ・ディスパッチ ザ・リバティ、カンザス・イヴニング・サン別冊",
           "sales": 7838,
           "seats": 42195,
@@ -342,63 +302,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Coda: Ai no Uta",
-          "japanese name": "コーダ あいのうた",
-          "sales": 7639,
-          "seats": 37193,
-          "showtimes": 340,
-          "theaters": 175,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "House of Gucci",
-          "japanese name": "ハウス・オブ・グッチ",
-          "sales": 7349,
-          "seats": 36077,
-          "showtimes": 327,
-          "theaters": 244,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Midnight Girl War",
-          "japanese name": "真夜中乙女戦争",
-          "sales": 6992,
-          "seats": 47954,
-          "showtimes": 431,
-          "theaters": 186,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Adams Family 2: Across America!",
-          "japanese name": "アダムス・ファミリー２ アメリカ横断旅行！",
-          "sales": 4173,
-          "seats": 57038,
-          "showtimes": 553,
-          "theaters": 169,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Kamen Rider Saber: The Trio of Sinful Crimes",
-          "japanese name": "仮面ライダーセイバー 深罪の三重奏",
-          "sales": 3925,
-          "seats": 24859,
-          "showtimes": 135,
-          "theaters": 36,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Klay Macho",
-          "japanese name": "クライ・マッチョ",
-          "sales": 2598,
-          "seats": 37840,
-          "showtimes": 329,
-          "theaters": 234,
-          "rank": 14,
+          "moviename": "A man fascinated by Rubik's Cube",
+          "japanese name": "キューブリックに魅せられた男",
+          "sales": 1268,
+          "seats": 5037,
+          "showtimes": 39,
+          "theaters": 24,
+          "rank": 23,
           "last_week_ratio": null
         },
         {
@@ -412,93 +322,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "It’s your turn now, in the movie version.",
-          "japanese name": "あなたの番です 劇場版",
-          "sales": 2202,
-          "seats": 21242,
-          "showtimes": 190,
-          "theaters": 261,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Teenagers from Beyond Earth: Part 1 “Messengers from Outer Space”",
-          "japanese name": "地球外少年少女 前編「地球外からの使者」",
-          "sales": 2154,
-          "seats": 10402,
-          "showtimes": 37,
-          "theaters": 8,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Nakajima Miyuki: Live History 2007–2016 – Song Journey: Meetings and Reunions",
-          "japanese name": "中島みゆき 劇場版 ライヴ・ヒストリー ２００７－２０１６ 歌旅～縁会～一会",
-          "sales": 2152,
-          "seats": 27653,
-          "showtimes": 254,
-          "theaters": 133,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Boss Baby: Family Mission",
-          "japanese name": "ボス・ベイビー ファミリー・ミッション",
-          "sales": 1805,
-          "seats": 13414,
-          "showtimes": 139,
-          "theaters": 137,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version: “Sword Art Online” Legend: The One-Eyed Dragon of Dawn",
-          "japanese name": "劇場版 舞台「刀剣乱舞」義伝 暁の独眼竜",
-          "sales": 1613,
-          "seats": 3039,
-          "showtimes": 29,
-          "theaters": 38,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "ARASHI 5×20 Film",
-          "japanese name": "ＡＲＡＳＨＩ ５×２０ ＦＩＬＭ",
-          "sales": 1548,
-          "seats": 9534,
-          "showtimes": 83,
-          "theaters": 98,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie: Great Authors: Stray Dogs BEST",
-          "japanese name": "映画 文豪ストレイドッグス ＢＥＡＳＴ",
-          "sales": 1452,
-          "seats": 6523,
-          "showtimes": 53,
-          "theaters": 59,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "A Man Captivated by Kubrick",
-          "japanese name": "キューブリックに魅せられた男",
-          "sales": 1268,
-          "seats": 5037,
-          "showtimes": 39,
-          "theaters": 24,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Crescendo: A Bridge in Music",
+          "moviename": "Crescendo Bridge of Music",
           "japanese name": "クレッシェンド 音楽の架け橋",
           "sales": 1065,
           "seats": 7962,
           "showtimes": 68,
           "theaters": 18,
           "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mitani Miyuki剧场版 Live History 2007-2016 Song Journey～Reunion～One Meeting",
+          "japanese name": "中島みゆき 劇場版 ライヴ・ヒストリー ２００７－２０１６ 歌旅～縁会～一会",
+          "sales": 2152,
+          "seats": 27653,
+          "showtimes": 254,
+          "theaters": 133,
+          "rank": 18,
           "last_week_ratio": null
         },
         {
@@ -510,6 +350,166 @@
           "theaters": 149,
           "rank": 25,
           "last_week_ratio": null
+        },
+        {
+          "moviename": "Coder Aino Uta",
+          "japanese name": "コーダ あいのうた",
+          "sales": 7639,
+          "seats": 37193,
+          "showtimes": 340,
+          "theaters": 175,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Resident Evil: Welcome to Raccoon City",
+          "japanese name": "バイオハザード：ウェルカム・トゥ・ラクーンシティ",
+          "sales": 34039,
+          "seats": 277381,
+          "showtimes": 1228,
+          "theaters": 232,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "99.9 Criminal Specialist THE MOVIE",
+          "japanese name": "９９．９ 刑事専門弁護士 ＴＨＥ ＭＯＶＩＥ",
+          "sales": 15257,
+          "seats": 81984,
+          "showtimes": 727,
+          "theaters": 289,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version Stage \"Sword Dance of the Dead\" - The Dawn of the One-Eyed Dragon",
+          "japanese name": "劇場版 舞台「刀剣乱舞」義伝 暁の独眼竜",
+          "sales": 1613,
+          "seats": 3039,
+          "showtimes": 29,
+          "theaters": 38,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ex-offender",
+          "japanese name": "前科者",
+          "sales": 10586,
+          "seats": 82392,
+          "showtimes": 425,
+          "theaters": 131,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Literary Stray Dogs BEST",
+          "japanese name": "映画 文豪ストレイドッグス ＢＥＡＳＴ",
+          "sales": 1452,
+          "seats": 6523,
+          "showtimes": 53,
+          "theaters": 59,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Adam's Family 2: Across America!",
+          "japanese name": "アダムス・ファミリー２ アメリカ横断旅行！",
+          "sales": 4173,
+          "seats": 57038,
+          "showtimes": 553,
+          "theaters": 169,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Midnight Girl War",
+          "japanese name": "真夜中乙女戦争",
+          "sales": 6992,
+          "seats": 47954,
+          "showtimes": 431,
+          "theaters": 186,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Cry Macho",
+          "japanese name": "クライ・マッチョ",
+          "sales": 2598,
+          "seats": 37840,
+          "showtimes": 329,
+          "theaters": 234,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Boss Baby Family Mission",
+          "japanese name": "ボス・ベイビー ファミリー・ミッション",
+          "sales": 1805,
+          "seats": 13414,
+          "showtimes": 139,
+          "theaters": 137,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kamen Rider Saber: Deep罪的奏鸣曲",
+          "japanese name": "仮面ライダーセイバー 深罪の三重奏",
+          "sales": 3925,
+          "seats": 24859,
+          "showtimes": 135,
+          "theaters": 36,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Confident Man JP: Hero Edition",
+          "japanese name": "コンフィデンスマンＪＰ 英雄編",
+          "sales": 46467,
+          "seats": 218144,
+          "showtimes": 1175,
+          "theaters": 287,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "It's your turn Theater version",
+          "japanese name": "あなたの番です 劇場版",
+          "sales": 2202,
+          "seats": 21242,
+          "showtimes": 190,
+          "theaters": 261,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "House of Gucci",
+          "japanese name": "ハウス・オブ・グッチ",
+          "sales": 7349,
+          "seats": 36077,
+          "showtimes": 327,
+          "theaters": 244,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Alien Boy Girl Part 1 \"Messenger from Outer Space\"",
+          "japanese name": "地球外少年少女 前編「地球外からの使者」",
+          "sales": 2154,
+          "seats": 10402,
+          "showtimes": 37,
+          "theaters": 8,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Spider-Man: No Way Home",
+          "japanese name": "スパイダーマン ノー・ウェイ・ホーム",
+          "sales": 32042,
+          "seats": 160763,
+          "showtimes": 1137,
+          "theaters": 294,
+          "rank": 4,
+          "last_week_ratio": null
         }
       ]
     },
@@ -518,7 +518,7 @@
       "time": "Final",
       "data": [
         {
-          "moviename": "Movie: Jujutsu Kaisen 0",
+          "moviename": "Theatrical Version: Jujutsu Kaisen 0",
           "japanese name": "劇場版 呪術廻戦０",
           "sales": 65909,
           "seats": 344361,
@@ -528,33 +528,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Confidence Man JP: Hero Edition",
-          "japanese name": "コンフィデンスマンＪＰ 英雄編",
-          "sales": 56123,
-          "seats": 273899,
-          "showtimes": 1470,
-          "theaters": 287,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Resident Evil: Welcome to Raccoon City",
-          "japanese name": "バイオハザード：ウェルカム・トゥ・ラクーンシティ",
-          "sales": 45219,
-          "seats": 357943,
-          "showtimes": 1564,
-          "theaters": 232,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Spider-Man: No Way Home",
-          "japanese name": "スパイダーマン ノー・ウェイ・ホーム",
-          "sales": 39816,
-          "seats": 210226,
-          "showtimes": 1477,
-          "theaters": 294,
-          "rank": 4,
+          "moviename": "ARASHI 5×20 Film",
+          "japanese name": "ＡＲＡＳＨＩ ５×２０ ＦＩＬＭ",
+          "sales": 1715,
+          "seats": 10876,
+          "showtimes": 100,
+          "theaters": 98,
+          "rank": 22,
           "last_week_ratio": null
         },
         {
@@ -568,183 +548,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "99.9 Criminal Specialist Attorney THE MOVIE",
-          "japanese name": "９９．９ 刑事専門弁護士 ＴＨＥ ＭＯＶＩＥ",
-          "sales": 17601,
-          "seats": 103579,
-          "showtimes": 922,
-          "theaters": 289,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Ex-offender",
-          "japanese name": "前科者",
-          "sales": 12074,
-          "seats": 104331,
-          "showtimes": 555,
-          "theaters": 131,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "French Dispatch The Liberty, Kansas Evening Sun Special Issue",
+          "moviename": "French Dispatch: The Liberty, Kansas Evening Sun Special Issue",
           "japanese name": "フレンチ・ディスパッチ ザ・リバティ、カンザス・イヴニング・サン別冊",
           "sales": 9560,
           "seats": 54466,
           "showtimes": 458,
           "theaters": 104,
           "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "House of Gucci",
-          "japanese name": "ハウス・オブ・グッチ",
-          "sales": 9005,
-          "seats": 47078,
-          "showtimes": 427,
-          "theaters": 244,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Coder Aino Uta",
-          "japanese name": "コーダ あいのうた",
-          "sales": 8829,
-          "seats": 45603,
-          "showtimes": 417,
-          "theaters": 175,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Midnight Girl War",
-          "japanese name": "真夜中乙女戦争",
-          "sales": 7913,
-          "seats": 59252,
-          "showtimes": 536,
-          "theaters": 186,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Adam's Family 2 Across America!",
-          "japanese name": "アダムス・ファミリー２ アメリカ横断旅行！",
-          "sales": 4454,
-          "seats": 64898,
-          "showtimes": 614,
-          "theaters": 169,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Kamen Rider Saber The Triple Symphony of Deep Sin",
-          "japanese name": "仮面ライダーセイバー 深罪の三重奏",
-          "sales": 4189,
-          "seats": 28427,
-          "showtimes": 154,
-          "theaters": 36,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Cry Macho",
-          "japanese name": "クライ・マッチョ",
-          "sales": 2846,
-          "seats": 43124,
-          "showtimes": 371,
-          "theaters": 234,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Drive My Car",
-          "japanese name": "ドライブ・マイ・カー",
-          "sales": 2741,
-          "seats": 11464,
-          "showtimes": 85,
-          "theaters": 43,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "It's Your Turn剧场版",
-          "japanese name": "あなたの番です 劇場版",
-          "sales": 2620,
-          "seats": 28110,
-          "showtimes": 265,
-          "theaters": 261,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Extraterrestrial Boy and Girl Part 1 \"Messenger from Outer Space\"",
-          "japanese name": "地球外少年少女 前編「地球外からの使者」",
-          "sales": 2360,
-          "seats": 12097,
-          "showtimes": 43,
-          "theaters": 8,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Miyuki Nakajima Live History 2007-2016 Song Journey～Reunion～One Meeting",
-          "japanese name": "中島みゆき 劇場版 ライヴ・ヒストリー ２００７－２０１６ 歌旅～縁会～一会",
-          "sales": 2254,
-          "seats": 29385,
-          "showtimes": 268,
-          "theaters": 133,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Film Stage \"Sword Dance of the Dead\" - The Legend of the Dawn One-Eyed Dragon",
-          "japanese name": "劇場版 舞台「刀剣乱舞」義伝 暁の独眼竜",
-          "sales": 1862,
-          "seats": 4359,
-          "showtimes": 40,
-          "theaters": 38,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Boss Baby Family Mission",
-          "japanese name": "ボス・ベイビー ファミリー・ミッション",
-          "sales": 1805,
-          "seats": 13414,
-          "showtimes": 139,
-          "theaters": 137,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Kingman, First Agent",
-          "japanese name": "キングスマン ファースト・エージェント",
-          "sales": 1803,
-          "seats": 14889,
-          "showtimes": 148,
-          "theaters": 149,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "ARASHI 5×20 FILM",
-          "japanese name": "ＡＲＡＳＨＩ ５×２０ ＦＩＬＭ",
-          "sales": 1715,
-          "seats": 10876,
-          "showtimes": 100,
-          "theaters": 98,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie The Master of the Stray Dogs - BEST",
-          "japanese name": "映画 文豪ストレイドッグス ＢＥＡＳＴ",
-          "sales": 1639,
-          "seats": 7664,
-          "showtimes": 64,
-          "theaters": 59,
-          "rank": 23,
           "last_week_ratio": null
         },
         {
@@ -758,13 +568,203 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Crescendo, the bridge of music",
+          "moviename": "Drive My Car",
+          "japanese name": "ドライブ・マイ・カー",
+          "sales": 2741,
+          "seats": 11464,
+          "showtimes": 85,
+          "theaters": 43,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Crescendo Bridge of Music",
           "japanese name": "クレッシェンド 音楽の架け橋",
           "sales": 1154,
           "seats": 8900,
           "showtimes": 76,
           "theaters": 18,
           "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mitani Miyuki剧场版 Live History 2007-2016 Song Journey～Reunion～One Meeting",
+          "japanese name": "中島みゆき 劇場版 ライヴ・ヒストリー ２００７－２０１６ 歌旅～縁会～一会",
+          "sales": 2254,
+          "seats": 29385,
+          "showtimes": 268,
+          "theaters": 133,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kingsman: The First Agent",
+          "japanese name": "キングスマン ファースト・エージェント",
+          "sales": 1803,
+          "seats": 14889,
+          "showtimes": 148,
+          "theaters": 149,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Coder Aino Uta",
+          "japanese name": "コーダ あいのうた",
+          "sales": 8829,
+          "seats": 45603,
+          "showtimes": 417,
+          "theaters": 175,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Resident Evil: Welcome to Raccoon City",
+          "japanese name": "バイオハザード：ウェルカム・トゥ・ラクーンシティ",
+          "sales": 45219,
+          "seats": 357943,
+          "showtimes": 1564,
+          "theaters": 232,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "99.9 Criminal Specialist THE MOVIE",
+          "japanese name": "９９．９ 刑事専門弁護士 ＴＨＥ ＭＯＶＩＥ",
+          "sales": 17601,
+          "seats": 103579,
+          "showtimes": 922,
+          "theaters": 289,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version Stage \"Sword Dance of the Dead\" - The Dawn of the One-Eyed Dragon",
+          "japanese name": "劇場版 舞台「刀剣乱舞」義伝 暁の独眼竜",
+          "sales": 1862,
+          "seats": 4359,
+          "showtimes": 40,
+          "theaters": 38,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ex-offender",
+          "japanese name": "前科者",
+          "sales": 12074,
+          "seats": 104331,
+          "showtimes": 555,
+          "theaters": 131,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Literary Stray Dogs BEST",
+          "japanese name": "映画 文豪ストレイドッグス ＢＥＡＳＴ",
+          "sales": 1639,
+          "seats": 7664,
+          "showtimes": 64,
+          "theaters": 59,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Adam's Family 2: Across America!",
+          "japanese name": "アダムス・ファミリー２ アメリカ横断旅行！",
+          "sales": 4454,
+          "seats": 64898,
+          "showtimes": 614,
+          "theaters": 169,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Midnight Girl War",
+          "japanese name": "真夜中乙女戦争",
+          "sales": 7913,
+          "seats": 59252,
+          "showtimes": 536,
+          "theaters": 186,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Cry Macho",
+          "japanese name": "クライ・マッチョ",
+          "sales": 2846,
+          "seats": 43124,
+          "showtimes": 371,
+          "theaters": 234,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Boss Baby Family Mission",
+          "japanese name": "ボス・ベイビー ファミリー・ミッション",
+          "sales": 1805,
+          "seats": 13414,
+          "showtimes": 139,
+          "theaters": 137,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kamen Rider Saber: Deep罪的奏鸣曲",
+          "japanese name": "仮面ライダーセイバー 深罪の三重奏",
+          "sales": 4189,
+          "seats": 28427,
+          "showtimes": 154,
+          "theaters": 36,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Confident Man JP: Hero Edition",
+          "japanese name": "コンフィデンスマンＪＰ 英雄編",
+          "sales": 56123,
+          "seats": 273899,
+          "showtimes": 1470,
+          "theaters": 287,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "It's your turn Theater version",
+          "japanese name": "あなたの番です 劇場版",
+          "sales": 2620,
+          "seats": 28110,
+          "showtimes": 265,
+          "theaters": 261,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "House of Gucci",
+          "japanese name": "ハウス・オブ・グッチ",
+          "sales": 9005,
+          "seats": 47078,
+          "showtimes": 427,
+          "theaters": 244,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Alien Boy Girl Part 1 \"Messenger from Outer Space\"",
+          "japanese name": "地球外少年少女 前編「地球外からの使者」",
+          "sales": 2360,
+          "seats": 12097,
+          "showtimes": 43,
+          "theaters": 8,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Spider-Man: No Way Home",
+          "japanese name": "スパイダーマン ノー・ウェイ・ホーム",
+          "sales": 39816,
+          "seats": 210226,
+          "showtimes": 1477,
+          "theaters": 294,
+          "rank": 4,
           "last_week_ratio": null
         }
       ]

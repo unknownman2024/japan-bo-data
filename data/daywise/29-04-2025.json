@@ -6,14 +6,34 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "Detective Conan: The Afterimage of the One-Eyed Man (Flashback)",
-          "japanese name": "名探偵コナン 隻眼の残像（フラッシュバック）",
-          "sales": 191900,
-          "seats": 394913,
-          "showtimes": 1633,
-          "theaters": 252,
-          "rank": 1,
-          "last_week_ratio": 418.3
+          "moviename": "Amateur",
+          "japanese name": "アマチュア",
+          "sales": 1624,
+          "seats": 8072,
+          "showtimes": 72,
+          "theaters": 226,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A World of Unrequited Love",
+          "japanese name": "片思い世界",
+          "sales": 1102,
+          "seats": 7259,
+          "showtimes": 69,
+          "theaters": 224,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bridget Jones's Diary So Crazy Awesome Me Now",
+          "japanese name": "ブリジット・ジョーンズの日記 サイテー最高な私の今",
+          "sales": 572,
+          "seats": 2655,
+          "showtimes": 24,
+          "theaters": 88,
+          "rank": 20,
+          "last_week_ratio": null
         },
         {
           "moviename": "Minecraft/The Movie",
@@ -26,33 +46,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "♯I’ll tell you the truth.",
-          "japanese name": "♯真相をお話しします",
-          "sales": 41809,
-          "seats": 151725,
-          "showtimes": 689,
-          "theaters": 246,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Movie: Doraemon: Nobita’s Picture World Story",
-          "japanese name": "映画ドラえもん のび太の絵世界物語",
-          "sales": 20163,
-          "seats": 39417,
-          "showtimes": 327,
-          "theaters": 237,
-          "rank": 4,
-          "last_week_ratio": 2483.1
-        },
-        {
-          "moviename": "Flower-shaped bun",
-          "japanese name": "花まんま",
-          "sales": 17640,
-          "seats": 70293,
-          "showtimes": 557,
-          "theaters": 244,
-          "rank": 5,
+          "moviename": "Love Letter on the 35th Year",
+          "japanese name": "３５年目のラブレター",
+          "sales": 540,
+          "seats": 2710,
+          "showtimes": 21,
+          "theaters": 37,
+          "rank": 22,
           "last_week_ratio": null
         },
         {
@@ -66,6 +66,16 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "I still can’t say that today’s sky is my favorite.",
+          "japanese name": "今日の空が一番好き、とまだ言えない僕は",
+          "sales": 1348,
+          "seats": 3994,
+          "showtimes": 39,
+          "theaters": 38,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Wicked: Two Witches",
           "japanese name": "ウィキッド ふたりの魔女",
           "sales": 6212,
@@ -76,23 +86,53 @@
           "last_week_ratio": 281.6
         },
         {
-          "moviename": "Theatrical Version: Me and the Robot",
-          "japanese name": "劇場版 僕とロボコ",
-          "sales": 4652,
-          "seats": 26201,
-          "showtimes": 165,
-          "theaters": 123,
-          "rank": 8,
-          "last_week_ratio": 630.4
+          "moviename": "Movie Doraemon: Nobita's World Story",
+          "japanese name": "映画ドラえもん のび太の絵世界物語",
+          "sales": 20163,
+          "seats": 39417,
+          "showtimes": 327,
+          "theaters": 237,
+          "rank": 4,
+          "last_week_ratio": 2483.1
         },
         {
-          "moviename": "The House of Heretics",
-          "japanese name": "異端者の家",
-          "sales": 3815,
-          "seats": 27676,
-          "showtimes": 248,
-          "theaters": 177,
-          "rank": 9,
+          "moviename": "First Kiss 1ST KISS",
+          "japanese name": "ファーストキス １ＳＴ ＫＩＳＳ",
+          "sales": 1294,
+          "seats": 5889,
+          "showtimes": 57,
+          "theaters": 203,
+          "rank": 14,
+          "last_week_ratio": 194
+        },
+        {
+          "moviename": "Snow White",
+          "japanese name": "白雪姫",
+          "sales": 958,
+          "seats": 6033,
+          "showtimes": 52,
+          "theaters": 104,
+          "rank": 18,
+          "last_week_ratio": 182.8
+        },
+        {
+          "moviename": "MET Live Viewing 2024–25: Beethoven’s “Fidelio”",
+          "japanese name": "ＭＥＴライブビューイング２０２４－２５ ベートーヴェン「フィデリオ」",
+          "sales": 555,
+          "seats": 1703,
+          "showtimes": 14,
+          "theaters": 15,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Flower-shaped bun",
+          "japanese name": "花まんま",
+          "sales": 17640,
+          "seats": 70293,
+          "showtimes": 557,
+          "theaters": 244,
+          "rank": 5,
           "last_week_ratio": null
         },
         {
@@ -116,114 +156,34 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Amateur",
-          "japanese name": "アマチュア",
-          "sales": 1624,
-          "seats": 8072,
-          "showtimes": 72,
-          "theaters": 226,
-          "rank": 12,
+          "moviename": "Movie \"My Neighbor Totoro\"",
+          "japanese name": "劇場版 僕とロボコ",
+          "sales": 4652,
+          "seats": 26201,
+          "showtimes": 165,
+          "theaters": 123,
+          "rank": 8,
+          "last_week_ratio": 630.4
+        },
+        {
+          "moviename": "The House of Heretics",
+          "japanese name": "異端者の家",
+          "sales": 3815,
+          "seats": 27676,
+          "showtimes": 248,
+          "theaters": 177,
+          "rank": 9,
           "last_week_ratio": null
         },
         {
-          "moviename": "I still can’t say that today’s sky is my favorite.",
-          "japanese name": "今日の空が一番好き、とまだ言えない僕は",
-          "sales": 1348,
-          "seats": 3994,
-          "showtimes": 39,
-          "theaters": 38,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "First Kiss 1ST KISS",
-          "japanese name": "ファーストキス １ＳＴ ＫＩＳＳ",
-          "sales": 1294,
-          "seats": 5889,
-          "showtimes": 57,
-          "theaters": 203,
-          "rank": 14,
-          "last_week_ratio": 194
-        },
-        {
-          "moviename": "Theatrical Version of Project Sekai: The Broken World and Miku Who Can’t Sing",
-          "japanese name": "劇場版プロジェクトセカイ 壊れたセカイと歌えないミク",
-          "sales": 1175,
-          "seats": 2008,
-          "showtimes": 19,
-          "theaters": 76,
-          "rank": 15,
-          "last_week_ratio": 816
-        },
-        {
-          "moviename": "The movie “Hypnosis Mic – Division Rap Battle”",
-          "japanese name": "映画「ヒプノシスマイク －Ｄｉｖｉｓｉｏｎ Ｒａｐ Ｂａｔｔｌｅ－」",
-          "sales": 1141,
-          "seats": 2997,
-          "showtimes": 17,
-          "theaters": 37,
-          "rank": 16,
-          "last_week_ratio": 272.3
-        },
-        {
-          "moviename": "A World of Unrequited Love",
-          "japanese name": "片思い世界",
-          "sales": 1102,
-          "seats": 7259,
-          "showtimes": 69,
-          "theaters": 224,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Snow White",
-          "japanese name": "白雪姫",
-          "sales": 958,
-          "seats": 6033,
-          "showtimes": 52,
-          "theaters": 104,
-          "rank": 18,
-          "last_week_ratio": 182.8
-        },
-        {
-          "moviename": "I cry because it’s so delicious.",
-          "japanese name": "おいしくて泣くとき",
-          "sales": 847,
-          "seats": 5956,
-          "showtimes": 48,
-          "theaters": 138,
-          "rank": 19,
-          "last_week_ratio": 207.6
-        },
-        {
-          "moviename": "The Diary of Bridget Jones: Ugh, what a terrible day for me.",
-          "japanese name": "ブリジット・ジョーンズの日記 サイテー最高な私の今",
-          "sales": 572,
-          "seats": 2655,
-          "showtimes": 24,
-          "theaters": 88,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "MET Live Viewing 2024–25: Beethoven’s “Fidelio”",
-          "japanese name": "ＭＥＴライブビューイング２０２４－２５ ベートーヴェン「フィデリオ」",
-          "sales": 555,
-          "seats": 1703,
-          "showtimes": 14,
-          "theaters": 15,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "A Love Letter on the 35th Anniversary",
-          "japanese name": "３５年目のラブレター",
-          "sales": 540,
-          "seats": 2710,
-          "showtimes": 21,
-          "theaters": 37,
-          "rank": 22,
-          "last_week_ratio": null
+          "moviename": "Lawrence of Arabia / Complete Edition",
+          "japanese name": "アラビアのロレンス／完全版",
+          "sales": 438,
+          "seats": 2364,
+          "showtimes": 18,
+          "theaters": 20,
+          "rank": 25,
+          "last_week_ratio": 275.5
         },
         {
           "moviename": "Ben Har",
@@ -236,6 +196,26 @@
           "last_week_ratio": 308.7
         },
         {
+          "moviename": "Movie \"Hypnosmic Mic - Division Rap Battle -\"",
+          "japanese name": "映画「ヒプノシスマイク －Ｄｉｖｉｓｉｏｎ Ｒａｐ Ｂａｔｔｌｅ－」",
+          "sales": 1141,
+          "seats": 2997,
+          "showtimes": 17,
+          "theaters": 37,
+          "rank": 16,
+          "last_week_ratio": 272.3
+        },
+        {
+          "moviename": "♯I’ll tell you the truth.",
+          "japanese name": "♯真相をお話しします",
+          "sales": 41809,
+          "seats": 151725,
+          "showtimes": 689,
+          "theaters": 246,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "JOIKA: The Ballerina of Beauty and Madness",
           "japanese name": "ＪＯＩＫＡ 美と狂気のバレリーナ",
           "sales": 450,
@@ -246,14 +226,34 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Lawrence of Arabia / Complete Edition",
-          "japanese name": "アラビアのロレンス／完全版",
-          "sales": 438,
-          "seats": 2364,
-          "showtimes": 18,
-          "theaters": 20,
-          "rank": 25,
-          "last_week_ratio": 275.5
+          "moviename": "剧场版 Project Sekai: The World That's Ruined and Can't Sing Miku",
+          "japanese name": "劇場版プロジェクトセカイ 壊れたセカイと歌えないミク",
+          "sales": 1175,
+          "seats": 2008,
+          "showtimes": 19,
+          "theaters": 76,
+          "rank": 15,
+          "last_week_ratio": 816
+        },
+        {
+          "moviename": "I cry because it’s so delicious.",
+          "japanese name": "おいしくて泣くとき",
+          "sales": 847,
+          "seats": 5956,
+          "showtimes": 48,
+          "theaters": 138,
+          "rank": 19,
+          "last_week_ratio": 207.6
+        },
+        {
+          "moviename": "Detective Conan: The Blinding Flashback",
+          "japanese name": "名探偵コナン 隻眼の残像（フラッシュバック）",
+          "sales": 191900,
+          "seats": 394913,
+          "showtimes": 1633,
+          "theaters": 252,
+          "rank": 1,
+          "last_week_ratio": 418.3
         }
       ]
     },
@@ -262,14 +262,34 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "Detective Conan: The Afterimage of the One-Eyed Man (Flashback)",
-          "japanese name": "名探偵コナン 隻眼の残像（フラッシュバック）",
-          "sales": 317322,
-          "seats": 708045,
-          "showtimes": 2967,
-          "theaters": 252,
-          "rank": 1,
-          "last_week_ratio": 340.3
+          "moviename": "Amateur",
+          "japanese name": "アマチュア",
+          "sales": 3749,
+          "seats": 18541,
+          "showtimes": 168,
+          "theaters": 226,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A World of Unrequited Love",
+          "japanese name": "片思い世界",
+          "sales": 2957,
+          "seats": 19820,
+          "showtimes": 180,
+          "theaters": 224,
+          "rank": 13,
+          "last_week_ratio": 126.4
+        },
+        {
+          "moviename": "Bridget Jones's Diary So Crazy Awesome Me Now",
+          "japanese name": "ブリジット・ジョーンズの日記 サイテー最高な私の今",
+          "sales": 1074,
+          "seats": 5505,
+          "showtimes": 49,
+          "theaters": 88,
+          "rank": 20,
+          "last_week_ratio": null
         },
         {
           "moviename": "Minecraft/The Movie",
@@ -282,34 +302,24 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "♯I’ll tell you the truth.",
-          "japanese name": "♯真相をお話しします",
-          "sales": 65832,
-          "seats": 262609,
-          "showtimes": 1201,
-          "theaters": 246,
-          "rank": 3,
-          "last_week_ratio": null
+          "moviename": "Unfamiliar Girl",
+          "japanese name": "知らないカノジョ",
+          "sales": 592,
+          "seats": 1010,
+          "showtimes": 9,
+          "theaters": 10,
+          "rank": 23,
+          "last_week_ratio": 265.5
         },
         {
-          "moviename": "Flower-shaped bun",
-          "japanese name": "花まんま",
-          "sales": 24652,
-          "seats": 115940,
-          "showtimes": 920,
-          "theaters": 244,
-          "rank": 4,
+          "moviename": "Love Letter on the 35th Year",
+          "japanese name": "３５年目のラブレター",
+          "sales": 678,
+          "seats": 3534,
+          "showtimes": 30,
+          "theaters": 37,
+          "rank": 22,
           "last_week_ratio": null
-        },
-        {
-          "moviename": "The Movie: Doraemon: Nobita’s Picture World Story",
-          "japanese name": "映画ドラえもん のび太の絵世界物語",
-          "sales": 22878,
-          "seats": 44782,
-          "showtimes": 374,
-          "theaters": 237,
-          "rank": 5,
-          "last_week_ratio": 1795.8
         },
         {
           "moviename": "Paripiko Kongming THE MOVIE",
@@ -319,6 +329,16 @@
           "showtimes": 868,
           "theaters": 227,
           "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I still can’t say that today’s sky is my favorite.",
+          "japanese name": "今日の空が一番好き、とまだ言えない僕は",
+          "sales": 2174,
+          "seats": 7616,
+          "showtimes": 73,
+          "theaters": 38,
+          "rank": 17,
           "last_week_ratio": null
         },
         {
@@ -332,7 +352,77 @@
           "last_week_ratio": 291.1
         },
         {
-          "moviename": "Theatrical Version: Me and the Robot",
+          "moviename": "Movie Doraemon: Nobita's World Story",
+          "japanese name": "映画ドラえもん のび太の絵世界物語",
+          "sales": 22878,
+          "seats": 44782,
+          "showtimes": 374,
+          "theaters": 237,
+          "rank": 5,
+          "last_week_ratio": 1795.8
+        },
+        {
+          "moviename": "First Kiss 1ST KISS",
+          "japanese name": "ファーストキス １ＳＴ ＫＩＳＳ",
+          "sales": 3064,
+          "seats": 14693,
+          "showtimes": 134,
+          "theaters": 203,
+          "rank": 12,
+          "last_week_ratio": 229.9
+        },
+        {
+          "moviename": "Snow White",
+          "japanese name": "白雪姫",
+          "sales": 1414,
+          "seats": 10192,
+          "showtimes": 89,
+          "theaters": 104,
+          "rank": 18,
+          "last_week_ratio": 174.4
+        },
+        {
+          "moviename": "MET Live Viewing 2024–25: Beethoven’s “Fidelio”",
+          "japanese name": "ＭＥＴライブビューイング２０２４－２５ ベートーヴェン「フィデリオ」",
+          "sales": 589,
+          "seats": 2093,
+          "showtimes": 15,
+          "theaters": 15,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Flower-shaped bun",
+          "japanese name": "花まんま",
+          "sales": 24652,
+          "seats": 115940,
+          "showtimes": 920,
+          "theaters": 244,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pope election",
+          "japanese name": "教皇選挙",
+          "sales": 5232,
+          "seats": 5725,
+          "showtimes": 44,
+          "theaters": 51,
+          "rank": 10,
+          "last_week_ratio": 145.3
+        },
+        {
+          "moviename": "Demon Slayer: The Natagumo Spider Mountain Arc",
+          "japanese name": "鬼滅の刃 那田蜘蛛山編",
+          "sales": 2585,
+          "seats": 5946,
+          "showtimes": 48,
+          "theaters": 30,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"My Neighbor Totoro\"",
           "japanese name": "劇場版 僕とロボコ",
           "sales": 7102,
           "seats": 39706,
@@ -352,67 +442,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Pope election",
-          "japanese name": "教皇選挙",
-          "sales": 5232,
-          "seats": 5725,
-          "showtimes": 44,
-          "theaters": 51,
-          "rank": 10,
-          "last_week_ratio": 145.3
-        },
-        {
-          "moviename": "Amateur",
-          "japanese name": "アマチュア",
-          "sales": 3749,
-          "seats": 18541,
-          "showtimes": 168,
-          "theaters": 226,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "First Kiss 1ST KISS",
-          "japanese name": "ファーストキス １ＳＴ ＫＩＳＳ",
-          "sales": 3064,
-          "seats": 14693,
-          "showtimes": 134,
-          "theaters": 203,
-          "rank": 12,
-          "last_week_ratio": 229.9
-        },
-        {
-          "moviename": "A World of Unrequited Love",
-          "japanese name": "片思い世界",
-          "sales": 2957,
-          "seats": 19820,
-          "showtimes": 180,
-          "theaters": 224,
-          "rank": 13,
-          "last_week_ratio": 126.4
-        },
-        {
-          "moviename": "Demon Slayer: The Natagumo Spider Mountain Arc",
-          "japanese name": "鬼滅の刃 那田蜘蛛山編",
-          "sales": 2585,
-          "seats": 5946,
-          "showtimes": 48,
-          "theaters": 30,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version of Project Sekai: The Broken World and Miku Who Can’t Sing",
-          "japanese name": "劇場版プロジェクトセカイ 壊れたセカイと歌えないミク",
-          "sales": 2528,
-          "seats": 6295,
-          "showtimes": 54,
-          "theaters": 76,
-          "rank": 15,
-          "last_week_ratio": 616.6
-        },
-        {
-          "moviename": "The movie “Hypnosis Mic – Division Rap Battle”",
+          "moviename": "Movie \"Hypnosmic Mic - Division Rap Battle -\"",
           "japanese name": "映画「ヒプノシスマイク －Ｄｉｖｉｓｉｏｎ Ｒａｐ Ｂａｔｔｌｅ－」",
           "sales": 2316,
           "seats": 6332,
@@ -422,43 +452,13 @@
           "last_week_ratio": 158.1
         },
         {
-          "moviename": "I still can’t say that today’s sky is my favorite.",
-          "japanese name": "今日の空が一番好き、とまだ言えない僕は",
-          "sales": 2174,
-          "seats": 7616,
-          "showtimes": 73,
-          "theaters": 38,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Snow White",
-          "japanese name": "白雪姫",
-          "sales": 1414,
-          "seats": 10192,
-          "showtimes": 89,
-          "theaters": 104,
-          "rank": 18,
-          "last_week_ratio": 174.4
-        },
-        {
-          "moviename": "I cry because it’s so delicious.",
-          "japanese name": "おいしくて泣くとき",
-          "sales": 1411,
-          "seats": 12428,
-          "showtimes": 103,
-          "theaters": 138,
-          "rank": 19,
-          "last_week_ratio": 166.8
-        },
-        {
-          "moviename": "The Diary of Bridget Jones: Ugh, what a terrible day for me.",
-          "japanese name": "ブリジット・ジョーンズの日記 サイテー最高な私の今",
-          "sales": 1074,
-          "seats": 5505,
-          "showtimes": 49,
-          "theaters": 88,
-          "rank": 20,
+          "moviename": "♯I’ll tell you the truth.",
+          "japanese name": "♯真相をお話しします",
+          "sales": 65832,
+          "seats": 262609,
+          "showtimes": 1201,
+          "theaters": 246,
+          "rank": 3,
           "last_week_ratio": null
         },
         {
@@ -472,34 +472,24 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "A Love Letter on the 35th Anniversary",
-          "japanese name": "３５年目のラブレター",
-          "sales": 678,
-          "seats": 3534,
-          "showtimes": 30,
-          "theaters": 37,
-          "rank": 22,
-          "last_week_ratio": null
+          "moviename": "剧场版 Project Sekai: The World That's Ruined and Can't Sing Miku",
+          "japanese name": "劇場版プロジェクトセカイ 壊れたセカイと歌えないミク",
+          "sales": 2528,
+          "seats": 6295,
+          "showtimes": 54,
+          "theaters": 76,
+          "rank": 15,
+          "last_week_ratio": 616.6
         },
         {
-          "moviename": "A girlfriend I don’t know",
-          "japanese name": "知らないカノジョ",
-          "sales": 592,
-          "seats": 1010,
-          "showtimes": 9,
-          "theaters": 10,
-          "rank": 23,
-          "last_week_ratio": 265.5
-        },
-        {
-          "moviename": "MET Live Viewing 2024–25: Beethoven’s “Fidelio”",
-          "japanese name": "ＭＥＴライブビューイング２０２４－２５ ベートーヴェン「フィデリオ」",
-          "sales": 589,
-          "seats": 2093,
-          "showtimes": 15,
-          "theaters": 15,
-          "rank": 24,
-          "last_week_ratio": null
+          "moviename": "I cry because it’s so delicious.",
+          "japanese name": "おいしくて泣くとき",
+          "sales": 1411,
+          "seats": 12428,
+          "showtimes": 103,
+          "theaters": 138,
+          "rank": 19,
+          "last_week_ratio": 166.8
         },
         {
           "moviename": "Under Ninja",
@@ -510,6 +500,16 @@
           "theaters": 12,
           "rank": 25,
           "last_week_ratio": 283.8
+        },
+        {
+          "moviename": "Detective Conan: The Blinding Flashback",
+          "japanese name": "名探偵コナン 隻眼の残像（フラッシュバック）",
+          "sales": 317322,
+          "seats": 708045,
+          "showtimes": 2967,
+          "theaters": 252,
+          "rank": 1,
+          "last_week_ratio": 340.3
         }
       ]
     },
@@ -517,106 +517,6 @@
       "title": "Including Independents",
       "time": "Final",
       "data": [
-        {
-          "moviename": "Detective Conan: The Afterimage of the One-Eyed Man (Flashback)",
-          "japanese name": "名探偵コナン 隻眼の残像（フラッシュバック）",
-          "sales": 338925,
-          "seats": 874354,
-          "showtimes": 3648,
-          "theaters": 252,
-          "rank": 1,
-          "last_week_ratio": 293.7
-        },
-        {
-          "moviename": "Minecraft/The Movie",
-          "japanese name": "マインクラフト／ザ・ムービー",
-          "sales": 169609,
-          "seats": 421882,
-          "showtimes": 2106,
-          "theaters": 251,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "♯I’ll tell you the truth.",
-          "japanese name": "♯真相をお話しします",
-          "sales": 69772,
-          "seats": 326466,
-          "showtimes": 1482,
-          "theaters": 246,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Flower-shaped bun",
-          "japanese name": "花まんま",
-          "sales": 25849,
-          "seats": 142557,
-          "showtimes": 1136,
-          "theaters": 244,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Movie: Doraemon: Nobita’s Picture World Story",
-          "japanese name": "映画ドラえもん のび太の絵世界物語",
-          "sales": 22878,
-          "seats": 44782,
-          "showtimes": 374,
-          "theaters": 237,
-          "rank": 5,
-          "last_week_ratio": 1780.4
-        },
-        {
-          "moviename": "Paripiko Kongming THE MOVIE",
-          "japanese name": "パリピ孔明 ＴＨＥ ＭＯＶＩＥ",
-          "sales": 16491,
-          "seats": 146078,
-          "showtimes": 1098,
-          "theaters": 227,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Wicked: Two Witches",
-          "japanese name": "ウィキッド ふたりの魔女",
-          "sales": 13255,
-          "seats": 30524,
-          "showtimes": 244,
-          "theaters": 231,
-          "rank": 7,
-          "last_week_ratio": 252.4
-        },
-        {
-          "moviename": "The House of Heretics",
-          "japanese name": "異端者の家",
-          "sales": 7455,
-          "seats": 65980,
-          "showtimes": 597,
-          "theaters": 177,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "剧场版：我与机器人",
-          "japanese name": "劇場版 僕とロボコ",
-          "sales": 7413,
-          "seats": 47625,
-          "showtimes": 313,
-          "theaters": 123,
-          "rank": 9,
-          "last_week_ratio": 431.7
-        },
-        {
-          "moviename": "Pope election",
-          "japanese name": "教皇選挙",
-          "sales": 5874,
-          "seats": 7124,
-          "showtimes": 55,
-          "theaters": 51,
-          "rank": 10,
-          "last_week_ratio": 142.4
-        },
         {
           "moviename": "Amateur",
           "japanese name": "アマチュア",
@@ -626,16 +526,6 @@
           "theaters": 226,
           "rank": 11,
           "last_week_ratio": null
-        },
-        {
-          "moviename": "First Kiss 1ST KISS",
-          "japanese name": "ファーストキス １ＳＴ ＫＩＳＳ",
-          "sales": 3596,
-          "seats": 21531,
-          "showtimes": 191,
-          "theaters": 203,
-          "rank": 12,
-          "last_week_ratio": 224.2
         },
         {
           "moviename": "A World of Unrequited Love",
@@ -648,67 +538,7 @@
           "last_week_ratio": 120.2
         },
         {
-          "moviename": "Demon Slayer: The Natagumo Spider Mountain Arc",
-          "japanese name": "鬼滅の刃 那田蜘蛛山編",
-          "sales": 2958,
-          "seats": 8328,
-          "showtimes": 66,
-          "theaters": 30,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "剧场版“世界项目”中，有破碎的身躯，以及无法歌唱的麦克风……",
-          "japanese name": "劇場版プロジェクトセカイ 壊れたセカイと歌えないミク",
-          "sales": 2777,
-          "seats": 8059,
-          "showtimes": 71,
-          "theaters": 76,
-          "rank": 15,
-          "last_week_ratio": 433.9
-        },
-        {
-          "moviename": "Film \"Hypnosis Myke - Dismission Rap Battles\"",
-          "japanese name": "映画「ヒプノシスマイク －Ｄｉｖｉｓｉｏｎ Ｒａｐ Ｂａｔｔｌｅ－」",
-          "sales": 2635,
-          "seats": 7674,
-          "showtimes": 48,
-          "theaters": 37,
-          "rank": 16,
-          "last_week_ratio": 129.2
-        },
-        {
-          "moviename": "I still can’t say that today’s sky is my favorite.",
-          "japanese name": "今日の空が一番好き、とまだ言えない僕は",
-          "sales": 2403,
-          "seats": 10142,
-          "showtimes": 97,
-          "theaters": 38,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "I cry because it’s so delicious.",
-          "japanese name": "おいしくて泣くとき",
-          "sales": 1546,
-          "seats": 16321,
-          "showtimes": 135,
-          "theaters": 138,
-          "rank": 18,
-          "last_week_ratio": 162.9
-        },
-        {
-          "moviename": "Snow White",
-          "japanese name": "白雪姫",
-          "sales": 1475,
-          "seats": 11456,
-          "showtimes": 100,
-          "theaters": 104,
-          "rank": 19,
-          "last_week_ratio": 168.2
-        },
-        {
-          "moviename": "Bridget Jones's Diary: Sassy, amazing me now.",
+          "moviename": "Bridget Jones's Diary So Crazy Awesome Me Now",
           "japanese name": "ブリジット・ジョーンズの日記 サイテー最高な私の今",
           "sales": 1266,
           "seats": 9322,
@@ -718,23 +548,53 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "JOIKA: The Ballerina of Beauty and Madness",
-          "japanese name": "ＪＯＩＫＡ 美と狂気のバレリーナ",
-          "sales": 756,
-          "seats": 7112,
-          "showtimes": 63,
-          "theaters": 26,
-          "rank": 21,
+          "moviename": "Minecraft/The Movie",
+          "japanese name": "マインクラフト／ザ・ムービー",
+          "sales": 169609,
+          "seats": 421882,
+          "showtimes": 2106,
+          "theaters": 251,
+          "rank": 2,
           "last_week_ratio": null
         },
         {
-          "moviename": "A Love Letter on the 35th Anniversary",
+          "moviename": "Unfamiliar Girl",
+          "japanese name": "知らないカノジョ",
+          "sales": 592,
+          "seats": 1010,
+          "showtimes": 9,
+          "theaters": 10,
+          "rank": 25,
+          "last_week_ratio": 250.8
+        },
+        {
+          "moviename": "Love Letter on the 35th Year",
           "japanese name": "３５年目のラブレター",
           "sales": 712,
           "seats": 4178,
           "showtimes": 35,
           "theaters": 37,
           "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Paripiko Kongming THE MOVIE",
+          "japanese name": "パリピ孔明 ＴＨＥ ＭＯＶＩＥ",
+          "sales": 16491,
+          "seats": 146078,
+          "showtimes": 1098,
+          "theaters": 227,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I still can’t say that today’s sky is my favorite.",
+          "japanese name": "今日の空が一番好き、とまだ言えない僕は",
+          "sales": 2403,
+          "seats": 10142,
+          "showtimes": 97,
+          "theaters": 38,
+          "rank": 17,
           "last_week_ratio": null
         },
         {
@@ -748,6 +608,46 @@
           "last_week_ratio": 350
         },
         {
+          "moviename": "Wicked: Two Witches",
+          "japanese name": "ウィキッド ふたりの魔女",
+          "sales": 13255,
+          "seats": 30524,
+          "showtimes": 244,
+          "theaters": 231,
+          "rank": 7,
+          "last_week_ratio": 252.4
+        },
+        {
+          "moviename": "Movie Doraemon: Nobita's World Story",
+          "japanese name": "映画ドラえもん のび太の絵世界物語",
+          "sales": 22878,
+          "seats": 44782,
+          "showtimes": 374,
+          "theaters": 237,
+          "rank": 5,
+          "last_week_ratio": 1780.4
+        },
+        {
+          "moviename": "First Kiss 1ST KISS",
+          "japanese name": "ファーストキス １ＳＴ ＫＩＳＳ",
+          "sales": 3596,
+          "seats": 21531,
+          "showtimes": 191,
+          "theaters": 203,
+          "rank": 12,
+          "last_week_ratio": 224.2
+        },
+        {
+          "moviename": "Snow White",
+          "japanese name": "白雪姫",
+          "sales": 1475,
+          "seats": 11456,
+          "showtimes": 100,
+          "theaters": 104,
+          "rank": 19,
+          "last_week_ratio": 168.2
+        },
+        {
           "moviename": "MET Live Viewing 2024–25: Beethoven’s “Fidelio”",
           "japanese name": "ＭＥＴライブビューイング２０２４－２５ ベートーヴェン「フィデリオ」",
           "sales": 607,
@@ -758,14 +658,114 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "A girlfriend I don’t know",
-          "japanese name": "知らないカノジョ",
-          "sales": 592,
-          "seats": 1010,
-          "showtimes": 9,
-          "theaters": 10,
-          "rank": 25,
-          "last_week_ratio": 250.8
+          "moviename": "Flower-shaped bun",
+          "japanese name": "花まんま",
+          "sales": 25849,
+          "seats": 142557,
+          "showtimes": 1136,
+          "theaters": 244,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pope election",
+          "japanese name": "教皇選挙",
+          "sales": 5874,
+          "seats": 7124,
+          "showtimes": 55,
+          "theaters": 51,
+          "rank": 10,
+          "last_week_ratio": 142.4
+        },
+        {
+          "moviename": "Demon Slayer: The Natagumo Spider Mountain Arc",
+          "japanese name": "鬼滅の刃 那田蜘蛛山編",
+          "sales": 2958,
+          "seats": 8328,
+          "showtimes": 66,
+          "theaters": 30,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"My Neighbor Totoro\"",
+          "japanese name": "劇場版 僕とロボコ",
+          "sales": 7413,
+          "seats": 47625,
+          "showtimes": 313,
+          "theaters": 123,
+          "rank": 9,
+          "last_week_ratio": 431.7
+        },
+        {
+          "moviename": "The House of Heretics",
+          "japanese name": "異端者の家",
+          "sales": 7455,
+          "seats": 65980,
+          "showtimes": 597,
+          "theaters": 177,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Hypnosmic Mic - Division Rap Battle -\"",
+          "japanese name": "映画「ヒプノシスマイク －Ｄｉｖｉｓｉｏｎ Ｒａｐ Ｂａｔｔｌｅ－」",
+          "sales": 2635,
+          "seats": 7674,
+          "showtimes": 48,
+          "theaters": 37,
+          "rank": 16,
+          "last_week_ratio": 129.2
+        },
+        {
+          "moviename": "♯I’ll tell you the truth.",
+          "japanese name": "♯真相をお話しします",
+          "sales": 69772,
+          "seats": 326466,
+          "showtimes": 1482,
+          "theaters": 246,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "JOIKA: The Ballerina of Beauty and Madness",
+          "japanese name": "ＪＯＩＫＡ 美と狂気のバレリーナ",
+          "sales": 756,
+          "seats": 7112,
+          "showtimes": 63,
+          "theaters": 26,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 Project Sekai: The World That's Ruined and Can't Sing Miku",
+          "japanese name": "劇場版プロジェクトセカイ 壊れたセカイと歌えないミク",
+          "sales": 2777,
+          "seats": 8059,
+          "showtimes": 71,
+          "theaters": 76,
+          "rank": 15,
+          "last_week_ratio": 433.9
+        },
+        {
+          "moviename": "I cry because it’s so delicious.",
+          "japanese name": "おいしくて泣くとき",
+          "sales": 1546,
+          "seats": 16321,
+          "showtimes": 135,
+          "theaters": 138,
+          "rank": 18,
+          "last_week_ratio": 162.9
+        },
+        {
+          "moviename": "Detective Conan: The Blinding Flashback",
+          "japanese name": "名探偵コナン 隻眼の残像（フラッシュバック）",
+          "sales": 338925,
+          "seats": 874354,
+          "showtimes": 3648,
+          "theaters": 252,
+          "rank": 1,
+          "last_week_ratio": 293.7
         }
       ]
     }

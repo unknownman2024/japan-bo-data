@@ -6,13 +6,93 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "The Movie Doraemon 2: Nobita's Moon Exploration Adventure",
-          "japanese name": "映画ドラえもん ２０１９ のび太の月面探査記",
-          "sales": 68454,
-          "seats": 230735,
-          "showtimes": 845,
-          "theaters": 278,
-          "rank": 1,
+          "moviename": "Fortuna's eyes",
+          "japanese name": "フォルトゥナの瞳",
+          "sales": 486,
+          "seats": 6868,
+          "showtimes": 59,
+          "theaters": 246,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ultraman R/B Theatrical Movie: Select! The Crystal of Bonds",
+          "japanese name": "劇場版ウルトラマンＲ／Ｂ セレクト！絆のクリスタル",
+          "sales": 924,
+          "seats": 18521,
+          "showtimes": 127,
+          "theaters": 99,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Believe: A Great Comeback to the Future",
+          "japanese name": "ビリーブ 未来への大逆転",
+          "sales": 616,
+          "seats": 3890,
+          "showtimes": 37,
+          "theaters": 33,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Captain Marvel",
+          "japanese name": "キャプテン・マーベル",
+          "sales": 5161,
+          "seats": 83743,
+          "showtimes": 542,
+          "theaters": 282,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Lego (R) Movie 2",
+          "japanese name": "レゴ（Ｒ） ムービー２",
+          "sales": 1022,
+          "seats": 12573,
+          "showtimes": 98,
+          "theaters": 44,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Reporters~The Truth That Shakes and Fears~",
+          "japanese name": "記者たち～衝撃と畏怖の真実～",
+          "sales": 601,
+          "seats": 5144,
+          "showtimes": 34,
+          "theaters": 19,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Movie: Osomatsu-san",
+          "japanese name": "えいがのおそ松さん",
+          "sales": 4472,
+          "seats": 24268,
+          "showtimes": 170,
+          "theaters": 116,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Prince of Legend",
+          "japanese name": "ＰＲＩＮＣＥ ＯＦ ＬＥＧＥＮＤ",
+          "sales": 5536,
+          "seats": 55114,
+          "showtimes": 422,
+          "theaters": 264,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Green Book",
+          "japanese name": "グリーンブック",
+          "sales": 4240,
+          "seats": 34469,
+          "showtimes": 234,
+          "theaters": 211,
+          "rank": 12,
           "last_week_ratio": null
         },
         {
@@ -36,7 +116,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "You shine in the moonlit night",
+          "moviename": "You shine brightly on moonlit nights.",
           "japanese name": "君は月夜に光り輝く",
           "sales": 9652,
           "seats": 57234,
@@ -46,57 +126,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Movie Pretty Cure Miracle Universe",
-          "japanese name": "映画 プリキュアミラクルユニバース",
-          "sales": 9169,
-          "seats": 98594,
-          "showtimes": 576,
-          "theaters": 189,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Bumblebee",
-          "japanese name": "バンブルビー",
-          "sales": 7248,
-          "seats": 91440,
-          "showtimes": 592,
-          "theaters": 281,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Teenagers",
-          "japanese name": "映画 少年たち",
-          "sales": 6644,
-          "seats": 81706,
-          "showtimes": 365,
-          "theaters": 144,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Prince of Legend",
-          "japanese name": "ＰＲＩＮＣＥ ＯＦ ＬＥＧＥＮＤ",
-          "sales": 5536,
-          "seats": 55114,
-          "showtimes": 422,
-          "theaters": 264,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Captain Marvel",
-          "japanese name": "キャプテン・マーベル",
-          "sales": 5161,
-          "seats": 83743,
-          "showtimes": 542,
-          "theaters": 282,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "L・DK under one roof, \"ski\" becomes two.",
+          "moviename": "L・DK: Under one roof, two “skis”.",
           "japanese name": "Ｌ・ＤＫ ひとつ屋根の下、「スキ」がふたつ。",
           "sales": 5015,
           "seats": 22255,
@@ -106,27 +136,37 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Eiga no Osomatsu-san",
-          "japanese name": "えいがのおそ松さん",
-          "sales": 4472,
-          "seats": 24268,
-          "showtimes": 170,
-          "theaters": 116,
-          "rank": 11,
+          "moviename": "Movie Precure Miracle Universe",
+          "japanese name": "映画 プリキュアミラクルユニバース",
+          "sales": 9169,
+          "seats": 98594,
+          "showtimes": 576,
+          "theaters": 189,
+          "rank": 5,
           "last_week_ratio": null
         },
         {
-          "moviename": "Green Book",
-          "japanese name": "グリーンブック",
-          "sales": 4240,
-          "seats": 34469,
-          "showtimes": 234,
-          "theaters": 211,
-          "rank": 12,
+          "moviename": "Movie Doraemon 2019 Nobita's Moon Exploration",
+          "japanese name": "映画ドラえもん ２０１９ のび太の月面探査記",
+          "sales": 68454,
+          "seats": 230735,
+          "showtimes": 845,
+          "theaters": 278,
+          "rank": 1,
           "last_week_ratio": null
         },
         {
-          "moviename": "Nemesis Go! Go! Shimajiro: Shimajiro and Tsururu's Hero Land",
+          "moviename": "Movie: The Boys",
+          "japanese name": "映画 少年たち",
+          "sales": 6644,
+          "seats": 81706,
+          "showtimes": 365,
+          "theaters": 144,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Movie: Shimajirou, Shimajirou and Ururu’s Hero Land",
           "japanese name": "映画しまじろう しまじろうとうるるのヒーローランド",
           "sales": 2238,
           "seats": 30935,
@@ -136,23 +176,43 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Spider-Man Spider-Verse",
-          "japanese name": "スパイダーマン スパイダーバース",
-          "sales": 1821,
-          "seats": 13758,
-          "showtimes": 112,
-          "theaters": 169,
-          "rank": 14,
+          "moviename": "Black Klansman",
+          "japanese name": "ブラック・クランズマン",
+          "sales": 818,
+          "seats": 3814,
+          "showtimes": 29,
+          "theaters": 28,
+          "rank": 19,
           "last_week_ratio": null
         },
         {
-          "moviename": "The Transporter",
+          "moviename": "Demon Slayer: The Bond Between Brothers and Sisters",
+          "japanese name": "鬼滅の刃 兄妹の絆",
+          "sales": 459,
+          "seats": 3827,
+          "showtimes": 17,
+          "theaters": 9,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Carriers/Transporters",
           "japanese name": "運び屋",
           "sales": 1604,
           "seats": 22923,
           "showtimes": 173,
           "theaters": 207,
           "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Masquerade Hotel",
+          "japanese name": "マスカレード・ホテル",
+          "sales": 433,
+          "seats": 5901,
+          "showtimes": 52,
+          "theaters": 267,
+          "rank": 25,
           "last_week_ratio": null
         },
         {
@@ -166,83 +226,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "LEGO® Movie 2",
-          "japanese name": "レゴ（Ｒ） ムービー２",
-          "sales": 1022,
-          "seats": 12573,
-          "showtimes": 98,
-          "theaters": 44,
-          "rank": 17,
+          "moviename": "Spider-Man Spider-Verse",
+          "japanese name": "スパイダーマン スパイダーバース",
+          "sales": 1821,
+          "seats": 13758,
+          "showtimes": 112,
+          "theaters": 169,
+          "rank": 14,
           "last_week_ratio": null
         },
         {
-          "moviename": "Movie Version Ultraman R/B Select! Crystal of Bonds",
-          "japanese name": "劇場版ウルトラマンＲ／Ｂ セレクト！絆のクリスタル",
-          "sales": 924,
-          "seats": 18521,
-          "showtimes": 127,
-          "theaters": 99,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Black Clowns Man",
-          "japanese name": "ブラック・クランズマン",
-          "sales": 818,
-          "seats": 3814,
-          "showtimes": 29,
-          "theaters": 28,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Believe~ The Great U-Turn Towards the Future",
-          "japanese name": "ビリーブ 未来への大逆転",
-          "sales": 616,
-          "seats": 3890,
-          "showtimes": 37,
-          "theaters": 33,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Reporters~ The Shocking and Awe of the Truth~",
-          "japanese name": "記者たち～衝撃と畏怖の真実～",
-          "sales": 601,
-          "seats": 5144,
-          "showtimes": 34,
-          "theaters": 19,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Fortuna's Eyes",
-          "japanese name": "フォルトゥナの瞳",
-          "sales": 486,
-          "seats": 6868,
-          "showtimes": 59,
-          "theaters": 246,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Demon Slayer: Kimetsu no Yaiba~ The Bond Between Brothers and Sisters",
-          "japanese name": "鬼滅の刃 兄妹の絆",
-          "sales": 459,
-          "seats": 3827,
-          "showtimes": 17,
-          "theaters": 9,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Masquerade Hotel",
-          "japanese name": "マスカレード・ホテル",
-          "sales": 433,
-          "seats": 5901,
-          "showtimes": 52,
-          "theaters": 267,
-          "rank": 25,
+          "moviename": "Bumblebee",
+          "japanese name": "バンブルビー",
+          "sales": 7248,
+          "seats": 91440,
+          "showtimes": 592,
+          "theaters": 281,
+          "rank": 6,
           "last_week_ratio": null
         }
       ]
@@ -252,13 +252,93 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "The Movie Doraemon 2: Nobita's Moon Exploration Adventure",
-          "japanese name": "映画ドラえもん ２０１９ のび太の月面探査記",
-          "sales": 81518,
-          "seats": 347600,
-          "showtimes": 1285,
-          "theaters": 278,
-          "rank": 1,
+          "moviename": "Fortuna's eyes",
+          "japanese name": "フォルトゥナの瞳",
+          "sales": 1807,
+          "seats": 27643,
+          "showtimes": 201,
+          "theaters": 246,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ultraman R/B Theatrical Movie: Select! The Crystal of Bonds",
+          "japanese name": "劇場版ウルトラマンＲ／Ｂ セレクト！絆のクリスタル",
+          "sales": 1204,
+          "seats": 24295,
+          "showtimes": 164,
+          "theaters": 99,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Believe: A Great Comeback to the Future",
+          "japanese name": "ビリーブ 未来への大逆転",
+          "sales": 1056,
+          "seats": 6991,
+          "showtimes": 63,
+          "theaters": 33,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Captain Marvel",
+          "japanese name": "キャプテン・マーベル",
+          "sales": 10979,
+          "seats": 164249,
+          "showtimes": 1029,
+          "theaters": 282,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Lego (R) Movie 2",
+          "japanese name": "レゴ（Ｒ） ムービー２",
+          "sales": 1445,
+          "seats": 21208,
+          "showtimes": 163,
+          "theaters": 44,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Reporters~The Truth That Shakes and Fears~",
+          "japanese name": "記者たち～衝撃と畏怖の真実～",
+          "sales": 1092,
+          "seats": 10275,
+          "showtimes": 64,
+          "theaters": 19,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Movie: Osomatsu-san",
+          "japanese name": "えいがのおそ松さん",
+          "sales": 7216,
+          "seats": 40452,
+          "showtimes": 288,
+          "theaters": 116,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Prince of Legend",
+          "japanese name": "ＰＲＩＮＣＥ ＯＦ ＬＥＧＥＮＤ",
+          "sales": 8394,
+          "seats": 99966,
+          "showtimes": 736,
+          "theaters": 264,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Green Book",
+          "japanese name": "グリーンブック",
+          "sales": 8756,
+          "seats": 64997,
+          "showtimes": 428,
+          "theaters": 211,
+          "rank": 10,
           "last_week_ratio": null
         },
         {
@@ -282,7 +362,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "You shine in the moonlit night",
+          "moviename": "You shine brightly on moonlit nights.",
           "japanese name": "君は月夜に光り輝く",
           "sales": 15625,
           "seats": 101775,
@@ -292,47 +372,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Bumblebee",
-          "japanese name": "バンブルビー",
-          "sales": 11761,
-          "seats": 163736,
-          "showtimes": 1046,
-          "theaters": 281,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Captain Marvel",
-          "japanese name": "キャプテン・マーベル",
-          "sales": 10979,
-          "seats": 164249,
-          "showtimes": 1029,
-          "theaters": 282,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Teenagers",
-          "japanese name": "映画 少年たち",
-          "sales": 10906,
-          "seats": 136133,
-          "showtimes": 613,
-          "theaters": 144,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Pretty Cure Miracle Universe",
-          "japanese name": "映画 プリキュアミラクルユニバース",
-          "sales": 10586,
-          "seats": 123470,
-          "showtimes": 724,
-          "theaters": 189,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "L・DK under one roof, \"ski\" becomes two.",
+          "moviename": "L・DK: Under one roof, two “skis”.",
           "japanese name": "Ｌ・ＤＫ ひとつ屋根の下、「スキ」がふたつ。",
           "sales": 8969,
           "seats": 41785,
@@ -342,33 +382,83 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Green Book",
-          "japanese name": "グリーンブック",
-          "sales": 8756,
-          "seats": 64997,
-          "showtimes": 428,
-          "theaters": 211,
-          "rank": 10,
+          "moviename": "Movie Precure Miracle Universe",
+          "japanese name": "映画 プリキュアミラクルユニバース",
+          "sales": 10586,
+          "seats": 123470,
+          "showtimes": 724,
+          "theaters": 189,
+          "rank": 8,
           "last_week_ratio": null
         },
         {
-          "moviename": "Prince of Legend",
-          "japanese name": "ＰＲＩＮＣＥ ＯＦ ＬＥＧＥＮＤ",
-          "sales": 8394,
-          "seats": 99966,
-          "showtimes": 736,
-          "theaters": 264,
-          "rank": 11,
+          "moviename": "Movie Doraemon 2019 Nobita's Moon Exploration",
+          "japanese name": "映画ドラえもん ２０１９ のび太の月面探査記",
+          "sales": 81518,
+          "seats": 347600,
+          "showtimes": 1285,
+          "theaters": 278,
+          "rank": 1,
           "last_week_ratio": null
         },
         {
-          "moviename": "Eiga no Osomatsu-san",
-          "japanese name": "えいがのおそ松さん",
-          "sales": 7216,
-          "seats": 40452,
-          "showtimes": 288,
-          "theaters": 116,
-          "rank": 12,
+          "moviename": "Movie: The Boys",
+          "japanese name": "映画 少年たち",
+          "sales": 10906,
+          "seats": 136133,
+          "showtimes": 613,
+          "theaters": 144,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Movie: Shimajirou, Shimajirou and Ururu’s Hero Land",
+          "japanese name": "映画しまじろう しまじろうとうるるのヒーローランド",
+          "sales": 2396,
+          "seats": 33092,
+          "showtimes": 241,
+          "theaters": 122,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Klansman",
+          "japanese name": "ブラック・クランズマン",
+          "sales": 2219,
+          "seats": 9141,
+          "showtimes": 69,
+          "theaters": 28,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Demon Slayer: The Bond Between Brothers and Sisters",
+          "japanese name": "鬼滅の刃 兄妹の絆",
+          "sales": 847,
+          "seats": 6831,
+          "showtimes": 31,
+          "theaters": 9,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Carriers/Transporters",
+          "japanese name": "運び屋",
+          "sales": 3139,
+          "seats": 44142,
+          "showtimes": 325,
+          "theaters": 207,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Masquerade Hotel",
+          "japanese name": "マスカレード・ホテル",
+          "sales": 1216,
+          "seats": 23962,
+          "showtimes": 181,
+          "theaters": 267,
+          "rank": 20,
           "last_week_ratio": null
         },
         {
@@ -392,103 +482,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The Transporter",
-          "japanese name": "運び屋",
-          "sales": 3139,
-          "seats": 44142,
-          "showtimes": 325,
-          "theaters": 207,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Nemesis Go! Go! Shimajiro: Shimajiro and Tsururu's Hero Land",
-          "japanese name": "映画しまじろう しまじろうとうるるのヒーローランド",
-          "sales": 2396,
-          "seats": 33092,
-          "showtimes": 241,
-          "theaters": 122,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Black Clowns Man",
-          "japanese name": "ブラック・クランズマン",
-          "sales": 2219,
-          "seats": 9141,
-          "showtimes": 69,
-          "theaters": 28,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Fortuna's Eyes",
-          "japanese name": "フォルトゥナの瞳",
-          "sales": 1807,
-          "seats": 27643,
-          "showtimes": 201,
-          "theaters": 246,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "LEGO® Movie 2",
-          "japanese name": "レゴ（Ｒ） ムービー２",
-          "sales": 1445,
-          "seats": 21208,
-          "showtimes": 163,
-          "theaters": 44,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Masquerade Hotel",
-          "japanese name": "マスカレード・ホテル",
-          "sales": 1216,
-          "seats": 23962,
-          "showtimes": 181,
-          "theaters": 267,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Version Ultraman R/B Select! Crystal of Bonds",
-          "japanese name": "劇場版ウルトラマンＲ／Ｂ セレクト！絆のクリスタル",
-          "sales": 1204,
-          "seats": 24295,
-          "showtimes": 164,
-          "theaters": 99,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Reporters~ The Shocking and Awe of the Truth~",
-          "japanese name": "記者たち～衝撃と畏怖の真実～",
-          "sales": 1092,
-          "seats": 10275,
-          "showtimes": 64,
-          "theaters": 19,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Believe~ The Great U-Turn Towards the Future",
-          "japanese name": "ビリーブ 未来への大逆転",
-          "sales": 1056,
-          "seats": 6991,
-          "showtimes": 63,
-          "theaters": 33,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Demon Slayer: Kimetsu no Yaiba~ The Bond Between Brothers and Sisters",
-          "japanese name": "鬼滅の刃 兄妹の絆",
-          "sales": 847,
-          "seats": 6831,
-          "showtimes": 31,
-          "theaters": 9,
-          "rank": 25,
+          "moviename": "Bumblebee",
+          "japanese name": "バンブルビー",
+          "sales": 11761,
+          "seats": 163736,
+          "showtimes": 1046,
+          "theaters": 281,
+          "rank": 5,
           "last_week_ratio": null
         }
       ]

@@ -6,47 +6,57 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "My Hero Academia THE MOVIE World Heroes Mission",
-          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ワールド ヒーローズ ミッション",
-          "sales": 67939,
-          "seats": 193104,
-          "showtimes": 841,
-          "theaters": 269,
-          "rank": 1,
+          "moviename": "SEOBOK/SOBOK",
+          "japanese name": "ＳＥＯＢＯＫ／ソボク",
+          "sales": 969,
+          "seats": 3593,
+          "showtimes": 36,
+          "theaters": 66,
+          "rank": 19,
+          "last_week_ratio": 142.7
+        },
+        {
+          "moviename": "In the Heights",
+          "japanese name": "イン・ザ・ハイツ",
+          "sales": 2961,
+          "seats": 11572,
+          "showtimes": 139,
+          "theaters": 228,
+          "rank": 12,
           "last_week_ratio": null
         },
         {
-          "moviename": "Wild Speed Jet Break",
-          "japanese name": "ワイルド・スピード ジェット・ブレイク",
-          "sales": 66480,
-          "seats": 169936,
-          "showtimes": 1032,
-          "theaters": 295,
-          "rank": 2,
+          "moviename": "Tom & Sawyer of the city",
+          "japanese name": "都会（まち）のトム＆ソーヤ",
+          "sales": 702,
+          "seats": 9170,
+          "showtimes": 133,
+          "theaters": 146,
+          "rank": 22,
+          "last_week_ratio": 147.5
+        },
+        {
+          "moviename": "The God of Cinema",
+          "japanese name": "キネマの神様",
+          "sales": 17528,
+          "seats": 67678,
+          "showtimes": 664,
+          "theaters": 279,
+          "rank": 6,
           "last_week_ratio": null
         },
         {
-          "moviename": "Crayon Shin-chan: Mysterious! Flower of the Sky Scum Academy",
-          "japanese name": "映画クレヨンしんちゃん  謎メキ！花の天カス学園",
-          "sales": 42890,
-          "seats": 79528,
-          "showtimes": 755,
-          "theaters": 288,
-          "rank": 3,
-          "last_week_ratio": 175.6
+          "moviename": "Rurouni Kenshin The Final Chapter",
+          "japanese name": "るろうに剣心 最終章 Ｔｈｅ Ｂｅｇｉｎｎｉｎｇ",
+          "sales": 1248,
+          "seats": 3072,
+          "showtimes": 41,
+          "theaters": 176,
+          "rank": 16,
+          "last_week_ratio": 135.5
         },
         {
-          "moviename": "Dragon and the Princess with Freckles",
-          "japanese name": "竜とそばかすの姫",
-          "sales": 42451,
-          "seats": 86193,
-          "showtimes": 707,
-          "theaters": 292,
-          "rank": 4,
-          "last_week_ratio": 168.2
-        },
-        {
-          "moviename": "Tokyo Revengers",
+          "moviename": "Tokyo Avengers",
           "japanese name": "東京リベンジャーズ",
           "sales": 21755,
           "seats": 44577,
@@ -56,13 +66,153 @@
           "last_week_ratio": 137.4
         },
         {
-          "moviename": "God of Cinema",
-          "japanese name": "キネマの神様",
-          "sales": 17528,
-          "seats": 67678,
-          "showtimes": 664,
-          "theaters": 279,
-          "rank": 6,
+          "moviename": "Words flow out like soda.",
+          "japanese name": "サイダーのように言葉が湧き上がる",
+          "sales": 697,
+          "seats": 3988,
+          "showtimes": 34,
+          "theaters": 77,
+          "rank": 23,
+          "last_week_ratio": 168.8
+        },
+        {
+          "moviename": "Mobile Suit Gundam: Flashy Hayato",
+          "japanese name": "機動戦士ガンダム 閃光のハサウェイ",
+          "sales": 654,
+          "seats": 1955,
+          "showtimes": 18,
+          "theaters": 133,
+          "rank": 25,
+          "last_week_ratio": 148.3
+        },
+        {
+          "moviename": "Wild Speed: Jet Break",
+          "japanese name": "ワイルド・スピード ジェット・ブレイク",
+          "sales": 66480,
+          "seats": 169936,
+          "showtimes": 1032,
+          "theaters": 295,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Princess and the Dragon",
+          "japanese name": "竜とそばかすの姫",
+          "sales": 42451,
+          "seats": 86193,
+          "showtimes": 707,
+          "theaters": 292,
+          "rank": 4,
+          "last_week_ratio": 168.2
+        },
+        {
+          "moviename": "My Hero Academia: THE MOVIE World Heroes Mission",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ワールド ヒーローズ ミッション",
+          "sales": 67939,
+          "seats": 193104,
+          "showtimes": 841,
+          "theaters": 269,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let’s Go! Anpanman: Floating High in the Cloudy Land",
+          "japanese name": "それいけ！アンパンマン ふわふわフワリーと雲の国",
+          "sales": 2778,
+          "seats": 27494,
+          "showtimes": 238,
+          "theaters": 237,
+          "rank": 13,
+          "last_week_ratio": 376.4
+        },
+        {
+          "moviename": "Dog Division!",
+          "japanese name": "犬部！",
+          "sales": 910,
+          "seats": 4534,
+          "showtimes": 58,
+          "theaters": 114,
+          "rank": 20,
+          "last_week_ratio": 156.9
+        },
+        {
+          "moviename": "White Snake: Good omen",
+          "japanese name": "白蛇：縁起",
+          "sales": 2173,
+          "seats": 6405,
+          "showtimes": 65,
+          "theaters": 64,
+          "rank": 15,
+          "last_week_ratio": 107.7
+        },
+        {
+          "moviename": "Theatrical Version Fate/Grand Order: The Final Singular Point – The Temple of Time, Solomon",
+          "japanese name": "劇場版 Ｆａｔｅ／Ｇｒａｎｄ Ｏｒｄｅｒ 終局特異点 冠位時間神殿ソロモン",
+          "sales": 4625,
+          "seats": 15096,
+          "showtimes": 117,
+          "theaters": 88,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Crayon Shin-chan: The Mysterious Flower Academy",
+          "japanese name": "映画クレヨンしんちゃん  謎メキ！花の天カス学園",
+          "sales": 42890,
+          "seats": 79528,
+          "showtimes": 755,
+          "theaters": 288,
+          "rank": 3,
+          "last_week_ratio": 175.6
+        },
+        {
+          "moviename": "Godzilla x Kong",
+          "japanese name": "ゴジラｖｓコング",
+          "sales": 2442,
+          "seats": 8231,
+          "showtimes": 107,
+          "theaters": 273,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Saber + Zenkaijers: Super Hero Chronicle",
+          "japanese name": "セイバー＋ゼンカイジャースーパーヒーロー戦記",
+          "sales": 8665,
+          "seats": 37140,
+          "showtimes": 418,
+          "theaters": 274,
+          "rank": 8,
+          "last_week_ratio": 268.7
+        },
+        {
+          "moviename": "Detective Conan: Crimson Bullet",
+          "japanese name": "名探偵コナン 緋色の弾丸",
+          "sales": 657,
+          "seats": 1086,
+          "showtimes": 15,
+          "theaters": 27,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BLACKPINK THE MOVIE",
+          "japanese name": "ＢＬＡＣＫＰＩＮＫ ＴＨＥ ＭＯＶＩＥ",
+          "sales": 1210,
+          "seats": 4150,
+          "showtimes": 50,
+          "theaters": 57,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Son of the Sun",
+          "japanese name": "映画 太陽の子",
+          "sales": 7970,
+          "seats": 33298,
+          "showtimes": 373,
+          "theaters": 214,
+          "rank": 9,
           "last_week_ratio": null
         },
         {
@@ -76,26 +226,6 @@
           "last_week_ratio": 160.2
         },
         {
-          "moviename": "Saber + Zenkaija Super Hero War Chronicle",
-          "japanese name": "セイバー＋ゼンカイジャースーパーヒーロー戦記",
-          "sales": 8665,
-          "seats": 37140,
-          "showtimes": 418,
-          "theaters": 274,
-          "rank": 8,
-          "last_week_ratio": 268.7
-        },
-        {
-          "moviename": "Movie Sun Child",
-          "japanese name": "映画 太陽の子",
-          "sales": 7970,
-          "seats": 33298,
-          "showtimes": 373,
-          "theaters": 214,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Honey Lemon Soda",
           "japanese name": "ハニーレモンソーダ",
           "sales": 4750,
@@ -104,66 +234,6 @@
           "theaters": 179,
           "rank": 10,
           "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Fate/Grand Order End of the World Singular Point Crown Time Temple Solomon",
-          "japanese name": "劇場版 Ｆａｔｅ／Ｇｒａｎｄ Ｏｒｄｅｒ 終局特異点 冠位時間神殿ソロモン",
-          "sales": 4625,
-          "seats": 15096,
-          "showtimes": 117,
-          "theaters": 88,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "In the Heights",
-          "japanese name": "イン・ザ・ハイツ",
-          "sales": 2961,
-          "seats": 11572,
-          "showtimes": 139,
-          "theaters": 228,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Let's Go! Panman: Whimsical Whirly and the Cloud Country",
-          "japanese name": "それいけ！アンパンマン ふわふわフワリーと雲の国",
-          "sales": 2778,
-          "seats": 27494,
-          "showtimes": 238,
-          "theaters": 237,
-          "rank": 13,
-          "last_week_ratio": 376.4
-        },
-        {
-          "moviename": "Godzilla x Kong The New Empire Official Trailer",
-          "japanese name": "ゴジラｖｓコング",
-          "sales": 2442,
-          "seats": 8231,
-          "showtimes": 107,
-          "theaters": 273,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "White Snake: Fated Encounter",
-          "japanese name": "白蛇：縁起",
-          "sales": 2173,
-          "seats": 6405,
-          "showtimes": 65,
-          "theaters": 64,
-          "rank": 15,
-          "last_week_ratio": 107.7
-        },
-        {
-          "moviename": "Rurouni Kenshin Final Act The Beginning",
-          "japanese name": "るろうに剣心 最終章 Ｔｈｅ Ｂｅｇｉｎｎｉｎｇ",
-          "sales": 1248,
-          "seats": 3072,
-          "showtimes": 41,
-          "theaters": 176,
-          "rank": 16,
-          "last_week_ratio": 135.5
         },
         {
           "moviename": "Black Widow",
@@ -176,37 +246,7 @@
           "last_week_ratio": 102.7
         },
         {
-          "moviename": "BLACKPINK THE MOVIE",
-          "japanese name": "ＢＬＡＣＫＰＩＮＫ ＴＨＥ ＭＯＶＩＥ",
-          "sales": 1210,
-          "seats": 4150,
-          "showtimes": 50,
-          "theaters": 57,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "SEOBOK/SOBOK",
-          "japanese name": "ＳＥＯＢＯＫ／ソボク",
-          "sales": 969,
-          "seats": 3593,
-          "showtimes": 36,
-          "theaters": 66,
-          "rank": 19,
-          "last_week_ratio": 142.7
-        },
-        {
-          "moviename": "Dog!",
-          "japanese name": "犬部！",
-          "sales": 910,
-          "seats": 4534,
-          "showtimes": 58,
-          "theaters": 114,
-          "rank": 20,
-          "last_week_ratio": 156.9
-        },
-        {
-          "moviename": "Terminator <Movie Festival 11: 10 a.m.>",
+          "moviename": "Terminator <10 AM Film Festival 11>",
           "japanese name": "ターミネーター ＜午前十時の映画祭１１＞",
           "sales": 850,
           "seats": 3227,
@@ -214,46 +254,6 @@
           "theaters": 41,
           "rank": 21,
           "last_week_ratio": null
-        },
-        {
-          "moviename": "Tom and Jerry of the city",
-          "japanese name": "都会（まち）のトム＆ソーヤ",
-          "sales": 702,
-          "seats": 9170,
-          "showtimes": 133,
-          "theaters": 146,
-          "rank": 22,
-          "last_week_ratio": 147.5
-        },
-        {
-          "moviename": "Words flow like cider",
-          "japanese name": "サイダーのように言葉が湧き上がる",
-          "sales": 697,
-          "seats": 3988,
-          "showtimes": 34,
-          "theaters": 77,
-          "rank": 23,
-          "last_week_ratio": 168.8
-        },
-        {
-          "moviename": "Detective Conan: Crimson Bullet",
-          "japanese name": "名探偵コナン 緋色の弾丸",
-          "sales": 657,
-          "seats": 1086,
-          "showtimes": 15,
-          "theaters": 27,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Mobile Suit Gundam: Shining Haro",
-          "japanese name": "機動戦士ガンダム 閃光のハサウェイ",
-          "sales": 654,
-          "seats": 1955,
-          "showtimes": 18,
-          "theaters": 133,
-          "rank": 25,
-          "last_week_ratio": 148.3
         }
       ]
     },
@@ -262,47 +262,47 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "Wild Speed Jet Break",
-          "japanese name": "ワイルド・スピード ジェット・ブレイク",
-          "sales": 133422,
-          "seats": 329100,
-          "showtimes": 1973,
-          "theaters": 295,
-          "rank": 1,
+          "moviename": "SEOBOK/SOBOK",
+          "japanese name": "ＳＥＯＢＯＫ／ソボク",
+          "sales": 1466,
+          "seats": 7082,
+          "showtimes": 69,
+          "theaters": 66,
+          "rank": 21,
+          "last_week_ratio": 128.3
+        },
+        {
+          "moviename": "In the Heights",
+          "japanese name": "イン・ザ・ハイツ",
+          "sales": 6413,
+          "seats": 25773,
+          "showtimes": 321,
+          "theaters": 227,
+          "rank": 12,
+          "last_week_ratio": 107.4
+        },
+        {
+          "moviename": "The God of Cinema",
+          "japanese name": "キネマの神様",
+          "sales": 24290,
+          "seats": 113816,
+          "showtimes": 1136,
+          "theaters": 279,
+          "rank": 6,
           "last_week_ratio": null
         },
         {
-          "moviename": "My Hero Academia THE MOVIE World Heroes Mission",
-          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ワールド ヒーローズ ミッション",
-          "sales": 111099,
-          "seats": 330171,
-          "showtimes": 1470,
-          "theaters": 269,
-          "rank": 2,
-          "last_week_ratio": null
+          "moviename": "Rurouni Kenshin The Final Chapter",
+          "japanese name": "るろうに剣心 最終章 Ｔｈｅ Ｂｅｇｉｎｎｉｎｇ",
+          "sales": 3559,
+          "seats": 11882,
+          "showtimes": 140,
+          "theaters": 172,
+          "rank": 14,
+          "last_week_ratio": 150.3
         },
         {
-          "moviename": "Dragon and the Princess with Freckles",
-          "japanese name": "竜とそばかすの姫",
-          "sales": 74629,
-          "seats": 155612,
-          "showtimes": 1265,
-          "theaters": 291,
-          "rank": 3,
-          "last_week_ratio": 172.1
-        },
-        {
-          "moviename": "Crayon Shin-chan: Mysterious! Flower of the Sky Scum Academy",
-          "japanese name": "映画クレヨンしんちゃん  謎メキ！花の天カス学園",
-          "sales": 56556,
-          "seats": 109074,
-          "showtimes": 1030,
-          "theaters": 287,
-          "rank": 4,
-          "last_week_ratio": 173
-        },
-        {
-          "moviename": "Tokyo Revengers",
+          "moviename": "Tokyo Avengers",
           "japanese name": "東京リベンジャーズ",
           "sales": 40822,
           "seats": 87269,
@@ -312,13 +312,173 @@
           "last_week_ratio": 139.5
         },
         {
-          "moviename": "God of Cinema",
-          "japanese name": "キネマの神様",
-          "sales": 24290,
-          "seats": 113816,
-          "showtimes": 1136,
-          "theaters": 279,
-          "rank": 6,
+          "moviename": "The Fabule: The Hitman Who Doesn’t Kill",
+          "japanese name": "ザ・ファブル 殺さない殺し屋",
+          "sales": 1295,
+          "seats": 3710,
+          "showtimes": 43,
+          "theaters": 48,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Words flow out like soda.",
+          "japanese name": "サイダーのように言葉が湧き上がる",
+          "sales": 1109,
+          "seats": 7089,
+          "showtimes": 68,
+          "theaters": 77,
+          "rank": 23,
+          "last_week_ratio": 124.5
+        },
+        {
+          "moviename": "Mobile Suit Gundam: Flashy Hayato",
+          "japanese name": "機動戦士ガンダム 閃光のハサウェイ",
+          "sales": 3301,
+          "seats": 12192,
+          "showtimes": 105,
+          "theaters": 133,
+          "rank": 16,
+          "last_week_ratio": 221.7
+        },
+        {
+          "moviename": "Wild Speed: Jet Break",
+          "japanese name": "ワイルド・スピード ジェット・ブレイク",
+          "sales": 133422,
+          "seats": 329100,
+          "showtimes": 1973,
+          "theaters": 295,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Princess and the Dragon",
+          "japanese name": "竜とそばかすの姫",
+          "sales": 74629,
+          "seats": 155612,
+          "showtimes": 1265,
+          "theaters": 291,
+          "rank": 3,
+          "last_week_ratio": 172.1
+        },
+        {
+          "moviename": "My Hero Academia: THE MOVIE World Heroes Mission",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ワールド ヒーローズ ミッション",
+          "sales": 111099,
+          "seats": 330171,
+          "showtimes": 1470,
+          "theaters": 269,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let’s Go! Anpanman: Floating High in the Cloudy Land",
+          "japanese name": "それいけ！アンパンマン ふわふわフワリーと雲の国",
+          "sales": 2825,
+          "seats": 27830,
+          "showtimes": 243,
+          "theaters": 237,
+          "rank": 18,
+          "last_week_ratio": 380.2
+        },
+        {
+          "moviename": "Dog Division!",
+          "japanese name": "犬部！",
+          "sales": 1473,
+          "seats": 9358,
+          "showtimes": 108,
+          "theaters": 114,
+          "rank": 20,
+          "last_week_ratio": 158
+        },
+        {
+          "moviename": "White Snake: Good omen",
+          "japanese name": "白蛇：縁起",
+          "sales": 3529,
+          "seats": 11884,
+          "showtimes": 120,
+          "theaters": 64,
+          "rank": 15,
+          "last_week_ratio": 114.1
+        },
+        {
+          "moviename": "Characters",
+          "japanese name": "キャラクター",
+          "sales": 1081,
+          "seats": 3065,
+          "showtimes": 36,
+          "theaters": 48,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version Fate/Grand Order: The Final Singular Point – The Temple of Time, Solomon",
+          "japanese name": "劇場版 Ｆａｔｅ／Ｇｒａｎｄ Ｏｒｄｅｒ 終局特異点 冠位時間神殿ソロモン",
+          "sales": 8478,
+          "seats": 27960,
+          "showtimes": 233,
+          "theaters": 88,
+          "rank": 10,
+          "last_week_ratio": 101.1
+        },
+        {
+          "moviename": "Movie: Crayon Shin-chan: The Mysterious Flower Academy",
+          "japanese name": "映画クレヨンしんちゃん  謎メキ！花の天カス学園",
+          "sales": 56556,
+          "seats": 109074,
+          "showtimes": 1030,
+          "theaters": 287,
+          "rank": 4,
+          "last_week_ratio": 173
+        },
+        {
+          "moviename": "Godzilla x Kong",
+          "japanese name": "ゴジラｖｓコング",
+          "sales": 5621,
+          "seats": 22252,
+          "showtimes": 278,
+          "theaters": 273,
+          "rank": 13,
+          "last_week_ratio": 128.4
+        },
+        {
+          "moviename": "Saber + Zenkaijers: Super Hero Chronicle",
+          "japanese name": "セイバー＋ゼンカイジャースーパーヒーロー戦記",
+          "sales": 9847,
+          "seats": 43258,
+          "showtimes": 493,
+          "theaters": 274,
+          "rank": 9,
+          "last_week_ratio": 248.9
+        },
+        {
+          "moviename": "Detective Conan: Crimson Bullet",
+          "japanese name": "名探偵コナン 緋色の弾丸",
+          "sales": 1021,
+          "seats": 1953,
+          "showtimes": 23,
+          "theaters": 24,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BLACKPINK THE MOVIE",
+          "japanese name": "ＢＬＡＣＫＰＩＮＫ ＴＨＥ ＭＯＶＩＥ",
+          "sales": 2298,
+          "seats": 8516,
+          "showtimes": 98,
+          "theaters": 57,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Son of the Sun",
+          "japanese name": "映画 太陽の子",
+          "sales": 10727,
+          "seats": 53312,
+          "showtimes": 588,
+          "theaters": 214,
+          "rank": 8,
           "last_week_ratio": null
         },
         {
@@ -332,36 +492,6 @@
           "last_week_ratio": 168.3
         },
         {
-          "moviename": "Movie Sun Child",
-          "japanese name": "映画 太陽の子",
-          "sales": 10727,
-          "seats": 53312,
-          "showtimes": 588,
-          "theaters": 214,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Saber + Zenkaija Super Hero War Chronicle",
-          "japanese name": "セイバー＋ゼンカイジャースーパーヒーロー戦記",
-          "sales": 9847,
-          "seats": 43258,
-          "showtimes": 493,
-          "theaters": 274,
-          "rank": 9,
-          "last_week_ratio": 248.9
-        },
-        {
-          "moviename": "Movie Fate/Grand Order End of the World Singular Point Crown Time Temple Solomon",
-          "japanese name": "劇場版 Ｆａｔｅ／Ｇｒａｎｄ Ｏｒｄｅｒ 終局特異点 冠位時間神殿ソロモン",
-          "sales": 8478,
-          "seats": 27960,
-          "showtimes": 233,
-          "theaters": 88,
-          "rank": 10,
-          "last_week_ratio": 101.1
-        },
-        {
           "moviename": "Honey Lemon Soda",
           "japanese name": "ハニーレモンソーダ",
           "sales": 8214,
@@ -372,56 +502,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "In the Heights",
-          "japanese name": "イン・ザ・ハイツ",
-          "sales": 6413,
-          "seats": 25773,
-          "showtimes": 321,
-          "theaters": 227,
-          "rank": 12,
-          "last_week_ratio": 107.4
-        },
-        {
-          "moviename": "Godzilla x Kong The New Empire Official Trailer",
-          "japanese name": "ゴジラｖｓコング",
-          "sales": 5621,
-          "seats": 22252,
-          "showtimes": 278,
-          "theaters": 273,
-          "rank": 13,
-          "last_week_ratio": 128.4
-        },
-        {
-          "moviename": "Rurouni Kenshin Final Act The Beginning",
-          "japanese name": "るろうに剣心 最終章 Ｔｈｅ Ｂｅｇｉｎｎｉｎｇ",
-          "sales": 3559,
-          "seats": 11882,
-          "showtimes": 140,
-          "theaters": 172,
-          "rank": 14,
-          "last_week_ratio": 150.3
-        },
-        {
-          "moviename": "White Snake: Fated Encounter",
-          "japanese name": "白蛇：縁起",
-          "sales": 3529,
-          "seats": 11884,
-          "showtimes": 120,
-          "theaters": 64,
-          "rank": 15,
-          "last_week_ratio": 114.1
-        },
-        {
-          "moviename": "Mobile Suit Gundam: Shining Haro",
-          "japanese name": "機動戦士ガンダム 閃光のハサウェイ",
-          "sales": 3301,
-          "seats": 12192,
-          "showtimes": 105,
-          "theaters": 133,
-          "rank": 16,
-          "last_week_ratio": 221.7
-        },
-        {
           "moviename": "Black Widow",
           "japanese name": "ブラックウィドウ",
           "sales": 3223,
@@ -430,86 +510,6 @@
           "theaters": 169,
           "rank": 17,
           "last_week_ratio": 131
-        },
-        {
-          "moviename": "Let's Go! Panman: Whimsical Whirly and the Cloud Country",
-          "japanese name": "それいけ！アンパンマン ふわふわフワリーと雲の国",
-          "sales": 2825,
-          "seats": 27830,
-          "showtimes": 243,
-          "theaters": 237,
-          "rank": 18,
-          "last_week_ratio": 380.2
-        },
-        {
-          "moviename": "BLACKPINK THE MOVIE",
-          "japanese name": "ＢＬＡＣＫＰＩＮＫ ＴＨＥ ＭＯＶＩＥ",
-          "sales": 2298,
-          "seats": 8516,
-          "showtimes": 98,
-          "theaters": 57,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Dog!",
-          "japanese name": "犬部！",
-          "sales": 1473,
-          "seats": 9358,
-          "showtimes": 108,
-          "theaters": 114,
-          "rank": 20,
-          "last_week_ratio": 158
-        },
-        {
-          "moviename": "SEOBOK/SOBOK",
-          "japanese name": "ＳＥＯＢＯＫ／ソボク",
-          "sales": 1466,
-          "seats": 7082,
-          "showtimes": 69,
-          "theaters": 66,
-          "rank": 21,
-          "last_week_ratio": 128.3
-        },
-        {
-          "moviename": "THE FABLE THE KILLER WHO DOESN'T KILL",
-          "japanese name": "ザ・ファブル 殺さない殺し屋",
-          "sales": 1295,
-          "seats": 3710,
-          "showtimes": 43,
-          "theaters": 48,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Words flow like cider",
-          "japanese name": "サイダーのように言葉が湧き上がる",
-          "sales": 1109,
-          "seats": 7089,
-          "showtimes": 68,
-          "theaters": 77,
-          "rank": 23,
-          "last_week_ratio": 124.5
-        },
-        {
-          "moviename": "Character",
-          "japanese name": "キャラクター",
-          "sales": 1081,
-          "seats": 3065,
-          "showtimes": 36,
-          "theaters": 48,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Detective Conan: Crimson Bullet",
-          "japanese name": "名探偵コナン 緋色の弾丸",
-          "sales": 1021,
-          "seats": 1953,
-          "showtimes": 23,
-          "theaters": 24,
-          "rank": 25,
-          "last_week_ratio": null
         }
       ]
     },
@@ -518,47 +518,47 @@
       "time": "Final",
       "data": [
         {
-          "moviename": "Wild Speed Jet Break",
-          "japanese name": "ワイルド・スピード ジェット・ブレイク",
-          "sales": 143969,
-          "seats": 377138,
-          "showtimes": 2211,
-          "theaters": 295,
-          "rank": 1,
+          "moviename": "SEOBOK/SOBOK",
+          "japanese name": "ＳＥＯＢＯＫ／ソボク",
+          "sales": 1506,
+          "seats": 7371,
+          "showtimes": 72,
+          "theaters": 66,
+          "rank": 20,
+          "last_week_ratio": 123
+        },
+        {
+          "moviename": "In the Heights",
+          "japanese name": "イン・ザ・ハイツ",
+          "sales": 6511,
+          "seats": 29584,
+          "showtimes": 365,
+          "theaters": 227,
+          "rank": 12,
+          "last_week_ratio": 105.5
+        },
+        {
+          "moviename": "The God of Cinema",
+          "japanese name": "キネマの神様",
+          "sales": 24558,
+          "seats": 126012,
+          "showtimes": 1248,
+          "theaters": 279,
+          "rank": 6,
           "last_week_ratio": null
         },
         {
-          "moviename": "My Hero Academia THE MOVIE World Heroes Mission",
-          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ワールド ヒーローズ ミッション",
-          "sales": 114410,
-          "seats": 359238,
-          "showtimes": 1594,
-          "theaters": 269,
-          "rank": 2,
-          "last_week_ratio": null
+          "moviename": "Rurouni Kenshin The Final Chapter",
+          "japanese name": "るろうに剣心 最終章 Ｔｈｅ Ｂｅｇｉｎｎｉｎｇ",
+          "sales": 3808,
+          "seats": 14749,
+          "showtimes": 173,
+          "theaters": 172,
+          "rank": 15,
+          "last_week_ratio": 152.7
         },
         {
-          "moviename": "Dragon and the Freckle Princess",
-          "japanese name": "竜とそばかすの姫",
-          "sales": 76613,
-          "seats": 172056,
-          "showtimes": 1387,
-          "theaters": 291,
-          "rank": 3,
-          "last_week_ratio": 170.9
-        },
-        {
-          "moviename": "Crayon Shin-chan: Mysterious! Flower of the Sky Scum Academy",
-          "japanese name": "映画クレヨンしんちゃん  謎メキ！花の天カス学園",
-          "sales": 56595,
-          "seats": 109394,
-          "showtimes": 1033,
-          "theaters": 287,
-          "rank": 4,
-          "last_week_ratio": 171.7
-        },
-        {
-          "moviename": "Tokyo Revengers",
+          "moviename": "Tokyo Avengers",
           "japanese name": "東京リベンジャーズ",
           "sales": 42540,
           "seats": 100237,
@@ -568,13 +568,173 @@
           "last_week_ratio": 138.4
         },
         {
-          "moviename": "God of Cinema",
-          "japanese name": "キネマの神様",
-          "sales": 24558,
-          "seats": 126012,
-          "showtimes": 1248,
-          "theaters": 279,
-          "rank": 6,
+          "moviename": "The Fabule: The Hitman Who Doesn’t Kill",
+          "japanese name": "ザ・ファブル 殺さない殺し屋",
+          "sales": 1332,
+          "seats": 4089,
+          "showtimes": 48,
+          "theaters": 48,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Words flow out like soda.",
+          "japanese name": "サイダーのように言葉が湧き上がる",
+          "sales": 1329,
+          "seats": 8833,
+          "showtimes": 86,
+          "theaters": 77,
+          "rank": 23,
+          "last_week_ratio": 134.1
+        },
+        {
+          "moviename": "Mobile Suit Gundam: Flashy Hayato",
+          "japanese name": "機動戦士ガンダム 閃光のハサウェイ",
+          "sales": 3809,
+          "seats": 15351,
+          "showtimes": 133,
+          "theaters": 133,
+          "rank": 14,
+          "last_week_ratio": 202.3
+        },
+        {
+          "moviename": "Wild Speed: Jet Break",
+          "japanese name": "ワイルド・スピード ジェット・ブレイク",
+          "sales": 143969,
+          "seats": 377138,
+          "showtimes": 2211,
+          "theaters": 295,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Princess and the Dragon",
+          "japanese name": "竜とそばかすの姫",
+          "sales": 76613,
+          "seats": 172056,
+          "showtimes": 1387,
+          "theaters": 291,
+          "rank": 3,
+          "last_week_ratio": 170.9
+        },
+        {
+          "moviename": "My Hero Academia: THE MOVIE World Heroes Mission",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ワールド ヒーローズ ミッション",
+          "sales": 114410,
+          "seats": 359238,
+          "showtimes": 1594,
+          "theaters": 269,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Riding the summer film",
+          "japanese name": "サマーフィルムにのって",
+          "sales": 1056,
+          "seats": 2585,
+          "showtimes": 35,
+          "theaters": 16,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let’s Go! Anpanman: Floating High in the Cloudy Land",
+          "japanese name": "それいけ！アンパンマン ふわふわフワリーと雲の国",
+          "sales": 2825,
+          "seats": 27830,
+          "showtimes": 243,
+          "theaters": 237,
+          "rank": 18,
+          "last_week_ratio": 380.2
+        },
+        {
+          "moviename": "Dog Division!",
+          "japanese name": "犬部！",
+          "sales": 1501,
+          "seats": 10308,
+          "showtimes": 116,
+          "theaters": 114,
+          "rank": 21,
+          "last_week_ratio": 154.9
+        },
+        {
+          "moviename": "White Snake: Good omen",
+          "japanese name": "白蛇：縁起",
+          "sales": 3608,
+          "seats": 12741,
+          "showtimes": 129,
+          "theaters": 64,
+          "rank": 16,
+          "last_week_ratio": 112.3
+        },
+        {
+          "moviename": "Characters",
+          "japanese name": "キャラクター",
+          "sales": 1231,
+          "seats": 4167,
+          "showtimes": 48,
+          "theaters": 48,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version Fate/Grand Order: The Final Singular Point – The Temple of Time, Solomon",
+          "japanese name": "劇場版 Ｆａｔｅ／Ｇｒａｎｄ Ｏｒｄｅｒ 終局特異点 冠位時間神殿ソロモン",
+          "sales": 8921,
+          "seats": 33486,
+          "showtimes": 274,
+          "theaters": 88,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Crayon Shin-chan: The Mysterious Flower Academy",
+          "japanese name": "映画クレヨンしんちゃん  謎メキ！花の天カス学園",
+          "sales": 56595,
+          "seats": 109394,
+          "showtimes": 1033,
+          "theaters": 287,
+          "rank": 4,
+          "last_week_ratio": 171.7
+        },
+        {
+          "moviename": "Godzilla x Kong",
+          "japanese name": "ゴジラｖｓコング",
+          "sales": 5815,
+          "seats": 25962,
+          "showtimes": 315,
+          "theaters": 273,
+          "rank": 13,
+          "last_week_ratio": 125.1
+        },
+        {
+          "moviename": "Saber + Zenkaijers: Super Hero Chronicle",
+          "japanese name": "セイバー＋ゼンカイジャースーパーヒーロー戦記",
+          "sales": 9863,
+          "seats": 43454,
+          "showtimes": 495,
+          "theaters": 274,
+          "rank": 9,
+          "last_week_ratio": 248.6
+        },
+        {
+          "moviename": "BLACKPINK THE MOVIE",
+          "japanese name": "ＢＬＡＣＫＰＩＮＫ ＴＨＥ ＭＯＶＩＥ",
+          "sales": 2462,
+          "seats": 9429,
+          "showtimes": 106,
+          "theaters": 57,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Son of the Sun",
+          "japanese name": "映画 太陽の子",
+          "sales": 10934,
+          "seats": 59785,
+          "showtimes": 647,
+          "theaters": 214,
+          "rank": 8,
           "last_week_ratio": null
         },
         {
@@ -588,36 +748,6 @@
           "last_week_ratio": 163.9
         },
         {
-          "moviename": "Movie Sun's Child",
-          "japanese name": "映画 太陽の子",
-          "sales": 10934,
-          "seats": 59785,
-          "showtimes": 647,
-          "theaters": 214,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Saber + Zenkai Hero Chronicle",
-          "japanese name": "セイバー＋ゼンカイジャースーパーヒーロー戦記",
-          "sales": 9863,
-          "seats": 43454,
-          "showtimes": 495,
-          "theaters": 274,
-          "rank": 9,
-          "last_week_ratio": 248.6
-        },
-        {
-          "moviename": "剧场版 Fate/Grand Order 终局特异点 冠位时间神殿所罗门",
-          "japanese name": "劇場版 Ｆａｔｅ／Ｇｒａｎｄ Ｏｒｄｅｒ 終局特異点 冠位時間神殿ソロモン",
-          "sales": 8921,
-          "seats": 33486,
-          "showtimes": 274,
-          "theaters": 88,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Honey Lemon Soda",
           "japanese name": "ハニーレモンソーダ",
           "sales": 8228,
@@ -628,56 +758,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "In the Heights",
-          "japanese name": "イン・ザ・ハイツ",
-          "sales": 6511,
-          "seats": 29584,
-          "showtimes": 365,
-          "theaters": 227,
-          "rank": 12,
-          "last_week_ratio": 105.5
-        },
-        {
-          "moviename": "Godzilla x Kong",
-          "japanese name": "ゴジラｖｓコング",
-          "sales": 5815,
-          "seats": 25962,
-          "showtimes": 315,
-          "theaters": 273,
-          "rank": 13,
-          "last_week_ratio": 125.1
-        },
-        {
-          "moviename": "Mobile Suit Gundam: Flashing Hasshay",
-          "japanese name": "機動戦士ガンダム 閃光のハサウェイ",
-          "sales": 3809,
-          "seats": 15351,
-          "showtimes": 133,
-          "theaters": 133,
-          "rank": 14,
-          "last_week_ratio": 202.3
-        },
-        {
-          "moviename": "Rurouni Kenshin: Final Chapter The Beginning",
-          "japanese name": "るろうに剣心 最終章 Ｔｈｅ Ｂｅｇｉｎｎｉｎｇ",
-          "sales": 3808,
-          "seats": 14749,
-          "showtimes": 173,
-          "theaters": 172,
-          "rank": 15,
-          "last_week_ratio": 152.7
-        },
-        {
-          "moviename": "White Snake: Good omen",
-          "japanese name": "白蛇：縁起",
-          "sales": 3608,
-          "seats": 12741,
-          "showtimes": 129,
-          "theaters": 64,
-          "rank": 16,
-          "last_week_ratio": 112.3
-        },
-        {
           "moviename": "Black Widow",
           "japanese name": "ブラックウィドウ",
           "sales": 3378,
@@ -686,86 +766,6 @@
           "theaters": 169,
           "rank": 17,
           "last_week_ratio": 127
-        },
-        {
-          "moviename": "Let's go! Anpanman Whiffle Wha-ly and the Cloud Country",
-          "japanese name": "それいけ！アンパンマン ふわふわフワリーと雲の国",
-          "sales": 2825,
-          "seats": 27830,
-          "showtimes": 243,
-          "theaters": 237,
-          "rank": 18,
-          "last_week_ratio": 380.2
-        },
-        {
-          "moviename": "BLACKPINK THE MOVIE",
-          "japanese name": "ＢＬＡＣＫＰＩＮＫ ＴＨＥ ＭＯＶＩＥ",
-          "sales": 2462,
-          "seats": 9429,
-          "showtimes": 106,
-          "theaters": 57,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "SEOBOK/SOBOK",
-          "japanese name": "ＳＥＯＢＯＫ／ソボク",
-          "sales": 1506,
-          "seats": 7371,
-          "showtimes": 72,
-          "theaters": 66,
-          "rank": 20,
-          "last_week_ratio": 123
-        },
-        {
-          "moviename": "Kanemaru!",
-          "japanese name": "犬部！",
-          "sales": 1501,
-          "seats": 10308,
-          "showtimes": 116,
-          "theaters": 114,
-          "rank": 21,
-          "last_week_ratio": 154.9
-        },
-        {
-          "moviename": "The FabulOUS: The Assassin Who Doesn't Kill",
-          "japanese name": "ザ・ファブル 殺さない殺し屋",
-          "sales": 1332,
-          "seats": 4089,
-          "showtimes": 48,
-          "theaters": 48,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Words pour out like soda",
-          "japanese name": "サイダーのように言葉が湧き上がる",
-          "sales": 1329,
-          "seats": 8833,
-          "showtimes": 86,
-          "theaters": 77,
-          "rank": 23,
-          "last_week_ratio": 134.1
-        },
-        {
-          "moviename": "Characters",
-          "japanese name": "キャラクター",
-          "sales": 1231,
-          "seats": 4167,
-          "showtimes": 48,
-          "theaters": 48,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Riding the summer films",
-          "japanese name": "サマーフィルムにのって",
-          "sales": 1056,
-          "seats": 2585,
-          "showtimes": 35,
-          "theaters": 16,
-          "rank": 25,
-          "last_week_ratio": null
         }
       ]
     }

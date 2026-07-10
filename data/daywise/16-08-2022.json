@@ -6,44 +6,14 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "ONE PIECE FILM RED",
-          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
-          "sales": 91564,
-          "seats": 289303,
-          "showtimes": 973,
-          "theaters": 194,
-          "rank": 1,
-          "last_week_ratio": 105.9
-        },
-        {
-          "moviename": "JURASSIC WORLD / The New Emperor",
-          "japanese name": "ジュラシック・ワールド／新たなる支配者",
-          "sales": 31226,
-          "seats": 106377,
-          "showtimes": 593,
-          "theaters": 201,
-          "rank": 2,
-          "last_week_ratio": 137.4
-        },
-        {
-          "moviename": "Minions Fever",
-          "japanese name": "ミニオンズ フィーバー",
-          "sales": 25063,
-          "seats": 78906,
-          "showtimes": 506,
-          "theaters": 200,
-          "rank": 3,
-          "last_week_ratio": 129.5
-        },
-        {
-          "moviename": "Kingdom 2: Faraway Lands",
-          "japanese name": "キングダム２ 遥かなる大地へ",
-          "sales": 14102,
-          "seats": 56067,
-          "showtimes": 366,
-          "theaters": 196,
-          "rank": 4,
-          "last_week_ratio": 166.5
+          "moviename": "Dragon Ball Super Super Hero",
+          "japanese name": "ドラゴンボール超 スーパーヒーロー",
+          "sales": 641,
+          "seats": 3707,
+          "showtimes": 30,
+          "theaters": 70,
+          "rank": 16,
+          "last_week_ratio": null
         },
         {
           "moviename": "TANG TANG",
@@ -56,17 +26,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Top Gun: Maverick",
-          "japanese name": "トップガン マーヴェリック",
-          "sales": 12116,
-          "seats": 29500,
-          "showtimes": 197,
-          "theaters": 191,
-          "rank": 6,
-          "last_week_ratio": 190.1
-        },
-        {
-          "moviename": "25th Anniversary Pokémon Movie Festival Theater版 Pocket Monsters 2002 The Guardian of Water City Latias and Latios",
+          "moviename": "25th Anniversary Pokémon Film Festival theatrical version Pokémon 2002 The Guardian of Water Latias and Latios",
           "japanese name": "２５周年ポケモン映画祭 劇場版ポケットモンスター２００２ 水の都の護神ラティアスとラティオス",
           "sales": 10885,
           "seats": 64902,
@@ -76,57 +36,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Tonight, if this love disappears from the world",
-          "japanese name": "今夜、世界からこの恋が消えても",
-          "sales": 8956,
-          "seats": 31072,
-          "showtimes": 251,
-          "theaters": 174,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theater版 Kamen Rider Revice / Donbrothers THE MOVIE",
-          "japanese name": "劇場版 仮面ライダーリバイス／暴太郎戦隊ドンブラザーズ ＴＨＥ ＭＯＶＩＥ",
-          "sales": 1887,
-          "seats": 18689,
-          "showtimes": 138,
-          "theaters": 171,
-          "rank": 9,
-          "last_week_ratio": 112.6
-        },
-        {
-          "moviename": "Ghost Book Ghost Book",
-          "japanese name": "ゴーストブック おばけずかん",
-          "sales": 1590,
-          "seats": 9657,
-          "showtimes": 77,
-          "theaters": 144,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Paul Patrool: The Movie",
-          "japanese name": "パウ・パトロール ザ・ムービー",
-          "sales": 1582,
-          "seats": 6247,
-          "showtimes": 41,
-          "theaters": 16,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Flowers for the baseball team",
-          "japanese name": "野球部に花束を",
-          "sales": 1420,
-          "seats": 24785,
-          "showtimes": 199,
-          "theaters": 121,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Let's Go! Panman Dorlin and Bucky's Carnival",
+          "moviename": "Let's Go! Panman: Dorlin and Bucky's Carnival",
           "japanese name": "それいけ！アンパンマン ドロリンとバケーるカーニバル",
           "sales": 1076,
           "seats": 27964,
@@ -136,13 +46,33 @@
           "last_week_ratio": 170.5
         },
         {
-          "moviename": "Buzz Lightyear",
-          "japanese name": "バズ・ライトイヤー",
-          "sales": 852,
-          "seats": 7031,
-          "showtimes": 55,
-          "theaters": 110,
-          "rank": 14,
+          "moviename": "The Matrix Reloaded",
+          "japanese name": "マトリックス リローデッド",
+          "sales": 467,
+          "seats": 3976,
+          "showtimes": 37,
+          "theaters": 38,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Elvis",
+          "japanese name": "エルヴィス",
+          "sales": 200,
+          "seats": 223,
+          "showtimes": 3,
+          "theaters": 12,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Send a bouquet to the baseball team",
+          "japanese name": "野球部に花束を",
+          "sales": 1420,
+          "seats": 24785,
+          "showtimes": 199,
+          "theaters": 121,
+          "rank": 12,
           "last_week_ratio": null
         },
         {
@@ -156,13 +86,113 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Dragon Ball Super Super Hero",
-          "japanese name": "ドラゴンボール超 スーパーヒーロー",
-          "sales": 641,
-          "seats": 3707,
-          "showtimes": 30,
-          "theaters": 70,
-          "rank": 16,
+          "moviename": "Jurassic World / New Rulers",
+          "japanese name": "ジュラシック・ワールド／新たなる支配者",
+          "sales": 31226,
+          "seats": 106377,
+          "showtimes": 593,
+          "theaters": 201,
+          "rank": 2,
+          "last_week_ratio": 137.4
+        },
+        {
+          "moviename": "Theatrical Version of G’s Recompilation V: Beyond the Line of Death",
+          "japanese name": "劇場版 ＧのレコンギスタＶ 死線を越えて",
+          "sales": 235,
+          "seats": 3669,
+          "showtimes": 24,
+          "theaters": 29,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Breaking the Covenants",
+          "japanese name": "破戒",
+          "sales": 208,
+          "seats": 649,
+          "showtimes": 6,
+          "theaters": 8,
+          "rank": 24,
+          "last_week_ratio": 134.2
+        },
+        {
+          "moviename": "Sō: Love & Thunder",
+          "japanese name": "ソー：ラブ＆サンダー",
+          "sales": 252,
+          "seats": 2016,
+          "showtimes": 12,
+          "theaters": 106,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Paw Patrol The Movie",
+          "japanese name": "パウ・パトロール ザ・ムービー",
+          "sales": 1582,
+          "seats": 6247,
+          "showtimes": 41,
+          "theaters": 16,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ONE PIECE FILM RED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 91564,
+          "seats": 289303,
+          "showtimes": 973,
+          "theaters": 194,
+          "rank": 1,
+          "last_week_ratio": 105.9
+        },
+        {
+          "moviename": "Story of My Life: My Youthful Days",
+          "japanese name": "ストーリー・オブ・マイライフ わたしの若草物語",
+          "sales": 255,
+          "seats": 2276,
+          "showtimes": 20,
+          "theaters": 19,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Cinema Kabuki Three Valleys KABUKI Moonlight Dew Needle Road Japan Wind Cloudy Children",
+          "japanese name": "シネマ歌舞伎 三谷かぶき 月光露針路日本 風雲児たち",
+          "sales": 251,
+          "seats": 713,
+          "showtimes": 8,
+          "theaters": 8,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Minions Fever",
+          "japanese name": "ミニオンズ フィーバー",
+          "sales": 25063,
+          "seats": 78906,
+          "showtimes": 506,
+          "theaters": 200,
+          "rank": 3,
+          "last_week_ratio": 129.5
+        },
+        {
+          "moviename": "Buzz Lightyear",
+          "japanese name": "バズ・ライトイヤー",
+          "sales": 852,
+          "seats": 7031,
+          "showtimes": 55,
+          "theaters": 110,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tonight, if this love disappears from the world",
+          "japanese name": "今夜、世界からこの恋が消えても",
+          "sales": 8956,
+          "seats": 31072,
+          "showtimes": 251,
+          "theaters": 174,
+          "rank": 8,
           "last_week_ratio": null
         },
         {
@@ -176,7 +206,7 @@
           "last_week_ratio": 120.9
         },
         {
-          "moviename": "＜Monthly Kabuki 2022＞Female Killing Oil Hell",
+          "moviename": "＜Monthly Kabuki 2022＞ Woman Killing Oil Hell",
           "japanese name": "＜月イチ歌舞伎２０２２＞女殺油地獄",
           "sales": 526,
           "seats": 3407,
@@ -186,74 +216,44 @@
           "last_week_ratio": 2922.2
         },
         {
-          "moviename": "The Matrix Reloaded",
-          "japanese name": "マトリックス リローデッド",
-          "sales": 467,
-          "seats": 3976,
-          "showtimes": 37,
-          "theaters": 38,
-          "rank": 19,
+          "moviename": "Top Gun: Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 12116,
+          "seats": 29500,
+          "showtimes": 197,
+          "theaters": 191,
+          "rank": 6,
+          "last_week_ratio": 190.1
+        },
+        {
+          "moviename": "Ghost Book: The Book of Ghosts",
+          "japanese name": "ゴーストブック おばけずかん",
+          "sales": 1590,
+          "seats": 9657,
+          "showtimes": 77,
+          "theaters": 144,
+          "rank": 10,
           "last_week_ratio": null
         },
         {
-          "moviename": "Story of My Life My Young Grass Story",
-          "japanese name": "ストーリー・オブ・マイライフ わたしの若草物語",
-          "sales": 255,
-          "seats": 2276,
-          "showtimes": 20,
-          "theaters": 19,
-          "rank": 20,
-          "last_week_ratio": null
+          "moviename": "Theatrical Version: Kamen Rider Revive / Gokaiger vs. Donbrothers THE MOVIE",
+          "japanese name": "劇場版 仮面ライダーリバイス／暴太郎戦隊ドンブラザーズ ＴＨＥ ＭＯＶＩＥ",
+          "sales": 1887,
+          "seats": 18689,
+          "showtimes": 138,
+          "theaters": 171,
+          "rank": 9,
+          "last_week_ratio": 112.6
         },
         {
-          "moviename": "Thor: Love & Thunder",
-          "japanese name": "ソー：ラブ＆サンダー",
-          "sales": 252,
-          "seats": 2016,
-          "showtimes": 12,
-          "theaters": 106,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Cinema Kabuki: Miki Kageyuki - Moonlight Needle Path Japan: The Stormy Children",
-          "japanese name": "シネマ歌舞伎 三谷かぶき 月光露針路日本 風雲児たち",
-          "sales": 251,
-          "seats": 713,
-          "showtimes": 8,
-          "theaters": 8,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "剧场版 G's RECONQUISTA V Crossing the Dead Line",
-          "japanese name": "劇場版 ＧのレコンギスタＶ 死線を越えて",
-          "sales": 235,
-          "seats": 3669,
-          "showtimes": 24,
-          "theaters": 29,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Breaking the Precepts",
-          "japanese name": "破戒",
-          "sales": 208,
-          "seats": 649,
-          "showtimes": 6,
-          "theaters": 8,
-          "rank": 24,
-          "last_week_ratio": 134.2
-        },
-        {
-          "moviename": "Elvis",
-          "japanese name": "エルヴィス",
-          "sales": 200,
-          "seats": 223,
-          "showtimes": 3,
-          "theaters": 12,
-          "rank": 25,
-          "last_week_ratio": null
+          "moviename": "Kingdom 2: Towards the Distant Lands",
+          "japanese name": "キングダム２ 遥かなる大地へ",
+          "sales": 14102,
+          "seats": 56067,
+          "showtimes": 366,
+          "theaters": 196,
+          "rank": 4,
+          "last_week_ratio": 166.5
         }
       ]
     },
@@ -262,54 +262,14 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "ONE PIECE FILM RED",
-          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
-          "sales": 160789,
-          "seats": 529236,
-          "showtimes": 1814,
-          "theaters": 194,
-          "rank": 1,
-          "last_week_ratio": 100
-        },
-        {
-          "moviename": "JURASSIC WORLD / The New Emperor",
-          "japanese name": "ジュラシック・ワールド／新たなる支配者",
-          "sales": 54124,
-          "seats": 198011,
-          "showtimes": 1107,
-          "theaters": 201,
-          "rank": 2,
-          "last_week_ratio": 130.5
-        },
-        {
-          "moviename": "Minions Fever",
-          "japanese name": "ミニオンズ フィーバー",
-          "sales": 36097,
-          "seats": 124845,
-          "showtimes": 809,
-          "theaters": 200,
-          "rank": 3,
-          "last_week_ratio": 127.8
-        },
-        {
-          "moviename": "Kingdom 2: Faraway Lands",
-          "japanese name": "キングダム２ 遥かなる大地へ",
-          "sales": 26503,
-          "seats": 111257,
-          "showtimes": 721,
-          "theaters": 196,
-          "rank": 4,
-          "last_week_ratio": 148.8
-        },
-        {
-          "moviename": "Top Gun: Maverick",
-          "japanese name": "トップガン マーヴェリック",
-          "sales": 22618,
-          "seats": 60762,
-          "showtimes": 400,
-          "theaters": 191,
-          "rank": 5,
-          "last_week_ratio": 195.5
+          "moviename": "Dragon Ball Super Super Hero",
+          "japanese name": "ドラゴンボール超 スーパーヒーロー",
+          "sales": 1159,
+          "seats": 7649,
+          "showtimes": 58,
+          "theaters": 70,
+          "rank": 16,
+          "last_week_ratio": null
         },
         {
           "moviename": "TANG TANG",
@@ -322,17 +282,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Tonight, if this love disappears from the world",
-          "japanese name": "今夜、世界からこの恋が消えても",
-          "sales": 18057,
-          "seats": 58371,
-          "showtimes": 472,
-          "theaters": 174,
-          "rank": 7,
-          "last_week_ratio": 104.8
-        },
-        {
-          "moviename": "25th Anniversary Pokémon Movie Festival Theater版 Pocket Monsters 2002 The Guardian of Water City Latias and Latios",
+          "moviename": "25th Anniversary Pokémon Film Festival theatrical version Pokémon 2002 The Guardian of Water Latias and Latios",
           "japanese name": "２５周年ポケモン映画祭 劇場版ポケットモンスター２００２ 水の都の護神ラティアスとラティオス",
           "sales": 16021,
           "seats": 97250,
@@ -342,27 +292,37 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Ghost Book Ghost Book",
-          "japanese name": "ゴーストブック おばけずかん",
-          "sales": 2718,
-          "seats": 18052,
-          "showtimes": 145,
-          "theaters": 144,
-          "rank": 9,
+          "moviename": "Let's Go! Panman: Dorlin and Bucky's Carnival",
+          "japanese name": "それいけ！アンパンマン ドロリンとバケーるカーニバル",
+          "sales": 1082,
+          "seats": 28058,
+          "showtimes": 152,
+          "theaters": 153,
+          "rank": 17,
+          "last_week_ratio": 169.3
+        },
+        {
+          "moviename": "The Matrix Reloaded",
+          "japanese name": "マトリックス リローデッド",
+          "sales": 467,
+          "seats": 3976,
+          "showtimes": 37,
+          "theaters": 38,
+          "rank": 21,
           "last_week_ratio": null
         },
         {
-          "moviename": "Theater版 Kamen Rider Revice / Donbrothers THE MOVIE",
-          "japanese name": "劇場版 仮面ライダーリバイス／暴太郎戦隊ドンブラザーズ ＴＨＥ ＭＯＶＩＥ",
-          "sales": 2324,
-          "seats": 24195,
-          "showtimes": 177,
-          "theaters": 171,
-          "rank": 10,
-          "last_week_ratio": 110.5
+          "moviename": "Elvis",
+          "japanese name": "エルヴィス",
+          "sales": 321,
+          "seats": 444,
+          "showtimes": 5,
+          "theaters": 12,
+          "rank": 23,
+          "last_week_ratio": null
         },
         {
-          "moviename": "Flowers for the baseball team",
+          "moviename": "Send a bouquet to the baseball team",
           "japanese name": "野球部に花束を",
           "sales": 2323,
           "seats": 43724,
@@ -382,7 +342,47 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Paul Patrool: The Movie",
+          "moviename": "Jurassic World / New Rulers",
+          "japanese name": "ジュラシック・ワールド／新たなる支配者",
+          "sales": 54124,
+          "seats": 198011,
+          "showtimes": 1107,
+          "theaters": 201,
+          "rank": 2,
+          "last_week_ratio": 130.5
+        },
+        {
+          "moviename": "Theatrical Version of G’s Recompilation V: Beyond the Line of Death",
+          "japanese name": "劇場版 ＧのレコンギスタＶ 死線を越えて",
+          "sales": 393,
+          "seats": 6275,
+          "showtimes": 45,
+          "theaters": 29,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Baby Broker",
+          "japanese name": "ベイビー・ブローカー",
+          "sales": 310,
+          "seats": 1081,
+          "showtimes": 7,
+          "theaters": 7,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sō: Love & Thunder",
+          "japanese name": "ソー：ラブ＆サンダー",
+          "sales": 654,
+          "seats": 6540,
+          "showtimes": 45,
+          "theaters": 106,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Paw Patrol The Movie",
           "japanese name": "パウ・パトロール ザ・ムービー",
           "sales": 1953,
           "seats": 8393,
@@ -390,6 +390,46 @@
           "theaters": 16,
           "rank": 13,
           "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version Uta no ☆ Prince-sama♪ Maji LOVE Kingdom",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥキングダム",
+          "sales": 314,
+          "seats": 3816,
+          "showtimes": 26,
+          "theaters": 26,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ONE PIECE FILM RED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 160789,
+          "seats": 529236,
+          "showtimes": 1814,
+          "theaters": 194,
+          "rank": 1,
+          "last_week_ratio": 100
+        },
+        {
+          "moviename": "Story of My Life: My Youthful Days",
+          "japanese name": "ストーリー・オブ・マイライフ わたしの若草物語",
+          "sales": 487,
+          "seats": 4622,
+          "showtimes": 40,
+          "theaters": 19,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Minions Fever",
+          "japanese name": "ミニオンズ フィーバー",
+          "sales": 36097,
+          "seats": 124845,
+          "showtimes": 809,
+          "theaters": 200,
+          "rank": 3,
+          "last_week_ratio": 127.8
         },
         {
           "moviename": "Buzz Lightyear",
@@ -402,6 +442,16 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Tonight, if this love disappears from the world",
+          "japanese name": "今夜、世界からこの恋が消えても",
+          "sales": 18057,
+          "seats": 58371,
+          "showtimes": 472,
+          "theaters": 174,
+          "rank": 7,
+          "last_week_ratio": 104.8
+        },
+        {
           "moviename": "Movie Yuru Camp△",
           "japanese name": "映画 ゆるキャン△",
           "sales": 1385,
@@ -412,37 +462,7 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Dragon Ball Super Super Hero",
-          "japanese name": "ドラゴンボール超 スーパーヒーロー",
-          "sales": 1159,
-          "seats": 7649,
-          "showtimes": 58,
-          "theaters": 70,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Let's Go! Panman Dorlin and Bucky's Carnival",
-          "japanese name": "それいけ！アンパンマン ドロリンとバケーるカーニバル",
-          "sales": 1082,
-          "seats": 28058,
-          "showtimes": 152,
-          "theaters": 153,
-          "rank": 17,
-          "last_week_ratio": 169.3
-        },
-        {
-          "moviename": "Thor: Love & Thunder",
-          "japanese name": "ソー：ラブ＆サンダー",
-          "sales": 654,
-          "seats": 6540,
-          "showtimes": 45,
-          "theaters": 106,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "＜Monthly Kabuki 2022＞Female Killing Oil Hell",
+          "moviename": "＜Monthly Kabuki 2022＞ Woman Killing Oil Hell",
           "japanese name": "＜月イチ歌舞伎２０２２＞女殺油地獄",
           "sales": 554,
           "seats": 4187,
@@ -452,64 +472,44 @@
           "last_week_ratio": 2518.2
         },
         {
-          "moviename": "Story of My Life My Young Grass Story",
-          "japanese name": "ストーリー・オブ・マイライフ わたしの若草物語",
-          "sales": 487,
-          "seats": 4622,
-          "showtimes": 40,
-          "theaters": 19,
-          "rank": 20,
+          "moviename": "Top Gun: Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 22618,
+          "seats": 60762,
+          "showtimes": 400,
+          "theaters": 191,
+          "rank": 5,
+          "last_week_ratio": 195.5
+        },
+        {
+          "moviename": "Ghost Book: The Book of Ghosts",
+          "japanese name": "ゴーストブック おばけずかん",
+          "sales": 2718,
+          "seats": 18052,
+          "showtimes": 145,
+          "theaters": 144,
+          "rank": 9,
           "last_week_ratio": null
         },
         {
-          "moviename": "The Matrix Reloaded",
-          "japanese name": "マトリックス リローデッド",
-          "sales": 467,
-          "seats": 3976,
-          "showtimes": 37,
-          "theaters": 38,
-          "rank": 21,
-          "last_week_ratio": null
+          "moviename": "Theatrical Version: Kamen Rider Revive / Gokaiger vs. Donbrothers THE MOVIE",
+          "japanese name": "劇場版 仮面ライダーリバイス／暴太郎戦隊ドンブラザーズ ＴＨＥ ＭＯＶＩＥ",
+          "sales": 2324,
+          "seats": 24195,
+          "showtimes": 177,
+          "theaters": 171,
+          "rank": 10,
+          "last_week_ratio": 110.5
         },
         {
-          "moviename": "剧场版 G's RECONQUISTA V Crossing the Dead Line",
-          "japanese name": "劇場版 ＧのレコンギスタＶ 死線を越えて",
-          "sales": 393,
-          "seats": 6275,
-          "showtimes": 45,
-          "theaters": 29,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Elvis",
-          "japanese name": "エルヴィス",
-          "sales": 321,
-          "seats": 444,
-          "showtimes": 5,
-          "theaters": 12,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version: Uta no☆Princess-sama♪ Maji LOVE Kingdom",
-          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥキングダム",
-          "sales": 314,
-          "seats": 3816,
-          "showtimes": 26,
-          "theaters": 26,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Baby Broker",
-          "japanese name": "ベイビー・ブローカー",
-          "sales": 310,
-          "seats": 1081,
-          "showtimes": 7,
-          "theaters": 7,
-          "rank": 25,
-          "last_week_ratio": null
+          "moviename": "Kingdom 2: Towards the Distant Lands",
+          "japanese name": "キングダム２ 遥かなる大地へ",
+          "sales": 26503,
+          "seats": 111257,
+          "showtimes": 721,
+          "theaters": 196,
+          "rank": 4,
+          "last_week_ratio": 148.8
         }
       ]
     },
@@ -518,157 +518,7 @@
       "time": "Final",
       "data": [
         {
-          "moviename": "One Piece Film Red",
-          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
-          "sales": 185276,
-          "seats": 664725,
-          "showtimes": 2277,
-          "theaters": 194,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Jurassic World: The New Rulers",
-          "japanese name": "ジュラシック・ワールド／新たなる支配者",
-          "sales": 59934,
-          "seats": 254591,
-          "showtimes": 1423,
-          "theaters": 201,
-          "rank": 2,
-          "last_week_ratio": 124.4
-        },
-        {
-          "moviename": "Minions Fever",
-          "japanese name": "ミニオンズ フィーバー",
-          "sales": 37009,
-          "seats": 135473,
-          "showtimes": 881,
-          "theaters": 200,
-          "rank": 3,
-          "last_week_ratio": 126
-        },
-        {
-          "moviename": "Kingdom 2: Towards the Distant Lands",
-          "japanese name": "キングダム２ 遥かなる大地へ",
-          "sales": 29657,
-          "seats": 142316,
-          "showtimes": 918,
-          "theaters": 196,
-          "rank": 4,
-          "last_week_ratio": 143.1
-        },
-        {
-          "moviename": "Top Gun: Maverick",
-          "japanese name": "トップガン マーヴェリック",
-          "sales": 25737,
-          "seats": 82306,
-          "showtimes": 552,
-          "theaters": 191,
-          "rank": 5,
-          "last_week_ratio": 181.4
-        },
-        {
-          "moviename": "Tonight, even if this love disappears from the world",
-          "japanese name": "今夜、世界からこの恋が消えても",
-          "sales": 19600,
-          "seats": 76412,
-          "showtimes": 613,
-          "theaters": 174,
-          "rank": 6,
-          "last_week_ratio": 103.2
-        },
-        {
-          "moviename": "TANG Tang",
-          "japanese name": "ＴＡＮＧ タング",
-          "sales": 19340,
-          "seats": 215142,
-          "showtimes": 1128,
-          "theaters": 197,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "25th Pokémon Movie Festival: Pokémon the Movie 2002: Latias and Latios: The Guardians of the Water City",
-          "japanese name": "２５周年ポケモン映画祭 劇場版ポケットモンスター２００２ 水の都の護神ラティアスとラティオス",
-          "sales": 17159,
-          "seats": 104527,
-          "showtimes": 695,
-          "theaters": 179,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Ghost Book: The Book of Ghosts",
-          "japanese name": "ゴーストブック おばけずかん",
-          "sales": 2802,
-          "seats": 20535,
-          "showtimes": 161,
-          "theaters": 144,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "A bouquet for the baseball team",
-          "japanese name": "野球部に花束を",
-          "sales": 2581,
-          "seats": 56031,
-          "showtimes": 451,
-          "theaters": 121,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version: Kamen Rider Revive / Gokaiger vs. Donbrothers THE MOVIE",
-          "japanese name": "劇場版 仮面ライダーリバイス／暴太郎戦隊ドンブラザーズ ＴＨＥ ＭＯＶＩＥ",
-          "sales": 2334,
-          "seats": 24531,
-          "showtimes": 180,
-          "theaters": 171,
-          "rank": 11,
-          "last_week_ratio": 109.2
-        },
-        {
-          "moviename": "Moe Kare is orange in color.",
-          "japanese name": "モエカレはオレンジ色",
-          "sales": 2149,
-          "seats": 16646,
-          "showtimes": 122,
-          "theaters": 120,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Paw Patrol The Movie",
-          "japanese name": "パウ・パトロール ザ・ムービー",
-          "sales": 1960,
-          "seats": 8776,
-          "showtimes": 58,
-          "theaters": 16,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie: Yurukamp△",
-          "japanese name": "映画 ゆるキャン△",
-          "sales": 1914,
-          "seats": 11515,
-          "showtimes": 89,
-          "theaters": 79,
-          "rank": 14,
-          "last_week_ratio": 109.2
-        },
-        {
-          "moviename": "Buzz Lightyear",
-          "japanese name": "バズ・ライトイヤー",
-          "sales": 1727,
-          "seats": 15114,
-          "showtimes": 119,
-          "theaters": 110,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Dragon Ball Super: Super Heroes",
+          "moviename": "Dragon Ball Super Super Hero",
           "japanese name": "ドラゴンボール超 スーパーヒーロー",
           "sales": 1260,
           "seats": 9717,
@@ -678,17 +528,27 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Thor: Love & Thunder",
-          "japanese name": "ソー：ラブ＆サンダー",
-          "sales": 1114,
-          "seats": 14913,
-          "showtimes": 112,
-          "theaters": 106,
-          "rank": 17,
+          "moviename": "TANG TANG",
+          "japanese name": "ＴＡＮＧ タング",
+          "sales": 19340,
+          "seats": 215142,
+          "showtimes": 1128,
+          "theaters": 197,
+          "rank": 7,
           "last_week_ratio": null
         },
         {
-          "moviename": "Let’s Go! Mr. Breadman: Dolorin and the Crazy Carnival",
+          "moviename": "25th Anniversary Pokémon Film Festival theatrical version Pokémon 2002 The Guardian of Water Latias and Latios",
+          "japanese name": "２５周年ポケモン映画祭 劇場版ポケットモンスター２００２ 水の都の護神ラティアスとラティオス",
+          "sales": 17159,
+          "seats": 104527,
+          "showtimes": 695,
+          "theaters": 179,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let's Go! Panman: Dorlin and Bucky's Carnival",
           "japanese name": "それいけ！アンパンマン ドロリンとバケーるカーニバル",
           "sales": 1082,
           "seats": 28058,
@@ -698,23 +558,13 @@
           "last_week_ratio": 169.3
         },
         {
-          "moviename": "＜Monthly Kabuki 2022＞Onna Satsujigoku",
-          "japanese name": "＜月イチ歌舞伎２０２２＞女殺油地獄",
-          "sales": 554,
-          "seats": 4187,
-          "showtimes": 26,
-          "theaters": 23,
-          "rank": 19,
-          "last_week_ratio": 2518.2
-        },
-        {
-          "moviename": "Story of My Life: My Youthful Days",
-          "japanese name": "ストーリー・オブ・マイライフ わたしの若草物語",
-          "sales": 534,
-          "seats": 6715,
-          "showtimes": 56,
-          "theaters": 19,
-          "rank": 20,
+          "moviename": "The Matrix Reloaded",
+          "japanese name": "マトリックス リローデッド",
+          "sales": 467,
+          "seats": 3976,
+          "showtimes": 37,
+          "theaters": 38,
+          "rank": 23,
           "last_week_ratio": null
         },
         {
@@ -728,6 +578,36 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Send a bouquet to the baseball team",
+          "japanese name": "野球部に花束を",
+          "sales": 2581,
+          "seats": 56031,
+          "showtimes": 451,
+          "theaters": 121,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Moekare is orange-colored",
+          "japanese name": "モエカレはオレンジ色",
+          "sales": 2149,
+          "seats": 16646,
+          "showtimes": 122,
+          "theaters": 120,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Jurassic World / New Rulers",
+          "japanese name": "ジュラシック・ワールド／新たなる支配者",
+          "sales": 59934,
+          "seats": 254591,
+          "showtimes": 1423,
+          "theaters": 201,
+          "rank": 2,
+          "last_week_ratio": 124.4
+        },
+        {
           "moviename": "Theatrical Version of G’s Recompilation V: Beyond the Line of Death",
           "japanese name": "劇場版 ＧのレコンギスタＶ 死線を越えて",
           "sales": 482,
@@ -738,13 +618,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The Matrix Reloaded",
-          "japanese name": "マトリックス リローデッド",
-          "sales": 467,
-          "seats": 3976,
-          "showtimes": 37,
-          "theaters": 38,
-          "rank": 23,
+          "moviename": "Baby Broker",
+          "japanese name": "ベイビー・ブローカー",
+          "sales": 332,
+          "seats": 1262,
+          "showtimes": 8,
+          "theaters": 7,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sō: Love & Thunder",
+          "japanese name": "ソー：ラブ＆サンダー",
+          "sales": 1114,
+          "seats": 14913,
+          "showtimes": 112,
+          "theaters": 106,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Paw Patrol The Movie",
+          "japanese name": "パウ・パトロール ザ・ムービー",
+          "sales": 1960,
+          "seats": 8776,
+          "showtimes": 58,
+          "theaters": 16,
+          "rank": 13,
           "last_week_ratio": null
         },
         {
@@ -758,14 +658,114 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Baby Broker",
-          "japanese name": "ベイビー・ブローカー",
-          "sales": 332,
-          "seats": 1262,
-          "showtimes": 8,
-          "theaters": 7,
-          "rank": 25,
+          "moviename": "ONE PIECE FILM RED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 185276,
+          "seats": 664725,
+          "showtimes": 2277,
+          "theaters": 194,
+          "rank": 1,
           "last_week_ratio": null
+        },
+        {
+          "moviename": "Story of My Life: My Youthful Days",
+          "japanese name": "ストーリー・オブ・マイライフ わたしの若草物語",
+          "sales": 534,
+          "seats": 6715,
+          "showtimes": 56,
+          "theaters": 19,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Minions Fever",
+          "japanese name": "ミニオンズ フィーバー",
+          "sales": 37009,
+          "seats": 135473,
+          "showtimes": 881,
+          "theaters": 200,
+          "rank": 3,
+          "last_week_ratio": 126
+        },
+        {
+          "moviename": "Buzz Lightyear",
+          "japanese name": "バズ・ライトイヤー",
+          "sales": 1727,
+          "seats": 15114,
+          "showtimes": 119,
+          "theaters": 110,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tonight, if this love disappears from the world",
+          "japanese name": "今夜、世界からこの恋が消えても",
+          "sales": 19600,
+          "seats": 76412,
+          "showtimes": 613,
+          "theaters": 174,
+          "rank": 6,
+          "last_week_ratio": 103.2
+        },
+        {
+          "moviename": "Movie Yuru Camp△",
+          "japanese name": "映画 ゆるキャン△",
+          "sales": 1914,
+          "seats": 11515,
+          "showtimes": 89,
+          "theaters": 79,
+          "rank": 14,
+          "last_week_ratio": 109.2
+        },
+        {
+          "moviename": "＜Monthly Kabuki 2022＞ Woman Killing Oil Hell",
+          "japanese name": "＜月イチ歌舞伎２０２２＞女殺油地獄",
+          "sales": 554,
+          "seats": 4187,
+          "showtimes": 26,
+          "theaters": 23,
+          "rank": 19,
+          "last_week_ratio": 2518.2
+        },
+        {
+          "moviename": "Top Gun: Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 25737,
+          "seats": 82306,
+          "showtimes": 552,
+          "theaters": 191,
+          "rank": 5,
+          "last_week_ratio": 181.4
+        },
+        {
+          "moviename": "Ghost Book: The Book of Ghosts",
+          "japanese name": "ゴーストブック おばけずかん",
+          "sales": 2802,
+          "seats": 20535,
+          "showtimes": 161,
+          "theaters": 144,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Kamen Rider Revive / Gokaiger vs. Donbrothers THE MOVIE",
+          "japanese name": "劇場版 仮面ライダーリバイス／暴太郎戦隊ドンブラザーズ ＴＨＥ ＭＯＶＩＥ",
+          "sales": 2334,
+          "seats": 24531,
+          "showtimes": 180,
+          "theaters": 171,
+          "rank": 11,
+          "last_week_ratio": 109.2
+        },
+        {
+          "moviename": "Kingdom 2: Towards the Distant Lands",
+          "japanese name": "キングダム２ 遥かなる大地へ",
+          "sales": 29657,
+          "seats": 142316,
+          "showtimes": 918,
+          "theaters": 196,
+          "rank": 4,
+          "last_week_ratio": 143.1
         }
       ]
     }
