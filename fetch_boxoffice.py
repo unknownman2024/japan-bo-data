@@ -9,6 +9,9 @@ Handles:
   human‑readable slug. If two movies have the same English name, a hash of
   the Japanese name is appended for uniqueness.
 - Persistent mapping file (movieslug.json) stores Japanese name → {slug, english_name}.
+- Manual corrections (correctedslug.json) allow overriding slugs, English names,
+  and merging movies. Corrections are applied automatically on every run.
+- After corrections, all daywise files are rebuilt to reflect the changes.
 """
 
 import asyncio
@@ -33,6 +36,7 @@ DATABASE_DIR = Path("database")
 DAYWISE_DIR = DATA_DIR / "daywise"
 STATE_FILE = Path("state.json")
 MOVIE_SLUG_MAP_FILE = DATA_DIR / "movieslug.json"
+CORRECTIONS_FILE = Path("correctedslug.json")   # manual overrides
 
 SEMAPHORE = asyncio.Semaphore(45)
 
@@ -61,31 +65,27 @@ def week_day_string(release_date, current_date):
     return f"{week_num}{ordinal(week_num)} {weekday}"
 
 def generate_slug_from_english(english_name, jp_name=None):
-    """
-    Generate a filesystem‑safe slug from the English name.
-    If the English name is empty, fallback to Japanese.
-    Returns a base slug (without uniqueness suffix).
-    """
     if not english_name:
         name = jp_name or "unknown"
     else:
         name = english_name
-
-    # Convert to lower-case, replace spaces and non-alnum with hyphens
     slug = re.sub(r'[^a-z0-9]+', '-', name.lower().strip())
     slug = slug.strip('-')
     if not slug:
         slug = "movie"
-    # Limit length to 50 characters for filesystem safety
     return slug[:50]
 
+def entry_sort_key(e):
+    try:
+        dt = datetime.strptime(e["date"], "%d-%m-%Y")
+    except:
+        dt = datetime.min
+    time_priority = TIME_ORDER.index(e["time"]) if e["time"] in TIME_ORDER else 999
+    return (dt, time_priority)
+
 class MovieSlugMapper:
-    """
-    Persistent mapping: Japanese name -> {slug, english_name}.
-    Loaded from / saved to movieslug.json.
-    """
     def __init__(self):
-        self.map = {}          # jp_name -> {slug, english_name}
+        self.map = {}
         self.dirty = False
         self.lock = asyncio.Lock()
 
@@ -111,70 +111,69 @@ class MovieSlugMapper:
             except Exception as e:
                 logger.error(f"Failed to write movie slug map: {e}")
 
+    def resolve(self, jp_name):
+        current = jp_name
+        seen = set()
+        while current in self.map and "redirect" in self.map[current]:
+            if current in seen:
+                break
+            seen.add(current)
+            current = self.map[current]["redirect"]
+        return current
+
     def get_slug(self, jp_name):
-        entry = self.map.get(jp_name)
+        primary = self.resolve(jp_name)
+        entry = self.map.get(primary)
         return entry["slug"] if entry else None
 
     def get_english_name(self, jp_name):
-        entry = self.map.get(jp_name)
+        primary = self.resolve(jp_name)
+        entry = self.map.get(primary)
         return entry["english_name"] if entry else None
 
     def ensure_movie(self, jp_name, english_name):
-        """
-        Ensure the movie exists in the map.
-        Returns (slug, is_new). For new movies, generates a slug from the
-        English name (or Japanese if English is empty). If the generated slug
-        is already taken, appends a short hash of the Japanese name.
-        If existing, returns its slug and optionally updates english_name if
-        it was previously empty.
-        """
-        if jp_name in self.map:
-            slug = self.map[jp_name]["slug"]
-            stored_eng = self.map[jp_name]["english_name"]
-            # If we have a better English name now, update it (but keep the slug)
-            if english_name and (not stored_eng or english_name != stored_eng):
-                self.map[jp_name]["english_name"] = english_name
+        primary = self.resolve(jp_name)
+        if primary in self.map:
+            entry = self.map[primary]
+            slug = entry["slug"]
+            stored_eng = entry.get("english_name", "")
+            if english_name and not stored_eng and not entry.get("manual_english", False):
+                entry["english_name"] = english_name
                 self.dirty = True
             return slug, False
         else:
-            # New movie: generate a slug from the English name
-            base_slug = generate_slug_from_english(english_name, jp_name)
-            # Check for collisions with existing slugs
-            existing_slugs = {v["slug"] for v in self.map.values()}
+            base_slug = generate_slug_from_english(english_name, primary)
+            existing_slugs = {v["slug"] for v in self.map.values() if "slug" in v}
             slug = base_slug
             if slug in existing_slugs:
-                # Append a short hash of the Japanese name to make it unique
-                h = hashlib.md5(jp_name.encode('utf-8')).hexdigest()[:6]
-                # Ensure we don't exceed 50 chars
+                h = hashlib.md5(primary.encode('utf-8')).hexdigest()[:6]
                 suffix = f"-{h}"
                 max_base_len = 50 - len(suffix)
                 slug = base_slug[:max_base_len] + suffix
-                # In the rare case that even that collides, add a counter
                 if slug in existing_slugs:
                     for i in range(1, 100):
                         alt = f"{base_slug[:48]}-{i}"[:50]
                         if alt not in existing_slugs:
                             slug = alt
                             break
-            self.map[jp_name] = {"slug": slug, "english_name": english_name or jp_name}
+            self.map[primary] = {
+                "slug": slug,
+                "english_name": english_name or primary,
+                "manual_english": False,
+                "manual_slug": False
+            }
             self.dirty = True
             return slug, True
 
 class MovieStore:
     def __init__(self, mapper):
         self.mapper = mapper
-        self.movies = {}          # slug -> {movie_name, jp_name, releaseDate, entries}
+        self.movies = {}
         self.dirty = set()
         self.lock = asyncio.Lock()
 
     async def load_all(self):
-        """
-        Load all movie JSON files. Groups by Japanese name, merges entries,
-        and writes a single consolidated file per movie. Removes duplicates.
-        """
         DATABASE_DIR.mkdir(parents=True, exist_ok=True)
-
-        # Temporary grouping: jp_name -> list of (slug, data)
         groups = defaultdict(list)
         for filepath in DATABASE_DIR.glob("*.json"):
             try:
@@ -183,68 +182,51 @@ class MovieStore:
                 slug = filepath.stem
                 jp_name = data.get("jp_name")
                 if not jp_name:
-                    logger.warning(f"File {filepath.name} missing jp_name, skipping")
                     continue
-                groups[jp_name].append((slug, data))
+                primary = self.mapper.resolve(jp_name)
+                groups[primary].append((slug, data))
             except Exception as e:
                 logger.warning(f"Failed to load {filepath}: {e}")
 
-        # Process each group
-        for jp_name, items in groups.items():
-            # Get canonical slug from mapper
-            canonical_slug = self.mapper.get_slug(jp_name)
+        for primary_jp, items in groups.items():
+            canonical_slug = self.mapper.get_slug(primary_jp)
             if not canonical_slug:
-                # Generate a new slug using the first item's English name
-                first_eng = items[0][1].get("movie_name", jp_name)
-                canonical_slug, _ = self.mapper.ensure_movie(jp_name, first_eng)
-                # mapper.ensure_movie already sets dirty
-            else:
-                # Ensure the mapper has the correct English name (use the first item)
-                first_eng = items[0][1].get("movie_name", jp_name)
-                self.mapper.ensure_movie(jp_name, first_eng)  # may update English name
+                first_eng = items[0][1].get("movie_name", primary_jp)
+                canonical_slug, _ = self.mapper.ensure_movie(primary_jp, first_eng)
+                await self.mapper.save()
 
-            # Merge entries from all files for this Japanese name
+            first_eng = items[0][1].get("movie_name", primary_jp)
+            self.mapper.ensure_movie(primary_jp, first_eng)
+
             merged_entries = []
-            seen = set()  # (date, time) to avoid duplicates
+            seen = set()
             for _, data in items:
                 for entry in data.get("entries", []):
                     key = (entry["date"], entry["time"])
                     if key not in seen:
                         merged_entries.append(entry)
                         seen.add(key)
-            # Sort entries by date, then by time order
-            def entry_sort_key(e):
-                try:
-                    dt = datetime.strptime(e["date"], "%d-%m-%Y")
-                except:
-                    dt = datetime.min
-                time_priority = TIME_ORDER.index(e["time"]) if e["time"] in TIME_ORDER else 999
-                return (dt, time_priority)
             merged_entries.sort(key=entry_sort_key)
 
-            # Determine release date: earliest date in entries
             release_dates = [datetime.strptime(e["date"], "%d-%m-%Y") for e in merged_entries if "date" in e]
             release_date = min(release_dates) if release_dates else datetime.now()
 
-            # Build consolidated movie data
             movie_data = {
-                "movie_name": self.mapper.get_english_name(jp_name) or items[0][1].get("movie_name", jp_name),
-                "jp_name": jp_name,
+                "movie_name": self.mapper.get_english_name(primary_jp) or items[0][1].get("movie_name", primary_jp),
+                "jp_name": primary_jp,
                 "releaseDate": format_date_str(release_date),
                 "entries": merged_entries
             }
 
-            # Write to canonical slug file
             filepath = DATABASE_DIR / f"{canonical_slug}.json"
             try:
                 async with aiofiles.open(filepath, 'w', encoding='utf-8') as f:
                     await f.write(json.dumps(movie_data, indent=2, ensure_ascii=False))
-                logger.info(f"Consolidated {jp_name} -> {canonical_slug}.json ({len(merged_entries)} entries)")
+                logger.info(f"Consolidated {primary_jp} -> {canonical_slug}.json ({len(merged_entries)} entries)")
             except Exception as e:
                 logger.error(f"Failed to write consolidated file {filepath}: {e}")
                 continue
 
-            # Delete all other files for this jp_name
             for slug, _ in items:
                 if slug != canonical_slug:
                     old_file = DATABASE_DIR / f"{slug}.json"
@@ -254,10 +236,8 @@ class MovieStore:
                     except Exception as e:
                         logger.warning(f"Could not delete {old_file}: {e}")
 
-            # Store in self.movies
             self.movies[canonical_slug] = movie_data
 
-        # Also load any files that may not have been grouped (should not happen)
         for filepath in DATABASE_DIR.glob("*.json"):
             slug = filepath.stem
             if slug not in self.movies:
@@ -267,8 +247,12 @@ class MovieStore:
                     self.movies[slug] = data
                     jp_name = data.get("jp_name")
                     if jp_name and not self.mapper.get_slug(jp_name):
-                        # Add to mapper
-                        self.mapper.map[jp_name] = {"slug": slug, "english_name": data.get("movie_name", jp_name)}
+                        self.mapper.map[jp_name] = {
+                            "slug": slug,
+                            "english_name": data.get("movie_name", jp_name),
+                            "manual_english": False,
+                            "manual_slug": False
+                        }
                         self.mapper.dirty = True
                 except Exception as e:
                     logger.warning(f"Failed to load {filepath}: {e}")
@@ -276,12 +260,12 @@ class MovieStore:
         await self.mapper.save()
 
     async def get_or_create(self, movie_name, jp_name, date_obj):
-        """Get or create a movie entry. Returns (slug, movie_data)."""
-        slug, is_new = self.mapper.ensure_movie(jp_name, movie_name)
+        primary_jp = self.mapper.resolve(jp_name)
+        slug, is_new = self.mapper.ensure_movie(primary_jp, movie_name)
         if is_new:
             movie_data = {
                 "movie_name": movie_name,
-                "jp_name": jp_name,
+                "jp_name": primary_jp,
                 "releaseDate": format_date_str(date_obj),
                 "entries": []
             }
@@ -292,14 +276,13 @@ class MovieStore:
             if not movie_data:
                 movie_data = {
                     "movie_name": movie_name,
-                    "jp_name": jp_name,
+                    "jp_name": primary_jp,
                     "releaseDate": format_date_str(date_obj),
                     "entries": []
                 }
                 self.movies[slug] = movie_data
                 self.dirty.add(slug)
             else:
-                # Update release date if earlier
                 existing_release = datetime.strptime(movie_data["releaseDate"], "%d-%m-%Y")
                 if date_obj < existing_release:
                     movie_data["releaseDate"] = format_date_str(date_obj)
@@ -309,7 +292,6 @@ class MovieStore:
     async def add_entry(self, slug, entry):
         async with self.lock:
             movie = self.movies[slug]
-            # Update or insert
             for i, e in enumerate(movie["entries"]):
                 if e["date"] == entry["date"] and e["time"] == entry["time"]:
                     movie["entries"][i] = entry
@@ -379,7 +361,6 @@ async def process_api_response(date_str, data, daywise_acc):
         time_raw = entry.get("time")
         time_label = TIME_MAP.get(time_raw, "Final")
 
-        # Determine actual date for this time slot
         if time_label == "Final":
             actual_date = api_date - timedelta(days=1)
         else:
@@ -393,7 +374,9 @@ async def process_api_response(date_str, data, daywise_acc):
 
         for movie in entry.get("data", []):
             movie_en = movie.get("movie_en") or movie["movie"]
-            jp_name = movie["movie"]
+            raw_jp = movie["movie"]
+            primary_jp = movie_slug_mapper.resolve(raw_jp)
+
             sales = movie["sales"]
             seats = movie["seats"]
             showtimes = movie["showtimes"]
@@ -401,7 +384,7 @@ async def process_api_response(date_str, data, daywise_acc):
             rank = movie["rank"]
             last_week_ratio = movie.get("last_week_ratio")
 
-            slug, _ = await movie_store.get_or_create(movie_en, jp_name, actual_date)
+            slug, _ = await movie_store.get_or_create(movie_en, primary_jp, actual_date)
             release_date = movie_store.get_release_date(slug)
 
             entry_obj = {
@@ -420,7 +403,7 @@ async def process_api_response(date_str, data, daywise_acc):
 
             daywise_entry = {
                 "moviename": movie_en,
-                "japanese name": jp_name,
+                "japanese name": primary_jp,
                 "sales": sales,
                 "seats": seats,
                 "showtimes": showtimes,
@@ -448,6 +431,61 @@ async def write_daywise(daywise_acc):
                 await f.write(json.dumps(file_data, indent=2, ensure_ascii=False))
         except Exception as e:
             logger.error(f"Failed to write {filepath}: {e}")
+
+async def rebuild_daywise_from_database():
+    """
+    Rebuild all daywise JSON files from the consolidated movie database.
+    This ensures that after corrections (merges, renames), the daywise
+    entries reflect the primary Japanese name and the correct movie_name.
+    """
+    logger.info("Rebuilding all daywise files from database...")
+    # Gather all movie data
+    movies = movie_store.get_all_movies()
+    # Build a dict: date_str -> dict of time -> list of entries
+    daywise_data = defaultdict(lambda: {t: [] for t in TIME_ORDER})
+
+    for movie in movies:
+        jp_name = movie["jp_name"]
+        movie_name = movie["movie_name"]
+        release_date = datetime.strptime(movie["releaseDate"], "%d-%m-%Y")
+        for entry in movie["entries"]:
+            date_str = entry["date"]
+            time_label = entry["time"]
+            if time_label not in TIME_ORDER:
+                continue  # should not happen
+            # Prepare a daywise entry (same structure as before)
+            day_entry = {
+                "moviename": movie_name,
+                "japanese name": jp_name,
+                "sales": entry["sales"],
+                "seats": entry["seats"],
+                "showtimes": entry["showtimes"],
+                "theaters": entry["theaters"],
+                "rank": entry["rank"],
+                "last_week_ratio": entry.get("last_week_ratio")
+            }
+            daywise_data[date_str][time_label].append(day_entry)
+
+    # Write each date file
+    for date_str, times_dict in daywise_data.items():
+        times_list = [
+            {
+                "title": "Including Independents",
+                "time": time_label,
+                "data": times_dict[time_label]
+            }
+            for time_label in TIME_ORDER
+        ]
+        file_data = {"date": date_str, "times": times_list}
+        filepath = DAYWISE_DIR / f"{date_str}.json"
+        filepath.parent.mkdir(parents=True, exist_ok=True)
+        try:
+            async with aiofiles.open(filepath, 'w', encoding='utf-8') as f:
+                await f.write(json.dumps(file_data, indent=2, ensure_ascii=False))
+        except Exception as e:
+            logger.error(f"Failed to write daywise {filepath}: {e}")
+
+    logger.info(f"Rebuilt {len(daywise_data)} daywise files.")
 
 async def build_yearly_index():
     all_movies = movie_store.get_all_movies()
@@ -483,10 +521,150 @@ async def build_yearly_index():
 
     logger.info("Yearly indices rebuilt.")
 
-async def main(full_fetch=False):
+async def apply_corrections():
+    """
+    Apply manual overrides from correctedslug.json.
+    Returns True if any changes were made.
+    """
+    if not CORRECTIONS_FILE.exists():
+        logger.info("No corrections file found, skipping.")
+        return False
+
+    try:
+        async with aiofiles.open(CORRECTIONS_FILE, 'r', encoding='utf-8') as f:
+            corrections = json.loads(await f.read())
+    except Exception as e:
+        logger.error(f"Failed to read corrections file: {e}")
+        return False
+
     await movie_slug_mapper.load()
+    changed = False
+
+    for primary_jp, data in corrections.items():
+        primary = movie_slug_mapper.resolve(primary_jp)
+        if primary != primary_jp:
+            logger.warning(f"Correction key '{primary_jp}' resolves to '{primary}'; using primary.")
+
+        if primary not in movie_slug_mapper.map:
+            movie_slug_mapper.map[primary] = {
+                "slug": generate_slug_from_english(data.get("new_english_name", primary), primary),
+                "english_name": data.get("new_english_name", primary),
+                "manual_english": False,
+                "manual_slug": False
+            }
+            changed = True
+
+        entry = movie_slug_mapper.map[primary]
+
+        if "new_slug" in data:
+            new_slug = data["new_slug"]
+            if entry.get("slug") != new_slug:
+                entry["slug"] = new_slug
+                entry["manual_slug"] = True
+                changed = True
+
+        if "new_english_name" in data:
+            new_name = data["new_english_name"]
+            if entry.get("english_name") != new_name:
+                entry["english_name"] = new_name
+                entry["manual_english"] = True
+                changed = True
+
+        if "merge" in data:
+            for merged_jp in data["merge"]:
+                if merged_jp == primary:
+                    continue
+                if movie_slug_mapper.map.get(merged_jp, {}).get("redirect") != primary:
+                    movie_slug_mapper.map[merged_jp] = {"redirect": primary}
+                    changed = True
+
+    if changed:
+        await movie_slug_mapper.save()
+        # Re‑consolidate the database files
+        await reconsolidate_movies()
+        # Rebuild daywise from the newly consolidated database
+        await rebuild_daywise_from_database()
+        logger.info("Corrections applied, database and daywise rebuilt.")
+    else:
+        logger.info("No corrections needed (already up‑to‑date).")
+
+    return changed
+
+async def reconsolidate_movies():
+    """Re‑write all database files from current mapper (merge, rename, delete orphans)."""
+    DATABASE_DIR.mkdir(parents=True, exist_ok=True)
+
+    groups = defaultdict(list)
+    for filepath in DATABASE_DIR.glob("*.json"):
+        try:
+            async with aiofiles.open(filepath, 'r', encoding='utf-8') as f:
+                data = json.loads(await f.read())
+            slug = filepath.stem
+            jp_name = data.get("jp_name")
+            if not jp_name:
+                continue
+            primary = movie_slug_mapper.resolve(jp_name)
+            groups[primary].append((slug, data))
+        except Exception as e:
+            logger.warning(f"Failed to read {filepath}: {e}")
+
+    for primary_jp, items in groups.items():
+        canonical_slug = movie_slug_mapper.get_slug(primary_jp)
+        if not canonical_slug:
+            eng = movie_slug_mapper.get_english_name(primary_jp) or primary_jp
+            canonical_slug, _ = movie_slug_mapper.ensure_movie(primary_jp, eng)
+            await movie_slug_mapper.save()
+
+        merged_entries = []
+        seen = set()
+        for _, data in items:
+            for entry in data.get("entries", []):
+                key = (entry["date"], entry["time"])
+                if key not in seen:
+                    merged_entries.append(entry)
+                    seen.add(key)
+        merged_entries.sort(key=entry_sort_key)
+
+        release_dates = [datetime.strptime(e["date"], "%d-%m-%Y") for e in merged_entries if "date" in e]
+        release_date = min(release_dates) if release_dates else datetime.now()
+
+        movie_data = {
+            "movie_name": movie_slug_mapper.get_english_name(primary_jp) or primary_jp,
+            "jp_name": primary_jp,
+            "releaseDate": format_date_str(release_date),
+            "entries": merged_entries
+        }
+
+        new_file = DATABASE_DIR / f"{canonical_slug}.json"
+        try:
+            async with aiofiles.open(new_file, 'w', encoding='utf-8') as f:
+                await f.write(json.dumps(movie_data, indent=2, ensure_ascii=False))
+        except Exception as e:
+            logger.error(f"Failed to write {new_file}: {e}")
+            continue
+
+        for slug, _ in items:
+            if slug != canonical_slug:
+                old_file = DATABASE_DIR / f"{slug}.json"
+                try:
+                    old_file.unlink()
+                    logger.info(f"Removed old file {old_file.name}")
+                except Exception as e:
+                    logger.warning(f"Could not delete {old_file}: {e}")
+
+        movie_store.movies[canonical_slug] = movie_data
+
+async def main(full_fetch=False):
+    # 1. Load mapper
+    await movie_slug_mapper.load()
+
+    # 2. Apply corrections (this now also rebuilds daywise if changed)
+    await apply_corrections()
+
+    # 3. Load all movie data (ensures database is up‑to‑date)
     await movie_store.load_all()
 
+    # 4. Fetch new data
     today = datetime.today().date()
     if full_fetch:
         start_date = START_DATE.date()
