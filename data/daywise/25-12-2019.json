@@ -6,6 +6,46 @@
       "time": "2PM",
       "data": [
         {
+          "moviename": "Frozen 2",
+          "japanese name": "アナと雪の女王２",
+          "sales": 70058,
+          "seats": 209340,
+          "showtimes": 797,
+          "theaters": 302,
+          "rank": 1,
+          "last_week_ratio": 276.9
+        },
+        {
+          "moviename": "Star Wars: The Skywalker Saga",
+          "japanese name": "スター・ウォーズ スカイウォーカーの夜明け",
+          "sales": 49577,
+          "seats": 295924,
+          "showtimes": 1193,
+          "theaters": 303,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE Heroes: Rising",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ヒーローズ：ライジング",
+          "sales": 17580,
+          "seats": 134220,
+          "showtimes": 696,
+          "theaters": 274,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "At 0:00 a.m., come and kiss me.",
+          "japanese name": "午前０時、キスしに来てよ",
+          "sales": 11571,
+          "seats": 26893,
+          "showtimes": 190,
+          "theaters": 220,
+          "rank": 4,
+          "last_week_ratio": 257
+        },
+        {
           "moviename": "Kamen Rider Reiwa: The First Generation",
           "japanese name": "仮面ライダー 令和 ザ・ファースト・ジェネレーション",
           "sales": 11163,
@@ -13,56 +53,6 @@
           "showtimes": 722,
           "theaters": 277,
           "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "(News) The Secret of Mr. Henri and Me",
-          "japanese name": "（カ新）ムッシュ・アンリと私の秘密",
-          "sales": 221,
-          "seats": 384,
-          "showtimes": 3,
-          "theaters": 1,
-          "rank": 23,
-          "last_week_ratio": 112.8
-        },
-        {
-          "moviename": "Sound of Music",
-          "japanese name": "サウンド・オブ・ミュージック",
-          "sales": 474,
-          "seats": 2070,
-          "showtimes": 20,
-          "theaters": 20,
-          "rank": 19,
-          "last_week_ratio": 108.5
-        },
-        {
-          "moviename": "West Side Story",
-          "japanese name": "ウエスト・サイド物語",
-          "sales": 276,
-          "seats": 2653,
-          "showtimes": 21,
-          "theaters": 22,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "IT: It’s the end. When “that” happens, it’s over.",
-          "japanese name": "ＩＴ イット ＴＨＥ ＥＮＤ ’それ”が見えたら、終わり。",
-          "sales": 194,
-          "seats": 1216,
-          "showtimes": 6,
-          "theaters": 41,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Jumanji / Next Level",
-          "japanese name": "ジュマンジ／ネクスト・レベル",
-          "sales": 4961,
-          "seats": 44588,
-          "showtimes": 347,
-          "theaters": 291,
-          "rank": 10,
           "last_week_ratio": null
         },
         {
@@ -74,26 +64,6 @@
           "theaters": 286,
           "rank": 6,
           "last_week_ratio": 1097.2
-        },
-        {
-          "moviename": "Movie Bunnysheeht UFO Fiever!",
-          "japanese name": "映画 ひつじのショーン ＵＦＯフィーバー！",
-          "sales": 2284,
-          "seats": 21189,
-          "showtimes": 153,
-          "theaters": 131,
-          "rank": 12,
-          "last_week_ratio": 196.4
-        },
-        {
-          "moviename": "Final accounts! Chūshingura",
-          "japanese name": "決算！忠臣蔵",
-          "sales": 1217,
-          "seats": 19544,
-          "showtimes": 142,
-          "theaters": 268,
-          "rank": 14,
-          "last_week_ratio": null
         },
         {
           "moviename": "Murder in the Corpse Mansion",
@@ -116,6 +86,26 @@
           "last_week_ratio": 178.8
         },
         {
+          "moviename": "Movie: Sumikko Gurashi: The Picture Book That Takes Off and the Secret Code",
+          "japanese name": "映画 すみっコぐらし とびだす絵本とひみつのコ",
+          "sales": 5230,
+          "seats": 40595,
+          "showtimes": 228,
+          "theaters": 147,
+          "rank": 9,
+          "last_week_ratio": 380.4
+        },
+        {
+          "moviename": "Jumanji / Next Level",
+          "japanese name": "ジュマンジ／ネクスト・レベル",
+          "sales": 4961,
+          "seats": 44588,
+          "showtimes": 347,
+          "theaters": 291,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Hick and the Dragon: Adventure to the Holy Land",
           "japanese name": "ヒックとドラゴン 聖地への冒険",
           "sales": 4593,
@@ -126,53 +116,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Frozen 2",
-          "japanese name": "アナと雪の女王２",
-          "sales": 70058,
-          "seats": 209340,
-          "showtimes": 797,
-          "theaters": 302,
-          "rank": 1,
-          "last_week_ratio": 276.9
+          "moviename": "Movie Bunnysheeht UFO Fiever!",
+          "japanese name": "映画 ひつじのショーン ＵＦＯフィーバー！",
+          "sales": 2284,
+          "seats": 21189,
+          "showtimes": 153,
+          "theaters": 131,
+          "rank": 12,
+          "last_week_ratio": 196.4
         },
         {
-          "moviename": "Last Christmas",
-          "japanese name": "ラスト・クリスマス",
-          "sales": 482,
-          "seats": 1994,
-          "showtimes": 13,
-          "theaters": 49,
-          "rank": 18,
+          "moviename": "Katsuben!",
+          "japanese name": "カツベン！",
+          "sales": 1991,
+          "seats": 28605,
+          "showtimes": 223,
+          "theaters": 238,
+          "rank": 13,
           "last_week_ratio": null
         },
         {
-          "moviename": "Star Wars: The Skywalker Saga",
-          "japanese name": "スター・ウォーズ スカイウォーカーの夜明け",
-          "sales": 49577,
-          "seats": 295924,
-          "showtimes": 1193,
-          "theaters": 303,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Ted Bundy",
-          "japanese name": "テッド・バンディ",
-          "sales": 773,
-          "seats": 2784,
-          "showtimes": 22,
-          "theaters": 23,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "City Hunter THE MOVIE The Most Fragrant Mission",
-          "japanese name": "シティーハンター ＴＨＥ ＭＯＶＩＥ 史上最香のミッション",
-          "sales": 226,
-          "seats": 2743,
-          "showtimes": 17,
-          "theaters": 52,
-          "rank": 22,
+          "moviename": "Final accounts! Chūshingura",
+          "japanese name": "決算！忠臣蔵",
+          "sales": 1217,
+          "seats": 19544,
+          "showtimes": 142,
+          "theaters": 268,
+          "rank": 14,
           "last_week_ratio": null
         },
         {
@@ -186,6 +156,16 @@
           "last_week_ratio": 108.7
         },
         {
+          "moviename": "Ted Bundy",
+          "japanese name": "テッド・バンディ",
+          "sales": 773,
+          "seats": 2784,
+          "showtimes": 22,
+          "theaters": 23,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "In some far-off corners of this world (and many more like them)",
           "japanese name": "この世界の（さらにいくつもの）片隅に",
           "sales": 539,
@@ -196,34 +176,24 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "FOR REAL 2019 – The moments that never return, and what remains behind. –",
-          "japanese name": "ＦＯＲ ＲＥＡＬ ２０１９ －戻らない瞬間、残されるもの。－",
-          "sales": 185,
-          "seats": 460,
-          "showtimes": 3,
-          "theaters": 3,
-          "rank": 25,
+          "moviename": "Last Christmas",
+          "japanese name": "ラスト・クリスマス",
+          "sales": 482,
+          "seats": 1994,
+          "showtimes": 13,
+          "theaters": 49,
+          "rank": 18,
           "last_week_ratio": null
         },
         {
-          "moviename": "Movie: Sumikko Gurashi: The Picture Book That Takes Off and the Secret Code",
-          "japanese name": "映画 すみっコぐらし とびだす絵本とひみつのコ",
-          "sales": 5230,
-          "seats": 40595,
-          "showtimes": 228,
-          "theaters": 147,
-          "rank": 9,
-          "last_week_ratio": 380.4
-        },
-        {
-          "moviename": "At 0:00 a.m., come and kiss me.",
-          "japanese name": "午前０時、キスしに来てよ",
-          "sales": 11571,
-          "seats": 26893,
-          "showtimes": 190,
-          "theaters": 220,
-          "rank": 4,
-          "last_week_ratio": 257
+          "moviename": "Sound of Music",
+          "japanese name": "サウンド・オブ・ミュージック",
+          "sales": 474,
+          "seats": 2070,
+          "showtimes": 20,
+          "theaters": 20,
+          "rank": 19,
+          "last_week_ratio": 108.5
         },
         {
           "moviename": "Joker",
@@ -236,23 +206,53 @@
           "last_week_ratio": 120.3
         },
         {
-          "moviename": "Katsuben!",
-          "japanese name": "カツベン！",
-          "sales": 1991,
-          "seats": 28605,
-          "showtimes": 223,
-          "theaters": 238,
-          "rank": 13,
+          "moviename": "West Side Story",
+          "japanese name": "ウエスト・サイド物語",
+          "sales": 276,
+          "seats": 2653,
+          "showtimes": 21,
+          "theaters": 22,
+          "rank": 21,
           "last_week_ratio": null
         },
         {
-          "moviename": "My Hero Academia THE MOVIE Heroes: Rising",
-          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ヒーローズ：ライジング",
-          "sales": 17580,
-          "seats": 134220,
-          "showtimes": 696,
-          "theaters": 274,
-          "rank": 3,
+          "moviename": "City Hunter THE MOVIE The Most Fragrant Mission",
+          "japanese name": "シティーハンター ＴＨＥ ＭＯＶＩＥ 史上最香のミッション",
+          "sales": 226,
+          "seats": 2743,
+          "showtimes": 17,
+          "theaters": 52,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "(News) The Secret of Mr. Henri and Me",
+          "japanese name": "（カ新）ムッシュ・アンリと私の秘密",
+          "sales": 221,
+          "seats": 384,
+          "showtimes": 3,
+          "theaters": 1,
+          "rank": 23,
+          "last_week_ratio": 112.8
+        },
+        {
+          "moviename": "IT: It’s the end. When “that” happens, it’s over.",
+          "japanese name": "ＩＴ イット ＴＨＥ ＥＮＤ ’それ”が見えたら、終わり。",
+          "sales": 194,
+          "seats": 1216,
+          "showtimes": 6,
+          "theaters": 41,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "FOR REAL 2019 – The moments that never return, and what remains behind. –",
+          "japanese name": "ＦＯＲ ＲＥＡＬ ２０１９ －戻らない瞬間、残されるもの。－",
+          "sales": 185,
+          "seats": 460,
+          "showtimes": 3,
+          "theaters": 3,
+          "rank": 25,
           "last_week_ratio": null
         }
       ]
@@ -262,6 +262,56 @@
       "time": "7PM",
       "data": [
         {
+          "moviename": "Frozen 2",
+          "japanese name": "アナと雪の女王２",
+          "sales": 112375,
+          "seats": 329842,
+          "showtimes": 1369,
+          "theaters": 302,
+          "rank": 1,
+          "last_week_ratio": 219.6
+        },
+        {
+          "moviename": "Star Wars: The Skywalker Saga",
+          "japanese name": "スター・ウォーズ スカイウォーカーの夜明け",
+          "sales": 85428,
+          "seats": 478297,
+          "showtimes": 2068,
+          "theaters": 303,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE Heroes: Rising",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ヒーローズ：ライジング",
+          "sales": 29860,
+          "seats": 211659,
+          "showtimes": 1126,
+          "theaters": 274,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "At 0:00 a.m., come and kiss me.",
+          "japanese name": "午前０時、キスしに来てよ",
+          "sales": 21074,
+          "seats": 52649,
+          "showtimes": 370,
+          "theaters": 220,
+          "rank": 4,
+          "last_week_ratio": 186.7
+        },
+        {
+          "moviename": "Murder in the Corpse Mansion",
+          "japanese name": "屍人荘の殺人",
+          "sales": 17217,
+          "seats": 103262,
+          "showtimes": 777,
+          "theaters": 274,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Kamen Rider Reiwa: The First Generation",
           "japanese name": "仮面ライダー 令和 ザ・ファースト・ジェネレーション",
           "sales": 15290,
@@ -269,46 +319,6 @@
           "showtimes": 1069,
           "theaters": 277,
           "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "(News) The Secret of Mr. Henri and Me",
-          "japanese name": "（カ新）ムッシュ・アンリと私の秘密",
-          "sales": 441,
-          "seats": 640,
-          "showtimes": 5,
-          "theaters": 1,
-          "rank": 25,
-          "last_week_ratio": 139.1
-        },
-        {
-          "moviename": "Sound of Music",
-          "japanese name": "サウンド・オブ・ミュージック",
-          "sales": 474,
-          "seats": 2070,
-          "showtimes": 20,
-          "theaters": 20,
-          "rank": 22,
-          "last_week_ratio": 108.5
-        },
-        {
-          "moviename": "IT: It’s the end. When “that” happens, it’s over.",
-          "japanese name": "ＩＴ イット ＴＨＥ ＥＮＤ ’それ”が見えたら、終わり。",
-          "sales": 599,
-          "seats": 3618,
-          "showtimes": 24,
-          "theaters": 41,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Jumanji / Next Level",
-          "japanese name": "ジュマンジ／ネクスト・レベル",
-          "sales": 11086,
-          "seats": 87769,
-          "showtimes": 680,
-          "theaters": 291,
-          "rank": 8,
           "last_week_ratio": null
         },
         {
@@ -322,43 +332,13 @@
           "last_week_ratio": 550.5
         },
         {
-          "moviename": "Movie Bunnysheeht UFO Fiever!",
-          "japanese name": "映画 ひつじのショーン ＵＦＯフィーバー！",
-          "sales": 3171,
-          "seats": 27171,
-          "showtimes": 199,
-          "theaters": 131,
-          "rank": 13,
-          "last_week_ratio": 149.9
-        },
-        {
-          "moviename": "Terminator: New Fate",
-          "japanese name": "ターミネーター ニュー・フェイト",
-          "sales": 451,
-          "seats": 5733,
-          "showtimes": 43,
-          "theaters": 117,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Final accounts! Chūshingura",
-          "japanese name": "決算！忠臣蔵",
-          "sales": 2029,
-          "seats": 32658,
-          "showtimes": 241,
-          "theaters": 268,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Murder in the Corpse Mansion",
-          "japanese name": "屍人荘の殺人",
-          "sales": 17217,
-          "seats": 103262,
-          "showtimes": 777,
-          "theaters": 274,
-          "rank": 5,
+          "moviename": "Jumanji / Next Level",
+          "japanese name": "ジュマンジ／ネクスト・レベル",
+          "sales": 11086,
+          "seats": 87769,
+          "showtimes": 680,
+          "theaters": 291,
+          "rank": 8,
           "last_week_ratio": null
         },
         {
@@ -372,86 +352,6 @@
           "last_week_ratio": 157.2
         },
         {
-          "moviename": "Hick and the Dragon: Adventure to the Holy Land",
-          "japanese name": "ヒックとドラゴン 聖地への冒険",
-          "sales": 7139,
-          "seats": 113525,
-          "showtimes": 849,
-          "theaters": 260,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Frozen 2",
-          "japanese name": "アナと雪の女王２",
-          "sales": 112375,
-          "seats": 329842,
-          "showtimes": 1369,
-          "theaters": 302,
-          "rank": 1,
-          "last_week_ratio": 219.6
-        },
-        {
-          "moviename": "Last Christmas",
-          "japanese name": "ラスト・クリスマス",
-          "sales": 2382,
-          "seats": 6532,
-          "showtimes": 43,
-          "theaters": 49,
-          "rank": 15,
-          "last_week_ratio": 116.4
-        },
-        {
-          "moviename": "Star Wars: The Skywalker Saga",
-          "japanese name": "スター・ウォーズ スカイウォーカーの夜明け",
-          "sales": 85428,
-          "seats": 478297,
-          "showtimes": 2068,
-          "theaters": 303,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Ted Bundy",
-          "japanese name": "テッド・バンディ",
-          "sales": 1679,
-          "seats": 5951,
-          "showtimes": 46,
-          "theaters": 23,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "City Hunter THE MOVIE The Most Fragrant Mission",
-          "japanese name": "シティーハンター ＴＨＥ ＭＯＶＩＥ 史上最香のミッション",
-          "sales": 479,
-          "seats": 5792,
-          "showtimes": 40,
-          "theaters": 52,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Our Seven-Day War",
-          "japanese name": "ぼくらの７日間戦争",
-          "sales": 2538,
-          "seats": 23852,
-          "showtimes": 172,
-          "theaters": 168,
-          "rank": 14,
-          "last_week_ratio": 126.9
-        },
-        {
-          "moviename": "In some far-off corners of this world (and many more like them)",
-          "japanese name": "この世界の（さらにいくつもの）片隅に",
-          "sales": 771,
-          "seats": 4156,
-          "showtimes": 32,
-          "theaters": 20,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Movie: Sumikko Gurashi: The Picture Book That Takes Off and the Secret Code",
           "japanese name": "映画 すみっコぐらし とびだす絵本とひみつのコ",
           "sales": 7292,
@@ -462,23 +362,13 @@
           "last_week_ratio": 262.5
         },
         {
-          "moviename": "At 0:00 a.m., come and kiss me.",
-          "japanese name": "午前０時、キスしに来てよ",
-          "sales": 21074,
-          "seats": 52649,
-          "showtimes": 370,
-          "theaters": 220,
-          "rank": 4,
-          "last_week_ratio": 186.7
-        },
-        {
-          "moviename": "Joker",
-          "japanese name": "ジョーカー",
-          "sales": 469,
-          "seats": 2224,
-          "showtimes": 16,
-          "theaters": 39,
-          "rank": 23,
+          "moviename": "Hick and the Dragon: Adventure to the Holy Land",
+          "japanese name": "ヒックとドラゴン 聖地への冒険",
+          "sales": 7139,
+          "seats": 113525,
+          "showtimes": 849,
+          "theaters": 260,
+          "rank": 11,
           "last_week_ratio": null
         },
         {
@@ -492,6 +382,56 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Movie Bunnysheeht UFO Fiever!",
+          "japanese name": "映画 ひつじのショーン ＵＦＯフィーバー！",
+          "sales": 3171,
+          "seats": 27171,
+          "showtimes": 199,
+          "theaters": 131,
+          "rank": 13,
+          "last_week_ratio": 149.9
+        },
+        {
+          "moviename": "Our Seven-Day War",
+          "japanese name": "ぼくらの７日間戦争",
+          "sales": 2538,
+          "seats": 23852,
+          "showtimes": 172,
+          "theaters": 168,
+          "rank": 14,
+          "last_week_ratio": 126.9
+        },
+        {
+          "moviename": "Last Christmas",
+          "japanese name": "ラスト・クリスマス",
+          "sales": 2382,
+          "seats": 6532,
+          "showtimes": 43,
+          "theaters": 49,
+          "rank": 15,
+          "last_week_ratio": 116.4
+        },
+        {
+          "moviename": "Final accounts! Chūshingura",
+          "japanese name": "決算！忠臣蔵",
+          "sales": 2029,
+          "seats": 32658,
+          "showtimes": 241,
+          "theaters": 268,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ted Bundy",
+          "japanese name": "テッド・バンディ",
+          "sales": 1679,
+          "seats": 5951,
+          "showtimes": 46,
+          "theaters": 23,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Doctor Sleep",
           "japanese name": "ドクター・スリープ",
           "sales": 1322,
@@ -502,21 +442,332 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "My Hero Academia THE MOVIE Heroes: Rising",
-          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ヒーローズ：ライジング",
-          "sales": 29860,
-          "seats": 211659,
-          "showtimes": 1126,
-          "theaters": 274,
-          "rank": 3,
+          "moviename": "In some far-off corners of this world (and many more like them)",
+          "japanese name": "この世界の（さらにいくつもの）片隅に",
+          "sales": 771,
+          "seats": 4156,
+          "showtimes": 32,
+          "theaters": 20,
+          "rank": 19,
           "last_week_ratio": null
+        },
+        {
+          "moviename": "IT: It’s the end. When “that” happens, it’s over.",
+          "japanese name": "ＩＴ イット ＴＨＥ ＥＮＤ ’それ”が見えたら、終わり。",
+          "sales": 599,
+          "seats": 3618,
+          "showtimes": 24,
+          "theaters": 41,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "City Hunter THE MOVIE The Most Fragrant Mission",
+          "japanese name": "シティーハンター ＴＨＥ ＭＯＶＩＥ 史上最香のミッション",
+          "sales": 479,
+          "seats": 5792,
+          "showtimes": 40,
+          "theaters": 52,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sound of Music",
+          "japanese name": "サウンド・オブ・ミュージック",
+          "sales": 474,
+          "seats": 2070,
+          "showtimes": 20,
+          "theaters": 20,
+          "rank": 22,
+          "last_week_ratio": 108.5
+        },
+        {
+          "moviename": "Joker",
+          "japanese name": "ジョーカー",
+          "sales": 469,
+          "seats": 2224,
+          "showtimes": 16,
+          "theaters": 39,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Terminator: New Fate",
+          "japanese name": "ターミネーター ニュー・フェイト",
+          "sales": 451,
+          "seats": 5733,
+          "showtimes": 43,
+          "theaters": 117,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "(News) The Secret of Mr. Henri and Me",
+          "japanese name": "（カ新）ムッシュ・アンリと私の秘密",
+          "sales": 441,
+          "seats": 640,
+          "showtimes": 5,
+          "theaters": 1,
+          "rank": 25,
+          "last_week_ratio": 139.1
         }
       ]
     },
     {
       "title": "Including Independents",
       "time": "Final",
-      "data": []
+      "data": [
+        {
+          "moviename": "Frozen 2",
+          "japanese name": "アナと雪の女王２",
+          "sales": 118563,
+          "seats": 376883,
+          "showtimes": 1634,
+          "theaters": 302,
+          "rank": 1,
+          "last_week_ratio": 206
+        },
+        {
+          "moviename": "Star Wars: The Skywalker Saga",
+          "japanese name": "スター・ウォーズ スカイウォーカーの夜明け",
+          "sales": 100156,
+          "seats": 581885,
+          "showtimes": 2622,
+          "theaters": 303,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE Heroes: Rising",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ヒーローズ：ライジング",
+          "sales": 33019,
+          "seats": 254653,
+          "showtimes": 1373,
+          "theaters": 274,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "At 0:00 a.m., come and kiss me.",
+          "japanese name": "午前０時、キスしに来てよ",
+          "sales": 21864,
+          "seats": 60874,
+          "showtimes": 432,
+          "theaters": 220,
+          "rank": 4,
+          "last_week_ratio": 167.3
+        },
+        {
+          "moviename": "Murder in the Corpse Mansion",
+          "japanese name": "屍人荘の殺人",
+          "sales": 18835,
+          "seats": 132709,
+          "showtimes": 1003,
+          "theaters": 274,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kamen Rider Reiwa: The First Generation",
+          "japanese name": "仮面ライダー 令和 ザ・ファースト・ジェネレーション",
+          "sales": 15807,
+          "seats": 189691,
+          "showtimes": 1117,
+          "theaters": 277,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Gakuen Y: Can Cats Become HEROES?",
+          "japanese name": "映画 妖怪学園Ｙ 猫はＨＥＲＯになれるか",
+          "sales": 13051,
+          "seats": 122600,
+          "showtimes": 917,
+          "theaters": 286,
+          "rank": 7,
+          "last_week_ratio": 535.8
+        },
+        {
+          "moviename": "Jumanji / Next Level",
+          "japanese name": "ジュマンジ／ネクスト・レベル",
+          "sales": 12489,
+          "seats": 113797,
+          "showtimes": 881,
+          "theaters": 291,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Lupin III: The First",
+          "japanese name": "ルパン三世 ＴＨＥ ＦＩＲＳＴ",
+          "sales": 11630,
+          "seats": 126353,
+          "showtimes": 882,
+          "theaters": 294,
+          "rank": 9,
+          "last_week_ratio": 142.7
+        },
+        {
+          "moviename": "Hick and the Dragon: Adventure to the Holy Land",
+          "japanese name": "ヒックとドラゴン 聖地への冒険",
+          "sales": 7729,
+          "seats": 134242,
+          "showtimes": 989,
+          "theaters": 260,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Sumikko Gurashi: The Picture Book That Takes Off and the Secret Code",
+          "japanese name": "映画 すみっコぐらし とびだす絵本とひみつのコ",
+          "sales": 7501,
+          "seats": 53785,
+          "showtimes": 304,
+          "theaters": 147,
+          "rank": 11,
+          "last_week_ratio": 240.5
+        },
+        {
+          "moviename": "Katsuben!",
+          "japanese name": "カツベン！",
+          "sales": 3395,
+          "seats": 53268,
+          "showtimes": 429,
+          "theaters": 238,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Bunnysheeht UFO Fiever!",
+          "japanese name": "映画 ひつじのショーン ＵＦＯフィーバー！",
+          "sales": 3184,
+          "seats": 27812,
+          "showtimes": 203,
+          "theaters": 131,
+          "rank": 13,
+          "last_week_ratio": 140.9
+        },
+        {
+          "moviename": "Our Seven-Day War",
+          "japanese name": "ぼくらの７日間戦争",
+          "sales": 2824,
+          "seats": 30903,
+          "showtimes": 219,
+          "theaters": 168,
+          "rank": 14,
+          "last_week_ratio": 114.8
+        },
+        {
+          "moviename": "Last Christmas",
+          "japanese name": "ラスト・クリスマス",
+          "sales": 2697,
+          "seats": 8715,
+          "showtimes": 55,
+          "theaters": 49,
+          "rank": 15,
+          "last_week_ratio": 107.2
+        },
+        {
+          "moviename": "Doctor Sleep",
+          "japanese name": "ドクター・スリープ",
+          "sales": 2179,
+          "seats": 36006,
+          "showtimes": 252,
+          "theaters": 262,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Final accounts! Chūshingura",
+          "japanese name": "決算！忠臣蔵",
+          "sales": 2088,
+          "seats": 35439,
+          "showtimes": 262,
+          "theaters": 268,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ted Bundy",
+          "japanese name": "テッド・バンディ",
+          "sales": 1802,
+          "seats": 8131,
+          "showtimes": 60,
+          "theaters": 23,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Terminator: New Fate",
+          "japanese name": "ターミネーター ニュー・フェイト",
+          "sales": 858,
+          "seats": 13822,
+          "showtimes": 103,
+          "theaters": 117,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "IT: It’s the end. When “that” happens, it’s over.",
+          "japanese name": "ＩＴ イット ＴＨＥ ＥＮＤ ’それ”が見えたら、終わり。",
+          "sales": 845,
+          "seats": 5554,
+          "showtimes": 41,
+          "theaters": 41,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "In some far-off corners of this world (and many more like them)",
+          "japanese name": "この世界の（さらにいくつもの）片隅に",
+          "sales": 842,
+          "seats": 4928,
+          "showtimes": 37,
+          "theaters": 20,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Joker",
+          "japanese name": "ジョーカー",
+          "sales": 661,
+          "seats": 5406,
+          "showtimes": 38,
+          "theaters": 39,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "City Hunter THE MOVIE The Most Fragrant Mission",
+          "japanese name": "シティーハンター ＴＨＥ ＭＯＶＩＥ 史上最香のミッション",
+          "sales": 592,
+          "seats": 8150,
+          "showtimes": 53,
+          "theaters": 52,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sound of Music",
+          "japanese name": "サウンド・オブ・ミュージック",
+          "sales": 474,
+          "seats": 2070,
+          "showtimes": 20,
+          "theaters": 20,
+          "rank": 24,
+          "last_week_ratio": 108
+        },
+        {
+          "moviename": "(News) The Secret of Mr. Henri and Me",
+          "japanese name": "（カ新）ムッシュ・アンリと私の秘密",
+          "sales": 441,
+          "seats": 640,
+          "showtimes": 5,
+          "theaters": 1,
+          "rank": 25,
+          "last_week_ratio": 139.1
+        }
+      ]
     }
   ]
 }

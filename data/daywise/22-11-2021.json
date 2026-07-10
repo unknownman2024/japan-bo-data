@@ -6,6 +6,46 @@
       "time": "2PM",
       "data": [
         {
+          "moviename": "Movie: Sumikko Gurashi: The Magic of the Blue Moonlit Night",
+          "japanese name": "映画 すみっコぐらし 青い月夜のまほうのコ",
+          "sales": 10930,
+          "seats": 125202,
+          "showtimes": 561,
+          "theaters": 174,
+          "rank": 1,
+          "last_week_ratio": 158.7
+        },
+        {
+          "moviename": "I don’t have any money saved for my retirement!",
+          "japanese name": "老後の資金がありません！",
+          "sales": 8790,
+          "seats": 83023,
+          "showtimes": 543,
+          "theaters": 272,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tiger's Song FINAL",
+          "japanese name": "土竜の唄 ＦＩＮＡＬ",
+          "sales": 8218,
+          "seats": 231091,
+          "showtimes": 731,
+          "theaters": 275,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical version of “What Did You Eat Yesterday?”",
+          "japanese name": "劇場版「きのう何食べた？」",
+          "sales": 7813,
+          "seats": 84201,
+          "showtimes": 474,
+          "theaters": 257,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "And then, the baton was passed on.",
           "japanese name": "そして、バトンは渡された",
           "sales": 6225,
@@ -16,24 +56,44 @@
           "last_week_ratio": 117.8
         },
         {
-          "moviename": "Harry Potter and the Sorcerer's Stone",
-          "japanese name": "ハリー・ポッターと賢者の石",
-          "sales": 444,
-          "seats": 4104,
-          "showtimes": 14,
-          "theaters": 26,
-          "rank": 22,
+          "moviename": "Eternals",
+          "japanese name": "エターナルズ",
+          "sales": 6193,
+          "seats": 96970,
+          "showtimes": 554,
+          "theaters": 292,
+          "rank": 6,
           "last_week_ratio": null
         },
         {
-          "moviename": "Theatrical Version: Lupin’s Daughter",
-          "japanese name": "劇場版 ルパンの娘",
-          "sales": 481,
-          "seats": 6314,
-          "showtimes": 50,
-          "theaters": 148,
-          "rank": 21,
+          "moviename": "Sword Art Online: The Movie – Progressive, Aria in a Starless Night",
+          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア",
+          "sales": 2938,
+          "seats": 60798,
+          "showtimes": 347,
+          "theaters": 175,
+          "rank": 7,
           "last_week_ratio": null
+        },
+        {
+          "moviename": "007: No Time to Die",
+          "japanese name": "００７ ノー・タイム・トゥ・ダイ",
+          "sales": 2552,
+          "seats": 15054,
+          "showtimes": 99,
+          "theaters": 256,
+          "rank": 8,
+          "last_week_ratio": 186.8
+        },
+        {
+          "moviename": "Burn, sword!",
+          "japanese name": "燃えよ剣",
+          "sales": 2230,
+          "seats": 29114,
+          "showtimes": 237,
+          "theaters": 270,
+          "rank": 9,
+          "last_week_ratio": 150.9
         },
         {
           "moviename": "ARASHI 5×20 Film",
@@ -44,26 +104,6 @@
           "theaters": 5,
           "rank": 10,
           "last_week_ratio": 106.3
-        },
-        {
-          "moviename": "Ice Road",
-          "japanese name": "アイス・ロード",
-          "sales": 1334,
-          "seats": 26262,
-          "showtimes": 210,
-          "theaters": 195,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "ONE FOR KENGO THE MOVIE…",
-          "japanese name": "ＯＮＥ ＦＯＵＲ ＫＥＮＧＯ ＴＨＥ ＭＯＶＩＥ…",
-          "sales": 428,
-          "seats": 1240,
-          "showtimes": 4,
-          "theaters": 2,
-          "rank": 23,
-          "last_week_ratio": null
         },
         {
           "moviename": "Movie Tropical～Ju! Pretty Cure: The Snow Princess and the Miracle Ring",
@@ -86,6 +126,66 @@
           "last_week_ratio": 149.4
         },
         {
+          "moviename": "Ice Road",
+          "japanese name": "アイス・ロード",
+          "sales": 1334,
+          "seats": 26262,
+          "showtimes": 210,
+          "theaters": 195,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A fool who doesn’t know how to pick plums",
+          "japanese name": "梅切らぬバカ",
+          "sales": 1262,
+          "seats": 10944,
+          "showtimes": 79,
+          "theaters": 39,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Respect",
+          "japanese name": "リスペクト",
+          "sales": 1094,
+          "seats": 11978,
+          "showtimes": 101,
+          "theaters": 204,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ten Gokaijaer",
+          "japanese name": "テン・ゴーカイジャー",
+          "sales": 792,
+          "seats": 13502,
+          "showtimes": 74,
+          "theaters": 36,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let me hear Ai’s singing.",
+          "japanese name": "アイの歌声を聴かせて",
+          "sales": 674,
+          "seats": 8332,
+          "showtimes": 64,
+          "theaters": 212,
+          "rank": 17,
+          "last_week_ratio": 112
+        },
+        {
+          "moviename": "Do you plan to stay single forever?",
+          "japanese name": "ずっと独身でいるつもり？",
+          "sales": 564,
+          "seats": 10789,
+          "showtimes": 67,
+          "theaters": 34,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Malignant: Fierce nightmares",
           "japanese name": "マリグナント 狂暴な悪夢",
           "sales": 531,
@@ -106,33 +206,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Do you plan to stay single forever?",
-          "japanese name": "ずっと独身でいるつもり？",
-          "sales": 564,
-          "seats": 10789,
-          "showtimes": 67,
-          "theaters": 34,
-          "rank": 18,
+          "moviename": "Theatrical Version: Lupin’s Daughter",
+          "japanese name": "劇場版 ルパンの娘",
+          "sales": 481,
+          "seats": 6314,
+          "showtimes": 50,
+          "theaters": 148,
+          "rank": 21,
           "last_week_ratio": null
         },
         {
-          "moviename": "007: No Time to Die",
-          "japanese name": "００７ ノー・タイム・トゥ・ダイ",
-          "sales": 2552,
-          "seats": 15054,
-          "showtimes": 99,
-          "theaters": 256,
-          "rank": 8,
-          "last_week_ratio": 186.8
+          "moviename": "Harry Potter and the Sorcerer's Stone",
+          "japanese name": "ハリー・ポッターと賢者の石",
+          "sales": 444,
+          "seats": 4104,
+          "showtimes": 14,
+          "theaters": 26,
+          "rank": 22,
+          "last_week_ratio": null
         },
         {
-          "moviename": "Tiger's Song FINAL",
-          "japanese name": "土竜の唄 ＦＩＮＡＬ",
-          "sales": 8218,
-          "seats": 231091,
-          "showtimes": 731,
-          "theaters": 275,
-          "rank": 3,
+          "moviename": "ONE FOR KENGO THE MOVIE…",
+          "japanese name": "ＯＮＥ ＦＯＵＲ ＫＥＮＧＯ ＴＨＥ ＭＯＶＩＥ…",
+          "sales": 428,
+          "seats": 1240,
+          "showtimes": 4,
+          "theaters": 2,
+          "rank": 23,
           "last_week_ratio": null
         },
         {
@@ -144,106 +244,6 @@
           "theaters": 16,
           "rank": 24,
           "last_week_ratio": null
-        },
-        {
-          "moviename": "Ten Gokaijaer",
-          "japanese name": "テン・ゴーカイジャー",
-          "sales": 792,
-          "seats": 13502,
-          "showtimes": 74,
-          "theaters": 36,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Burn, sword!",
-          "japanese name": "燃えよ剣",
-          "sales": 2230,
-          "seats": 29114,
-          "showtimes": 237,
-          "theaters": 270,
-          "rank": 9,
-          "last_week_ratio": 150.9
-        },
-        {
-          "moviename": "Sword Art Online: The Movie – Progressive, Aria in a Starless Night",
-          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア",
-          "sales": 2938,
-          "seats": 60798,
-          "showtimes": 347,
-          "theaters": 175,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical version of “What Did You Eat Yesterday?”",
-          "japanese name": "劇場版「きのう何食べた？」",
-          "sales": 7813,
-          "seats": 84201,
-          "showtimes": 474,
-          "theaters": 257,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "A fool who doesn’t know how to pick plums",
-          "japanese name": "梅切らぬバカ",
-          "sales": 1262,
-          "seats": 10944,
-          "showtimes": 79,
-          "theaters": 39,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "I don’t have any money saved for my retirement!",
-          "japanese name": "老後の資金がありません！",
-          "sales": 8790,
-          "seats": 83023,
-          "showtimes": 543,
-          "theaters": 272,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie: Sumikko Gurashi: The Magic of the Blue Moonlit Night",
-          "japanese name": "映画 すみっコぐらし 青い月夜のまほうのコ",
-          "sales": 10930,
-          "seats": 125202,
-          "showtimes": 561,
-          "theaters": 174,
-          "rank": 1,
-          "last_week_ratio": 158.7
-        },
-        {
-          "moviename": "Eternals",
-          "japanese name": "エターナルズ",
-          "sales": 6193,
-          "seats": 96970,
-          "showtimes": 554,
-          "theaters": 292,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Respect",
-          "japanese name": "リスペクト",
-          "sales": 1094,
-          "seats": 11978,
-          "showtimes": 101,
-          "theaters": 204,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Let me hear Ai’s singing.",
-          "japanese name": "アイの歌声を聴かせて",
-          "sales": 674,
-          "seats": 8332,
-          "showtimes": 64,
-          "theaters": 212,
-          "rank": 17,
-          "last_week_ratio": 112
         },
         {
           "moviename": "A Parasite in Love",
@@ -262,6 +262,26 @@
       "time": "7PM",
       "data": [
         {
+          "moviename": "Movie: Sumikko Gurashi: The Magic of the Blue Moonlit Night",
+          "japanese name": "映画 すみっコぐらし 青い月夜のまほうのコ",
+          "sales": 15462,
+          "seats": 205468,
+          "showtimes": 946,
+          "theaters": 174,
+          "rank": 1,
+          "last_week_ratio": 163.6
+        },
+        {
+          "moviename": "Tiger's Song FINAL",
+          "japanese name": "土竜の唄 ＦＩＮＡＬ",
+          "sales": 14396,
+          "seats": 446822,
+          "showtimes": 1399,
+          "theaters": 275,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "And then, the baton was passed on.",
           "japanese name": "そして、バトンは渡された",
           "sales": 12457,
@@ -270,6 +290,186 @@
           "theaters": 281,
           "rank": 3,
           "last_week_ratio": 119.1
+        },
+        {
+          "moviename": "Theatrical version of “What Did You Eat Yesterday?”",
+          "japanese name": "劇場版「きのう何食べた？」",
+          "sales": 11695,
+          "seats": 150146,
+          "showtimes": 832,
+          "theaters": 257,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I don’t have any money saved for my retirement!",
+          "japanese name": "老後の資金がありません！",
+          "sales": 11226,
+          "seats": 119706,
+          "showtimes": 788,
+          "theaters": 272,
+          "rank": 5,
+          "last_week_ratio": 100.4
+        },
+        {
+          "moviename": "Eternals",
+          "japanese name": "エターナルズ",
+          "sales": 10269,
+          "seats": 171246,
+          "showtimes": 982,
+          "theaters": 292,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sword Art Online: The Movie – Progressive, Aria in a Starless Night",
+          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア",
+          "sales": 5582,
+          "seats": 112628,
+          "showtimes": 653,
+          "theaters": 175,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "007: No Time to Die",
+          "japanese name": "００７ ノー・タイム・トゥ・ダイ",
+          "sales": 4456,
+          "seats": 35065,
+          "showtimes": 235,
+          "theaters": 256,
+          "rank": 8,
+          "last_week_ratio": 194.4
+        },
+        {
+          "moviename": "ARASHI 5×20 Film",
+          "japanese name": "ＡＲＡＳＨＩ ５×２０ ＦＩＬＭ",
+          "sales": 3219,
+          "seats": 4374,
+          "showtimes": 14,
+          "theaters": 5,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Burn, sword!",
+          "japanese name": "燃えよ剣",
+          "sales": 3066,
+          "seats": 43338,
+          "showtimes": 343,
+          "theaters": 270,
+          "rank": 10,
+          "last_week_ratio": 125.7
+        },
+        {
+          "moviename": "Masquerade Night",
+          "japanese name": "マスカレード・ナイト",
+          "sales": 2793,
+          "seats": 34961,
+          "showtimes": 259,
+          "theaters": 264,
+          "rank": 11,
+          "last_week_ratio": 150.8
+        },
+        {
+          "moviename": "Respect",
+          "japanese name": "リスペクト",
+          "sales": 2304,
+          "seats": 28161,
+          "showtimes": 235,
+          "theaters": 204,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ice Road",
+          "japanese name": "アイス・ロード",
+          "sales": 2095,
+          "seats": 47137,
+          "showtimes": 372,
+          "theaters": 195,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Tropical～Ju! Pretty Cure: The Snow Princess and the Miracle Ring",
+          "japanese name": "映画トロピカル～ジュ！プリキュア 雪のプリンセスと奇跡の指輪",
+          "sales": 2045,
+          "seats": 47996,
+          "showtimes": 326,
+          "theaters": 193,
+          "rank": 14,
+          "last_week_ratio": 134.1
+        },
+        {
+          "moviename": "Let me hear Ai’s singing.",
+          "japanese name": "アイの歌声を聴かせて",
+          "sales": 1839,
+          "seats": 30781,
+          "showtimes": 218,
+          "theaters": 212,
+          "rank": 15,
+          "last_week_ratio": 107.1
+        },
+        {
+          "moviename": "A fool who doesn’t know how to pick plums",
+          "japanese name": "梅切らぬバカ",
+          "sales": 1564,
+          "seats": 15139,
+          "showtimes": 110,
+          "theaters": 39,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ten Gokaijaer",
+          "japanese name": "テン・ゴーカイジャー",
+          "sales": 1501,
+          "seats": 23567,
+          "showtimes": 130,
+          "theaters": 36,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Malignant: Fierce nightmares",
+          "japanese name": "マリグナント 狂暴な悪夢",
+          "sales": 1148,
+          "seats": 11881,
+          "showtimes": 99,
+          "theaters": 64,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "CUBE Once you enter, it's the last",
+          "japanese name": "ＣＵＢＥ 一度入ったら、最後",
+          "sales": 1145,
+          "seats": 29850,
+          "showtimes": 215,
+          "theaters": 263,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Do you plan to stay single forever?",
+          "japanese name": "ずっと独身でいるつもり？",
+          "sales": 1027,
+          "seats": 19828,
+          "showtimes": 117,
+          "theaters": 34,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "DUNE / The Planet of Sand",
+          "japanese name": "ＤＵＮＥ／デューン 砂の惑星",
+          "sales": 980,
+          "seats": 17679,
+          "showtimes": 124,
+          "theaters": 213,
+          "rank": 21,
+          "last_week_ratio": null
         },
         {
           "moviename": "Harry Potter and the Sorcerer's Stone",
@@ -292,23 +492,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "ARASHI 5×20 Film",
-          "japanese name": "ＡＲＡＳＨＩ ５×２０ ＦＩＬＭ",
-          "sales": 3219,
-          "seats": 4374,
-          "showtimes": 14,
-          "theaters": 5,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Ice Road",
-          "japanese name": "アイス・ロード",
-          "sales": 2095,
-          "seats": 47137,
-          "showtimes": 372,
-          "theaters": 195,
-          "rank": 13,
+          "moviename": "A Parasite in Love",
+          "japanese name": "恋する寄生虫",
+          "sales": 891,
+          "seats": 31640,
+          "showtimes": 233,
+          "theaters": 127,
+          "rank": 24,
           "last_week_ratio": null
         },
         {
@@ -320,196 +510,6 @@
           "theaters": 2,
           "rank": 25,
           "last_week_ratio": 137.3
-        },
-        {
-          "moviename": "Movie Tropical～Ju! Pretty Cure: The Snow Princess and the Miracle Ring",
-          "japanese name": "映画トロピカル～ジュ！プリキュア 雪のプリンセスと奇跡の指輪",
-          "sales": 2045,
-          "seats": 47996,
-          "showtimes": 326,
-          "theaters": 193,
-          "rank": 14,
-          "last_week_ratio": 134.1
-        },
-        {
-          "moviename": "Masquerade Night",
-          "japanese name": "マスカレード・ナイト",
-          "sales": 2793,
-          "seats": 34961,
-          "showtimes": 259,
-          "theaters": 264,
-          "rank": 11,
-          "last_week_ratio": 150.8
-        },
-        {
-          "moviename": "Malignant: Fierce nightmares",
-          "japanese name": "マリグナント 狂暴な悪夢",
-          "sales": 1148,
-          "seats": 11881,
-          "showtimes": 99,
-          "theaters": 64,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Do you plan to stay single forever?",
-          "japanese name": "ずっと独身でいるつもり？",
-          "sales": 1027,
-          "seats": 19828,
-          "showtimes": 117,
-          "theaters": 34,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "007: No Time to Die",
-          "japanese name": "００７ ノー・タイム・トゥ・ダイ",
-          "sales": 4456,
-          "seats": 35065,
-          "showtimes": 235,
-          "theaters": 256,
-          "rank": 8,
-          "last_week_ratio": 194.4
-        },
-        {
-          "moviename": "Tiger's Song FINAL",
-          "japanese name": "土竜の唄 ＦＩＮＡＬ",
-          "sales": 14396,
-          "seats": 446822,
-          "showtimes": 1399,
-          "theaters": 275,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Ten Gokaijaer",
-          "japanese name": "テン・ゴーカイジャー",
-          "sales": 1501,
-          "seats": 23567,
-          "showtimes": 130,
-          "theaters": 36,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Burn, sword!",
-          "japanese name": "燃えよ剣",
-          "sales": 3066,
-          "seats": 43338,
-          "showtimes": 343,
-          "theaters": 270,
-          "rank": 10,
-          "last_week_ratio": 125.7
-        },
-        {
-          "moviename": "Sword Art Online: The Movie – Progressive, Aria in a Starless Night",
-          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア",
-          "sales": 5582,
-          "seats": 112628,
-          "showtimes": 653,
-          "theaters": 175,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical version of “What Did You Eat Yesterday?”",
-          "japanese name": "劇場版「きのう何食べた？」",
-          "sales": 11695,
-          "seats": 150146,
-          "showtimes": 832,
-          "theaters": 257,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "A fool who doesn’t know how to pick plums",
-          "japanese name": "梅切らぬバカ",
-          "sales": 1564,
-          "seats": 15139,
-          "showtimes": 110,
-          "theaters": 39,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "I don’t have any money saved for my retirement!",
-          "japanese name": "老後の資金がありません！",
-          "sales": 11226,
-          "seats": 119706,
-          "showtimes": 788,
-          "theaters": 272,
-          "rank": 5,
-          "last_week_ratio": 100.4
-        },
-        {
-          "moviename": "Movie: Sumikko Gurashi: The Magic of the Blue Moonlit Night",
-          "japanese name": "映画 すみっコぐらし 青い月夜のまほうのコ",
-          "sales": 15462,
-          "seats": 205468,
-          "showtimes": 946,
-          "theaters": 174,
-          "rank": 1,
-          "last_week_ratio": 163.6
-        },
-        {
-          "moviename": "Eternals",
-          "japanese name": "エターナルズ",
-          "sales": 10269,
-          "seats": 171246,
-          "showtimes": 982,
-          "theaters": 292,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "DUNE / The Planet of Sand",
-          "japanese name": "ＤＵＮＥ／デューン 砂の惑星",
-          "sales": 980,
-          "seats": 17679,
-          "showtimes": 124,
-          "theaters": 213,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Respect",
-          "japanese name": "リスペクト",
-          "sales": 2304,
-          "seats": 28161,
-          "showtimes": 235,
-          "theaters": 204,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "CUBE Once you enter, it's the last",
-          "japanese name": "ＣＵＢＥ 一度入ったら、最後",
-          "sales": 1145,
-          "seats": 29850,
-          "showtimes": 215,
-          "theaters": 263,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Let me hear Ai’s singing.",
-          "japanese name": "アイの歌声を聴かせて",
-          "sales": 1839,
-          "seats": 30781,
-          "showtimes": 218,
-          "theaters": 212,
-          "rank": 15,
-          "last_week_ratio": 107.1
-        },
-        {
-          "moviename": "A Parasite in Love",
-          "japanese name": "恋する寄生虫",
-          "sales": 891,
-          "seats": 31640,
-          "showtimes": 233,
-          "theaters": 127,
-          "rank": 24,
-          "last_week_ratio": null
         }
       ]
     },
@@ -517,6 +517,26 @@
       "title": "Including Independents",
       "time": "Final",
       "data": [
+        {
+          "moviename": "Tiger's Song FINAL",
+          "japanese name": "土竜の唄 ＦＩＮＡＬ",
+          "sales": 17827,
+          "seats": 556238,
+          "showtimes": 1723,
+          "theaters": 275,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Sumikko Gurashi: The Magic of the Blue Moonlit Night",
+          "japanese name": "映画 すみっコぐらし 青い月夜のまほうのコ",
+          "sales": 15886,
+          "seats": 212913,
+          "showtimes": 985,
+          "theaters": 174,
+          "rank": 2,
+          "last_week_ratio": 164.8
+        },
         {
           "moviename": "And then, the baton was passed on.",
           "japanese name": "そして、バトンは渡された",
@@ -528,24 +548,54 @@
           "last_week_ratio": 128.4
         },
         {
-          "moviename": "Harry Potter and the Sorcerer's Stone",
-          "japanese name": "ハリー・ポッターと賢者の石",
-          "sales": 1006,
-          "seats": 9405,
-          "showtimes": 31,
-          "theaters": 26,
-          "rank": 22,
+          "moviename": "Theatrical version of “What Did You Eat Yesterday?”",
+          "japanese name": "劇場版「きのう何食べた？」",
+          "sales": 14288,
+          "seats": 193202,
+          "showtimes": 1075,
+          "theaters": 257,
+          "rank": 4,
           "last_week_ratio": null
         },
         {
-          "moviename": "Theatrical Version: Lupin’s Daughter",
-          "japanese name": "劇場版 ルパンの娘",
-          "sales": 997,
-          "seats": 19217,
-          "showtimes": 151,
-          "theaters": 148,
-          "rank": 24,
+          "moviename": "Eternals",
+          "japanese name": "エターナルズ",
+          "sales": 13203,
+          "seats": 230911,
+          "showtimes": 1294,
+          "theaters": 292,
+          "rank": 5,
           "last_week_ratio": null
+        },
+        {
+          "moviename": "I don’t have any money saved for my retirement!",
+          "japanese name": "老後の資金がありません！",
+          "sales": 11505,
+          "seats": 127471,
+          "showtimes": 834,
+          "theaters": 272,
+          "rank": 6,
+          "last_week_ratio": 101.7
+        },
+        {
+          "moviename": "Sword Art Online: The Movie – Progressive, Aria in a Starless Night",
+          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア",
+          "sales": 7252,
+          "seats": 148803,
+          "showtimes": 866,
+          "theaters": 175,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "007: No Time to Die",
+          "japanese name": "００７ ノー・タイム・トゥ・ダイ",
+          "sales": 5357,
+          "seats": 49053,
+          "showtimes": 327,
+          "theaters": 256,
+          "rank": 8,
+          "last_week_ratio": 194.8
         },
         {
           "moviename": "ARASHI 5×20 Film",
@@ -556,6 +606,36 @@
           "theaters": 5,
           "rank": 9,
           "last_week_ratio": 111.7
+        },
+        {
+          "moviename": "Burn, sword!",
+          "japanese name": "燃えよ剣",
+          "sales": 3230,
+          "seats": 46668,
+          "showtimes": 369,
+          "theaters": 270,
+          "rank": 10,
+          "last_week_ratio": 121.1
+        },
+        {
+          "moviename": "Masquerade Night",
+          "japanese name": "マスカレード・ナイト",
+          "sales": 3111,
+          "seats": 44566,
+          "showtimes": 320,
+          "theaters": 264,
+          "rank": 11,
+          "last_week_ratio": 157.5
+        },
+        {
+          "moviename": "Respect",
+          "japanese name": "リスペクト",
+          "sales": 2722,
+          "seats": 37138,
+          "showtimes": 305,
+          "theaters": 204,
+          "rank": 12,
+          "last_week_ratio": null
         },
         {
           "moviename": "Ice Road",
@@ -578,64 +658,14 @@
           "last_week_ratio": 134.1
         },
         {
-          "moviename": "Masquerade Night",
-          "japanese name": "マスカレード・ナイト",
-          "sales": 3111,
-          "seats": 44566,
-          "showtimes": 320,
-          "theaters": 264,
-          "rank": 11,
-          "last_week_ratio": 157.5
-        },
-        {
-          "moviename": "Malignant: Fierce nightmares",
-          "japanese name": "マリグナント 狂暴な悪夢",
-          "sales": 1722,
-          "seats": 19465,
-          "showtimes": 161,
-          "theaters": 64,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "圣域X",
-          "japanese name": "聖地Ｘ",
-          "sales": 994,
-          "seats": 52232,
-          "showtimes": 321,
-          "theaters": 85,
-          "rank": 25,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Do you plan to stay single forever?",
-          "japanese name": "ずっと独身でいるつもり？",
-          "sales": 1473,
-          "seats": 25504,
-          "showtimes": 152,
-          "theaters": 34,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "007: No Time to Die",
-          "japanese name": "００７ ノー・タイム・トゥ・ダイ",
-          "sales": 5357,
-          "seats": 49053,
-          "showtimes": 327,
-          "theaters": 256,
-          "rank": 8,
-          "last_week_ratio": 194.8
-        },
-        {
-          "moviename": "Tiger's Song FINAL",
-          "japanese name": "土竜の唄 ＦＩＮＡＬ",
-          "sales": 17827,
-          "seats": 556238,
-          "showtimes": 1723,
-          "theaters": 275,
-          "rank": 1,
-          "last_week_ratio": null
+          "moviename": "Let me hear Ai’s singing.",
+          "japanese name": "アイの歌声を聴かせて",
+          "sales": 2001,
+          "seats": 34455,
+          "showtimes": 243,
+          "theaters": 212,
+          "rank": 15,
+          "last_week_ratio": 103.8
         },
         {
           "moviename": "Ten Gokaijaer",
@@ -648,33 +678,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Burn, sword!",
-          "japanese name": "燃えよ剣",
-          "sales": 3230,
-          "seats": 46668,
-          "showtimes": 369,
-          "theaters": 270,
-          "rank": 10,
-          "last_week_ratio": 121.1
-        },
-        {
-          "moviename": "Sword Art Online: The Movie – Progressive, Aria in a Starless Night",
-          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア",
-          "sales": 7252,
-          "seats": 148803,
-          "showtimes": 866,
-          "theaters": 175,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical version of “What Did You Eat Yesterday?”",
-          "japanese name": "劇場版「きのう何食べた？」",
-          "sales": 14288,
-          "seats": 193202,
-          "showtimes": 1075,
-          "theaters": 257,
-          "rank": 4,
+          "moviename": "Malignant: Fierce nightmares",
+          "japanese name": "マリグナント 狂暴な悪夢",
+          "sales": 1722,
+          "seats": 19465,
+          "showtimes": 161,
+          "theaters": 64,
+          "rank": 17,
           "last_week_ratio": null
         },
         {
@@ -688,33 +698,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "I don’t have any money saved for my retirement!",
-          "japanese name": "老後の資金がありません！",
-          "sales": 11505,
-          "seats": 127471,
-          "showtimes": 834,
-          "theaters": 272,
-          "rank": 6,
-          "last_week_ratio": 101.7
-        },
-        {
-          "moviename": "Movie: Sumikko Gurashi: The Magic of the Blue Moonlit Night",
-          "japanese name": "映画 すみっコぐらし 青い月夜のまほうのコ",
-          "sales": 15886,
-          "seats": 212913,
-          "showtimes": 985,
-          "theaters": 174,
-          "rank": 2,
-          "last_week_ratio": 164.8
-        },
-        {
-          "moviename": "Eternals",
-          "japanese name": "エターナルズ",
-          "sales": 13203,
-          "seats": 230911,
-          "showtimes": 1294,
-          "theaters": 292,
-          "rank": 5,
+          "moviename": "Do you plan to stay single forever?",
+          "japanese name": "ずっと独身でいるつもり？",
+          "sales": 1473,
+          "seats": 25504,
+          "showtimes": 152,
+          "theaters": 34,
+          "rank": 19,
           "last_week_ratio": null
         },
         {
@@ -728,16 +718,6 @@
           "last_week_ratio": 107.4
         },
         {
-          "moviename": "Respect",
-          "japanese name": "リスペクト",
-          "sales": 2722,
-          "seats": 37138,
-          "showtimes": 305,
-          "theaters": 204,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "CUBE Once you enter, it's the last",
           "japanese name": "ＣＵＢＥ 一度入ったら、最後",
           "sales": 1434,
@@ -748,14 +728,14 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Let me hear Ai’s singing.",
-          "japanese name": "アイの歌声を聴かせて",
-          "sales": 2001,
-          "seats": 34455,
-          "showtimes": 243,
-          "theaters": 212,
-          "rank": 15,
-          "last_week_ratio": 103.8
+          "moviename": "Harry Potter and the Sorcerer's Stone",
+          "japanese name": "ハリー・ポッターと賢者の石",
+          "sales": 1006,
+          "seats": 9405,
+          "showtimes": 31,
+          "theaters": 26,
+          "rank": 22,
+          "last_week_ratio": null
         },
         {
           "moviename": "A Parasite in Love",
@@ -765,6 +745,26 @@
           "showtimes": 286,
           "theaters": 127,
           "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Lupin’s Daughter",
+          "japanese name": "劇場版 ルパンの娘",
+          "sales": 997,
+          "seats": 19217,
+          "showtimes": 151,
+          "theaters": 148,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "圣域X",
+          "japanese name": "聖地Ｘ",
+          "sales": 994,
+          "seats": 52232,
+          "showtimes": 321,
+          "theaters": 85,
+          "rank": 25,
           "last_week_ratio": null
         }
       ]

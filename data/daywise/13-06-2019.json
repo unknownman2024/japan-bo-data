@@ -6,23 +6,113 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "Reiko",
-          "japanese name": "貞子",
-          "sales": 651,
-          "seats": 24087,
-          "showtimes": 172,
-          "theaters": 261,
-          "rank": 17,
+          "moviename": "Aladdin",
+          "japanese name": "アラジン",
+          "sales": 23842,
+          "seats": 287884,
+          "showtimes": 983,
+          "theaters": 275,
+          "rank": 1,
           "last_week_ratio": null
         },
         {
-          "moviename": "The Birth of the Goddess Padmavati",
-          "japanese name": "パドマーワト 女神の誕生",
-          "sales": 279,
-          "seats": 5307,
-          "showtimes": 35,
-          "theaters": 43,
-          "rank": 23,
+          "moviename": "Godzilla: King of Monsters",
+          "japanese name": "ゴジラ キング・オブ・モンスターズ",
+          "sales": 7327,
+          "seats": 152123,
+          "showtimes": 687,
+          "theaters": 273,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Confident Man JP",
+          "japanese name": "コンフィデンスマンＪＰ",
+          "sales": 3861,
+          "seats": 75241,
+          "showtimes": 458,
+          "theaters": 257,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Aircraft Carrier Ibuki",
+          "japanese name": "空母いぶき",
+          "sales": 2916,
+          "seats": 55977,
+          "showtimes": 390,
+          "theaters": 255,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A long goodbye",
+          "japanese name": "長いお別れ",
+          "sales": 2260,
+          "seats": 24418,
+          "showtimes": 207,
+          "theaters": 143,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Children of sea beasts",
+          "japanese name": "海獣の子供",
+          "sales": 2046,
+          "seats": 41326,
+          "showtimes": 277,
+          "theaters": 139,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kingdom",
+          "japanese name": "キングダム",
+          "sales": 1784,
+          "seats": 24528,
+          "showtimes": 179,
+          "theaters": 261,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Parallel World Love Story",
+          "japanese name": "パラレルワールド・ラブストーリー",
+          "sales": 1769,
+          "seats": 51083,
+          "showtimes": 384,
+          "theaters": 254,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Machida-kun’s World",
+          "japanese name": "町田くんの世界",
+          "sales": 1586,
+          "seats": 58238,
+          "showtimes": 376,
+          "theaters": 170,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Snow Royal",
+          "japanese name": "スノー・ロワイヤル",
+          "sales": 1490,
+          "seats": 19037,
+          "showtimes": 137,
+          "theaters": 85,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Erica 38",
+          "japanese name": "エリカ３８",
+          "sales": 1485,
+          "seats": 9061,
+          "showtimes": 63,
+          "theaters": 38,
+          "rank": 11,
           "last_week_ratio": null
         },
         {
@@ -34,6 +124,86 @@
           "theaters": 171,
           "rank": 12,
           "last_week_ratio": 129.8
+        },
+        {
+          "moviename": "Avengers/Endgame",
+          "japanese name": "アベンジャーズ／エンドゲーム",
+          "sales": 1011,
+          "seats": 11729,
+          "showtimes": 92,
+          "theaters": 267,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Famous Detective Pikachu",
+          "japanese name": "名探偵ピカチュウ",
+          "sales": 1000,
+          "seats": 36937,
+          "showtimes": 265,
+          "theaters": 263,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan 2019: Blue Fist",
+          "japanese name": "名探偵コナン２０１９ 紺青の拳（フィスト）",
+          "sales": 763,
+          "seats": 26833,
+          "showtimes": 201,
+          "theaters": 257,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dozing Iwane",
+          "japanese name": "居眠り磐音",
+          "sales": 657,
+          "seats": 29564,
+          "showtimes": 224,
+          "theaters": 256,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Reiko",
+          "japanese name": "貞子",
+          "sales": 651,
+          "seats": 24087,
+          "showtimes": 172,
+          "theaters": 261,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dialogues of Carmelite Nuns  MET",
+          "japanese name": "カルメル会修道女の対話  ＭＥＴ",
+          "sales": 517,
+          "seats": 1785,
+          "showtimes": 15,
+          "theaters": 17,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Godfather",
+          "japanese name": "ゴッドファーザー",
+          "sales": 314,
+          "seats": 2426,
+          "showtimes": 21,
+          "theaters": 21,
+          "rank": 19,
+          "last_week_ratio": 114.2
+        },
+        {
+          "moviename": "Gone with the Wind",
+          "japanese name": "風と共に去りぬ",
+          "sales": 309,
+          "seats": 2150,
+          "showtimes": 21,
+          "theaters": 21,
+          "rank": 20,
+          "last_week_ratio": 137.3
         },
         {
           "moviename": "My whimsical journey, trapped in the closet",
@@ -56,23 +226,13 @@
           "last_week_ratio": 275.9
         },
         {
-          "moviename": "Kingdom",
-          "japanese name": "キングダム",
-          "sales": 1784,
-          "seats": 24528,
-          "showtimes": 179,
-          "theaters": 261,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Godzilla: King of Monsters",
-          "japanese name": "ゴジラ キング・オブ・モンスターズ",
-          "sales": 7327,
-          "seats": 152123,
-          "showtimes": 687,
-          "theaters": 273,
-          "rank": 2,
+          "moviename": "The Birth of the Goddess Padmavati",
+          "japanese name": "パドマーワト 女神の誕生",
+          "sales": 279,
+          "seats": 5307,
+          "showtimes": 35,
+          "theaters": 43,
+          "rank": 23,
           "last_week_ratio": null
         },
         {
@@ -86,56 +246,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Godfather",
-          "japanese name": "ゴッドファーザー",
-          "sales": 314,
-          "seats": 2426,
-          "showtimes": 21,
-          "theaters": 21,
-          "rank": 19,
-          "last_week_ratio": 114.2
-        },
-        {
-          "moviename": "Dialogues of Carmelite Nuns  MET",
-          "japanese name": "カルメル会修道女の対話  ＭＥＴ",
-          "sales": 517,
-          "seats": 1785,
-          "showtimes": 15,
-          "theaters": 17,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Parallel World Love Story",
-          "japanese name": "パラレルワールド・ラブストーリー",
-          "sales": 1769,
-          "seats": 51083,
-          "showtimes": 384,
-          "theaters": 254,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Gone with the Wind",
-          "japanese name": "風と共に去りぬ",
-          "sales": 309,
-          "seats": 2150,
-          "showtimes": 21,
-          "theaters": 21,
-          "rank": 20,
-          "last_week_ratio": 137.3
-        },
-        {
-          "moviename": "Aladdin",
-          "japanese name": "アラジン",
-          "sales": 23842,
-          "seats": 287884,
-          "showtimes": 983,
-          "theaters": 275,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Paris, a Lieful Love",
           "japanese name": "パリ、嘘つきな恋",
           "sales": 185,
@@ -143,116 +253,6 @@
           "showtimes": 16,
           "theaters": 17,
           "rank": 25,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Aircraft Carrier Ibuki",
-          "japanese name": "空母いぶき",
-          "sales": 2916,
-          "seats": 55977,
-          "showtimes": 390,
-          "theaters": 255,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Avengers/Endgame",
-          "japanese name": "アベンジャーズ／エンドゲーム",
-          "sales": 1011,
-          "seats": 11729,
-          "showtimes": 92,
-          "theaters": 267,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Detective Conan 2019: Blue Fist",
-          "japanese name": "名探偵コナン２０１９ 紺青の拳（フィスト）",
-          "sales": 763,
-          "seats": 26833,
-          "showtimes": 201,
-          "theaters": 257,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Confident Man JP",
-          "japanese name": "コンフィデンスマンＪＰ",
-          "sales": 3861,
-          "seats": 75241,
-          "showtimes": 458,
-          "theaters": 257,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Children of sea beasts",
-          "japanese name": "海獣の子供",
-          "sales": 2046,
-          "seats": 41326,
-          "showtimes": 277,
-          "theaters": 139,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Dozing Iwane",
-          "japanese name": "居眠り磐音",
-          "sales": 657,
-          "seats": 29564,
-          "showtimes": 224,
-          "theaters": 256,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Erica 38",
-          "japanese name": "エリカ３８",
-          "sales": 1485,
-          "seats": 9061,
-          "showtimes": 63,
-          "theaters": 38,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Snow Royal",
-          "japanese name": "スノー・ロワイヤル",
-          "sales": 1490,
-          "seats": 19037,
-          "showtimes": 137,
-          "theaters": 85,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "A long goodbye",
-          "japanese name": "長いお別れ",
-          "sales": 2260,
-          "seats": 24418,
-          "showtimes": 207,
-          "theaters": 143,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Famous Detective Pikachu",
-          "japanese name": "名探偵ピカチュウ",
-          "sales": 1000,
-          "seats": 36937,
-          "showtimes": 265,
-          "theaters": 263,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Machida-kun’s World",
-          "japanese name": "町田くんの世界",
-          "sales": 1586,
-          "seats": 58238,
-          "showtimes": 376,
-          "theaters": 170,
-          "rank": 9,
           "last_week_ratio": null
         }
       ]
@@ -262,13 +262,33 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "Reiko",
-          "japanese name": "貞子",
-          "sales": 2032,
-          "seats": 57055,
-          "showtimes": 397,
-          "theaters": 261,
-          "rank": 15,
+          "moviename": "Aladdin",
+          "japanese name": "アラジン",
+          "sales": 56015,
+          "seats": 562325,
+          "showtimes": 1906,
+          "theaters": 275,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Godzilla: King of Monsters",
+          "japanese name": "ゴジラ キング・オブ・モンスターズ",
+          "sales": 13943,
+          "seats": 293303,
+          "showtimes": 1337,
+          "theaters": 273,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Confident Man JP",
+          "japanese name": "コンフィデンスマンＪＰ",
+          "sales": 7407,
+          "seats": 129174,
+          "showtimes": 787,
+          "theaters": 257,
+          "rank": 3,
           "last_week_ratio": null
         },
         {
@@ -282,24 +302,24 @@
           "last_week_ratio": 178.8
         },
         {
-          "moviename": "My whimsical journey, trapped in the closet",
-          "japanese name": "クローゼットに閉じこめられた僕の奇想天外な旅",
-          "sales": 539,
-          "seats": 8007,
-          "showtimes": 57,
-          "theaters": 22,
-          "rank": 21,
+          "moviename": "Aircraft Carrier Ibuki",
+          "japanese name": "空母いぶき",
+          "sales": 4376,
+          "seats": 84779,
+          "showtimes": 600,
+          "theaters": 255,
+          "rank": 5,
           "last_week_ratio": null
         },
         {
-          "moviename": "Opening the “Tan’i Shō”",
-          "japanese name": "歎異抄をひらく",
-          "sales": 457,
-          "seats": 6606,
-          "showtimes": 35,
-          "theaters": 19,
-          "rank": 24,
-          "last_week_ratio": 292.9
+          "moviename": "Children of sea beasts",
+          "japanese name": "海獣の子供",
+          "sales": 3872,
+          "seats": 69725,
+          "showtimes": 472,
+          "theaters": 139,
+          "rank": 6,
+          "last_week_ratio": null
         },
         {
           "moviename": "Kingdom",
@@ -312,13 +332,93 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Godzilla: King of Monsters",
-          "japanese name": "ゴジラ キング・オブ・モンスターズ",
-          "sales": 13943,
-          "seats": 293303,
-          "showtimes": 1337,
-          "theaters": 273,
-          "rank": 2,
+          "moviename": "Parallel World Love Story",
+          "japanese name": "パラレルワールド・ラブストーリー",
+          "sales": 3615,
+          "seats": 91924,
+          "showtimes": 686,
+          "theaters": 254,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A long goodbye",
+          "japanese name": "長いお別れ",
+          "sales": 2995,
+          "seats": 35639,
+          "showtimes": 303,
+          "theaters": 143,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Machida-kun’s World",
+          "japanese name": "町田くんの世界",
+          "sales": 2593,
+          "seats": 101995,
+          "showtimes": 656,
+          "theaters": 170,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Avengers/Endgame",
+          "japanese name": "アベンジャーズ／エンドゲーム",
+          "sales": 2450,
+          "seats": 35734,
+          "showtimes": 269,
+          "theaters": 267,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Famous Detective Pikachu",
+          "japanese name": "名探偵ピカチュウ",
+          "sales": 2437,
+          "seats": 64591,
+          "showtimes": 466,
+          "theaters": 263,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Snow Royal",
+          "japanese name": "スノー・ロワイヤル",
+          "sales": 2255,
+          "seats": 34479,
+          "showtimes": 249,
+          "theaters": 85,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Erica 38",
+          "japanese name": "エリカ３８",
+          "sales": 2209,
+          "seats": 14332,
+          "showtimes": 103,
+          "theaters": 38,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Reiko",
+          "japanese name": "貞子",
+          "sales": 2032,
+          "seats": 57055,
+          "showtimes": 397,
+          "theaters": 261,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan 2019: Blue Fist",
+          "japanese name": "名探偵コナン２０１９ 紺青の拳（フィスト）",
+          "sales": 1840,
+          "seats": 51838,
+          "showtimes": 385,
+          "theaters": 257,
+          "rank": 16,
           "last_week_ratio": null
         },
         {
@@ -342,83 +442,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Parallel World Love Story",
-          "japanese name": "パラレルワールド・ラブストーリー",
-          "sales": 3615,
-          "seats": 91924,
-          "showtimes": 686,
-          "theaters": 254,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "With the Gods Chapter 1: Sin and Punishment",
-          "japanese name": "神と共に 第一章 罪と罰",
-          "sales": 506,
-          "seats": 3296,
-          "showtimes": 25,
-          "theaters": 32,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "LUPIN THE IIIrd:峰不二子的谎言",
-          "japanese name": "ＬＵＰＩＮ ＴＨＥ ＩＩＩＲＤ 峰不二子の嘘",
-          "sales": 441,
-          "seats": 6784,
-          "showtimes": 42,
-          "theaters": 23,
-          "rank": 25,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Aladdin",
-          "japanese name": "アラジン",
-          "sales": 56015,
-          "seats": 562325,
-          "showtimes": 1906,
-          "theaters": 275,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Aircraft Carrier Ibuki",
-          "japanese name": "空母いぶき",
-          "sales": 4376,
-          "seats": 84779,
-          "showtimes": 600,
-          "theaters": 255,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Avengers/Endgame",
-          "japanese name": "アベンジャーズ／エンドゲーム",
-          "sales": 2450,
-          "seats": 35734,
-          "showtimes": 269,
-          "theaters": 267,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Detective Conan 2019: Blue Fist",
-          "japanese name": "名探偵コナン２０１９ 紺青の拳（フィスト）",
-          "sales": 1840,
-          "seats": 51838,
-          "showtimes": 385,
-          "theaters": 257,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "A Little Love Song",
-          "japanese name": "小さな恋のうた",
-          "sales": 534,
-          "seats": 13124,
-          "showtimes": 105,
-          "theaters": 114,
-          "rank": 22,
+          "moviename": "Dozing Iwane",
+          "japanese name": "居眠り磐音",
+          "sales": 795,
+          "seats": 34810,
+          "showtimes": 264,
+          "theaters": 256,
+          "rank": 19,
           "last_week_ratio": null
         },
         {
@@ -432,83 +462,53 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Confident Man JP",
-          "japanese name": "コンフィデンスマンＪＰ",
-          "sales": 7407,
-          "seats": 129174,
-          "showtimes": 787,
-          "theaters": 257,
-          "rank": 3,
+          "moviename": "My whimsical journey, trapped in the closet",
+          "japanese name": "クローゼットに閉じこめられた僕の奇想天外な旅",
+          "sales": 539,
+          "seats": 8007,
+          "showtimes": 57,
+          "theaters": 22,
+          "rank": 21,
           "last_week_ratio": null
         },
         {
-          "moviename": "Children of sea beasts",
-          "japanese name": "海獣の子供",
-          "sales": 3872,
-          "seats": 69725,
-          "showtimes": 472,
-          "theaters": 139,
-          "rank": 6,
+          "moviename": "A Little Love Song",
+          "japanese name": "小さな恋のうた",
+          "sales": 534,
+          "seats": 13124,
+          "showtimes": 105,
+          "theaters": 114,
+          "rank": 22,
           "last_week_ratio": null
         },
         {
-          "moviename": "Dozing Iwane",
-          "japanese name": "居眠り磐音",
-          "sales": 795,
-          "seats": 34810,
-          "showtimes": 264,
-          "theaters": 256,
-          "rank": 19,
+          "moviename": "With the Gods Chapter 1: Sin and Punishment",
+          "japanese name": "神と共に 第一章 罪と罰",
+          "sales": 506,
+          "seats": 3296,
+          "showtimes": 25,
+          "theaters": 32,
+          "rank": 23,
           "last_week_ratio": null
         },
         {
-          "moviename": "Erica 38",
-          "japanese name": "エリカ３８",
-          "sales": 2209,
-          "seats": 14332,
-          "showtimes": 103,
-          "theaters": 38,
-          "rank": 14,
-          "last_week_ratio": null
+          "moviename": "Opening the “Tan’i Shō”",
+          "japanese name": "歎異抄をひらく",
+          "sales": 457,
+          "seats": 6606,
+          "showtimes": 35,
+          "theaters": 19,
+          "rank": 24,
+          "last_week_ratio": 292.9
         },
         {
-          "moviename": "Snow Royal",
-          "japanese name": "スノー・ロワイヤル",
-          "sales": 2255,
-          "seats": 34479,
-          "showtimes": 249,
-          "theaters": 85,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "A long goodbye",
-          "japanese name": "長いお別れ",
-          "sales": 2995,
-          "seats": 35639,
-          "showtimes": 303,
-          "theaters": 143,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Famous Detective Pikachu",
-          "japanese name": "名探偵ピカチュウ",
-          "sales": 2437,
-          "seats": 64591,
-          "showtimes": 466,
-          "theaters": 263,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Machida-kun’s World",
-          "japanese name": "町田くんの世界",
-          "sales": 2593,
-          "seats": 101995,
-          "showtimes": 656,
-          "theaters": 170,
-          "rank": 10,
+          "moviename": "LUPIN THE IIIrd:峰不二子的谎言",
+          "japanese name": "ＬＵＰＩＮ ＴＨＥ ＩＩＩＲＤ 峰不二子の嘘",
+          "sales": 441,
+          "seats": 6784,
+          "showtimes": 42,
+          "theaters": 23,
+          "rank": 25,
           "last_week_ratio": null
         }
       ]
@@ -516,7 +516,258 @@
     {
       "title": "Including Independents",
       "time": "Final",
-      "data": []
+      "data": [
+        {
+          "moviename": "Aladdin",
+          "japanese name": "アラジン",
+          "sales": 73093,
+          "seats": 710836,
+          "showtimes": 2409,
+          "theaters": 275,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Godzilla: King of Monsters",
+          "japanese name": "ゴジラ キング・オブ・モンスターズ",
+          "sales": 16816,
+          "seats": 367312,
+          "showtimes": 1682,
+          "theaters": 273,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Confident Man JP",
+          "japanese name": "コンフィデンスマンＪＰ",
+          "sales": 9143,
+          "seats": 167361,
+          "showtimes": 1026,
+          "theaters": 257,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Prometheus",
+          "japanese name": "プロメア",
+          "sales": 7279,
+          "seats": 34289,
+          "showtimes": 242,
+          "theaters": 171,
+          "rank": 4,
+          "last_week_ratio": 179.2
+        },
+        {
+          "moviename": "Children of sea beasts",
+          "japanese name": "海獣の子供",
+          "sales": 4957,
+          "seats": 89325,
+          "showtimes": 608,
+          "theaters": 139,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kingdom",
+          "japanese name": "キングダム",
+          "sales": 4914,
+          "seats": 69526,
+          "showtimes": 519,
+          "theaters": 261,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Aircraft Carrier Ibuki",
+          "japanese name": "空母いぶき",
+          "sales": 4875,
+          "seats": 101781,
+          "showtimes": 723,
+          "theaters": 255,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Parallel World Love Story",
+          "japanese name": "パラレルワールド・ラブストーリー",
+          "sales": 4347,
+          "seats": 118593,
+          "showtimes": 894,
+          "theaters": 254,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Avengers/Endgame",
+          "japanese name": "アベンジャーズ／エンドゲーム",
+          "sales": 3461,
+          "seats": 49029,
+          "showtimes": 372,
+          "theaters": 267,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Famous Detective Pikachu",
+          "japanese name": "名探偵ピカチュウ",
+          "sales": 3095,
+          "seats": 72954,
+          "showtimes": 527,
+          "theaters": 263,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Machida-kun’s World",
+          "japanese name": "町田くんの世界",
+          "sales": 3094,
+          "seats": 128129,
+          "showtimes": 831,
+          "theaters": 170,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A long goodbye",
+          "japanese name": "長いお別れ",
+          "sales": 3060,
+          "seats": 38372,
+          "showtimes": 324,
+          "theaters": 143,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Reiko",
+          "japanese name": "貞子",
+          "sales": 2864,
+          "seats": 77382,
+          "showtimes": 547,
+          "theaters": 261,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Snow Royal",
+          "japanese name": "スノー・ロワイヤル",
+          "sales": 2634,
+          "seats": 46175,
+          "showtimes": 334,
+          "theaters": 85,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Erica 38",
+          "japanese name": "エリカ３８",
+          "sales": 2297,
+          "seats": 16109,
+          "showtimes": 116,
+          "theaters": 38,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan 2019: Blue Fist",
+          "japanese name": "名探偵コナン２０１９ 紺青の拳（フィスト）",
+          "sales": 2145,
+          "seats": 57067,
+          "showtimes": 425,
+          "theaters": 257,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "According to my butler",
+          "japanese name": "うちの執事が言うことには",
+          "sales": 1090,
+          "seats": 26037,
+          "showtimes": 182,
+          "theaters": 165,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Goodbye, Lips",
+          "japanese name": "さよならくちびる",
+          "sales": 950,
+          "seats": 19210,
+          "showtimes": 164,
+          "theaters": 103,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dozing Iwane",
+          "japanese name": "居眠り磐音",
+          "sales": 817,
+          "seats": 35968,
+          "showtimes": 274,
+          "theaters": 256,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dialogues of Carmelite Nuns  MET",
+          "japanese name": "カルメル会修道女の対話  ＭＥＴ",
+          "sales": 807,
+          "seats": 2749,
+          "showtimes": 18,
+          "theaters": 17,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My whimsical journey, trapped in the closet",
+          "japanese name": "クローゼットに閉じこめられた僕の奇想天外な旅",
+          "sales": 639,
+          "seats": 10523,
+          "showtimes": 75,
+          "theaters": 22,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "With the Gods Chapter 1: Sin and Punishment",
+          "japanese name": "神と共に 第一章 罪と罰",
+          "sales": 612,
+          "seats": 4687,
+          "showtimes": 36,
+          "theaters": 32,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A Little Love Song",
+          "japanese name": "小さな恋のうた",
+          "sales": 611,
+          "seats": 14995,
+          "showtimes": 122,
+          "theaters": 114,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "(4th Anniversary of the Theatrical Release) Love Live! The School Idol Movie",
+          "japanese name": "（劇場版公開４周年記念）ラブライブ！Ｔｈｅ Ｓｃｈｏｏｌ Ｉｄｏｌ Ｍｏｖｉｅ",
+          "sales": 596,
+          "seats": 596,
+          "showtimes": 2,
+          "theaters": 1,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "LUPIN THE IIIrd:峰不二子的谎言",
+          "japanese name": "ＬＵＰＩＮ ＴＨＥ ＩＩＩＲＤ 峰不二子の嘘",
+          "sales": 542,
+          "seats": 7643,
+          "showtimes": 50,
+          "theaters": 23,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
     }
   ]
 }

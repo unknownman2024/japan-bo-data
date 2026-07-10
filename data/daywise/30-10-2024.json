@@ -6,6 +6,26 @@
       "time": "2PM",
       "data": [
         {
+          "moviename": "Hachikun Monogatari",
+          "japanese name": "八犬伝",
+          "sales": 10999,
+          "seats": 92860,
+          "showtimes": 339,
+          "theaters": 167,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Muroi Shinji: The Invincible",
+          "japanese name": "室井慎次 敗れざる者",
+          "sales": 6888,
+          "seats": 82587,
+          "showtimes": 365,
+          "theaters": 178,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Joker: Foli a Du",
           "japanese name": "ジョーカー：フォリ・ア・ドゥ",
           "sales": 2960,
@@ -26,13 +46,93 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Pride and Goodness",
-          "japanese name": "傲慢と善良",
-          "sales": 348,
-          "seats": 2311,
-          "showtimes": 19,
-          "theaters": 48,
-          "rank": 22,
+          "moviename": "Last Mile",
+          "japanese name": "ラストマイル",
+          "sales": 2197,
+          "seats": 19281,
+          "showtimes": 140,
+          "theaters": 170,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version of ACMA: GAME – The Last Key",
+          "japanese name": "劇場版ＡＣＭＡ：ＧＡＭＥ 最後の鍵",
+          "sales": 2193,
+          "seats": 92896,
+          "showtimes": 346,
+          "theaters": 166,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "JUNG KOOK: I AM STILL HERE",
+          "japanese name": "ＪＵＮＧ ＫＯＯＫ： Ｉ ＡＭ ＳＴＩＬＬ",
+          "sales": 1446,
+          "seats": 5497,
+          "showtimes": 38,
+          "theaters": 63,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Traps: The Movie",
+          "japanese name": "トラップ 劇場版",
+          "sales": 1335,
+          "seats": 13099,
+          "showtimes": 80,
+          "theaters": 38,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Round/Full",
+          "japanese name": "まる",
+          "sales": 1239,
+          "seats": 17775,
+          "showtimes": 149,
+          "theaters": 147,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Civil War: The Last Day of America",
+          "japanese name": "シビル・ウォー アメリカ最後の日",
+          "sales": 1106,
+          "seats": 19542,
+          "showtimes": 124,
+          "theaters": 160,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "All of Tokyo",
+          "japanese name": "ゼンブ・オブ・トーキョー",
+          "sales": 887,
+          "seats": 26747,
+          "showtimes": 188,
+          "theaters": 107,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SOU X",
+          "japanese name": "ソウＸ",
+          "sales": 880,
+          "seats": 11316,
+          "showtimes": 86,
+          "theaters": 97,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let's talk about SoMi",
+          "japanese name": "スオミの話をしよう",
+          "sales": 865,
+          "seats": 15536,
+          "showtimes": 117,
+          "theaters": 159,
+          "rank": 13,
           "last_week_ratio": null
         },
         {
@@ -43,6 +143,86 @@
           "showtimes": 252,
           "theaters": 131,
           "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Breaking tombs: Pamyo",
+          "japanese name": "破墓 パミョ",
+          "sales": 700,
+          "seats": 8286,
+          "showtimes": 65,
+          "theaters": 71,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Mahou Shoujo Madoka☆Magica [New Edition] The Story of Rebellion",
+          "japanese name": "劇場版 魔法少女まどか☆マギカ〔新編〕叛逆の物語",
+          "sales": 436,
+          "seats": 1528,
+          "showtimes": 7,
+          "theaters": 4,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wonderful Princess! Za・Mubee! Adventure in the thrilling world of games!",
+          "japanese name": "わんだふるぷりきゅあ！ざ・むーびー！ ドキドキ・ゲームの世界で大冒険！",
+          "sales": 421,
+          "seats": 15622,
+          "showtimes": 93,
+          "theaters": 107,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sound of Freedom",
+          "japanese name": "サウンド・オブ・フリーダム",
+          "sales": 405,
+          "seats": 3611,
+          "showtimes": 26,
+          "theaters": 39,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Voltes V: Legacy",
+          "japanese name": "ボルテスＶ レガシー",
+          "sales": 404,
+          "seats": 10193,
+          "showtimes": 72,
+          "theaters": 82,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ghost Taro is Born: The Mystery of Gegengege – The Real Version",
+          "japanese name": "鬼太郎誕生 ゲゲゲの謎 真生版",
+          "sales": 388,
+          "seats": 7393,
+          "showtimes": 55,
+          "theaters": 144,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Loving Pianist: Fujiko Heming",
+          "japanese name": "恋するピアニスト フジコヘミング",
+          "sales": 370,
+          "seats": 2992,
+          "showtimes": 22,
+          "theaters": 27,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pride and Goodness",
+          "japanese name": "傲慢と善良",
+          "sales": 348,
+          "seats": 2311,
+          "showtimes": 19,
+          "theaters": 48,
+          "rank": 22,
           "last_week_ratio": null
         },
         {
@@ -66,156 +246,6 @@
           "last_week_ratio": 107.7
         },
         {
-          "moviename": "Sound of Freedom",
-          "japanese name": "サウンド・オブ・フリーダム",
-          "sales": 405,
-          "seats": 3611,
-          "showtimes": 26,
-          "theaters": 39,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Civil War: The Last Day of America",
-          "japanese name": "シビル・ウォー アメリカ最後の日",
-          "sales": 1106,
-          "seats": 19542,
-          "showtimes": 124,
-          "theaters": 160,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "JUNG KOOK: I AM STILL HERE",
-          "japanese name": "ＪＵＮＧ ＫＯＯＫ： Ｉ ＡＭ ＳＴＩＬＬ",
-          "sales": 1446,
-          "seats": 5497,
-          "showtimes": 38,
-          "theaters": 63,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Muroi Shinji: The Invincible",
-          "japanese name": "室井慎次 敗れざる者",
-          "sales": 6888,
-          "seats": 82587,
-          "showtimes": 365,
-          "theaters": 178,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version: Mahou Shoujo Madoka☆Magica [New Edition] The Story of Rebellion",
-          "japanese name": "劇場版 魔法少女まどか☆マギカ〔新編〕叛逆の物語",
-          "sales": 436,
-          "seats": 1528,
-          "showtimes": 7,
-          "theaters": 4,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "All of Tokyo",
-          "japanese name": "ゼンブ・オブ・トーキョー",
-          "sales": 887,
-          "seats": 26747,
-          "showtimes": 188,
-          "theaters": 107,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Loving Pianist: Fujiko Heming",
-          "japanese name": "恋するピアニスト フジコヘミング",
-          "sales": 370,
-          "seats": 2992,
-          "showtimes": 22,
-          "theaters": 27,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "SOU X",
-          "japanese name": "ソウＸ",
-          "sales": 880,
-          "seats": 11316,
-          "showtimes": 86,
-          "theaters": 97,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Round/Full",
-          "japanese name": "まる",
-          "sales": 1239,
-          "seats": 17775,
-          "showtimes": 149,
-          "theaters": 147,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Hachikun Monogatari",
-          "japanese name": "八犬伝",
-          "sales": 10999,
-          "seats": 92860,
-          "showtimes": 339,
-          "theaters": 167,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Voltes V: Legacy",
-          "japanese name": "ボルテスＶ レガシー",
-          "sales": 404,
-          "seats": 10193,
-          "showtimes": 72,
-          "theaters": 82,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version of ACMA: GAME – The Last Key",
-          "japanese name": "劇場版ＡＣＭＡ：ＧＡＭＥ 最後の鍵",
-          "sales": 2193,
-          "seats": 92896,
-          "showtimes": 346,
-          "theaters": 166,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Ghost Taro is Born: The Mystery of Gegengege – The Real Version",
-          "japanese name": "鬼太郎誕生 ゲゲゲの謎 真生版",
-          "sales": 388,
-          "seats": 7393,
-          "showtimes": 55,
-          "theaters": 144,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Last Mile",
-          "japanese name": "ラストマイル",
-          "sales": 2197,
-          "seats": 19281,
-          "showtimes": 140,
-          "theaters": 170,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Let's talk about SoMi",
-          "japanese name": "スオミの話をしよう",
-          "sales": 865,
-          "seats": 15536,
-          "showtimes": 117,
-          "theaters": 159,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Touch.",
           "japanese name": "ふれる。",
           "sales": 287,
@@ -223,36 +253,6 @@
           "showtimes": 84,
           "theaters": 145,
           "rank": 25,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Wonderful Princess! Za・Mubee! Adventure in the thrilling world of games!",
-          "japanese name": "わんだふるぷりきゅあ！ざ・むーびー！ ドキドキ・ゲームの世界で大冒険！",
-          "sales": 421,
-          "seats": 15622,
-          "showtimes": 93,
-          "theaters": 107,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Breaking tombs: Pamyo",
-          "japanese name": "破墓 パミョ",
-          "sales": 700,
-          "seats": 8286,
-          "showtimes": 65,
-          "theaters": 71,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Traps: The Movie",
-          "japanese name": "トラップ 劇場版",
-          "sales": 1335,
-          "seats": 13099,
-          "showtimes": 80,
-          "theaters": 38,
-          "rank": 8,
           "last_week_ratio": null
         }
       ]
@@ -262,13 +262,23 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "ROF-MAO Cinema “New Street, New World”",
-          "japanese name": "ＲＯＦ－ＭＡＯシネマ「Ｎｅｗ ｓｔｒｅｅｔ， Ｎｅｗ ｗｏｒｌｄ」",
-          "sales": 663,
-          "seats": 6145,
-          "showtimes": 37,
-          "theaters": 30,
-          "rank": 20,
+          "moviename": "Hachikun Monogatari",
+          "japanese name": "八犬伝",
+          "sales": 15206,
+          "seats": 161226,
+          "showtimes": 592,
+          "theaters": 167,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Muroi Shinji: The Invincible",
+          "japanese name": "室井慎次 敗れざる者",
+          "sales": 10040,
+          "seats": 145386,
+          "showtimes": 650,
+          "theaters": 178,
+          "rank": 2,
           "last_week_ratio": null
         },
         {
@@ -292,53 +302,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Pride and Goodness",
-          "japanese name": "傲慢と善良",
-          "sales": 617,
-          "seats": 4337,
-          "showtimes": 38,
-          "theaters": 48,
-          "rank": 23,
+          "moviename": "Last Mile",
+          "japanese name": "ラストマイル",
+          "sales": 4167,
+          "seats": 37849,
+          "showtimes": 267,
+          "theaters": 170,
+          "rank": 5,
           "last_week_ratio": null
         },
         {
-          "moviename": "Let’s keep working hard together!",
-          "japanese name": "がんばっていきまっしょい",
-          "sales": 1492,
-          "seats": 84086,
-          "showtimes": 492,
-          "theaters": 131,
-          "rank": 13,
+          "moviename": "Theatrical Version of ACMA: GAME – The Last Key",
+          "japanese name": "劇場版ＡＣＭＡ：ＧＡＭＥ 最後の鍵",
+          "sales": 3804,
+          "seats": 173712,
+          "showtimes": 649,
+          "theaters": 166,
+          "rank": 6,
           "last_week_ratio": null
         },
         {
-          "moviename": "Love Live! Nijigasaki High School Idol Club Completion Edition Chapter 1",
-          "japanese name": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第１章",
-          "sales": 535,
-          "seats": 11363,
-          "showtimes": 51,
-          "theaters": 69,
-          "rank": 25,
-          "last_week_ratio": 226.7
-        },
-        {
-          "moviename": "Even more dazzling! KING OF PRISM – Dramatic Prism.1–",
-          "japanese name": "も～っと煌めく！ＫＩＮＧ ＯＦ ＰＲＩＳＭ －Ｄｒａｍａｔｉｃ ＰＲＩＳＭ．１－",
-          "sales": 680,
-          "seats": 8143,
-          "showtimes": 61,
+          "moviename": "Traps: The Movie",
+          "japanese name": "トラップ 劇場版",
+          "sales": 2393,
+          "seats": 22845,
+          "showtimes": 138,
           "theaters": 38,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Sound of Freedom",
-          "japanese name": "サウンド・オブ・フリーダム",
-          "sales": 641,
-          "seats": 5902,
-          "showtimes": 42,
-          "theaters": 39,
-          "rank": 22,
+          "rank": 7,
           "last_week_ratio": null
         },
         {
@@ -362,23 +352,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Muroi Shinji: The Invincible",
-          "japanese name": "室井慎次 敗れざる者",
-          "sales": 10040,
-          "seats": 145386,
-          "showtimes": 650,
-          "theaters": 178,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version: Mahou Shoujo Madoka☆Magica [New Edition] The Story of Rebellion",
-          "japanese name": "劇場版 魔法少女まどか☆マギカ〔新編〕叛逆の物語",
-          "sales": 935,
-          "seats": 2689,
-          "showtimes": 12,
-          "theaters": 4,
-          "rank": 17,
+          "moviename": "Round/Full",
+          "japanese name": "まる",
+          "sales": 1966,
+          "seats": 32106,
+          "showtimes": 260,
+          "theaters": 147,
+          "rank": 10,
           "last_week_ratio": null
         },
         {
@@ -402,63 +382,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Round/Full",
-          "japanese name": "まる",
-          "sales": 1966,
-          "seats": 32106,
-          "showtimes": 260,
-          "theaters": 147,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Hachikun Monogatari",
-          "japanese name": "八犬伝",
-          "sales": 15206,
-          "seats": 161226,
-          "showtimes": 592,
-          "theaters": 167,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Voltes V: Legacy",
-          "japanese name": "ボルテスＶ レガシー",
-          "sales": 658,
-          "seats": 15916,
-          "showtimes": 116,
-          "theaters": 82,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version of ACMA: GAME – The Last Key",
-          "japanese name": "劇場版ＡＣＭＡ：ＧＡＭＥ 最後の鍵",
-          "sales": 3804,
-          "seats": 173712,
-          "showtimes": 649,
-          "theaters": 166,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Ghost Taro is Born: The Mystery of Gegengege – The Real Version",
-          "japanese name": "鬼太郎誕生 ゲゲゲの謎 真生版",
-          "sales": 1135,
-          "seats": 19622,
-          "showtimes": 146,
-          "theaters": 144,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Last Mile",
-          "japanese name": "ラストマイル",
-          "sales": 4167,
-          "seats": 37849,
-          "showtimes": 267,
-          "theaters": 170,
-          "rank": 5,
+          "moviename": "Let’s keep working hard together!",
+          "japanese name": "がんばっていきまっしょい",
+          "sales": 1492,
+          "seats": 84086,
+          "showtimes": 492,
+          "theaters": 131,
+          "rank": 13,
           "last_week_ratio": null
         },
         {
@@ -472,13 +402,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Touch.",
-          "japanese name": "ふれる。",
-          "sales": 571,
-          "seats": 15854,
-          "showtimes": 129,
-          "theaters": 145,
-          "rank": 24,
+          "moviename": "Ghost Taro is Born: The Mystery of Gegengege – The Real Version",
+          "japanese name": "鬼太郎誕生 ゲゲゲの謎 真生版",
+          "sales": 1135,
+          "seats": 19622,
+          "showtimes": 146,
+          "theaters": 144,
+          "rank": 15,
           "last_week_ratio": null
         },
         {
@@ -492,6 +422,16 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Theatrical Version: Mahou Shoujo Madoka☆Magica [New Edition] The Story of Rebellion",
+          "japanese name": "劇場版 魔法少女まどか☆マギカ〔新編〕叛逆の物語",
+          "sales": 935,
+          "seats": 2689,
+          "showtimes": 12,
+          "theaters": 4,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Kingdom The Return of the Grand General",
           "japanese name": "キングダム 大将軍の帰還",
           "sales": 736,
@@ -502,14 +442,74 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Traps: The Movie",
-          "japanese name": "トラップ 劇場版",
-          "sales": 2393,
-          "seats": 22845,
-          "showtimes": 138,
+          "moviename": "Even more dazzling! KING OF PRISM – Dramatic Prism.1–",
+          "japanese name": "も～っと煌めく！ＫＩＮＧ ＯＦ ＰＲＩＳＭ －Ｄｒａｍａｔｉｃ ＰＲＩＳＭ．１－",
+          "sales": 680,
+          "seats": 8143,
+          "showtimes": 61,
           "theaters": 38,
-          "rank": 7,
+          "rank": 19,
           "last_week_ratio": null
+        },
+        {
+          "moviename": "ROF-MAO Cinema “New Street, New World”",
+          "japanese name": "ＲＯＦ－ＭＡＯシネマ「Ｎｅｗ ｓｔｒｅｅｔ， Ｎｅｗ ｗｏｒｌｄ」",
+          "sales": 663,
+          "seats": 6145,
+          "showtimes": 37,
+          "theaters": 30,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Voltes V: Legacy",
+          "japanese name": "ボルテスＶ レガシー",
+          "sales": 658,
+          "seats": 15916,
+          "showtimes": 116,
+          "theaters": 82,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sound of Freedom",
+          "japanese name": "サウンド・オブ・フリーダム",
+          "sales": 641,
+          "seats": 5902,
+          "showtimes": 42,
+          "theaters": 39,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pride and Goodness",
+          "japanese name": "傲慢と善良",
+          "sales": 617,
+          "seats": 4337,
+          "showtimes": 38,
+          "theaters": 48,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Touch.",
+          "japanese name": "ふれる。",
+          "sales": 571,
+          "seats": 15854,
+          "showtimes": 129,
+          "theaters": 145,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love Live! Nijigasaki High School Idol Club Completion Edition Chapter 1",
+          "japanese name": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第１章",
+          "sales": 535,
+          "seats": 11363,
+          "showtimes": 51,
+          "theaters": 69,
+          "rank": 25,
+          "last_week_ratio": 226.7
         }
       ]
     },
@@ -518,13 +518,23 @@
       "time": "Final",
       "data": [
         {
-          "moviename": "ROF-MAO Cinema “New Street, New World”",
-          "japanese name": "ＲＯＦ－ＭＡＯシネマ「Ｎｅｗ ｓｔｒｅｅｔ， Ｎｅｗ ｗｏｒｌｄ」",
-          "sales": 849,
-          "seats": 7379,
-          "showtimes": 46,
-          "theaters": 30,
-          "rank": 20,
+          "moviename": "Hachikun Monogatari",
+          "japanese name": "八犬伝",
+          "sales": 16256,
+          "seats": 200568,
+          "showtimes": 747,
+          "theaters": 167,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Muroi Shinji: The Invincible",
+          "japanese name": "室井慎次 敗れざる者",
+          "sales": 11252,
+          "seats": 184255,
+          "showtimes": 819,
+          "theaters": 178,
+          "rank": 2,
           "last_week_ratio": null
         },
         {
@@ -538,6 +548,16 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Last Mile",
+          "japanese name": "ラストマイル",
+          "sales": 5060,
+          "seats": 48110,
+          "showtimes": 341,
+          "theaters": 170,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Samurai Slippers",
           "japanese name": "侍タイムスリッパー",
           "sales": 4449,
@@ -548,63 +568,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Pride and Goodness",
-          "japanese name": "傲慢と善良",
-          "sales": 775,
-          "seats": 5207,
-          "showtimes": 46,
-          "theaters": 48,
-          "rank": 23,
+          "moviename": "Theatrical Version of ACMA: GAME – The Last Key",
+          "japanese name": "劇場版ＡＣＭＡ：ＧＡＭＥ 最後の鍵",
+          "sales": 4380,
+          "seats": 217351,
+          "showtimes": 809,
+          "theaters": 166,
+          "rank": 6,
           "last_week_ratio": null
         },
         {
-          "moviename": "Let’s keep working hard together!",
-          "japanese name": "がんばっていきまっしょい",
-          "sales": 1830,
-          "seats": 105890,
-          "showtimes": 621,
-          "theaters": 131,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Love Live! Nijigasaki High School Idol Club Completion Edition Chapter 1",
-          "japanese name": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第１章",
-          "sales": 786,
-          "seats": 15325,
-          "showtimes": 72,
-          "theaters": 69,
-          "rank": 22,
-          "last_week_ratio": 187.1
-        },
-        {
-          "moviename": "Even more dazzling! KING OF PRISM – Dramatic Prism.1–",
-          "japanese name": "も～っと煌めく！ＫＩＮＧ ＯＦ ＰＲＩＳＭ －Ｄｒａｍａｔｉｃ ＰＲＩＳＭ．１－",
-          "sales": 848,
-          "seats": 9678,
-          "showtimes": 73,
+          "moviename": "Traps: The Movie",
+          "japanese name": "トラップ 劇場版",
+          "sales": 2987,
+          "seats": 30339,
+          "showtimes": 178,
           "theaters": 38,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Sound of Freedom",
-          "japanese name": "サウンド・オブ・フリーダム",
-          "sales": 710,
-          "seats": 6628,
-          "showtimes": 48,
-          "theaters": 39,
-          "rank": 25,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Civil War: The Last Day of America",
-          "japanese name": "シビル・ウォー アメリカ最後の日",
-          "sales": 2762,
-          "seats": 46098,
-          "showtimes": 283,
-          "theaters": 160,
-          "rank": 9,
+          "rank": 7,
           "last_week_ratio": null
         },
         {
@@ -618,33 +598,13 @@
           "last_week_ratio": 103
         },
         {
-          "moviename": "Muroi Shinji: The Invincible",
-          "japanese name": "室井慎次 敗れざる者",
-          "sales": 11252,
-          "seats": 184255,
-          "showtimes": 819,
-          "theaters": 178,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version: Mahou Shoujo Madoka☆Magica [New Edition] The Story of Rebellion",
-          "japanese name": "劇場版 魔法少女まどか☆マギカ〔新編〕叛逆の物語",
-          "sales": 1068,
-          "seats": 2915,
-          "showtimes": 13,
-          "theaters": 4,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "All of Tokyo",
-          "japanese name": "ゼンブ・オブ・トーキョー",
-          "sales": 2222,
-          "seats": 67313,
-          "showtimes": 466,
-          "theaters": 107,
-          "rank": 12,
+          "moviename": "Civil War: The Last Day of America",
+          "japanese name": "シビル・ウォー アメリカ最後の日",
+          "sales": 2762,
+          "seats": 46098,
+          "showtimes": 283,
+          "theaters": 160,
+          "rank": 9,
           "last_week_ratio": null
         },
         {
@@ -668,73 +628,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Hachikun Monogatari",
-          "japanese name": "八犬伝",
-          "sales": 16256,
-          "seats": 200568,
-          "showtimes": 747,
-          "theaters": 167,
-          "rank": 1,
+          "moviename": "All of Tokyo",
+          "japanese name": "ゼンブ・オブ・トーキョー",
+          "sales": 2222,
+          "seats": 67313,
+          "showtimes": 466,
+          "theaters": 107,
+          "rank": 12,
           "last_week_ratio": null
         },
         {
-          "moviename": "Voltes V: Legacy",
-          "japanese name": "ボルテスＶ レガシー",
-          "sales": 875,
-          "seats": 21973,
-          "showtimes": 162,
-          "theaters": 82,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version of ACMA: GAME – The Last Key",
-          "japanese name": "劇場版ＡＣＭＡ：ＧＡＭＥ 最後の鍵",
-          "sales": 4380,
-          "seats": 217351,
-          "showtimes": 809,
-          "theaters": 166,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Ghost Taro is Born: The Mystery of Gegengege – The Real Version",
-          "japanese name": "鬼太郎誕生 ゲゲゲの謎 真生版",
-          "sales": 1375,
-          "seats": 22833,
-          "showtimes": 173,
-          "theaters": 144,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Last Mile",
-          "japanese name": "ラストマイル",
-          "sales": 5060,
-          "seats": 48110,
-          "showtimes": 341,
-          "theaters": 170,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Let's talk about SoMi",
-          "japanese name": "スオミの話をしよう",
-          "sales": 1200,
-          "seats": 22574,
-          "showtimes": 167,
-          "theaters": 159,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Touch.",
-          "japanese name": "ふれる。",
-          "sales": 714,
-          "seats": 18123,
-          "showtimes": 145,
-          "theaters": 145,
-          "rank": 24,
+          "moviename": "Let’s keep working hard together!",
+          "japanese name": "がんばっていきまっしょい",
+          "sales": 1830,
+          "seats": 105890,
+          "showtimes": 621,
+          "theaters": 131,
+          "rank": 13,
           "last_week_ratio": null
         },
         {
@@ -748,6 +658,36 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Ghost Taro is Born: The Mystery of Gegengege – The Real Version",
+          "japanese name": "鬼太郎誕生 ゲゲゲの謎 真生版",
+          "sales": 1375,
+          "seats": 22833,
+          "showtimes": 173,
+          "theaters": 144,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let's talk about SoMi",
+          "japanese name": "スオミの話をしよう",
+          "sales": 1200,
+          "seats": 22574,
+          "showtimes": 167,
+          "theaters": 159,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Mahou Shoujo Madoka☆Magica [New Edition] The Story of Rebellion",
+          "japanese name": "劇場版 魔法少女まどか☆マギカ〔新編〕叛逆の物語",
+          "sales": 1068,
+          "seats": 2915,
+          "showtimes": 13,
+          "theaters": 4,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Kingdom The Return of the Grand General",
           "japanese name": "キングダム 大将軍の帰還",
           "sales": 876,
@@ -758,13 +698,73 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Traps: The Movie",
-          "japanese name": "トラップ 劇場版",
-          "sales": 2987,
-          "seats": 30339,
-          "showtimes": 178,
+          "moviename": "Voltes V: Legacy",
+          "japanese name": "ボルテスＶ レガシー",
+          "sales": 875,
+          "seats": 21973,
+          "showtimes": 162,
+          "theaters": 82,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ROF-MAO Cinema “New Street, New World”",
+          "japanese name": "ＲＯＦ－ＭＡＯシネマ「Ｎｅｗ ｓｔｒｅｅｔ， Ｎｅｗ ｗｏｒｌｄ」",
+          "sales": 849,
+          "seats": 7379,
+          "showtimes": 46,
+          "theaters": 30,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Even more dazzling! KING OF PRISM – Dramatic Prism.1–",
+          "japanese name": "も～っと煌めく！ＫＩＮＧ ＯＦ ＰＲＩＳＭ －Ｄｒａｍａｔｉｃ ＰＲＩＳＭ．１－",
+          "sales": 848,
+          "seats": 9678,
+          "showtimes": 73,
           "theaters": 38,
-          "rank": 7,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love Live! Nijigasaki High School Idol Club Completion Edition Chapter 1",
+          "japanese name": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第１章",
+          "sales": 786,
+          "seats": 15325,
+          "showtimes": 72,
+          "theaters": 69,
+          "rank": 22,
+          "last_week_ratio": 187.1
+        },
+        {
+          "moviename": "Pride and Goodness",
+          "japanese name": "傲慢と善良",
+          "sales": 775,
+          "seats": 5207,
+          "showtimes": 46,
+          "theaters": 48,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Touch.",
+          "japanese name": "ふれる。",
+          "sales": 714,
+          "seats": 18123,
+          "showtimes": 145,
+          "theaters": 145,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sound of Freedom",
+          "japanese name": "サウンド・オブ・フリーダム",
+          "sales": 710,
+          "seats": 6628,
+          "showtimes": 48,
+          "theaters": 39,
+          "rank": 25,
           "last_week_ratio": null
         }
       ]

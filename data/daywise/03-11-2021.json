@@ -6,6 +6,26 @@
       "time": "2PM",
       "data": [
         {
+          "moviename": "Theatrical version of “What Did You Eat Yesterday?”",
+          "japanese name": "劇場版「きのう何食べた？」",
+          "sales": 69047,
+          "seats": 191098,
+          "showtimes": 595,
+          "theaters": 258,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I don’t have any money saved for my retirement!",
+          "japanese name": "老後の資金がありません！",
+          "sales": 34417,
+          "seats": 114275,
+          "showtimes": 629,
+          "theaters": 272,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "And then, the baton was passed on.",
           "japanese name": "そして、バトンは渡された",
           "sales": 31911,
@@ -16,6 +36,56 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Movie Tropical～Ju! Pretty Cure: The Snow Princess and the Miracle Ring",
+          "japanese name": "映画トロピカル～ジュ！プリキュア 雪のプリンセスと奇跡の指輪",
+          "sales": 31575,
+          "seats": 106619,
+          "showtimes": 564,
+          "theaters": 195,
+          "rank": 4,
+          "last_week_ratio": 816.7
+        },
+        {
+          "moviename": "Sword Art Online: The Movie – Progressive, Aria in a Starless Night",
+          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア",
+          "sales": 24793,
+          "seats": 136501,
+          "showtimes": 468,
+          "theaters": 156,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Burn, sword!",
+          "japanese name": "燃えよ剣",
+          "sales": 15699,
+          "seats": 68032,
+          "showtimes": 457,
+          "theaters": 286,
+          "rank": 6,
+          "last_week_ratio": 142.5
+        },
+        {
+          "moviename": "007: No Time to Die",
+          "japanese name": "００７ ノー・タイム・トゥ・ダイ",
+          "sales": 13602,
+          "seats": 37709,
+          "showtimes": 262,
+          "theaters": 291,
+          "rank": 7,
+          "last_week_ratio": 193.5
+        },
+        {
+          "moviename": "Masquerade Night",
+          "japanese name": "マスカレード・ナイト",
+          "sales": 10436,
+          "seats": 30860,
+          "showtimes": 233,
+          "theaters": 286,
+          "rank": 8,
+          "last_week_ratio": 232.4
+        },
+        {
           "moviename": "Theatrical Version: Lupin’s Daughter",
           "japanese name": "劇場版 ルパンの娘",
           "sales": 8408,
@@ -24,6 +94,96 @@
           "theaters": 273,
           "rank": 9,
           "last_week_ratio": 311.2
+        },
+        {
+          "moviename": "CUBE Once you enter, it's the last",
+          "japanese name": "ＣＵＢＥ 一度入ったら、最後",
+          "sales": 7513,
+          "seats": 45816,
+          "showtimes": 350,
+          "theaters": 282,
+          "rank": 10,
+          "last_week_ratio": 128.2
+        },
+        {
+          "moviename": "DUNE / The Planet of Sand",
+          "japanese name": "ＤＵＮＥ／デューン 砂の惑星",
+          "sales": 6634,
+          "seats": 30228,
+          "showtimes": 234,
+          "theaters": 283,
+          "rank": 11,
+          "last_week_ratio": 152.1
+        },
+        {
+          "moviename": "Let me hear Ai’s singing.",
+          "japanese name": "アイの歌声を聴かせて",
+          "sales": 4940,
+          "seats": 73649,
+          "showtimes": 472,
+          "theaters": 225,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "LON: My Clumsy Robot",
+          "japanese name": "ロン 僕のポンコツ・ボット",
+          "sales": 4188,
+          "seats": 36385,
+          "showtimes": 282,
+          "theaters": 276,
+          "rank": 13,
+          "last_week_ratio": 293.7
+        },
+        {
+          "moviename": "To those who were not protected",
+          "japanese name": "護られなかった者たちへ",
+          "sales": 3456,
+          "seats": 15294,
+          "showtimes": 123,
+          "theaters": 266,
+          "rank": 14,
+          "last_week_ratio": 114
+        },
+        {
+          "moviename": "The Laws of the Universe – Elohim Chapter –",
+          "japanese name": "宇宙の法－エローヒム編－",
+          "sales": 2706,
+          "seats": 20582,
+          "showtimes": 119,
+          "theaters": 136,
+          "rank": 15,
+          "last_week_ratio": 188.2
+        },
+        {
+          "moviename": "Mauritanian: Records marked as “black”.",
+          "japanese name": "モーリタニアン 黒塗りの記録",
+          "sales": 2389,
+          "seats": 12845,
+          "showtimes": 100,
+          "theaters": 79,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Free! –The Final Stroke– Part 1",
+          "japanese name": "劇場版 Ｆｒｅｅ！ －ｔｈｅ Ｆｉｎａｌ Ｓｔｒｏｋｅ－ 前編",
+          "sales": 2008,
+          "seats": 5601,
+          "showtimes": 35,
+          "theaters": 123,
+          "rank": 17,
+          "last_week_ratio": 509.6
+        },
+        {
+          "moviename": "The Princess and the Dragon",
+          "japanese name": "竜とそばかすの姫",
+          "sales": 1976,
+          "seats": 7322,
+          "showtimes": 62,
+          "theaters": 186,
+          "rank": 18,
+          "last_week_ratio": 374.2
         },
         {
           "moviename": "Halloween Kills",
@@ -46,66 +206,6 @@
           "last_week_ratio": 246.2
         },
         {
-          "moviename": "Movie Tropical～Ju! Pretty Cure: The Snow Princess and the Miracle Ring",
-          "japanese name": "映画トロピカル～ジュ！プリキュア 雪のプリンセスと奇跡の指輪",
-          "sales": 31575,
-          "seats": 106619,
-          "showtimes": 564,
-          "theaters": 195,
-          "rank": 4,
-          "last_week_ratio": 816.7
-        },
-        {
-          "moviename": "Masquerade Night",
-          "japanese name": "マスカレード・ナイト",
-          "sales": 10436,
-          "seats": 30860,
-          "showtimes": 233,
-          "theaters": 286,
-          "rank": 8,
-          "last_week_ratio": 232.4
-        },
-        {
-          "moviename": "The Princess and the Dragon",
-          "japanese name": "竜とそばかすの姫",
-          "sales": 1976,
-          "seats": 7322,
-          "showtimes": 62,
-          "theaters": 186,
-          "rank": 18,
-          "last_week_ratio": 374.2
-        },
-        {
-          "moviename": "007: No Time to Die",
-          "japanese name": "００７ ノー・タイム・トゥ・ダイ",
-          "sales": 13602,
-          "seats": 37709,
-          "showtimes": 262,
-          "theaters": 291,
-          "rank": 7,
-          "last_week_ratio": 193.5
-        },
-        {
-          "moviename": "Movie Free! –The Final Stroke– Part 1",
-          "japanese name": "劇場版 Ｆｒｅｅ！ －ｔｈｅ Ｆｉｎａｌ Ｓｔｒｏｋｅ－ 前編",
-          "sales": 2008,
-          "seats": 5601,
-          "showtimes": 35,
-          "theaters": 123,
-          "rank": 17,
-          "last_week_ratio": 509.6
-        },
-        {
-          "moviename": "Cash Track",
-          "japanese name": "キャッシュトラック",
-          "sales": 704,
-          "seats": 3408,
-          "showtimes": 28,
-          "theaters": 119,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Hiraite",
           "japanese name": "ひらいて",
           "sales": 1412,
@@ -114,16 +214,6 @@
           "theaters": 64,
           "rank": 21,
           "last_week_ratio": 151.2
-        },
-        {
-          "moviename": "The Laws of the Universe – Elohim Chapter –",
-          "japanese name": "宇宙の法－エローヒム編－",
-          "sales": 2706,
-          "seats": 20582,
-          "showtimes": 119,
-          "theaters": 136,
-          "rank": 15,
-          "last_week_ratio": 188.2
         },
         {
           "moviename": "Theatrical Version: I’m Being Threatened by the Man Who Wants to Be Held in His Arms the Most. ~Spain Chapter~",
@@ -136,84 +226,14 @@
           "last_week_ratio": 147.1
         },
         {
-          "moviename": "Burn, sword!",
-          "japanese name": "燃えよ剣",
-          "sales": 15699,
-          "seats": 68032,
-          "showtimes": 457,
-          "theaters": 286,
-          "rank": 6,
-          "last_week_ratio": 142.5
-        },
-        {
-          "moviename": "Sword Art Online: The Movie – Progressive, Aria in a Starless Night",
-          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア",
-          "sales": 24793,
-          "seats": 136501,
-          "showtimes": 468,
-          "theaters": 156,
-          "rank": 5,
+          "moviename": "Cash Track",
+          "japanese name": "キャッシュトラック",
+          "sales": 704,
+          "seats": 3408,
+          "showtimes": 28,
+          "theaters": 119,
+          "rank": 23,
           "last_week_ratio": null
-        },
-        {
-          "moviename": "Mauritanian: Records marked as “black”.",
-          "japanese name": "モーリタニアン 黒塗りの記録",
-          "sales": 2389,
-          "seats": 12845,
-          "showtimes": 100,
-          "theaters": 79,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical version of “What Did You Eat Yesterday?”",
-          "japanese name": "劇場版「きのう何食べた？」",
-          "sales": 69047,
-          "seats": 191098,
-          "showtimes": 595,
-          "theaters": 258,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "G.I. Joe: Snake Eyes in Black",
-          "japanese name": "Ｇ．Ｉ．ジョー：漆黒のスネークアイズ",
-          "sales": 589,
-          "seats": 12281,
-          "showtimes": 90,
-          "theaters": 166,
-          "rank": 25,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "I don’t have any money saved for my retirement!",
-          "japanese name": "老後の資金がありません！",
-          "sales": 34417,
-          "seats": 114275,
-          "showtimes": 629,
-          "theaters": 272,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "LON: My Clumsy Robot",
-          "japanese name": "ロン 僕のポンコツ・ボット",
-          "sales": 4188,
-          "seats": 36385,
-          "showtimes": 282,
-          "theaters": 276,
-          "rank": 13,
-          "last_week_ratio": 293.7
-        },
-        {
-          "moviename": "DUNE / The Planet of Sand",
-          "japanese name": "ＤＵＮＥ／デューン 砂の惑星",
-          "sales": 6634,
-          "seats": 30228,
-          "showtimes": 234,
-          "theaters": 283,
-          "rank": 11,
-          "last_week_ratio": 152.1
         },
         {
           "moviename": "The final duel trial",
@@ -226,33 +246,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "To those who were not protected",
-          "japanese name": "護られなかった者たちへ",
-          "sales": 3456,
-          "seats": 15294,
-          "showtimes": 123,
-          "theaters": 266,
-          "rank": 14,
-          "last_week_ratio": 114
-        },
-        {
-          "moviename": "CUBE Once you enter, it's the last",
-          "japanese name": "ＣＵＢＥ 一度入ったら、最後",
-          "sales": 7513,
-          "seats": 45816,
-          "showtimes": 350,
-          "theaters": 282,
-          "rank": 10,
-          "last_week_ratio": 128.2
-        },
-        {
-          "moviename": "Let me hear Ai’s singing.",
-          "japanese name": "アイの歌声を聴かせて",
-          "sales": 4940,
-          "seats": 73649,
-          "showtimes": 472,
-          "theaters": 225,
-          "rank": 12,
+          "moviename": "G.I. Joe: Snake Eyes in Black",
+          "japanese name": "Ｇ．Ｉ．ジョー：漆黒のスネークアイズ",
+          "sales": 589,
+          "seats": 12281,
+          "showtimes": 90,
+          "theaters": 166,
+          "rank": 25,
           "last_week_ratio": null
         }
       ]
@@ -261,166 +261,6 @@
       "title": "Including Independents",
       "time": "7PM",
       "data": [
-        {
-          "moviename": "And then, the baton was passed on.",
-          "japanese name": "そして、バトンは渡された",
-          "sales": 58183,
-          "seats": 227946,
-          "showtimes": 1137,
-          "theaters": 281,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version: Lupin’s Daughter",
-          "japanese name": "劇場版 ルパンの娘",
-          "sales": 12546,
-          "seats": 53122,
-          "showtimes": 424,
-          "theaters": 273,
-          "rank": 11,
-          "last_week_ratio": 293.5
-        },
-        {
-          "moviename": "Halloween Kills",
-          "japanese name": "ハロウィン ＫＩＬＬＳ",
-          "sales": 3818,
-          "seats": 27864,
-          "showtimes": 205,
-          "theaters": 106,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Macross Δ Theatrical Movie: Absolute LIVE!!!!!!!",
-          "japanese name": "劇場版マクロス△ 絶対ＬＩＶＥ！！！！！！",
-          "sales": 3106,
-          "seats": 14878,
-          "showtimes": 111,
-          "theaters": 110,
-          "rank": 20,
-          "last_week_ratio": 196.8
-        },
-        {
-          "moviename": "Movie Tropical～Ju! Pretty Cure: The Snow Princess and the Miracle Ring",
-          "japanese name": "映画トロピカル～ジュ！プリキュア 雪のプリンセスと奇跡の指輪",
-          "sales": 34773,
-          "seats": 128177,
-          "showtimes": 679,
-          "theaters": 195,
-          "rank": 5,
-          "last_week_ratio": 579.2
-        },
-        {
-          "moviename": "Masquerade Night",
-          "japanese name": "マスカレード・ナイト",
-          "sales": 18412,
-          "seats": 64404,
-          "showtimes": 468,
-          "theaters": 286,
-          "rank": 8,
-          "last_week_ratio": 230.4
-        },
-        {
-          "moviename": "The Princess and the Dragon",
-          "japanese name": "竜とそばかすの姫",
-          "sales": 4058,
-          "seats": 21092,
-          "showtimes": 172,
-          "theaters": 186,
-          "rank": 17,
-          "last_week_ratio": 334
-        },
-        {
-          "moviename": "007: No Time to Die",
-          "japanese name": "００７ ノー・タイム・トゥ・ダイ",
-          "sales": 22258,
-          "seats": 71024,
-          "showtimes": 483,
-          "theaters": 291,
-          "rank": 7,
-          "last_week_ratio": 204.6
-        },
-        {
-          "moviename": "Movie Free! –The Final Stroke– Part 1",
-          "japanese name": "劇場版 Ｆｒｅｅ！ －ｔｈｅ Ｆｉｎａｌ Ｓｔｒｏｋｅ－ 前編",
-          "sales": 4354,
-          "seats": 16374,
-          "showtimes": 106,
-          "theaters": 123,
-          "rank": 16,
-          "last_week_ratio": 285.7
-        },
-        {
-          "moviename": "Cash Track",
-          "japanese name": "キャッシュトラック",
-          "sales": 1605,
-          "seats": 11824,
-          "showtimes": 93,
-          "theaters": 119,
-          "rank": 23,
-          "last_week_ratio": 103.9
-        },
-        {
-          "moviename": "Hiraite",
-          "japanese name": "ひらいて",
-          "sales": 3094,
-          "seats": 16108,
-          "showtimes": 122,
-          "theaters": 64,
-          "rank": 21,
-          "last_week_ratio": 154.5
-        },
-        {
-          "moviename": "The Laws of the Universe – Elohim Chapter –",
-          "japanese name": "宇宙の法－エローヒム編－",
-          "sales": 4896,
-          "seats": 38116,
-          "showtimes": 214,
-          "theaters": 136,
-          "rank": 15,
-          "last_week_ratio": 182.6
-        },
-        {
-          "moviename": "Theatrical Version: I’m Being Threatened by the Man Who Wants to Be Held in His Arms the Most. ~Spain Chapter~",
-          "japanese name": "劇場版 抱かれたい男１位に脅されています。～スペイン編～",
-          "sales": 1978,
-          "seats": 7888,
-          "showtimes": 50,
-          "theaters": 49,
-          "rank": 22,
-          "last_week_ratio": 153.9
-        },
-        {
-          "moviename": "Burn, sword!",
-          "japanese name": "燃えよ剣",
-          "sales": 24333,
-          "seats": 111427,
-          "showtimes": 748,
-          "theaters": 286,
-          "rank": 6,
-          "last_week_ratio": 146.9
-        },
-        {
-          "moviename": "Sword Art Online: The Movie – Progressive, Aria in a Starless Night",
-          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア",
-          "sales": 39912,
-          "seats": 246074,
-          "showtimes": 850,
-          "theaters": 156,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Mauritanian: Records marked as “black”.",
-          "japanese name": "モーリタニアン 黒塗りの記録",
-          "sales": 3789,
-          "seats": 22147,
-          "showtimes": 176,
-          "theaters": 79,
-          "rank": 19,
-          "last_week_ratio": null
-        },
         {
           "moviename": "Theatrical version of “What Did You Eat Yesterday?”",
           "japanese name": "劇場版「きのう何食べた？」",
@@ -432,13 +272,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "G.I. Joe: Snake Eyes in Black",
-          "japanese name": "Ｇ．Ｉ．ジョー：漆黒のスネークアイズ",
-          "sales": 1316,
-          "seats": 25974,
-          "showtimes": 205,
-          "theaters": 166,
-          "rank": 25,
+          "moviename": "And then, the baton was passed on.",
+          "japanese name": "そして、バトンは渡された",
+          "sales": 58183,
+          "seats": 227946,
+          "showtimes": 1137,
+          "theaters": 281,
+          "rank": 2,
           "last_week_ratio": null
         },
         {
@@ -452,14 +292,64 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "LON: My Clumsy Robot",
-          "japanese name": "ロン 僕のポンコツ・ボット",
-          "sales": 5903,
-          "seats": 54642,
-          "showtimes": 422,
-          "theaters": 276,
-          "rank": 14,
-          "last_week_ratio": 242.8
+          "moviename": "Sword Art Online: The Movie – Progressive, Aria in a Starless Night",
+          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア",
+          "sales": 39912,
+          "seats": 246074,
+          "showtimes": 850,
+          "theaters": 156,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Tropical～Ju! Pretty Cure: The Snow Princess and the Miracle Ring",
+          "japanese name": "映画トロピカル～ジュ！プリキュア 雪のプリンセスと奇跡の指輪",
+          "sales": 34773,
+          "seats": 128177,
+          "showtimes": 679,
+          "theaters": 195,
+          "rank": 5,
+          "last_week_ratio": 579.2
+        },
+        {
+          "moviename": "Burn, sword!",
+          "japanese name": "燃えよ剣",
+          "sales": 24333,
+          "seats": 111427,
+          "showtimes": 748,
+          "theaters": 286,
+          "rank": 6,
+          "last_week_ratio": 146.9
+        },
+        {
+          "moviename": "007: No Time to Die",
+          "japanese name": "００７ ノー・タイム・トゥ・ダイ",
+          "sales": 22258,
+          "seats": 71024,
+          "showtimes": 483,
+          "theaters": 291,
+          "rank": 7,
+          "last_week_ratio": 204.6
+        },
+        {
+          "moviename": "Masquerade Night",
+          "japanese name": "マスカレード・ナイト",
+          "sales": 18412,
+          "seats": 64404,
+          "showtimes": 468,
+          "theaters": 286,
+          "rank": 8,
+          "last_week_ratio": 230.4
+        },
+        {
+          "moviename": "CUBE Once you enter, it's the last",
+          "japanese name": "ＣＵＢＥ 一度入ったら、最後",
+          "sales": 14309,
+          "seats": 87990,
+          "showtimes": 650,
+          "theaters": 282,
+          "rank": 9,
+          "last_week_ratio": 139.4
         },
         {
           "moviename": "DUNE / The Planet of Sand",
@@ -472,13 +362,23 @@
           "last_week_ratio": 160.3
         },
         {
-          "moviename": "The final duel trial",
-          "japanese name": "最後の決闘裁判",
-          "sales": 1584,
-          "seats": 16629,
-          "showtimes": 134,
-          "theaters": 193,
-          "rank": 24,
+          "moviename": "Theatrical Version: Lupin’s Daughter",
+          "japanese name": "劇場版 ルパンの娘",
+          "sales": 12546,
+          "seats": 53122,
+          "showtimes": 424,
+          "theaters": 273,
+          "rank": 11,
+          "last_week_ratio": 293.5
+        },
+        {
+          "moviename": "Let me hear Ai’s singing.",
+          "japanese name": "アイの歌声を聴かせて",
+          "sales": 7570,
+          "seats": 126637,
+          "showtimes": 792,
+          "theaters": 225,
+          "rank": 12,
           "last_week_ratio": null
         },
         {
@@ -492,23 +392,123 @@
           "last_week_ratio": 138
         },
         {
-          "moviename": "CUBE Once you enter, it's the last",
-          "japanese name": "ＣＵＢＥ 一度入ったら、最後",
-          "sales": 14309,
-          "seats": 87990,
-          "showtimes": 650,
-          "theaters": 282,
-          "rank": 9,
-          "last_week_ratio": 139.4
+          "moviename": "LON: My Clumsy Robot",
+          "japanese name": "ロン 僕のポンコツ・ボット",
+          "sales": 5903,
+          "seats": 54642,
+          "showtimes": 422,
+          "theaters": 276,
+          "rank": 14,
+          "last_week_ratio": 242.8
         },
         {
-          "moviename": "Let me hear Ai’s singing.",
-          "japanese name": "アイの歌声を聴かせて",
-          "sales": 7570,
-          "seats": 126637,
-          "showtimes": 792,
-          "theaters": 225,
-          "rank": 12,
+          "moviename": "The Laws of the Universe – Elohim Chapter –",
+          "japanese name": "宇宙の法－エローヒム編－",
+          "sales": 4896,
+          "seats": 38116,
+          "showtimes": 214,
+          "theaters": 136,
+          "rank": 15,
+          "last_week_ratio": 182.6
+        },
+        {
+          "moviename": "Movie Free! –The Final Stroke– Part 1",
+          "japanese name": "劇場版 Ｆｒｅｅ！ －ｔｈｅ Ｆｉｎａｌ Ｓｔｒｏｋｅ－ 前編",
+          "sales": 4354,
+          "seats": 16374,
+          "showtimes": 106,
+          "theaters": 123,
+          "rank": 16,
+          "last_week_ratio": 285.7
+        },
+        {
+          "moviename": "The Princess and the Dragon",
+          "japanese name": "竜とそばかすの姫",
+          "sales": 4058,
+          "seats": 21092,
+          "showtimes": 172,
+          "theaters": 186,
+          "rank": 17,
+          "last_week_ratio": 334
+        },
+        {
+          "moviename": "Halloween Kills",
+          "japanese name": "ハロウィン ＫＩＬＬＳ",
+          "sales": 3818,
+          "seats": 27864,
+          "showtimes": 205,
+          "theaters": 106,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mauritanian: Records marked as “black”.",
+          "japanese name": "モーリタニアン 黒塗りの記録",
+          "sales": 3789,
+          "seats": 22147,
+          "showtimes": 176,
+          "theaters": 79,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Macross Δ Theatrical Movie: Absolute LIVE!!!!!!!",
+          "japanese name": "劇場版マクロス△ 絶対ＬＩＶＥ！！！！！！",
+          "sales": 3106,
+          "seats": 14878,
+          "showtimes": 111,
+          "theaters": 110,
+          "rank": 20,
+          "last_week_ratio": 196.8
+        },
+        {
+          "moviename": "Hiraite",
+          "japanese name": "ひらいて",
+          "sales": 3094,
+          "seats": 16108,
+          "showtimes": 122,
+          "theaters": 64,
+          "rank": 21,
+          "last_week_ratio": 154.5
+        },
+        {
+          "moviename": "Theatrical Version: I’m Being Threatened by the Man Who Wants to Be Held in His Arms the Most. ~Spain Chapter~",
+          "japanese name": "劇場版 抱かれたい男１位に脅されています。～スペイン編～",
+          "sales": 1978,
+          "seats": 7888,
+          "showtimes": 50,
+          "theaters": 49,
+          "rank": 22,
+          "last_week_ratio": 153.9
+        },
+        {
+          "moviename": "Cash Track",
+          "japanese name": "キャッシュトラック",
+          "sales": 1605,
+          "seats": 11824,
+          "showtimes": 93,
+          "theaters": 119,
+          "rank": 23,
+          "last_week_ratio": 103.9
+        },
+        {
+          "moviename": "The final duel trial",
+          "japanese name": "最後の決闘裁判",
+          "sales": 1584,
+          "seats": 16629,
+          "showtimes": 134,
+          "theaters": 193,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "G.I. Joe: Snake Eyes in Black",
+          "japanese name": "Ｇ．Ｉ．ジョー：漆黒のスネークアイズ",
+          "sales": 1316,
+          "seats": 25974,
+          "showtimes": 205,
+          "theaters": 166,
+          "rank": 25,
           "last_week_ratio": null
         }
       ]
@@ -517,166 +517,6 @@
       "title": "Including Independents",
       "time": "Final",
       "data": [
-        {
-          "moviename": "And then, the baton was passed on.",
-          "japanese name": "そして、バトンは渡された",
-          "sales": 61388,
-          "seats": 284725,
-          "showtimes": 1418,
-          "theaters": 281,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version: Lupin’s Daughter",
-          "japanese name": "劇場版 ルパンの娘",
-          "sales": 12757,
-          "seats": 60759,
-          "showtimes": 482,
-          "theaters": 273,
-          "rank": 11,
-          "last_week_ratio": 268.6
-        },
-        {
-          "moviename": "Halloween Kills",
-          "japanese name": "ハロウィン ＫＩＬＬＳ",
-          "sales": 4274,
-          "seats": 40193,
-          "showtimes": 297,
-          "theaters": 106,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Macross Δ Theatrical Movie: Absolute LIVE!!!!!!!",
-          "japanese name": "劇場版マクロス△ 絶対ＬＩＶＥ！！！！！！",
-          "sales": 3332,
-          "seats": 16566,
-          "showtimes": 128,
-          "theaters": 110,
-          "rank": 20,
-          "last_week_ratio": 171.7
-        },
-        {
-          "moviename": "Movie Tropical～Ju! Pretty Cure: The Snow Princess and the Miracle Ring",
-          "japanese name": "映画トロピカル～ジュ！プリキュア 雪のプリンセスと奇跡の指輪",
-          "sales": 34791,
-          "seats": 128474,
-          "showtimes": 682,
-          "theaters": 195,
-          "rank": 5,
-          "last_week_ratio": 571.4
-        },
-        {
-          "moviename": "Masquerade Night",
-          "japanese name": "マスカレード・ナイト",
-          "sales": 18999,
-          "seats": 79617,
-          "showtimes": 587,
-          "theaters": 286,
-          "rank": 8,
-          "last_week_ratio": 209.1
-        },
-        {
-          "moviename": "The Princess and the Dragon",
-          "japanese name": "竜とそばかすの姫",
-          "sales": 4307,
-          "seats": 26198,
-          "showtimes": 213,
-          "theaters": 186,
-          "rank": 17,
-          "last_week_ratio": 310.5
-        },
-        {
-          "moviename": "007: No Time to Die",
-          "japanese name": "００７ ノー・タイム・トゥ・ダイ",
-          "sales": 24311,
-          "seats": 94186,
-          "showtimes": 633,
-          "theaters": 291,
-          "rank": 7,
-          "last_week_ratio": 189.6
-        },
-        {
-          "moviename": "Movie Free! –The Final Stroke– Part 1",
-          "japanese name": "劇場版 Ｆｒｅｅ！ －ｔｈｅ Ｆｉｎａｌ Ｓｔｒｏｋｅ－ 前編",
-          "sales": 4908,
-          "seats": 20242,
-          "showtimes": 132,
-          "theaters": 123,
-          "rank": 16,
-          "last_week_ratio": 256.6
-        },
-        {
-          "moviename": "Cash Track",
-          "japanese name": "キャッシュトラック",
-          "sales": 1924,
-          "seats": 17920,
-          "showtimes": 134,
-          "theaters": 119,
-          "rank": 24,
-          "last_week_ratio": 102.9
-        },
-        {
-          "moviename": "Hiraite",
-          "japanese name": "ひらいて",
-          "sales": 3168,
-          "seats": 18300,
-          "showtimes": 139,
-          "theaters": 64,
-          "rank": 21,
-          "last_week_ratio": 139.7
-        },
-        {
-          "moviename": "The Laws of the Universe – Elohim Chapter –",
-          "japanese name": "宇宙の法－エローヒム編－",
-          "sales": 5178,
-          "seats": 39239,
-          "showtimes": 221,
-          "theaters": 136,
-          "rank": 15,
-          "last_week_ratio": 186.7
-        },
-        {
-          "moviename": "Theatrical Version: I’m Being Threatened by the Man Who Wants to Be Held in His Arms the Most. ~Spain Chapter~",
-          "japanese name": "劇場版 抱かれたい男１位に脅されています。～スペイン編～",
-          "sales": 2184,
-          "seats": 9226,
-          "showtimes": 59,
-          "theaters": 49,
-          "rank": 22,
-          "last_week_ratio": 145.3
-        },
-        {
-          "moviename": "Burn, sword!",
-          "japanese name": "燃えよ剣",
-          "sales": 25190,
-          "seats": 139129,
-          "showtimes": 932,
-          "theaters": 286,
-          "rank": 6,
-          "last_week_ratio": 133.5
-        },
-        {
-          "moviename": "Sword Art Online: The Movie – Progressive, Aria in a Starless Night",
-          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア",
-          "sales": 43038,
-          "seats": 306782,
-          "showtimes": 1058,
-          "theaters": 156,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Mauritanian: Records marked as “black”.",
-          "japanese name": "モーリタニアン 黒塗りの記録",
-          "sales": 4075,
-          "seats": 30369,
-          "showtimes": 236,
-          "theaters": 79,
-          "rank": 19,
-          "last_week_ratio": null
-        },
         {
           "moviename": "Theatrical version of “What Did You Eat Yesterday?”",
           "japanese name": "劇場版「きのう何食べた？」",
@@ -688,13 +528,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "G.I. Joe: Snake Eyes in Black",
-          "japanese name": "Ｇ．Ｉ．ジョー：漆黒のスネークアイズ",
-          "sales": 1411,
-          "seats": 34519,
-          "showtimes": 263,
-          "theaters": 166,
-          "rank": 25,
+          "moviename": "And then, the baton was passed on.",
+          "japanese name": "そして、バトンは渡された",
+          "sales": 61388,
+          "seats": 284725,
+          "showtimes": 1418,
+          "theaters": 281,
+          "rank": 2,
           "last_week_ratio": null
         },
         {
@@ -708,14 +548,64 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "LON: My Clumsy Robot",
-          "japanese name": "ロン 僕のポンコツ・ボット",
-          "sales": 5938,
-          "seats": 57581,
-          "showtimes": 440,
-          "theaters": 276,
-          "rank": 14,
-          "last_week_ratio": 221.1
+          "moviename": "Sword Art Online: The Movie – Progressive, Aria in a Starless Night",
+          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア",
+          "sales": 43038,
+          "seats": 306782,
+          "showtimes": 1058,
+          "theaters": 156,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Tropical～Ju! Pretty Cure: The Snow Princess and the Miracle Ring",
+          "japanese name": "映画トロピカル～ジュ！プリキュア 雪のプリンセスと奇跡の指輪",
+          "sales": 34791,
+          "seats": 128474,
+          "showtimes": 682,
+          "theaters": 195,
+          "rank": 5,
+          "last_week_ratio": 571.4
+        },
+        {
+          "moviename": "Burn, sword!",
+          "japanese name": "燃えよ剣",
+          "sales": 25190,
+          "seats": 139129,
+          "showtimes": 932,
+          "theaters": 286,
+          "rank": 6,
+          "last_week_ratio": 133.5
+        },
+        {
+          "moviename": "007: No Time to Die",
+          "japanese name": "００７ ノー・タイム・トゥ・ダイ",
+          "sales": 24311,
+          "seats": 94186,
+          "showtimes": 633,
+          "theaters": 291,
+          "rank": 7,
+          "last_week_ratio": 189.6
+        },
+        {
+          "moviename": "Masquerade Night",
+          "japanese name": "マスカレード・ナイト",
+          "sales": 18999,
+          "seats": 79617,
+          "showtimes": 587,
+          "theaters": 286,
+          "rank": 8,
+          "last_week_ratio": 209.1
+        },
+        {
+          "moviename": "CUBE Once you enter, it's the last",
+          "japanese name": "ＣＵＢＥ 一度入ったら、最後",
+          "sales": 15262,
+          "seats": 120514,
+          "showtimes": 886,
+          "theaters": 282,
+          "rank": 9,
+          "last_week_ratio": 128.1
         },
         {
           "moviename": "DUNE / The Planet of Sand",
@@ -728,13 +618,23 @@
           "last_week_ratio": 144.8
         },
         {
-          "moviename": "The final duel trial",
-          "japanese name": "最後の決闘裁判",
-          "sales": 2006,
-          "seats": 23655,
-          "showtimes": 191,
-          "theaters": 193,
-          "rank": 23,
+          "moviename": "Theatrical Version: Lupin’s Daughter",
+          "japanese name": "劇場版 ルパンの娘",
+          "sales": 12757,
+          "seats": 60759,
+          "showtimes": 482,
+          "theaters": 273,
+          "rank": 11,
+          "last_week_ratio": 268.6
+        },
+        {
+          "moviename": "Let me hear Ai’s singing.",
+          "japanese name": "アイの歌声を聴かせて",
+          "sales": 8211,
+          "seats": 160438,
+          "showtimes": 1001,
+          "theaters": 225,
+          "rank": 12,
           "last_week_ratio": null
         },
         {
@@ -748,23 +648,123 @@
           "last_week_ratio": 132.3
         },
         {
-          "moviename": "CUBE Once you enter, it's the last",
-          "japanese name": "ＣＵＢＥ 一度入ったら、最後",
-          "sales": 15262,
-          "seats": 120514,
-          "showtimes": 886,
-          "theaters": 282,
-          "rank": 9,
-          "last_week_ratio": 128.1
+          "moviename": "LON: My Clumsy Robot",
+          "japanese name": "ロン 僕のポンコツ・ボット",
+          "sales": 5938,
+          "seats": 57581,
+          "showtimes": 440,
+          "theaters": 276,
+          "rank": 14,
+          "last_week_ratio": 221.1
         },
         {
-          "moviename": "Let me hear Ai’s singing.",
-          "japanese name": "アイの歌声を聴かせて",
-          "sales": 8211,
-          "seats": 160438,
-          "showtimes": 1001,
-          "theaters": 225,
-          "rank": 12,
+          "moviename": "The Laws of the Universe – Elohim Chapter –",
+          "japanese name": "宇宙の法－エローヒム編－",
+          "sales": 5178,
+          "seats": 39239,
+          "showtimes": 221,
+          "theaters": 136,
+          "rank": 15,
+          "last_week_ratio": 186.7
+        },
+        {
+          "moviename": "Movie Free! –The Final Stroke– Part 1",
+          "japanese name": "劇場版 Ｆｒｅｅ！ －ｔｈｅ Ｆｉｎａｌ Ｓｔｒｏｋｅ－ 前編",
+          "sales": 4908,
+          "seats": 20242,
+          "showtimes": 132,
+          "theaters": 123,
+          "rank": 16,
+          "last_week_ratio": 256.6
+        },
+        {
+          "moviename": "The Princess and the Dragon",
+          "japanese name": "竜とそばかすの姫",
+          "sales": 4307,
+          "seats": 26198,
+          "showtimes": 213,
+          "theaters": 186,
+          "rank": 17,
+          "last_week_ratio": 310.5
+        },
+        {
+          "moviename": "Halloween Kills",
+          "japanese name": "ハロウィン ＫＩＬＬＳ",
+          "sales": 4274,
+          "seats": 40193,
+          "showtimes": 297,
+          "theaters": 106,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mauritanian: Records marked as “black”.",
+          "japanese name": "モーリタニアン 黒塗りの記録",
+          "sales": 4075,
+          "seats": 30369,
+          "showtimes": 236,
+          "theaters": 79,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Macross Δ Theatrical Movie: Absolute LIVE!!!!!!!",
+          "japanese name": "劇場版マクロス△ 絶対ＬＩＶＥ！！！！！！",
+          "sales": 3332,
+          "seats": 16566,
+          "showtimes": 128,
+          "theaters": 110,
+          "rank": 20,
+          "last_week_ratio": 171.7
+        },
+        {
+          "moviename": "Hiraite",
+          "japanese name": "ひらいて",
+          "sales": 3168,
+          "seats": 18300,
+          "showtimes": 139,
+          "theaters": 64,
+          "rank": 21,
+          "last_week_ratio": 139.7
+        },
+        {
+          "moviename": "Theatrical Version: I’m Being Threatened by the Man Who Wants to Be Held in His Arms the Most. ~Spain Chapter~",
+          "japanese name": "劇場版 抱かれたい男１位に脅されています。～スペイン編～",
+          "sales": 2184,
+          "seats": 9226,
+          "showtimes": 59,
+          "theaters": 49,
+          "rank": 22,
+          "last_week_ratio": 145.3
+        },
+        {
+          "moviename": "The final duel trial",
+          "japanese name": "最後の決闘裁判",
+          "sales": 2006,
+          "seats": 23655,
+          "showtimes": 191,
+          "theaters": 193,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Cash Track",
+          "japanese name": "キャッシュトラック",
+          "sales": 1924,
+          "seats": 17920,
+          "showtimes": 134,
+          "theaters": 119,
+          "rank": 24,
+          "last_week_ratio": 102.9
+        },
+        {
+          "moviename": "G.I. Joe: Snake Eyes in Black",
+          "japanese name": "Ｇ．Ｉ．ジョー：漆黒のスネークアイズ",
+          "sales": 1411,
+          "seats": 34519,
+          "showtimes": 263,
+          "theaters": 166,
+          "rank": 25,
           "last_week_ratio": null
         }
       ]

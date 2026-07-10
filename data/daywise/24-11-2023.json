@@ -6,13 +6,23 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "Decibels",
-          "japanese name": "デシベル",
-          "sales": 357,
-          "seats": 2764,
-          "showtimes": 26,
-          "theaters": 44,
-          "rank": 23,
+          "moviename": "Flying in Saitama ~ With love from Lake Biwa~",
+          "japanese name": "翔んで埼玉 ～琵琶湖より愛をこめて～",
+          "sales": 19336,
+          "seats": 188353,
+          "showtimes": 647,
+          "theaters": 179,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Head",
+          "japanese name": "首",
+          "sales": 15663,
+          "seats": 141121,
+          "showtimes": 577,
+          "theaters": 178,
+          "rank": 2,
           "last_week_ratio": null
         },
         {
@@ -26,24 +36,34 @@
           "last_week_ratio": 100.3
         },
         {
-          "moviename": "Head",
-          "japanese name": "首",
-          "sales": 15663,
-          "seats": 141121,
-          "showtimes": 577,
-          "theaters": 178,
-          "rank": 2,
+          "moviename": "Ghost Taro is born: The mysteries of Gegenge",
+          "japanese name": "鬼太郎誕生 ゲゲゲの謎",
+          "sales": 5956,
+          "seats": 27929,
+          "showtimes": 211,
+          "theaters": 134,
+          "rank": 4,
+          "last_week_ratio": 111.2
+        },
+        {
+          "moviename": "Lost Flight",
+          "japanese name": "ロスト・フライト",
+          "sales": 3290,
+          "seats": 25521,
+          "showtimes": 194,
+          "theaters": 105,
+          "rank": 5,
           "last_week_ratio": null
         },
         {
-          "moviename": "剧场版 SILVANIA FAMILIA FLEAからのおくりもの",
-          "japanese name": "劇場版 シルバニアファミリー フレアからのおくりもの",
-          "sales": 772,
-          "seats": 32476,
-          "showtimes": 226,
-          "theaters": 78,
-          "rank": 12,
-          "last_week_ratio": null
+          "moviename": "Movie Sumikko Gurashi: Tsubugahigaoka no Fushigi na Ko",
+          "japanese name": "映画 すみっコぐらし ツギハギ工場のふしぎなコ",
+          "sales": 2739,
+          "seats": 40276,
+          "showtimes": 265,
+          "theaters": 139,
+          "rank": 6,
+          "last_week_ratio": 273.9
         },
         {
           "moviename": "Marvels",
@@ -66,36 +86,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Movie Version of Idolish 7 LIVE 4bit BEYOND THE PERIOD",
-          "japanese name": "劇場版アイドリッシュセブン ＬＩＶＥ ４ｂｉｔ ＢＥＹＯＮＤ ＴＨＥ ＰＥＲｉＯＤ",
-          "sales": 413,
-          "seats": 940,
-          "showtimes": 2,
-          "theaters": 1,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Lost Flight",
-          "japanese name": "ロスト・フライト",
-          "sales": 3290,
-          "seats": 25521,
-          "showtimes": 194,
-          "theaters": 105,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "How do you live",
-          "japanese name": "君たちはどう生きるか",
-          "sales": 429,
-          "seats": 6211,
-          "showtimes": 54,
-          "theaters": 162,
-          "rank": 19,
-          "last_week_ratio": 181
-        },
-        {
           "moviename": "Court Games",
           "japanese name": "法廷遊戯",
           "sales": 1570,
@@ -106,13 +96,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Flying in Saitama ~ With love from Lake Biwa~",
-          "japanese name": "翔んで埼玉 ～琵琶湖より愛をこめて～",
-          "sales": 19336,
-          "seats": 188353,
-          "showtimes": 647,
-          "theaters": 179,
-          "rank": 1,
+          "moviename": "About to",
+          "japanese name": "正欲",
+          "sales": 1324,
+          "seats": 10602,
+          "showtimes": 87,
+          "theaters": 129,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Don’t call it a mystery.",
+          "japanese name": "ミステリと言う勿れ",
+          "sales": 934,
+          "seats": 7336,
+          "showtimes": 64,
+          "theaters": 164,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 SILVANIA FAMILIA FLEAからのおくりもの",
+          "japanese name": "劇場版 シルバニアファミリー フレアからのおくりもの",
+          "sales": 772,
+          "seats": 32476,
+          "showtimes": 226,
+          "theaters": 78,
+          "rank": 12,
           "last_week_ratio": null
         },
         {
@@ -124,6 +134,26 @@
           "theaters": 54,
           "rank": 13,
           "last_week_ratio": 552.9
+        },
+        {
+          "moviename": "Gintama On Stage 2D Baragaki Chapter",
+          "japanese name": "銀魂オンシアター２Ｄ バラガキ篇",
+          "sales": 569,
+          "seats": 4144,
+          "showtimes": 33,
+          "theaters": 63,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "OUT",
+          "japanese name": "ＯＵＴ",
+          "sales": 511,
+          "seats": 15771,
+          "showtimes": 118,
+          "theaters": 108,
+          "rank": 15,
+          "last_week_ratio": null
         },
         {
           "moviename": "Ghost in the Shell SAC_2045: Sustainable War",
@@ -146,34 +176,24 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "End of the band LIVE – Stars –",
-          "japanese name": "結束バンドＬＩＶＥ－恒星－",
-          "sales": 361,
-          "seats": 3796,
-          "showtimes": 30,
-          "theaters": 34,
-          "rank": 22,
+          "moviename": "Slamdogs",
+          "japanese name": "スラムドッグス",
+          "sales": 471,
+          "seats": 12505,
+          "showtimes": 103,
+          "theaters": 122,
+          "rank": 18,
           "last_week_ratio": null
         },
         {
-          "moviename": "Movie Sumikko Gurashi: Tsubugahigaoka no Fushigi na Ko",
-          "japanese name": "映画 すみっコぐらし ツギハギ工場のふしぎなコ",
-          "sales": 2739,
-          "seats": 40276,
-          "showtimes": 265,
-          "theaters": 139,
-          "rank": 6,
-          "last_week_ratio": 273.9
-        },
-        {
-          "moviename": "Sicily Summer",
-          "japanese name": "シチリアサマー",
-          "sales": 260,
-          "seats": 3201,
-          "showtimes": 23,
-          "theaters": 14,
-          "rank": 25,
-          "last_week_ratio": null
+          "moviename": "How do you live",
+          "japanese name": "君たちはどう生きるか",
+          "sales": 429,
+          "seats": 6211,
+          "showtimes": 54,
+          "theaters": 162,
+          "rank": 19,
+          "last_week_ratio": 181
         },
         {
           "moviename": "Analog",
@@ -186,53 +206,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "OUT",
-          "japanese name": "ＯＵＴ",
-          "sales": 511,
-          "seats": 15771,
-          "showtimes": 118,
-          "theaters": 108,
-          "rank": 15,
+          "moviename": "Movie Version of Idolish 7 LIVE 4bit BEYOND THE PERIOD",
+          "japanese name": "劇場版アイドリッシュセブン ＬＩＶＥ ４ｂｉｔ ＢＥＹＯＮＤ ＴＨＥ ＰＥＲｉＯＤ",
+          "sales": 413,
+          "seats": 940,
+          "showtimes": 2,
+          "theaters": 1,
+          "rank": 21,
           "last_week_ratio": null
         },
         {
-          "moviename": "Ghost Taro is born: The mysteries of Gegenge",
-          "japanese name": "鬼太郎誕生 ゲゲゲの謎",
-          "sales": 5956,
-          "seats": 27929,
-          "showtimes": 211,
-          "theaters": 134,
-          "rank": 4,
-          "last_week_ratio": 111.2
-        },
-        {
-          "moviename": "Don’t call it a mystery.",
-          "japanese name": "ミステリと言う勿れ",
-          "sales": 934,
-          "seats": 7336,
-          "showtimes": 64,
-          "theaters": 164,
-          "rank": 11,
+          "moviename": "End of the band LIVE – Stars –",
+          "japanese name": "結束バンドＬＩＶＥ－恒星－",
+          "sales": 361,
+          "seats": 3796,
+          "showtimes": 30,
+          "theaters": 34,
+          "rank": 22,
           "last_week_ratio": null
         },
         {
-          "moviename": "Slamdogs",
-          "japanese name": "スラムドッグス",
-          "sales": 471,
-          "seats": 12505,
-          "showtimes": 103,
-          "theaters": 122,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "About to",
-          "japanese name": "正欲",
-          "sales": 1324,
-          "seats": 10602,
-          "showtimes": 87,
-          "theaters": 129,
-          "rank": 10,
+          "moviename": "Decibels",
+          "japanese name": "デシベル",
+          "sales": 357,
+          "seats": 2764,
+          "showtimes": 26,
+          "theaters": 44,
+          "rank": 23,
           "last_week_ratio": null
         },
         {
@@ -246,13 +246,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Gintama On Stage 2D Baragaki Chapter",
-          "japanese name": "銀魂オンシアター２Ｄ バラガキ篇",
-          "sales": 569,
-          "seats": 4144,
-          "showtimes": 33,
-          "theaters": 63,
-          "rank": 14,
+          "moviename": "Sicily Summer",
+          "japanese name": "シチリアサマー",
+          "sales": 260,
+          "seats": 3201,
+          "showtimes": 23,
+          "theaters": 14,
+          "rank": 25,
           "last_week_ratio": null
         }
       ]
@@ -262,23 +262,13 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "Decibels",
-          "japanese name": "デシベル",
-          "sales": 633,
-          "seats": 6037,
-          "showtimes": 53,
-          "theaters": 44,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Godzilla - 1.0",
-          "japanese name": "ゴジラ－１．０",
-          "sales": 21854,
-          "seats": 171975,
-          "showtimes": 922,
-          "theaters": 183,
-          "rank": 3,
+          "moviename": "Flying in Saitama ~ With love from Lake Biwa~",
+          "japanese name": "翔んで埼玉 ～琵琶湖より愛をこめて～",
+          "sales": 31499,
+          "seats": 348582,
+          "showtimes": 1204,
+          "theaters": 179,
+          "rank": 1,
           "last_week_ratio": null
         },
         {
@@ -292,23 +282,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "ANGERME CONCERT 2023 Autumn",
-          "japanese name": "ＡＮＧＥＲＭＥ ＣＯＮＣＥＲＴ ２０２３秋",
-          "sales": 506,
-          "seats": 2026,
-          "showtimes": 16,
-          "theaters": 16,
-          "rank": 24,
+          "moviename": "Godzilla - 1.0",
+          "japanese name": "ゴジラ－１．０",
+          "sales": 21854,
+          "seats": 171975,
+          "showtimes": 922,
+          "theaters": 183,
+          "rank": 3,
           "last_week_ratio": null
         },
         {
-          "moviename": "剧场版 SILVANIA FAMILIA FLEAからのおくりもの",
-          "japanese name": "劇場版 シルバニアファミリー フレアからのおくりもの",
-          "sales": 1323,
-          "seats": 54625,
-          "showtimes": 387,
-          "theaters": 78,
-          "rank": 14,
+          "moviename": "Ghost Taro is born: The mysteries of Gegenge",
+          "japanese name": "鬼太郎誕生 ゲゲゲの謎",
+          "sales": 11446,
+          "seats": 49325,
+          "showtimes": 370,
+          "theaters": 134,
+          "rank": 4,
+          "last_week_ratio": 113.3
+        },
+        {
+          "moviename": "Lost Flight",
+          "japanese name": "ロスト・フライト",
+          "sales": 5153,
+          "seats": 48619,
+          "showtimes": 364,
+          "theaters": 105,
+          "rank": 5,
           "last_week_ratio": null
         },
         {
@@ -322,34 +322,14 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Idol Master: Shiny Colors Chapter 2",
-          "japanese name": "アイドルマスター シャイニーカラーズ 第２章",
-          "sales": 2593,
-          "seats": 22254,
-          "showtimes": 156,
-          "theaters": 53,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Lost Flight",
-          "japanese name": "ロスト・フライト",
-          "sales": 5153,
-          "seats": 48619,
-          "showtimes": 364,
-          "theaters": 105,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "How do you live",
-          "japanese name": "君たちはどう生きるか",
-          "sales": 796,
-          "seats": 14834,
-          "showtimes": 125,
-          "theaters": 162,
-          "rank": 19,
-          "last_week_ratio": 159.5
+          "moviename": "Movie Sumikko Gurashi: Tsubugahigaoka no Fushigi na Ko",
+          "japanese name": "映画 すみっコぐらし ツギハギ工場のふしぎなコ",
+          "sales": 3365,
+          "seats": 51580,
+          "showtimes": 343,
+          "theaters": 139,
+          "rank": 7,
+          "last_week_ratio": 181
         },
         {
           "moviename": "Court Games",
@@ -362,13 +342,43 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Flying in Saitama ~ With love from Lake Biwa~",
-          "japanese name": "翔んで埼玉 ～琵琶湖より愛をこめて～",
-          "sales": 31499,
-          "seats": 348582,
-          "showtimes": 1204,
-          "theaters": 179,
-          "rank": 1,
+          "moviename": "Idol Master: Shiny Colors Chapter 2",
+          "japanese name": "アイドルマスター シャイニーカラーズ 第２章",
+          "sales": 2593,
+          "seats": 22254,
+          "showtimes": 156,
+          "theaters": 53,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "About to",
+          "japanese name": "正欲",
+          "sales": 2411,
+          "seats": 20381,
+          "showtimes": 167,
+          "theaters": 129,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Don’t call it a mystery.",
+          "japanese name": "ミステリと言う勿れ",
+          "sales": 1944,
+          "seats": 18634,
+          "showtimes": 158,
+          "theaters": 164,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gintama On Stage 2D Baragaki Chapter",
+          "japanese name": "銀魂オンシアター２Ｄ バラガキ篇",
+          "sales": 1414,
+          "seats": 9229,
+          "showtimes": 71,
+          "theaters": 63,
+          "rank": 12,
           "last_week_ratio": null
         },
         {
@@ -382,13 +392,13 @@
           "last_week_ratio": 651.9
         },
         {
-          "moviename": "Ghost in the Shell SAC_2045: Sustainable War",
-          "japanese name": "攻殻機動隊 ＳＡＣ_２０４５ 持続可能戦争",
-          "sales": 769,
-          "seats": 6691,
-          "showtimes": 44,
-          "theaters": 14,
-          "rank": 20,
+          "moviename": "剧场版 SILVANIA FAMILIA FLEAからのおくりもの",
+          "japanese name": "劇場版 シルバニアファミリー フレアからのおくりもの",
+          "sales": 1323,
+          "seats": 54625,
+          "showtimes": 387,
+          "theaters": 78,
+          "rank": 14,
           "last_week_ratio": null
         },
         {
@@ -400,36 +410,6 @@
           "theaters": 96,
           "rank": 15,
           "last_week_ratio": 102
-        },
-        {
-          "moviename": "End of the band LIVE – Stars –",
-          "japanese name": "結束バンドＬＩＶＥ－恒星－",
-          "sales": 686,
-          "seats": 7347,
-          "showtimes": 58,
-          "theaters": 34,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Sumikko Gurashi: Tsubugahigaoka no Fushigi na Ko",
-          "japanese name": "映画 すみっコぐらし ツギハギ工場のふしぎなコ",
-          "sales": 3365,
-          "seats": 51580,
-          "showtimes": 343,
-          "theaters": 139,
-          "rank": 7,
-          "last_week_ratio": 181
-        },
-        {
-          "moviename": "Sicily Summer",
-          "japanese name": "シチリアサマー",
-          "sales": 476,
-          "seats": 6414,
-          "showtimes": 46,
-          "theaters": 14,
-          "rank": 25,
-          "last_week_ratio": null
         },
         {
           "moviename": "Analog",
@@ -452,26 +432,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Ghost Taro is born: The mysteries of Gegenge",
-          "japanese name": "鬼太郎誕生 ゲゲゲの謎",
-          "sales": 11446,
-          "seats": 49325,
-          "showtimes": 370,
-          "theaters": 134,
-          "rank": 4,
-          "last_week_ratio": 113.3
-        },
-        {
-          "moviename": "Don’t call it a mystery.",
-          "japanese name": "ミステリと言う勿れ",
-          "sales": 1944,
-          "seats": 18634,
-          "showtimes": 158,
-          "theaters": 164,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Slamdogs",
           "japanese name": "スラムドッグス",
           "sales": 915,
@@ -482,13 +442,43 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "About to",
-          "japanese name": "正欲",
-          "sales": 2411,
-          "seats": 20381,
-          "showtimes": 167,
-          "theaters": 129,
-          "rank": 10,
+          "moviename": "How do you live",
+          "japanese name": "君たちはどう生きるか",
+          "sales": 796,
+          "seats": 14834,
+          "showtimes": 125,
+          "theaters": 162,
+          "rank": 19,
+          "last_week_ratio": 159.5
+        },
+        {
+          "moviename": "Ghost in the Shell SAC_2045: Sustainable War",
+          "japanese name": "攻殻機動隊 ＳＡＣ_２０４５ 持続可能戦争",
+          "sales": 769,
+          "seats": 6691,
+          "showtimes": 44,
+          "theaters": 14,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "End of the band LIVE – Stars –",
+          "japanese name": "結束バンドＬＩＶＥ－恒星－",
+          "sales": 686,
+          "seats": 7347,
+          "showtimes": 58,
+          "theaters": 34,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Decibels",
+          "japanese name": "デシベル",
+          "sales": 633,
+          "seats": 6037,
+          "showtimes": 53,
+          "theaters": 44,
+          "rank": 22,
           "last_week_ratio": null
         },
         {
@@ -502,13 +492,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Gintama On Stage 2D Baragaki Chapter",
-          "japanese name": "銀魂オンシアター２Ｄ バラガキ篇",
-          "sales": 1414,
-          "seats": 9229,
-          "showtimes": 71,
-          "theaters": 63,
-          "rank": 12,
+          "moviename": "ANGERME CONCERT 2023 Autumn",
+          "japanese name": "ＡＮＧＥＲＭＥ ＣＯＮＣＥＲＴ ２０２３秋",
+          "sales": 506,
+          "seats": 2026,
+          "showtimes": 16,
+          "theaters": 16,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sicily Summer",
+          "japanese name": "シチリアサマー",
+          "sales": 476,
+          "seats": 6414,
+          "showtimes": 46,
+          "theaters": 14,
+          "rank": 25,
           "last_week_ratio": null
         }
       ]
@@ -518,23 +518,13 @@
       "time": "Final",
       "data": [
         {
-          "moviename": "Decibels",
-          "japanese name": "デシベル",
-          "sales": 721,
-          "seats": 7424,
-          "showtimes": 65,
-          "theaters": 44,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Godzilla - 1.0",
-          "japanese name": "ゴジラ－１．０",
-          "sales": 26283,
-          "seats": 213745,
-          "showtimes": 1131,
-          "theaters": 183,
-          "rank": 3,
+          "moviename": "Flying in Saitama ~ With love from Lake Biwa~",
+          "japanese name": "翔んで埼玉 ～琵琶湖より愛をこめて～",
+          "sales": 40034,
+          "seats": 433545,
+          "showtimes": 1503,
+          "theaters": 179,
+          "rank": 1,
           "last_week_ratio": null
         },
         {
@@ -548,13 +538,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "剧场版 SILVANIA FAMILIA FLEAからのおくりもの",
-          "japanese name": "劇場版 シルバニアファミリー フレアからのおくりもの",
-          "sales": 1469,
-          "seats": 58114,
-          "showtimes": 411,
-          "theaters": 78,
-          "rank": 14,
+          "moviename": "Godzilla - 1.0",
+          "japanese name": "ゴジラ－１．０",
+          "sales": 26283,
+          "seats": 213745,
+          "showtimes": 1131,
+          "theaters": 183,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ghost Taro is born: The mysteries of Gegenge",
+          "japanese name": "鬼太郎誕生 ゲゲゲの謎",
+          "sales": 16485,
+          "seats": 65160,
+          "showtimes": 483,
+          "theaters": 134,
+          "rank": 4,
+          "last_week_ratio": 108.5
+        },
+        {
+          "moviename": "Lost Flight",
+          "japanese name": "ロスト・フライト",
+          "sales": 6377,
+          "seats": 63414,
+          "showtimes": 474,
+          "theaters": 105,
+          "rank": 5,
           "last_week_ratio": null
         },
         {
@@ -578,26 +588,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Lost Flight",
-          "japanese name": "ロスト・フライト",
-          "sales": 6377,
-          "seats": 63414,
-          "showtimes": 474,
-          "theaters": 105,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "How do you live",
-          "japanese name": "君たちはどう生きるか",
-          "sales": 975,
-          "seats": 19599,
-          "showtimes": 163,
-          "theaters": 162,
-          "rank": 19,
-          "last_week_ratio": 139.3
-        },
-        {
           "moviename": "Court Games",
           "japanese name": "法廷遊戯",
           "sales": 3821,
@@ -605,56 +595,6 @@
           "showtimes": 414,
           "theaters": 172,
           "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Flying in Saitama ~ With love from Lake Biwa~",
-          "japanese name": "翔んで埼玉 ～琵琶湖より愛をこめて～",
-          "sales": 40034,
-          "seats": 433545,
-          "showtimes": 1503,
-          "theaters": 179,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Girls & Panzer: The Final Chapter, Episode 4",
-          "japanese name": "ガールズ＆パンツァー 最終章 第４話",
-          "sales": 2099,
-          "seats": 16156,
-          "showtimes": 161,
-          "theaters": 54,
-          "rank": 12,
-          "last_week_ratio": 520.8
-        },
-        {
-          "moviename": "Ghost in the Shell SAC_2045: Sustainable War",
-          "japanese name": "攻殻機動隊 ＳＡＣ_２０４５ 持続可能戦争",
-          "sales": 949,
-          "seats": 8440,
-          "showtimes": 56,
-          "theaters": 14,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Welcome to Komada Distillery",
-          "japanese name": "駒田蒸留所へようこそ",
-          "sales": 1381,
-          "seats": 16216,
-          "showtimes": 123,
-          "theaters": 96,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "End of the band LIVE – Stars –",
-          "japanese name": "結束バンドＬＩＶＥ－恒星－",
-          "sales": 928,
-          "seats": 9615,
-          "showtimes": 76,
-          "theaters": 34,
-          "rank": 21,
           "last_week_ratio": null
         },
         {
@@ -668,23 +608,63 @@
           "last_week_ratio": 167.6
         },
         {
-          "moviename": "Sicily Summer",
-          "japanese name": "シチリアサマー",
-          "sales": 547,
-          "seats": 8212,
-          "showtimes": 59,
-          "theaters": 14,
-          "rank": 25,
+          "moviename": "About to",
+          "japanese name": "正欲",
+          "sales": 2918,
+          "seats": 26376,
+          "showtimes": 214,
+          "theaters": 129,
+          "rank": 10,
           "last_week_ratio": null
         },
         {
-          "moviename": "Analog",
-          "japanese name": "アナログ",
-          "sales": 1151,
-          "seats": 17281,
-          "showtimes": 150,
-          "theaters": 144,
-          "rank": 17,
+          "moviename": "Don’t call it a mystery.",
+          "japanese name": "ミステリと言う勿れ",
+          "sales": 2166,
+          "seats": 23071,
+          "showtimes": 190,
+          "theaters": 164,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Girls & Panzer: The Final Chapter, Episode 4",
+          "japanese name": "ガールズ＆パンツァー 最終章 第４話",
+          "sales": 2099,
+          "seats": 16156,
+          "showtimes": 161,
+          "theaters": 54,
+          "rank": 12,
+          "last_week_ratio": 520.8
+        },
+        {
+          "moviename": "Gintama On Stage 2D Baragaki Chapter",
+          "japanese name": "銀魂オンシアター２Ｄ バラガキ篇",
+          "sales": 2086,
+          "seats": 12456,
+          "showtimes": 96,
+          "theaters": 63,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 SILVANIA FAMILIA FLEAからのおくりもの",
+          "japanese name": "劇場版 シルバニアファミリー フレアからのおくりもの",
+          "sales": 1469,
+          "seats": 58114,
+          "showtimes": 411,
+          "theaters": 78,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Welcome to Komada Distillery",
+          "japanese name": "駒田蒸留所へようこそ",
+          "sales": 1381,
+          "seats": 16216,
+          "showtimes": 123,
+          "theaters": 96,
+          "rank": 15,
           "last_week_ratio": null
         },
         {
@@ -698,33 +678,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Ghost Taro is born: The mysteries of Gegenge",
-          "japanese name": "鬼太郎誕生 ゲゲゲの謎",
-          "sales": 16485,
-          "seats": 65160,
-          "showtimes": 483,
-          "theaters": 134,
-          "rank": 4,
-          "last_week_ratio": 108.5
-        },
-        {
-          "moviename": "Don’t call it a mystery.",
-          "japanese name": "ミステリと言う勿れ",
-          "sales": 2166,
-          "seats": 23071,
-          "showtimes": 190,
-          "theaters": 164,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Mobile Suit Gundam SEED DESTINY: Special Edition – Final Chapter: The Price of Freedom HD Remaster",
-          "japanese name": "機動戦士ガンダムＳＥＥＤ ＤＥＳＴＩＮＹ スペシャルエディション完結編 自由の代償 ＨＤリマスター",
-          "sales": 560,
-          "seats": 7907,
-          "showtimes": 50,
-          "theaters": 40,
-          "rank": 24,
+          "moviename": "Analog",
+          "japanese name": "アナログ",
+          "sales": 1151,
+          "seats": 17281,
+          "showtimes": 150,
+          "theaters": 144,
+          "rank": 17,
           "last_week_ratio": null
         },
         {
@@ -738,13 +698,43 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "About to",
-          "japanese name": "正欲",
-          "sales": 2918,
-          "seats": 26376,
-          "showtimes": 214,
-          "theaters": 129,
-          "rank": 10,
+          "moviename": "How do you live",
+          "japanese name": "君たちはどう生きるか",
+          "sales": 975,
+          "seats": 19599,
+          "showtimes": 163,
+          "theaters": 162,
+          "rank": 19,
+          "last_week_ratio": 139.3
+        },
+        {
+          "moviename": "Ghost in the Shell SAC_2045: Sustainable War",
+          "japanese name": "攻殻機動隊 ＳＡＣ_２０４５ 持続可能戦争",
+          "sales": 949,
+          "seats": 8440,
+          "showtimes": 56,
+          "theaters": 14,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "End of the band LIVE – Stars –",
+          "japanese name": "結束バンドＬＩＶＥ－恒星－",
+          "sales": 928,
+          "seats": 9615,
+          "showtimes": 76,
+          "theaters": 34,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Decibels",
+          "japanese name": "デシベル",
+          "sales": 721,
+          "seats": 7424,
+          "showtimes": 65,
+          "theaters": 44,
+          "rank": 22,
           "last_week_ratio": null
         },
         {
@@ -758,13 +748,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Gintama On Stage 2D Baragaki Chapter",
-          "japanese name": "銀魂オンシアター２Ｄ バラガキ篇",
-          "sales": 2086,
-          "seats": 12456,
-          "showtimes": 96,
-          "theaters": 63,
-          "rank": 13,
+          "moviename": "Mobile Suit Gundam SEED DESTINY: Special Edition – Final Chapter: The Price of Freedom HD Remaster",
+          "japanese name": "機動戦士ガンダムＳＥＥＤ ＤＥＳＴＩＮＹ スペシャルエディション完結編 自由の代償 ＨＤリマスター",
+          "sales": 560,
+          "seats": 7907,
+          "showtimes": 50,
+          "theaters": 40,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sicily Summer",
+          "japanese name": "シチリアサマー",
+          "sales": 547,
+          "seats": 8212,
+          "showtimes": 59,
+          "theaters": 14,
+          "rank": 25,
           "last_week_ratio": null
         }
       ]

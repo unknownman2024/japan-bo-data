@@ -6,73 +6,13 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "Mobuko’s Love",
-          "japanese name": "モブ子の恋",
-          "sales": 1817,
-          "seats": 44517,
-          "showtimes": 269,
-          "theaters": 153,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "SAKAMOTO DAYS",
-          "japanese name": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ",
-          "sales": 1271,
-          "seats": 12467,
-          "showtimes": 94,
-          "theaters": 252,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "LoveLive! Suzuhara no Skyrise School Idol Club: Bloom Garden Party",
-          "japanese name": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ Ｂｌｏｏｍ Ｇａｒｄｅｎ Ｐａｒｔｙ",
-          "sales": 465,
-          "seats": 4201,
-          "showtimes": 20,
-          "theaters": 64,
-          "rank": 24,
-          "last_week_ratio": 158.7
-        },
-        {
-          "moviename": "Detective Conan: The Fallen Angel of the Highway",
-          "japanese name": "名探偵コナン ハイウェイの堕天使",
-          "sales": 3416,
-          "seats": 48957,
-          "showtimes": 305,
-          "theaters": 268,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Mortal Kombat/Next Round",
-          "japanese name": "モータルコンバット／ネクストラウンド",
-          "sales": 2435,
-          "seats": 41428,
-          "showtimes": 215,
-          "theaters": 112,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "SAMURAI BLUE Project for FIFA World Cup 2026 “ONE CREATION” Countless individualities, one being.",
-          "japanese name": "ＳＡＭＵＲＡＩ ＢＬＵＥ Ｐｒｏｊｅｃｔ ｆｏｒ ＦＩＦＡ Ｗｏｒｌｄ Ｃｕｐ ２０２６ 「ＯＮＥ ＣＲＥＡＴＵＲＥ」無数の個性、ひとつの生きもの。",
-          "sales": 1278,
-          "seats": 58964,
-          "showtimes": 313,
-          "theaters": 191,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Super Mario Galaxy Movie",
-          "japanese name": "ザ・スーパーマリオギャラクシー・ムービー",
-          "sales": 1964,
-          "seats": 62419,
-          "showtimes": 336,
-          "theaters": 264,
-          "rank": 11,
+          "moviename": "Star Wars: Mandalorian and Grogg",
+          "japanese name": "スター・ウォーズ／マンダロリアン・アンド・グローグー",
+          "sales": 10569,
+          "seats": 134722,
+          "showtimes": 530,
+          "theaters": 269,
+          "rank": 1,
           "last_week_ratio": null
         },
         {
@@ -86,6 +26,16 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "The Devil Wears Prada 2",
+          "japanese name": "プラダを着た悪魔２",
+          "sales": 7759,
+          "seats": 70297,
+          "showtimes": 353,
+          "theaters": 262,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Yamaguchi-kun isn’t a bad person.",
           "japanese name": "山口くんはワルくない",
           "sales": 4791,
@@ -93,6 +43,56 @@
           "showtimes": 363,
           "theaters": 194,
           "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Masters of the Universe",
+          "japanese name": "マスターズ・オブ・ユニバース",
+          "sales": 4182,
+          "seats": 72948,
+          "showtimes": 401,
+          "theaters": 241,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: The Fallen Angel of the Highway",
+          "japanese name": "名探偵コナン ハイウェイの堕天使",
+          "sales": 3416,
+          "seats": 48957,
+          "showtimes": 305,
+          "theaters": 268,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Michael",
+          "japanese name": "Ｍｉｃｈａｅｌ／マイケル",
+          "sales": 2723,
+          "seats": 7311,
+          "showtimes": 24,
+          "theaters": 49,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mortal Kombat/Next Round",
+          "japanese name": "モータルコンバット／ネクストラウンド",
+          "sales": 2435,
+          "seats": 41428,
+          "showtimes": 215,
+          "theaters": 112,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "O-Teikatsu 3: Happy Spring! Life Memories <Premiere Screening>",
+          "japanese name": "お終活３ 幸春！人生メモリーズ＜完成披露上映＞",
+          "sales": 2380,
+          "seats": 29566,
+          "showtimes": 247,
+          "theaters": 122,
+          "rank": 9,
           "last_week_ratio": null
         },
         {
@@ -106,13 +106,113 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "O-Teikatsu 3: Happy Spring! Life Memories <Premiere Screening>",
-          "japanese name": "お終活３ 幸春！人生メモリーズ＜完成披露上映＞",
-          "sales": 2380,
-          "seats": 29566,
-          "showtimes": 247,
-          "theaters": 122,
-          "rank": 9,
+          "moviename": "The Super Mario Galaxy Movie",
+          "japanese name": "ザ・スーパーマリオギャラクシー・ムービー",
+          "sales": 1964,
+          "seats": 62419,
+          "showtimes": 336,
+          "theaters": 264,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobuko’s Love",
+          "japanese name": "モブ子の恋",
+          "sales": 1817,
+          "seats": 44517,
+          "showtimes": 269,
+          "theaters": 153,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Never After Dark/ネバーアフターダーク",
+          "japanese name": "Ｎｅｖｅｒ Ａｆｔｅｒ Ｄａｒｋ／ネバーアフターダーク",
+          "sales": 1799,
+          "seats": 29626,
+          "showtimes": 196,
+          "theaters": 119,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Honest Real Estate\"",
+          "japanese name": "映画「正直不動産」",
+          "sales": 1694,
+          "seats": 19169,
+          "showtimes": 153,
+          "theaters": 249,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 1655,
+          "seats": 12473,
+          "showtimes": 62,
+          "theaters": 68,
+          "rank": 15,
+          "last_week_ratio": 3245.1
+        },
+        {
+          "moviename": "Sirat",
+          "japanese name": "シラート",
+          "sales": 1384,
+          "seats": 7121,
+          "showtimes": 41,
+          "theaters": 36,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SAMURAI BLUE Project for FIFA World Cup 2026 “ONE CREATION” Countless individualities, one being.",
+          "japanese name": "ＳＡＭＵＲＡＩ ＢＬＵＥ Ｐｒｏｊｅｃｔ ｆｏｒ ＦＩＦＡ Ｗｏｒｌｄ Ｃｕｐ ２０２６ 「ＯＮＥ ＣＲＥＡＴＵＲＥ」無数の個性、ひとつの生きもの。",
+          "sales": 1278,
+          "seats": 58964,
+          "showtimes": 313,
+          "theaters": 191,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SAKAMOTO DAYS",
+          "japanese name": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ",
+          "sales": 1271,
+          "seats": 12467,
+          "showtimes": 94,
+          "theaters": 252,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TOKYO BURST－Crime City－",
+          "japanese name": "ＴＯＫＹＯ ＢＵＲＳＴ－犯罪都市－",
+          "sales": 1199,
+          "seats": 15759,
+          "showtimes": 127,
+          "theaters": 222,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Amazon Digital Circus: The Last Act",
+          "japanese name": "Ｔｈｅ Ａｍａｚｉｎｇ Ｄｉｇｉｔａｌ Ｃｉｒｃｕｓ：ザラストアクト",
+          "sales": 1059,
+          "seats": 8521,
+          "showtimes": 27,
+          "theaters": 57,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sheep Detective Team",
+          "japanese name": "ひつじ探偵団",
+          "sales": 931,
+          "seats": 13570,
+          "showtimes": 92,
+          "theaters": 191,
+          "rank": 21,
           "last_week_ratio": null
         },
         {
@@ -136,34 +236,14 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Michael",
-          "japanese name": "Ｍｉｃｈａｅｌ／マイケル",
-          "sales": 2723,
-          "seats": 7311,
-          "showtimes": 24,
-          "theaters": 49,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Star Wars: Mandalorian and Grogg",
-          "japanese name": "スター・ウォーズ／マンダロリアン・アンド・グローグー",
-          "sales": 10569,
-          "seats": 134722,
-          "showtimes": 530,
-          "theaters": 269,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Devil Wears Prada 2",
-          "japanese name": "プラダを着た悪魔２",
-          "sales": 7759,
-          "seats": 70297,
-          "showtimes": 353,
-          "theaters": 262,
-          "rank": 3,
-          "last_week_ratio": null
+          "moviename": "LoveLive! Suzuhara no Skyrise School Idol Club: Bloom Garden Party",
+          "japanese name": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ Ｂｌｏｏｍ Ｇａｒｄｅｎ Ｐａｒｔｙ",
+          "sales": 465,
+          "seats": 4201,
+          "showtimes": 20,
+          "theaters": 64,
+          "rank": 24,
+          "last_week_ratio": 158.7
         },
         {
           "moviename": "Your Quiz",
@@ -174,86 +254,6 @@
           "theaters": 249,
           "rank": 25,
           "last_week_ratio": null
-        },
-        {
-          "moviename": "TOKYO BURST－Crime City－",
-          "japanese name": "ＴＯＫＹＯ ＢＵＲＳＴ－犯罪都市－",
-          "sales": 1199,
-          "seats": 15759,
-          "showtimes": 127,
-          "theaters": 222,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Sheep Detective Team",
-          "japanese name": "ひつじ探偵団",
-          "sales": 931,
-          "seats": 13570,
-          "showtimes": 92,
-          "theaters": 191,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "National Treasure",
-          "japanese name": "国宝",
-          "sales": 1655,
-          "seats": 12473,
-          "showtimes": 62,
-          "theaters": 68,
-          "rank": 15,
-          "last_week_ratio": 3245.1
-        },
-        {
-          "moviename": "The Amazon Digital Circus: The Last Act",
-          "japanese name": "Ｔｈｅ Ａｍａｚｉｎｇ Ｄｉｇｉｔａｌ Ｃｉｒｃｕｓ：ザラストアクト",
-          "sales": 1059,
-          "seats": 8521,
-          "showtimes": 27,
-          "theaters": 57,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie \"Honest Real Estate\"",
-          "japanese name": "映画「正直不動産」",
-          "sales": 1694,
-          "seats": 19169,
-          "showtimes": 153,
-          "theaters": 249,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Masters of the Universe",
-          "japanese name": "マスターズ・オブ・ユニバース",
-          "sales": 4182,
-          "seats": 72948,
-          "showtimes": 401,
-          "theaters": 241,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Never After Dark/ネバーアフターダーク",
-          "japanese name": "Ｎｅｖｅｒ Ａｆｔｅｒ Ｄａｒｋ／ネバーアフターダーク",
-          "sales": 1799,
-          "seats": 29626,
-          "showtimes": 196,
-          "theaters": 119,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Sirat",
-          "japanese name": "シラート",
-          "sales": 1384,
-          "seats": 7121,
-          "showtimes": 41,
-          "theaters": 36,
-          "rank": 16,
-          "last_week_ratio": null
         }
       ]
     },
@@ -262,73 +262,23 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "Mobuko’s Love",
-          "japanese name": "モブ子の恋",
-          "sales": 2994,
-          "seats": 81354,
-          "showtimes": 496,
-          "theaters": 153,
-          "rank": 14,
+          "moviename": "Star Wars: Mandalorian and Grogg",
+          "japanese name": "スター・ウォーズ／マンダロリアン・アンド・グローグー",
+          "sales": 19988,
+          "seats": 243548,
+          "showtimes": 964,
+          "theaters": 269,
+          "rank": 1,
           "last_week_ratio": null
         },
         {
-          "moviename": "SAKAMOTO DAYS",
-          "japanese name": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ",
-          "sales": 3004,
-          "seats": 38611,
-          "showtimes": 269,
-          "theaters": 252,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "LoveLive! Suzuhara no Skyrise School Idol Club: Bloom Garden Party",
-          "japanese name": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ Ｂｌｏｏｍ Ｇａｒｄｅｎ Ｐａｒｔｙ",
-          "sales": 1146,
-          "seats": 8089,
-          "showtimes": 46,
-          "theaters": 64,
-          "rank": 24,
-          "last_week_ratio": 184.8
-        },
-        {
-          "moviename": "Detective Conan: The Fallen Angel of the Highway",
-          "japanese name": "名探偵コナン ハイウェイの堕天使",
-          "sales": 7107,
-          "seats": 95126,
-          "showtimes": 580,
-          "theaters": 268,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Mortal Kombat/Next Round",
-          "japanese name": "モータルコンバット／ネクストラウンド",
-          "sales": 4172,
-          "seats": 68965,
-          "showtimes": 371,
-          "theaters": 112,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "SAMURAI BLUE Project for FIFA World Cup 2026 “ONE CREATION” Countless individualities, one being.",
-          "japanese name": "ＳＡＭＵＲＡＩ ＢＬＵＥ Ｐｒｏｊｅｃｔ ｆｏｒ ＦＩＦＡ Ｗｏｒｌｄ Ｃｕｐ ２０２６ 「ＯＮＥ ＣＲＥＡＴＵＲＥ」無数の個性、ひとつの生きもの。",
-          "sales": 2670,
-          "seats": 105913,
-          "showtimes": 569,
-          "theaters": 191,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Super Mario Galaxy Movie",
-          "japanese name": "ザ・スーパーマリオギャラクシー・ムービー",
-          "sales": 3921,
-          "seats": 98501,
-          "showtimes": 537,
-          "theaters": 264,
-          "rank": 11,
+          "moviename": "The Devil Wears Prada 2",
+          "japanese name": "プラダを着た悪魔２",
+          "sales": 13746,
+          "seats": 122890,
+          "showtimes": 616,
+          "theaters": 262,
+          "rank": 2,
           "last_week_ratio": null
         },
         {
@@ -352,6 +302,36 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Michael",
+          "japanese name": "Ｍｉｃｈａｅｌ／マイケル",
+          "sales": 8143,
+          "seats": 18625,
+          "showtimes": 61,
+          "theaters": 49,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: The Fallen Angel of the Highway",
+          "japanese name": "名探偵コナン ハイウェイの堕天使",
+          "sales": 7107,
+          "seats": 95126,
+          "showtimes": 580,
+          "theaters": 268,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Masters of the Universe",
+          "japanese name": "マスターズ・オブ・ユニバース",
+          "sales": 7024,
+          "seats": 143356,
+          "showtimes": 785,
+          "theaters": 241,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Theatrical Version of Mononoke: Chapter 3 – The Snake God",
           "japanese name": "劇場版モノノ怪 第三章 蛇神",
           "sales": 4580,
@@ -359,6 +339,66 @@
           "showtimes": 357,
           "theaters": 181,
           "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mortal Kombat/Next Round",
+          "japanese name": "モータルコンバット／ネクストラウンド",
+          "sales": 4172,
+          "seats": 68965,
+          "showtimes": 371,
+          "theaters": 112,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Amazon Digital Circus: The Last Act",
+          "japanese name": "Ｔｈｅ Ａｍａｚｉｎｇ Ｄｉｇｉｔａｌ Ｃｉｒｃｕｓ：ザラストアクト",
+          "sales": 3942,
+          "seats": 24990,
+          "showtimes": 92,
+          "theaters": 57,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Super Mario Galaxy Movie",
+          "japanese name": "ザ・スーパーマリオギャラクシー・ムービー",
+          "sales": 3921,
+          "seats": 98501,
+          "showtimes": 537,
+          "theaters": 264,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Never After Dark/ネバーアフターダーク",
+          "japanese name": "Ｎｅｖｅｒ Ａｆｔｅｒ Ｄａｒｋ／ネバーアフターダーク",
+          "sales": 3358,
+          "seats": 55589,
+          "showtimes": 362,
+          "theaters": 119,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SAKAMOTO DAYS",
+          "japanese name": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ",
+          "sales": 3004,
+          "seats": 38611,
+          "showtimes": 269,
+          "theaters": 252,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobuko’s Love",
+          "japanese name": "モブ子の恋",
+          "sales": 2994,
+          "seats": 81354,
+          "showtimes": 496,
+          "theaters": 153,
+          "rank": 14,
           "last_week_ratio": null
         },
         {
@@ -372,63 +412,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "SUPER BEAVER LIFE & DOCUMENTARY – Current Location –",
-          "japanese name": "ＳＵＰＥＲ ＢＥＡＶＥＲ ＬＩＶＥ ＆ ＤＯＣＵＭＥＮＴＡＲＹ －現在地－",
-          "sales": 1049,
-          "seats": 8421,
-          "showtimes": 66,
-          "theaters": 82,
-          "rank": 25,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Nameless",
-          "japanese name": "名無し",
-          "sales": 1776,
-          "seats": 28840,
-          "showtimes": 159,
-          "theaters": 80,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Michael",
-          "japanese name": "Ｍｉｃｈａｅｌ／マイケル",
-          "sales": 8143,
-          "seats": 18625,
-          "showtimes": 61,
-          "theaters": 49,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Star Wars: Mandalorian and Grogg",
-          "japanese name": "スター・ウォーズ／マンダロリアン・アンド・グローグー",
-          "sales": 19988,
-          "seats": 243548,
-          "showtimes": 964,
-          "theaters": 269,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Devil Wears Prada 2",
-          "japanese name": "プラダを着た悪魔２",
-          "sales": 13746,
-          "seats": 122890,
-          "showtimes": 616,
-          "theaters": 262,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Your Quiz",
-          "japanese name": "君のクイズ",
-          "sales": 1276,
-          "seats": 27474,
-          "showtimes": 193,
+          "moviename": "Movie \"Honest Real Estate\"",
+          "japanese name": "映画「正直不動産」",
+          "sales": 2778,
+          "seats": 32655,
+          "showtimes": 252,
           "theaters": 249,
-          "rank": 23,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SAMURAI BLUE Project for FIFA World Cup 2026 “ONE CREATION” Countless individualities, one being.",
+          "japanese name": "ＳＡＭＵＲＡＩ ＢＬＵＥ Ｐｒｏｊｅｃｔ ｆｏｒ ＦＩＦＡ Ｗｏｒｌｄ Ｃｕｐ ２０２６ 「ＯＮＥ ＣＲＥＡＴＵＲＥ」無数の個性、ひとつの生きもの。",
+          "sales": 2670,
+          "seats": 105913,
+          "showtimes": 569,
+          "theaters": 191,
+          "rank": 17,
           "last_week_ratio": null
         },
         {
@@ -439,6 +439,16 @@
           "showtimes": 282,
           "theaters": 222,
           "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sirat",
+          "japanese name": "シラート",
+          "sales": 2340,
+          "seats": 12490,
+          "showtimes": 73,
+          "theaters": 36,
+          "rank": 19,
           "last_week_ratio": null
         },
         {
@@ -462,53 +472,43 @@
           "last_week_ratio": 3643.1
         },
         {
-          "moviename": "The Amazon Digital Circus: The Last Act",
-          "japanese name": "Ｔｈｅ Ａｍａｚｉｎｇ Ｄｉｇｉｔａｌ Ｃｉｒｃｕｓ：ザラストアクト",
-          "sales": 3942,
-          "seats": 24990,
-          "showtimes": 92,
-          "theaters": 57,
-          "rank": 10,
+          "moviename": "Nameless",
+          "japanese name": "名無し",
+          "sales": 1776,
+          "seats": 28840,
+          "showtimes": 159,
+          "theaters": 80,
+          "rank": 22,
           "last_week_ratio": null
         },
         {
-          "moviename": "Movie \"Honest Real Estate\"",
-          "japanese name": "映画「正直不動産」",
-          "sales": 2778,
-          "seats": 32655,
-          "showtimes": 252,
+          "moviename": "Your Quiz",
+          "japanese name": "君のクイズ",
+          "sales": 1276,
+          "seats": 27474,
+          "showtimes": 193,
           "theaters": 249,
-          "rank": 16,
+          "rank": 23,
           "last_week_ratio": null
         },
         {
-          "moviename": "Masters of the Universe",
-          "japanese name": "マスターズ・オブ・ユニバース",
-          "sales": 7024,
-          "seats": 143356,
-          "showtimes": 785,
-          "theaters": 241,
-          "rank": 7,
-          "last_week_ratio": null
+          "moviename": "LoveLive! Suzuhara no Skyrise School Idol Club: Bloom Garden Party",
+          "japanese name": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ Ｂｌｏｏｍ Ｇａｒｄｅｎ Ｐａｒｔｙ",
+          "sales": 1146,
+          "seats": 8089,
+          "showtimes": 46,
+          "theaters": 64,
+          "rank": 24,
+          "last_week_ratio": 184.8
         },
         {
-          "moviename": "Never After Dark/ネバーアフターダーク",
-          "japanese name": "Ｎｅｖｅｒ Ａｆｔｅｒ Ｄａｒｋ／ネバーアフターダーク",
-          "sales": 3358,
-          "seats": 55589,
-          "showtimes": 362,
-          "theaters": 119,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Sirat",
-          "japanese name": "シラート",
-          "sales": 2340,
-          "seats": 12490,
-          "showtimes": 73,
-          "theaters": 36,
-          "rank": 19,
+          "moviename": "SUPER BEAVER LIFE & DOCUMENTARY – Current Location –",
+          "japanese name": "ＳＵＰＥＲ ＢＥＡＶＥＲ ＬＩＶＥ ＆ ＤＯＣＵＭＥＮＴＡＲＹ －現在地－",
+          "sales": 1049,
+          "seats": 8421,
+          "showtimes": 66,
+          "theaters": 82,
+          "rank": 25,
           "last_week_ratio": null
         }
       ]
@@ -518,73 +518,23 @@
       "time": "Final",
       "data": [
         {
-          "moviename": "Mobuko’s Love",
-          "japanese name": "モブ子の恋",
-          "sales": 3961,
-          "seats": 104216,
-          "showtimes": 642,
-          "theaters": 153,
-          "rank": 14,
+          "moviename": "Star Wars: Mandalorian and Grogg",
+          "japanese name": "スター・ウォーズ／マンダロリアン・アンド・グローグー",
+          "sales": 27745,
+          "seats": 310558,
+          "showtimes": 1232,
+          "theaters": 269,
+          "rank": 1,
           "last_week_ratio": null
         },
         {
-          "moviename": "SAKAMOTO DAYS",
-          "japanese name": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ",
-          "sales": 3322,
-          "seats": 42331,
-          "showtimes": 298,
-          "theaters": 252,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "LoveLive! Suzuhara no Skyrise School Idol Club: Bloom Garden Party",
-          "japanese name": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ Ｂｌｏｏｍ Ｇａｒｄｅｎ Ｐａｒｔｙ",
-          "sales": 1942,
-          "seats": 11003,
-          "showtimes": 65,
-          "theaters": 64,
-          "rank": 22,
-          "last_week_ratio": 189.3
-        },
-        {
-          "moviename": "Detective Conan: The Fallen Angel of the Highway",
-          "japanese name": "名探偵コナン ハイウェイの堕天使",
-          "sales": 9467,
-          "seats": 115795,
-          "showtimes": 717,
-          "theaters": 268,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Mortal Kombat/Next Round",
-          "japanese name": "モータルコンバット／ネクストラウンド",
-          "sales": 5846,
-          "seats": 92290,
-          "showtimes": 505,
-          "theaters": 112,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "SAMURAI BLUE Project for FIFA World Cup 2026 “ONE CREATION” Countless individualities, one being.",
-          "japanese name": "ＳＡＭＵＲＡＩ ＢＬＵＥ Ｐｒｏｊｅｃｔ ｆｏｒ ＦＩＦＡ Ｗｏｒｌｄ Ｃｕｐ ２０２６ 「ＯＮＥ ＣＲＥＡＴＵＲＥ」無数の個性、ひとつの生きもの。",
-          "sales": 4126,
-          "seats": 142856,
-          "showtimes": 760,
-          "theaters": 191,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Super Mario Galaxy Movie",
-          "japanese name": "ザ・スーパーマリオギャラクシー・ムービー",
-          "sales": 4318,
-          "seats": 102249,
-          "showtimes": 555,
-          "theaters": 264,
-          "rank": 12,
+          "moviename": "The Devil Wears Prada 2",
+          "japanese name": "プラダを着た悪魔２",
+          "sales": 17848,
+          "seats": 154906,
+          "showtimes": 786,
+          "theaters": 262,
+          "rank": 2,
           "last_week_ratio": null
         },
         {
@@ -608,13 +558,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "GENERATIONS LIVE TOUR 2024 “GENERATIONS 2.0” LV",
-          "japanese name": "ＧＥＮＥＲＡＴＩＯＮＳ ＬＩＶＥ ＴＯＵＲ ２０２４ ’ＧＥＮＥＲＡＴＩＯＮＳ ２．０” ＬＶ",
-          "sales": 1858,
-          "seats": 19037,
-          "showtimes": 69,
-          "theaters": 43,
-          "rank": 24,
+          "moviename": "Michael",
+          "japanese name": "Ｍｉｃｈａｅｌ／マイケル",
+          "sales": 9779,
+          "seats": 22154,
+          "showtimes": 72,
+          "theaters": 49,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: The Fallen Angel of the Highway",
+          "japanese name": "名探偵コナン ハイウェイの堕天使",
+          "sales": 9467,
+          "seats": 115795,
+          "showtimes": 717,
+          "theaters": 268,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Masters of the Universe",
+          "japanese name": "マスターズ・オブ・ユニバース",
+          "sales": 9259,
+          "seats": 185645,
+          "showtimes": 1018,
+          "theaters": 241,
+          "rank": 7,
           "last_week_ratio": null
         },
         {
@@ -625,6 +595,106 @@
           "showtimes": 478,
           "theaters": 181,
           "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mortal Kombat/Next Round",
+          "japanese name": "モータルコンバット／ネクストラウンド",
+          "sales": 5846,
+          "seats": 92290,
+          "showtimes": 505,
+          "theaters": 112,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Amazon Digital Circus: The Last Act",
+          "japanese name": "Ｔｈｅ Ａｍａｚｉｎｇ Ｄｉｇｉｔａｌ Ｃｉｒｃｕｓ：ザラストアクト",
+          "sales": 5664,
+          "seats": 37011,
+          "showtimes": 146,
+          "theaters": 57,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Never After Dark/ネバーアフターダーク",
+          "japanese name": "Ｎｅｖｅｒ Ａｆｔｅｒ Ｄａｒｋ／ネバーアフターダーク",
+          "sales": 5045,
+          "seats": 74397,
+          "showtimes": 487,
+          "theaters": 119,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Super Mario Galaxy Movie",
+          "japanese name": "ザ・スーパーマリオギャラクシー・ムービー",
+          "sales": 4318,
+          "seats": 102249,
+          "showtimes": 555,
+          "theaters": 264,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SAMURAI BLUE Project for FIFA World Cup 2026 “ONE CREATION” Countless individualities, one being.",
+          "japanese name": "ＳＡＭＵＲＡＩ ＢＬＵＥ Ｐｒｏｊｅｃｔ ｆｏｒ ＦＩＦＡ Ｗｏｒｌｄ Ｃｕｐ ２０２６ 「ＯＮＥ ＣＲＥＡＴＵＲＥ」無数の個性、ひとつの生きもの。",
+          "sales": 4126,
+          "seats": 142856,
+          "showtimes": 760,
+          "theaters": 191,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobuko’s Love",
+          "japanese name": "モブ子の恋",
+          "sales": 3961,
+          "seats": 104216,
+          "showtimes": 642,
+          "theaters": 153,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SAKAMOTO DAYS",
+          "japanese name": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ",
+          "sales": 3322,
+          "seats": 42331,
+          "showtimes": 298,
+          "theaters": 252,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sirat",
+          "japanese name": "シラート",
+          "sales": 3308,
+          "seats": 15524,
+          "showtimes": 94,
+          "theaters": 36,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TOKYO BURST－Crime City－",
+          "japanese name": "ＴＯＫＹＯ ＢＵＲＳＴ－犯罪都市－",
+          "sales": 3241,
+          "seats": 47686,
+          "showtimes": 382,
+          "theaters": 222,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Honest Real Estate\"",
+          "japanese name": "映画「正直不動産」",
+          "sales": 3013,
+          "seats": 36479,
+          "showtimes": 281,
+          "theaters": 249,
+          "rank": 18,
           "last_week_ratio": null
         },
         {
@@ -648,56 +718,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Michael",
-          "japanese name": "Ｍｉｃｈａｅｌ／マイケル",
-          "sales": 9779,
-          "seats": 22154,
-          "showtimes": 72,
-          "theaters": 49,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Star Wars: Mandalorian and Grogg",
-          "japanese name": "スター・ウォーズ／マンダロリアン・アンド・グローグー",
-          "sales": 27745,
-          "seats": 310558,
-          "showtimes": 1232,
-          "theaters": 269,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Devil Wears Prada 2",
-          "japanese name": "プラダを着た悪魔２",
-          "sales": 17848,
-          "seats": 154906,
-          "showtimes": 786,
-          "theaters": 262,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Your Quiz",
-          "japanese name": "君のクイズ",
-          "sales": 1681,
-          "seats": 35161,
-          "showtimes": 251,
-          "theaters": 249,
-          "rank": 25,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "TOKYO BURST－Crime City－",
-          "japanese name": "ＴＯＫＹＯ ＢＵＲＳＴ－犯罪都市－",
-          "sales": 3241,
-          "seats": 47686,
-          "showtimes": 382,
-          "theaters": 222,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Sheep Detective Team",
           "japanese name": "ひつじ探偵団",
           "sales": 2372,
@@ -706,6 +726,16 @@
           "theaters": 191,
           "rank": 21,
           "last_week_ratio": null
+        },
+        {
+          "moviename": "LoveLive! Suzuhara no Skyrise School Idol Club: Bloom Garden Party",
+          "japanese name": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ Ｂｌｏｏｍ Ｇａｒｄｅｎ Ｐａｒｔｙ",
+          "sales": 1942,
+          "seats": 11003,
+          "showtimes": 65,
+          "theaters": 64,
+          "rank": 22,
+          "last_week_ratio": 189.3
         },
         {
           "moviename": "National Treasure",
@@ -718,53 +748,23 @@
           "last_week_ratio": 3645.1
         },
         {
-          "moviename": "The Amazon Digital Circus: The Last Act",
-          "japanese name": "Ｔｈｅ Ａｍａｚｉｎｇ Ｄｉｇｉｔａｌ Ｃｉｒｃｕｓ：ザラストアクト",
-          "sales": 5664,
-          "seats": 37011,
-          "showtimes": 146,
-          "theaters": 57,
-          "rank": 10,
+          "moviename": "GENERATIONS LIVE TOUR 2024 “GENERATIONS 2.0” LV",
+          "japanese name": "ＧＥＮＥＲＡＴＩＯＮＳ ＬＩＶＥ ＴＯＵＲ ２０２４ ’ＧＥＮＥＲＡＴＩＯＮＳ ２．０” ＬＶ",
+          "sales": 1858,
+          "seats": 19037,
+          "showtimes": 69,
+          "theaters": 43,
+          "rank": 24,
           "last_week_ratio": null
         },
         {
-          "moviename": "Movie \"Honest Real Estate\"",
-          "japanese name": "映画「正直不動産」",
-          "sales": 3013,
-          "seats": 36479,
-          "showtimes": 281,
+          "moviename": "Your Quiz",
+          "japanese name": "君のクイズ",
+          "sales": 1681,
+          "seats": 35161,
+          "showtimes": 251,
           "theaters": 249,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Masters of the Universe",
-          "japanese name": "マスターズ・オブ・ユニバース",
-          "sales": 9259,
-          "seats": 185645,
-          "showtimes": 1018,
-          "theaters": 241,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Never After Dark/ネバーアフターダーク",
-          "japanese name": "Ｎｅｖｅｒ Ａｆｔｅｒ Ｄａｒｋ／ネバーアフターダーク",
-          "sales": 5045,
-          "seats": 74397,
-          "showtimes": 487,
-          "theaters": 119,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Sirat",
-          "japanese name": "シラート",
-          "sales": 3308,
-          "seats": 15524,
-          "showtimes": 94,
-          "theaters": 36,
-          "rank": 16,
+          "rank": 25,
           "last_week_ratio": null
         }
       ]

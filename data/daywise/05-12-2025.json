@@ -6,6 +6,26 @@
       "time": "2PM",
       "data": [
         {
+          "moviename": "Zootopia 2",
+          "japanese name": "ズートピア２",
+          "sales": 50998,
+          "seats": 351349,
+          "showtimes": 1167,
+          "theaters": 271,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TOKYO TAXI",
+          "japanese name": "ＴＯＫＹＯタクシー",
+          "sales": 12443,
+          "seats": 82914,
+          "showtimes": 573,
+          "theaters": 264,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Glory's Back Home",
           "japanese name": "栄光のバックホーム",
           "sales": 7877,
@@ -16,23 +36,103 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Light of the Harbor",
-          "japanese name": "港のひかり",
-          "sales": 426,
-          "seats": 9546,
-          "showtimes": 86,
-          "theaters": 121,
-          "rank": 24,
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 7594,
+          "seats": 33199,
+          "showtimes": 210,
+          "theaters": 249,
+          "rank": 4,
           "last_week_ratio": null
         },
         {
-          "moviename": "Zootopia 2",
-          "japanese name": "ズートピア２",
-          "sales": 50998,
-          "seats": 351349,
-          "showtimes": 1167,
-          "theaters": 271,
-          "rank": 1,
+          "moviename": "WIND BREAKER/Windbreaker",
+          "japanese name": "ＷＩＮＤ ＢＲＥＡＫＥＲ／ウィンドブレイカー",
+          "sales": 6389,
+          "seats": 91635,
+          "showtimes": 539,
+          "theaters": 260,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pereluu – Gernika of Paradise",
+          "japanese name": "ペリリュー －楽園のゲルニカ－",
+          "sales": 5410,
+          "seats": 54064,
+          "showtimes": 412,
+          "theaters": 244,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bomb",
+          "japanese name": "爆弾",
+          "sales": 3961,
+          "seats": 26211,
+          "showtimes": 168,
+          "theaters": 260,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nightflower",
+          "japanese name": "ナイトフラワー",
+          "sales": 3674,
+          "seats": 42140,
+          "showtimes": 339,
+          "theaters": 250,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Naruto Tamago: Dr. Kakke’s Ninja Team – The Strongest Strategist",
+          "japanese name": "劇場版 忍たま乱太郎 ドクタケ忍者隊最強の軍師",
+          "sales": 3057,
+          "seats": 11262,
+          "showtimes": 76,
+          "theaters": 223,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Astro Pavilion Detective Stories",
+          "japanese name": "天文館探偵物語",
+          "sales": 3050,
+          "seats": 10440,
+          "showtimes": 57,
+          "theaters": 78,
+          "rank": 10,
+          "last_week_ratio": 25416.7
+        },
+        {
+          "moviename": "D) MGA MAGICAL 10 YEARS DOCUMENTARY FILM ～THE ORIGIN～",
+          "japanese name": "D) ＭＧＡ ＭＡＧＩＣＡＬ １０ ＹＥＡＲＳ ＤＯＣＵＭＥＮＴＡＲＹ ＦＩＬＭ ～ＴＨＥ ＯＲＩＧＩＮ～",
+          "sales": 2467,
+          "seats": 34181,
+          "showtimes": 220,
+          "theaters": 208,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A) MGA MAGICAL 10 YEARS ANNIVERSARY LIVE FOR JORD",
+          "japanese name": "A) ＭＧＡ ＭＡＧＩＣＡＬ １０ ＹＥＡＲＳ ＡＮＮＩＶＥＲＳＡＲＹ ＬＩＶＥ ＦＪＯＲＤ",
+          "sales": 1875,
+          "seats": 35850,
+          "showtimes": 208,
+          "theaters": 208,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Idolish Seven First Beat! Theatrical Compilation: Part 2",
+          "japanese name": "アイドリッシュセブン Ｆｉｒｓｔ ＢＥＡＴ！ 劇場総集編 後編",
+          "sales": 1351,
+          "seats": 11962,
+          "showtimes": 93,
+          "theaters": 98,
+          "rank": 13,
           "last_week_ratio": null
         },
         {
@@ -56,154 +156,14 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "A) MGA MAGICAL 10 YEARS ANNIVERSARY LIVE FOR JORD",
-          "japanese name": "A) ＭＧＡ ＭＡＧＩＣＡＬ １０ ＹＥＡＲＳ ＡＮＮＩＶＥＲＳＡＲＹ ＬＩＶＥ ＦＪＯＲＤ",
-          "sales": 1875,
-          "seats": 35850,
-          "showtimes": 208,
-          "theaters": 208,
-          "rank": 12,
+          "moviename": "Endless Scarlet",
+          "japanese name": "果てしなきスカーレット",
+          "sales": 1088,
+          "seats": 28669,
+          "showtimes": 233,
+          "theaters": 271,
+          "rank": 16,
           "last_week_ratio": null
-        },
-        {
-          "moviename": "Pereluu – Gernika of Paradise",
-          "japanese name": "ペリリュー －楽園のゲルニカ－",
-          "sales": 5410,
-          "seats": 54064,
-          "showtimes": 412,
-          "theaters": 244,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "WEAPONS／Weapons",
-          "japanese name": "ＷＥＡＰＯＮＳ／ウェポンズ",
-          "sales": 604,
-          "seats": 3390,
-          "showtimes": 21,
-          "theaters": 24,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "TOKYO TAXI",
-          "japanese name": "ＴＯＫＹＯタクシー",
-          "sales": 12443,
-          "seats": 82914,
-          "showtimes": 573,
-          "theaters": 264,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Song of the Future",
-          "japanese name": "みらいのうた",
-          "sales": 559,
-          "seats": 1130,
-          "showtimes": 7,
-          "theaters": 20,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Nightflower",
-          "japanese name": "ナイトフラワー",
-          "sales": 3674,
-          "seats": 42140,
-          "showtimes": 339,
-          "theaters": 250,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Small enough to carry your brother",
-          "japanese name": "兄を持ち運べるサイズに",
-          "sales": 515,
-          "seats": 7352,
-          "showtimes": 61,
-          "theaters": 177,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version: Naruto Tamago: Dr. Kakke’s Ninja Team – The Strongest Strategist",
-          "japanese name": "劇場版 忍たま乱太郎 ドクタケ忍者隊最強の軍師",
-          "sales": 3057,
-          "seats": 11262,
-          "showtimes": 76,
-          "theaters": 223,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Kabuki NEXT Aterui <(Aterui)>",
-          "japanese name": "歌舞伎ＮＥＸＴ 阿弖流為〈アテルイ〉",
-          "sales": 520,
-          "seats": 3642,
-          "showtimes": 28,
-          "theaters": 28,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Idolish Seven First Beat! Theatrical Compilation: Part 2",
-          "japanese name": "アイドリッシュセブン Ｆｉｒｓｔ ＢＥＡＴ！ 劇場総集編 後編",
-          "sales": 1351,
-          "seats": 11962,
-          "showtimes": 93,
-          "theaters": 98,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "WIND BREAKER/Windbreaker",
-          "japanese name": "ＷＩＮＤ ＢＲＥＡＫＥＲ／ウィンドブレイカー",
-          "sales": 6389,
-          "seats": 91635,
-          "showtimes": 539,
-          "theaters": 260,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "D) MGA MAGICAL 10 YEARS DOCUMENTARY FILM ～THE ORIGIN～",
-          "japanese name": "D) ＭＧＡ ＭＡＧＩＣＡＬ １０ ＹＥＡＲＳ ＤＯＣＵＭＥＮＴＡＲＹ ＦＩＬＭ ～ＴＨＥ ＯＲＩＧＩＮ～",
-          "sales": 2467,
-          "seats": 34181,
-          "showtimes": 220,
-          "theaters": 208,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "National Treasure",
-          "japanese name": "国宝",
-          "sales": 7594,
-          "seats": 33199,
-          "showtimes": 210,
-          "theaters": 249,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Kamen Rider Gavelty Purple",
-          "japanese name": "仮面ライダーガヴ ギルティ・パルフェ",
-          "sales": 840,
-          "seats": 11446,
-          "showtimes": 65,
-          "theaters": 62,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Astro Pavilion Detective Stories",
-          "japanese name": "天文館探偵物語",
-          "sales": 3050,
-          "seats": 10440,
-          "showtimes": 57,
-          "theaters": 78,
-          "rank": 10,
-          "last_week_ratio": 25416.7
         },
         {
           "moviename": "Movie version Kimetsu no Yaiba: Infinite Castle Chapter 1, Return to Yigazuka",
@@ -226,23 +186,63 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Endless Scarlet",
-          "japanese name": "果てしなきスカーレット",
-          "sales": 1088,
-          "seats": 28669,
-          "showtimes": 233,
-          "theaters": 271,
-          "rank": 16,
+          "moviename": "Kamen Rider Gavelty Purple",
+          "japanese name": "仮面ライダーガヴ ギルティ・パルフェ",
+          "sales": 840,
+          "seats": 11446,
+          "showtimes": 65,
+          "theaters": 62,
+          "rank": 19,
           "last_week_ratio": null
         },
         {
-          "moviename": "Bomb",
-          "japanese name": "爆弾",
-          "sales": 3961,
-          "seats": 26211,
-          "showtimes": 168,
-          "theaters": 260,
-          "rank": 7,
+          "moviename": "WEAPONS／Weapons",
+          "japanese name": "ＷＥＡＰＯＮＳ／ウェポンズ",
+          "sales": 604,
+          "seats": 3390,
+          "showtimes": 21,
+          "theaters": 24,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Song of the Future",
+          "japanese name": "みらいのうた",
+          "sales": 559,
+          "seats": 1130,
+          "showtimes": 7,
+          "theaters": 20,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kabuki NEXT Aterui <(Aterui)>",
+          "japanese name": "歌舞伎ＮＥＸＴ 阿弖流為〈アテルイ〉",
+          "sales": 520,
+          "seats": 3642,
+          "showtimes": 28,
+          "theaters": 28,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Small enough to carry your brother",
+          "japanese name": "兄を持ち運べるサイズに",
+          "sales": 515,
+          "seats": 7352,
+          "showtimes": 61,
+          "theaters": 177,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Light of the Harbor",
+          "japanese name": "港のひかり",
+          "sales": 426,
+          "seats": 9546,
+          "showtimes": 86,
+          "theaters": 121,
+          "rank": 24,
           "last_week_ratio": null
         },
         {
@@ -262,16 +262,6 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "Glory's Back Home",
-          "japanese name": "栄光のバックホーム",
-          "sales": 13886,
-          "seats": 91903,
-          "showtimes": 581,
-          "theaters": 237,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Zootopia 2",
           "japanese name": "ズートピア２",
           "sales": 137754,
@@ -279,56 +269,6 @@
           "showtimes": 2188,
           "theaters": 271,
           "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Moon over the Plain",
-          "japanese name": "平場の月",
-          "sales": 1921,
-          "seats": 24831,
-          "showtimes": 190,
-          "theaters": 233,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version “Chainsaw Man: Resurrection”",
-          "japanese name": "劇場版「チェンソーマン レゼ篇」",
-          "sales": 3500,
-          "seats": 40710,
-          "showtimes": 256,
-          "theaters": 253,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "A) MGA MAGICAL 10 YEARS ANNIVERSARY LIVE FOR JORD",
-          "japanese name": "A) ＭＧＡ ＭＡＧＩＣＡＬ １０ ＹＥＡＲＳ ＡＮＮＩＶＥＲＳＡＲＹ ＬＩＶＥ ＦＪＯＲＤ",
-          "sales": 4032,
-          "seats": 68831,
-          "showtimes": 401,
-          "theaters": 208,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Pereluu – Gernika of Paradise",
-          "japanese name": "ペリリュー －楽園のゲルニカ－",
-          "sales": 8892,
-          "seats": 90974,
-          "showtimes": 699,
-          "theaters": 244,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "WEAPONS／Weapons",
-          "japanese name": "ＷＥＡＰＯＮＳ／ウェポンズ",
-          "sales": 1269,
-          "seats": 6039,
-          "showtimes": 39,
-          "theaters": 24,
-          "rank": 21,
           "last_week_ratio": null
         },
         {
@@ -342,53 +282,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Song of the Future",
-          "japanese name": "みらいのうた",
-          "sales": 1071,
-          "seats": 2943,
-          "showtimes": 19,
-          "theaters": 20,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Nightflower",
-          "japanese name": "ナイトフラワー",
-          "sales": 5587,
-          "seats": 70817,
-          "showtimes": 565,
-          "theaters": 250,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Small enough to carry your brother",
-          "japanese name": "兄を持ち運べるサイズに",
-          "sales": 979,
-          "seats": 17241,
-          "showtimes": 137,
-          "theaters": 177,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version: Naruto Tamago: Dr. Kakke’s Ninja Team – The Strongest Strategist",
-          "japanese name": "劇場版 忍たま乱太郎 ドクタケ忍者隊最強の軍師",
-          "sales": 8979,
-          "seats": 33291,
-          "showtimes": 217,
-          "theaters": 223,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Idolish Seven First Beat! Theatrical Compilation: Part 2",
-          "japanese name": "アイドリッシュセブン Ｆｉｒｓｔ ＢＥＡＴ！ 劇場総集編 後編",
-          "sales": 2414,
-          "seats": 22553,
-          "showtimes": 173,
-          "theaters": 98,
-          "rank": 16,
+          "moviename": "Glory's Back Home",
+          "japanese name": "栄光のバックホーム",
+          "sales": 13886,
+          "seats": 91903,
+          "showtimes": 581,
+          "theaters": 237,
+          "rank": 3,
           "last_week_ratio": null
         },
         {
@@ -402,13 +302,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "D) MGA MAGICAL 10 YEARS DOCUMENTARY FILM ～THE ORIGIN～",
-          "japanese name": "D) ＭＧＡ ＭＡＧＩＣＡＬ １０ ＹＥＡＲＳ ＤＯＣＵＭＥＮＴＡＲＹ ＦＩＬＭ ～ＴＨＥ ＯＲＩＧＩＮ～",
-          "sales": 4846,
-          "seats": 67188,
-          "showtimes": 426,
-          "theaters": 208,
-          "rank": 11,
+          "moviename": "Theatrical Version: Naruto Tamago: Dr. Kakke’s Ninja Team – The Strongest Strategist",
+          "japanese name": "劇場版 忍たま乱太郎 ドクタケ忍者隊最強の軍師",
+          "sales": 8979,
+          "seats": 33291,
+          "showtimes": 217,
+          "theaters": 223,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pereluu – Gernika of Paradise",
+          "japanese name": "ペリリュー －楽園のゲルニカ－",
+          "sales": 8892,
+          "seats": 90974,
+          "showtimes": 699,
+          "theaters": 244,
+          "rank": 6,
           "last_week_ratio": null
         },
         {
@@ -422,23 +332,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "5 Centimeters Per Second",
-          "japanese name": "秒速５センチメートル",
-          "sales": 993,
-          "seats": 17520,
-          "showtimes": 136,
-          "theaters": 219,
-          "rank": 23,
+          "moviename": "Bomb",
+          "japanese name": "爆弾",
+          "sales": 8475,
+          "seats": 50829,
+          "showtimes": 323,
+          "theaters": 260,
+          "rank": 8,
           "last_week_ratio": null
         },
         {
-          "moviename": "Kamen Rider Gavelty Purple",
-          "japanese name": "仮面ライダーガヴ ギルティ・パルフェ",
-          "sales": 1585,
-          "seats": 19279,
-          "showtimes": 108,
-          "theaters": 62,
-          "rank": 19,
+          "moviename": "Nightflower",
+          "japanese name": "ナイトフラワー",
+          "sales": 5587,
+          "seats": 70817,
+          "showtimes": 565,
+          "theaters": 250,
+          "rank": 9,
           "last_week_ratio": null
         },
         {
@@ -452,13 +362,33 @@
           "last_week_ratio": 11122.2
         },
         {
-          "moviename": "Movie version Kimetsu no Yaiba: Infinite Castle Chapter 1, Return to Yigazuka",
-          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
-          "sales": 2695,
-          "seats": 31605,
-          "showtimes": 211,
-          "theaters": 251,
-          "rank": 15,
+          "moviename": "D) MGA MAGICAL 10 YEARS DOCUMENTARY FILM ～THE ORIGIN～",
+          "japanese name": "D) ＭＧＡ ＭＡＧＩＣＡＬ １０ ＹＥＡＲＳ ＤＯＣＵＭＥＮＴＡＲＹ ＦＩＬＭ ～ＴＨＥ ＯＲＩＧＩＮ～",
+          "sales": 4846,
+          "seats": 67188,
+          "showtimes": 426,
+          "theaters": 208,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A) MGA MAGICAL 10 YEARS ANNIVERSARY LIVE FOR JORD",
+          "japanese name": "A) ＭＧＡ ＭＡＧＩＣＡＬ １０ ＹＥＡＲＳ ＡＮＮＩＶＥＲＳＡＲＹ ＬＩＶＥ ＦＪＯＲＤ",
+          "sales": 4032,
+          "seats": 68831,
+          "showtimes": 401,
+          "theaters": 208,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version “Chainsaw Man: Resurrection”",
+          "japanese name": "劇場版「チェンソーマン レゼ篇」",
+          "sales": 3500,
+          "seats": 40710,
+          "showtimes": 256,
+          "theaters": 253,
+          "rank": 13,
           "last_week_ratio": null
         },
         {
@@ -472,6 +402,26 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Movie version Kimetsu no Yaiba: Infinite Castle Chapter 1, Return to Yigazuka",
+          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
+          "sales": 2695,
+          "seats": 31605,
+          "showtimes": 211,
+          "theaters": 251,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Idolish Seven First Beat! Theatrical Compilation: Part 2",
+          "japanese name": "アイドリッシュセブン Ｆｉｒｓｔ ＢＥＡＴ！ 劇場総集編 後編",
+          "sales": 2414,
+          "seats": 22553,
+          "showtimes": 173,
+          "theaters": 98,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Endless Scarlet",
           "japanese name": "果てしなきスカーレット",
           "sales": 2143,
@@ -482,23 +432,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "ATEEZ VR Concert: Light the Way",
-          "japanese name": "ＡＴＥＥＺ ＶＲ ＣＯＮＣＥＲＴ：ＬＩＧＨＴ ＴＨＥ ＷＡＹ",
-          "sales": 821,
-          "seats": 1236,
-          "showtimes": 7,
-          "theaters": 1,
-          "rank": 25,
+          "moviename": "The Moon over the Plain",
+          "japanese name": "平場の月",
+          "sales": 1921,
+          "seats": 24831,
+          "showtimes": 190,
+          "theaters": 233,
+          "rank": 18,
           "last_week_ratio": null
         },
         {
-          "moviename": "Bomb",
-          "japanese name": "爆弾",
-          "sales": 8475,
-          "seats": 50829,
-          "showtimes": 323,
-          "theaters": 260,
-          "rank": 8,
+          "moviename": "Kamen Rider Gavelty Purple",
+          "japanese name": "仮面ライダーガヴ ギルティ・パルフェ",
+          "sales": 1585,
+          "seats": 19279,
+          "showtimes": 108,
+          "theaters": 62,
+          "rank": 19,
           "last_week_ratio": null
         },
         {
@@ -510,6 +460,56 @@
           "theaters": 19,
           "rank": 20,
           "last_week_ratio": null
+        },
+        {
+          "moviename": "WEAPONS／Weapons",
+          "japanese name": "ＷＥＡＰＯＮＳ／ウェポンズ",
+          "sales": 1269,
+          "seats": 6039,
+          "showtimes": 39,
+          "theaters": 24,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Song of the Future",
+          "japanese name": "みらいのうた",
+          "sales": 1071,
+          "seats": 2943,
+          "showtimes": 19,
+          "theaters": 20,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "5 Centimeters Per Second",
+          "japanese name": "秒速５センチメートル",
+          "sales": 993,
+          "seats": 17520,
+          "showtimes": 136,
+          "theaters": 219,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Small enough to carry your brother",
+          "japanese name": "兄を持ち運べるサイズに",
+          "sales": 979,
+          "seats": 17241,
+          "showtimes": 137,
+          "theaters": 177,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ATEEZ VR Concert: Light the Way",
+          "japanese name": "ＡＴＥＥＺ ＶＲ ＣＯＮＣＥＲＴ：ＬＩＧＨＴ ＴＨＥ ＷＡＹ",
+          "sales": 821,
+          "seats": 1236,
+          "showtimes": 7,
+          "theaters": 1,
+          "rank": 25,
+          "last_week_ratio": null
         }
       ]
     },
@@ -517,26 +517,6 @@
       "title": "Including Independents",
       "time": "Final",
       "data": [
-        {
-          "moviename": "Glory's Back Home",
-          "japanese name": "栄光のバックホーム",
-          "sales": 18862,
-          "seats": 114422,
-          "showtimes": 720,
-          "theaters": 237,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Edition: Girl Band Cry – Part 2. Hey, Future.",
-          "japanese name": "劇場版総集編 ガールズバンドクライ 後編 なぁ、未来。",
-          "sales": 1527,
-          "seats": 5294,
-          "showtimes": 36,
-          "theaters": 36,
-          "rank": 22,
-          "last_week_ratio": 297.1
-        },
         {
           "moviename": "Zootopia 2",
           "japanese name": "ズートピア２",
@@ -548,53 +528,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The Moon over the Plain",
-          "japanese name": "平場の月",
-          "sales": 2246,
-          "seats": 29764,
-          "showtimes": 228,
-          "theaters": 233,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version “Chainsaw Man: Resurrection”",
-          "japanese name": "劇場版「チェンソーマン レゼ篇」",
-          "sales": 4512,
-          "seats": 49699,
-          "showtimes": 319,
-          "theaters": 253,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "A) MGA MAGICAL 10 YEARS ANNIVERSARY LIVE FOR JORD",
-          "japanese name": "A) ＭＧＡ ＭＡＧＩＣＡＬ １０ ＹＥＡＲＳ ＡＮＮＩＶＥＲＳＡＲＹ ＬＩＶＥ ＦＪＯＲＤ",
-          "sales": 5110,
-          "seats": 89471,
-          "showtimes": 518,
-          "theaters": 208,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Pereluu – Gernika of Paradise",
-          "japanese name": "ペリリュー －楽園のゲルニカ－",
-          "sales": 12113,
-          "seats": 119332,
-          "showtimes": 916,
-          "theaters": 244,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "WEAPONS／Weapons",
-          "japanese name": "ＷＥＡＰＯＮＳ／ウェポンズ",
-          "sales": 2273,
-          "seats": 9160,
-          "showtimes": 57,
-          "theaters": 24,
-          "rank": 18,
+          "moviename": "Glory's Back Home",
+          "japanese name": "栄光のバックホーム",
+          "sales": 18862,
+          "seats": 114422,
+          "showtimes": 720,
+          "theaters": 237,
+          "rank": 2,
           "last_week_ratio": null
         },
         {
@@ -608,33 +548,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Song of the Future",
-          "japanese name": "みらいのうた",
-          "sales": 1418,
-          "seats": 3965,
-          "showtimes": 27,
-          "theaters": 20,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Nightflower",
-          "japanese name": "ナイトフラワー",
-          "sales": 6925,
-          "seats": 90582,
-          "showtimes": 726,
-          "theaters": 250,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Small enough to carry your brother",
-          "japanese name": "兄を持ち運べるサイズに",
-          "sales": 1131,
-          "seats": 21143,
-          "showtimes": 167,
-          "theaters": 177,
-          "rank": 25,
+          "moviename": "WIND BREAKER/Windbreaker",
+          "japanese name": "ＷＩＮＤ ＢＲＥＡＫＥＲ／ウィンドブレイカー",
+          "sales": 13428,
+          "seats": 211664,
+          "showtimes": 1251,
+          "theaters": 260,
+          "rank": 4,
           "last_week_ratio": null
         },
         {
@@ -648,103 +568,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Idolish Seven First Beat! Theatrical Compilation: Part 2",
-          "japanese name": "アイドリッシュセブン Ｆｉｒｓｔ ＢＥＡＴ！ 劇場総集編 後編",
-          "sales": 3258,
-          "seats": 31082,
-          "showtimes": 234,
-          "theaters": 98,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "WIND BREAKER/Windbreaker",
-          "japanese name": "ＷＩＮＤ ＢＲＥＡＫＥＲ／ウィンドブレイカー",
-          "sales": 13428,
-          "seats": 211664,
-          "showtimes": 1251,
-          "theaters": 260,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "D) MGA MAGICAL 10 YEARS DOCUMENTARY FILM ～THE ORIGIN～",
-          "japanese name": "D) ＭＧＡ ＭＡＧＩＣＡＬ １０ ＹＥＡＲＳ ＤＯＣＵＭＥＮＴＡＲＹ ＦＩＬＭ ～ＴＨＥ ＯＲＩＧＩＮ～",
-          "sales": 6194,
-          "seats": 89776,
-          "showtimes": 567,
-          "theaters": 208,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "National Treasure",
-          "japanese name": "国宝",
-          "sales": 8692,
-          "seats": 38754,
-          "showtimes": 247,
-          "theaters": 249,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "5 Centimeters Per Second",
-          "japanese name": "秒速５センチメートル",
-          "sales": 1472,
-          "seats": 27633,
-          "showtimes": 210,
-          "theaters": 219,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Kamen Rider Gavelty Purple",
-          "japanese name": "仮面ライダーガヴ ギルティ・パルフェ",
-          "sales": 1962,
-          "seats": 23189,
-          "showtimes": 126,
-          "theaters": 62,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Astro Pavilion Detective Stories",
-          "japanese name": "天文館探偵物語",
-          "sales": 6492,
-          "seats": 21604,
-          "showtimes": 126,
-          "theaters": 78,
-          "rank": 10,
-          "last_week_ratio": 12249.1
-        },
-        {
-          "moviename": "Movie version Kimetsu no Yaiba: Infinite Castle Chapter 1, Return to Yigazuka",
-          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
-          "sales": 3198,
-          "seats": 36525,
-          "showtimes": 244,
-          "theaters": 251,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version of “Jujutsu Kaisen: Shibuya Incident – Special Edition” × “Death Parade”",
-          "japanese name": "劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 」",
-          "sales": 4391,
-          "seats": 50268,
-          "showtimes": 324,
-          "theaters": 246,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Endless Scarlet",
-          "japanese name": "果てしなきスカーレット",
-          "sales": 3066,
-          "seats": 71494,
-          "showtimes": 578,
-          "theaters": 271,
-          "rank": 17,
+          "moviename": "Pereluu – Gernika of Paradise",
+          "japanese name": "ペリリュー －楽園のゲルニカ－",
+          "sales": 12113,
+          "seats": 119332,
+          "showtimes": 916,
+          "theaters": 244,
+          "rank": 6,
           "last_week_ratio": null
         },
         {
@@ -758,6 +588,126 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 8692,
+          "seats": 38754,
+          "showtimes": 247,
+          "theaters": 249,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nightflower",
+          "japanese name": "ナイトフラワー",
+          "sales": 6925,
+          "seats": 90582,
+          "showtimes": 726,
+          "theaters": 250,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Astro Pavilion Detective Stories",
+          "japanese name": "天文館探偵物語",
+          "sales": 6492,
+          "seats": 21604,
+          "showtimes": 126,
+          "theaters": 78,
+          "rank": 10,
+          "last_week_ratio": 12249.1
+        },
+        {
+          "moviename": "D) MGA MAGICAL 10 YEARS DOCUMENTARY FILM ～THE ORIGIN～",
+          "japanese name": "D) ＭＧＡ ＭＡＧＩＣＡＬ １０ ＹＥＡＲＳ ＤＯＣＵＭＥＮＴＡＲＹ ＦＩＬＭ ～ＴＨＥ ＯＲＩＧＩＮ～",
+          "sales": 6194,
+          "seats": 89776,
+          "showtimes": 567,
+          "theaters": 208,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A) MGA MAGICAL 10 YEARS ANNIVERSARY LIVE FOR JORD",
+          "japanese name": "A) ＭＧＡ ＭＡＧＩＣＡＬ １０ ＹＥＡＲＳ ＡＮＮＩＶＥＲＳＡＲＹ ＬＩＶＥ ＦＪＯＲＤ",
+          "sales": 5110,
+          "seats": 89471,
+          "showtimes": 518,
+          "theaters": 208,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version “Chainsaw Man: Resurrection”",
+          "japanese name": "劇場版「チェンソーマン レゼ篇」",
+          "sales": 4512,
+          "seats": 49699,
+          "showtimes": 319,
+          "theaters": 253,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version of “Jujutsu Kaisen: Shibuya Incident – Special Edition” × “Death Parade”",
+          "japanese name": "劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 」",
+          "sales": 4391,
+          "seats": 50268,
+          "showtimes": 324,
+          "theaters": 246,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Idolish Seven First Beat! Theatrical Compilation: Part 2",
+          "japanese name": "アイドリッシュセブン Ｆｉｒｓｔ ＢＥＡＴ！ 劇場総集編 後編",
+          "sales": 3258,
+          "seats": 31082,
+          "showtimes": 234,
+          "theaters": 98,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie version Kimetsu no Yaiba: Infinite Castle Chapter 1, Return to Yigazuka",
+          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
+          "sales": 3198,
+          "seats": 36525,
+          "showtimes": 244,
+          "theaters": 251,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Endless Scarlet",
+          "japanese name": "果てしなきスカーレット",
+          "sales": 3066,
+          "seats": 71494,
+          "showtimes": 578,
+          "theaters": 271,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "WEAPONS／Weapons",
+          "japanese name": "ＷＥＡＰＯＮＳ／ウェポンズ",
+          "sales": 2273,
+          "seats": 9160,
+          "showtimes": 57,
+          "theaters": 24,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Moon over the Plain",
+          "japanese name": "平場の月",
+          "sales": 2246,
+          "seats": 29764,
+          "showtimes": 228,
+          "theaters": 233,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "There’s no way I can become his lover! That’s completely impossible! (※But maybe it isn’t impossible after all!?) ~Next Shine!~",
           "japanese name": "わたしが恋人になれるわけないじゃん、ムリムリ！（※ムリじゃなかった！？）～ネクストシャイン！～",
           "sales": 2048,
@@ -765,6 +715,56 @@
           "showtimes": 24,
           "theaters": 19,
           "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kamen Rider Gavelty Purple",
+          "japanese name": "仮面ライダーガヴ ギルティ・パルフェ",
+          "sales": 1962,
+          "seats": 23189,
+          "showtimes": 126,
+          "theaters": 62,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Edition: Girl Band Cry – Part 2. Hey, Future.",
+          "japanese name": "劇場版総集編 ガールズバンドクライ 後編 なぁ、未来。",
+          "sales": 1527,
+          "seats": 5294,
+          "showtimes": 36,
+          "theaters": 36,
+          "rank": 22,
+          "last_week_ratio": 297.1
+        },
+        {
+          "moviename": "5 Centimeters Per Second",
+          "japanese name": "秒速５センチメートル",
+          "sales": 1472,
+          "seats": 27633,
+          "showtimes": 210,
+          "theaters": 219,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Song of the Future",
+          "japanese name": "みらいのうた",
+          "sales": 1418,
+          "seats": 3965,
+          "showtimes": 27,
+          "theaters": 20,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Small enough to carry your brother",
+          "japanese name": "兄を持ち運べるサイズに",
+          "sales": 1131,
+          "seats": 21143,
+          "showtimes": 167,
+          "theaters": 177,
+          "rank": 25,
           "last_week_ratio": null
         }
       ]

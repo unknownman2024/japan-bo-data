@@ -6,44 +6,14 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "Movie Umaru-chan Pretty Derby New Era Door",
-          "japanese name": "劇場版 ウマ娘 プリティーダービー 新時代の扉",
-          "sales": 2130,
-          "seats": 13659,
-          "showtimes": 91,
-          "theaters": 166,
-          "rank": 13,
+          "moviename": "Let’s go! Anpanman: Battle with the Vile King and the Story of Lulun",
+          "japanese name": "それいけ！アンパンマン ばいきんまんとえほんのルルン",
+          "sales": 22539,
+          "seats": 79335,
+          "showtimes": 480,
+          "theaters": 159,
+          "rank": 1,
           "last_week_ratio": null
-        },
-        {
-          "moviename": "Harry Potter and the Sorcerer's Stone",
-          "japanese name": "ハリー・ポッターと賢者の石",
-          "sales": 757,
-          "seats": 3305,
-          "showtimes": 29,
-          "theaters": 42,
-          "rank": 24,
-          "last_week_ratio": 166.4
-        },
-        {
-          "moviename": "Bad Boys RIDE OR DIE",
-          "japanese name": "バッドボーイズ ＲＩＤＥ ＯＲ ＤＩＥ",
-          "sales": 4773,
-          "seats": 45660,
-          "showtimes": 264,
-          "theaters": 177,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "A few minutes of the Air",
-          "japanese name": "数分間のエールを",
-          "sales": 795,
-          "seats": 5550,
-          "showtimes": 28,
-          "theaters": 41,
-          "rank": 23,
-          "last_week_ratio": 100.8
         },
         {
           "moviename": "Ninety years old. What is there to celebrate",
@@ -56,36 +26,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Circus Tower's Monster 4K Digital Remaster",
-          "japanese name": "オペラ座の怪人 ４Ｋデジタルリマスター",
-          "sales": 863,
-          "seats": 3098,
-          "showtimes": 20,
-          "theaters": 39,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Returned  Dangerous Police",
-          "japanese name": "帰ってきた あぶない刑事",
-          "sales": 4388,
-          "seats": 25010,
-          "showtimes": 161,
-          "theaters": 170,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Unfading Cherry Blossoms",
-          "japanese name": "朽ちないサクラ",
-          "sales": 2294,
-          "seats": 11269,
-          "showtimes": 90,
-          "theaters": 91,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Look Back",
           "japanese name": "ルックバック",
           "sales": 11716,
@@ -93,6 +33,26 @@
           "showtimes": 130,
           "theaters": 64,
           "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dear Family",
+          "japanese name": "ディア・ファミリー",
+          "sales": 8835,
+          "seats": 69611,
+          "showtimes": 333,
+          "theaters": 176,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Quiet Place: DAY1",
+          "japanese name": "クワイエット・プレイス：ＤＡＹ１",
+          "sales": 8706,
+          "seats": 90480,
+          "showtimes": 353,
+          "theaters": 151,
+          "rank": 5,
           "last_week_ratio": null
         },
         {
@@ -116,6 +76,136 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Movie Oh Handsome!!",
+          "japanese name": "映画 おいハンサム！！",
+          "sales": 5632,
+          "seats": 30606,
+          "showtimes": 221,
+          "theaters": 137,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bad Boys RIDE OR DIE",
+          "japanese name": "バッドボーイズ ＲＩＤＥ ＯＲ ＤＩＥ",
+          "sales": 4773,
+          "seats": 45660,
+          "showtimes": 264,
+          "theaters": 177,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Returned  Dangerous Police",
+          "japanese name": "帰ってきた あぶない刑事",
+          "sales": 4388,
+          "seats": 25010,
+          "showtimes": 161,
+          "theaters": 170,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theater Compilation: Bochi, Za, Rokku! Re:",
+          "japanese name": "劇場総集編ぼっち・ざ・ろっく！Ｒｅ：",
+          "sales": 3668,
+          "seats": 18958,
+          "showtimes": 95,
+          "theaters": 93,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Unfading Cherry Blossoms",
+          "japanese name": "朽ちないサクラ",
+          "sales": 2294,
+          "seats": 11269,
+          "showtimes": 90,
+          "theaters": 91,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Umaru-chan Pretty Derby New Era Door",
+          "japanese name": "劇場版 ウマ娘 プリティーダービー 新時代の扉",
+          "sales": 2130,
+          "seats": 13659,
+          "showtimes": 91,
+          "theaters": 166,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Haikyu!! The Battle at the Dumpsite",
+          "japanese name": "劇場版ハイキュー！！ ゴミ捨て場の決戦",
+          "sales": 1530,
+          "seats": 8106,
+          "showtimes": 45,
+          "theaters": 158,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BELIEVE: Men who never gave up on Japanese basketball",
+          "japanese name": "ＢＥＬＩＥＶＥ 日本バスケを諦めなかった男たち",
+          "sales": 1420,
+          "seats": 5283,
+          "showtimes": 29,
+          "theaters": 27,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Blue Are you okay",
+          "japanese name": "ブルー きみは大丈夫",
+          "sales": 1355,
+          "seats": 12220,
+          "showtimes": 90,
+          "theaters": 137,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gintama On Stage 2D - One Country's Favorite Daughter Chapter",
+          "japanese name": "銀魂オンシアター２Ｄ 一国傾城篇",
+          "sales": 1349,
+          "seats": 7336,
+          "showtimes": 48,
+          "theaters": 88,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The movie “Mr. Takagi, the Master of Teasing”",
+          "japanese name": "映画「からかい上手の高木さん」",
+          "sales": 1133,
+          "seats": 6036,
+          "showtimes": 47,
+          "theaters": 122,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Watchers",
+          "japanese name": "ザ・ウォッチャーズ",
+          "sales": 1053,
+          "seats": 13821,
+          "showtimes": 109,
+          "theaters": 126,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Circus Tower's Monster 4K Digital Remaster",
+          "japanese name": "オペラ座の怪人 ４Ｋデジタルリマスター",
+          "sales": 863,
+          "seats": 3098,
+          "showtimes": 20,
+          "theaters": 39,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Born to Fly",
           "japanese name": "ボーン・トゥ・フライ",
           "sales": 812,
@@ -136,24 +226,24 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Theater Compilation: Bochi, Za, Rokku! Re:",
-          "japanese name": "劇場総集編ぼっち・ざ・ろっく！Ｒｅ：",
-          "sales": 3668,
-          "seats": 18958,
-          "showtimes": 95,
-          "theaters": 93,
-          "rank": 11,
-          "last_week_ratio": null
+          "moviename": "A few minutes of the Air",
+          "japanese name": "数分間のエールを",
+          "sales": 795,
+          "seats": 5550,
+          "showtimes": 28,
+          "theaters": 41,
+          "rank": 23,
+          "last_week_ratio": 100.8
         },
         {
-          "moviename": "Movie Haikyu!! The Battle at the Dumpsite",
-          "japanese name": "劇場版ハイキュー！！ ゴミ捨て場の決戦",
-          "sales": 1530,
-          "seats": 8106,
-          "showtimes": 45,
-          "theaters": 158,
-          "rank": 14,
-          "last_week_ratio": null
+          "moviename": "Harry Potter and the Sorcerer's Stone",
+          "japanese name": "ハリー・ポッターと賢者の石",
+          "sales": 757,
+          "seats": 3305,
+          "showtimes": 29,
+          "theaters": 42,
+          "rank": 24,
+          "last_week_ratio": 166.4
         },
         {
           "moviename": "Mad Max: Fury Road",
@@ -164,96 +254,6 @@
           "theaters": 164,
           "rank": 25,
           "last_week_ratio": null
-        },
-        {
-          "moviename": "Quiet Place: DAY1",
-          "japanese name": "クワイエット・プレイス：ＤＡＹ１",
-          "sales": 8706,
-          "seats": 90480,
-          "showtimes": 353,
-          "theaters": 151,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Oh Handsome!!",
-          "japanese name": "映画 おいハンサム！！",
-          "sales": 5632,
-          "seats": 30606,
-          "showtimes": 221,
-          "theaters": 137,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Let’s go! Anpanman: Battle with the Vile King and the Story of Lulun",
-          "japanese name": "それいけ！アンパンマン ばいきんまんとえほんのルルン",
-          "sales": 22539,
-          "seats": 79335,
-          "showtimes": 480,
-          "theaters": 159,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Blue Are you okay",
-          "japanese name": "ブルー きみは大丈夫",
-          "sales": 1355,
-          "seats": 12220,
-          "showtimes": 90,
-          "theaters": 137,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "BELIEVE: Men who never gave up on Japanese basketball",
-          "japanese name": "ＢＥＬＩＥＶＥ 日本バスケを諦めなかった男たち",
-          "sales": 1420,
-          "seats": 5283,
-          "showtimes": 29,
-          "theaters": 27,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Watchers",
-          "japanese name": "ザ・ウォッチャーズ",
-          "sales": 1053,
-          "seats": 13821,
-          "showtimes": 109,
-          "theaters": 126,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The movie “Mr. Takagi, the Master of Teasing”",
-          "japanese name": "映画「からかい上手の高木さん」",
-          "sales": 1133,
-          "seats": 6036,
-          "showtimes": 47,
-          "theaters": 122,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Dear Family",
-          "japanese name": "ディア・ファミリー",
-          "sales": 8835,
-          "seats": 69611,
-          "showtimes": 333,
-          "theaters": 176,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Gintama On Stage 2D - One Country's Favorite Daughter Chapter",
-          "japanese name": "銀魂オンシアター２Ｄ 一国傾城篇",
-          "sales": 1349,
-          "seats": 7336,
-          "showtimes": 48,
-          "theaters": 88,
-          "rank": 17,
-          "last_week_ratio": null
         }
       ]
     },
@@ -262,73 +262,13 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "Movie Umaru-chan Pretty Derby New Era Door",
-          "japanese name": "劇場版 ウマ娘 プリティーダービー 新時代の扉",
-          "sales": 5218,
-          "seats": 32263,
-          "showtimes": 229,
-          "theaters": 166,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Bad Boys RIDE OR DIE",
-          "japanese name": "バッドボーイズ ＲＩＤＥ ＯＲ ＤＩＥ",
-          "sales": 9137,
-          "seats": 84738,
-          "showtimes": 490,
-          "theaters": 177,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Ninety years old. What is there to celebrate",
-          "japanese name": "九十歳。何がめでたい",
-          "sales": 16955,
-          "seats": 108117,
-          "showtimes": 606,
-          "theaters": 166,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Circus Tower's Monster 4K Digital Remaster",
-          "japanese name": "オペラ座の怪人 ４Ｋデジタルリマスター",
-          "sales": 1793,
-          "seats": 6521,
-          "showtimes": 33,
-          "theaters": 39,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Returned  Dangerous Police",
-          "japanese name": "帰ってきた あぶない刑事",
-          "sales": 7001,
-          "seats": 38532,
-          "showtimes": 249,
-          "theaters": 170,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Unfading Cherry Blossoms",
-          "japanese name": "朽ちないサクラ",
-          "sales": 3785,
-          "seats": 19451,
-          "showtimes": 157,
-          "theaters": 91,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Code Geass: Lelouch of the Rebellion – Act 2",
-          "japanese name": "コードギアス 奪還のロゼ 第２幕",
-          "sales": 1596,
-          "seats": 9439,
-          "showtimes": 49,
-          "theaters": 35,
-          "rank": 24,
+          "moviename": "Let’s go! Anpanman: Battle with the Vile King and the Story of Lulun",
+          "japanese name": "それいけ！アンパンマン ばいきんまんとえほんのルルン",
+          "sales": 28412,
+          "seats": 109704,
+          "showtimes": 666,
+          "theaters": 159,
+          "rank": 1,
           "last_week_ratio": null
         },
         {
@@ -339,6 +279,36 @@
           "showtimes": 244,
           "theaters": 64,
           "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dear Family",
+          "japanese name": "ディア・ファミリー",
+          "sales": 17371,
+          "seats": 125899,
+          "showtimes": 594,
+          "theaters": 176,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Quiet Place: DAY1",
+          "japanese name": "クワイエット・プレイス：ＤＡＹ１",
+          "sales": 17230,
+          "seats": 170531,
+          "showtimes": 673,
+          "theaters": 151,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ninety years old. What is there to celebrate",
+          "japanese name": "九十歳。何がめでたい",
+          "sales": 16955,
+          "seats": 108117,
+          "showtimes": 606,
+          "theaters": 166,
+          "rank": 5,
           "last_week_ratio": null
         },
         {
@@ -362,23 +332,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Hold Over: The Last Holiday",
-          "japanese name": "ホールドオーバーズ 置いてけぼりのホリディ",
-          "sales": 1777,
-          "seats": 4551,
-          "showtimes": 35,
-          "theaters": 30,
-          "rank": 22,
+          "moviename": "Movie Oh Handsome!!",
+          "japanese name": "映画 おいハンサム！！",
+          "sales": 9169,
+          "seats": 50321,
+          "showtimes": 364,
+          "theaters": 137,
+          "rank": 8,
           "last_week_ratio": null
         },
         {
-          "moviename": "Ensemble Stars!! Cast Live Story Symphony – the de",
-          "japanese name": "Ｅｎｓｅｍｂｌｅ Ｓｔａｒｓ！！ Ｃａｓｔ Ｌｉｖｅ Ｓｔａｒｒｙ Ｓｙｍｐｈｏｎｙ －ｔｈｅ ｄｅ",
-          "sales": 3218,
-          "seats": 4623,
-          "showtimes": 21,
-          "theaters": 18,
-          "rank": 17,
+          "moviename": "Bad Boys RIDE OR DIE",
+          "japanese name": "バッドボーイズ ＲＩＤＥ ＯＲ ＤＩＥ",
+          "sales": 9137,
+          "seats": 84738,
+          "showtimes": 490,
+          "theaters": 177,
+          "rank": 9,
           "last_week_ratio": null
         },
         {
@@ -392,6 +362,26 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Returned  Dangerous Police",
+          "japanese name": "帰ってきた あぶない刑事",
+          "sales": 7001,
+          "seats": 38532,
+          "showtimes": 249,
+          "theaters": 170,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Umaru-chan Pretty Derby New Era Door",
+          "japanese name": "劇場版 ウマ娘 プリティーダービー 新時代の扉",
+          "sales": 5218,
+          "seats": 32263,
+          "showtimes": 229,
+          "theaters": 166,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Movie Haikyu!! The Battle at the Dumpsite",
           "japanese name": "劇場版ハイキュー！！ ゴミ捨て場の決戦",
           "sales": 4293,
@@ -402,6 +392,46 @@
           "last_week_ratio": 111
         },
         {
+          "moviename": "The movie “Mr. Takagi, the Master of Teasing”",
+          "japanese name": "映画「からかい上手の高木さん」",
+          "sales": 3877,
+          "seats": 19538,
+          "showtimes": 136,
+          "theaters": 122,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Unfading Cherry Blossoms",
+          "japanese name": "朽ちないサクラ",
+          "sales": 3785,
+          "seats": 19451,
+          "showtimes": 157,
+          "theaters": 91,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gintama On Stage 2D - One Country's Favorite Daughter Chapter",
+          "japanese name": "銀魂オンシアター２Ｄ 一国傾城篇",
+          "sales": 3309,
+          "seats": 15956,
+          "showtimes": 107,
+          "theaters": 88,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ensemble Stars!! Cast Live Story Symphony – the de",
+          "japanese name": "Ｅｎｓｅｍｂｌｅ Ｓｔａｒｓ！！ Ｃａｓｔ Ｌｉｖｅ Ｓｔａｒｒｙ Ｓｙｍｐｈｏｎｙ －ｔｈｅ ｄｅ",
+          "sales": 3218,
+          "seats": 4623,
+          "showtimes": 21,
+          "theaters": 18,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Mad Max: Fury Road",
           "japanese name": "マッドマックス：フュリオサ",
           "sales": 2392,
@@ -409,66 +439,6 @@
           "showtimes": 133,
           "theaters": 164,
           "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Quiet Place: DAY1",
-          "japanese name": "クワイエット・プレイス：ＤＡＹ１",
-          "sales": 17230,
-          "seats": 170531,
-          "showtimes": 673,
-          "theaters": 151,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Oh Handsome!!",
-          "japanese name": "映画 おいハンサム！！",
-          "sales": 9169,
-          "seats": 50321,
-          "showtimes": 364,
-          "theaters": 137,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Let’s go! Anpanman: Battle with the Vile King and the Story of Lulun",
-          "japanese name": "それいけ！アンパンマン ばいきんまんとえほんのルルン",
-          "sales": 28412,
-          "seats": 109704,
-          "showtimes": 666,
-          "theaters": 159,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Areas of Interest",
-          "japanese name": "関心領域",
-          "sales": 1587,
-          "seats": 7474,
-          "showtimes": 46,
-          "theaters": 53,
-          "rank": 25,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Blue Are you okay",
-          "japanese name": "ブルー きみは大丈夫",
-          "sales": 2296,
-          "seats": 19619,
-          "showtimes": 144,
-          "theaters": 137,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "BELIEVE: Men who never gave up on Japanese basketball",
-          "japanese name": "ＢＥＬＩＥＶＥ 日本バスケを諦めなかった男たち",
-          "sales": 1677,
-          "seats": 6706,
-          "showtimes": 36,
-          "theaters": 27,
-          "rank": 23,
           "last_week_ratio": null
         },
         {
@@ -482,33 +452,63 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The movie “Mr. Takagi, the Master of Teasing”",
-          "japanese name": "映画「からかい上手の高木さん」",
-          "sales": 3877,
-          "seats": 19538,
-          "showtimes": 136,
-          "theaters": 122,
-          "rank": 14,
+          "moviename": "Blue Are you okay",
+          "japanese name": "ブルー きみは大丈夫",
+          "sales": 2296,
+          "seats": 19619,
+          "showtimes": 144,
+          "theaters": 137,
+          "rank": 20,
           "last_week_ratio": null
         },
         {
-          "moviename": "Dear Family",
-          "japanese name": "ディア・ファミリー",
-          "sales": 17371,
-          "seats": 125899,
-          "showtimes": 594,
-          "theaters": 176,
-          "rank": 3,
+          "moviename": "Circus Tower's Monster 4K Digital Remaster",
+          "japanese name": "オペラ座の怪人 ４Ｋデジタルリマスター",
+          "sales": 1793,
+          "seats": 6521,
+          "showtimes": 33,
+          "theaters": 39,
+          "rank": 21,
           "last_week_ratio": null
         },
         {
-          "moviename": "Gintama On Stage 2D - One Country's Favorite Daughter Chapter",
-          "japanese name": "銀魂オンシアター２Ｄ 一国傾城篇",
-          "sales": 3309,
-          "seats": 15956,
-          "showtimes": 107,
-          "theaters": 88,
-          "rank": 16,
+          "moviename": "Hold Over: The Last Holiday",
+          "japanese name": "ホールドオーバーズ 置いてけぼりのホリディ",
+          "sales": 1777,
+          "seats": 4551,
+          "showtimes": 35,
+          "theaters": 30,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BELIEVE: Men who never gave up on Japanese basketball",
+          "japanese name": "ＢＥＬＩＥＶＥ 日本バスケを諦めなかった男たち",
+          "sales": 1677,
+          "seats": 6706,
+          "showtimes": 36,
+          "theaters": 27,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Code Geass: Lelouch of the Rebellion – Act 2",
+          "japanese name": "コードギアス 奪還のロゼ 第２幕",
+          "sales": 1596,
+          "seats": 9439,
+          "showtimes": 49,
+          "theaters": 35,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Areas of Interest",
+          "japanese name": "関心領域",
+          "sales": 1587,
+          "seats": 7474,
+          "showtimes": 46,
+          "theaters": 53,
+          "rank": 25,
           "last_week_ratio": null
         }
       ]
@@ -518,23 +518,43 @@
       "time": "Final",
       "data": [
         {
-          "moviename": "Movie Umaru-chan Pretty Derby New Era Door",
-          "japanese name": "劇場版 ウマ娘 プリティーダービー 新時代の扉",
-          "sales": 5906,
-          "seats": 40823,
-          "showtimes": 286,
-          "theaters": 166,
-          "rank": 12,
+          "moviename": "Look Back",
+          "japanese name": "ルックバック",
+          "sales": 30252,
+          "seats": 74755,
+          "showtimes": 317,
+          "theaters": 64,
+          "rank": 1,
           "last_week_ratio": null
         },
         {
-          "moviename": "Bad Boys RIDE OR DIE",
-          "japanese name": "バッドボーイズ ＲＩＤＥ ＯＲ ＤＩＥ",
-          "sales": 11883,
-          "seats": 115243,
-          "showtimes": 663,
-          "theaters": 177,
-          "rank": 8,
+          "moviename": "Let’s go! Anpanman: Battle with the Vile King and the Story of Lulun",
+          "japanese name": "それいけ！アンパンマン ばいきんまんとえほんのルルン",
+          "sales": 28428,
+          "seats": 110033,
+          "showtimes": 668,
+          "theaters": 159,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Quiet Place: DAY1",
+          "japanese name": "クワイエット・プレイス：ＤＡＹ１",
+          "sales": 22381,
+          "seats": 217530,
+          "showtimes": 858,
+          "theaters": 151,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dear Family",
+          "japanese name": "ディア・ファミリー",
+          "sales": 20610,
+          "seats": 156343,
+          "showtimes": 745,
+          "theaters": 176,
+          "rank": 4,
           "last_week_ratio": null
         },
         {
@@ -545,56 +565,6 @@
           "showtimes": 621,
           "theaters": 166,
           "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Circus Tower's Monster 4K Digital Remaster",
-          "japanese name": "オペラ座の怪人 ４Ｋデジタルリマスター",
-          "sales": 2011,
-          "seats": 7362,
-          "showtimes": 38,
-          "theaters": 39,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Returned  Dangerous Police",
-          "japanese name": "帰ってきた あぶない刑事",
-          "sales": 7709,
-          "seats": 44274,
-          "showtimes": 286,
-          "theaters": 170,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Unfading Cherry Blossoms",
-          "japanese name": "朽ちないサクラ",
-          "sales": 4238,
-          "seats": 25164,
-          "showtimes": 204,
-          "theaters": 91,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Code Geass: Lelouch of the Rebellion – Act 2",
-          "japanese name": "コードギアス 奪還のロゼ 第２幕",
-          "sales": 1849,
-          "seats": 12171,
-          "showtimes": 65,
-          "theaters": 35,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Look Back",
-          "japanese name": "ルックバック",
-          "sales": 30252,
-          "seats": 74755,
-          "showtimes": 317,
-          "theaters": 64,
-          "rank": 1,
           "last_week_ratio": null
         },
         {
@@ -618,63 +588,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Hold Over: The Last Holiday",
-          "japanese name": "ホールドオーバーズ 置いてけぼりのホリディ",
-          "sales": 1970,
-          "seats": 6134,
-          "showtimes": 47,
-          "theaters": 30,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Ensemble Stars!! Cast Live Story Symphony – the de",
-          "japanese name": "Ｅｎｓｅｍｂｌｅ Ｓｔａｒｓ！！ Ｃａｓｔ Ｌｉｖｅ Ｓｔａｒｒｙ Ｓｙｍｐｈｏｎｙ －ｔｈｅ ｄｅ",
-          "sales": 3218,
-          "seats": 4623,
-          "showtimes": 21,
-          "theaters": 18,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theater Compilation: Bochi, Za, Rokku! Re:",
-          "japanese name": "劇場総集編ぼっち・ざ・ろっく！Ｒｅ：",
-          "sales": 8824,
-          "seats": 43904,
-          "showtimes": 237,
-          "theaters": 93,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Haikyu!! The Battle at the Dumpsite",
-          "japanese name": "劇場版ハイキュー！！ ゴミ捨て場の決戦",
-          "sales": 5094,
-          "seats": 28757,
-          "showtimes": 162,
-          "theaters": 158,
-          "rank": 13,
-          "last_week_ratio": 117.4
-        },
-        {
-          "moviename": "Mad Max: Fury Road",
-          "japanese name": "マッドマックス：フュリオサ",
-          "sales": 3370,
-          "seats": 35846,
-          "showtimes": 206,
-          "theaters": 164,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Quiet Place: DAY1",
-          "japanese name": "クワイエット・プレイス：ＤＡＹ１",
-          "sales": 22381,
-          "seats": 217530,
-          "showtimes": 858,
-          "theaters": 151,
-          "rank": 3,
+          "moviename": "Bad Boys RIDE OR DIE",
+          "japanese name": "バッドボーイズ ＲＩＤＥ ＯＲ ＤＩＥ",
+          "sales": 11883,
+          "seats": 115243,
+          "showtimes": 663,
+          "theaters": 177,
+          "rank": 8,
           "last_week_ratio": null
         },
         {
@@ -688,53 +608,53 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Let’s go! Anpanman: Battle with the Vile King and the Story of Lulun",
-          "japanese name": "それいけ！アンパンマン ばいきんまんとえほんのルルン",
-          "sales": 28428,
-          "seats": 110033,
-          "showtimes": 668,
-          "theaters": 159,
-          "rank": 2,
+          "moviename": "Theater Compilation: Bochi, Za, Rokku! Re:",
+          "japanese name": "劇場総集編ぼっち・ざ・ろっく！Ｒｅ：",
+          "sales": 8824,
+          "seats": 43904,
+          "showtimes": 237,
+          "theaters": 93,
+          "rank": 10,
           "last_week_ratio": null
         },
         {
-          "moviename": "Areas of Interest",
-          "japanese name": "関心領域",
-          "sales": 1898,
-          "seats": 10166,
-          "showtimes": 62,
-          "theaters": 53,
-          "rank": 23,
+          "moviename": "Returned  Dangerous Police",
+          "japanese name": "帰ってきた あぶない刑事",
+          "sales": 7709,
+          "seats": 44274,
+          "showtimes": 286,
+          "theaters": 170,
+          "rank": 11,
           "last_week_ratio": null
         },
         {
-          "moviename": "Blue Are you okay",
-          "japanese name": "ブルー きみは大丈夫",
-          "sales": 2415,
-          "seats": 21685,
-          "showtimes": 158,
-          "theaters": 137,
-          "rank": 20,
+          "moviename": "Movie Umaru-chan Pretty Derby New Era Door",
+          "japanese name": "劇場版 ウマ娘 プリティーダービー 新時代の扉",
+          "sales": 5906,
+          "seats": 40823,
+          "showtimes": 286,
+          "theaters": 166,
+          "rank": 12,
           "last_week_ratio": null
         },
         {
-          "moviename": "BELIEVE: Men who never gave up on Japanese basketball",
-          "japanese name": "ＢＥＬＩＥＶＥ 日本バスケを諦めなかった男たち",
-          "sales": 1831,
-          "seats": 7674,
-          "showtimes": 41,
-          "theaters": 27,
-          "rank": 25,
-          "last_week_ratio": null
+          "moviename": "Movie Haikyu!! The Battle at the Dumpsite",
+          "japanese name": "劇場版ハイキュー！！ ゴミ捨て場の決戦",
+          "sales": 5094,
+          "seats": 28757,
+          "showtimes": 162,
+          "theaters": 158,
+          "rank": 13,
+          "last_week_ratio": 117.4
         },
         {
-          "moviename": "The Watchers",
-          "japanese name": "ザ・ウォッチャーズ",
-          "sales": 3114,
-          "seats": 39862,
-          "showtimes": 305,
-          "theaters": 126,
-          "rank": 19,
+          "moviename": "Unfading Cherry Blossoms",
+          "japanese name": "朽ちないサクラ",
+          "sales": 4238,
+          "seats": 25164,
+          "showtimes": 204,
+          "theaters": 91,
+          "rank": 14,
           "last_week_ratio": null
         },
         {
@@ -748,16 +668,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Dear Family",
-          "japanese name": "ディア・ファミリー",
-          "sales": 20610,
-          "seats": 156343,
-          "showtimes": 745,
-          "theaters": 176,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Gintama On Stage 2D - One Country's Favorite Daughter Chapter",
           "japanese name": "銀魂オンシアター２Ｄ 一国傾城篇",
           "sales": 3925,
@@ -765,6 +675,96 @@
           "showtimes": 146,
           "theaters": 88,
           "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mad Max: Fury Road",
+          "japanese name": "マッドマックス：フュリオサ",
+          "sales": 3370,
+          "seats": 35846,
+          "showtimes": 206,
+          "theaters": 164,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ensemble Stars!! Cast Live Story Symphony – the de",
+          "japanese name": "Ｅｎｓｅｍｂｌｅ Ｓｔａｒｓ！！ Ｃａｓｔ Ｌｉｖｅ Ｓｔａｒｒｙ Ｓｙｍｐｈｏｎｙ －ｔｈｅ ｄｅ",
+          "sales": 3218,
+          "seats": 4623,
+          "showtimes": 21,
+          "theaters": 18,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Watchers",
+          "japanese name": "ザ・ウォッチャーズ",
+          "sales": 3114,
+          "seats": 39862,
+          "showtimes": 305,
+          "theaters": 126,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Blue Are you okay",
+          "japanese name": "ブルー きみは大丈夫",
+          "sales": 2415,
+          "seats": 21685,
+          "showtimes": 158,
+          "theaters": 137,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Circus Tower's Monster 4K Digital Remaster",
+          "japanese name": "オペラ座の怪人 ４Ｋデジタルリマスター",
+          "sales": 2011,
+          "seats": 7362,
+          "showtimes": 38,
+          "theaters": 39,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hold Over: The Last Holiday",
+          "japanese name": "ホールドオーバーズ 置いてけぼりのホリディ",
+          "sales": 1970,
+          "seats": 6134,
+          "showtimes": 47,
+          "theaters": 30,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Areas of Interest",
+          "japanese name": "関心領域",
+          "sales": 1898,
+          "seats": 10166,
+          "showtimes": 62,
+          "theaters": 53,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Code Geass: Lelouch of the Rebellion – Act 2",
+          "japanese name": "コードギアス 奪還のロゼ 第２幕",
+          "sales": 1849,
+          "seats": 12171,
+          "showtimes": 65,
+          "theaters": 35,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BELIEVE: Men who never gave up on Japanese basketball",
+          "japanese name": "ＢＥＬＩＥＶＥ 日本バスケを諦めなかった男たち",
+          "sales": 1831,
+          "seats": 7674,
+          "showtimes": 41,
+          "theaters": 27,
+          "rank": 25,
           "last_week_ratio": null
         }
       ]

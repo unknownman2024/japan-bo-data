@@ -6,6 +6,86 @@
       "time": "2PM",
       "data": [
         {
+          "moviename": "Top Gun: Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 15172,
+          "seats": 120641,
+          "showtimes": 625,
+          "theaters": 295,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Elvis",
+          "japanese name": "エルヴィス",
+          "sales": 9181,
+          "seats": 94361,
+          "showtimes": 551,
+          "theaters": 284,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Buzz Lightyear",
+          "japanese name": "バズ・ライトイヤー",
+          "sales": 6955,
+          "seats": 278353,
+          "showtimes": 1058,
+          "theaters": 296,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Baby Broker",
+          "japanese name": "ベイビー・ブローカー",
+          "sales": 6201,
+          "seats": 47893,
+          "showtimes": 347,
+          "theaters": 264,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Yuru Camp△",
+          "japanese name": "映画 ゆるキャン△",
+          "sales": 3976,
+          "seats": 60072,
+          "showtimes": 237,
+          "theaters": 111,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Last Samurai at the Pass",
+          "japanese name": "峠 最後のサムライ",
+          "sales": 2701,
+          "seats": 43924,
+          "showtimes": 371,
+          "theaters": 271,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "PLAN75",
+          "japanese name": "ＰＬＡＮ７５",
+          "sales": 2183,
+          "seats": 17268,
+          "showtimes": 123,
+          "theaters": 82,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tengai Shaa Theater Screening Vol. 2",
+          "japanese name": "天外者 七夕 上映会 Ｖｏｌ．２",
+          "sales": 2140,
+          "seats": 9118,
+          "showtimes": 56,
+          "theaters": 209,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Dragon Ball Super Super Hero",
           "japanese name": "ドラゴンボール超 スーパーヒーロー",
           "sales": 2059,
@@ -26,43 +106,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Let's Go! Panman: Dorlin and Bucky's Carnival",
-          "japanese name": "それいけ！アンパンマン ドロリンとバケーるカーニバル",
-          "sales": 1178,
-          "seats": 79302,
-          "showtimes": 596,
-          "theaters": 262,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Last Samurai at the Pass",
-          "japanese name": "峠 最後のサムライ",
-          "sales": 2701,
-          "seats": 43924,
-          "showtimes": 371,
-          "theaters": 271,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Elvis",
-          "japanese name": "エルヴィス",
-          "sales": 9181,
-          "seats": 94361,
-          "showtimes": 551,
-          "theaters": 284,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Detective Conan Halloween Bride",
-          "japanese name": "名探偵コナン ハロウィンの花嫁",
-          "sales": 695,
-          "seats": 12646,
-          "showtimes": 96,
-          "theaters": 264,
-          "rank": 16,
+          "moviename": "The Lost City",
+          "japanese name": "ザ・ロストシティ",
+          "sales": 1539,
+          "seats": 23847,
+          "showtimes": 205,
+          "theaters": 228,
+          "rank": 11,
           "last_week_ratio": null
         },
         {
@@ -76,43 +126,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "PLAN75",
-          "japanese name": "ＰＬＡＮ７５",
-          "sales": 2183,
-          "seats": 17268,
-          "showtimes": 123,
-          "theaters": 82,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie: Five Flowers of Marriage",
-          "japanese name": "映画 五等分の花嫁",
-          "sales": 742,
-          "seats": 16576,
-          "showtimes": 83,
-          "theaters": 94,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Tengai Shaa Theater Screening Vol. 2",
-          "japanese name": "天外者 七夕 上映会 Ｖｏｌ．２",
-          "sales": 2140,
-          "seats": 9118,
-          "showtimes": 56,
-          "theaters": 209,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Baby Broker",
-          "japanese name": "ベイビー・ブローカー",
-          "sales": 6201,
-          "seats": 47893,
-          "showtimes": 347,
-          "theaters": 264,
-          "rank": 4,
+          "moviename": "Let's Go! Panman: Dorlin and Bucky's Carnival",
+          "japanese name": "それいけ！アンパンマン ドロリンとバケーるカーニバル",
+          "sales": 1178,
+          "seats": 79302,
+          "showtimes": 596,
+          "theaters": 262,
+          "rank": 13,
           "last_week_ratio": null
         },
         {
@@ -126,6 +146,26 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Movie: Five Flowers of Marriage",
+          "japanese name": "映画 五等分の花嫁",
+          "sales": 742,
+          "seats": 16576,
+          "showtimes": 83,
+          "theaters": 94,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan Halloween Bride",
+          "japanese name": "名探偵コナン ハロウィンの花嫁",
+          "sales": 695,
+          "seats": 12646,
+          "showtimes": 96,
+          "theaters": 264,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "The Porch of Metamorphosis",
           "japanese name": "メタモルフォーゼの縁側",
           "sales": 686,
@@ -133,96 +173,6 @@
           "showtimes": 57,
           "theaters": 108,
           "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Bakuten!!",
-          "japanese name": "映画 バクテン！！",
-          "sales": 643,
-          "seats": 15581,
-          "showtimes": 93,
-          "theaters": 50,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Lost City",
-          "japanese name": "ザ・ロストシティ",
-          "sales": 1539,
-          "seats": 23847,
-          "showtimes": 205,
-          "theaters": 228,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Buzz Lightyear",
-          "japanese name": "バズ・ライトイヤー",
-          "sales": 6955,
-          "seats": 278353,
-          "showtimes": 1058,
-          "theaters": 296,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Yuru Camp△",
-          "japanese name": "映画 ゆるキャン△",
-          "sales": 3976,
-          "seats": 60072,
-          "showtimes": 237,
-          "theaters": 111,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Mobile Suit Gundam: Kuurusu Doan’s Island",
-          "japanese name": "機動戦士ガンダム ククルス・ドアンの島",
-          "sales": 324,
-          "seats": 6133,
-          "showtimes": 44,
-          "theaters": 148,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Ricoris Pizza",
-          "japanese name": "リコリス・ピザ",
-          "sales": 456,
-          "seats": 5016,
-          "showtimes": 43,
-          "theaters": 38,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "BLACK PHONE",
-          "japanese name": "ブラック・フォン",
-          "sales": 561,
-          "seats": 11399,
-          "showtimes": 92,
-          "theaters": 67,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Top Gun: Maverick",
-          "japanese name": "トップガン マーヴェリック",
-          "sales": 15172,
-          "seats": 120641,
-          "showtimes": 625,
-          "theaters": 295,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Marvelous",
-          "japanese name": "マーベラス",
-          "sales": 287,
-          "seats": 4940,
-          "showtimes": 37,
-          "theaters": 37,
-          "rank": 24,
           "last_week_ratio": null
         },
         {
@@ -236,6 +186,36 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Movie Bakuten!!",
+          "japanese name": "映画 バクテン！！",
+          "sales": 643,
+          "seats": 15581,
+          "showtimes": 93,
+          "theaters": 50,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BLACK PHONE",
+          "japanese name": "ブラック・フォン",
+          "sales": 561,
+          "seats": 11399,
+          "showtimes": 92,
+          "theaters": 67,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ricoris Pizza",
+          "japanese name": "リコリス・ピザ",
+          "sales": 456,
+          "seats": 5016,
+          "showtimes": 43,
+          "theaters": 38,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "剧场版 からかい上手の高木さん",
           "japanese name": "劇場版 からかい上手の高木さん",
           "sales": 407,
@@ -243,6 +223,26 @@
           "showtimes": 56,
           "theaters": 129,
           "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Suit Gundam: Kuurusu Doan’s Island",
+          "japanese name": "機動戦士ガンダム ククルス・ドアンの島",
+          "sales": 324,
+          "seats": 6133,
+          "showtimes": 44,
+          "theaters": 148,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Marvelous",
+          "japanese name": "マーベラス",
+          "sales": 287,
+          "seats": 4940,
+          "showtimes": 37,
+          "theaters": 37,
+          "rank": 24,
           "last_week_ratio": null
         },
         {
@@ -262,43 +262,23 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "Dragon Ball Super Super Hero",
-          "japanese name": "ドラゴンボール超 スーパーヒーロー",
-          "sales": 4168,
-          "seats": 116419,
-          "showtimes": 782,
-          "theaters": 289,
-          "rank": 7,
+          "moviename": "Top Gun: Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 26645,
+          "seats": 222085,
+          "showtimes": 1141,
+          "theaters": 295,
+          "rank": 1,
           "last_week_ratio": null
         },
         {
-          "moviename": "The Hound of the Baskervilles: Theatrical Version",
-          "japanese name": "バスカヴィル家の犬 シャーロック劇場版",
-          "sales": 2858,
-          "seats": 53477,
-          "showtimes": 455,
-          "theaters": 278,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Let's Go! Panman: Dorlin and Bucky's Carnival",
-          "japanese name": "それいけ！アンパンマン ドロリンとバケーるカーニバル",
-          "sales": 1335,
-          "seats": 89070,
-          "showtimes": 673,
-          "theaters": 262,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Last Samurai at the Pass",
-          "japanese name": "峠 最後のサムライ",
-          "sales": 3372,
-          "seats": 60439,
-          "showtimes": 501,
-          "theaters": 271,
-          "rank": 8,
+          "moviename": "Buzz Lightyear",
+          "japanese name": "バズ・ライトイヤー",
+          "sales": 14216,
+          "seats": 502488,
+          "showtimes": 1907,
+          "theaters": 296,
+          "rank": 2,
           "last_week_ratio": null
         },
         {
@@ -312,13 +292,63 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Detective Conan Halloween Bride",
-          "japanese name": "名探偵コナン ハロウィンの花嫁",
-          "sales": 1955,
-          "seats": 32442,
-          "showtimes": 248,
+          "moviename": "Baby Broker",
+          "japanese name": "ベイビー・ブローカー",
+          "sales": 9424,
+          "seats": 82983,
+          "showtimes": 606,
           "theaters": 264,
-          "rank": 14,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Yuru Camp△",
+          "japanese name": "映画 ゆるキャン△",
+          "sales": 7516,
+          "seats": 114787,
+          "showtimes": 454,
+          "theaters": 111,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tengai Shaa Theater Screening Vol. 2",
+          "japanese name": "天外者 七夕 上映会 Ｖｏｌ．２",
+          "sales": 6273,
+          "seats": 33008,
+          "showtimes": 209,
+          "theaters": 206,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dragon Ball Super Super Hero",
+          "japanese name": "ドラゴンボール超 スーパーヒーロー",
+          "sales": 4168,
+          "seats": 116419,
+          "showtimes": 782,
+          "theaters": 289,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Last Samurai at the Pass",
+          "japanese name": "峠 最後のサムライ",
+          "sales": 3372,
+          "seats": 60439,
+          "showtimes": 501,
+          "theaters": 271,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Hound of the Baskervilles: Theatrical Version",
+          "japanese name": "バスカヴィル家の犬 シャーロック劇場版",
+          "sales": 2858,
+          "seats": 53477,
+          "showtimes": 455,
+          "theaters": 278,
+          "rank": 9,
           "last_week_ratio": null
         },
         {
@@ -342,6 +372,16 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "The Lost City",
+          "japanese name": "ザ・ロストシティ",
+          "sales": 2313,
+          "seats": 43160,
+          "showtimes": 363,
+          "theaters": 227,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Movie: Five Flowers of Marriage",
           "japanese name": "映画 五等分の花嫁",
           "sales": 2052,
@@ -352,23 +392,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Tengai Shaa Theater Screening Vol. 2",
-          "japanese name": "天外者 七夕 上映会 Ｖｏｌ．２",
-          "sales": 6273,
-          "seats": 33008,
-          "showtimes": 209,
-          "theaters": 206,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Baby Broker",
-          "japanese name": "ベイビー・ブローカー",
-          "sales": 9424,
-          "seats": 82983,
-          "showtimes": 606,
+          "moviename": "Detective Conan Halloween Bride",
+          "japanese name": "名探偵コナン ハロウィンの花嫁",
+          "sales": 1955,
+          "seats": 32442,
+          "showtimes": 248,
           "theaters": 264,
-          "rank": 4,
+          "rank": 14,
           "last_week_ratio": null
         },
         {
@@ -382,43 +412,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The Porch of Metamorphosis",
-          "japanese name": "メタモルフォーゼの縁側",
-          "sales": 1233,
-          "seats": 12574,
-          "showtimes": 106,
-          "theaters": 108,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Bakuten!!",
-          "japanese name": "映画 バクテン！！",
-          "sales": 1123,
-          "seats": 29377,
-          "showtimes": 177,
-          "theaters": 50,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Lost City",
-          "japanese name": "ザ・ロストシティ",
-          "sales": 2313,
-          "seats": 43160,
-          "showtimes": 363,
-          "theaters": 227,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Ultimate Househusband: The Movie",
-          "japanese name": "極主夫道 ザ・シネマ",
-          "sales": 644,
-          "seats": 18089,
-          "showtimes": 164,
-          "theaters": 210,
-          "rank": 25,
+          "moviename": "Let's Go! Panman: Dorlin and Bucky's Carnival",
+          "japanese name": "それいけ！アンパンマン ドロリンとバケーるカーニバル",
+          "sales": 1335,
+          "seats": 89070,
+          "showtimes": 673,
+          "theaters": 262,
+          "rank": 16,
           "last_week_ratio": null
         },
         {
@@ -432,43 +432,13 @@
           "last_week_ratio": 122.6
         },
         {
-          "moviename": "Buzz Lightyear",
-          "japanese name": "バズ・ライトイヤー",
-          "sales": 14216,
-          "seats": 502488,
-          "showtimes": 1907,
-          "theaters": 296,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Yuru Camp△",
-          "japanese name": "映画 ゆるキャン△",
-          "sales": 7516,
-          "seats": 114787,
-          "showtimes": 454,
-          "theaters": 111,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Mobile Suit Gundam: Kuurusu Doan’s Island",
-          "japanese name": "機動戦士ガンダム ククルス・ドアンの島",
-          "sales": 861,
-          "seats": 18945,
-          "showtimes": 138,
-          "theaters": 146,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Ricoris Pizza",
-          "japanese name": "リコリス・ピザ",
-          "sales": 903,
-          "seats": 10720,
-          "showtimes": 93,
-          "theaters": 38,
-          "rank": 23,
+          "moviename": "The Porch of Metamorphosis",
+          "japanese name": "メタモルフォーゼの縁側",
+          "sales": 1233,
+          "seats": 12574,
+          "showtimes": 106,
+          "theaters": 108,
+          "rank": 18,
           "last_week_ratio": null
         },
         {
@@ -482,13 +452,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Top Gun: Maverick",
-          "japanese name": "トップガン マーヴェリック",
-          "sales": 26645,
-          "seats": 222085,
-          "showtimes": 1141,
-          "theaters": 295,
-          "rank": 1,
+          "moviename": "剧场版 からかい上手の高木さん",
+          "japanese name": "劇場版 からかい上手の高木さん",
+          "sales": 1145,
+          "seats": 19804,
+          "showtimes": 132,
+          "theaters": 129,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Bakuten!!",
+          "japanese name": "映画 バクテン！！",
+          "sales": 1123,
+          "seats": 29377,
+          "showtimes": 177,
+          "theaters": 50,
+          "rank": 21,
           "last_week_ratio": null
         },
         {
@@ -502,13 +482,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "剧场版 からかい上手の高木さん",
-          "japanese name": "劇場版 からかい上手の高木さん",
-          "sales": 1145,
-          "seats": 19804,
-          "showtimes": 132,
-          "theaters": 129,
-          "rank": 20,
+          "moviename": "Ricoris Pizza",
+          "japanese name": "リコリス・ピザ",
+          "sales": 903,
+          "seats": 10720,
+          "showtimes": 93,
+          "theaters": 38,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Suit Gundam: Kuurusu Doan’s Island",
+          "japanese name": "機動戦士ガンダム ククルス・ドアンの島",
+          "sales": 861,
+          "seats": 18945,
+          "showtimes": 138,
+          "theaters": 146,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Ultimate Househusband: The Movie",
+          "japanese name": "極主夫道 ザ・シネマ",
+          "sales": 644,
+          "seats": 18089,
+          "showtimes": 164,
+          "theaters": 210,
+          "rank": 25,
           "last_week_ratio": null
         }
       ]
@@ -518,53 +518,23 @@
       "time": "Final",
       "data": [
         {
-          "moviename": "Dragon Ball Super Super Hero",
-          "japanese name": "ドラゴンボール超 スーパーヒーロー",
-          "sales": 5185,
-          "seats": 143059,
-          "showtimes": 963,
-          "theaters": 289,
-          "rank": 7,
+          "moviename": "Top Gun: Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 32365,
+          "seats": 289365,
+          "showtimes": 1470,
+          "theaters": 295,
+          "rank": 1,
           "last_week_ratio": null
         },
         {
-          "moviename": "HIDE 20th Anniversary RONENTGEN Concert 2021 Stage Welcome",
-          "japanese name": "ＨＹＤＥ ２０ｔｈ Ａｎｎｉｖｅｒｓａｒｙ ＲＯＥＮＴＧＥＮ Ｃｏｎｃｅｒｔ ２０２１ 舞台挨拶付",
-          "sales": 1101,
-          "seats": 4782,
-          "showtimes": 61,
-          "theaters": 31,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Hound of the Baskervilles: Theatrical Version",
-          "japanese name": "バスカヴィル家の犬 シャーロック劇場版",
-          "sales": 3297,
-          "seats": 73530,
-          "showtimes": 623,
-          "theaters": 278,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Let's Go! Panman: Dorlin and Bucky's Carnival",
-          "japanese name": "それいけ！アンパンマン ドロリンとバケーるカーニバル",
-          "sales": 1335,
-          "seats": 89070,
-          "showtimes": 673,
-          "theaters": 262,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Last Samurai at the Pass",
-          "japanese name": "峠 最後のサムライ",
-          "sales": 3398,
-          "seats": 61787,
-          "showtimes": 510,
-          "theaters": 271,
-          "rank": 8,
+          "moviename": "Buzz Lightyear",
+          "japanese name": "バズ・ライトイヤー",
+          "sales": 17164,
+          "seats": 607596,
+          "showtimes": 2289,
+          "theaters": 296,
+          "rank": 2,
           "last_week_ratio": null
         },
         {
@@ -578,13 +548,63 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Detective Conan Halloween Bride",
-          "japanese name": "名探偵コナン ハロウィンの花嫁",
-          "sales": 2116,
-          "seats": 35929,
-          "showtimes": 274,
+          "moviename": "Baby Broker",
+          "japanese name": "ベイビー・ブローカー",
+          "sales": 10228,
+          "seats": 104358,
+          "showtimes": 763,
           "theaters": 264,
-          "rank": 14,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Yuru Camp△",
+          "japanese name": "映画 ゆるキャン△",
+          "sales": 9481,
+          "seats": 144673,
+          "showtimes": 569,
+          "theaters": 111,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tengai Shaa Theater Screening Vol. 2",
+          "japanese name": "天外者 七夕 上映会 Ｖｏｌ．２",
+          "sales": 7232,
+          "seats": 38601,
+          "showtimes": 246,
+          "theaters": 206,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dragon Ball Super Super Hero",
+          "japanese name": "ドラゴンボール超 スーパーヒーロー",
+          "sales": 5185,
+          "seats": 143059,
+          "showtimes": 963,
+          "theaters": 289,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Last Samurai at the Pass",
+          "japanese name": "峠 最後のサムライ",
+          "sales": 3398,
+          "seats": 61787,
+          "showtimes": 510,
+          "theaters": 271,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Hound of the Baskervilles: Theatrical Version",
+          "japanese name": "バスカヴィル家の犬 シャーロック劇場版",
+          "sales": 3297,
+          "seats": 73530,
+          "showtimes": 623,
+          "theaters": 278,
+          "rank": 9,
           "last_week_ratio": null
         },
         {
@@ -608,6 +628,16 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "The Lost City",
+          "japanese name": "ザ・ロストシティ",
+          "sales": 2648,
+          "seats": 59807,
+          "showtimes": 502,
+          "theaters": 227,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Movie: Five Flowers of Marriage",
           "japanese name": "映画 五等分の花嫁",
           "sales": 2565,
@@ -618,23 +648,13 @@
           "last_week_ratio": 102.5
         },
         {
-          "moviename": "Tengai Shaa Theater Screening Vol. 2",
-          "japanese name": "天外者 七夕 上映会 Ｖｏｌ．２",
-          "sales": 7232,
-          "seats": 38601,
-          "showtimes": 246,
-          "theaters": 206,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Baby Broker",
-          "japanese name": "ベイビー・ブローカー",
-          "sales": 10228,
-          "seats": 104358,
-          "showtimes": 763,
+          "moviename": "Detective Conan Halloween Bride",
+          "japanese name": "名探偵コナン ハロウィンの花嫁",
+          "sales": 2116,
+          "seats": 35929,
+          "showtimes": 274,
           "theaters": 264,
-          "rank": 4,
+          "rank": 14,
           "last_week_ratio": null
         },
         {
@@ -645,6 +665,46 @@
           "showtimes": 533,
           "theaters": 288,
           "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BLACK PHONE",
+          "japanese name": "ブラック・フォン",
+          "sales": 1642,
+          "seats": 29167,
+          "showtimes": 231,
+          "theaters": 67,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dog King",
+          "japanese name": "犬王",
+          "sales": 1637,
+          "seats": 13422,
+          "showtimes": 90,
+          "theaters": 87,
+          "rank": 17,
+          "last_week_ratio": 114.2
+        },
+        {
+          "moviename": "剧场版 からかい上手の高木さん",
+          "japanese name": "劇場版 からかい上手の高木さん",
+          "sales": 1445,
+          "seats": 22889,
+          "showtimes": 157,
+          "theaters": 129,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let's Go! Panman: Dorlin and Bucky's Carnival",
+          "japanese name": "それいけ！アンパンマン ドロリンとバケーるカーニバル",
+          "sales": 1335,
+          "seats": 89070,
+          "showtimes": 673,
+          "theaters": 262,
+          "rank": 19,
           "last_week_ratio": null
         },
         {
@@ -668,43 +728,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The Lost City",
-          "japanese name": "ザ・ロストシティ",
-          "sales": 2648,
-          "seats": 59807,
-          "showtimes": 502,
-          "theaters": 227,
-          "rank": 12,
+          "moviename": "Ricoris Pizza",
+          "japanese name": "リコリス・ピザ",
+          "sales": 1179,
+          "seats": 14640,
+          "showtimes": 127,
+          "theaters": 38,
+          "rank": 22,
           "last_week_ratio": null
         },
         {
-          "moviename": "Dog King",
-          "japanese name": "犬王",
-          "sales": 1637,
-          "seats": 13422,
-          "showtimes": 90,
-          "theaters": 87,
-          "rank": 17,
-          "last_week_ratio": 114.2
-        },
-        {
-          "moviename": "Buzz Lightyear",
-          "japanese name": "バズ・ライトイヤー",
-          "sales": 17164,
-          "seats": 607596,
-          "showtimes": 2289,
-          "theaters": 296,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Yuru Camp△",
-          "japanese name": "映画 ゆるキャン△",
-          "sales": 9481,
-          "seats": 144673,
-          "showtimes": 569,
-          "theaters": 111,
-          "rank": 5,
+          "moviename": "HIDE 20th Anniversary RONENTGEN Concert 2021 Stage Welcome",
+          "japanese name": "ＨＹＤＥ ２０ｔｈ Ａｎｎｉｖｅｒｓａｒｙ ＲＯＥＮＴＧＥＮ Ｃｏｎｃｅｒｔ ２０２１ 舞台挨拶付",
+          "sales": 1101,
+          "seats": 4782,
+          "showtimes": 61,
+          "theaters": 31,
+          "rank": 23,
           "last_week_ratio": null
         },
         {
@@ -718,36 +758,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Ricoris Pizza",
-          "japanese name": "リコリス・ピザ",
-          "sales": 1179,
-          "seats": 14640,
-          "showtimes": 127,
-          "theaters": 38,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "BLACK PHONE",
-          "japanese name": "ブラック・フォン",
-          "sales": 1642,
-          "seats": 29167,
-          "showtimes": 231,
-          "theaters": 67,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Top Gun: Maverick",
-          "japanese name": "トップガン マーヴェリック",
-          "sales": 32365,
-          "seats": 289365,
-          "showtimes": 1470,
-          "theaters": 295,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Mogadishu: 14 Days to Escape",
           "japanese name": "モガディシュ 脱出までの１４日間",
           "sales": 1041,
@@ -755,16 +765,6 @@
           "showtimes": 159,
           "theaters": 51,
           "rank": 25,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "剧场版 からかい上手の高木さん",
-          "japanese name": "劇場版 からかい上手の高木さん",
-          "sales": 1445,
-          "seats": 22889,
-          "showtimes": 157,
-          "theaters": 129,
-          "rank": 18,
           "last_week_ratio": null
         }
       ]

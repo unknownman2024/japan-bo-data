@@ -6,13 +6,53 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "RRR",
-          "japanese name": "ＲＲＲ",
-          "sales": 1286,
-          "seats": 4385,
-          "showtimes": 29,
-          "theaters": 64,
-          "rank": 13,
+          "moviename": "Yet, Chihiki-kun is too sweet.",
+          "japanese name": "なのに、千輝くんが甘すぎる。",
+          "sales": 8503,
+          "seats": 73347,
+          "showtimes": 317,
+          "theaters": 143,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Movie: Doraemon: Nobita and the Sky Island",
+          "japanese name": "映画ドラえもん のび太と空の理想郷",
+          "sales": 8281,
+          "seats": 167556,
+          "showtimes": 531,
+          "theaters": 186,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 6460,
+          "seats": 28938,
+          "showtimes": 172,
+          "theaters": 186,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Everything, everywhere, all at once.",
+          "japanese name": "エブリシング・エブリウェア・オール・アット・ワンス",
+          "sales": 6420,
+          "seats": 80995,
+          "showtimes": 366,
+          "theaters": 180,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "World Tour screening \"Demon Slayer: The First General,\" and to the village of swordsmiths",
+          "japanese name": "ワールドツアー上映「鬼滅の刃」上弦集結、そして刀鍛冶の里へ",
+          "sales": 5246,
+          "seats": 65687,
+          "showtimes": 376,
+          "theaters": 189,
+          "rank": 5,
           "last_week_ratio": null
         },
         {
@@ -23,16 +63,6 @@
           "showtimes": 283,
           "theaters": 170,
           "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "BTSS: Yet To Come In Cinemas",
-          "japanese name": "ＢＴＳ： Ｙｅｔ Ｔｏ Ｃｏｍｅ ｉｎ Ｃｉｎｅｍａｓ",
-          "sales": 1132,
-          "seats": 9831,
-          "showtimes": 76,
-          "theaters": 110,
-          "rank": 15,
           "last_week_ratio": null
         },
         {
@@ -56,6 +86,26 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Fabulmen’s",
+          "japanese name": "フェイブルマンズ",
+          "sales": 3684,
+          "seats": 44417,
+          "showtimes": 268,
+          "theaters": 161,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Legends & Butterflies",
+          "japanese name": "レジェンド＆バタフライ",
+          "sales": 3479,
+          "seats": 25370,
+          "showtimes": 180,
+          "theaters": 184,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "The sparrow’s task of locking the door",
           "japanese name": "すずめの戸締まり",
           "sales": 2462,
@@ -63,16 +113,6 @@
           "showtimes": 126,
           "theaters": 178,
           "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "To have made up your mind to break up",
-          "japanese name": "別れる決心",
-          "sales": 392,
-          "seats": 4176,
-          "showtimes": 32,
-          "theaters": 124,
-          "rank": 25,
           "last_week_ratio": null
         },
         {
@@ -86,6 +126,46 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "R. R. R (Rise Roar Revolt)",
+          "japanese name": "ＲＲＲ",
+          "sales": 1286,
+          "seats": 4385,
+          "showtimes": 29,
+          "theaters": 64,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Top Gun: Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 1153,
+          "seats": 13343,
+          "showtimes": 65,
+          "theaters": 97,
+          "rank": 14,
+          "last_week_ratio": 2506.5
+        },
+        {
+          "moviename": "BTSS: Yet To Come In Cinemas",
+          "japanese name": "ＢＴＳ： Ｙｅｔ Ｔｏ Ｃｏｍｅ ｉｎ Ｃｉｎｅｍａｓ",
+          "sales": 1132,
+          "seats": 9831,
+          "showtimes": 76,
+          "theaters": 110,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "With love from Lageri",
+          "japanese name": "ラーゲリより愛を込めて",
+          "sales": 1091,
+          "seats": 9129,
+          "showtimes": 73,
+          "theaters": 162,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Blacklight",
           "japanese name": "ブラックライト",
           "sales": 999,
@@ -96,13 +176,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The Movie: Doraemon: Nobita and the Sky Island",
-          "japanese name": "映画ドラえもん のび太と空の理想郷",
-          "sales": 8281,
-          "seats": 167556,
-          "showtimes": 531,
-          "theaters": 186,
-          "rank": 2,
+          "moviename": "The Triangle of Reversal",
+          "japanese name": "逆転のトライアングル",
+          "sales": 636,
+          "seats": 2722,
+          "showtimes": 22,
+          "theaters": 22,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MOVIE Sasaki and Miyano - Graduation Edition -",
+          "japanese name": "映画 佐々木と宮野－卒業編－",
+          "sales": 496,
+          "seats": 3941,
+          "showtimes": 23,
+          "theaters": 30,
+          "rank": 19,
           "last_week_ratio": null
         },
         {
@@ -113,6 +203,16 @@
           "showtimes": 31,
           "theaters": 20,
           "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Empire of Light",
+          "japanese name": "エンパイア・オブ・ライト",
+          "sales": 477,
+          "seats": 7913,
+          "showtimes": 62,
+          "theaters": 94,
+          "rank": 21,
           "last_week_ratio": null
         },
         {
@@ -136,76 +236,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Yet, Chihiki-kun is too sweet.",
-          "japanese name": "なのに、千輝くんが甘すぎる。",
-          "sales": 8503,
-          "seats": 73347,
-          "showtimes": 317,
-          "theaters": 143,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Empire of Light",
-          "japanese name": "エンパイア・オブ・ライト",
-          "sales": 477,
-          "seats": 7913,
-          "showtimes": 62,
-          "theaters": 94,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Triangle of Reversal",
-          "japanese name": "逆転のトライアングル",
-          "sales": 636,
-          "seats": 2722,
-          "showtimes": 22,
-          "theaters": 22,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "With love from Lageri",
-          "japanese name": "ラーゲリより愛を込めて",
-          "sales": 1091,
-          "seats": 9129,
-          "showtimes": 73,
-          "theaters": 162,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Everything, everywhere, all at once.",
-          "japanese name": "エブリシング・エブリウェア・オール・アット・ワンス",
-          "sales": 6420,
-          "seats": 80995,
-          "showtimes": 366,
-          "theaters": 180,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Legends & Butterflies",
-          "japanese name": "レジェンド＆バタフライ",
-          "sales": 3479,
-          "seats": 25370,
-          "showtimes": 180,
-          "theaters": 184,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Top Gun: Maverick",
-          "japanese name": "トップガン マーヴェリック",
-          "sales": 1153,
-          "seats": 13343,
-          "showtimes": 65,
-          "theaters": 97,
-          "rank": 14,
-          "last_week_ratio": 2506.5
-        },
-        {
           "moviename": "MagicMic XXL",
           "japanese name": "マジックマイク ＸＸＬ",
           "sales": 394,
@@ -216,43 +246,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "THE FIRST SLAM DUNK",
-          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
-          "sales": 6460,
-          "seats": 28938,
-          "showtimes": 172,
-          "theaters": 186,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "MOVIE Sasaki and Miyano - Graduation Edition -",
-          "japanese name": "映画 佐々木と宮野－卒業編－",
-          "sales": 496,
-          "seats": 3941,
-          "showtimes": 23,
-          "theaters": 30,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Fabulmen’s",
-          "japanese name": "フェイブルマンズ",
-          "sales": 3684,
-          "seats": 44417,
-          "showtimes": 268,
-          "theaters": 161,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "World Tour screening \"Demon Slayer: The First General,\" and to the village of swordsmiths",
-          "japanese name": "ワールドツアー上映「鬼滅の刃」上弦集結、そして刀鍛冶の里へ",
-          "sales": 5246,
-          "seats": 65687,
-          "showtimes": 376,
-          "theaters": 189,
-          "rank": 5,
+          "moviename": "To have made up your mind to break up",
+          "japanese name": "別れる決心",
+          "sales": 392,
+          "seats": 4176,
+          "showtimes": 32,
+          "theaters": 124,
+          "rank": 25,
           "last_week_ratio": null
         }
       ]
@@ -262,13 +262,63 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "RRR",
-          "japanese name": "ＲＲＲ",
-          "sales": 2319,
-          "seats": 9572,
-          "showtimes": 61,
-          "theaters": 64,
-          "rank": 14,
+          "moviename": "The Movie: Doraemon: Nobita and the Sky Island",
+          "japanese name": "映画ドラえもん のび太と空の理想郷",
+          "sales": 17428,
+          "seats": 294656,
+          "showtimes": 932,
+          "theaters": 186,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Yet, Chihiki-kun is too sweet.",
+          "japanese name": "なのに、千輝くんが甘すぎる。",
+          "sales": 17367,
+          "seats": 138818,
+          "showtimes": 600,
+          "theaters": 143,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 12804,
+          "seats": 61130,
+          "showtimes": 353,
+          "theaters": 186,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Everything, everywhere, all at once.",
+          "japanese name": "エブリシング・エブリウェア・オール・アット・ワンス",
+          "sales": 11775,
+          "seats": 152542,
+          "showtimes": 690,
+          "theaters": 180,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BLUE GIANT",
+          "japanese name": "ＢＬＵＥ ＧＩＡＮＴ",
+          "sales": 9083,
+          "seats": 36060,
+          "showtimes": 228,
+          "theaters": 130,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "World Tour screening \"Demon Slayer: The First General,\" and to the village of swordsmiths",
+          "japanese name": "ワールドツアー上映「鬼滅の刃」上弦集結、そして刀鍛冶の里へ",
+          "sales": 9078,
+          "seats": 111847,
+          "showtimes": 649,
+          "theaters": 189,
+          "rank": 6,
           "last_week_ratio": null
         },
         {
@@ -282,23 +332,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "BTSS: Yet To Come In Cinemas",
-          "japanese name": "ＢＴＳ： Ｙｅｔ Ｔｏ Ｃｏｍｅ ｉｎ Ｃｉｎｅｍａｓ",
-          "sales": 2208,
-          "seats": 25626,
-          "showtimes": 178,
-          "theaters": 110,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "BLUE GIANT",
-          "japanese name": "ＢＬＵＥ ＧＩＡＮＴ",
-          "sales": 9083,
-          "seats": 36060,
-          "showtimes": 228,
-          "theaters": 130,
-          "rank": 5,
+          "moviename": "Fabulmen’s",
+          "japanese name": "フェイブルマンズ",
+          "sales": 6347,
+          "seats": 82673,
+          "showtimes": 498,
+          "theaters": 161,
+          "rank": 8,
           "last_week_ratio": null
         },
         {
@@ -322,13 +362,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "To have made up your mind to break up",
-          "japanese name": "別れる決心",
-          "sales": 779,
-          "seats": 11631,
-          "showtimes": 91,
-          "theaters": 124,
-          "rank": 22,
+          "moviename": "Legends & Butterflies",
+          "japanese name": "レジェンド＆バタフライ",
+          "sales": 4513,
+          "seats": 34971,
+          "showtimes": 248,
+          "theaters": 184,
+          "rank": 11,
           "last_week_ratio": null
         },
         {
@@ -342,96 +382,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Blacklight",
-          "japanese name": "ブラックライト",
-          "sales": 1452,
-          "seats": 19789,
-          "showtimes": 145,
-          "theaters": 53,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Babylon",
-          "japanese name": "バビロン",
-          "sales": 672,
-          "seats": 9003,
-          "showtimes": 70,
-          "theaters": 97,
-          "rank": 25,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Movie: Doraemon: Nobita and the Sky Island",
-          "japanese name": "映画ドラえもん のび太と空の理想郷",
-          "sales": 17428,
-          "seats": 294656,
-          "showtimes": 932,
-          "theaters": 186,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The bookstore on top of the hill",
-          "japanese name": "丘の上の本屋さん",
-          "sales": 735,
-          "seats": 8154,
-          "showtimes": 55,
-          "theaters": 20,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Egoist",
-          "japanese name": "エゴイスト",
-          "sales": 901,
-          "seats": 4006,
-          "showtimes": 31,
-          "theaters": 41,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Arabian Nights Three Thousand Years of Desire",
-          "japanese name": "アラビアンナイト 三千年の願い",
-          "sales": 722,
-          "seats": 7319,
-          "showtimes": 46,
-          "theaters": 41,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Yet, Chihiki-kun is too sweet.",
-          "japanese name": "なのに、千輝くんが甘すぎる。",
-          "sales": 17367,
-          "seats": 138818,
-          "showtimes": 600,
-          "theaters": 143,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Empire of Light",
-          "japanese name": "エンパイア・オブ・ライト",
-          "sales": 931,
-          "seats": 14717,
-          "showtimes": 121,
-          "theaters": 94,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Triangle of Reversal",
-          "japanese name": "逆転のトライアングル",
-          "sales": 1024,
-          "seats": 4974,
-          "showtimes": 37,
-          "theaters": 22,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "With love from Lageri",
           "japanese name": "ラーゲリより愛を込めて",
           "sales": 2543,
@@ -442,23 +392,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Everything, everywhere, all at once.",
-          "japanese name": "エブリシング・エブリウェア・オール・アット・ワンス",
-          "sales": 11775,
-          "seats": 152542,
-          "showtimes": 690,
-          "theaters": 180,
-          "rank": 4,
+          "moviename": "R. R. R (Rise Roar Revolt)",
+          "japanese name": "ＲＲＲ",
+          "sales": 2319,
+          "seats": 9572,
+          "showtimes": 61,
+          "theaters": 64,
+          "rank": 14,
           "last_week_ratio": null
         },
         {
-          "moviename": "Legends & Butterflies",
-          "japanese name": "レジェンド＆バタフライ",
-          "sales": 4513,
-          "seats": 34971,
-          "showtimes": 248,
-          "theaters": 184,
-          "rank": 11,
+          "moviename": "BTSS: Yet To Come In Cinemas",
+          "japanese name": "ＢＴＳ： Ｙｅｔ Ｔｏ Ｃｏｍｅ ｉｎ Ｃｉｎｅｍａｓ",
+          "sales": 2208,
+          "seats": 25626,
+          "showtimes": 178,
+          "theaters": 110,
+          "rank": 15,
           "last_week_ratio": null
         },
         {
@@ -472,13 +422,43 @@
           "last_week_ratio": 1564.4
         },
         {
-          "moviename": "THE FIRST SLAM DUNK",
-          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
-          "sales": 12804,
-          "seats": 61130,
-          "showtimes": 353,
-          "theaters": 186,
-          "rank": 3,
+          "moviename": "Blacklight",
+          "japanese name": "ブラックライト",
+          "sales": 1452,
+          "seats": 19789,
+          "showtimes": 145,
+          "theaters": 53,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Triangle of Reversal",
+          "japanese name": "逆転のトライアングル",
+          "sales": 1024,
+          "seats": 4974,
+          "showtimes": 37,
+          "theaters": 22,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Empire of Light",
+          "japanese name": "エンパイア・オブ・ライト",
+          "sales": 931,
+          "seats": 14717,
+          "showtimes": 121,
+          "theaters": 94,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Egoist",
+          "japanese name": "エゴイスト",
+          "sales": 901,
+          "seats": 4006,
+          "showtimes": 31,
+          "theaters": 41,
+          "rank": 20,
           "last_week_ratio": null
         },
         {
@@ -492,23 +472,43 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Fabulmen’s",
-          "japanese name": "フェイブルマンズ",
-          "sales": 6347,
-          "seats": 82673,
-          "showtimes": 498,
-          "theaters": 161,
-          "rank": 8,
+          "moviename": "To have made up your mind to break up",
+          "japanese name": "別れる決心",
+          "sales": 779,
+          "seats": 11631,
+          "showtimes": 91,
+          "theaters": 124,
+          "rank": 22,
           "last_week_ratio": null
         },
         {
-          "moviename": "World Tour screening \"Demon Slayer: The First General,\" and to the village of swordsmiths",
-          "japanese name": "ワールドツアー上映「鬼滅の刃」上弦集結、そして刀鍛冶の里へ",
-          "sales": 9078,
-          "seats": 111847,
-          "showtimes": 649,
-          "theaters": 189,
-          "rank": 6,
+          "moviename": "The bookstore on top of the hill",
+          "japanese name": "丘の上の本屋さん",
+          "sales": 735,
+          "seats": 8154,
+          "showtimes": 55,
+          "theaters": 20,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Arabian Nights Three Thousand Years of Desire",
+          "japanese name": "アラビアンナイト 三千年の願い",
+          "sales": 722,
+          "seats": 7319,
+          "showtimes": 46,
+          "theaters": 41,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Babylon",
+          "japanese name": "バビロン",
+          "sales": 672,
+          "seats": 9003,
+          "showtimes": 70,
+          "theaters": 97,
+          "rank": 25,
           "last_week_ratio": null
         }
       ]
@@ -518,13 +518,63 @@
       "time": "Final",
       "data": [
         {
-          "moviename": "RRR",
-          "japanese name": "ＲＲＲ",
-          "sales": 3057,
-          "seats": 11801,
-          "showtimes": 70,
-          "theaters": 64,
-          "rank": 13,
+          "moviename": "Yet, Chihiki-kun is too sweet.",
+          "japanese name": "なのに、千輝くんが甘すぎる。",
+          "sales": 19345,
+          "seats": 172190,
+          "showtimes": 747,
+          "theaters": 143,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Movie: Doraemon: Nobita and the Sky Island",
+          "japanese name": "映画ドラえもん のび太と空の理想郷",
+          "sales": 18729,
+          "seats": 338230,
+          "showtimes": 1081,
+          "theaters": 186,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "THE FIRST SLAM DUNK",
+          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
+          "sales": 15360,
+          "seats": 82129,
+          "showtimes": 478,
+          "theaters": 186,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Everything, everywhere, all at once.",
+          "japanese name": "エブリシング・エブリウェア・オール・アット・ワンス",
+          "sales": 14127,
+          "seats": 200791,
+          "showtimes": 887,
+          "theaters": 180,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BLUE GIANT",
+          "japanese name": "ＢＬＵＥ ＧＩＡＮＴ",
+          "sales": 10832,
+          "seats": 46494,
+          "showtimes": 291,
+          "theaters": 130,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "World Tour screening \"Demon Slayer: The First General,\" and to the village of swordsmiths",
+          "japanese name": "ワールドツアー上映「鬼滅の刃」上弦集結、そして刀鍛冶の里へ",
+          "sales": 10506,
+          "seats": 138535,
+          "showtimes": 803,
+          "theaters": 189,
+          "rank": 6,
           "last_week_ratio": null
         },
         {
@@ -538,23 +588,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "BTSS: Yet To Come In Cinemas",
-          "japanese name": "ＢＴＳ： Ｙｅｔ Ｔｏ Ｃｏｍｅ ｉｎ Ｃｉｎｅｍａｓ",
-          "sales": 2542,
-          "seats": 30485,
-          "showtimes": 216,
-          "theaters": 110,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "BLUE GIANT",
-          "japanese name": "ＢＬＵＥ ＧＩＡＮＴ",
-          "sales": 10832,
-          "seats": 46494,
-          "showtimes": 291,
-          "theaters": 130,
-          "rank": 5,
+          "moviename": "Fabulmen’s",
+          "japanese name": "フェイブルマンズ",
+          "sales": 7467,
+          "seats": 110309,
+          "showtimes": 652,
+          "theaters": 161,
+          "rank": 8,
           "last_week_ratio": null
         },
         {
@@ -578,16 +618,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "To have made up your mind to break up",
-          "japanese name": "別れる決心",
-          "sales": 1014,
-          "seats": 16395,
-          "showtimes": 126,
-          "theaters": 124,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Ant-Man & The Wasp: Quantumania",
           "japanese name": "アントマン＆ワスプ：クアントマニア",
           "sales": 4725,
@@ -595,116 +625,6 @@
           "showtimes": 471,
           "theaters": 185,
           "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Blacklight",
-          "japanese name": "ブラックライト",
-          "sales": 1639,
-          "seats": 27964,
-          "showtimes": 195,
-          "theaters": 53,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Babylon",
-          "japanese name": "バビロン",
-          "sales": 826,
-          "seats": 13061,
-          "showtimes": 95,
-          "theaters": 97,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Movie: Doraemon: Nobita and the Sky Island",
-          "japanese name": "映画ドラえもん のび太と空の理想郷",
-          "sales": 18729,
-          "seats": 338230,
-          "showtimes": 1081,
-          "theaters": 186,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The bookstore on top of the hill",
-          "japanese name": "丘の上の本屋さん",
-          "sales": 806,
-          "seats": 9510,
-          "showtimes": 66,
-          "theaters": 20,
-          "rank": 25,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Egoist",
-          "japanese name": "エゴイスト",
-          "sales": 1142,
-          "seats": 5838,
-          "showtimes": 42,
-          "theaters": 41,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Arabian Nights Three Thousand Years of Desire",
-          "japanese name": "アラビアンナイト 三千年の願い",
-          "sales": 942,
-          "seats": 9675,
-          "showtimes": 62,
-          "theaters": 41,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Yet, Chihiki-kun is too sweet.",
-          "japanese name": "なのに、千輝くんが甘すぎる。",
-          "sales": 19345,
-          "seats": 172190,
-          "showtimes": 747,
-          "theaters": 143,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Empire of Light",
-          "japanese name": "エンパイア・オブ・ライト",
-          "sales": 1003,
-          "seats": 17018,
-          "showtimes": 141,
-          "theaters": 94,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Triangle of Reversal",
-          "japanese name": "逆転のトライアングル",
-          "sales": 1136,
-          "seats": 6114,
-          "showtimes": 45,
-          "theaters": 22,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "With love from Lageri",
-          "japanese name": "ラーゲリより愛を込めて",
-          "sales": 2649,
-          "seats": 21716,
-          "showtimes": 165,
-          "theaters": 162,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Everything, everywhere, all at once.",
-          "japanese name": "エブリシング・エブリウェア・オール・アット・ワンス",
-          "sales": 14127,
-          "seats": 200791,
-          "showtimes": 887,
-          "theaters": 180,
-          "rank": 4,
           "last_week_ratio": null
         },
         {
@@ -718,6 +638,36 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "R. R. R (Rise Roar Revolt)",
+          "japanese name": "ＲＲＲ",
+          "sales": 3057,
+          "seats": 11801,
+          "showtimes": 70,
+          "theaters": 64,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "With love from Lageri",
+          "japanese name": "ラーゲリより愛を込めて",
+          "sales": 2649,
+          "seats": 21716,
+          "showtimes": 165,
+          "theaters": 162,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BTSS: Yet To Come In Cinemas",
+          "japanese name": "ＢＴＳ： Ｙｅｔ Ｔｏ Ｃｏｍｅ ｉｎ Ｃｉｎｅｍａｓ",
+          "sales": 2542,
+          "seats": 30485,
+          "showtimes": 216,
+          "theaters": 110,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Top Gun: Maverick",
           "japanese name": "トップガン マーヴェリック",
           "sales": 2204,
@@ -728,13 +678,33 @@
           "last_week_ratio": 1669.7
         },
         {
-          "moviename": "THE FIRST SLAM DUNK",
-          "japanese name": "ＴＨＥ ＦＩＲＳＴ ＳＬＡＭ ＤＵＮＫ",
-          "sales": 15360,
-          "seats": 82129,
-          "showtimes": 478,
-          "theaters": 186,
-          "rank": 3,
+          "moviename": "Blacklight",
+          "japanese name": "ブラックライト",
+          "sales": 1639,
+          "seats": 27964,
+          "showtimes": 195,
+          "theaters": 53,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Egoist",
+          "japanese name": "エゴイスト",
+          "sales": 1142,
+          "seats": 5838,
+          "showtimes": 42,
+          "theaters": 41,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Triangle of Reversal",
+          "japanese name": "逆転のトライアングル",
+          "sales": 1136,
+          "seats": 6114,
+          "showtimes": 45,
+          "theaters": 22,
+          "rank": 19,
           "last_week_ratio": null
         },
         {
@@ -748,23 +718,53 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Fabulmen’s",
-          "japanese name": "フェイブルマンズ",
-          "sales": 7467,
-          "seats": 110309,
-          "showtimes": 652,
-          "theaters": 161,
-          "rank": 8,
+          "moviename": "To have made up your mind to break up",
+          "japanese name": "別れる決心",
+          "sales": 1014,
+          "seats": 16395,
+          "showtimes": 126,
+          "theaters": 124,
+          "rank": 21,
           "last_week_ratio": null
         },
         {
-          "moviename": "World Tour screening \"Demon Slayer: The First General,\" and to the village of swordsmiths",
-          "japanese name": "ワールドツアー上映「鬼滅の刃」上弦集結、そして刀鍛冶の里へ",
-          "sales": 10506,
-          "seats": 138535,
-          "showtimes": 803,
-          "theaters": 189,
-          "rank": 6,
+          "moviename": "Empire of Light",
+          "japanese name": "エンパイア・オブ・ライト",
+          "sales": 1003,
+          "seats": 17018,
+          "showtimes": 141,
+          "theaters": 94,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Arabian Nights Three Thousand Years of Desire",
+          "japanese name": "アラビアンナイト 三千年の願い",
+          "sales": 942,
+          "seats": 9675,
+          "showtimes": 62,
+          "theaters": 41,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Babylon",
+          "japanese name": "バビロン",
+          "sales": 826,
+          "seats": 13061,
+          "showtimes": 95,
+          "theaters": 97,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The bookstore on top of the hill",
+          "japanese name": "丘の上の本屋さん",
+          "sales": 806,
+          "seats": 9510,
+          "showtimes": 66,
+          "theaters": 20,
+          "rank": 25,
           "last_week_ratio": null
         }
       ]

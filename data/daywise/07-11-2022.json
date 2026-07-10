@@ -6,63 +6,13 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "RRR",
-          "japanese name": "ＲＲＲ",
-          "sales": 1199,
-          "seats": 16944,
-          "showtimes": 89,
-          "theaters": 102,
-          "rank": 10,
-          "last_week_ratio": 151.2
-        },
-        {
-          "moviename": "Flower Poet Gothic Maid 9.1ch Special Edition",
-          "japanese name": "花の詩女 ゴティックメード ９．１ｃｈ特別版",
-          "sales": 697,
-          "seats": 5950,
-          "showtimes": 23,
-          "theaters": 43,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Seven Secretaries THE MOVIE",
-          "japanese name": "七人の秘書 ＴＨＥ ＭＯＶＩＥ",
-          "sales": 660,
-          "seats": 16461,
-          "showtimes": 118,
-          "theaters": 164,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Ticket to Paradise",
-          "japanese name": "チケット・トゥ・パラダイス",
-          "sales": 3135,
-          "seats": 46325,
-          "showtimes": 224,
-          "theaters": 110,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Bad Guys",
-          "japanese name": "バッドガイズ",
-          "sales": 670,
-          "seats": 12282,
-          "showtimes": 85,
-          "theaters": 111,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Amsterdam",
-          "japanese name": "アムステルダム",
-          "sales": 836,
-          "seats": 31972,
-          "showtimes": 212,
-          "theaters": 175,
-          "rank": 14,
+          "moviename": "ONE PIECE FILM RED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 6039,
+          "seats": 76425,
+          "showtimes": 355,
+          "theaters": 197,
+          "rank": 1,
           "last_week_ratio": null
         },
         {
@@ -73,6 +23,16 @@
           "showtimes": 209,
           "theaters": 119,
           "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ticket to Paradise",
+          "japanese name": "チケット・トゥ・パラダイス",
+          "sales": 3135,
+          "seats": 46325,
+          "showtimes": 224,
+          "theaters": 110,
+          "rank": 3,
           "last_week_ratio": null
         },
         {
@@ -106,43 +66,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Silent Parade",
-          "japanese name": "沈黙のパレード",
-          "sales": 878,
-          "seats": 24537,
-          "showtimes": 159,
-          "theaters": 190,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "ONE PIECE FILM RED",
-          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
-          "sales": 6039,
-          "seats": 76425,
-          "showtimes": 355,
-          "theaters": 197,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Three Sisters of Tenkan-so",
-          "japanese name": "天間荘の三姉妹",
-          "sales": 1179,
-          "seats": 36486,
-          "showtimes": 253,
-          "theaters": 188,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "By the window",
-          "japanese name": "窓辺にて",
-          "sales": 1295,
-          "seats": 40728,
-          "showtimes": 202,
-          "theaters": 102,
-          "rank": 9,
+          "moviename": "Reiko DX",
+          "japanese name": "貞子ＤＸ",
+          "sales": 1508,
+          "seats": 46277,
+          "showtimes": 288,
+          "theaters": 196,
+          "rank": 7,
           "last_week_ratio": null
         },
         {
@@ -156,14 +86,74 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Movie: Delish Party Precure",
-          "japanese name": "映画デリシャスパーティ・プリキュア",
-          "sales": 431,
-          "seats": 16848,
-          "showtimes": 101,
+          "moviename": "By the window",
+          "japanese name": "窓辺にて",
+          "sales": 1295,
+          "seats": 40728,
+          "showtimes": 202,
           "theaters": 102,
-          "rank": 22,
-          "last_week_ratio": 103.9
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "R. R. R (Rise Roar Revolt)",
+          "japanese name": "ＲＲＲ",
+          "sales": 1199,
+          "seats": 16944,
+          "showtimes": 89,
+          "theaters": 102,
+          "rank": 10,
+          "last_week_ratio": 151.2
+        },
+        {
+          "moviename": "The Three Sisters of Tenkan-so",
+          "japanese name": "天間荘の三姉妹",
+          "sales": 1179,
+          "seats": 36486,
+          "showtimes": 253,
+          "theaters": 188,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Listen closely",
+          "japanese name": "耳をすませば",
+          "sales": 926,
+          "seats": 20353,
+          "showtimes": 146,
+          "theaters": 188,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Silent Parade",
+          "japanese name": "沈黙のパレード",
+          "sales": 878,
+          "seats": 24537,
+          "showtimes": 159,
+          "theaters": 190,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Amsterdam",
+          "japanese name": "アムステルダム",
+          "sales": 836,
+          "seats": 31972,
+          "showtimes": 212,
+          "theaters": 175,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Flower Poet Gothic Maid 9.1ch Special Edition",
+          "japanese name": "花の詩女 ゴティックメード ９．１ｃｈ特別版",
+          "sales": 697,
+          "seats": 5950,
+          "showtimes": 23,
+          "theaters": 43,
+          "rank": 15,
+          "last_week_ratio": null
         },
         {
           "moviename": "Tosho Revue Snow Team - Treasure Land Theater \"Aries in the Azure Sky\" Final Performance Live Broadcast",
@@ -176,13 +166,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Spencer Diana's resolve",
-          "japanese name": "スペンサー ダイアナの決意",
-          "sales": 350,
-          "seats": 9454,
-          "showtimes": 67,
-          "theaters": 95,
-          "rank": 24,
+          "moviename": "Bad Guys",
+          "japanese name": "バッドガイズ",
+          "sales": 670,
+          "seats": 12282,
+          "showtimes": 85,
+          "theaters": 111,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Seven Secretaries THE MOVIE",
+          "japanese name": "七人の秘書 ＴＨＥ ＭＯＶＩＥ",
+          "sales": 660,
+          "seats": 16461,
+          "showtimes": 118,
+          "theaters": 164,
+          "rank": 18,
           "last_week_ratio": null
         },
         {
@@ -206,24 +206,24 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Listen closely",
-          "japanese name": "耳をすませば",
-          "sales": 926,
-          "seats": 20353,
-          "showtimes": 146,
-          "theaters": 188,
-          "rank": 12,
+          "moviename": "剧场版 うたの☆プリンスさまっ♪ Maji LOVE Starlight Tours",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
+          "sales": 542,
+          "seats": 12979,
+          "showtimes": 56,
+          "theaters": 88,
+          "rank": 21,
           "last_week_ratio": null
         },
         {
-          "moviename": "Reiko DX",
-          "japanese name": "貞子ＤＸ",
-          "sales": 1508,
-          "seats": 46277,
-          "showtimes": 288,
-          "theaters": 196,
-          "rank": 7,
-          "last_week_ratio": null
+          "moviename": "Movie: Delish Party Precure",
+          "japanese name": "映画デリシャスパーティ・プリキュア",
+          "sales": 431,
+          "seats": 16848,
+          "showtimes": 101,
+          "theaters": 102,
+          "rank": 22,
+          "last_week_ratio": 103.9
         },
         {
           "moviename": "The Lord of the Rings: The Return of the King",
@@ -236,6 +236,16 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Spencer Diana's resolve",
+          "japanese name": "スペンサー ダイアナの決意",
+          "sales": 350,
+          "seats": 9454,
+          "showtimes": 67,
+          "theaters": 95,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Bohemian Rhapsody",
           "japanese name": "ボヘミアン・ラプソディ",
           "sales": 322,
@@ -244,16 +254,6 @@
           "theaters": 1,
           "rank": 25,
           "last_week_ratio": null
-        },
-        {
-          "moviename": "剧场版 うたの☆プリンスさまっ♪ Maji LOVE Starlight Tours",
-          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
-          "sales": 542,
-          "seats": 12979,
-          "showtimes": 56,
-          "theaters": 88,
-          "rank": 21,
-          "last_week_ratio": null
         }
       ]
     },
@@ -261,66 +261,6 @@
       "title": "Including Independents",
       "time": "7PM",
       "data": [
-        {
-          "moviename": "RRR",
-          "japanese name": "ＲＲＲ",
-          "sales": 1779,
-          "seats": 28814,
-          "showtimes": 160,
-          "theaters": 102,
-          "rank": 11,
-          "last_week_ratio": 112.4
-        },
-        {
-          "moviename": "Flower Poet Gothic Maid 9.1ch Special Edition",
-          "japanese name": "花の詩女 ゴティックメード ９．１ｃｈ特別版",
-          "sales": 1413,
-          "seats": 12687,
-          "showtimes": 52,
-          "theaters": 43,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Seven Secretaries THE MOVIE",
-          "japanese name": "七人の秘書 ＴＨＥ ＭＯＶＩＥ",
-          "sales": 1012,
-          "seats": 27663,
-          "showtimes": 198,
-          "theaters": 164,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Ticket to Paradise",
-          "japanese name": "チケット・トゥ・パラダイス",
-          "sales": 4844,
-          "seats": 87058,
-          "showtimes": 424,
-          "theaters": 110,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Bad Guys",
-          "japanese name": "バッドガイズ",
-          "sales": 813,
-          "seats": 16879,
-          "showtimes": 118,
-          "theaters": 111,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Amsterdam",
-          "japanese name": "アムステルダム",
-          "sales": 1410,
-          "seats": 56447,
-          "showtimes": 382,
-          "theaters": 175,
-          "rank": 16,
-          "last_week_ratio": null
-        },
         {
           "moviename": "Detective Conan Halloween Bride",
           "japanese name": "名探偵コナン ハロウィンの花嫁",
@@ -332,53 +272,13 @@
           "last_week_ratio": 104.4
         },
         {
-          "moviename": "The Movie Sword Art Online Progressive - Scherzo of the Dark Evening",
-          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 冥き夕闇のスケルツォ",
-          "sales": 4858,
-          "seats": 102055,
-          "showtimes": 500,
-          "theaters": 154,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Finding the body",
-          "japanese name": "カラダ探し",
-          "sales": 5373,
-          "seats": 95218,
-          "showtimes": 534,
-          "theaters": 197,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Crime City THE ROUNDUP Japan Premiere",
-          "japanese name": "犯罪都市 ＴＨＥ ＲＯＵＮＤＵＰ ジャパンプレミア",
-          "sales": 2629,
-          "seats": 80071,
-          "showtimes": 423,
-          "theaters": 120,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Galaxy Heroes Legend: Die Neue These – Strategies, Chapter Two",
-          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 策謀 第二章",
-          "sales": 533,
-          "seats": 18481,
-          "showtimes": 109,
-          "theaters": 54,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Silent Parade",
-          "japanese name": "沈黙のパレード",
-          "sales": 1533,
-          "seats": 43861,
-          "showtimes": 298,
-          "theaters": 190,
-          "rank": 14,
+          "moviename": "Last meeting of \"Detective Conan Halloween Wedding\"",
+          "japanese name": "「名探偵コナン ハロウィンの花嫁」最後の待ち合わせ",
+          "sales": 10630,
+          "seats": 23938,
+          "showtimes": 68,
+          "theaters": 68,
+          "rank": 2,
           "last_week_ratio": null
         },
         {
@@ -392,83 +292,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The Three Sisters of Tenkan-so",
-          "japanese name": "天間荘の三姉妹",
-          "sales": 1634,
-          "seats": 60469,
-          "showtimes": 420,
-          "theaters": 188,
-          "rank": 13,
+          "moviename": "Finding the body",
+          "japanese name": "カラダ探し",
+          "sales": 5373,
+          "seats": 95218,
+          "showtimes": 534,
+          "theaters": 197,
+          "rank": 4,
           "last_week_ratio": null
         },
         {
-          "moviename": "By the window",
-          "japanese name": "窓辺にて",
-          "sales": 1837,
-          "seats": 70794,
-          "showtimes": 361,
-          "theaters": 102,
-          "rank": 10,
+          "moviename": "The Movie Sword Art Online Progressive - Scherzo of the Dark Evening",
+          "japanese name": "劇場版 ソードアート・オンライン プログレッシブ 冥き夕闇のスケルツォ",
+          "sales": 4858,
+          "seats": 102055,
+          "showtimes": 500,
+          "theaters": 154,
+          "rank": 5,
           "last_week_ratio": null
         },
         {
-          "moviename": "The line draws me",
-          "japanese name": "線は、僕を描く",
-          "sales": 2287,
-          "seats": 46005,
-          "showtimes": 324,
-          "theaters": 158,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie: Delish Party Precure",
-          "japanese name": "映画デリシャスパーティ・プリキュア",
-          "sales": 481,
-          "seats": 18572,
-          "showtimes": 110,
-          "theaters": 102,
-          "rank": 25,
-          "last_week_ratio": 102.6
-        },
-        {
-          "moviename": "Tosho Revue Snow Team - Treasure Land Theater \"Aries in the Azure Sky\" Final Performance Live Broadcast",
-          "japanese name": "宝塚歌劇 雪組宝塚大劇場公演「蒼穹の昴」千秋楽 ライブ中継",
-          "sales": 679,
-          "seats": 2781,
-          "showtimes": 46,
-          "theaters": 47,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Curse-Returner: The Birth of Shio-ko",
-          "japanese name": "呪い返し師－塩子誕生",
-          "sales": 957,
-          "seats": 32895,
-          "showtimes": 150,
-          "theaters": 80,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Top Gun: Maverick",
-          "japanese name": "トップガン マーヴェリック",
-          "sales": 1011,
-          "seats": 15958,
-          "showtimes": 97,
-          "theaters": 98,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Listen closely",
-          "japanese name": "耳をすませば",
-          "sales": 1673,
-          "seats": 39495,
-          "showtimes": 287,
-          "theaters": 188,
-          "rank": 12,
+          "moviename": "Ticket to Paradise",
+          "japanese name": "チケット・トゥ・パラダイス",
+          "sales": 4844,
+          "seats": 87058,
+          "showtimes": 424,
+          "theaters": 110,
+          "rank": 6,
           "last_week_ratio": null
         },
         {
@@ -482,13 +332,153 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Last meeting of \"Detective Conan Halloween Wedding\"",
-          "japanese name": "「名探偵コナン ハロウィンの花嫁」最後の待ち合わせ",
-          "sales": 10630,
-          "seats": 23938,
-          "showtimes": 68,
-          "theaters": 68,
-          "rank": 2,
+          "moviename": "Crime City THE ROUNDUP Japan Premiere",
+          "japanese name": "犯罪都市 ＴＨＥ ＲＯＵＮＤＵＰ ジャパンプレミア",
+          "sales": 2629,
+          "seats": 80071,
+          "showtimes": 423,
+          "theaters": 120,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The line draws me",
+          "japanese name": "線は、僕を描く",
+          "sales": 2287,
+          "seats": 46005,
+          "showtimes": 324,
+          "theaters": 158,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "By the window",
+          "japanese name": "窓辺にて",
+          "sales": 1837,
+          "seats": 70794,
+          "showtimes": 361,
+          "theaters": 102,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "R. R. R (Rise Roar Revolt)",
+          "japanese name": "ＲＲＲ",
+          "sales": 1779,
+          "seats": 28814,
+          "showtimes": 160,
+          "theaters": 102,
+          "rank": 11,
+          "last_week_ratio": 112.4
+        },
+        {
+          "moviename": "Listen closely",
+          "japanese name": "耳をすませば",
+          "sales": 1673,
+          "seats": 39495,
+          "showtimes": 287,
+          "theaters": 188,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Three Sisters of Tenkan-so",
+          "japanese name": "天間荘の三姉妹",
+          "sales": 1634,
+          "seats": 60469,
+          "showtimes": 420,
+          "theaters": 188,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Silent Parade",
+          "japanese name": "沈黙のパレード",
+          "sales": 1533,
+          "seats": 43861,
+          "showtimes": 298,
+          "theaters": 190,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Flower Poet Gothic Maid 9.1ch Special Edition",
+          "japanese name": "花の詩女 ゴティックメード ９．１ｃｈ特別版",
+          "sales": 1413,
+          "seats": 12687,
+          "showtimes": 52,
+          "theaters": 43,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Amsterdam",
+          "japanese name": "アムステルダム",
+          "sales": 1410,
+          "seats": 56447,
+          "showtimes": 382,
+          "theaters": 175,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 うたの☆プリンスさまっ♪ Maji LOVE Starlight Tours",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
+          "sales": 1407,
+          "seats": 27944,
+          "showtimes": 126,
+          "theaters": 88,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Seven Secretaries THE MOVIE",
+          "japanese name": "七人の秘書 ＴＨＥ ＭＯＶＩＥ",
+          "sales": 1012,
+          "seats": 27663,
+          "showtimes": 198,
+          "theaters": 164,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Top Gun: Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 1011,
+          "seats": 15958,
+          "showtimes": 97,
+          "theaters": 98,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Curse-Returner: The Birth of Shio-ko",
+          "japanese name": "呪い返し師－塩子誕生",
+          "sales": 957,
+          "seats": 32895,
+          "showtimes": 150,
+          "theaters": 80,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bad Guys",
+          "japanese name": "バッドガイズ",
+          "sales": 813,
+          "seats": 16879,
+          "showtimes": 118,
+          "theaters": 111,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tosho Revue Snow Team - Treasure Land Theater \"Aries in the Azure Sky\" Final Performance Live Broadcast",
+          "japanese name": "宝塚歌劇 雪組宝塚大劇場公演「蒼穹の昴」千秋楽 ライブ中継",
+          "sales": 679,
+          "seats": 2781,
+          "showtimes": 46,
+          "theaters": 47,
+          "rank": 22,
           "last_week_ratio": null
         },
         {
@@ -502,14 +492,24 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "剧场版 うたの☆プリンスさまっ♪ Maji LOVE Starlight Tours",
-          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
-          "sales": 1407,
-          "seats": 27944,
-          "showtimes": 126,
-          "theaters": 88,
-          "rank": 17,
+          "moviename": "Galaxy Heroes Legend: Die Neue These – Strategies, Chapter Two",
+          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 策謀 第二章",
+          "sales": 533,
+          "seats": 18481,
+          "showtimes": 109,
+          "theaters": 54,
+          "rank": 24,
           "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Delish Party Precure",
+          "japanese name": "映画デリシャスパーティ・プリキュア",
+          "sales": 481,
+          "seats": 18572,
+          "showtimes": 110,
+          "theaters": 102,
+          "rank": 25,
+          "last_week_ratio": 102.6
         }
       ]
     },
@@ -517,76 +517,6 @@
       "title": "Including Independents",
       "time": "Final",
       "data": [
-        {
-          "moviename": "RRR",
-          "japanese name": "ＲＲＲ",
-          "sales": 1978,
-          "seats": 33349,
-          "showtimes": 187,
-          "theaters": 102,
-          "rank": 12,
-          "last_week_ratio": 107
-        },
-        {
-          "moviename": "To all of you whom I have loved",
-          "japanese name": "僕が愛したすべての君へ",
-          "sales": 530,
-          "seats": 14529,
-          "showtimes": 109,
-          "theaters": 98,
-          "rank": 25,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Flower Poet Gothic Maid 9.1ch Special Edition",
-          "japanese name": "花の詩女 ゴティックメード ９．１ｃｈ特別版",
-          "sales": 1928,
-          "seats": 16981,
-          "showtimes": 70,
-          "theaters": 43,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Seven Secretaries THE MOVIE",
-          "japanese name": "七人の秘書 ＴＨＥ ＭＯＶＩＥ",
-          "sales": 1042,
-          "seats": 29848,
-          "showtimes": 217,
-          "theaters": 164,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Ticket to Paradise",
-          "japanese name": "チケット・トゥ・パラダイス",
-          "sales": 5309,
-          "seats": 109811,
-          "showtimes": 538,
-          "theaters": 110,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Bad Guys",
-          "japanese name": "バッドガイズ",
-          "sales": 813,
-          "seats": 16960,
-          "showtimes": 119,
-          "theaters": 111,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Amsterdam",
-          "japanese name": "アムステルダム",
-          "sales": 1624,
-          "seats": 75872,
-          "showtimes": 512,
-          "theaters": 175,
-          "rank": 17,
-          "last_week_ratio": null
-        },
         {
           "moviename": "Detective Conan Halloween Bride",
           "japanese name": "名探偵コナン ハロウィンの花嫁",
@@ -596,6 +526,26 @@
           "theaters": 119,
           "rank": 1,
           "last_week_ratio": 117.9
+        },
+        {
+          "moviename": "ONE PIECE FILM RED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
+          "sales": 11706,
+          "seats": 171783,
+          "showtimes": 803,
+          "theaters": 197,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Last meeting of \"Detective Conan Halloween Wedding\"",
+          "japanese name": "「名探偵コナン ハロウィンの花嫁」最後の待ち合わせ",
+          "sales": 10630,
+          "seats": 23938,
+          "showtimes": 68,
+          "theaters": 68,
+          "rank": 3,
+          "last_week_ratio": null
         },
         {
           "moviename": "The Movie Sword Art Online Progressive - Scherzo of the Dark Evening",
@@ -618,113 +568,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Crime City THE ROUNDUP Japan Premiere",
-          "japanese name": "犯罪都市 ＴＨＥ ＲＯＵＮＤＵＰ ジャパンプレミア",
-          "sales": 3093,
-          "seats": 102677,
-          "showtimes": 543,
-          "theaters": 120,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Galaxy Heroes Legend: Die Neue These – Strategies, Chapter Two",
-          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 策謀 第二章",
-          "sales": 689,
-          "seats": 23649,
-          "showtimes": 147,
-          "theaters": 54,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Silent Parade",
-          "japanese name": "沈黙のパレード",
-          "sales": 1818,
-          "seats": 57039,
-          "showtimes": 391,
-          "theaters": 190,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "ONE PIECE FILM RED",
-          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
-          "sales": 11706,
-          "seats": 171783,
-          "showtimes": 803,
-          "theaters": 197,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Three Sisters of Tenkan-so",
-          "japanese name": "天間荘の三姉妹",
-          "sales": 1768,
-          "seats": 74449,
-          "showtimes": 516,
-          "theaters": 188,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "By the window",
-          "japanese name": "窓辺にて",
-          "sales": 2060,
-          "seats": 89125,
-          "showtimes": 458,
-          "theaters": 102,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The line draws me",
-          "japanese name": "線は、僕を描く",
-          "sales": 2621,
-          "seats": 55977,
-          "showtimes": 399,
-          "theaters": 158,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Tosho Revue Snow Team - Treasure Land Theater \"Aries in the Azure Sky\" Final Performance Live Broadcast",
-          "japanese name": "宝塚歌劇 雪組宝塚大劇場公演「蒼穹の昴」千秋楽 ライブ中継",
-          "sales": 679,
-          "seats": 2781,
-          "showtimes": 46,
-          "theaters": 47,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Curse-Returner: The Birth of Shio-ko",
-          "japanese name": "呪い返し師－塩子誕生",
-          "sales": 983,
-          "seats": 35427,
-          "showtimes": 161,
-          "theaters": 80,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Top Gun: Maverick",
-          "japanese name": "トップガン マーヴェリック",
-          "sales": 1245,
-          "seats": 21359,
-          "showtimes": 127,
-          "theaters": 98,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Listen closely",
-          "japanese name": "耳をすませば",
-          "sales": 1783,
-          "seats": 45679,
-          "showtimes": 332,
-          "theaters": 188,
-          "rank": 15,
+          "moviename": "Ticket to Paradise",
+          "japanese name": "チケット・トゥ・パラダイス",
+          "sales": 5309,
+          "seats": 109811,
+          "showtimes": 538,
+          "theaters": 110,
+          "rank": 6,
           "last_week_ratio": null
         },
         {
@@ -738,13 +588,163 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Last meeting of \"Detective Conan Halloween Wedding\"",
-          "japanese name": "「名探偵コナン ハロウィンの花嫁」最後の待ち合わせ",
-          "sales": 10630,
-          "seats": 23938,
-          "showtimes": 68,
-          "theaters": 68,
-          "rank": 3,
+          "moviename": "Crime City THE ROUNDUP Japan Premiere",
+          "japanese name": "犯罪都市 ＴＨＥ ＲＯＵＮＤＵＰ ジャパンプレミア",
+          "sales": 3093,
+          "seats": 102677,
+          "showtimes": 543,
+          "theaters": 120,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The line draws me",
+          "japanese name": "線は、僕を描く",
+          "sales": 2621,
+          "seats": 55977,
+          "showtimes": 399,
+          "theaters": 158,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "By the window",
+          "japanese name": "窓辺にて",
+          "sales": 2060,
+          "seats": 89125,
+          "showtimes": 458,
+          "theaters": 102,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 うたの☆プリンスさまっ♪ Maji LOVE Starlight Tours",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
+          "sales": 2032,
+          "seats": 38430,
+          "showtimes": 178,
+          "theaters": 88,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "R. R. R (Rise Roar Revolt)",
+          "japanese name": "ＲＲＲ",
+          "sales": 1978,
+          "seats": 33349,
+          "showtimes": 187,
+          "theaters": 102,
+          "rank": 12,
+          "last_week_ratio": 107
+        },
+        {
+          "moviename": "Flower Poet Gothic Maid 9.1ch Special Edition",
+          "japanese name": "花の詩女 ゴティックメード ９．１ｃｈ特別版",
+          "sales": 1928,
+          "seats": 16981,
+          "showtimes": 70,
+          "theaters": 43,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Silent Parade",
+          "japanese name": "沈黙のパレード",
+          "sales": 1818,
+          "seats": 57039,
+          "showtimes": 391,
+          "theaters": 190,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Listen closely",
+          "japanese name": "耳をすませば",
+          "sales": 1783,
+          "seats": 45679,
+          "showtimes": 332,
+          "theaters": 188,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Three Sisters of Tenkan-so",
+          "japanese name": "天間荘の三姉妹",
+          "sales": 1768,
+          "seats": 74449,
+          "showtimes": 516,
+          "theaters": 188,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Amsterdam",
+          "japanese name": "アムステルダム",
+          "sales": 1624,
+          "seats": 75872,
+          "showtimes": 512,
+          "theaters": 175,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Top Gun: Maverick",
+          "japanese name": "トップガン マーヴェリック",
+          "sales": 1245,
+          "seats": 21359,
+          "showtimes": 127,
+          "theaters": 98,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Seven Secretaries THE MOVIE",
+          "japanese name": "七人の秘書 ＴＨＥ ＭＯＶＩＥ",
+          "sales": 1042,
+          "seats": 29848,
+          "showtimes": 217,
+          "theaters": 164,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Curse-Returner: The Birth of Shio-ko",
+          "japanese name": "呪い返し師－塩子誕生",
+          "sales": 983,
+          "seats": 35427,
+          "showtimes": 161,
+          "theaters": 80,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bad Guys",
+          "japanese name": "バッドガイズ",
+          "sales": 813,
+          "seats": 16960,
+          "showtimes": 119,
+          "theaters": 111,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Galaxy Heroes Legend: Die Neue These – Strategies, Chapter Two",
+          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 策謀 第二章",
+          "sales": 689,
+          "seats": 23649,
+          "showtimes": 147,
+          "theaters": 54,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tosho Revue Snow Team - Treasure Land Theater \"Aries in the Azure Sky\" Final Performance Live Broadcast",
+          "japanese name": "宝塚歌劇 雪組宝塚大劇場公演「蒼穹の昴」千秋楽 ライブ中継",
+          "sales": 679,
+          "seats": 2781,
+          "showtimes": 46,
+          "theaters": 47,
+          "rank": 23,
           "last_week_ratio": null
         },
         {
@@ -758,13 +758,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "剧场版 うたの☆プリンスさまっ♪ Maji LOVE Starlight Tours",
-          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
-          "sales": 2032,
-          "seats": 38430,
-          "showtimes": 178,
-          "theaters": 88,
-          "rank": 11,
+          "moviename": "To all of you whom I have loved",
+          "japanese name": "僕が愛したすべての君へ",
+          "sales": 530,
+          "seats": 14529,
+          "showtimes": 109,
+          "theaters": 98,
+          "rank": 25,
           "last_week_ratio": null
         }
       ]

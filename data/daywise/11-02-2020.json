@@ -6,6 +6,16 @@
       "time": "2PM",
       "data": [
         {
+          "moviename": "Parasite: The Family in the Semi-Basement",
+          "japanese name": "パラサイト 半地下の家族",
+          "sales": 38999,
+          "seats": 55715,
+          "showtimes": 222,
+          "theaters": 153,
+          "rank": 1,
+          "last_week_ratio": 716.6
+        },
+        {
           "moviename": "Otaku love is difficult",
           "japanese name": "ヲタクに恋は難しい",
           "sales": 38549,
@@ -13,6 +23,16 @@
           "showtimes": 658,
           "theaters": 273,
           "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kanamara Village",
+          "japanese name": "犬鳴村",
+          "sales": 20689,
+          "seats": 63116,
+          "showtimes": 324,
+          "theaters": 178,
+          "rank": 3,
           "last_week_ratio": null
         },
         {
@@ -26,14 +46,14 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "In the Name of the Samurai The Japan National Baseball Team Samurai Japan's 800 Days",
-          "japanese name": "侍の名のもとに 野球日本代表 侍ジャパンの８００日",
-          "sales": 3977,
-          "seats": 14247,
-          "showtimes": 82,
-          "theaters": 65,
-          "rank": 15,
-          "last_week_ratio": null
+          "moviename": "Frozen 2",
+          "japanese name": "アナと雪の女王２",
+          "sales": 17914,
+          "seats": 68512,
+          "showtimes": 424,
+          "theaters": 288,
+          "rank": 5,
+          "last_week_ratio": 813.5
         },
         {
           "moviename": "AI collapse",
@@ -46,84 +66,14 @@
           "last_week_ratio": 214.8
         },
         {
-          "moviename": "Last Letter",
-          "japanese name": "ラストレター",
-          "sales": 4525,
-          "seats": 23872,
-          "showtimes": 179,
-          "theaters": 228,
-          "rank": 14,
-          "last_week_ratio": 159.6
-        },
-        {
-          "moviename": "Maeda Construction Fantasy Sales Department",
-          "japanese name": "前田建設 ファンタジー営業部",
-          "sales": 3417,
-          "seats": 26397,
-          "showtimes": 187,
-          "theaters": 123,
-          "rank": 16,
-          "last_week_ratio": 303.7
-        },
-        {
-          "moviename": "Memory House: I will never forget you.",
-          "japanese name": "記憶屋 あなたを忘れない",
-          "sales": 2013,
-          "seats": 14960,
-          "showtimes": 112,
-          "theaters": 271,
-          "rank": 21,
-          "last_week_ratio": 138.6
-        },
-        {
-          "moviename": "Kaizoku: Final Game",
-          "japanese name": "カイジ ファイナルゲーム",
-          "sales": 6567,
-          "seats": 35265,
-          "showtimes": 243,
-          "theaters": 289,
-          "rank": 9,
-          "last_week_ratio": 245.8
-        },
-        {
-          "moviename": "Movie: “Mom and Me: First Great Adventure”",
-          "japanese name": "映画 おかあさんといっしょ はじめての大冒険",
-          "sales": 5380,
-          "seats": 38165,
-          "showtimes": 219,
-          "theaters": 111,
-          "rank": 11,
-          "last_week_ratio": 726
-        },
-        {
-          "moviename": "Frozen 2",
-          "japanese name": "アナと雪の女王２",
-          "sales": 17914,
-          "seats": 68512,
-          "showtimes": 424,
-          "theaters": 288,
-          "rank": 5,
-          "last_week_ratio": 813.5
-        },
-        {
-          "moviename": "Kabuki NEXT Aterui <(Aterui)>",
-          "japanese name": "歌舞伎ＮＥＸＴ 阿弖流為〈アテルイ〉",
-          "sales": 2012,
-          "seats": 4905,
-          "showtimes": 31,
-          "theaters": 31,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Bad Boys for Life",
-          "japanese name": "バッドボーイズ フォー・ライフ",
-          "sales": 4797,
-          "seats": 43464,
-          "showtimes": 323,
-          "theaters": 285,
-          "rank": 12,
-          "last_week_ratio": 115.1
+          "moviename": "Cats",
+          "japanese name": "キャッツ",
+          "sales": 16656,
+          "seats": 84329,
+          "showtimes": 525,
+          "theaters": 303,
+          "rank": 7,
+          "last_week_ratio": 199.9
         },
         {
           "moviename": "Star Wars: The Skywalker Saga",
@@ -136,6 +86,16 @@
           "last_week_ratio": 299.5
         },
         {
+          "moviename": "Kaizoku: Final Game",
+          "japanese name": "カイジ ファイナルゲーム",
+          "sales": 6567,
+          "seats": 35265,
+          "showtimes": 243,
+          "theaters": 289,
+          "rank": 9,
+          "last_week_ratio": 245.8
+        },
+        {
           "moviename": "Liar Game Kyoto Royal",
           "japanese name": "嘘八百 京町ロワイヤル",
           "sales": 6123,
@@ -146,33 +106,123 @@
           "last_week_ratio": 131
         },
         {
-          "moviename": "Parasite: The Family in the Semi-Basement",
-          "japanese name": "パラサイト 半地下の家族",
-          "sales": 38999,
-          "seats": 55715,
-          "showtimes": 222,
-          "theaters": 153,
-          "rank": 1,
-          "last_week_ratio": 716.6
+          "moviename": "Movie: “Mom and Me: First Great Adventure”",
+          "japanese name": "映画 おかあさんといっしょ はじめての大冒険",
+          "sales": 5380,
+          "seats": 38165,
+          "showtimes": 219,
+          "theaters": 111,
+          "rank": 11,
+          "last_week_ratio": 726
         },
         {
-          "moviename": "Cats",
-          "japanese name": "キャッツ",
-          "sales": 16656,
-          "seats": 84329,
-          "showtimes": 525,
-          "theaters": 303,
-          "rank": 7,
-          "last_week_ratio": 199.9
+          "moviename": "Bad Boys for Life",
+          "japanese name": "バッドボーイズ フォー・ライフ",
+          "sales": 4797,
+          "seats": 43464,
+          "showtimes": 323,
+          "theaters": 285,
+          "rank": 12,
+          "last_week_ratio": 115.1
         },
         {
-          "moviename": "Joker",
-          "japanese name": "ジョーカー",
-          "sales": 1707,
-          "seats": 7737,
-          "showtimes": 24,
-          "theaters": 34,
-          "rank": 25,
+          "moviename": "Nails Out The Secret of the Mystery Mansion with the Detective and the Blade",
+          "japanese name": "ナイブズ・アウト 名探偵と刃の館の秘密",
+          "sales": 4738,
+          "seats": 19471,
+          "showtimes": 122,
+          "theaters": 104,
+          "rank": 13,
+          "last_week_ratio": 158.8
+        },
+        {
+          "moviename": "Last Letter",
+          "japanese name": "ラストレター",
+          "sales": 4525,
+          "seats": 23872,
+          "showtimes": 179,
+          "theaters": 228,
+          "rank": 14,
+          "last_week_ratio": 159.6
+        },
+        {
+          "moviename": "In the Name of the Samurai The Japan National Baseball Team Samurai Japan's 800 Days",
+          "japanese name": "侍の名のもとに 野球日本代表 侍ジャパンの８００日",
+          "sales": 3977,
+          "seats": 14247,
+          "showtimes": 82,
+          "theaters": 65,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Maeda Construction Fantasy Sales Department",
+          "japanese name": "前田建設 ファンタジー営業部",
+          "sales": 3417,
+          "seats": 26397,
+          "showtimes": 187,
+          "theaters": 123,
+          "rank": 16,
+          "last_week_ratio": 303.7
+        },
+        {
+          "moviename": "Jojo Rabbit",
+          "japanese name": "ジョジョ・ラビット",
+          "sales": 3287,
+          "seats": 9022,
+          "showtimes": 59,
+          "theaters": 110,
+          "rank": 17,
+          "last_week_ratio": 245.3
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE Heroes: Rising",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ヒーローズ：ライジング",
+          "sales": 2700,
+          "seats": 17866,
+          "showtimes": 144,
+          "theaters": 253,
+          "rank": 18,
+          "last_week_ratio": 322.6
+        },
+        {
+          "moviename": "Ford vs Ferrari",
+          "japanese name": "フォードｖｓフェラーリ",
+          "sales": 2536,
+          "seats": 10101,
+          "showtimes": 68,
+          "theaters": 277,
+          "rank": 19,
+          "last_week_ratio": 283.7
+        },
+        {
+          "moviename": "Hustlers",
+          "japanese name": "ハスラーズ",
+          "sales": 2121,
+          "seats": 11012,
+          "showtimes": 74,
+          "theaters": 49,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Memory House: I will never forget you.",
+          "japanese name": "記憶屋 あなたを忘れない",
+          "sales": 2013,
+          "seats": 14960,
+          "showtimes": 112,
+          "theaters": 271,
+          "rank": 21,
+          "last_week_ratio": 138.6
+        },
+        {
+          "moviename": "Kabuki NEXT Aterui <(Aterui)>",
+          "japanese name": "歌舞伎ＮＥＸＴ 阿弖流為〈アテルイ〉",
+          "sales": 2012,
+          "seats": 4905,
+          "showtimes": 31,
+          "theaters": 31,
+          "rank": 22,
           "last_week_ratio": null
         },
         {
@@ -186,36 +236,6 @@
           "last_week_ratio": 202.6
         },
         {
-          "moviename": "My Hero Academia THE MOVIE Heroes: Rising",
-          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ヒーローズ：ライジング",
-          "sales": 2700,
-          "seats": 17866,
-          "showtimes": 144,
-          "theaters": 253,
-          "rank": 18,
-          "last_week_ratio": 322.6
-        },
-        {
-          "moviename": "Kanamara Village",
-          "japanese name": "犬鳴村",
-          "sales": 20689,
-          "seats": 63116,
-          "showtimes": 324,
-          "theaters": 178,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Hustlers",
-          "japanese name": "ハスラーズ",
-          "sales": 2121,
-          "seats": 11012,
-          "showtimes": 74,
-          "theaters": 49,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Good Liar False Game",
           "japanese name": "グッドライアー 偽りのゲーム",
           "sales": 1843,
@@ -226,34 +246,14 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Nails Out The Secret of the Mystery Mansion with the Detective and the Blade",
-          "japanese name": "ナイブズ・アウト 名探偵と刃の館の秘密",
-          "sales": 4738,
-          "seats": 19471,
-          "showtimes": 122,
-          "theaters": 104,
-          "rank": 13,
-          "last_week_ratio": 158.8
-        },
-        {
-          "moviename": "Ford vs Ferrari",
-          "japanese name": "フォードｖｓフェラーリ",
-          "sales": 2536,
-          "seats": 10101,
-          "showtimes": 68,
-          "theaters": 277,
-          "rank": 19,
-          "last_week_ratio": 283.7
-        },
-        {
-          "moviename": "Jojo Rabbit",
-          "japanese name": "ジョジョ・ラビット",
-          "sales": 3287,
-          "seats": 9022,
-          "showtimes": 59,
-          "theaters": 110,
-          "rank": 17,
-          "last_week_ratio": 245.3
+          "moviename": "Joker",
+          "japanese name": "ジョーカー",
+          "sales": 1707,
+          "seats": 7737,
+          "showtimes": 24,
+          "theaters": 34,
+          "rank": 25,
+          "last_week_ratio": null
         }
       ]
     },
@@ -261,6 +261,16 @@
       "title": "Including Independents",
       "time": "7PM",
       "data": [
+        {
+          "moviename": "Parasite: The Family in the Semi-Basement",
+          "japanese name": "パラサイト 半地下の家族",
+          "sales": 72911,
+          "seats": 101973,
+          "showtimes": 400,
+          "theaters": 153,
+          "rank": 1,
+          "last_week_ratio": 651.2
+        },
         {
           "moviename": "Otaku love is difficult",
           "japanese name": "ヲタクに恋は難しい",
@@ -272,34 +282,14 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Movie version Knight Dragon Sentai Ryusouja VS Lupin Ranger VS Patren Ranger",
-          "japanese name": "劇場版 騎士竜戦隊リュウソウジャーＶＳルパンレンジャーＶＳパトレンジャー",
-          "sales": 24506,
-          "seats": 160238,
-          "showtimes": 812,
-          "theaters": 213,
-          "rank": 6,
+          "moviename": "Kanamara Village",
+          "japanese name": "犬鳴村",
+          "sales": 40369,
+          "seats": 114566,
+          "showtimes": 585,
+          "theaters": 178,
+          "rank": 3,
           "last_week_ratio": null
-        },
-        {
-          "moviename": "In the Name of the Samurai The Japan National Baseball Team Samurai Japan's 800 Days",
-          "japanese name": "侍の名のもとに 野球日本代表 侍ジャパンの８００日",
-          "sales": 5669,
-          "seats": 25808,
-          "showtimes": 148,
-          "theaters": 65,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "30 minutes to goodbye",
-          "japanese name": "サヨナラまでの３０分",
-          "sales": 3157,
-          "seats": 21216,
-          "showtimes": 159,
-          "theaters": 175,
-          "rank": 24,
-          "last_week_ratio": 163
         },
         {
           "moviename": "AI collapse",
@@ -312,54 +302,24 @@
           "last_week_ratio": 213.6
         },
         {
-          "moviename": "Last Letter",
-          "japanese name": "ラストレター",
-          "sales": 7602,
-          "seats": 46950,
-          "showtimes": 341,
-          "theaters": 228,
-          "rank": 13,
-          "last_week_ratio": 189.6
+          "moviename": "Cats",
+          "japanese name": "キャッツ",
+          "sales": 25537,
+          "seats": 148843,
+          "showtimes": 907,
+          "theaters": 303,
+          "rank": 5,
+          "last_week_ratio": 210.9
         },
         {
-          "moviename": "Maeda Construction Fantasy Sales Department",
-          "japanese name": "前田建設 ファンタジー営業部",
-          "sales": 5061,
-          "seats": 45807,
-          "showtimes": 319,
-          "theaters": 123,
-          "rank": 18,
-          "last_week_ratio": 320.1
-        },
-        {
-          "moviename": "Memory House: I will never forget you.",
-          "japanese name": "記憶屋 あなたを忘れない",
-          "sales": 3733,
-          "seats": 36515,
-          "showtimes": 261,
-          "theaters": 271,
-          "rank": 22,
-          "last_week_ratio": 150.5
-        },
-        {
-          "moviename": "Kaizoku: Final Game",
-          "japanese name": "カイジ ファイナルゲーム",
-          "sales": 14137,
-          "seats": 77328,
-          "showtimes": 529,
-          "theaters": 289,
-          "rank": 8,
-          "last_week_ratio": 242.4
-        },
-        {
-          "moviename": "Movie: “Mom and Me: First Great Adventure”",
-          "japanese name": "映画 おかあさんといっしょ はじめての大冒険",
-          "sales": 5675,
-          "seats": 40675,
-          "showtimes": 233,
-          "theaters": 111,
-          "rank": 16,
-          "last_week_ratio": 703.2
+          "moviename": "Movie version Knight Dragon Sentai Ryusouja VS Lupin Ranger VS Patren Ranger",
+          "japanese name": "劇場版 騎士竜戦隊リュウソウジャーＶＳルパンレンジャーＶＳパトレンジャー",
+          "sales": 24506,
+          "seats": 160238,
+          "showtimes": 812,
+          "theaters": 213,
+          "rank": 6,
+          "last_week_ratio": null
         },
         {
           "moviename": "Frozen 2",
@@ -372,14 +332,14 @@
           "last_week_ratio": 725.5
         },
         {
-          "moviename": "Bad Boys for Life",
-          "japanese name": "バッドボーイズ フォー・ライフ",
-          "sales": 8502,
-          "seats": 85398,
-          "showtimes": 622,
-          "theaters": 285,
-          "rank": 11,
-          "last_week_ratio": 129.3
+          "moviename": "Kaizoku: Final Game",
+          "japanese name": "カイジ ファイナルゲーム",
+          "sales": 14137,
+          "seats": 77328,
+          "showtimes": 529,
+          "theaters": 289,
+          "rank": 8,
+          "last_week_ratio": 242.4
         },
         {
           "moviename": "Star Wars: The Skywalker Saga",
@@ -392,6 +352,26 @@
           "last_week_ratio": 281.1
         },
         {
+          "moviename": "Nails Out The Secret of the Mystery Mansion with the Detective and the Blade",
+          "japanese name": "ナイブズ・アウト 名探偵と刃の館の秘密",
+          "sales": 8926,
+          "seats": 40017,
+          "showtimes": 243,
+          "theaters": 104,
+          "rank": 10,
+          "last_week_ratio": 188.1
+        },
+        {
+          "moviename": "Bad Boys for Life",
+          "japanese name": "バッドボーイズ フォー・ライフ",
+          "sales": 8502,
+          "seats": 85398,
+          "showtimes": 622,
+          "theaters": 285,
+          "rank": 11,
+          "last_week_ratio": 129.3
+        },
+        {
           "moviename": "Liar Game Kyoto Royal",
           "japanese name": "嘘八百 京町ロワイヤル",
           "sales": 7918,
@@ -402,33 +382,83 @@
           "last_week_ratio": 133.6
         },
         {
-          "moviename": "Parasite: The Family in the Semi-Basement",
-          "japanese name": "パラサイト 半地下の家族",
-          "sales": 72911,
-          "seats": 101973,
-          "showtimes": 400,
-          "theaters": 153,
-          "rank": 1,
-          "last_week_ratio": 651.2
+          "moviename": "Last Letter",
+          "japanese name": "ラストレター",
+          "sales": 7602,
+          "seats": 46950,
+          "showtimes": 341,
+          "theaters": 228,
+          "rank": 13,
+          "last_week_ratio": 189.6
         },
         {
-          "moviename": "Cats",
-          "japanese name": "キャッツ",
-          "sales": 25537,
-          "seats": 148843,
-          "showtimes": 907,
-          "theaters": 303,
-          "rank": 5,
-          "last_week_ratio": 210.9
+          "moviename": "Jojo Rabbit",
+          "japanese name": "ジョジョ・ラビット",
+          "sales": 5888,
+          "seats": 17151,
+          "showtimes": 112,
+          "theaters": 110,
+          "rank": 14,
+          "last_week_ratio": 245.3
         },
         {
-          "moviename": "Joker",
-          "japanese name": "ジョーカー",
-          "sales": 3397,
-          "seats": 16386,
-          "showtimes": 49,
-          "theaters": 34,
-          "rank": 23,
+          "moviename": "Ford vs Ferrari",
+          "japanese name": "フォードｖｓフェラーリ",
+          "sales": 5850,
+          "seats": 31633,
+          "showtimes": 203,
+          "theaters": 277,
+          "rank": 15,
+          "last_week_ratio": 267.2
+        },
+        {
+          "moviename": "Movie: “Mom and Me: First Great Adventure”",
+          "japanese name": "映画 おかあさんといっしょ はじめての大冒険",
+          "sales": 5675,
+          "seats": 40675,
+          "showtimes": 233,
+          "theaters": 111,
+          "rank": 16,
+          "last_week_ratio": 703.2
+        },
+        {
+          "moviename": "In the Name of the Samurai The Japan National Baseball Team Samurai Japan's 800 Days",
+          "japanese name": "侍の名のもとに 野球日本代表 侍ジャパンの８００日",
+          "sales": 5669,
+          "seats": 25808,
+          "showtimes": 148,
+          "theaters": 65,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Maeda Construction Fantasy Sales Department",
+          "japanese name": "前田建設 ファンタジー営業部",
+          "sales": 5061,
+          "seats": 45807,
+          "showtimes": 319,
+          "theaters": 123,
+          "rank": 18,
+          "last_week_ratio": 320.1
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE Heroes: Rising",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ヒーローズ：ライジング",
+          "sales": 5036,
+          "seats": 40662,
+          "showtimes": 310,
+          "theaters": 253,
+          "rank": 19,
+          "last_week_ratio": 250.5
+        },
+        {
+          "moviename": "Hustlers",
+          "japanese name": "ハスラーズ",
+          "sales": 4075,
+          "seats": 21663,
+          "showtimes": 145,
+          "theaters": 49,
+          "rank": 20,
           "last_week_ratio": null
         },
         {
@@ -442,34 +472,34 @@
           "last_week_ratio": 185.7
         },
         {
-          "moviename": "My Hero Academia THE MOVIE Heroes: Rising",
-          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ヒーローズ：ライジング",
-          "sales": 5036,
-          "seats": 40662,
-          "showtimes": 310,
-          "theaters": 253,
-          "rank": 19,
-          "last_week_ratio": 250.5
+          "moviename": "Memory House: I will never forget you.",
+          "japanese name": "記憶屋 あなたを忘れない",
+          "sales": 3733,
+          "seats": 36515,
+          "showtimes": 261,
+          "theaters": 271,
+          "rank": 22,
+          "last_week_ratio": 150.5
         },
         {
-          "moviename": "Kanamara Village",
-          "japanese name": "犬鳴村",
-          "sales": 40369,
-          "seats": 114566,
-          "showtimes": 585,
-          "theaters": 178,
-          "rank": 3,
+          "moviename": "Joker",
+          "japanese name": "ジョーカー",
+          "sales": 3397,
+          "seats": 16386,
+          "showtimes": 49,
+          "theaters": 34,
+          "rank": 23,
           "last_week_ratio": null
         },
         {
-          "moviename": "Hustlers",
-          "japanese name": "ハスラーズ",
-          "sales": 4075,
-          "seats": 21663,
-          "showtimes": 145,
-          "theaters": 49,
-          "rank": 20,
-          "last_week_ratio": null
+          "moviename": "30 minutes to goodbye",
+          "japanese name": "サヨナラまでの３０分",
+          "sales": 3157,
+          "seats": 21216,
+          "showtimes": 159,
+          "theaters": 175,
+          "rank": 24,
+          "last_week_ratio": 163
         },
         {
           "moviename": "Good Liar False Game",
@@ -480,43 +510,264 @@
           "theaters": 45,
           "rank": 25,
           "last_week_ratio": null
-        },
-        {
-          "moviename": "Nails Out The Secret of the Mystery Mansion with the Detective and the Blade",
-          "japanese name": "ナイブズ・アウト 名探偵と刃の館の秘密",
-          "sales": 8926,
-          "seats": 40017,
-          "showtimes": 243,
-          "theaters": 104,
-          "rank": 10,
-          "last_week_ratio": 188.1
-        },
-        {
-          "moviename": "Ford vs Ferrari",
-          "japanese name": "フォードｖｓフェラーリ",
-          "sales": 5850,
-          "seats": 31633,
-          "showtimes": 203,
-          "theaters": 277,
-          "rank": 15,
-          "last_week_ratio": 267.2
-        },
-        {
-          "moviename": "Jojo Rabbit",
-          "japanese name": "ジョジョ・ラビット",
-          "sales": 5888,
-          "seats": 17151,
-          "showtimes": 112,
-          "theaters": 110,
-          "rank": 14,
-          "last_week_ratio": 245.3
         }
       ]
     },
     {
       "title": "Including Independents",
       "time": "Final",
-      "data": []
+      "data": [
+        {
+          "moviename": "Parasite: The Family in the Semi-Basement",
+          "japanese name": "パラサイト 半地下の家族",
+          "sales": 85143,
+          "seats": 130882,
+          "showtimes": 516,
+          "theaters": 153,
+          "rank": 1,
+          "last_week_ratio": 655.6
+        },
+        {
+          "moviename": "Otaku love is difficult",
+          "japanese name": "ヲタクに恋は難しい",
+          "sales": 62535,
+          "seats": 503073,
+          "showtimes": 1448,
+          "theaters": 273,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kanamara Village",
+          "japanese name": "犬鳴村",
+          "sales": 45852,
+          "seats": 150525,
+          "showtimes": 771,
+          "theaters": 178,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "AI collapse",
+          "japanese name": "ＡＩ崩壊",
+          "sales": 31826,
+          "seats": 274217,
+          "showtimes": 1363,
+          "theaters": 295,
+          "rank": 4,
+          "last_week_ratio": 198.9
+        },
+        {
+          "moviename": "Cats",
+          "japanese name": "キャッツ",
+          "sales": 26725,
+          "seats": 187323,
+          "showtimes": 1156,
+          "theaters": 303,
+          "rank": 5,
+          "last_week_ratio": 198.2
+        },
+        {
+          "moviename": "Movie version Knight Dragon Sentai Ryusouja VS Lupin Ranger VS Patren Ranger",
+          "japanese name": "劇場版 騎士竜戦隊リュウソウジャーＶＳルパンレンジャーＶＳパトレンジャー",
+          "sales": 24598,
+          "seats": 163221,
+          "showtimes": 824,
+          "theaters": 213,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Frozen 2",
+          "japanese name": "アナと雪の女王２",
+          "sales": 24128,
+          "seats": 101017,
+          "showtimes": 622,
+          "theaters": 288,
+          "rank": 7,
+          "last_week_ratio": 715.8
+        },
+        {
+          "moviename": "Kaizoku: Final Game",
+          "japanese name": "カイジ ファイナルゲーム",
+          "sales": 15302,
+          "seats": 109203,
+          "showtimes": 743,
+          "theaters": 289,
+          "rank": 8,
+          "last_week_ratio": 212.6
+        },
+        {
+          "moviename": "Star Wars: The Skywalker Saga",
+          "japanese name": "スター・ウォーズ スカイウォーカーの夜明け",
+          "sales": 13768,
+          "seats": 78081,
+          "showtimes": 523,
+          "theaters": 288,
+          "rank": 9,
+          "last_week_ratio": 255.5
+        },
+        {
+          "moviename": "Bad Boys for Life",
+          "japanese name": "バッドボーイズ フォー・ライフ",
+          "sales": 9626,
+          "seats": 121575,
+          "showtimes": 879,
+          "theaters": 285,
+          "rank": 10,
+          "last_week_ratio": 126.4
+        },
+        {
+          "moviename": "Nails Out The Secret of the Mystery Mansion with the Detective and the Blade",
+          "japanese name": "ナイブズ・アウト 名探偵と刃の館の秘密",
+          "sales": 9533,
+          "seats": 52949,
+          "showtimes": 323,
+          "theaters": 104,
+          "rank": 11,
+          "last_week_ratio": 176.7
+        },
+        {
+          "moviename": "Liar Game Kyoto Royal",
+          "japanese name": "嘘八百 京町ロワイヤル",
+          "sales": 8033,
+          "seats": 59058,
+          "showtimes": 386,
+          "theaters": 136,
+          "rank": 12,
+          "last_week_ratio": 131.5
+        },
+        {
+          "moviename": "Last Letter",
+          "japanese name": "ラストレター",
+          "sales": 7889,
+          "seats": 56656,
+          "showtimes": 411,
+          "theaters": 228,
+          "rank": 13,
+          "last_week_ratio": 176.2
+        },
+        {
+          "moviename": "Ford vs Ferrari",
+          "japanese name": "フォードｖｓフェラーリ",
+          "sales": 6466,
+          "seats": 44440,
+          "showtimes": 293,
+          "theaters": 277,
+          "rank": 14,
+          "last_week_ratio": 227.5
+        },
+        {
+          "moviename": "Jojo Rabbit",
+          "japanese name": "ジョジョ・ラビット",
+          "sales": 6287,
+          "seats": 20156,
+          "showtimes": 133,
+          "theaters": 110,
+          "rank": 15,
+          "last_week_ratio": 240.6
+        },
+        {
+          "moviename": "In the Name of the Samurai The Japan National Baseball Team Samurai Japan's 800 Days",
+          "japanese name": "侍の名のもとに 野球日本代表 侍ジャパンの８００日",
+          "sales": 6014,
+          "seats": 31134,
+          "showtimes": 183,
+          "theaters": 65,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: “Mom and Me: First Great Adventure”",
+          "japanese name": "映画 おかあさんといっしょ はじめての大冒険",
+          "sales": 5675,
+          "seats": 40675,
+          "showtimes": 233,
+          "theaters": 111,
+          "rank": 17,
+          "last_week_ratio": 703.2
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE Heroes: Rising",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ヒーローズ：ライジング",
+          "sales": 5333,
+          "seats": 46476,
+          "showtimes": 356,
+          "theaters": 253,
+          "rank": 18,
+          "last_week_ratio": 238.3
+        },
+        {
+          "moviename": "Maeda Construction Fantasy Sales Department",
+          "japanese name": "前田建設 ファンタジー営業部",
+          "sales": 5319,
+          "seats": 59381,
+          "showtimes": 413,
+          "theaters": 123,
+          "rank": 19,
+          "last_week_ratio": 288.1
+        },
+        {
+          "moviename": "Hustlers",
+          "japanese name": "ハスラーズ",
+          "sales": 4417,
+          "seats": 28956,
+          "showtimes": 188,
+          "theaters": 49,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Maid in Abyss: Dawn of the Deep Soul",
+          "japanese name": "劇場版 メイドインアビス 深き魂の黎明",
+          "sales": 4345,
+          "seats": 18606,
+          "showtimes": 92,
+          "theaters": 44,
+          "rank": 21,
+          "last_week_ratio": 169.7
+        },
+        {
+          "moviename": "Memory House: I will never forget you.",
+          "japanese name": "記憶屋 あなたを忘れない",
+          "sales": 3926,
+          "seats": 41482,
+          "showtimes": 290,
+          "theaters": 271,
+          "rank": 22,
+          "last_week_ratio": 145.3
+        },
+        {
+          "moviename": "Joker",
+          "japanese name": "ジョーカー",
+          "sales": 3896,
+          "seats": 23000,
+          "showtimes": 69,
+          "theaters": 34,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "30 minutes to goodbye",
+          "japanese name": "サヨナラまでの３０分",
+          "sales": 3476,
+          "seats": 26392,
+          "showtimes": 190,
+          "theaters": 175,
+          "rank": 24,
+          "last_week_ratio": 164.4
+        },
+        {
+          "moviename": "Good Liar False Game",
+          "japanese name": "グッドライアー 偽りのゲーム",
+          "sales": 3139,
+          "seats": 30017,
+          "showtimes": 191,
+          "theaters": 45,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
     }
   ]
 }
