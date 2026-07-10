@@ -12,6 +12,7 @@ Handles:
 - Manual corrections (correctedslug.json) allow overriding slugs, English names,
   and merging movies. Corrections are applied automatically on every run.
 - After corrections, all daywise files are rebuilt to reflect the changes.
+- Manual corrections always override API‑provided English names.
 """
 
 import asyncio
@@ -39,7 +40,7 @@ DATABASE_DIR = BASE_DIR / "database"
 DAYWISE_DIR = DATA_DIR / "daywise"
 STATE_FILE = BASE_DIR / "state.json"
 MOVIE_SLUG_MAP_FILE = DATA_DIR / "movieslug.json"
-CORRECTIONS_FILE = BASE_DIR / "correctedslug.json"   # now absolute
+CORRECTIONS_FILE = BASE_DIR / "correctedslug.json"
 
 SEMAPHORE = asyncio.Semaphore(45)
 
@@ -135,16 +136,26 @@ class MovieSlugMapper:
         return entry["english_name"] if entry else None
 
     def ensure_movie(self, jp_name, english_name):
+        """
+        Ensure the movie exists in the map.
+        Returns (slug, is_new).
+        If the movie already exists, the English name is updated ONLY if:
+          - no manual_english flag is set, and
+          - the current stored English name is empty.
+        Manual overrides (set by apply_corrections) are never overwritten.
+        """
         primary = self.resolve(jp_name)
         if primary in self.map:
             entry = self.map[primary]
             slug = entry["slug"]
+            # Only update English name if not manually overridden and currently empty
             stored_eng = entry.get("english_name", "")
             if english_name and not stored_eng and not entry.get("manual_english", False):
                 entry["english_name"] = english_name
                 self.dirty = True
             return slug, False
         else:
+            # New movie: generate slug from given English name (or fallback)
             base_slug = generate_slug_from_english(english_name, primary)
             existing_slugs = {v["slug"] for v in self.map.values() if "slug" in v}
             slug = base_slug
@@ -267,7 +278,7 @@ class MovieStore:
         slug, is_new = self.mapper.ensure_movie(primary_jp, movie_name)
         if is_new:
             movie_data = {
-                "movie_name": movie_name,
+                "movie_name": movie_name,  # will be overwritten by mapper's English name later
                 "jp_name": primary_jp,
                 "releaseDate": format_date_str(date_obj),
                 "entries": []
@@ -376,9 +387,18 @@ async def process_api_response(date_str, data, daywise_acc):
         ensure_daywise_date(daywise_acc, actual_date)
 
         for movie in entry.get("data", []):
+            # API提供的英文名（可能为自动翻译）
             movie_en = movie.get("movie_en") or movie["movie"]
             raw_jp = movie["movie"]
             primary_jp = movie_slug_mapper.resolve(raw_jp)
+
+            # 确保电影在mapper中存在（若已手动修正，则保留手动名）
+            slug, _ = await movie_store.get_or_create(movie_en, primary_jp, actual_date)
+
+            # ★ 关键修正：从mapper获取最终英文名（手动修正优先）
+            definitive_eng = movie_slug_mapper.get_english_name(primary_jp)
+            if not definitive_eng:
+                definitive_eng = movie_en   # fallback
 
             sales = movie["sales"]
             seats = movie["seats"]
@@ -387,7 +407,6 @@ async def process_api_response(date_str, data, daywise_acc):
             rank = movie["rank"]
             last_week_ratio = movie.get("last_week_ratio")
 
-            slug, _ = await movie_store.get_or_create(movie_en, primary_jp, actual_date)
             release_date = movie_store.get_release_date(slug)
 
             entry_obj = {
@@ -404,8 +423,9 @@ async def process_api_response(date_str, data, daywise_acc):
             }
             await movie_store.add_entry(slug, entry_obj)
 
+            # ★ daywise条目中使用 definitive_eng（手动修正优先）
             daywise_entry = {
-                "moviename": movie_en,
+                "moviename": definitive_eng,
                 "japanese name": primary_jp,
                 "sales": sales,
                 "seats": seats,
