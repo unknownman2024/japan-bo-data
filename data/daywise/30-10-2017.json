@@ -1,0 +1,773 @@
+{
+  "date": "30-10-2017",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Blade Runner 2049",
+          "japanese name": "ブレードランナー ２０４９",
+          "sales": 12703,
+          "seats": 147413,
+          "showtimes": 588,
+          "theaters": 266,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mix.",
+          "japanese name": "ミックス。",
+          "sales": 11159,
+          "seats": 98734,
+          "showtimes": 507,
+          "theaters": 233,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Saito Makio's Ψ Hardship",
+          "japanese name": "斉木楠雄のΨ難",
+          "sales": 8847,
+          "seats": 86813,
+          "showtimes": 488,
+          "theaters": 222,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sir! ……May I fall in love with you?",
+          "japanese name": "先生！ 、、、好きになってもいいですか？",
+          "sales": 7601,
+          "seats": 186446,
+          "showtimes": 663,
+          "theaters": 272,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Kirakira☆Princess Precure A La Mode: Sparkling! Memories of the Milfyue!",
+          "japanese name": "映画キラキラ☆プリキュアアラモード パリッと！想い出のミルフィーユ！",
+          "sales": 5733,
+          "seats": 123695,
+          "showtimes": 547,
+          "theaters": 182,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Barry Seal The Man Who Trapped America",
+          "japanese name": "バリー・シール アメリカをはめた男",
+          "sales": 5317,
+          "seats": 66577,
+          "showtimes": 440,
+          "theaters": 246,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fatе/stay night Heavens Feel Chapter 1",
+          "japanese name": "Ｆａｔｅ／ｓｔａｙ ｎｉｇｈｔ Ｈｅａｖｅｎｓ Ｆｅｅｌ 第一章",
+          "sales": 3049,
+          "seats": 35149,
+          "showtimes": 173,
+          "theaters": 110,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Narataju",
+          "japanese name": "ナラタージュ",
+          "sales": 2738,
+          "seats": 37364,
+          "showtimes": 293,
+          "theaters": 242,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Special Edition Free! – Take Your Marks –",
+          "japanese name": "特別版 Ｆｒｅｅ！－Ｔａｋｅ Ｙｏｕｒ Ｍａｒｋｓ－",
+          "sales": 2359,
+          "seats": 35918,
+          "showtimes": 147,
+          "theaters": 66,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Outrage Final Chapter",
+          "japanese name": "アウトレイジ 最終章",
+          "sales": 2033,
+          "seats": 39911,
+          "showtimes": 292,
+          "theaters": 241,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Planet of the Apes: The War for the Planet of the Apes",
+          "japanese name": "猿の惑星：聖戦記（グレート・ウォー）",
+          "sales": 1750,
+          "seats": 38171,
+          "showtimes": 267,
+          "theaters": 275,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Wonderful Life",
+          "japanese name": "僕のワンダフル・ライフ",
+          "sales": 1594,
+          "seats": 24741,
+          "showtimes": 173,
+          "theaters": 213,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Subhuman",
+          "japanese name": "亜人",
+          "sales": 1593,
+          "seats": 29185,
+          "showtimes": 217,
+          "theaters": 260,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Atomic Blonde",
+          "japanese name": "アトミック・ブロンド",
+          "sales": 1367,
+          "seats": 28342,
+          "showtimes": 221,
+          "theaters": 202,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The birds whose names she doesn’t know",
+          "japanese name": "彼女がその名を知らない鳥たち",
+          "sales": 1301,
+          "seats": 12970,
+          "showtimes": 97,
+          "theaters": 51,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Get out.",
+          "japanese name": "ゲット・アウト",
+          "sales": 1176,
+          "seats": 8924,
+          "showtimes": 59,
+          "theaters": 28,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Miracles of Mr. Nimia's Store",
+          "japanese name": "ナミヤ雑貨店の奇蹟",
+          "sales": 922,
+          "seats": 15472,
+          "showtimes": 114,
+          "theaters": 253,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Code Geass: Lelouch of the Rebellion I - The Path to Glory",
+          "japanese name": "コードギアス 反逆のルルーシュⅠ 興道",
+          "sales": 724,
+          "seats": 11618,
+          "showtimes": 75,
+          "theaters": 67,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Iwai Mitsuteru’s World of Cat Walks: The Kotra Family and the World’s Lovely Cats",
+          "japanese name": "劇場版 岩合光昭の世界ネコ歩き コトラ家族と世界のいいコたち",
+          "sales": 674,
+          "seats": 10802,
+          "showtimes": 71,
+          "theaters": 47,
+          "rank": 19,
+          "last_week_ratio": 104
+        },
+        {
+          "moviename": "Dream",
+          "japanese name": "ドリーム",
+          "sales": 619,
+          "seats": 6210,
+          "showtimes": 49,
+          "theaters": 61,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sekigahara",
+          "japanese name": "関ヶ原",
+          "sales": 393,
+          "seats": 18353,
+          "showtimes": 144,
+          "theaters": 257,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The invisible hand of the goddess",
+          "japanese name": "女神の見えざる手",
+          "sales": 314,
+          "seats": 1193,
+          "showtimes": 11,
+          "theaters": 11,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "DC SUPER HEROES vs TITAN'S CLAW",
+          "japanese name": "ＤＣスーパーヒーローズ ｖｓ 鷹の爪団",
+          "sales": 283,
+          "seats": 4569,
+          "showtimes": 37,
+          "theaters": 38,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Minions on the Run with the Thief Grou",
+          "japanese name": "怪盗グルーのミニオン大脱走",
+          "sales": 254,
+          "seats": 3679,
+          "showtimes": 22,
+          "theaters": 32,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "2001: A Space Odyssey",
+          "japanese name": "２００１年宇宙の旅",
+          "sales": 203,
+          "seats": 539,
+          "showtimes": 1,
+          "theaters": 1,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Blade Runner 2049",
+          "japanese name": "ブレードランナー ２０４９",
+          "sales": 19344,
+          "seats": 245978,
+          "showtimes": 1004,
+          "theaters": 265,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mix.",
+          "japanese name": "ミックス。",
+          "sales": 17789,
+          "seats": 182224,
+          "showtimes": 930,
+          "theaters": 233,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sir! ……May I fall in love with you?",
+          "japanese name": "先生！ 、、、好きになってもいいですか？",
+          "sales": 13747,
+          "seats": 326846,
+          "showtimes": 1156,
+          "theaters": 272,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Saito Makio's Ψ Hardship",
+          "japanese name": "斉木楠雄のΨ難",
+          "sales": 13193,
+          "seats": 148172,
+          "showtimes": 825,
+          "theaters": 222,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Barry Seal The Man Who Trapped America",
+          "japanese name": "バリー・シール アメリカをはめた男",
+          "sales": 8455,
+          "seats": 118631,
+          "showtimes": 766,
+          "theaters": 246,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Kirakira☆Princess Precure A La Mode: Sparkling! Memories of the Milfyue!",
+          "japanese name": "映画キラキラ☆プリキュアアラモード パリッと！想い出のミルフィーユ！",
+          "sales": 7759,
+          "seats": 184753,
+          "showtimes": 811,
+          "theaters": 180,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fatе/stay night Heavens Feel Chapter 1",
+          "japanese name": "Ｆａｔｅ／ｓｔａｙ ｎｉｇｈｔ Ｈｅａｖｅｎｓ Ｆｅｅｌ 第一章",
+          "sales": 6111,
+          "seats": 66090,
+          "showtimes": 324,
+          "theaters": 110,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Narataju",
+          "japanese name": "ナラタージュ",
+          "sales": 5502,
+          "seats": 75614,
+          "showtimes": 575,
+          "theaters": 242,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Special Edition Free! – Take Your Marks –",
+          "japanese name": "特別版 Ｆｒｅｅ！－Ｔａｋｅ Ｙｏｕｒ Ｍａｒｋｓ－",
+          "sales": 4186,
+          "seats": 61918,
+          "showtimes": 256,
+          "theaters": 66,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Outrage Final Chapter",
+          "japanese name": "アウトレイジ 最終章",
+          "sales": 3940,
+          "seats": 74987,
+          "showtimes": 526,
+          "theaters": 241,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Subhuman",
+          "japanese name": "亜人",
+          "sales": 3765,
+          "seats": 66513,
+          "showtimes": 483,
+          "theaters": 260,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Planet of the Apes: The War for the Planet of the Apes",
+          "japanese name": "猿の惑星：聖戦記（グレート・ウォー）",
+          "sales": 3158,
+          "seats": 75152,
+          "showtimes": 518,
+          "theaters": 273,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Atomic Blonde",
+          "japanese name": "アトミック・ブロンド",
+          "sales": 2775,
+          "seats": 59404,
+          "showtimes": 448,
+          "theaters": 202,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Wonderful Life",
+          "japanese name": "僕のワンダフル・ライフ",
+          "sales": 2591,
+          "seats": 45026,
+          "showtimes": 296,
+          "theaters": 213,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Get out.",
+          "japanese name": "ゲット・アウト",
+          "sales": 2199,
+          "seats": 16041,
+          "showtimes": 102,
+          "theaters": 28,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The birds whose names she doesn’t know",
+          "japanese name": "彼女がその名を知らない鳥たち",
+          "sales": 2027,
+          "seats": 22236,
+          "showtimes": 168,
+          "theaters": 51,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Code Geass: Lelouch of the Rebellion I - The Path to Glory",
+          "japanese name": "コードギアス 反逆のルルーシュⅠ 興道",
+          "sales": 1737,
+          "seats": 23805,
+          "showtimes": 152,
+          "theaters": 67,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Miracles of Mr. Nimia's Store",
+          "japanese name": "ナミヤ雑貨店の奇蹟",
+          "sales": 1595,
+          "seats": 36102,
+          "showtimes": 258,
+          "theaters": 253,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dream",
+          "japanese name": "ドリーム",
+          "sales": 1236,
+          "seats": 12437,
+          "showtimes": 94,
+          "theaters": 60,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Iwai Mitsuteru’s World of Cat Walks: The Kotra Family and the World’s Lovely Cats",
+          "japanese name": "劇場版 岩合光昭の世界ネコ歩き コトラ家族と世界のいいコたち",
+          "sales": 917,
+          "seats": 17275,
+          "showtimes": 109,
+          "theaters": 47,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Anabel: The Puppet of the Haunted House",
+          "japanese name": "アナベル 死霊館の人形",
+          "sales": 615,
+          "seats": 3847,
+          "showtimes": 28,
+          "theaters": 33,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The invisible hand of the goddess",
+          "japanese name": "女神の見えざる手",
+          "sales": 614,
+          "seats": 2715,
+          "showtimes": 23,
+          "theaters": 11,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sekigahara",
+          "japanese name": "関ヶ原",
+          "sales": 528,
+          "seats": 30994,
+          "showtimes": 238,
+          "theaters": 257,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Third Murder",
+          "japanese name": "三度目の殺人",
+          "sales": 469,
+          "seats": 29205,
+          "showtimes": 203,
+          "theaters": 237,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ah, the Wilderness, Part 2",
+          "japanese name": "あゝ、荒野 後篇",
+          "sales": 454,
+          "seats": 4944,
+          "showtimes": 37,
+          "theaters": 31,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Blade Runner 2049",
+          "japanese name": "ブレードランナー ２０４９",
+          "sales": 24649,
+          "seats": 321683,
+          "showtimes": 1298,
+          "theaters": 264,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mix.",
+          "japanese name": "ミックス。",
+          "sales": 19606,
+          "seats": 225721,
+          "showtimes": 1155,
+          "theaters": 233,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sir! ……May I fall in love with you?",
+          "japanese name": "先生！ 、、、好きになってもいいですか？",
+          "sales": 15769,
+          "seats": 403422,
+          "showtimes": 1433,
+          "theaters": 270,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Saito Makio's Ψ Hardship",
+          "japanese name": "斉木楠雄のΨ難",
+          "sales": 14473,
+          "seats": 180263,
+          "showtimes": 1005,
+          "theaters": 220,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Barry Seal The Man Who Trapped America",
+          "japanese name": "バリー・シール アメリカをはめた男",
+          "sales": 9970,
+          "seats": 156871,
+          "showtimes": 1010,
+          "theaters": 244,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Kirakira☆Princess Precure A La Mode: Sparkling! Memories of the Milfyue!",
+          "japanese name": "映画キラキラ☆プリキュアアラモード パリッと！想い出のミルフィーユ！",
+          "sales": 7768,
+          "seats": 185592,
+          "showtimes": 814,
+          "theaters": 180,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fatе/stay night Heavens Feel Chapter 1",
+          "japanese name": "Ｆａｔｅ／ｓｔａｙ ｎｉｇｈｔ Ｈｅａｖｅｎｓ Ｆｅｅｌ 第一章",
+          "sales": 7494,
+          "seats": 85528,
+          "showtimes": 417,
+          "theaters": 110,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Narataju",
+          "japanese name": "ナラタージュ",
+          "sales": 6259,
+          "seats": 95377,
+          "showtimes": 720,
+          "theaters": 242,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Special Edition Free! – Take Your Marks –",
+          "japanese name": "特別版 Ｆｒｅｅ！－Ｔａｋｅ Ｙｏｕｒ Ｍａｒｋｓ－",
+          "sales": 5554,
+          "seats": 75457,
+          "showtimes": 314,
+          "theaters": 66,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Outrage Final Chapter",
+          "japanese name": "アウトレイジ 最終章",
+          "sales": 5203,
+          "seats": 108078,
+          "showtimes": 739,
+          "theaters": 241,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Subhuman",
+          "japanese name": "亜人",
+          "sales": 4426,
+          "seats": 85273,
+          "showtimes": 621,
+          "theaters": 260,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Planet of the Apes: The War for the Planet of the Apes",
+          "japanese name": "猿の惑星：聖戦記（グレート・ウォー）",
+          "sales": 3901,
+          "seats": 107458,
+          "showtimes": 743,
+          "theaters": 272,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Atomic Blonde",
+          "japanese name": "アトミック・ブロンド",
+          "sales": 3455,
+          "seats": 83313,
+          "showtimes": 622,
+          "theaters": 200,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Wonderful Life",
+          "japanese name": "僕のワンダフル・ライフ",
+          "sales": 2674,
+          "seats": 48635,
+          "showtimes": 318,
+          "theaters": 213,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Get out.",
+          "japanese name": "ゲット・アウト",
+          "sales": 2654,
+          "seats": 19981,
+          "showtimes": 130,
+          "theaters": 28,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The birds whose names she doesn’t know",
+          "japanese name": "彼女がその名を知らない鳥たち",
+          "sales": 2399,
+          "seats": 28276,
+          "showtimes": 215,
+          "theaters": 51,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Code Geass: Lelouch of the Rebellion I - The Path to Glory",
+          "japanese name": "コードギアス 反逆のルルーシュⅠ 興道",
+          "sales": 2275,
+          "seats": 31732,
+          "showtimes": 206,
+          "theaters": 67,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Miracles of Mr. Nimia's Store",
+          "japanese name": "ナミヤ雑貨店の奇蹟",
+          "sales": 1630,
+          "seats": 37373,
+          "showtimes": 269,
+          "theaters": 252,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dream",
+          "japanese name": "ドリーム",
+          "sales": 1268,
+          "seats": 13647,
+          "showtimes": 104,
+          "theaters": 59,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Iwai Mitsuteru’s World of Cat Walks: The Kotra Family and the World’s Lovely Cats",
+          "japanese name": "劇場版 岩合光昭の世界ネコ歩き コトラ家族と世界のいいコたち",
+          "sales": 1001,
+          "seats": 19568,
+          "showtimes": 123,
+          "theaters": 47,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Anabel: The Puppet of the Haunted House",
+          "japanese name": "アナベル 死霊館の人形",
+          "sales": 906,
+          "seats": 7254,
+          "showtimes": 50,
+          "theaters": 33,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The invisible hand of the goddess",
+          "japanese name": "女神の見えざる手",
+          "sales": 639,
+          "seats": 3023,
+          "showtimes": 27,
+          "theaters": 11,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sekigahara",
+          "japanese name": "関ヶ原",
+          "sales": 588,
+          "seats": 34461,
+          "showtimes": 261,
+          "theaters": 257,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Third Murder",
+          "japanese name": "三度目の殺人",
+          "sales": 551,
+          "seats": 35112,
+          "showtimes": 242,
+          "theaters": 237,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Uchū Senkan Yamato 2202: Ai no Senshi-tachi - Chapter 3",
+          "japanese name": "宇宙戦艦ヤマト２２０２ 愛の戦士たち 第三章",
+          "sales": 550,
+          "seats": 5745,
+          "showtimes": 38,
+          "theaters": 23,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,773 @@
+{
+  "date": "31-08-2018",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Ant-Man & The Wasp",
+          "japanese name": "アントマン＆ワスプ",
+          "sales": 21111,
+          "seats": 180694,
+          "showtimes": 718,
+          "theaters": 275,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The prosecution’s view of the criminal",
+          "japanese name": "検察側の罪人",
+          "sales": 18623,
+          "seats": 167132,
+          "showtimes": 576,
+          "theaters": 265,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Incredible Family",
+          "japanese name": "インクレディブル・ファミリー",
+          "sales": 13042,
+          "seats": 72333,
+          "showtimes": 457,
+          "theaters": 273,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version of Code Blue: Doctor Helicopter Emergency Rescue",
+          "japanese name": "劇場版コード・ブルー －ドクターヘリ緊急救命－",
+          "sales": 12809,
+          "seats": 89222,
+          "showtimes": 534,
+          "theaters": 270,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gintama 2: Rules are made to be broken",
+          "japanese name": "銀魂２ 掟は破るためにこそある",
+          "sales": 11920,
+          "seats": 92574,
+          "showtimes": 505,
+          "theaters": 270,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SUNNY: Strong Feelings, Strong Love",
+          "japanese name": "ＳＵＮＮＹ 強い気持ち・強い愛",
+          "sales": 8804,
+          "seats": 122245,
+          "showtimes": 591,
+          "theaters": 258,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mamma Mia! Here We Go!",
+          "japanese name": "マンマ・ミーア！ ヒア・ウィー・ゴー",
+          "sales": 7644,
+          "seats": 66393,
+          "showtimes": 476,
+          "theaters": 270,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Don’t stop the camera!",
+          "japanese name": "カメラを止めるな！",
+          "sales": 5299,
+          "seats": 53417,
+          "showtimes": 214,
+          "theaters": 104,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mission: Impossible - Fallout",
+          "japanese name": "ミッション：インポッシブル フォールアウト",
+          "sales": 5146,
+          "seats": 37282,
+          "showtimes": 258,
+          "theaters": 276,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pocket Monsters The Movie: Everyone's Story",
+          "japanese name": "劇場版ポケットモンスター みんなの物語",
+          "sales": 3430,
+          "seats": 35696,
+          "showtimes": 260,
+          "theaters": 258,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Jurassic World / Kingdom of the Crystal Skull",
+          "japanese name": "ジュラシック・ワールド／炎の王国",
+          "sales": 2624,
+          "seats": 20387,
+          "showtimes": 168,
+          "theaters": 275,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ocean's 8",
+          "japanese name": "オーシャンズ８",
+          "sales": 2323,
+          "seats": 21001,
+          "showtimes": 151,
+          "theaters": 268,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 七つの大罪 天空の囚われ人",
+          "japanese name": "劇場版 七つの大罪 天空の囚われ人",
+          "sales": 2309,
+          "seats": 28064,
+          "showtimes": 223,
+          "theaters": 212,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Future of Mirai",
+          "japanese name": "未来のミライ",
+          "sales": 2307,
+          "seats": 20472,
+          "showtimes": 159,
+          "theaters": 268,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Penguin Highway",
+          "japanese name": "ペンギン・ハイウェイ",
+          "sales": 1778,
+          "seats": 12115,
+          "showtimes": 102,
+          "theaters": 166,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Teacher Monarch",
+          "japanese name": "センセイ君主",
+          "sales": 1681,
+          "seats": 10402,
+          "showtimes": 75,
+          "theaters": 245,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE ~Two Heroes~",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ～２人の英雄～",
+          "sales": 1512,
+          "seats": 17418,
+          "showtimes": 129,
+          "theaters": 245,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Movie: Kamen Rider Build / Lupin Rangers vs. Patranger",
+          "japanese name": "劇場版 仮面ライダービルド／快盗戦隊ルパンレンジャー警察戦隊パトレンジャー",
+          "sales": 1375,
+          "seats": 35338,
+          "showtimes": 247,
+          "theaters": 245,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Drive Head ~Tomica Hyper Rescue: Mobile Emergency Police~",
+          "japanese name": "映画ドライブヘッド ～トミカハイパーレスキュー 機動救急警察～",
+          "sales": 988,
+          "seats": 32170,
+          "showtimes": 227,
+          "theaters": 77,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version of Nonnon Biyori: The Phantom Show",
+          "japanese name": "劇場版 のんのんびより ばけーしょん",
+          "sales": 691,
+          "seats": 6917,
+          "showtimes": 37,
+          "theaters": 20,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Little Heroes – Crabs, Eggs, and Invisibles –",
+          "japanese name": "ちいさな英雄－カニとタマゴと透明人間－",
+          "sales": 588,
+          "seats": 24278,
+          "showtimes": 159,
+          "theaters": 103,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Borg / MacKenro - The Man of Ice and the Man of Fire",
+          "japanese name": "ボルグ／マッケンロー 氷の男と炎の男",
+          "sales": 497,
+          "seats": 5212,
+          "showtimes": 45,
+          "theaters": 27,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Top Gun",
+          "japanese name": "トップガン",
+          "sales": 351,
+          "seats": 2182,
+          "showtimes": 21,
+          "theaters": 22,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Judgment, Two Hopes",
+          "japanese name": "判決、ふたつの希望",
+          "sales": 326,
+          "seats": 662,
+          "showtimes": 4,
+          "theaters": 2,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bz 30th Anniversary Exhibition Scenes 1988–2018: Theatrical Version",
+          "japanese name": "Ｂｚ ３０ｔｈ Ｙｅａｒ Ｅｘｈｉｂｉｔｉｏｎ ＳＣＥＮＥＳ １９８８－２０１８ 劇場版",
+          "sales": 238,
+          "seats": 996,
+          "showtimes": 5,
+          "theaters": 12,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Ant-Man & The Wasp",
+          "japanese name": "アントマン＆ワスプ",
+          "sales": 40223,
+          "seats": 332301,
+          "showtimes": 1329,
+          "theaters": 275,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The prosecution’s view of the criminal",
+          "japanese name": "検察側の罪人",
+          "sales": 29654,
+          "seats": 306909,
+          "showtimes": 1072,
+          "theaters": 265,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gintama 2: Rules are made to be broken",
+          "japanese name": "銀魂２ 掟は破るためにこそある",
+          "sales": 24387,
+          "seats": 177005,
+          "showtimes": 951,
+          "theaters": 270,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version of Code Blue: Doctor Helicopter Emergency Rescue",
+          "japanese name": "劇場版コード・ブルー －ドクターヘリ緊急救命－",
+          "sales": 20481,
+          "seats": 156289,
+          "showtimes": 935,
+          "theaters": 270,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Incredible Family",
+          "japanese name": "インクレディブル・ファミリー",
+          "sales": 20318,
+          "seats": 116839,
+          "showtimes": 754,
+          "theaters": 273,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SUNNY: Strong Feelings, Strong Love",
+          "japanese name": "ＳＵＮＮＹ 強い気持ち・強い愛",
+          "sales": 15345,
+          "seats": 219864,
+          "showtimes": 1064,
+          "theaters": 258,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mamma Mia! Here We Go!",
+          "japanese name": "マンマ・ミーア！ ヒア・ウィー・ゴー",
+          "sales": 12613,
+          "seats": 116316,
+          "showtimes": 834,
+          "theaters": 270,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Don’t stop the camera!",
+          "japanese name": "カメラを止めるな！",
+          "sales": 11269,
+          "seats": 98180,
+          "showtimes": 391,
+          "theaters": 104,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mission: Impossible - Fallout",
+          "japanese name": "ミッション：インポッシブル フォールアウト",
+          "sales": 10728,
+          "seats": 79840,
+          "showtimes": 547,
+          "theaters": 276,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ocean's 8",
+          "japanese name": "オーシャンズ８",
+          "sales": 5797,
+          "seats": 52498,
+          "showtimes": 370,
+          "theaters": 268,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Jurassic World / Kingdom of the Crystal Skull",
+          "japanese name": "ジュラシック・ワールド／炎の王国",
+          "sales": 5418,
+          "seats": 47395,
+          "showtimes": 368,
+          "theaters": 275,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 七つの大罪 天空の囚われ人",
+          "japanese name": "劇場版 七つの大罪 天空の囚われ人",
+          "sales": 4720,
+          "seats": 51024,
+          "showtimes": 407,
+          "theaters": 212,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Teacher Monarch",
+          "japanese name": "センセイ君主",
+          "sales": 4465,
+          "seats": 34423,
+          "showtimes": 248,
+          "theaters": 245,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Future of Mirai",
+          "japanese name": "未来のミライ",
+          "sales": 4271,
+          "seats": 41703,
+          "showtimes": 315,
+          "theaters": 268,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Penguin Highway",
+          "japanese name": "ペンギン・ハイウェイ",
+          "sales": 3760,
+          "seats": 26583,
+          "showtimes": 225,
+          "theaters": 166,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pocket Monsters The Movie: Everyone's Story",
+          "japanese name": "劇場版ポケットモンスター みんなの物語",
+          "sales": 3702,
+          "seats": 38532,
+          "showtimes": 282,
+          "theaters": 258,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE ~Two Heroes~",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ～２人の英雄～",
+          "sales": 3296,
+          "seats": 36147,
+          "showtimes": 268,
+          "theaters": 245,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Movie: Kamen Rider Build / Lupin Rangers vs. Patranger",
+          "japanese name": "劇場版 仮面ライダービルド／快盗戦隊ルパンレンジャー警察戦隊パトレンジャー",
+          "sales": 1576,
+          "seats": 39769,
+          "showtimes": 280,
+          "theaters": 245,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Drive Head ~Tomica Hyper Rescue: Mobile Emergency Police~",
+          "japanese name": "映画ドライブヘッド ～トミカハイパーレスキュー 機動救急警察～",
+          "sales": 1219,
+          "seats": 42044,
+          "showtimes": 294,
+          "theaters": 77,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version of Nonnon Biyori: The Phantom Show",
+          "japanese name": "劇場版 のんのんびより ばけーしょん",
+          "sales": 1203,
+          "seats": 11308,
+          "showtimes": 64,
+          "theaters": 20,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Little Heroes – Crabs, Eggs, and Invisibles –",
+          "japanese name": "ちいさな英雄－カニとタマゴと透明人間－",
+          "sales": 1100,
+          "seats": 35078,
+          "showtimes": 242,
+          "theaters": 103,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Borg / MacKenro - The Man of Ice and the Man of Fire",
+          "japanese name": "ボルグ／マッケンロー 氷の男と炎の男",
+          "sales": 961,
+          "seats": 9472,
+          "showtimes": 80,
+          "theaters": 27,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bz 30th Anniversary Exhibition Scenes 1988–2018: Theatrical Version",
+          "japanese name": "Ｂｚ ３０ｔｈ Ｙｅａｒ Ｅｘｈｉｂｉｔｉｏｎ ＳＣＥＮＥＳ １９８８－２０１８ 劇場版",
+          "sales": 790,
+          "seats": 3254,
+          "showtimes": 14,
+          "theaters": 12,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Judgment, Two Hopes",
+          "japanese name": "判決、ふたつの希望",
+          "sales": 567,
+          "seats": 1217,
+          "showtimes": 7,
+          "theaters": 2,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tennis no Ōji-sama: BEST GAMES!! Tezuka vs.跡部",
+          "japanese name": "テニスの王子様 ＢＥＳＴ ＧＡＭＥＳ！！ 手塚ｖｓ跡部",
+          "sales": 499,
+          "seats": 9161,
+          "showtimes": 59,
+          "theaters": 25,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Ant-Man & The Wasp",
+          "japanese name": "アントマン＆ワスプ",
+          "sales": 59074,
+          "seats": 430791,
+          "showtimes": 1734,
+          "theaters": 275,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The prosecution’s view of the criminal",
+          "japanese name": "検察側の罪人",
+          "sales": 36602,
+          "seats": 382545,
+          "showtimes": 1360,
+          "theaters": 265,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gintama 2: Rules are made to be broken",
+          "japanese name": "銀魂２ 掟は破るためにこそある",
+          "sales": 34122,
+          "seats": 231001,
+          "showtimes": 1245,
+          "theaters": 270,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version of Code Blue: Doctor Helicopter Emergency Rescue",
+          "japanese name": "劇場版コード・ブルー －ドクターヘリ緊急救命－",
+          "sales": 25463,
+          "seats": 199827,
+          "showtimes": 1208,
+          "theaters": 270,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Incredible Family",
+          "japanese name": "インクレディブル・ファミリー",
+          "sales": 21251,
+          "seats": 127354,
+          "showtimes": 821,
+          "theaters": 273,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SUNNY: Strong Feelings, Strong Love",
+          "japanese name": "ＳＵＮＮＹ 強い気持ち・強い愛",
+          "sales": 20586,
+          "seats": 276160,
+          "showtimes": 1340,
+          "theaters": 258,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Don’t stop the camera!",
+          "japanese name": "カメラを止めるな！",
+          "sales": 17496,
+          "seats": 129041,
+          "showtimes": 511,
+          "theaters": 104,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mamma Mia! Here We Go!",
+          "japanese name": "マンマ・ミーア！ ヒア・ウィー・ゴー",
+          "sales": 15789,
+          "seats": 152089,
+          "showtimes": 1099,
+          "theaters": 270,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mission: Impossible - Fallout",
+          "japanese name": "ミッション：インポッシブル フォールアウト",
+          "sales": 15556,
+          "seats": 114740,
+          "showtimes": 807,
+          "theaters": 276,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ocean's 8",
+          "japanese name": "オーシャンズ８",
+          "sales": 9190,
+          "seats": 79390,
+          "showtimes": 582,
+          "theaters": 268,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Jurassic World / Kingdom of the Crystal Skull",
+          "japanese name": "ジュラシック・ワールド／炎の王国",
+          "sales": 6581,
+          "seats": 59486,
+          "showtimes": 472,
+          "theaters": 275,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 七つの大罪 天空の囚われ人",
+          "japanese name": "劇場版 七つの大罪 天空の囚われ人",
+          "sales": 5096,
+          "seats": 58622,
+          "showtimes": 465,
+          "theaters": 212,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Teacher Monarch",
+          "japanese name": "センセイ君主",
+          "sales": 4787,
+          "seats": 38850,
+          "showtimes": 279,
+          "theaters": 245,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Penguin Highway",
+          "japanese name": "ペンギン・ハイウェイ",
+          "sales": 4629,
+          "seats": 31505,
+          "showtimes": 269,
+          "theaters": 166,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Future of Mirai",
+          "japanese name": "未来のミライ",
+          "sales": 4582,
+          "seats": 49321,
+          "showtimes": 362,
+          "theaters": 268,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pocket Monsters The Movie: Everyone's Story",
+          "japanese name": "劇場版ポケットモンスター みんなの物語",
+          "sales": 3702,
+          "seats": 38532,
+          "showtimes": 282,
+          "theaters": 258,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Hero Academia THE MOVIE ~Two Heroes~",
+          "japanese name": "僕のヒーローアカデミア ＴＨＥ ＭＯＶＩＥ ～２人の英雄～",
+          "sales": 3555,
+          "seats": 39711,
+          "showtimes": 291,
+          "theaters": 245,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kaguya Moon Live @Zep VR LIVE VIEWING",
+          "japanese name": "輝夜 月 ライブ＠Ｚｅｐｐ ＶＲ ＬＩＶＥ ＶＩＥＷＩＮＧ",
+          "sales": 2306,
+          "seats": 2452,
+          "showtimes": 8,
+          "theaters": 6,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version of Nonnon Biyori: The Phantom Show",
+          "japanese name": "劇場版 のんのんびより ばけーしょん",
+          "sales": 1796,
+          "seats": 15031,
+          "showtimes": 89,
+          "theaters": 20,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Movie: Kamen Rider Build / Lupin Rangers vs. Patranger",
+          "japanese name": "劇場版 仮面ライダービルド／快盗戦隊ルパンレンジャー警察戦隊パトレンジャー",
+          "sales": 1594,
+          "seats": 40034,
+          "showtimes": 282,
+          "theaters": 245,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Little Heroes – Crabs, Eggs, and Invisibles –",
+          "japanese name": "ちいさな英雄－カニとタマゴと透明人間－",
+          "sales": 1247,
+          "seats": 40977,
+          "showtimes": 280,
+          "theaters": 103,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Drive Head ~Tomica Hyper Rescue: Mobile Emergency Police~",
+          "japanese name": "映画ドライブヘッド ～トミカハイパーレスキュー 機動救急警察～",
+          "sales": 1219,
+          "seats": 42044,
+          "showtimes": 294,
+          "theaters": 77,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Borg / MacKenro - The Man of Ice and the Man of Fire",
+          "japanese name": "ボルグ／マッケンロー 氷の男と炎の男",
+          "sales": 1214,
+          "seats": 13182,
+          "showtimes": 111,
+          "theaters": 27,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kaguya Moon VR Live @Zeppe VR LIVE VIEWING",
+          "japanese name": "輝夜月 ＶＲライブ＠Ｚｅｐｐ ＶＲ ＬＩＶＥ ＶＩＥＷＩＮＧ",
+          "sales": 1044,
+          "seats": 1052,
+          "showtimes": 4,
+          "theaters": 3,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bz 30th Anniversary Exhibition Scenes 1988–2018: Theatrical Version",
+          "japanese name": "Ｂｚ ３０ｔｈ Ｙｅａｒ Ｅｘｈｉｂｉｔｉｏｎ ＳＣＥＮＥＳ １９８８－２０１８ 劇場版",
+          "sales": 1016,
+          "seats": 4140,
+          "showtimes": 20,
+          "theaters": 12,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,773 @@
+{
+  "date": "17-12-2017",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Star Wars: The Last Jedi",
+          "japanese name": "スター・ウォーズ 最後のジェダイ",
+          "sales": 147440,
+          "seats": 310983,
+          "showtimes": 1262,
+          "theaters": 295,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Monster Watch: Shadow Side – The Resurrection of the Ghost King",
+          "japanese name": "映画 妖怪ウォッチ シャドウサイド 鬼王の復活",
+          "sales": 98308,
+          "seats": 270671,
+          "showtimes": 914,
+          "theaters": 284,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kamen Rider Heisei Generations FINAL",
+          "japanese name": "仮面ライダー平成ジェネレーションズ ＦＩＮＡＬ",
+          "sales": 45355,
+          "seats": 119284,
+          "showtimes": 745,
+          "theaters": 276,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "DESTINY: Kamakura Stories",
+          "japanese name": "ＤＥＳＴＩＮＹ 鎌倉ものがたり",
+          "sales": 40896,
+          "seats": 97512,
+          "showtimes": 650,
+          "theaters": 283,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Bride After 8 Years: A True Miracle Story",
+          "japanese name": "８年越しの花嫁 奇跡の実話",
+          "sales": 37166,
+          "seats": 106561,
+          "showtimes": 620,
+          "theaters": 271,
+          "rank": 5,
+          "last_week_ratio": 2837.1
+        },
+        {
+          "moviename": "The Orient Express Murder Case",
+          "japanese name": "オリエント急行殺人事件",
+          "sales": 19634,
+          "seats": 63274,
+          "showtimes": 477,
+          "theaters": 278,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Alchemist of Steel",
+          "japanese name": "鋼の錬金術師",
+          "sales": 12182,
+          "seats": 47172,
+          "showtimes": 389,
+          "theaters": 282,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Girls & Panzers: Final Chapter, Episode 1",
+          "japanese name": "ガールズ＆パンツァー 最終章 第１話",
+          "sales": 6259,
+          "seats": 20622,
+          "showtimes": 112,
+          "theaters": 50,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The detective is at the BAR with 3 others.",
+          "japanese name": "探偵はＢＡＲにいる３",
+          "sales": 6004,
+          "seats": 36553,
+          "showtimes": 302,
+          "theaters": 277,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "If IT “that thing” becomes visible, it’s over.",
+          "japanese name": "ＩＴ イット ’それ”が見えたら、終わり。",
+          "sales": 3132,
+          "seats": 7076,
+          "showtimes": 62,
+          "theaters": 179,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Justice League",
+          "japanese name": "ジャスティス・リーグ",
+          "sales": 2036,
+          "seats": 18555,
+          "showtimes": 153,
+          "theaters": 282,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kykyoku no Zorori ZZ (Double Z) no Himitsu",
+          "japanese name": "映画かいけつゾロリ ＺＺ（ダブルゼット）のひみつ",
+          "sales": 2010,
+          "seats": 17744,
+          "showtimes": 121,
+          "theaters": 102,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sparks",
+          "japanese name": "火花",
+          "sales": 1967,
+          "seats": 26306,
+          "showtimes": 203,
+          "theaters": 268,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The zoo that saved Jews: The lives Antonina loved",
+          "japanese name": "（字）ユダヤ人を救った動物園 アントニーナが愛した命",
+          "sales": 1149,
+          "seats": 6667,
+          "showtimes": 52,
+          "theaters": 31,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "High & Low: The Movie 3 – Final Mission",
+          "japanese name": "ＨｉＧＨ＆ＬＯＷ ＴＨＥ ＭＯＶＩＥ ３ ＦＩＮＡＬ ＭＩＳＳＩＯＮ",
+          "sales": 954,
+          "seats": 6472,
+          "showtimes": 49,
+          "theaters": 263,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Last Recipe ~The Memory of the Qilin's Tongue~",
+          "japanese name": "ラストレシピ ～麒麟の舌の記憶～",
+          "sales": 860,
+          "seats": 13569,
+          "showtimes": 104,
+          "theaters": 258,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Kirakira☆Princess Precure A La Mode: Sparkling! Memories of the Milfyue!",
+          "japanese name": "映画キラキラ☆プリキュアアラモード パリッと！想い出のミルフィーユ！",
+          "sales": 729,
+          "seats": 7381,
+          "showtimes": 49,
+          "theaters": 47,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "FOR REAL: I vowed that I would definitely return to that stage again.",
+          "japanese name": "ＦＯＲ ＲＥＡＬ 必ず戻ると誓った、あの舞台へ。",
+          "sales": 684,
+          "seats": 945,
+          "showtimes": 5,
+          "theaters": 6,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mix.",
+          "japanese name": "ミックス。",
+          "sales": 676,
+          "seats": 7906,
+          "showtimes": 61,
+          "theaters": 143,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gifted/Gifted",
+          "japanese name": "ｇｉｆｔｅｄ／ギフテッド",
+          "sales": 671,
+          "seats": 2669,
+          "showtimes": 20,
+          "theaters": 45,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Is your order a rabbit?? Dear My Sister",
+          "japanese name": "ご注文はうさぎですか？？ Ｄｅａｒ Ｍｙ Ｓｉｓｔｅｒ",
+          "sales": 655,
+          "seats": 4091,
+          "showtimes": 27,
+          "theaters": 34,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Special Edition Free! – Take Your Marks –",
+          "japanese name": "特別版 Ｆｒｅｅ！－Ｔａｋｅ Ｙｏｕｒ Ｍａｒｋｓ－",
+          "sales": 589,
+          "seats": 2323,
+          "showtimes": 13,
+          "theaters": 27,
+          "rank": 22,
+          "last_week_ratio": 561
+        },
+        {
+          "moviename": "Negation and Affirmation",
+          "japanese name": "否定と肯定",
+          "sales": 585,
+          "seats": 1399,
+          "showtimes": 11,
+          "theaters": 17,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "KUBO/クボ: The Secret of Two Strings",
+          "japanese name": "ＫＵＢＯ／クボ 二本の弦の秘密",
+          "sales": 485,
+          "seats": 1735,
+          "showtimes": 16,
+          "theaters": 30,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "GOODZILLA: Planet of the Monsters",
+          "japanese name": "ＧＯＤＺＩＬＬＡ 怪獣惑星",
+          "sales": 466,
+          "seats": 9149,
+          "showtimes": 56,
+          "theaters": 139,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Star Wars: The Last Jedi",
+          "japanese name": "スター・ウォーズ 最後のジェダイ",
+          "sales": 251431,
+          "seats": 565388,
+          "showtimes": 2244,
+          "theaters": 294,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Monster Watch: Shadow Side – The Resurrection of the Ghost King",
+          "japanese name": "映画 妖怪ウォッチ シャドウサイド 鬼王の復活",
+          "sales": 133507,
+          "seats": 434889,
+          "showtimes": 1525,
+          "theaters": 283,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Bride After 8 Years: A True Miracle Story",
+          "japanese name": "８年越しの花嫁 奇跡の実話",
+          "sales": 70925,
+          "seats": 187835,
+          "showtimes": 1075,
+          "theaters": 271,
+          "rank": 3,
+          "last_week_ratio": 3929.4
+        },
+        {
+          "moviename": "DESTINY: Kamakura Stories",
+          "japanese name": "ＤＥＳＴＩＮＹ 鎌倉ものがたり",
+          "sales": 70600,
+          "seats": 174528,
+          "showtimes": 1161,
+          "theaters": 282,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kamen Rider Heisei Generations FINAL",
+          "japanese name": "仮面ライダー平成ジェネレーションズ ＦＩＮＡＬ",
+          "sales": 60155,
+          "seats": 166438,
+          "showtimes": 1050,
+          "theaters": 274,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Orient Express Murder Case",
+          "japanese name": "オリエント急行殺人事件",
+          "sales": 34838,
+          "seats": 109825,
+          "showtimes": 805,
+          "theaters": 278,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Alchemist of Steel",
+          "japanese name": "鋼の錬金術師",
+          "sales": 20746,
+          "seats": 89088,
+          "showtimes": 710,
+          "theaters": 281,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Girls & Panzers: Final Chapter, Episode 1",
+          "japanese name": "ガールズ＆パンツァー 最終章 第１話",
+          "sales": 11235,
+          "seats": 38534,
+          "showtimes": 204,
+          "theaters": 50,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The detective is at the BAR with 3 others.",
+          "japanese name": "探偵はＢＡＲにいる３",
+          "sales": 10349,
+          "seats": 65295,
+          "showtimes": 524,
+          "theaters": 276,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "GENERATIONS LIVE TOUR 2016 SPEEDSTER",
+          "japanese name": "ＧＥＮＥＲＡＴＩＯＮＳ ＬＩＶＥ ＴＯＵＲ ２０１６ ＳＰＥＥＤＳＴＥＲ",
+          "sales": 10117,
+          "seats": 17427,
+          "showtimes": 120,
+          "theaters": 120,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "If IT “that thing” becomes visible, it’s over.",
+          "japanese name": "ＩＴ イット ’それ”が見えたら、終わり。",
+          "sales": 8423,
+          "seats": 23821,
+          "showtimes": 179,
+          "theaters": 178,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Justice League",
+          "japanese name": "ジャスティス・リーグ",
+          "sales": 4842,
+          "seats": 43318,
+          "showtimes": 332,
+          "theaters": 282,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sparks",
+          "japanese name": "火花",
+          "sales": 4415,
+          "seats": 52973,
+          "showtimes": 395,
+          "theaters": 268,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "GENERATIONS LIVE TOUR 2017 MAD CYCLONE Live Viewing",
+          "japanese name": "ＧＥＮＥＲＡＴＩＯＮＳ ＬＩＶＥ ＴＯＵＲ ２０１７ ＭＡＤ ＣＹＣＬＯＮＥ ライブビューイング",
+          "sales": 3836,
+          "seats": 6161,
+          "showtimes": 43,
+          "theaters": 44,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "High & Low: The Movie 3 – Final Mission",
+          "japanese name": "ＨｉＧＨ＆ＬＯＷ ＴＨＥ ＭＯＶＩＥ ３ ＦＩＮＡＬ ＭＩＳＳＩＯＮ",
+          "sales": 3011,
+          "seats": 23649,
+          "showtimes": 172,
+          "theaters": 262,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kykyoku no Zorori ZZ (Double Z) no Himitsu",
+          "japanese name": "映画かいけつゾロリ ＺＺ（ダブルゼット）のひみつ",
+          "sales": 2570,
+          "seats": 21651,
+          "showtimes": 146,
+          "theaters": 102,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The zoo that saved Jews: The lives Antonina loved",
+          "japanese name": "（字）ユダヤ人を救った動物園 アントニーナが愛した命",
+          "sales": 1916,
+          "seats": 13223,
+          "showtimes": 104,
+          "theaters": 31,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Last Recipe ~The Memory of the Qilin's Tongue~",
+          "japanese name": "ラストレシピ ～麒麟の舌の記憶～",
+          "sales": 1569,
+          "seats": 25386,
+          "showtimes": 189,
+          "theaters": 258,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gifted/Gifted",
+          "japanese name": "ｇｉｆｔｅｄ／ギフテッド",
+          "sales": 1375,
+          "seats": 6031,
+          "showtimes": 40,
+          "theaters": 45,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "FOR REAL: I vowed that I would definitely return to that stage again.",
+          "japanese name": "ＦＯＲ ＲＥＡＬ 必ず戻ると誓った、あの舞台へ。",
+          "sales": 1334,
+          "seats": 1911,
+          "showtimes": 9,
+          "theaters": 6,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Is your order a rabbit?? Dear My Sister",
+          "japanese name": "ご注文はうさぎですか？？ Ｄｅａｒ Ｍｙ Ｓｉｓｔｅｒ",
+          "sales": 1195,
+          "seats": 6608,
+          "showtimes": 45,
+          "theaters": 34,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mix.",
+          "japanese name": "ミックス。",
+          "sales": 1101,
+          "seats": 13303,
+          "showtimes": 104,
+          "theaters": 143,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Negation and Affirmation",
+          "japanese name": "否定と肯定",
+          "sales": 1052,
+          "seats": 3037,
+          "showtimes": 23,
+          "theaters": 17,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "GOODZILLA: Planet of the Monsters",
+          "japanese name": "ＧＯＤＺＩＬＬＡ 怪獣惑星",
+          "sales": 904,
+          "seats": 14946,
+          "showtimes": 90,
+          "theaters": 139,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Special Edition Free! – Take Your Marks –",
+          "japanese name": "特別版 Ｆｒｅｅ！－Ｔａｋｅ Ｙｏｕｒ Ｍａｒｋｓ－",
+          "sales": 885,
+          "seats": 4334,
+          "showtimes": 27,
+          "theaters": 27,
+          "rank": 25,
+          "last_week_ratio": 429.6
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Star Wars: The Last Jedi",
+          "japanese name": "スター・ウォーズ 最後のジェダイ",
+          "sales": 284899,
+          "seats": 736627,
+          "showtimes": 2875,
+          "theaters": 292,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Monster Watch: Shadow Side – The Resurrection of the Ghost King",
+          "japanese name": "映画 妖怪ウォッチ シャドウサイド 鬼王の復活",
+          "sales": 134093,
+          "seats": 450723,
+          "showtimes": 1595,
+          "theaters": 282,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Bride After 8 Years: A True Miracle Story",
+          "japanese name": "８年越しの花嫁 奇跡の実話",
+          "sales": 77098,
+          "seats": 235506,
+          "showtimes": 1347,
+          "theaters": 270,
+          "rank": 3,
+          "last_week_ratio": 3764.6
+        },
+        {
+          "moviename": "DESTINY: Kamakura Stories",
+          "japanese name": "ＤＥＳＴＩＮＹ 鎌倉ものがたり",
+          "sales": 73744,
+          "seats": 216937,
+          "showtimes": 1434,
+          "theaters": 281,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kamen Rider Heisei Generations FINAL",
+          "japanese name": "仮面ライダー平成ジェネレーションズ ＦＩＮＡＬ",
+          "sales": 60440,
+          "seats": 170866,
+          "showtimes": 1072,
+          "theaters": 274,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Orient Express Murder Case",
+          "japanese name": "オリエント急行殺人事件",
+          "sales": 37456,
+          "seats": 147750,
+          "showtimes": 1060,
+          "theaters": 276,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Alchemist of Steel",
+          "japanese name": "鋼の錬金術師",
+          "sales": 21957,
+          "seats": 122965,
+          "showtimes": 947,
+          "theaters": 280,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Girls & Panzers: Final Chapter, Episode 1",
+          "japanese name": "ガールズ＆パンツァー 最終章 第１話",
+          "sales": 12427,
+          "seats": 49444,
+          "showtimes": 256,
+          "theaters": 50,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The detective is at the BAR with 3 others.",
+          "japanese name": "探偵はＢＡＲにいる３",
+          "sales": 11332,
+          "seats": 94046,
+          "showtimes": 732,
+          "theaters": 275,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "GENERATIONS LIVE TOUR 2016 SPEEDSTER",
+          "japanese name": "ＧＥＮＥＲＡＴＩＯＮＳ ＬＩＶＥ ＴＯＵＲ ２０１６ ＳＰＥＥＤＳＴＥＲ",
+          "sales": 10117,
+          "seats": 17427,
+          "showtimes": 120,
+          "theaters": 120,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "If IT “that thing” becomes visible, it’s over.",
+          "japanese name": "ＩＴ イット ’それ”が見えたら、終わり。",
+          "sales": 9417,
+          "seats": 36977,
+          "showtimes": 259,
+          "theaters": 177,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Justice League",
+          "japanese name": "ジャスティス・リーグ",
+          "sales": 5857,
+          "seats": 73449,
+          "showtimes": 531,
+          "theaters": 282,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sparks",
+          "japanese name": "火花",
+          "sales": 4760,
+          "seats": 68461,
+          "showtimes": 510,
+          "theaters": 268,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "GENERATIONS LIVE TOUR 2017 MAD CYCLONE Live Viewing",
+          "japanese name": "ＧＥＮＥＲＡＴＩＯＮＳ ＬＩＶＥ ＴＯＵＲ ２０１７ ＭＡＤ ＣＹＣＬＯＮＥ ライブビューイング",
+          "sales": 3836,
+          "seats": 6161,
+          "showtimes": 43,
+          "theaters": 44,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "High & Low: The Movie 3 – Final Mission",
+          "japanese name": "ＨｉＧＨ＆ＬＯＷ ＴＨＥ ＭＯＶＩＥ ３ ＦＩＮＡＬ ＭＩＳＳＩＯＮ",
+          "sales": 3637,
+          "seats": 38216,
+          "showtimes": 265,
+          "theaters": 261,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kykyoku no Zorori ZZ (Double Z) no Himitsu",
+          "japanese name": "映画かいけつゾロリ ＺＺ（ダブルゼット）のひみつ",
+          "sales": 2570,
+          "seats": 21651,
+          "showtimes": 146,
+          "theaters": 102,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The zoo that saved Jews: The lives Antonina loved",
+          "japanese name": "（字）ユダヤ人を救った動物園 アントニーナが愛した命",
+          "sales": 2010,
+          "seats": 16410,
+          "showtimes": 129,
+          "theaters": 31,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Last Recipe ~The Memory of the Qilin's Tongue~",
+          "japanese name": "ラストレシピ ～麒麟の舌の記憶～",
+          "sales": 1759,
+          "seats": 35999,
+          "showtimes": 256,
+          "theaters": 258,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gifted/Gifted",
+          "japanese name": "ｇｉｆｔｅｄ／ギフテッド",
+          "sales": 1645,
+          "seats": 8461,
+          "showtimes": 52,
+          "theaters": 45,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "FOR REAL: I vowed that I would definitely return to that stage again.",
+          "japanese name": "ＦＯＲ ＲＥＡＬ 必ず戻ると誓った、あの舞台へ。",
+          "sales": 1513,
+          "seats": 3222,
+          "showtimes": 14,
+          "theaters": 6,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Is your order a rabbit?? Dear My Sister",
+          "japanese name": "ご注文はうさぎですか？？ Ｄｅａｒ Ｍｙ Ｓｉｓｔｅｒ",
+          "sales": 1334,
+          "seats": 8257,
+          "showtimes": 55,
+          "theaters": 34,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "GOODZILLA: Planet of the Monsters",
+          "japanese name": "ＧＯＤＺＩＬＬＡ 怪獣惑星",
+          "sales": 1288,
+          "seats": 23599,
+          "showtimes": 144,
+          "theaters": 139,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mix.",
+          "japanese name": "ミックス。",
+          "sales": 1256,
+          "seats": 19894,
+          "showtimes": 144,
+          "theaters": 143,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Negation and Affirmation",
+          "japanese name": "否定と肯定",
+          "sales": 1081,
+          "seats": 3474,
+          "showtimes": 26,
+          "theaters": 17,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "KUBO/クボ: The Secret of Two Strings",
+          "japanese name": "ＫＵＢＯ／クボ 二本の弦の秘密",
+          "sales": 1018,
+          "seats": 4090,
+          "showtimes": 36,
+          "theaters": 30,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

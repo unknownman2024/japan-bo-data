@@ -1,0 +1,773 @@
+{
+  "date": "22-03-2018",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Boss Baby",
+          "japanese name": "ボス・ベイビー",
+          "sales": 28581,
+          "seats": 145844,
+          "showtimes": 714,
+          "theaters": 272,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Doraemon 2018: Nobita's Treasure Island",
+          "japanese name": "ドラえもん ２０１８ のび太の宝島",
+          "sales": 28142,
+          "seats": 201815,
+          "showtimes": 756,
+          "theaters": 274,
+          "rank": 2,
+          "last_week_ratio": 306.2
+        },
+        {
+          "moviename": "Remember Me",
+          "japanese name": "リメンバー・ミー",
+          "sales": 19493,
+          "seats": 225458,
+          "showtimes": 775,
+          "theaters": 285,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Chihayafuru – Conclusion –",
+          "japanese name": "ちはやふる－結び－",
+          "sales": 13948,
+          "seats": 92543,
+          "showtimes": 547,
+          "theaters": 254,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Northern Cherry Guardian",
+          "japanese name": "北の桜守",
+          "sales": 9921,
+          "seats": 61202,
+          "showtimes": 496,
+          "theaters": 265,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Precure Superstars!",
+          "japanese name": "映画プリキュアスーパースターズ！",
+          "sales": 8378,
+          "seats": 93141,
+          "showtimes": 521,
+          "theaters": 181,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tom Raider: First Mission",
+          "japanese name": "トゥームレイダー ファースト・ミッション",
+          "sales": 8343,
+          "seats": 75536,
+          "showtimes": 509,
+          "theaters": 257,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Greatest Showman",
+          "japanese name": "グレイテスト・ショーマン",
+          "sales": 5897,
+          "seats": 27541,
+          "showtimes": 172,
+          "theaters": 279,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Last winter, I said goodbye to you.",
+          "japanese name": "去年の冬、きみと別れ",
+          "sales": 3318,
+          "seats": 34484,
+          "showtimes": 274,
+          "theaters": 273,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Laughing on a cloudy day",
+          "japanese name": "曇天に笑う",
+          "sales": 3231,
+          "seats": 78152,
+          "showtimes": 509,
+          "theaters": 256,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ku-Kai - Beautiful Queen's Mystery",
+          "japanese name": "空海－ＫＵ－ＫＡＩ－ 美しき王妃の謎",
+          "sales": 3093,
+          "seats": 31468,
+          "showtimes": 263,
+          "theaters": 253,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Apollo on the Slope",
+          "japanese name": "坂道のアポロン",
+          "sales": 2003,
+          "seats": 32869,
+          "showtimes": 290,
+          "theaters": 242,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Movie: Shimmerland: The Great Adventure of the Magic Island",
+          "japanese name": "映画しまじろう まほうのしまの だいぼうけん",
+          "sales": 1722,
+          "seats": 29748,
+          "showtimes": 202,
+          "theaters": 116,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Panther",
+          "japanese name": "ブラックパンサー",
+          "sales": 1491,
+          "seats": 18613,
+          "showtimes": 150,
+          "theaters": 280,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Shape of Water",
+          "japanese name": "シェイプ・オブ・ウォーター",
+          "sales": 1067,
+          "seats": 7857,
+          "showtimes": 53,
+          "theaters": 205,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ultra Man Gaiden: The Movie – Let’s Connect Wishes!!!",
+          "japanese name": "劇場版 ウルトラマンジード つなぐぜ！願い！！",
+          "sales": 647,
+          "seats": 17432,
+          "showtimes": 125,
+          "theaters": 72,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Principal, am I the heroine who is in love?",
+          "japanese name": "プリンシパル 恋する私はヒロインですか？",
+          "sales": 633,
+          "seats": 5071,
+          "showtimes": 44,
+          "theaters": 133,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "15:17, heading to Paris",
+          "japanese name": "１５時１７分、パリ行き",
+          "sales": 630,
+          "seats": 8925,
+          "showtimes": 67,
+          "theaters": 201,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bunshou Stray Dogs DEAD APPLE",
+          "japanese name": "文豪ストレイドッグス ＤＥＡＤ ＡＰＰＬＥ",
+          "sales": 547,
+          "seats": 5249,
+          "showtimes": 35,
+          "theaters": 62,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ultraman Orb Theatrical Movie: Please Give Me the Power of Bonds!",
+          "japanese name": "劇場版 ウルトラマンオーブ 絆の力、おかりします！",
+          "sales": 472,
+          "seats": 7039,
+          "showtimes": 46,
+          "theaters": 23,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "RAD WIMPS GRAND PRIX 2014 Live Broadcast",
+          "japanese name": "ＲＡＤ ＷＩＭＰＳ ＧＲＡＮＤ ＰＲＩＸ２０１４ 実況生中継",
+          "sales": 435,
+          "seats": 709,
+          "showtimes": 5,
+          "theaters": 2,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tonight, at the Romance Theater",
+          "japanese name": "今夜、ロマンス劇場で",
+          "sales": 214,
+          "seats": 4487,
+          "showtimes": 26,
+          "theaters": 147,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let’s arrange the promised flowers on this farewell morning.",
+          "japanese name": "さよならの朝に約束の花をかざろう",
+          "sales": 198,
+          "seats": 1847,
+          "showtimes": 10,
+          "theaters": 65,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Happiness Paints Love-Drawing Person Model Lewis",
+          "japanese name": "しあわせの絵の具 愛を描く人 モードルイス",
+          "sales": 171,
+          "seats": 1119,
+          "showtimes": 7,
+          "theaters": 17,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Butler Book of Murder First Volume",
+          "japanese name": "黒執事 Ｂｏｏｋ ｏｆ Ｍｕｒｄｅｒ 上巻",
+          "sales": 161,
+          "seats": 995,
+          "showtimes": 4,
+          "theaters": 2,
+          "rank": 25,
+          "last_week_ratio": 161
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Boss Baby",
+          "japanese name": "ボス・ベイビー",
+          "sales": 47153,
+          "seats": 245695,
+          "showtimes": 1207,
+          "theaters": 272,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Remember Me",
+          "japanese name": "リメンバー・ミー",
+          "sales": 35130,
+          "seats": 419245,
+          "showtimes": 1417,
+          "theaters": 284,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Doraemon 2018: Nobita's Treasure Island",
+          "japanese name": "ドラえもん ２０１８ のび太の宝島",
+          "sales": 34880,
+          "seats": 321512,
+          "showtimes": 1220,
+          "theaters": 272,
+          "rank": 3,
+          "last_week_ratio": 244.6
+        },
+        {
+          "moviename": "Chihayafuru – Conclusion –",
+          "japanese name": "ちはやふる－結び－",
+          "sales": 24819,
+          "seats": 171936,
+          "showtimes": 1002,
+          "theaters": 254,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Greatest Showman",
+          "japanese name": "グレイテスト・ショーマン",
+          "sales": 16394,
+          "seats": 70817,
+          "showtimes": 418,
+          "theaters": 279,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tom Raider: First Mission",
+          "japanese name": "トゥームレイダー ファースト・ミッション",
+          "sales": 12736,
+          "seats": 145536,
+          "showtimes": 953,
+          "theaters": 257,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Northern Cherry Guardian",
+          "japanese name": "北の桜守",
+          "sales": 12049,
+          "seats": 91054,
+          "showtimes": 732,
+          "theaters": 263,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Precure Superstars!",
+          "japanese name": "映画プリキュアスーパースターズ！",
+          "sales": 9782,
+          "seats": 121289,
+          "showtimes": 687,
+          "theaters": 179,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Last winter, I said goodbye to you.",
+          "japanese name": "去年の冬、きみと別れ",
+          "sales": 7551,
+          "seats": 71650,
+          "showtimes": 563,
+          "theaters": 273,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Laughing on a cloudy day",
+          "japanese name": "曇天に笑う",
+          "sales": 5191,
+          "seats": 140873,
+          "showtimes": 910,
+          "theaters": 255,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ku-Kai - Beautiful Queen's Mystery",
+          "japanese name": "空海－ＫＵ－ＫＡＩ－ 美しき王妃の謎",
+          "sales": 4545,
+          "seats": 57568,
+          "showtimes": 453,
+          "theaters": 253,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Panther",
+          "japanese name": "ブラックパンサー",
+          "sales": 4493,
+          "seats": 53194,
+          "showtimes": 408,
+          "theaters": 280,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Apollo on the Slope",
+          "japanese name": "坂道のアポロン",
+          "sales": 3401,
+          "seats": 64131,
+          "showtimes": 549,
+          "theaters": 242,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Shape of Water",
+          "japanese name": "シェイプ・オブ・ウォーター",
+          "sales": 2830,
+          "seats": 28990,
+          "showtimes": 195,
+          "theaters": 204,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Movie: Shimmerland: The Great Adventure of the Magic Island",
+          "japanese name": "映画しまじろう まほうのしまの だいぼうけん",
+          "sales": 1873,
+          "seats": 33675,
+          "showtimes": 233,
+          "theaters": 116,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Principal, am I the heroine who is in love?",
+          "japanese name": "プリンシパル 恋する私はヒロインですか？",
+          "sales": 1704,
+          "seats": 15955,
+          "showtimes": 122,
+          "theaters": 133,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "15:17, heading to Paris",
+          "japanese name": "１５時１７分、パリ行き",
+          "sales": 1672,
+          "seats": 25008,
+          "showtimes": 178,
+          "theaters": 201,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bunshou Stray Dogs DEAD APPLE",
+          "japanese name": "文豪ストレイドッグス ＤＥＡＤ ＡＰＰＬＥ",
+          "sales": 1590,
+          "seats": 11743,
+          "showtimes": 81,
+          "theaters": 62,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let’s arrange the promised flowers on this farewell morning.",
+          "japanese name": "さよならの朝に約束の花をかざろう",
+          "sales": 1120,
+          "seats": 7787,
+          "showtimes": 51,
+          "theaters": 64,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ultra Man Gaiden: The Movie – Let’s Connect Wishes!!!",
+          "japanese name": "劇場版 ウルトラマンジード つなぐぜ！願い！！",
+          "sales": 799,
+          "seats": 21346,
+          "showtimes": 153,
+          "theaters": 72,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ultraman Orb Theatrical Movie: Please Give Me the Power of Bonds!",
+          "japanese name": "劇場版 ウルトラマンオーブ 絆の力、おかりします！",
+          "sales": 682,
+          "seats": 9341,
+          "showtimes": 64,
+          "theaters": 23,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tonight, at the Romance Theater",
+          "japanese name": "今夜、ロマンス劇場で",
+          "sales": 609,
+          "seats": 10420,
+          "showtimes": 71,
+          "theaters": 145,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "RAD WIMPS GRAND PRIX 2014 Live Broadcast",
+          "japanese name": "ＲＡＤ ＷＩＭＰＳ ＧＲＡＮＤ ＰＲＩＸ２０１４ 実況生中継",
+          "sales": 477,
+          "seats": 925,
+          "showtimes": 7,
+          "theaters": 2,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Happiness Paints Love-Drawing Person Model Lewis",
+          "japanese name": "しあわせの絵の具 愛を描く人 モードルイス",
+          "sales": 382,
+          "seats": 2590,
+          "showtimes": 14,
+          "theaters": 17,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Butler Book of Murder First Volume",
+          "japanese name": "黒執事 Ｂｏｏｋ ｏｆ Ｍｕｒｄｅｒ 上巻",
+          "sales": 331,
+          "seats": 1841,
+          "showtimes": 7,
+          "theaters": 2,
+          "rank": 25,
+          "last_week_ratio": 136.8
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Boss Baby",
+          "japanese name": "ボス・ベイビー",
+          "sales": 50022,
+          "seats": 287010,
+          "showtimes": 1404,
+          "theaters": 271,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Remember Me",
+          "japanese name": "リメンバー・ミー",
+          "sales": 39026,
+          "seats": 518355,
+          "showtimes": 1747,
+          "theaters": 282,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Doraemon 2018: Nobita's Treasure Island",
+          "japanese name": "ドラえもん ２０１８ のび太の宝島",
+          "sales": 34979,
+          "seats": 327129,
+          "showtimes": 1247,
+          "theaters": 272,
+          "rank": 3,
+          "last_week_ratio": 241.8
+        },
+        {
+          "moviename": "Chihayafuru – Conclusion –",
+          "japanese name": "ちはやふる－結び－",
+          "sales": 26459,
+          "seats": 215827,
+          "showtimes": 1250,
+          "theaters": 254,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Greatest Showman",
+          "japanese name": "グレイテスト・ショーマン",
+          "sales": 20145,
+          "seats": 104317,
+          "showtimes": 590,
+          "theaters": 277,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tom Raider: First Mission",
+          "japanese name": "トゥームレイダー ファースト・ミッション",
+          "sales": 14417,
+          "seats": 194435,
+          "showtimes": 1229,
+          "theaters": 257,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Northern Cherry Guardian",
+          "japanese name": "北の桜守",
+          "sales": 12087,
+          "seats": 94427,
+          "showtimes": 757,
+          "theaters": 263,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Precure Superstars!",
+          "japanese name": "映画プリキュアスーパースターズ！",
+          "sales": 9803,
+          "seats": 122301,
+          "showtimes": 692,
+          "theaters": 179,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Last winter, I said goodbye to you.",
+          "japanese name": "去年の冬、きみと別れ",
+          "sales": 8671,
+          "seats": 105867,
+          "showtimes": 811,
+          "theaters": 271,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Laughing on a cloudy day",
+          "japanese name": "曇天に笑う",
+          "sales": 6031,
+          "seats": 192455,
+          "showtimes": 1208,
+          "theaters": 254,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Panther",
+          "japanese name": "ブラックパンサー",
+          "sales": 6011,
+          "seats": 90216,
+          "showtimes": 647,
+          "theaters": 279,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ku-Kai - Beautiful Queen's Mystery",
+          "japanese name": "空海－ＫＵ－ＫＡＩ－ 美しき王妃の謎",
+          "sales": 5022,
+          "seats": 70508,
+          "showtimes": 538,
+          "theaters": 253,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Apollo on the Slope",
+          "japanese name": "坂道のアポロン",
+          "sales": 3774,
+          "seats": 87321,
+          "showtimes": 726,
+          "theaters": 242,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Shape of Water",
+          "japanese name": "シェイプ・オブ・ウォーター",
+          "sales": 3604,
+          "seats": 44653,
+          "showtimes": 285,
+          "theaters": 203,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "15:17, heading to Paris",
+          "japanese name": "１５時１７分、パリ行き",
+          "sales": 2220,
+          "seats": 42719,
+          "showtimes": 275,
+          "theaters": 201,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Movie: Shimmerland: The Great Adventure of the Magic Island",
+          "japanese name": "映画しまじろう まほうのしまの だいぼうけん",
+          "sales": 1873,
+          "seats": 33675,
+          "showtimes": 233,
+          "theaters": 116,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Principal, am I the heroine who is in love?",
+          "japanese name": "プリンシパル 恋する私はヒロインですか？",
+          "sales": 1842,
+          "seats": 19704,
+          "showtimes": 144,
+          "theaters": 133,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bunshou Stray Dogs DEAD APPLE",
+          "japanese name": "文豪ストレイドッグス ＤＥＡＤ ＡＰＰＬＥ",
+          "sales": 1841,
+          "seats": 15656,
+          "showtimes": 105,
+          "theaters": 62,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let’s arrange the promised flowers on this farewell morning.",
+          "japanese name": "さよならの朝に約束の花をかざろう",
+          "sales": 1473,
+          "seats": 11084,
+          "showtimes": 69,
+          "theaters": 64,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tonight, at the Romance Theater",
+          "japanese name": "今夜、ロマンス劇場で",
+          "sales": 909,
+          "seats": 22127,
+          "showtimes": 145,
+          "theaters": 145,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ultra Man Gaiden: The Movie – Let’s Connect Wishes!!!",
+          "japanese name": "劇場版 ウルトラマンジード つなぐぜ！願い！！",
+          "sales": 799,
+          "seats": 21546,
+          "showtimes": 154,
+          "theaters": 72,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ultraman Orb Theatrical Movie: Please Give Me the Power of Bonds!",
+          "japanese name": "劇場版 ウルトラマンオーブ 絆の力、おかりします！",
+          "sales": 685,
+          "seats": 9529,
+          "showtimes": 65,
+          "theaters": 23,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "RAD WIMPS GRAND PRIX 2014 Live Broadcast",
+          "japanese name": "ＲＡＤ ＷＩＭＰＳ ＧＲＡＮＤ ＰＲＩＸ２０１４ 実況生中継",
+          "sales": 477,
+          "seats": 925,
+          "showtimes": 7,
+          "theaters": 2,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Happiness Paints Love-Drawing Person Model Lewis",
+          "japanese name": "しあわせの絵の具 愛を描く人 モードルイス",
+          "sales": 421,
+          "seats": 3536,
+          "showtimes": 21,
+          "theaters": 17,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "When the curtain of prayer falls",
+          "japanese name": "祈りの幕が下りる時",
+          "sales": 400,
+          "seats": 28205,
+          "showtimes": 176,
+          "theaters": 180,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

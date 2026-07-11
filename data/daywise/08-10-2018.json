@@ -1,0 +1,773 @@
+{
+  "date": "08-10-2018",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Pooh and the grown-up me",
+          "japanese name": "プーと大人になった僕",
+          "sales": 22870,
+          "seats": 74254,
+          "showtimes": 439,
+          "theaters": 274,
+          "rank": 1,
+          "last_week_ratio": 135.6
+        },
+        {
+          "moviename": "Theatrical Version: Nekomonogatari: Shiro no Naka no Yoru ni",
+          "japanese name": "劇場版 夏目友人帳 うつせみに結ぶ",
+          "sales": 20942,
+          "seats": 52395,
+          "showtimes": 230,
+          "theaters": 119,
+          "rank": 2,
+          "last_week_ratio": 178.7
+        },
+        {
+          "moviename": "Monster Strike THE MOVIE Sorano Kanata",
+          "japanese name": "モンスターストライク ＴＨＥ ＭＯＶＩＥ ソラノカナタ",
+          "sales": 20470,
+          "seats": 227163,
+          "showtimes": 710,
+          "theaters": 269,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Perfect World The Miracle of Being With You",
+          "japanese name": "パーフェクトワールド 君といる奇跡",
+          "sales": 18496,
+          "seats": 147674,
+          "showtimes": 623,
+          "theaters": 265,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Scattered camellias",
+          "japanese name": "散り椿",
+          "sales": 16396,
+          "seats": 107399,
+          "showtimes": 626,
+          "theaters": 262,
+          "rank": 5,
+          "last_week_ratio": 141.6
+        },
+        {
+          "moviename": "Before the coffee cools down",
+          "japanese name": "コーヒーが冷めないうちに",
+          "sales": 16113,
+          "seats": 62314,
+          "showtimes": 442,
+          "theaters": 251,
+          "rank": 6,
+          "last_week_ratio": 150.6
+        },
+        {
+          "moviename": "That girl’s obsession.",
+          "japanese name": "あのコの、トリコ。",
+          "sales": 12081,
+          "seats": 43645,
+          "showtimes": 266,
+          "theaters": 122,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Equalizer 2",
+          "japanese name": "イコライザー２",
+          "sales": 11084,
+          "seats": 52377,
+          "showtimes": 293,
+          "theaters": 149,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Quiet Place",
+          "japanese name": "クワイエット・プレイス",
+          "sales": 10321,
+          "seats": 32536,
+          "showtimes": 215,
+          "theaters": 159,
+          "rank": 9,
+          "last_week_ratio": 158.6
+        },
+        {
+          "moviename": "Re: Zero Starting Life in a Different World Memory Snow",
+          "japanese name": "Ｒｅ：ゼロから始める異世界生活 Ｍｅｍｏｒｙ Ｓｎｏｗ",
+          "sales": 8648,
+          "seats": 47352,
+          "showtimes": 157,
+          "theaters": 62,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Everyday is a Good Day",
+          "japanese name": "日日是好日",
+          "sales": 8334,
+          "seats": 29532,
+          "showtimes": 159,
+          "theaters": 117,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Don’t stop the camera!",
+          "japanese name": "カメラを止めるな！",
+          "sales": 7381,
+          "seats": 16559,
+          "showtimes": 101,
+          "theaters": 172,
+          "rank": 12,
+          "last_week_ratio": 284.2
+        },
+        {
+          "moviename": "If the housewife is a primary school student!",
+          "japanese name": "若おかみは小学生！",
+          "sales": 6896,
+          "seats": 30536,
+          "showtimes": 213,
+          "theaters": 203,
+          "rank": 13,
+          "last_week_ratio": 147.8
+        },
+        {
+          "moviename": "Back then, I pursued you.",
+          "japanese name": "あの頃、君を追いかけた",
+          "sales": 5474,
+          "seats": 30854,
+          "showtimes": 179,
+          "theaters": 95,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gintama 2: Rules are made to be broken",
+          "japanese name": "銀魂２ 掟は破るためにこそある",
+          "sales": 4035,
+          "seats": 11896,
+          "showtimes": 87,
+          "theaters": 264,
+          "rank": 15,
+          "last_week_ratio": 143.6
+        },
+        {
+          "moviename": "The prosecution’s view of the criminal",
+          "japanese name": "検察側の罪人",
+          "sales": 3952,
+          "seats": 21406,
+          "showtimes": 163,
+          "theaters": 259,
+          "rank": 16,
+          "last_week_ratio": 129.8
+        },
+        {
+          "moviename": "MEG The Monster",
+          "japanese name": "ＭＥＧ ザ・モンスター",
+          "sales": 3845,
+          "seats": 16334,
+          "showtimes": 114,
+          "theaters": 220,
+          "rank": 17,
+          "last_week_ratio": 130.6
+        },
+        {
+          "moviename": "DTC: Soup Steaming Away… Pure and Innocent… fröm HİGH & LOw",
+          "japanese name": "ＤＴＣ 湯けむり純情篇 ｆｒｏｍ ＨｉＧＨ＆ＬＯＷ",
+          "sales": 3450,
+          "seats": 18248,
+          "showtimes": 134,
+          "theaters": 130,
+          "rank": 18,
+          "last_week_ratio": 200.7
+        },
+        {
+          "moviename": "Incredible Family",
+          "japanese name": "インクレディブル・ファミリー",
+          "sales": 3088,
+          "seats": 14277,
+          "showtimes": 102,
+          "theaters": 139,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version of Code Blue: Doctor Helicopter Emergency Rescue",
+          "japanese name": "劇場版コード・ブルー －ドクターヘリ緊急救命－",
+          "sales": 2857,
+          "seats": 12601,
+          "showtimes": 88,
+          "theaters": 261,
+          "rank": 20,
+          "last_week_ratio": 127.5
+        },
+        {
+          "moviename": "Bang – HIBIKI –",
+          "japanese name": "響－ＨＩＢＩＫＩ－",
+          "sales": 1916,
+          "seats": 13025,
+          "showtimes": 106,
+          "theaters": 247,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SUNNY: Strong Feelings, Strong Love",
+          "japanese name": "ＳＵＮＮＹ 強い気持ち・強い愛",
+          "sales": 1291,
+          "seats": 10590,
+          "showtimes": 81,
+          "theaters": 252,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "3D Girlfriend: Real Girl",
+          "japanese name": "３Ｄ彼女 リアルガール",
+          "sales": 1282,
+          "seats": 6374,
+          "showtimes": 51,
+          "theaters": 232,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Crazy Rich!",
+          "japanese name": "クレイジー・リッチ！",
+          "sales": 1233,
+          "seats": 6987,
+          "showtimes": 52,
+          "theaters": 64,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Skyscraper",
+          "japanese name": "スカイスクレイパー",
+          "sales": 1159,
+          "seats": 11256,
+          "showtimes": 83,
+          "theaters": 153,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Pooh and the grown-up me",
+          "japanese name": "プーと大人になった僕",
+          "sales": 38868,
+          "seats": 126726,
+          "showtimes": 740,
+          "theaters": 274,
+          "rank": 1,
+          "last_week_ratio": 147.6
+        },
+        {
+          "moviename": "Theatrical Version: Nekomonogatari: Shiro no Naka no Yoru ni",
+          "japanese name": "劇場版 夏目友人帳 うつせみに結ぶ",
+          "sales": 30166,
+          "seats": 88889,
+          "showtimes": 396,
+          "theaters": 119,
+          "rank": 2,
+          "last_week_ratio": 158.8
+        },
+        {
+          "moviename": "Perfect World The Miracle of Being With You",
+          "japanese name": "パーフェクトワールド 君といる奇跡",
+          "sales": 29661,
+          "seats": 260983,
+          "showtimes": 1078,
+          "theaters": 265,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Monster Strike THE MOVIE Sorano Kanata",
+          "japanese name": "モンスターストライク ＴＨＥ ＭＯＶＩＥ ソラノカナタ",
+          "sales": 28624,
+          "seats": 370075,
+          "showtimes": 1169,
+          "theaters": 269,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Before the coffee cools down",
+          "japanese name": "コーヒーが冷めないうちに",
+          "sales": 25983,
+          "seats": 101797,
+          "showtimes": 714,
+          "theaters": 251,
+          "rank": 5,
+          "last_week_ratio": 149.4
+        },
+        {
+          "moviename": "Quiet Place",
+          "japanese name": "クワイエット・プレイス",
+          "sales": 23362,
+          "seats": 65480,
+          "showtimes": 419,
+          "theaters": 159,
+          "rank": 6,
+          "last_week_ratio": 151
+        },
+        {
+          "moviename": "Scattered camellias",
+          "japanese name": "散り椿",
+          "sales": 21700,
+          "seats": 171841,
+          "showtimes": 991,
+          "theaters": 262,
+          "rank": 7,
+          "last_week_ratio": 127.2
+        },
+        {
+          "moviename": "That girl’s obsession.",
+          "japanese name": "あのコの、トリコ。",
+          "sales": 19916,
+          "seats": 72667,
+          "showtimes": 437,
+          "theaters": 122,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Equalizer 2",
+          "japanese name": "イコライザー２",
+          "sales": 17343,
+          "seats": 95353,
+          "showtimes": 527,
+          "theaters": 149,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Don’t stop the camera!",
+          "japanese name": "カメラを止めるな！",
+          "sales": 14915,
+          "seats": 35321,
+          "showtimes": 210,
+          "theaters": 171,
+          "rank": 10,
+          "last_week_ratio": 238.5
+        },
+        {
+          "moviename": "Re: Zero Starting Life in a Different World Memory Snow",
+          "japanese name": "Ｒｅ：ゼロから始める異世界生活 Ｍｅｍｏｒｙ Ｓｎｏｗ",
+          "sales": 13970,
+          "seats": 83996,
+          "showtimes": 279,
+          "theaters": 62,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Everyday is a Good Day",
+          "japanese name": "日日是好日",
+          "sales": 10975,
+          "seats": 42448,
+          "showtimes": 233,
+          "theaters": 117,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Back then, I pursued you.",
+          "japanese name": "あの頃、君を追いかけた",
+          "sales": 9570,
+          "seats": 56773,
+          "showtimes": 328,
+          "theaters": 95,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MEG The Monster",
+          "japanese name": "ＭＥＧ ザ・モンスター",
+          "sales": 8736,
+          "seats": 41357,
+          "showtimes": 279,
+          "theaters": 220,
+          "rank": 14,
+          "last_week_ratio": 140.3
+        },
+        {
+          "moviename": "Gintama 2: Rules are made to be broken",
+          "japanese name": "銀魂２ 掟は破るためにこそある",
+          "sales": 8624,
+          "seats": 40264,
+          "showtimes": 270,
+          "theaters": 263,
+          "rank": 15,
+          "last_week_ratio": 144.7
+        },
+        {
+          "moviename": "If the housewife is a primary school student!",
+          "japanese name": "若おかみは小学生！",
+          "sales": 8270,
+          "seats": 39643,
+          "showtimes": 264,
+          "theaters": 203,
+          "rank": 16,
+          "last_week_ratio": 148.8
+        },
+        {
+          "moviename": "The prosecution’s view of the criminal",
+          "japanese name": "検察側の罪人",
+          "sales": 6751,
+          "seats": 38483,
+          "showtimes": 277,
+          "theaters": 259,
+          "rank": 17,
+          "last_week_ratio": 143.7
+        },
+        {
+          "moviename": "DTC: Soup Steaming Away… Pure and Innocent… fröm HİGH & LOw",
+          "japanese name": "ＤＴＣ 湯けむり純情篇 ｆｒｏｍ ＨｉＧＨ＆ＬＯＷ",
+          "sales": 6246,
+          "seats": 33994,
+          "showtimes": 250,
+          "theaters": 130,
+          "rank": 18,
+          "last_week_ratio": 198
+        },
+        {
+          "moviename": "Theatrical Version of Code Blue: Doctor Helicopter Emergency Rescue",
+          "japanese name": "劇場版コード・ブルー －ドクターヘリ緊急救命－",
+          "sales": 5644,
+          "seats": 34050,
+          "showtimes": 218,
+          "theaters": 261,
+          "rank": 19,
+          "last_week_ratio": 144.8
+        },
+        {
+          "moviename": "Bang – HIBIKI –",
+          "japanese name": "響－ＨＩＢＩＫＩ－",
+          "sales": 4636,
+          "seats": 37426,
+          "showtimes": 273,
+          "theaters": 247,
+          "rank": 20,
+          "last_week_ratio": 112.6
+        },
+        {
+          "moviename": "Incredible Family",
+          "japanese name": "インクレディブル・ファミリー",
+          "sales": 3735,
+          "seats": 20984,
+          "showtimes": 142,
+          "theaters": 139,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "3D Girlfriend: Real Girl",
+          "japanese name": "３Ｄ彼女 リアルガール",
+          "sales": 3384,
+          "seats": 28643,
+          "showtimes": 211,
+          "theaters": 232,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SUNNY: Strong Feelings, Strong Love",
+          "japanese name": "ＳＵＮＮＹ 強い気持ち・強い愛",
+          "sales": 3108,
+          "seats": 28212,
+          "showtimes": 189,
+          "theaters": 252,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tired – Cumulative/Repeated",
+          "japanese name": "累－かさね－",
+          "sales": 2824,
+          "seats": 33534,
+          "showtimes": 219,
+          "theaters": 246,
+          "rank": 24,
+          "last_week_ratio": 123.7
+        },
+        {
+          "moviename": "Ant-Man & The Wasp",
+          "japanese name": "アントマン＆ワスプ",
+          "sales": 2798,
+          "seats": 24555,
+          "showtimes": 165,
+          "theaters": 262,
+          "rank": 25,
+          "last_week_ratio": 105.2
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Pooh and the grown-up me",
+          "japanese name": "プーと大人になった僕",
+          "sales": 40984,
+          "seats": 156805,
+          "showtimes": 913,
+          "theaters": 274,
+          "rank": 1,
+          "last_week_ratio": 136.8
+        },
+        {
+          "moviename": "Theatrical Version: Nekomonogatari: Shiro no Naka no Yoru ni",
+          "japanese name": "劇場版 夏目友人帳 うつせみに結ぶ",
+          "sales": 31911,
+          "seats": 109363,
+          "showtimes": 494,
+          "theaters": 119,
+          "rank": 2,
+          "last_week_ratio": 141.2
+        },
+        {
+          "moviename": "Perfect World The Miracle of Being With You",
+          "japanese name": "パーフェクトワールド 君といる奇跡",
+          "sales": 31542,
+          "seats": 324818,
+          "showtimes": 1350,
+          "theaters": 265,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Monster Strike THE MOVIE Sorano Kanata",
+          "japanese name": "モンスターストライク ＴＨＥ ＭＯＶＩＥ ソラノカナタ",
+          "sales": 31036,
+          "seats": 450050,
+          "showtimes": 1432,
+          "theaters": 269,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Before the coffee cools down",
+          "japanese name": "コーヒーが冷めないうちに",
+          "sales": 27531,
+          "seats": 128439,
+          "showtimes": 898,
+          "theaters": 251,
+          "rank": 5,
+          "last_week_ratio": 139.4
+        },
+        {
+          "moviename": "Quiet Place",
+          "japanese name": "クワイエット・プレイス",
+          "sales": 26292,
+          "seats": 92029,
+          "showtimes": 580,
+          "theaters": 159,
+          "rank": 6,
+          "last_week_ratio": 133.1
+        },
+        {
+          "moviename": "Scattered camellias",
+          "japanese name": "散り椿",
+          "sales": 22055,
+          "seats": 195624,
+          "showtimes": 1127,
+          "theaters": 262,
+          "rank": 7,
+          "last_week_ratio": 121.2
+        },
+        {
+          "moviename": "That girl’s obsession.",
+          "japanese name": "あのコの、トリコ。",
+          "sales": 21105,
+          "seats": 89892,
+          "showtimes": 547,
+          "theaters": 122,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Equalizer 2",
+          "japanese name": "イコライザー２",
+          "sales": 19000,
+          "seats": 124230,
+          "showtimes": 684,
+          "theaters": 149,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Don’t stop the camera!",
+          "japanese name": "カメラを止めるな！",
+          "sales": 16883,
+          "seats": 49751,
+          "showtimes": 292,
+          "theaters": 171,
+          "rank": 10,
+          "last_week_ratio": 215.1
+        },
+        {
+          "moviename": "Re: Zero Starting Life in a Different World Memory Snow",
+          "japanese name": "Ｒｅ：ゼロから始める異世界生活 Ｍｅｍｏｒｙ Ｓｎｏｗ",
+          "sales": 15515,
+          "seats": 104814,
+          "showtimes": 349,
+          "theaters": 62,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Everyday is a Good Day",
+          "japanese name": "日日是好日",
+          "sales": 11050,
+          "seats": 44980,
+          "showtimes": 246,
+          "theaters": 117,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Back then, I pursued you.",
+          "japanese name": "あの頃、君を追いかけた",
+          "sales": 10524,
+          "seats": 69733,
+          "showtimes": 403,
+          "theaters": 95,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MEG The Monster",
+          "japanese name": "ＭＥＧ ザ・モンスター",
+          "sales": 9616,
+          "seats": 54675,
+          "showtimes": 371,
+          "theaters": 220,
+          "rank": 14,
+          "last_week_ratio": 119.7
+        },
+        {
+          "moviename": "Gintama 2: Rules are made to be broken",
+          "japanese name": "銀魂２ 掟は破るためにこそある",
+          "sales": 8914,
+          "seats": 46552,
+          "showtimes": 314,
+          "theaters": 263,
+          "rank": 15,
+          "last_week_ratio": 133.3
+        },
+        {
+          "moviename": "If the housewife is a primary school student!",
+          "japanese name": "若おかみは小学生！",
+          "sales": 8468,
+          "seats": 41681,
+          "showtimes": 270,
+          "theaters": 203,
+          "rank": 16,
+          "last_week_ratio": 149.6
+        },
+        {
+          "moviename": "DTC: Soup Steaming Away… Pure and Innocent… fröm HİGH & LOw",
+          "japanese name": "ＤＴＣ 湯けむり純情篇 ｆｒｏｍ ＨｉＧＨ＆ＬＯＷ",
+          "sales": 6834,
+          "seats": 45006,
+          "showtimes": 331,
+          "theaters": 130,
+          "rank": 17,
+          "last_week_ratio": 174.2
+        },
+        {
+          "moviename": "The prosecution’s view of the criminal",
+          "japanese name": "検察側の罪人",
+          "sales": 6833,
+          "seats": 42174,
+          "showtimes": 300,
+          "theaters": 259,
+          "rank": 18,
+          "last_week_ratio": 132.6
+        },
+        {
+          "moviename": "Theatrical Version of Code Blue: Doctor Helicopter Emergency Rescue",
+          "japanese name": "劇場版コード・ブルー －ドクターヘリ緊急救命－",
+          "sales": 5833,
+          "seats": 41160,
+          "showtimes": 267,
+          "theaters": 261,
+          "rank": 19,
+          "last_week_ratio": 142.8
+        },
+        {
+          "moviename": "Bang – HIBIKI –",
+          "japanese name": "響－ＨＩＢＩＫＩ－",
+          "sales": 4951,
+          "seats": 46943,
+          "showtimes": 334,
+          "theaters": 247,
+          "rank": 20,
+          "last_week_ratio": 103.1
+        },
+        {
+          "moviename": "Incredible Family",
+          "japanese name": "インクレディブル・ファミリー",
+          "sales": 3735,
+          "seats": 20984,
+          "showtimes": 142,
+          "theaters": 139,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "3D Girlfriend: Real Girl",
+          "japanese name": "３Ｄ彼女 リアルガール",
+          "sales": 3586,
+          "seats": 32902,
+          "showtimes": 238,
+          "theaters": 232,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SUNNY: Strong Feelings, Strong Love",
+          "japanese name": "ＳＵＮＮＹ 強い気持ち・強い愛",
+          "sales": 3517,
+          "seats": 38597,
+          "showtimes": 260,
+          "theaters": 252,
+          "rank": 23,
+          "last_week_ratio": 104.4
+        },
+        {
+          "moviename": "Ant-Man & The Wasp",
+          "japanese name": "アントマン＆ワスプ",
+          "sales": 3352,
+          "seats": 41410,
+          "showtimes": 265,
+          "theaters": 262,
+          "rank": 24,
+          "last_week_ratio": 102.4
+        },
+        {
+          "moviename": "Tired – Cumulative/Repeated",
+          "japanese name": "累－かさね－",
+          "sales": 2986,
+          "seats": 37671,
+          "showtimes": 245,
+          "theaters": 246,
+          "rank": 25,
+          "last_week_ratio": 117.1
+        }
+      ]
+    }
+  ]
+}

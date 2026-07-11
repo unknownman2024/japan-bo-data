@@ -1,0 +1,773 @@
+{
+  "date": "02-12-2018",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "The Birth of Fantastic Beasts and the Black Witch",
+          "japanese name": "ファンタスティック・ビーストと黒い魔法使いの誕生",
+          "sales": 90675,
+          "seats": 352926,
+          "showtimes": 1399,
+          "theaters": 279,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bohemian Rhapsody",
+          "japanese name": "ボヘミアン・ラプソディ",
+          "sales": 54797,
+          "seats": 119037,
+          "showtimes": 556,
+          "theaters": 274,
+          "rank": 2,
+          "last_week_ratio": 124.9
+        },
+        {
+          "moviename": "Kurumiwarizukin to Himitsu no Ou koku",
+          "japanese name": "くるみ割り人形と秘密の王国",
+          "sales": 22414,
+          "seats": 128335,
+          "showtimes": 642,
+          "theaters": 232,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Suit Gundam NT",
+          "japanese name": "機動戦士ガンダムＮＴ",
+          "sales": 15705,
+          "seats": 46693,
+          "showtimes": 195,
+          "theaters": 79,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I love you.",
+          "japanese name": "ういらぶ。",
+          "sales": 11384,
+          "seats": 31193,
+          "showtimes": 213,
+          "theaters": 180,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I Only Dropped My Phone",
+          "japanese name": "スマホを落としただけなのに",
+          "sales": 9353,
+          "seats": 40620,
+          "showtimes": 324,
+          "theaters": 259,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Mermaid's Sleep House",
+          "japanese name": "人魚の眠る家",
+          "sales": 8730,
+          "seats": 56241,
+          "showtimes": 436,
+          "theaters": 261,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Burn the Stage: The Movie",
+          "japanese name": "Ｂｕｒｎ ｔｈｅ Ｓｔａｇｅ：ｔｈｅ Ｍｏｖｉｅ",
+          "sales": 7135,
+          "seats": 12974,
+          "showtimes": 85,
+          "theaters": 82,
+          "rank": 8,
+          "last_week_ratio": 104.6
+        },
+        {
+          "moviename": "Movie HUG! Pretty Cure All Stars Memories",
+          "japanese name": "映画ＨＵＧっと！プリキュア・ふたりはプリキュア オールスターズメモリーズ",
+          "sales": 6801,
+          "seats": 52762,
+          "showtimes": 308,
+          "theaters": 187,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Family Colors RAILWAYS Our Departure",
+          "japanese name": "かぞくいろ ＲＡＩＬＷＡＹＳ わたしたちの出発",
+          "sales": 6302,
+          "seats": 60459,
+          "showtimes": 388,
+          "theaters": 170,
+          "rank": 10,
+          "last_week_ratio": 1755.4
+        },
+        {
+          "moviename": "Venom",
+          "japanese name": "ヴェノム",
+          "sales": 5043,
+          "seats": 30464,
+          "showtimes": 244,
+          "theaters": 272,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "souvenir the movie ～MARY TAKUCHI Theater Live～",
+          "japanese name": "ｓｏｕｖｅｎｉｒ ｔｈｅ ｍｏｖｉｅ ～ＭＡＲＩＹＡ ＴＡＫＥＵＣＨＩ Ｔｈｅａｔｅｒ Ｌｉｖｅ～",
+          "sales": 2567,
+          "seats": 5550,
+          "showtimes": 39,
+          "theaters": 26,
+          "rank": 12,
+          "last_week_ratio": 115.3
+        },
+        {
+          "moviename": "Hereditary/Inherited",
+          "japanese name": "ヘレディタリー／継承",
+          "sales": 1974,
+          "seats": 9934,
+          "showtimes": 75,
+          "theaters": 50,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Everyday is a Good Day",
+          "japanese name": "日日是好日",
+          "sales": 1605,
+          "seats": 21204,
+          "showtimes": 152,
+          "theaters": 144,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Earth Amazing Day",
+          "japanese name": "アース アメイジングデイ",
+          "sales": 1598,
+          "seats": 12139,
+          "showtimes": 95,
+          "theaters": 47,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "jam",
+          "japanese name": "ｊａｍ",
+          "sales": 1565,
+          "seats": 17673,
+          "showtimes": 129,
+          "theaters": 79,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Merry Christmas!～The Man Who Worked Miracles in London～",
+          "japanese name": "Ｍｅｒｒｙ Ｃｈｒｉｓｔｍａｓ！～ロンドンに奇跡を起こした男～",
+          "sales": 1269,
+          "seats": 25529,
+          "showtimes": 207,
+          "theaters": 108,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SPYAIR ARENA TOUR 2015「DYNAMITE ～Single All Year Long～」Live Video",
+          "japanese name": "ＳＰＹＡＩＲ ＡＲＥＮＡ ＴＯＵＲ ２０１５「ＤＹＮＡＭＩＴＥ ～シングル全部ヤリマス～」ライブ映像",
+          "sales": 1107,
+          "seats": 1467,
+          "showtimes": 6,
+          "theaters": 2,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Police Story REBORN",
+          "japanese name": "ポリス・ストーリー ＲＥＢＯＲＮ",
+          "sales": 1004,
+          "seats": 6529,
+          "showtimes": 53,
+          "theaters": 55,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Eric Clapton ~12 Bars of Life~",
+          "japanese name": "エリック・クラプトン～１２小節の人生～",
+          "sales": 709,
+          "seats": 1512,
+          "showtimes": 10,
+          "theaters": 8,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "GOODZILLA: The One Who Eats Stars",
+          "japanese name": "ＧＯＤＺＩＬＬＡ 星を喰う者",
+          "sales": 682,
+          "seats": 8618,
+          "showtimes": 53,
+          "theaters": 133,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Neet Neet Neet",
+          "japanese name": "ニートニートニート",
+          "sales": 681,
+          "seats": 5153,
+          "showtimes": 39,
+          "theaters": 75,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Continued/End of the Story",
+          "japanese name": "続・終物語",
+          "sales": 665,
+          "seats": 2022,
+          "showtimes": 15,
+          "theaters": 25,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Traveling Cat Report",
+          "japanese name": "旅猫リポート",
+          "sales": 570,
+          "seats": 5461,
+          "showtimes": 39,
+          "theaters": 98,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Borderline: Soldiers’ Day",
+          "japanese name": "ボーダーライン ソルジャーズ・デイ",
+          "sales": 565,
+          "seats": 4810,
+          "showtimes": 36,
+          "theaters": 50,
+          "rank": 26,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "The Birth of Fantastic Beasts and the Black Witch",
+          "japanese name": "ファンタスティック・ビーストと黒い魔法使いの誕生",
+          "sales": 169873,
+          "seats": 645589,
+          "showtimes": 2595,
+          "theaters": 279,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bohemian Rhapsody",
+          "japanese name": "ボヘミアン・ラプソディ",
+          "sales": 105506,
+          "seats": 225344,
+          "showtimes": 1064,
+          "theaters": 274,
+          "rank": 2,
+          "last_week_ratio": 129.1
+        },
+        {
+          "moviename": "Kurumiwarizukin to Himitsu no Ou koku",
+          "japanese name": "くるみ割り人形と秘密の王国",
+          "sales": 37759,
+          "seats": 220089,
+          "showtimes": 1110,
+          "theaters": 232,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Suit Gundam NT",
+          "japanese name": "機動戦士ガンダムＮＴ",
+          "sales": 23795,
+          "seats": 76975,
+          "showtimes": 339,
+          "theaters": 79,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I Only Dropped My Phone",
+          "japanese name": "スマホを落としただけなのに",
+          "sales": 18883,
+          "seats": 74417,
+          "showtimes": 582,
+          "theaters": 259,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I love you.",
+          "japanese name": "ういらぶ。",
+          "sales": 17162,
+          "seats": 50461,
+          "showtimes": 352,
+          "theaters": 180,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Mermaid's Sleep House",
+          "japanese name": "人魚の眠る家",
+          "sales": 14326,
+          "seats": 90268,
+          "showtimes": 700,
+          "theaters": 261,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Burn the Stage: The Movie",
+          "japanese name": "Ｂｕｒｎ ｔｈｅ Ｓｔａｇｅ：ｔｈｅ Ｍｏｖｉｅ",
+          "sales": 10713,
+          "seats": 19304,
+          "showtimes": 134,
+          "theaters": 81,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Venom",
+          "japanese name": "ヴェノム",
+          "sales": 10222,
+          "seats": 59471,
+          "showtimes": 467,
+          "theaters": 272,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "THE IDOLM@STER CINDERELLA GIRL 6th LIVE Live Viewing",
+          "japanese name": "ＴＨＥ ＩＤＯＬＭ＠ＳＴＥＲ ＣＩＮＤＥＲＥＬＬＡ ＧＩＲＬ ６ｔｈ ＬＩＶＥ ライブビューイング",
+          "sales": 9516,
+          "seats": 11030,
+          "showtimes": 59,
+          "theaters": 59,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Family Colors RAILWAYS Our Departure",
+          "japanese name": "かぞくいろ ＲＡＩＬＷＡＹＳ わたしたちの出発",
+          "sales": 8940,
+          "seats": 102879,
+          "showtimes": 664,
+          "theaters": 170,
+          "rank": 11,
+          "last_week_ratio": 1798.8
+        },
+        {
+          "moviename": "Movie HUG! Pretty Cure All Stars Memories",
+          "japanese name": "映画ＨＵＧっと！プリキュア・ふたりはプリキュア オールスターズメモリーズ",
+          "sales": 7596,
+          "seats": 56705,
+          "showtimes": 335,
+          "theaters": 187,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "RUYJI IMAGIC LIVE TOUR 2018’LIGHT＞DARKNESS” LV",
+          "japanese name": "ＲＹＵＪＩ ＩＭＡＩＣＨＩ ＬＩＶＥ ＴＯＵＲ ２０１８’ＬＩＧＨＴ＞ＤＡＲＫＮＥＳＳ” ＬＶ",
+          "sales": 4968,
+          "seats": 9546,
+          "showtimes": 39,
+          "theaters": 39,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "souvenir the movie ～MARY TAKUCHI Theater Live～",
+          "japanese name": "ｓｏｕｖｅｎｉｒ ｔｈｅ ｍｏｖｉｅ ～ＭＡＲＩＹＡ ＴＡＫＥＵＣＨＩ Ｔｈｅａｔｅｒ Ｌｉｖｅ～",
+          "sales": 4183,
+          "seats": 8285,
+          "showtimes": 64,
+          "theaters": 26,
+          "rank": 14,
+          "last_week_ratio": 117.3
+        },
+        {
+          "moviename": "jam",
+          "japanese name": "ｊａｍ",
+          "sales": 4025,
+          "seats": 31006,
+          "showtimes": 220,
+          "theaters": 79,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hereditary/Inherited",
+          "japanese name": "ヘレディタリー／継承",
+          "sales": 3748,
+          "seats": 18527,
+          "showtimes": 136,
+          "theaters": 50,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love Live! Sunshine!! Aqours Club Activities",
+          "japanese name": "ラブライブ！サンシャイン！！Ａｑｏｕｒｓ クラブ活動",
+          "sales": 2665,
+          "seats": 2883,
+          "showtimes": 19,
+          "theaters": 19,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Earth Amazing Day",
+          "japanese name": "アース アメイジングデイ",
+          "sales": 2245,
+          "seats": 19600,
+          "showtimes": 158,
+          "theaters": 47,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "THE IDOLM@STER CINDERELLA GIRLS 6th LIVE Live Viewing",
+          "japanese name": "ＴＨＥ ＩＤＯＬＭ＠ＳＴＥＲ ＣＩＮＤＥＲＥＬＬＡ ＧＩＲＬＳ ６ｔｈ ＬＩＶＥ ライブビューイング",
+          "sales": 2061,
+          "seats": 2428,
+          "showtimes": 13,
+          "theaters": 13,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kazuyoshi Kuwata’s Act Against AIDS 2018 Live Viewing",
+          "japanese name": "桑田佳祐 Ａｃｔ Ａｇａｉｎｓｔ ＡＩＤＳ ２０１８ ライブ・ビューイング",
+          "sales": 1997,
+          "seats": 2004,
+          "showtimes": 5,
+          "theaters": 7,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Everyday is a Good Day",
+          "japanese name": "日日是好日",
+          "sales": 1861,
+          "seats": 24240,
+          "showtimes": 176,
+          "theaters": 144,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Merry Christmas!～The Man Who Worked Miracles in London～",
+          "japanese name": "Ｍｅｒｒｙ Ｃｈｒｉｓｔｍａｓ！～ロンドンに奇跡を起こした男～",
+          "sales": 1824,
+          "seats": 41354,
+          "showtimes": 334,
+          "theaters": 108,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Police Story REBORN",
+          "japanese name": "ポリス・ストーリー ＲＥＢＯＲＮ",
+          "sales": 1666,
+          "seats": 11026,
+          "showtimes": 90,
+          "theaters": 55,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "LoveLive! Sunshine!! Aqours Club Activities LIVE & FAN MEETING 2018",
+          "japanese name": "ラブライブ！サンシャイン！！Ａｑｏｕｒｓ クラブ活動 ＬＩＶＥ ＆ ＦＡＮ ＭＥＥＴＩＮＧ ２０１８",
+          "sales": 1580,
+          "seats": 1810,
+          "showtimes": 13,
+          "theaters": 13,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SPYAIR ARENA TOUR 2015「DYNAMITE ～Single All Year Long～」Live Video",
+          "japanese name": "ＳＰＹＡＩＲ ＡＲＥＮＡ ＴＯＵＲ ２０１５「ＤＹＮＡＭＩＴＥ ～シングル全部ヤリマス～」ライブ映像",
+          "sales": 1382,
+          "seats": 1977,
+          "showtimes": 9,
+          "theaters": 2,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "The Birth of Fantastic Beasts and the Black Witch",
+          "japanese name": "ファンタスティック・ビーストと黒い魔法使いの誕生",
+          "sales": 184224,
+          "seats": 795874,
+          "showtimes": 3214,
+          "theaters": 279,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bohemian Rhapsody",
+          "japanese name": "ボヘミアン・ラプソディ",
+          "sales": 117923,
+          "seats": 281256,
+          "showtimes": 1346,
+          "theaters": 274,
+          "rank": 2,
+          "last_week_ratio": 128.7
+        },
+        {
+          "moviename": "Kurumiwarizukin to Himitsu no Ou koku",
+          "japanese name": "くるみ割り人形と秘密の王国",
+          "sales": 40414,
+          "seats": 271485,
+          "showtimes": 1377,
+          "theaters": 232,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Suit Gundam NT",
+          "japanese name": "機動戦士ガンダムＮＴ",
+          "sales": 27062,
+          "seats": 93871,
+          "showtimes": 424,
+          "theaters": 79,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I Only Dropped My Phone",
+          "japanese name": "スマホを落としただけなのに",
+          "sales": 20746,
+          "seats": 96024,
+          "showtimes": 749,
+          "theaters": 259,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I love you.",
+          "japanese name": "ういらぶ。",
+          "sales": 17330,
+          "seats": 53325,
+          "showtimes": 373,
+          "theaters": 180,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Mermaid's Sleep House",
+          "japanese name": "人魚の眠る家",
+          "sales": 15244,
+          "seats": 111863,
+          "showtimes": 872,
+          "theaters": 261,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Venom",
+          "japanese name": "ヴェノム",
+          "sales": 11882,
+          "seats": 88432,
+          "showtimes": 665,
+          "theaters": 272,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Burn the Stage: The Movie",
+          "japanese name": "Ｂｕｒｎ ｔｈｅ Ｓｔａｇｅ：ｔｈｅ Ｍｏｖｉｅ",
+          "sales": 11740,
+          "seats": 22658,
+          "showtimes": 157,
+          "theaters": 81,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "THE IDOLM@STER CINDERELLA GIRL 6th LIVE Live Viewing",
+          "japanese name": "ＴＨＥ ＩＤＯＬＭ＠ＳＴＥＲ ＣＩＮＤＥＲＥＬＬＡ ＧＩＲＬ ６ｔｈ ＬＩＶＥ ライブビューイング",
+          "sales": 9516,
+          "seats": 11030,
+          "showtimes": 59,
+          "theaters": 59,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Family Colors RAILWAYS Our Departure",
+          "japanese name": "かぞくいろ ＲＡＩＬＷＡＹＳ わたしたちの出発",
+          "sales": 9201,
+          "seats": 122797,
+          "showtimes": 792,
+          "theaters": 170,
+          "rank": 11,
+          "last_week_ratio": 1790.1
+        },
+        {
+          "moviename": "Movie HUG! Pretty Cure All Stars Memories",
+          "japanese name": "映画ＨＵＧっと！プリキュア・ふたりはプリキュア オールスターズメモリーズ",
+          "sales": 7606,
+          "seats": 56845,
+          "showtimes": 336,
+          "theaters": 187,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "RUYJI IMAGIC LIVE TOUR 2018’LIGHT＞DARKNESS” LV",
+          "japanese name": "ＲＹＵＪＩ ＩＭＡＩＣＨＩ ＬＩＶＥ ＴＯＵＲ ２０１８’ＬＩＧＨＴ＞ＤＡＲＫＮＥＳＳ” ＬＶ",
+          "sales": 4968,
+          "seats": 9546,
+          "showtimes": 39,
+          "theaters": 39,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hereditary/Inherited",
+          "japanese name": "ヘレディタリー／継承",
+          "sales": 4460,
+          "seats": 24749,
+          "showtimes": 184,
+          "theaters": 50,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "souvenir the movie ～MARY TAKUCHI Theater Live～",
+          "japanese name": "ｓｏｕｖｅｎｉｒ ｔｈｅ ｍｏｖｉｅ ～ＭＡＲＩＹＡ ＴＡＫＥＵＣＨＩ Ｔｈｅａｔｅｒ Ｌｉｖｅ～",
+          "sales": 4372,
+          "seats": 9279,
+          "showtimes": 74,
+          "theaters": 26,
+          "rank": 15,
+          "last_week_ratio": 114.7
+        },
+        {
+          "moviename": "jam",
+          "japanese name": "ｊａｍ",
+          "sales": 4367,
+          "seats": 42698,
+          "showtimes": 298,
+          "theaters": 79,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love Live! Sunshine!! Aqours Club Activities",
+          "japanese name": "ラブライブ！サンシャイン！！Ａｑｏｕｒｓ クラブ活動",
+          "sales": 2665,
+          "seats": 2883,
+          "showtimes": 19,
+          "theaters": 19,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Earth Amazing Day",
+          "japanese name": "アース アメイジングデイ",
+          "sales": 2315,
+          "seats": 22937,
+          "showtimes": 188,
+          "theaters": 47,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "THE IDOLM@STER CINDERELLA GIRLS 6th LIVE Live Viewing",
+          "japanese name": "ＴＨＥ ＩＤＯＬＭ＠ＳＴＥＲ ＣＩＮＤＥＲＥＬＬＡ ＧＩＲＬＳ ６ｔｈ ＬＩＶＥ ライブビューイング",
+          "sales": 2061,
+          "seats": 2428,
+          "showtimes": 13,
+          "theaters": 13,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Merry Christmas!～The Man Who Worked Miracles in London～",
+          "japanese name": "Ｍｅｒｒｙ Ｃｈｒｉｓｔｍａｓ！～ロンドンに奇跡を起こした男～",
+          "sales": 2038,
+          "seats": 53307,
+          "showtimes": 426,
+          "theaters": 108,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kazuyoshi Kuwata’s Act Against AIDS 2018 Live Viewing",
+          "japanese name": "桑田佳祐 Ａｃｔ Ａｇａｉｎｓｔ ＡＩＤＳ ２０１８ ライブ・ビューイング",
+          "sales": 1997,
+          "seats": 2004,
+          "showtimes": 5,
+          "theaters": 7,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Everyday is a Good Day",
+          "japanese name": "日日是好日",
+          "sales": 1861,
+          "seats": 24611,
+          "showtimes": 178,
+          "theaters": 144,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Police Story REBORN",
+          "japanese name": "ポリス・ストーリー ＲＥＢＯＲＮ",
+          "sales": 1789,
+          "seats": 14302,
+          "showtimes": 114,
+          "theaters": 55,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "LoveLive! Sunshine!! Aqours Club Activities LIVE & FAN MEETING 2018",
+          "japanese name": "ラブライブ！サンシャイン！！Ａｑｏｕｒｓ クラブ活動 ＬＩＶＥ ＆ ＦＡＮ ＭＥＥＴＩＮＧ ２０１８",
+          "sales": 1580,
+          "seats": 1810,
+          "showtimes": 13,
+          "theaters": 13,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SPYAIR ARENA TOUR 2015「DYNAMITE ～Single All Year Long～」Live Video",
+          "japanese name": "ＳＰＹＡＩＲ ＡＲＥＮＡ ＴＯＵＲ ２０１５「ＤＹＮＡＭＩＴＥ ～シングル全部ヤリマス～」ライブ映像",
+          "sales": 1563,
+          "seats": 2590,
+          "showtimes": 12,
+          "theaters": 2,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

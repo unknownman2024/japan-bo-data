@@ -1,0 +1,773 @@
+{
+  "date": "20-05-2018",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Peter Rabbit",
+          "japanese name": "ピーターラビット",
+          "sales": 31913,
+          "seats": 128069,
+          "showtimes": 603,
+          "theaters": 251,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan 2018: The Executioner of Zero",
+          "japanese name": "名探偵コナン２０１８ ゼロの執行人（しっこうにん）",
+          "sales": 30796,
+          "seats": 127612,
+          "showtimes": 565,
+          "theaters": 270,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mochi Tori Sama",
+          "japanese name": "のみとり侍",
+          "sales": 19035,
+          "seats": 167769,
+          "showtimes": 634,
+          "theaters": 260,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Lampage Giant Beast Chaos",
+          "japanese name": "ランペイジ 巨獣大乱闘",
+          "sales": 17890,
+          "seats": 169914,
+          "showtimes": 676,
+          "theaters": 273,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "La Plague Witch",
+          "japanese name": "ラプラスの魔女",
+          "sales": 13805,
+          "seats": 64358,
+          "showtimes": 466,
+          "theaters": 262,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Crayon Shin-chan: Explosive! Kung Fu Boys ~Ramen Chaos~",
+          "japanese name": "映画クレヨンしんちゃん 爆盛！カンフーボーイズ～拉麺大乱～",
+          "sales": 13360,
+          "seats": 46707,
+          "showtimes": 317,
+          "theaters": 260,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Blood of the Lone Wolf",
+          "japanese name": "孤狼の血",
+          "sales": 11856,
+          "seats": 65988,
+          "showtimes": 451,
+          "theaters": 263,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Avengers: Infinity War",
+          "japanese name": "アベンジャーズ／インフィニティ・ウォー",
+          "sales": 11833,
+          "seats": 59831,
+          "showtimes": 365,
+          "theaters": 274,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "GODZILLA The Final Battle Mech City",
+          "japanese name": "ＧＯＤＺＩＬＬＡ 決戦機動増殖都市",
+          "sales": 7996,
+          "seats": 56461,
+          "showtimes": 282,
+          "theaters": 138,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Lady Player 1",
+          "japanese name": "レディ・プレイヤー１",
+          "sales": 5500,
+          "seats": 23171,
+          "showtimes": 147,
+          "theaters": 274,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kamen Rider Amazon즈 THE MOVIE Final Judgement",
+          "japanese name": "仮面ライダーアマゾンズ ＴＨＥ ＭＯＶＩＥ 最後ノ審判",
+          "sales": 5427,
+          "seats": 17806,
+          "showtimes": 137,
+          "theaters": 76,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "“Idol Master SideM” Special Event “Five-Star Party!!” LV",
+          "japanese name": "「アイドルマスター ＳｉｄｅＭ」スペシャルイベント「Ｆｉｖｅ－Ｓｔ＠ｒ Ｐａｒｔｙ！！」ＬＶ",
+          "sales": 4847,
+          "seats": 6840,
+          "showtimes": 26,
+          "theaters": 47,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Farewell, youth; yet still, youth.",
+          "japanese name": "さらば青春、されど青春。",
+          "sales": 4472,
+          "seats": 19605,
+          "showtimes": 120,
+          "theaters": 80,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Remember Me",
+          "japanese name": "リメンバー・ミー",
+          "sales": 4209,
+          "seats": 16930,
+          "showtimes": 126,
+          "theaters": 231,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The place where Mori is",
+          "japanese name": "モリのいる場所",
+          "sales": 4089,
+          "seats": 21995,
+          "showtimes": 152,
+          "theaters": 61,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Suit Gundam THE ORIGIN: Birth of the Red Comet",
+          "japanese name": "機動戦士ガンダム ＴＨＥ ＯＲＩＧＩＮ 誕生 赤い彗星",
+          "sales": 2497,
+          "seats": 6743,
+          "showtimes": 38,
+          "theaters": 31,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Boss Baby",
+          "japanese name": "ボス・ベイビー",
+          "sales": 2249,
+          "seats": 12743,
+          "showtimes": 97,
+          "theaters": 150,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Monster Next Door",
+          "japanese name": "となりの怪物くん",
+          "sales": 2212,
+          "seats": 14876,
+          "showtimes": 111,
+          "theaters": 240,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Doraemon 2018: Nobita's Treasure Island",
+          "japanese name": "ドラえもん ２０１８ のび太の宝島",
+          "sales": 2173,
+          "seats": 26729,
+          "showtimes": 187,
+          "theaters": 211,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Liz and the Blue Bird",
+          "japanese name": "リズと青い鳥",
+          "sales": 1504,
+          "seats": 4820,
+          "showtimes": 31,
+          "theaters": 61,
+          "rank": 20,
+          "last_week_ratio": 101.1
+        },
+        {
+          "moviename": "Theatrical Version Pretty Rhythm & Kira Kira Pretty Chan",
+          "japanese name": "劇場版 プリパラ＆キラッとプリ☆チャン",
+          "sales": 1309,
+          "seats": 6475,
+          "showtimes": 40,
+          "theaters": 31,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Digimon Adventure Tri. Chapter 6: “Our Future”",
+          "japanese name": "デジモンアドベンチャーｔｒｉ．第６章「ぼくらの未来」",
+          "sales": 1252,
+          "seats": 2272,
+          "showtimes": 12,
+          "theaters": 13,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mama’s Boy",
+          "japanese name": "ママレード・ボーイ",
+          "sales": 1084,
+          "seats": 7390,
+          "showtimes": 56,
+          "theaters": 240,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MEET Live Viewing 2017-18 Luisa Miller",
+          "japanese name": "ＭＥＴライブビューイング２０１７－１８ ルイザ・ミラー",
+          "sales": 989,
+          "seats": 2429,
+          "showtimes": 16,
+          "theaters": 17,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Horse Soldier",
+          "japanese name": "ホース・ソルジャー",
+          "sales": 809,
+          "seats": 6646,
+          "showtimes": 58,
+          "theaters": 160,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Detective Conan 2018: The Executioner of Zero",
+          "japanese name": "名探偵コナン２０１８ ゼロの執行人（しっこうにん）",
+          "sales": 51335,
+          "seats": 223332,
+          "showtimes": 987,
+          "theaters": 270,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Peter Rabbit",
+          "japanese name": "ピーターラビット",
+          "sales": 50362,
+          "seats": 221148,
+          "showtimes": 1042,
+          "theaters": 251,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Lampage Giant Beast Chaos",
+          "japanese name": "ランペイジ 巨獣大乱闘",
+          "sales": 30073,
+          "seats": 298567,
+          "showtimes": 1198,
+          "theaters": 273,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mochi Tori Sama",
+          "japanese name": "のみとり侍",
+          "sales": 27770,
+          "seats": 289909,
+          "showtimes": 1091,
+          "theaters": 260,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Avengers: Infinity War",
+          "japanese name": "アベンジャーズ／インフィニティ・ウォー",
+          "sales": 26104,
+          "seats": 127148,
+          "showtimes": 766,
+          "theaters": 274,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "La Plague Witch",
+          "japanese name": "ラプラスの魔女",
+          "sales": 21408,
+          "seats": 109526,
+          "showtimes": 794,
+          "theaters": 262,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Blood of the Lone Wolf",
+          "japanese name": "孤狼の血",
+          "sales": 19747,
+          "seats": 112549,
+          "showtimes": 768,
+          "theaters": 263,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Crayon Shin-chan: Explosive! Kung Fu Boys ~Ramen Chaos~",
+          "japanese name": "映画クレヨンしんちゃん 爆盛！カンフーボーイズ～拉麺大乱～",
+          "sales": 16101,
+          "seats": 56106,
+          "showtimes": 377,
+          "theaters": 260,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Lady Player 1",
+          "japanese name": "レディ・プレイヤー１",
+          "sales": 13771,
+          "seats": 67139,
+          "showtimes": 419,
+          "theaters": 274,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "GODZILLA The Final Battle Mech City",
+          "japanese name": "ＧＯＤＺＩＬＬＡ 決戦機動増殖都市",
+          "sales": 12755,
+          "seats": 105357,
+          "showtimes": 536,
+          "theaters": 138,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "“Idol Master SideM” Special Event “Five-Star Party!!” LV",
+          "japanese name": "「アイドルマスター ＳｉｄｅＭ」スペシャルイベント「Ｆｉｖｅ－Ｓｔ＠ｒ Ｐａｒｔｙ！！」ＬＶ",
+          "sales": 11623,
+          "seats": 15371,
+          "showtimes": 57,
+          "theaters": 46,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kamen Rider Amazon즈 THE MOVIE Final Judgement",
+          "japanese name": "仮面ライダーアマゾンズ ＴＨＥ ＭＯＶＩＥ 最後ノ審判",
+          "sales": 8343,
+          "seats": 28307,
+          "showtimes": 222,
+          "theaters": 76,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Farewell, youth; yet still, youth.",
+          "japanese name": "さらば青春、されど青春。",
+          "sales": 7693,
+          "seats": 34038,
+          "showtimes": 211,
+          "theaters": 80,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Remember Me",
+          "japanese name": "リメンバー・ミー",
+          "sales": 7520,
+          "seats": 33062,
+          "showtimes": 234,
+          "theaters": 231,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The place where Mori is",
+          "japanese name": "モリのいる場所",
+          "sales": 5199,
+          "seats": 34154,
+          "showtimes": 233,
+          "theaters": 61,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Monster Next Door",
+          "japanese name": "となりの怪物くん",
+          "sales": 5142,
+          "seats": 40100,
+          "showtimes": 288,
+          "theaters": 240,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Suit Gundam THE ORIGIN: Birth of the Red Comet",
+          "japanese name": "機動戦士ガンダム ＴＨＥ ＯＲＩＧＩＮ 誕生 赤い彗星",
+          "sales": 4166,
+          "seats": 12471,
+          "showtimes": 74,
+          "theaters": 31,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Boss Baby",
+          "japanese name": "ボス・ベイビー",
+          "sales": 3481,
+          "seats": 22267,
+          "showtimes": 154,
+          "theaters": 150,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Greatest Showman",
+          "japanese name": "グレイテスト・ショーマン",
+          "sales": 3333,
+          "seats": 13066,
+          "showtimes": 74,
+          "theaters": 82,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mama’s Boy",
+          "japanese name": "ママレード・ボーイ",
+          "sales": 3216,
+          "seats": 33841,
+          "showtimes": 228,
+          "theaters": 240,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Liz and the Blue Bird",
+          "japanese name": "リズと青い鳥",
+          "sales": 2649,
+          "seats": 10106,
+          "showtimes": 67,
+          "theaters": 61,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Doraemon 2018: Nobita's Treasure Island",
+          "japanese name": "ドラえもん ２０１８ のび太の宝島",
+          "sales": 2430,
+          "seats": 30652,
+          "showtimes": 210,
+          "theaters": 211,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dogushiki",
+          "japanese name": "いぬやしき",
+          "sales": 2263,
+          "seats": 31335,
+          "showtimes": 218,
+          "theaters": 253,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Digimon Adventure Tri. Chapter 6: “Our Future”",
+          "japanese name": "デジモンアドベンチャーｔｒｉ．第６章「ぼくらの未来」",
+          "sales": 2228,
+          "seats": 4068,
+          "showtimes": 24,
+          "theaters": 13,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version Pretty Rhythm & Kira Kira Pretty Chan",
+          "japanese name": "劇場版 プリパラ＆キラッとプリ☆チャン",
+          "sales": 1925,
+          "seats": 11217,
+          "showtimes": 63,
+          "theaters": 31,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Detective Conan 2018: The Executioner of Zero",
+          "japanese name": "名探偵コナン２０１８ ゼロの執行人（しっこうにん）",
+          "sales": 54745,
+          "seats": 272731,
+          "showtimes": 1213,
+          "theaters": 270,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Peter Rabbit",
+          "japanese name": "ピーターラビット",
+          "sales": 53225,
+          "seats": 268783,
+          "showtimes": 1281,
+          "theaters": 251,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Lampage Giant Beast Chaos",
+          "japanese name": "ランペイジ 巨獣大乱闘",
+          "sales": 33897,
+          "seats": 383749,
+          "showtimes": 1532,
+          "theaters": 273,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mochi Tori Sama",
+          "japanese name": "のみとり侍",
+          "sales": 29164,
+          "seats": 357170,
+          "showtimes": 1356,
+          "theaters": 260,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Avengers: Infinity War",
+          "japanese name": "アベンジャーズ／インフィニティ・ウォー",
+          "sales": 28944,
+          "seats": 171462,
+          "showtimes": 1038,
+          "theaters": 274,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "La Plague Witch",
+          "japanese name": "ラプラスの魔女",
+          "sales": 22403,
+          "seats": 142273,
+          "showtimes": 1023,
+          "theaters": 262,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Blood of the Lone Wolf",
+          "japanese name": "孤狼の血",
+          "sales": 21840,
+          "seats": 148666,
+          "showtimes": 1008,
+          "theaters": 263,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Crayon Shin-chan: Explosive! Kung Fu Boys ~Ramen Chaos~",
+          "japanese name": "映画クレヨンしんちゃん 爆盛！カンフーボーイズ～拉麺大乱～",
+          "sales": 16101,
+          "seats": 56106,
+          "showtimes": 377,
+          "theaters": 260,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Lady Player 1",
+          "japanese name": "レディ・プレイヤー１",
+          "sales": 15155,
+          "seats": 87969,
+          "showtimes": 568,
+          "theaters": 274,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "GODZILLA The Final Battle Mech City",
+          "japanese name": "ＧＯＤＺＩＬＬＡ 決戦機動増殖都市",
+          "sales": 14291,
+          "seats": 133663,
+          "showtimes": 682,
+          "theaters": 138,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "“Idol Master SideM” Special Event “Five-Star Party!!” LV",
+          "japanese name": "「アイドルマスター ＳｉｄｅＭ」スペシャルイベント「Ｆｉｖｅ－Ｓｔ＠ｒ Ｐａｒｔｙ！！」ＬＶ",
+          "sales": 11623,
+          "seats": 15371,
+          "showtimes": 57,
+          "theaters": 46,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kamen Rider Amazon즈 THE MOVIE Final Judgement",
+          "japanese name": "仮面ライダーアマゾンズ ＴＨＥ ＭＯＶＩＥ 最後ノ審判",
+          "sales": 9244,
+          "seats": 35332,
+          "showtimes": 272,
+          "theaters": 76,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Farewell, youth; yet still, youth.",
+          "japanese name": "さらば青春、されど青春。",
+          "sales": 8239,
+          "seats": 37312,
+          "showtimes": 232,
+          "theaters": 80,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Remember Me",
+          "japanese name": "リメンバー・ミー",
+          "sales": 7631,
+          "seats": 34644,
+          "showtimes": 246,
+          "theaters": 231,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Monster Next Door",
+          "japanese name": "となりの怪物くん",
+          "sales": 5426,
+          "seats": 48502,
+          "showtimes": 339,
+          "theaters": 240,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The place where Mori is",
+          "japanese name": "モリのいる場所",
+          "sales": 5320,
+          "seats": 38662,
+          "showtimes": 264,
+          "theaters": 61,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Suit Gundam THE ORIGIN: Birth of the Red Comet",
+          "japanese name": "機動戦士ガンダム ＴＨＥ ＯＲＩＧＩＮ 誕生 赤い彗星",
+          "sales": 4649,
+          "seats": 17070,
+          "showtimes": 97,
+          "theaters": 31,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Greatest Showman",
+          "japanese name": "グレイテスト・ショーマン",
+          "sales": 3856,
+          "seats": 16894,
+          "showtimes": 97,
+          "theaters": 82,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Boss Baby",
+          "japanese name": "ボス・ベイビー",
+          "sales": 3484,
+          "seats": 22386,
+          "showtimes": 155,
+          "theaters": 150,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mama’s Boy",
+          "japanese name": "ママレード・ボーイ",
+          "sales": 3323,
+          "seats": 37790,
+          "showtimes": 253,
+          "theaters": 240,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Liz and the Blue Bird",
+          "japanese name": "リズと青い鳥",
+          "sales": 3082,
+          "seats": 12599,
+          "showtimes": 80,
+          "theaters": 61,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dogushiki",
+          "japanese name": "いぬやしき",
+          "sales": 2590,
+          "seats": 37232,
+          "showtimes": 265,
+          "theaters": 253,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Doraemon 2018: Nobita's Treasure Island",
+          "japanese name": "ドラえもん ２０１８ のび太の宝島",
+          "sales": 2430,
+          "seats": 30652,
+          "showtimes": 210,
+          "theaters": 211,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Digimon Adventure Tri. Chapter 6: “Our Future”",
+          "japanese name": "デジモンアドベンチャーｔｒｉ．第６章「ぼくらの未来」",
+          "sales": 2404,
+          "seats": 5504,
+          "showtimes": 32,
+          "theaters": 13,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version Pretty Rhythm & Kira Kira Pretty Chan",
+          "japanese name": "劇場版 プリパラ＆キラッとプリ☆チャン",
+          "sales": 2393,
+          "seats": 13726,
+          "showtimes": 75,
+          "theaters": 31,
+          "rank": 25,
+          "last_week_ratio": 100.1
+        }
+      ]
+    }
+  ]
+}

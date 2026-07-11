@@ -1,0 +1,773 @@
+{
+  "date": "13-07-2018",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "Jurassic World / Kingdom of the Crystal Skull",
+          "japanese name": "ジュラシック・ワールド／炎の王国",
+          "sales": 41800,
+          "seats": 361201,
+          "showtimes": 1422,
+          "theaters": 275,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pocket Monsters The Movie: Everyone's Story",
+          "japanese name": "劇場版ポケットモンスター みんなの物語",
+          "sales": 12469,
+          "seats": 233885,
+          "showtimes": 884,
+          "theaters": 267,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Shoplifter's Family",
+          "japanese name": "万引き家族",
+          "sales": 5817,
+          "seats": 72587,
+          "showtimes": 493,
+          "theaters": 252,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Han Solo/Star Wars Stories",
+          "japanese name": "ハン・ソロ／スター・ウォーズ・ストーリー",
+          "sales": 4453,
+          "seats": 94380,
+          "showtimes": 638,
+          "theaters": 270,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Flying tires",
+          "japanese name": "空飛ぶタイヤ",
+          "sales": 2632,
+          "seats": 51059,
+          "showtimes": 397,
+          "theaters": 259,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let’s go! Anpanman. Shine bright! The Star of Life",
+          "japanese name": "それいけ！アンパンマン かがやけ！クルンといのちの星",
+          "sales": 2233,
+          "seats": 73308,
+          "showtimes": 500,
+          "theaters": 178,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rainbow Days",
+          "japanese name": "虹色デイズ",
+          "sales": 1475,
+          "seats": 58990,
+          "showtimes": 452,
+          "theaters": 254,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tattoo Parity: Monthly Kabuki Show 2018",
+          "japanese name": "刺青奇偶  月イチ歌舞伎２０１８",
+          "sales": 988,
+          "seats": 4997,
+          "showtimes": 31,
+          "theaters": 29,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wonder, you are the sun.",
+          "japanese name": "ワンダー 君は太陽",
+          "sales": 670,
+          "seats": 10803,
+          "showtimes": 89,
+          "theaters": 166,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Punk Samurai has been slashed!",
+          "japanese name": "パンク侍、斬られて候",
+          "sales": 606,
+          "seats": 18886,
+          "showtimes": 164,
+          "theaters": 250,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Yakitori Dragon",
+          "japanese name": "焼肉ドラゴン",
+          "sales": 447,
+          "seats": 8537,
+          "showtimes": 68,
+          "theaters": 135,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan 2018: The Executioner of Zero",
+          "japanese name": "名探偵コナン２０１８ ゼロの執行人（しっこうにん）",
+          "sales": 387,
+          "seats": 13828,
+          "showtimes": 101,
+          "theaters": 257,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The 50th first kiss",
+          "japanese name": "５０回目のファーストキス",
+          "sales": 349,
+          "seats": 7314,
+          "showtimes": 62,
+          "theaters": 175,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Inside",
+          "japanese name": "インサイド",
+          "sales": 294,
+          "seats": 4285,
+          "showtimes": 36,
+          "theaters": 28,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Battle of the Sexes",
+          "japanese name": "バトル・オブ・ザ・セクシーズ",
+          "sales": 284,
+          "seats": 1733,
+          "showtimes": 13,
+          "theaters": 10,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Those who’re done already",
+          "japanese name": "終わった人",
+          "sales": 273,
+          "seats": 9951,
+          "showtimes": 86,
+          "theaters": 99,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Forest of Sheep and Steel",
+          "japanese name": "羊と鋼の森",
+          "sales": 243,
+          "seats": 8319,
+          "showtimes": 68,
+          "theaters": 199,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "American Assassin",
+          "japanese name": "アメリカン・アサシン",
+          "sales": 211,
+          "seats": 3093,
+          "showtimes": 27,
+          "theaters": 57,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Goodbye, Godard!",
+          "japanese name": "グッバイ・ゴダール！",
+          "sales": 205,
+          "seats": 1756,
+          "showtimes": 12,
+          "theaters": 5,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Seven Samurai 4K Digital Remaster Edition",
+          "japanese name": "七人の侍 ４Ｋデジタルリマスター版",
+          "sales": 153,
+          "seats": 2192,
+          "showtimes": 19,
+          "theaters": 20,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Swindlers",
+          "japanese name": "スウィンダラーズ",
+          "sales": 150,
+          "seats": 1523,
+          "showtimes": 12,
+          "theaters": 7,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The place where Mori is",
+          "japanese name": "モリのいる場所",
+          "sales": 144,
+          "seats": 2608,
+          "showtimes": 20,
+          "theaters": 18,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Battle Heat",
+          "japanese name": "バトルヒート",
+          "sales": 144,
+          "seats": 326,
+          "showtimes": 2,
+          "theaters": 1,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wife, like a rose… Family Life is Hard III",
+          "japanese name": "妻よ薔薇のように 家族はつらいよⅢ",
+          "sales": 140,
+          "seats": 4911,
+          "showtimes": 35,
+          "theaters": 42,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Room Ramping",
+          "japanese name": "ルームロンダリング",
+          "sales": 140,
+          "seats": 1811,
+          "showtimes": 18,
+          "theaters": 18,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "Jurassic World / Kingdom of the Crystal Skull",
+          "japanese name": "ジュラシック・ワールド／炎の王国",
+          "sales": 83100,
+          "seats": 688891,
+          "showtimes": 2680,
+          "theaters": 275,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pocket Monsters The Movie: Everyone's Story",
+          "japanese name": "劇場版ポケットモンスター みんなの物語",
+          "sales": 32480,
+          "seats": 390156,
+          "showtimes": 1500,
+          "theaters": 267,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Han Solo/Star Wars Stories",
+          "japanese name": "ハン・ソロ／スター・ウォーズ・ストーリー",
+          "sales": 9563,
+          "seats": 185729,
+          "showtimes": 1233,
+          "theaters": 270,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Shoplifter's Family",
+          "japanese name": "万引き家族",
+          "sales": 9141,
+          "seats": 123039,
+          "showtimes": 836,
+          "theaters": 252,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rainbow Days",
+          "japanese name": "虹色デイズ",
+          "sales": 4538,
+          "seats": 108473,
+          "showtimes": 824,
+          "theaters": 254,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Flying tires",
+          "japanese name": "空飛ぶタイヤ",
+          "sales": 4447,
+          "seats": 87506,
+          "showtimes": 670,
+          "theaters": 259,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let’s go! Anpanman. Shine bright! The Star of Life",
+          "japanese name": "それいけ！アンパンマン かがやけ！クルンといのちの星",
+          "sales": 2522,
+          "seats": 85084,
+          "showtimes": 586,
+          "theaters": 178,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The 50th first kiss",
+          "japanese name": "５０回目のファーストキス",
+          "sales": 1508,
+          "seats": 23649,
+          "showtimes": 188,
+          "theaters": 175,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan 2018: The Executioner of Zero",
+          "japanese name": "名探偵コナン２０１８ ゼロの執行人（しっこうにん）",
+          "sales": 1440,
+          "seats": 34866,
+          "showtimes": 258,
+          "theaters": 257,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Punk Samurai has been slashed!",
+          "japanese name": "パンク侍、斬られて候",
+          "sales": 1435,
+          "seats": 44069,
+          "showtimes": 371,
+          "theaters": 250,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wonder, you are the sun.",
+          "japanese name": "ワンダー 君は太陽",
+          "sales": 1385,
+          "seats": 22550,
+          "showtimes": 179,
+          "theaters": 166,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bz 30th Anniversary Exhibition Scenes 1988–2018: Theatrical Version",
+          "japanese name": "Ｂｚ ３０ｔｈ Ｙｅａｒ Ｅｘｈｉｂｉｔｉｏｎ ＳＣＥＮＥＳ １９８８－２０１８ 劇場版",
+          "sales": 1020,
+          "seats": 4497,
+          "showtimes": 23,
+          "theaters": 15,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tattoo Parity: Monthly Kabuki Show 2018",
+          "japanese name": "刺青奇偶  月イチ歌舞伎２０１８",
+          "sales": 988,
+          "seats": 4997,
+          "showtimes": 31,
+          "theaters": 29,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Yakitori Dragon",
+          "japanese name": "焼肉ドラゴン",
+          "sales": 808,
+          "seats": 18771,
+          "showtimes": 147,
+          "theaters": 135,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Screen version of湘南乃風 ～一期一会～",
+          "japanese name": "銀幕版 湘南乃風 ～一期一会～",
+          "sales": 717,
+          "seats": 5090,
+          "showtimes": 37,
+          "theaters": 18,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Inside",
+          "japanese name": "インサイド",
+          "sales": 645,
+          "seats": 10415,
+          "showtimes": 78,
+          "theaters": 28,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Muse Drones World Tour",
+          "japanese name": "ＭＵＳＥ ＤＲＯＮＥＳ ＷＯＲＬＤ ＴＯＵＲ",
+          "sales": 539,
+          "seats": 850,
+          "showtimes": 4,
+          "theaters": 4,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Forest of Sheep and Steel",
+          "japanese name": "羊と鋼の森",
+          "sales": 539,
+          "seats": 19681,
+          "showtimes": 157,
+          "theaters": 199,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Battle of the Sexes",
+          "japanese name": "バトル・オブ・ザ・セクシーズ",
+          "sales": 420,
+          "seats": 2671,
+          "showtimes": 20,
+          "theaters": 10,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Those who’re done already",
+          "japanese name": "終わった人",
+          "sales": 360,
+          "seats": 11798,
+          "showtimes": 103,
+          "theaters": 99,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Goodbye, Godard!",
+          "japanese name": "グッバイ・ゴダール！",
+          "sales": 341,
+          "seats": 2831,
+          "showtimes": 20,
+          "theaters": 5,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "When I get home, my wife always pretends to be dead.",
+          "japanese name": "家に帰ると妻が必ず死んだふりをしています。",
+          "sales": 341,
+          "seats": 7824,
+          "showtimes": 63,
+          "theaters": 61,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "American Assassin",
+          "japanese name": "アメリカン・アサシン",
+          "sales": 326,
+          "seats": 6614,
+          "showtimes": 58,
+          "theaters": 57,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Deadpool 2",
+          "japanese name": "デッドプール２",
+          "sales": 311,
+          "seats": 5762,
+          "showtimes": 48,
+          "theaters": 104,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Room Ramping",
+          "japanese name": "ルームロンダリング",
+          "sales": 266,
+          "seats": 3810,
+          "showtimes": 36,
+          "theaters": 18,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Jurassic World / Kingdom of the Crystal Skull",
+          "japanese name": "ジュラシック・ワールド／炎の王国",
+          "sales": 128978,
+          "seats": 893388,
+          "showtimes": 3450,
+          "theaters": 275,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pocket Monsters The Movie: Everyone's Story",
+          "japanese name": "劇場版ポケットモンスター みんなの物語",
+          "sales": 40704,
+          "seats": 439744,
+          "showtimes": 1726,
+          "theaters": 267,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Han Solo/Star Wars Stories",
+          "japanese name": "ハン・ソロ／スター・ウォーズ・ストーリー",
+          "sales": 13600,
+          "seats": 238290,
+          "showtimes": 1580,
+          "theaters": 270,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Shoplifter's Family",
+          "japanese name": "万引き家族",
+          "sales": 10771,
+          "seats": 153239,
+          "showtimes": 1040,
+          "theaters": 252,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Flying tires",
+          "japanese name": "空飛ぶタイヤ",
+          "sales": 5674,
+          "seats": 111424,
+          "showtimes": 859,
+          "theaters": 259,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rainbow Days",
+          "japanese name": "虹色デイズ",
+          "sales": 5484,
+          "seats": 133155,
+          "showtimes": 1016,
+          "theaters": 254,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let’s go! Anpanman. Shine bright! The Star of Life",
+          "japanese name": "それいけ！アンパンマン かがやけ！クルンといのちの星",
+          "sales": 2522,
+          "seats": 85084,
+          "showtimes": 586,
+          "theaters": 178,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Punk Samurai has been slashed!",
+          "japanese name": "パンク侍、斬られて候",
+          "sales": 2052,
+          "seats": 63746,
+          "showtimes": 533,
+          "theaters": 250,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The 50th first kiss",
+          "japanese name": "５０回目のファーストキス",
+          "sales": 1937,
+          "seats": 30868,
+          "showtimes": 245,
+          "theaters": 175,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wonder, you are the sun.",
+          "japanese name": "ワンダー 君は太陽",
+          "sales": 1782,
+          "seats": 26492,
+          "showtimes": 212,
+          "theaters": 166,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan 2018: The Executioner of Zero",
+          "japanese name": "名探偵コナン２０１８ ゼロの執行人（しっこうにん）",
+          "sales": 1637,
+          "seats": 39146,
+          "showtimes": 289,
+          "theaters": 257,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bz 30th Anniversary Exhibition Scenes 1988–2018: Theatrical Version",
+          "japanese name": "Ｂｚ ３０ｔｈ Ｙｅａｒ Ｅｘｈｉｂｉｔｉｏｎ ＳＣＥＮＥＳ １９８８－２０１８ 劇場版",
+          "sales": 1387,
+          "seats": 6002,
+          "showtimes": 30,
+          "theaters": 15,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tattoo Parity: Monthly Kabuki Show 2018",
+          "japanese name": "刺青奇偶  月イチ歌舞伎２０１８",
+          "sales": 988,
+          "seats": 4997,
+          "showtimes": 31,
+          "theaters": 29,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Yakitori Dragon",
+          "japanese name": "焼肉ドラゴン",
+          "sales": 973,
+          "seats": 22377,
+          "showtimes": 176,
+          "theaters": 135,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Screen version of湘南乃風 ～一期一会～",
+          "japanese name": "銀幕版 湘南乃風 ～一期一会～",
+          "sales": 941,
+          "seats": 7731,
+          "showtimes": 55,
+          "theaters": 18,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Inside",
+          "japanese name": "インサイド",
+          "sales": 905,
+          "seats": 14696,
+          "showtimes": 107,
+          "theaters": 28,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Deadpool 2",
+          "japanese name": "デッドプール２",
+          "sales": 778,
+          "seats": 15083,
+          "showtimes": 118,
+          "theaters": 104,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Forest of Sheep and Steel",
+          "japanese name": "羊と鋼の森",
+          "sales": 696,
+          "seats": 26357,
+          "showtimes": 207,
+          "theaters": 199,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Muse Drones World Tour",
+          "japanese name": "ＭＵＳＥ ＤＲＯＮＥＳ ＷＯＲＬＤ ＴＯＵＲ",
+          "sales": 539,
+          "seats": 850,
+          "showtimes": 4,
+          "theaters": 4,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Battle of the Sexes",
+          "japanese name": "バトル・オブ・ザ・セクシーズ",
+          "sales": 536,
+          "seats": 3624,
+          "showtimes": 27,
+          "theaters": 10,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "American Assassin",
+          "japanese name": "アメリカン・アサシン",
+          "sales": 487,
+          "seats": 11506,
+          "showtimes": 94,
+          "theaters": 57,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Goodbye, Godard!",
+          "japanese name": "グッバイ・ゴダール！",
+          "sales": 430,
+          "seats": 3656,
+          "showtimes": 26,
+          "theaters": 5,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "When I get home, my wife always pretends to be dead.",
+          "japanese name": "家に帰ると妻が必ず死んだふりをしています。",
+          "sales": 391,
+          "seats": 9763,
+          "showtimes": 76,
+          "theaters": 61,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "K SEVEN STORIES Episode 1 “R:B ~BLACK~”",
+          "japanese name": "Ｋ ＳＥＶＥＮ ＳＴＯＲＩＥＳ Ｅｐｉｓｏｄｅ １「Ｒ：Ｂ ～ＢＬＡＺＥ～」",
+          "sales": 368,
+          "seats": 11438,
+          "showtimes": 71,
+          "theaters": 30,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Those who’re done already",
+          "japanese name": "終わった人",
+          "sales": 360,
+          "seats": 11798,
+          "showtimes": 103,
+          "theaters": 99,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}

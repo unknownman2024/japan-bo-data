@@ -1,0 +1,773 @@
+{
+  "date": "19-06-2018",
+  "times": [
+    {
+      "title": "Including Independents",
+      "time": "2PM",
+      "data": [
+        {
+          "moviename": "The Shoplifter's Family",
+          "japanese name": "万引き家族",
+          "sales": 20777,
+          "seats": 172749,
+          "showtimes": 564,
+          "theaters": 247,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Flying tires",
+          "japanese name": "空飛ぶタイヤ",
+          "sales": 12045,
+          "seats": 179279,
+          "showtimes": 596,
+          "theaters": 258,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Those who’re done already",
+          "japanese name": "終わった人",
+          "sales": 4412,
+          "seats": 59058,
+          "showtimes": 411,
+          "theaters": 200,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wonder, you are the sun.",
+          "japanese name": "ワンダー 君は太陽",
+          "sales": 3892,
+          "seats": 69572,
+          "showtimes": 376,
+          "theaters": 200,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Forest of Sheep and Steel",
+          "japanese name": "羊と鋼の森",
+          "sales": 3101,
+          "seats": 55567,
+          "showtimes": 407,
+          "theaters": 254,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Maze Runner: The Last Labyrinth",
+          "japanese name": "メイズ・ランナー 最期の迷宮",
+          "sales": 2405,
+          "seats": 70634,
+          "showtimes": 397,
+          "theaters": 254,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wife, like a rose… Family Life is Hard III",
+          "japanese name": "妻よ薔薇のように 家族はつらいよⅢ",
+          "sales": 2389,
+          "seats": 47459,
+          "showtimes": 352,
+          "theaters": 248,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Deadpool 2",
+          "japanese name": "デッドプール２",
+          "sales": 2149,
+          "seats": 61863,
+          "showtimes": 367,
+          "theaters": 270,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The 50th first kiss",
+          "japanese name": "５０回目のファーストキス",
+          "sales": 1957,
+          "seats": 39327,
+          "showtimes": 283,
+          "theaters": 245,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan 2018: The Executioner of Zero",
+          "japanese name": "名探偵コナン２０１８ ゼロの執行人（しっこうにん）",
+          "sales": 1005,
+          "seats": 23819,
+          "showtimes": 160,
+          "theaters": 254,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shinema Kabuki: Tōkaidō Chū Kikurigō – Kabukiza Detective Stories",
+          "japanese name": "シネマ歌舞伎 東海道中膝栗毛 歌舞伎座捕物帖",
+          "sales": 897,
+          "seats": 6052,
+          "showtimes": 39,
+          "theaters": 39,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "When I get home, my wife always pretends to be dead.",
+          "japanese name": "家に帰ると妻が必ず死んだふりをしています。",
+          "sales": 803,
+          "seats": 12176,
+          "showtimes": 90,
+          "theaters": 62,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Peter Rabbit",
+          "japanese name": "ピーターラビット",
+          "sales": 708,
+          "seats": 25734,
+          "showtimes": 173,
+          "theaters": 234,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "OVERDRIVE Overdrive",
+          "japanese name": "ＯＶＥＲ ＤＲＩＶＥ オーバードライブ",
+          "sales": 647,
+          "seats": 28453,
+          "showtimes": 209,
+          "theaters": 246,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ninja Batman",
+          "japanese name": "ニンジャバットマン",
+          "sales": 467,
+          "seats": 14027,
+          "showtimes": 82,
+          "theaters": 49,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love is like the sky after the rain.",
+          "japanese name": "恋は雨上がりのように",
+          "sales": 430,
+          "seats": 14866,
+          "showtimes": 117,
+          "theaters": 244,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Vision / View",
+          "japanese name": "Ｖｉｓｉｏｎ ビジョン",
+          "sales": 419,
+          "seats": 10826,
+          "showtimes": 84,
+          "theaters": 112,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "B'z 30th Year Exhibition \"SCENES\" 1988-2018",
+          "japanese name": "Ｂ′ｚ ３０ｔｈ Ｙｅａｒ Ｅｘｈｉｂｉｔｉｏｎ ’ＳＣＥＮＥＳ” １９８８－２０１８",
+          "sales": 293,
+          "seats": 1519,
+          "showtimes": 4,
+          "theaters": 8,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mochi Tori Sama",
+          "japanese name": "のみとり侍",
+          "sales": 258,
+          "seats": 19246,
+          "showtimes": 142,
+          "theaters": 249,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Smiling on a Cloudy Day: Sequel – Fate, the Two-Headed Amakusa",
+          "japanese name": "曇天に笑う 外伝 宿命、双頭の風魔",
+          "sales": 211,
+          "seats": 5276,
+          "showtimes": 31,
+          "theaters": 27,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Yuzuriha",
+          "japanese name": "ゆずりは",
+          "sales": 190,
+          "seats": 4738,
+          "showtimes": 28,
+          "theaters": 23,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "V.I.P.: The Beasts of War",
+          "japanese name": "Ｖ．Ｉ．Ｐ． 修羅の獣たち",
+          "sales": 188,
+          "seats": 1801,
+          "showtimes": 13,
+          "theaters": 7,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The place where Mori is",
+          "japanese name": "モリのいる場所",
+          "sales": 182,
+          "seats": 9639,
+          "showtimes": 62,
+          "theaters": 62,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Companion in crime",
+          "japanese name": "友罪",
+          "sales": 169,
+          "seats": 6402,
+          "showtimes": 45,
+          "theaters": 160,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The class reunion 30 years later",
+          "japanese name": "３０年後の同窓会",
+          "sales": 152,
+          "seats": 2582,
+          "showtimes": 21,
+          "theaters": 21,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "7PM",
+      "data": [
+        {
+          "moviename": "The Shoplifter's Family",
+          "japanese name": "万引き家族",
+          "sales": 29916,
+          "seats": 317065,
+          "showtimes": 1038,
+          "theaters": 246,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Flying tires",
+          "japanese name": "空飛ぶタイヤ",
+          "sales": 17435,
+          "seats": 333771,
+          "showtimes": 1126,
+          "theaters": 258,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wonder, you are the sun.",
+          "japanese name": "ワンダー 君は太陽",
+          "sales": 5897,
+          "seats": 117223,
+          "showtimes": 635,
+          "theaters": 200,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Those who’re done already",
+          "japanese name": "終わった人",
+          "sales": 5635,
+          "seats": 87534,
+          "showtimes": 610,
+          "theaters": 200,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Deadpool 2",
+          "japanese name": "デッドプール２",
+          "sales": 4901,
+          "seats": 120438,
+          "showtimes": 725,
+          "theaters": 270,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The 50th first kiss",
+          "japanese name": "５０回目のファーストキス",
+          "sales": 4810,
+          "seats": 77521,
+          "showtimes": 547,
+          "theaters": 245,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Forest of Sheep and Steel",
+          "japanese name": "羊と鋼の森",
+          "sales": 4488,
+          "seats": 96935,
+          "showtimes": 701,
+          "theaters": 251,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Maze Runner: The Last Labyrinth",
+          "japanese name": "メイズ・ランナー 最期の迷宮",
+          "sales": 4478,
+          "seats": 132498,
+          "showtimes": 746,
+          "theaters": 252,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wife, like a rose… Family Life is Hard III",
+          "japanese name": "妻よ薔薇のように 家族はつらいよⅢ",
+          "sales": 2783,
+          "seats": 58556,
+          "showtimes": 426,
+          "theaters": 248,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan 2018: The Executioner of Zero",
+          "japanese name": "名探偵コナン２０１８ ゼロの執行人（しっこうにん）",
+          "sales": 2482,
+          "seats": 54299,
+          "showtimes": 350,
+          "theaters": 253,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love is like the sky after the rain.",
+          "japanese name": "恋は雨上がりのように",
+          "sales": 1552,
+          "seats": 42192,
+          "showtimes": 322,
+          "theaters": 242,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "When I get home, my wife always pretends to be dead.",
+          "japanese name": "家に帰ると妻が必ず死んだふりをしています。",
+          "sales": 1539,
+          "seats": 22025,
+          "showtimes": 164,
+          "theaters": 60,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "OVERDRIVE Overdrive",
+          "japanese name": "ＯＶＥＲ ＤＲＩＶＥ オーバードライブ",
+          "sales": 1465,
+          "seats": 57739,
+          "showtimes": 416,
+          "theaters": 243,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Peter Rabbit",
+          "japanese name": "ピーターラビット",
+          "sales": 1327,
+          "seats": 45780,
+          "showtimes": 303,
+          "theaters": 234,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shinema Kabuki: Tōkaidō Chū Kikurigō – Kabukiza Detective Stories",
+          "japanese name": "シネマ歌舞伎 東海道中膝栗毛 歌舞伎座捕物帖",
+          "sales": 987,
+          "seats": 7738,
+          "showtimes": 48,
+          "theaters": 39,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ninja Batman",
+          "japanese name": "ニンジャバットマン",
+          "sales": 918,
+          "seats": 24370,
+          "showtimes": 150,
+          "theaters": 48,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Vision / View",
+          "japanese name": "Ｖｉｓｉｏｎ ビジョン",
+          "sales": 634,
+          "seats": 22765,
+          "showtimes": 170,
+          "theaters": 112,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Avengers: Infinity War",
+          "japanese name": "アベンジャーズ／インフィニティ・ウォー",
+          "sales": 633,
+          "seats": 21827,
+          "showtimes": 150,
+          "theaters": 248,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "B'z 30th Year Exhibition \"SCENES\" 1988-2018",
+          "japanese name": "Ｂ′ｚ ３０ｔｈ Ｙｅａｒ Ｅｘｈｉｂｉｔｉｏｎ ’ＳＣＥＮＥＳ” １９８８－２０１８",
+          "sales": 632,
+          "seats": 2814,
+          "showtimes": 7,
+          "theaters": 8,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Companion in crime",
+          "japanese name": "友罪",
+          "sales": 490,
+          "seats": 18871,
+          "showtimes": 134,
+          "theaters": 158,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Smiling on a Cloudy Day: Sequel – Fate, the Two-Headed Amakusa",
+          "japanese name": "曇天に笑う 外伝 宿命、双頭の風魔",
+          "sales": 438,
+          "seats": 7887,
+          "showtimes": 50,
+          "theaters": 27,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Code Geass: Lelouch of Rebellion III - The Emperor's Way",
+          "japanese name": "コードギアス 反逆のルルーシュⅢ 皇道",
+          "sales": 419,
+          "seats": 8259,
+          "showtimes": 57,
+          "theaters": 61,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mochi Tori Sama",
+          "japanese name": "のみとり侍",
+          "sales": 417,
+          "seats": 31762,
+          "showtimes": 225,
+          "theaters": 248,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "La Plague Witch",
+          "japanese name": "ラプラスの魔女",
+          "sales": 394,
+          "seats": 23295,
+          "showtimes": 167,
+          "theaters": 245,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Asagao and Kase-san.",
+          "japanese name": "あさがおと加瀬さん。",
+          "sales": 317,
+          "seats": 8820,
+          "showtimes": 50,
+          "theaters": 17,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "The Shoplifter's Family",
+          "japanese name": "万引き家族",
+          "sales": 31472,
+          "seats": 389424,
+          "showtimes": 1275,
+          "theaters": 243,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Flying tires",
+          "japanese name": "空飛ぶタイヤ",
+          "sales": 18809,
+          "seats": 409376,
+          "showtimes": 1383,
+          "theaters": 254,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wonder, you are the sun.",
+          "japanese name": "ワンダー 君は太陽",
+          "sales": 6637,
+          "seats": 151503,
+          "showtimes": 822,
+          "theaters": 197,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Deadpool 2",
+          "japanese name": "デッドプール２",
+          "sales": 6375,
+          "seats": 163392,
+          "showtimes": 992,
+          "theaters": 266,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The 50th first kiss",
+          "japanese name": "５０回目のファーストキス",
+          "sales": 5894,
+          "seats": 103324,
+          "showtimes": 728,
+          "theaters": 241,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Those who’re done already",
+          "japanese name": "終わった人",
+          "sales": 5681,
+          "seats": 91932,
+          "showtimes": 640,
+          "theaters": 200,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Maze Runner: The Last Labyrinth",
+          "japanese name": "メイズ・ランナー 最期の迷宮",
+          "sales": 5402,
+          "seats": 177804,
+          "showtimes": 1002,
+          "theaters": 250,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Forest of Sheep and Steel",
+          "japanese name": "羊と鋼の森",
+          "sales": 4825,
+          "seats": 122451,
+          "showtimes": 880,
+          "theaters": 250,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wife, like a rose… Family Life is Hard III",
+          "japanese name": "妻よ薔薇のように 家族はつらいよⅢ",
+          "sales": 2788,
+          "seats": 58696,
+          "showtimes": 427,
+          "theaters": 248,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan 2018: The Executioner of Zero",
+          "japanese name": "名探偵コナン２０１８ ゼロの執行人（しっこうにん）",
+          "sales": 2777,
+          "seats": 61399,
+          "showtimes": 397,
+          "theaters": 253,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "OVERDRIVE Overdrive",
+          "japanese name": "ＯＶＥＲ ＤＲＩＶＥ オーバードライブ",
+          "sales": 1933,
+          "seats": 81386,
+          "showtimes": 592,
+          "theaters": 242,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love is like the sky after the rain.",
+          "japanese name": "恋は雨上がりのように",
+          "sales": 1852,
+          "seats": 51766,
+          "showtimes": 392,
+          "theaters": 240,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "When I get home, my wife always pretends to be dead.",
+          "japanese name": "家に帰ると妻が必ず死んだふりをしています。",
+          "sales": 1729,
+          "seats": 26924,
+          "showtimes": 199,
+          "theaters": 60,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Peter Rabbit",
+          "japanese name": "ピーターラビット",
+          "sales": 1388,
+          "seats": 49985,
+          "showtimes": 326,
+          "theaters": 234,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ninja Batman",
+          "japanese name": "ニンジャバットマン",
+          "sales": 1199,
+          "seats": 32819,
+          "showtimes": 198,
+          "theaters": 47,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Avengers: Infinity War",
+          "japanese name": "アベンジャーズ／インフィニティ・ウォー",
+          "sales": 1123,
+          "seats": 34708,
+          "showtimes": 243,
+          "theaters": 248,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shinema Kabuki: Tōkaidō Chū Kikurigō – Kabukiza Detective Stories",
+          "japanese name": "シネマ歌舞伎 東海道中膝栗毛 歌舞伎座捕物帖",
+          "sales": 987,
+          "seats": 7738,
+          "showtimes": 48,
+          "theaters": 39,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "B'z 30th Year Exhibition \"SCENES\" 1988-2018",
+          "japanese name": "Ｂ′ｚ ３０ｔｈ Ｙｅａｒ Ｅｘｈｉｂｉｔｉｏｎ ’ＳＣＥＮＥＳ” １９８８－２０１８",
+          "sales": 905,
+          "seats": 5116,
+          "showtimes": 12,
+          "theaters": 8,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Vision / View",
+          "japanese name": "Ｖｉｓｉｏｎ ビジョン",
+          "sales": 723,
+          "seats": 28877,
+          "showtimes": 216,
+          "theaters": 110,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Smiling on a Cloudy Day: Sequel – Fate, the Two-Headed Amakusa",
+          "japanese name": "曇天に笑う 外伝 宿命、双頭の風魔",
+          "sales": 634,
+          "seats": 10595,
+          "showtimes": 64,
+          "theaters": 27,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Companion in crime",
+          "japanese name": "友罪",
+          "sales": 571,
+          "seats": 23068,
+          "showtimes": 166,
+          "theaters": 158,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Code Geass: Lelouch of Rebellion III - The Emperor's Way",
+          "japanese name": "コードギアス 反逆のルルーシュⅢ 皇道",
+          "sales": 557,
+          "seats": 10009,
+          "showtimes": 69,
+          "theaters": 61,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "La Plague Witch",
+          "japanese name": "ラプラスの魔女",
+          "sales": 482,
+          "seats": 33401,
+          "showtimes": 239,
+          "theaters": 244,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mochi Tori Sama",
+          "japanese name": "のみとり侍",
+          "sales": 457,
+          "seats": 35078,
+          "showtimes": 247,
+          "theaters": 248,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "2018 FIFA World Cup Russia Colombia×Japan",
+          "japanese name": "２０１８ＦＩＦＡワールドカップ ロシア コロンビア×日本",
+          "sales": 438,
+          "seats": 887,
+          "showtimes": 2,
+          "theaters": 3,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
+    }
+  ]
+}
