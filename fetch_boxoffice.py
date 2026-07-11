@@ -3,16 +3,7 @@
 Fetch box office data, process into movie‑slug, daywise (one file per date),
 and yearly index JSONs. Uses asyncio + aiohttp for fast concurrent fetching.
 
-Handles:
-- "Final" entries are for the previous day, "2PM"/"7PM" for the requested date.
-- Japanese name is the unique key; English name is used to generate a
-  human‑readable slug. If two movies have the same English name, a hash of
-  the Japanese name is appended for uniqueness.
-- Persistent mapping file (movieslug.json) stores Japanese name → {slug, english_name}.
-- Manual corrections (correctedslug.json) allow overriding slugs, English names,
-  and merging movies. Corrections are applied automatically on every run.
-- After corrections, all daywise files are rebuilt to reflect the changes.
-- Manual corrections always override API‑provided English names.
+Supports custom date ranges via --start and --end.
 """
 
 import asyncio
@@ -25,13 +16,14 @@ from datetime import datetime, timedelta
 from pathlib import Path
 from collections import defaultdict
 import logging
+import argparse
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 # Configuration
 BASE_URL = "https://japanapi.bfilmyisback.workers.dev/?date={}"
-START_DATE = datetime(2019, 1, 1)
+START_DATE = datetime(2015, 2, 1)          # earliest data we have
 
 # Use absolute paths based on script location
 BASE_DIR = Path(__file__).parent
@@ -139,23 +131,17 @@ class MovieSlugMapper:
         """
         Ensure the movie exists in the map.
         Returns (slug, is_new).
-        If the movie already exists, the English name is updated ONLY if:
-          - no manual_english flag is set, and
-          - the current stored English name is empty.
-        Manual overrides (set by apply_corrections) are never overwritten.
         """
         primary = self.resolve(jp_name)
         if primary in self.map:
             entry = self.map[primary]
             slug = entry["slug"]
-            # Only update English name if not manually overridden and currently empty
             stored_eng = entry.get("english_name", "")
             if english_name and not stored_eng and not entry.get("manual_english", False):
                 entry["english_name"] = english_name
                 self.dirty = True
             return slug, False
         else:
-            # New movie: generate slug from given English name (or fallback)
             base_slug = generate_slug_from_english(english_name, primary)
             existing_slugs = {v["slug"] for v in self.map.values() if "slug" in v}
             slug = base_slug
@@ -278,7 +264,7 @@ class MovieStore:
         slug, is_new = self.mapper.ensure_movie(primary_jp, movie_name)
         if is_new:
             movie_data = {
-                "movie_name": movie_name,  # will be overwritten by mapper's English name later
+                "movie_name": movie_name,
                 "jp_name": primary_jp,
                 "releaseDate": format_date_str(date_obj),
                 "entries": []
@@ -361,13 +347,14 @@ def ensure_daywise_date(daywise_acc, date_obj):
         }
     return date_str
 
-async def process_api_response(date_str, data, daywise_acc):
+async def process_api_response(date_str, data, daywise_acc, start_date):
     if not data or "entries" not in data:
         return
 
     api_date = datetime.strptime(date_str, "%Y-%m-%d")
     today = datetime.today().date()
-    start_date = START_DATE.date()
+    # Use the supplied start_date (not global)
+    start = start_date if isinstance(start_date, datetime) else start_date
 
     for entry in data["entries"]:
         if not entry.get("include_independents", False):
@@ -380,25 +367,22 @@ async def process_api_response(date_str, data, daywise_acc):
         else:
             actual_date = api_date
 
-        if actual_date.date() < start_date or actual_date.date() > today:
+        if actual_date.date() < start.date() or actual_date.date() > today:
             continue
 
         actual_date_str = format_date_str(actual_date)
         ensure_daywise_date(daywise_acc, actual_date)
 
         for movie in entry.get("data", []):
-            # API提供的英文名（可能为自动翻译）
             movie_en = movie.get("movie_en") or movie["movie"]
             raw_jp = movie["movie"]
             primary_jp = movie_slug_mapper.resolve(raw_jp)
 
-            # 确保电影在mapper中存在（若已手动修正，则保留手动名）
             slug, _ = await movie_store.get_or_create(movie_en, primary_jp, actual_date)
 
-            # ★ 关键修正：从mapper获取最终英文名（手动修正优先）
             definitive_eng = movie_slug_mapper.get_english_name(primary_jp)
             if not definitive_eng:
-                definitive_eng = movie_en   # fallback
+                definitive_eng = movie_en
 
             sales = movie["sales"]
             seats = movie["seats"]
@@ -423,7 +407,6 @@ async def process_api_response(date_str, data, daywise_acc):
             }
             await movie_store.add_entry(slug, entry_obj)
 
-            # ★ daywise条目中使用 definitive_eng（手动修正优先）
             daywise_entry = {
                 "moviename": definitive_eng,
                 "japanese name": primary_jp,
@@ -456,11 +439,6 @@ async def write_daywise(daywise_acc):
             logger.error(f"Failed to write {filepath}: {e}")
 
 async def rebuild_daywise_from_database():
-    """
-    Rebuild all daywise JSON files from the consolidated movie database.
-    This ensures that after corrections (merges, renames), the daywise
-    entries reflect the primary Japanese name and the correct movie_name.
-    """
     logger.info("Rebuilding all daywise files from database...")
     movies = movie_store.get_all_movies()
     daywise_data = defaultdict(lambda: {t: [] for t in TIME_ORDER})
@@ -540,10 +518,6 @@ async def build_yearly_index():
     logger.info("Yearly indices rebuilt.")
 
 async def apply_corrections():
-    """
-    Apply manual overrides from correctedslug.json.
-    Returns True if any changes were made.
-    """
     if not CORRECTIONS_FILE.exists():
         logger.info("No corrections file found, skipping.")
         return False
@@ -602,9 +576,7 @@ async def apply_corrections():
 
     if changed:
         await movie_slug_mapper.save()
-        # Re‑consolidate the database files
         await reconsolidate_movies()
-        # Rebuild daywise from the newly consolidated database
         await rebuild_daywise_from_database()
         logger.info("Corrections applied, database and daywise rebuilt.")
     else:
@@ -613,7 +585,6 @@ async def apply_corrections():
     return changed
 
 async def reconsolidate_movies():
-    """Re‑write all database files from current mapper (merge, rename, delete orphans)."""
     DATABASE_DIR.mkdir(parents=True, exist_ok=True)
 
     groups = defaultdict(list)
@@ -676,28 +647,49 @@ async def reconsolidate_movies():
 
         movie_store.movies[canonical_slug] = movie_data
 
-async def main(full_fetch=False):
-    # 1. Load mapper
+async def main(start_date=None, end_date=None, full_fetch=False):
+    """
+    Fetch data between start_date and end_date (inclusive).
+    If not provided:
+      - full_fetch: from START_DATE to today
+      - otherwise: only yesterday
+    """
     await movie_slug_mapper.load()
-
-    # 2. Load all movie data (this also consolidates existing files)
     await movie_store.load_all()
-
-    # 3. Apply corrections (now after load_all, so daywise rebuild has full data)
     await apply_corrections()
 
-    # 4. Fetch new data
     today = datetime.today().date()
-    if full_fetch:
-        start_date = START_DATE.date()
-        end_date = today
-        logger.info("Performing full fetch from %s to %s", start_date, end_date)
-    else:
-        start_date = today - timedelta(days=1)
-        if start_date < START_DATE.date():
+
+    if start_date is None:
+        if full_fetch:
             start_date = START_DATE.date()
-        end_date = today
-        logger.info("Incremental fetch from %s to %s", start_date, end_date)
+        else:
+            start_date = today - timedelta(days=1)
+            if start_date < START_DATE.date():
+                start_date = START_DATE.date()
+    else:
+        # ensure it's a date object
+        if isinstance(start_date, datetime):
+            start_date = start_date.date()
+
+    if end_date is None:
+        if full_fetch:
+            end_date = today
+        else:
+            end_date = start_date   # single day
+    else:
+        if isinstance(end_date, datetime):
+            end_date = end_date.date()
+
+    if start_date > end_date:
+        logger.error("Start date must be before or equal to end date.")
+        return
+
+    # Clip to START_DATE (we never go before that)
+    if start_date < START_DATE.date():
+        start_date = START_DATE.date()
+
+    logger.info("Fetching from %s to %s", start_date, end_date)
 
     date_list = []
     current = start_date
@@ -713,7 +705,7 @@ async def main(full_fetch=False):
 
         for date_str, data in zip(date_list, responses):
             if data:
-                await process_api_response(date_str, data, daywise_acc)
+                await process_api_response(date_str, data, daywise_acc, start_date)
                 logger.info("Processed %s", date_str)
 
     if daywise_acc:
@@ -732,9 +724,17 @@ async def main(full_fetch=False):
     logger.info("All done!")
 
 if __name__ == "__main__":
-    import argparse
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--full", action="store_true",
-                        help="Perform full fetch from 2019-01-01")
+    parser = argparse.ArgumentParser(description="Fetch box office data for a date range.")
+    parser.add_argument("--start", help="Start date (YYYY-MM-DD). Default: yesterday (or START_DATE if --full).")
+    parser.add_argument("--end", help="End date (YYYY-MM-DD). Default: same as start (or today if --full).")
+    parser.add_argument("--full", action="store_true", help="Fetch from START_DATE to today (ignores --start/--end).")
     args = parser.parse_args()
-    asyncio.run(main(full_fetch=args.full))
+
+    start = None
+    end = None
+    if args.start:
+        start = datetime.strptime(args.start, "%Y-%m-%d")
+    if args.end:
+        end = datetime.strptime(args.end, "%Y-%m-%d")
+
+    asyncio.run(main(start_date=start, end_date=end, full_fetch=args.full))
