@@ -1,0 +1,34 @@
+name: Backfill Historical Data (2015-02-01 to 2018-12-31)
+
+on:
+  workflow_dispatch:   # manual trigger only
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install aiohttp aiofiles
+
+      - name: Run backfill script
+        run: |
+          python fetch_boxoffice.py --start 2015-02-01 --end 2018-12-31
+
+      - name: Commit and push updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ database/
+          git diff --staged --quiet || git commit -m "Backfill historical data 2015-02-01 to 2018-12-31"
+          git push
