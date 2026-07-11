@@ -6,6 +6,36 @@
       "time": "2PM",
       "data": [
         {
+          "moviename": "90 meters",
+          "japanese name": "９０メートル",
+          "sales": 605,
+          "seats": 10456,
+          "showtimes": 87,
+          "theaters": 132,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Training Ground Requirements",
+          "japanese name": "教場 Ｒｅｑｕｉｅｍ",
+          "sales": 1010,
+          "seats": 16070,
+          "showtimes": 137,
+          "theaters": 251,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "When I become a beaver",
+          "japanese name": "私がビーバーになる時",
+          "sales": 2199,
+          "seats": 35663,
+          "showtimes": 277,
+          "theaters": 264,
+          "rank": 4,
+          "last_week_ratio": 107
+        },
+        {
           "moviename": "Detective Conan: The Fallen Angel of the Highway",
           "japanese name": "名探偵コナン ハイウェイの堕天使",
           "sales": 43124,
@@ -13,6 +43,66 @@
           "showtimes": 1858,
           "theaters": 274,
           "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Before long, it’s time to say goodbye.",
+          "japanese name": "ほどなく、お別れです",
+          "sales": 1324,
+          "seats": 18260,
+          "showtimes": 148,
+          "theaters": 250,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Project: Hail Mary",
+          "japanese name": "プロジェクト・ヘイル・メアリー",
+          "sales": 2184,
+          "seats": 21794,
+          "showtimes": 146,
+          "theaters": 256,
+          "rank": 5,
+          "last_week_ratio": 105.6
+        },
+        {
+          "moviename": "Ghost Bride",
+          "japanese name": "鬼の花嫁",
+          "sales": 1380,
+          "seats": 16210,
+          "showtimes": 135,
+          "theaters": 246,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Song Sung Blue",
+          "japanese name": "ソング・サング・ブルー",
+          "sales": 939,
+          "seats": 9619,
+          "showtimes": 77,
+          "theaters": 54,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "GHOST IN THE SHELL / Ghost in the Shell (IMAX 4K Screening)",
+          "japanese name": "ＧＨＯＳＴ ＩＮ ＴＨＥ ＳＨＥＬＬ／攻殻機動隊（ＩＭＡＸ・４Ｋ上映）",
+          "sales": 241,
+          "seats": 4187,
+          "showtimes": 24,
+          "theaters": 28,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The song you left behind last",
+          "japanese name": "君が最後に遺した歌",
+          "sales": 390,
+          "seats": 8169,
+          "showtimes": 72,
+          "theaters": 241,
+          "rank": 23,
           "last_week_ratio": null
         },
         {
@@ -36,64 +126,44 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "When I become a beaver",
-          "japanese name": "私がビーバーになる時",
-          "sales": 2199,
-          "seats": 35663,
-          "showtimes": 277,
-          "theaters": 264,
-          "rank": 4,
-          "last_week_ratio": 107
-        },
-        {
-          "moviename": "Project: Hail Mary",
-          "japanese name": "プロジェクト・ヘイル・メアリー",
-          "sales": 2184,
-          "seats": 21794,
-          "showtimes": 146,
-          "theaters": 256,
-          "rank": 5,
-          "last_week_ratio": 105.6
-        },
-        {
-          "moviename": "Movie: Doraemon: Nobita and the Undersea Castle of the Haunted Rock",
-          "japanese name": "映画ドラえもん 新・のび太の海底鬼岩城",
-          "sales": 1898,
-          "seats": 37679,
-          "showtimes": 294,
-          "theaters": 262,
-          "rank": 6,
-          "last_week_ratio": 130.8
-        },
-        {
-          "moviename": "Super Kaguya-hime!",
-          "japanese name": "超かぐや姫！",
-          "sales": 1412,
-          "seats": 13611,
-          "showtimes": 96,
-          "theaters": 114,
-          "rank": 7,
-          "last_week_ratio": 139.7
-        },
-        {
-          "moviename": "Ghost Bride",
-          "japanese name": "鬼の花嫁",
-          "sales": 1380,
-          "seats": 16210,
-          "showtimes": 135,
-          "theaters": 246,
-          "rank": 8,
+          "moviename": "Retaliation in Mokuban-chō",
+          "japanese name": "木挽町のあだ討ち",
+          "sales": 804,
+          "seats": 13984,
+          "showtimes": 113,
+          "theaters": 120,
+          "rank": 15,
           "last_week_ratio": null
         },
         {
-          "moviename": "Before long, it’s time to say goodbye.",
-          "japanese name": "ほどなく、お別れです",
-          "sales": 1324,
-          "seats": 18260,
-          "showtimes": 148,
-          "theaters": 250,
-          "rank": 9,
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 801,
+          "seats": 7710,
+          "showtimes": 59,
+          "theaters": 78,
+          "rank": 16,
           "last_week_ratio": null
+        },
+        {
+          "moviename": "Cinema Kabuki: Sonezaki心中",
+          "japanese name": "シネマ歌舞伎 曽根崎心中",
+          "sales": 622,
+          "seats": 5418,
+          "showtimes": 39,
+          "theaters": 35,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Camel Restaurant",
+          "japanese name": "かもめ食堂",
+          "sales": 429,
+          "seats": 2613,
+          "showtimes": 17,
+          "theaters": 20,
+          "rank": 21,
+          "last_week_ratio": 141.6
         },
         {
           "moviename": "Hamnet",
@@ -116,23 +186,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Training Ground Requirements",
-          "japanese name": "教場 Ｒｅｑｕｉｅｍ",
-          "sales": 1010,
-          "seats": 16070,
-          "showtimes": 137,
-          "theaters": 251,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Song Sung Blue",
-          "japanese name": "ソング・サング・ブルー",
-          "sales": 939,
-          "seats": 9619,
-          "showtimes": 77,
-          "theaters": 54,
-          "rank": 13,
+          "moviename": "Theatrical Version: Uta no☆Princess-sama♪ TABOO NIGHT XXXX",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ ＴＡＢＯＯ ＮＩＧＨＴ ＸＸＸＸ",
+          "sales": 393,
+          "seats": 798,
+          "showtimes": 3,
+          "theaters": 2,
+          "rank": 22,
           "last_week_ratio": null
         },
         {
@@ -146,24 +206,14 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Retaliation in Mokuban-chō",
-          "japanese name": "木挽町のあだ討ち",
-          "sales": 804,
-          "seats": 13984,
-          "showtimes": 113,
-          "theaters": 120,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "National Treasure",
-          "japanese name": "国宝",
-          "sales": 801,
-          "seats": 7710,
-          "showtimes": 59,
-          "theaters": 78,
-          "rank": 16,
-          "last_week_ratio": null
+          "moviename": "Movie: Doraemon: Nobita and the Undersea Castle of the Haunted Rock",
+          "japanese name": "映画ドラえもん 新・のび太の海底鬼岩城",
+          "sales": 1898,
+          "seats": 37679,
+          "showtimes": 294,
+          "theaters": 262,
+          "rank": 6,
+          "last_week_ratio": 130.8
         },
         {
           "moviename": "The Movie: Enchanted Town’s Puppet – The Clock Tower of Promises",
@@ -176,24 +226,14 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Cinema Kabuki: Sonezaki心中",
-          "japanese name": "シネマ歌舞伎 曽根崎心中",
-          "sales": 622,
-          "seats": 5418,
-          "showtimes": 39,
-          "theaters": 35,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "90 meters",
-          "japanese name": "９０メートル",
-          "sales": 605,
-          "seats": 10456,
-          "showtimes": 87,
-          "theaters": 132,
-          "rank": 19,
-          "last_week_ratio": null
+          "moviename": "Super Kaguya-hime!",
+          "japanese name": "超かぐや姫！",
+          "sales": 1412,
+          "seats": 13611,
+          "showtimes": 96,
+          "theaters": 114,
+          "rank": 7,
+          "last_week_ratio": 139.7
         },
         {
           "moviename": "剧场版「暗杀教室」みんなの時間",
@@ -206,36 +246,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Camel Restaurant",
-          "japanese name": "かもめ食堂",
-          "sales": 429,
-          "seats": 2613,
-          "showtimes": 17,
-          "theaters": 20,
-          "rank": 21,
-          "last_week_ratio": 141.6
-        },
-        {
-          "moviename": "Theatrical Version: Uta no☆Princess-sama♪ TABOO NIGHT XXXX",
-          "japanese name": "劇場版 うたの☆プリンスさまっ♪ ＴＡＢＯＯ ＮＩＧＨＴ ＸＸＸＸ",
-          "sales": 393,
-          "seats": 798,
-          "showtimes": 3,
-          "theaters": 2,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The song you left behind last",
-          "japanese name": "君が最後に遺した歌",
-          "sales": 390,
-          "seats": 8169,
-          "showtimes": 72,
-          "theaters": 241,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Specials",
           "japanese name": "スペシャルズ",
           "sales": 327,
@@ -244,16 +254,6 @@
           "theaters": 78,
           "rank": 24,
           "last_week_ratio": 105.8
-        },
-        {
-          "moviename": "GHOST IN THE SHELL / Ghost in the Shell (IMAX 4K Screening)",
-          "japanese name": "ＧＨＯＳＴ ＩＮ ＴＨＥ ＳＨＥＬＬ／攻殻機動隊（ＩＭＡＸ・４Ｋ上映）",
-          "sales": 241,
-          "seats": 4187,
-          "showtimes": 24,
-          "theaters": 28,
-          "rank": 25,
-          "last_week_ratio": null
         }
       ]
     },
@@ -262,123 +262,13 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "Detective Conan: The Fallen Angel of the Highway",
-          "japanese name": "名探偵コナン ハイウェイの堕天使",
-          "sales": 79755,
-          "seats": 908008,
-          "showtimes": 3674,
-          "theaters": 274,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Why do people write love letters?",
-          "japanese name": "人はなぜラブレターを書くのか",
-          "sales": 21149,
-          "seats": 176830,
-          "showtimes": 1019,
-          "theaters": 261,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM",
-          "japanese name": "ＯＮＥ ＯＫ ＲＯＣＫ ＤＥＴＯＸ ＪＡＰＡＮ ＴＯＵＲ ２０２５ ＡＴ ＮＩＳＳＡＮ ＳＴＡＤＩＵ",
-          "sales": 4647,
-          "seats": 56825,
-          "showtimes": 402,
-          "theaters": 124,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Project: Hail Mary",
-          "japanese name": "プロジェクト・ヘイル・メアリー",
-          "sales": 3914,
-          "seats": 41721,
-          "showtimes": 286,
-          "theaters": 256,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "When I become a beaver",
-          "japanese name": "私がビーバーになる時",
-          "sales": 3440,
-          "seats": 54335,
-          "showtimes": 423,
-          "theaters": 264,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Super Kaguya-hime!",
-          "japanese name": "超かぐや姫！",
-          "sales": 3064,
-          "seats": 28196,
-          "showtimes": 199,
-          "theaters": 114,
-          "rank": 6,
-          "last_week_ratio": 113.4
-        },
-        {
-          "moviename": "Ghost Bride",
-          "japanese name": "鬼の花嫁",
-          "sales": 2672,
-          "seats": 34474,
-          "showtimes": 293,
-          "theaters": 246,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie: Doraemon: Nobita and the Undersea Castle of the Haunted Rock",
-          "japanese name": "映画ドラえもん 新・のび太の海底鬼岩城",
-          "sales": 2437,
-          "seats": 50406,
-          "showtimes": 394,
-          "theaters": 262,
-          "rank": 8,
-          "last_week_ratio": 114.1
-        },
-        {
-          "moviename": "Before long, it’s time to say goodbye.",
-          "japanese name": "ほどなく、お別れです",
-          "sales": 2111,
-          "seats": 28802,
-          "showtimes": 239,
-          "theaters": 250,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Wicked The Eternal Promise",
-          "japanese name": "ウィキッド 永遠の約束",
-          "sales": 1972,
-          "seats": 24191,
-          "showtimes": 190,
-          "theaters": 236,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Golden Kamuy: The Attack on Netsuma Prison",
-          "japanese name": "ゴールデンカムイ 網走監獄襲撃編",
-          "sales": 1883,
-          "seats": 24137,
-          "showtimes": 208,
-          "theaters": 254,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Hamnet",
-          "japanese name": "ハムネット",
-          "sales": 1528,
-          "seats": 15099,
-          "showtimes": 131,
-          "theaters": 111,
-          "rank": 12,
+          "moviename": "90 meters",
+          "japanese name": "９０メートル",
+          "sales": 780,
+          "seats": 15063,
+          "showtimes": 122,
+          "theaters": 132,
+          "rank": 20,
           "last_week_ratio": null
         },
         {
@@ -392,23 +282,73 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The Movie: Enchanted Town’s Puppet – The Clock Tower of Promises",
-          "japanese name": "映画 えんとつ町のプペル ～約束の時計台～",
-          "sales": 1370,
-          "seats": 28162,
-          "showtimes": 217,
-          "theaters": 244,
-          "rank": 14,
+          "moviename": "When I become a beaver",
+          "japanese name": "私がビーバーになる時",
+          "sales": 3440,
+          "seats": 54335,
+          "showtimes": 423,
+          "theaters": 264,
+          "rank": 5,
           "last_week_ratio": null
         },
         {
-          "moviename": "剧场版「暗杀教室」みんなの時間",
-          "japanese name": "劇場版「暗殺教室」みんなの時間",
-          "sales": 1318,
-          "seats": 21789,
-          "showtimes": 165,
-          "theaters": 130,
-          "rank": 15,
+          "moviename": "Detective Conan: The Fallen Angel of the Highway",
+          "japanese name": "名探偵コナン ハイウェイの堕天使",
+          "sales": 79755,
+          "seats": 908008,
+          "showtimes": 3674,
+          "theaters": 274,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Suit Gundam: Flash Hawkeye, The Witch of Kyllike",
+          "japanese name": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
+          "sales": 584,
+          "seats": 13139,
+          "showtimes": 94,
+          "theaters": 227,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Before long, it’s time to say goodbye.",
+          "japanese name": "ほどなく、お別れです",
+          "sales": 2111,
+          "seats": 28802,
+          "showtimes": 239,
+          "theaters": 250,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Project: Hail Mary",
+          "japanese name": "プロジェクト・ヘイル・メアリー",
+          "sales": 3914,
+          "seats": 41721,
+          "showtimes": 286,
+          "theaters": 256,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Street Kingdom: Make your own sound.",
+          "japanese name": "ストリート・キングダム 自分の音を鳴らせ。",
+          "sales": 434,
+          "seats": 9677,
+          "showtimes": 82,
+          "theaters": 154,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ghost Bride",
+          "japanese name": "鬼の花嫁",
+          "sales": 2672,
+          "seats": 34474,
+          "showtimes": 293,
+          "theaters": 246,
+          "rank": 7,
           "last_week_ratio": null
         },
         {
@@ -432,13 +372,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "National Treasure",
-          "japanese name": "国宝",
-          "sales": 912,
-          "seats": 9284,
-          "showtimes": 73,
-          "theaters": 78,
-          "rank": 18,
+          "moviename": "Why do people write love letters?",
+          "japanese name": "人はなぜラブレターを書くのか",
+          "sales": 21149,
+          "seats": 176830,
+          "showtimes": 1019,
+          "theaters": 261,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ONE OK ROCK DETOX JAPAN TOUR 2025 AT NISSAN STADIUM",
+          "japanese name": "ＯＮＥ ＯＫ ＲＯＣＫ ＤＥＴＯＸ ＪＡＰＡＮ ＴＯＵＲ ２０２５ ＡＴ ＮＩＳＳＡＮ ＳＴＡＤＩＵ",
+          "sales": 4647,
+          "seats": 56825,
+          "showtimes": 402,
+          "theaters": 124,
+          "rank": 3,
           "last_week_ratio": null
         },
         {
@@ -452,13 +402,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "90 meters",
-          "japanese name": "９０メートル",
-          "sales": 780,
-          "seats": 15063,
-          "showtimes": 122,
-          "theaters": 132,
-          "rank": 20,
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 912,
+          "seats": 9284,
+          "showtimes": 73,
+          "theaters": 78,
+          "rank": 18,
           "last_week_ratio": null
         },
         {
@@ -472,16 +422,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Mobile Suit Gundam: Flash Hawkeye, The Witch of Kyllike",
-          "japanese name": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
-          "sales": 584,
-          "seats": 13139,
-          "showtimes": 94,
-          "theaters": 227,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Camel Restaurant",
           "japanese name": "かもめ食堂",
           "sales": 554,
@@ -489,6 +429,76 @@
           "showtimes": 24,
           "theaters": 20,
           "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hamnet",
+          "japanese name": "ハムネット",
+          "sales": 1528,
+          "seats": 15099,
+          "showtimes": 131,
+          "theaters": 111,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wicked The Eternal Promise",
+          "japanese name": "ウィキッド 永遠の約束",
+          "sales": 1972,
+          "seats": 24191,
+          "showtimes": 190,
+          "theaters": 236,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Golden Kamuy: The Attack on Netsuma Prison",
+          "japanese name": "ゴールデンカムイ 網走監獄襲撃編",
+          "sales": 1883,
+          "seats": 24137,
+          "showtimes": 208,
+          "theaters": 254,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Doraemon: Nobita and the Undersea Castle of the Haunted Rock",
+          "japanese name": "映画ドラえもん 新・のび太の海底鬼岩城",
+          "sales": 2437,
+          "seats": 50406,
+          "showtimes": 394,
+          "theaters": 262,
+          "rank": 8,
+          "last_week_ratio": 114.1
+        },
+        {
+          "moviename": "The Movie: Enchanted Town’s Puppet – The Clock Tower of Promises",
+          "japanese name": "映画 えんとつ町のプペル ～約束の時計台～",
+          "sales": 1370,
+          "seats": 28162,
+          "showtimes": 217,
+          "theaters": 244,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Super Kaguya-hime!",
+          "japanese name": "超かぐや姫！",
+          "sales": 3064,
+          "seats": 28196,
+          "showtimes": 199,
+          "theaters": 114,
+          "rank": 6,
+          "last_week_ratio": 113.4
+        },
+        {
+          "moviename": "剧场版「暗杀教室」みんなの時間",
+          "japanese name": "劇場版「暗殺教室」みんなの時間",
+          "sales": 1318,
+          "seats": 21789,
+          "showtimes": 165,
+          "theaters": 130,
+          "rank": 15,
           "last_week_ratio": null
         },
         {
@@ -500,16 +510,6 @@
           "theaters": 78,
           "rank": 24,
           "last_week_ratio": null
-        },
-        {
-          "moviename": "Street Kingdom: Make your own sound.",
-          "japanese name": "ストリート・キングダム 自分の音を鳴らせ。",
-          "sales": 434,
-          "seats": 9677,
-          "showtimes": 82,
-          "theaters": 154,
-          "rank": 25,
-          "last_week_ratio": null
         }
       ]
     },
@@ -518,6 +518,36 @@
       "time": "Final",
       "data": [
         {
+          "moviename": "90 meters",
+          "japanese name": "９０メートル",
+          "sales": 852,
+          "seats": 16712,
+          "showtimes": 135,
+          "theaters": 132,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Training Ground Requirements",
+          "japanese name": "教場 Ｒｅｑｕｉｅｍ",
+          "sales": 1555,
+          "seats": 30092,
+          "showtimes": 248,
+          "theaters": 251,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "When I become a beaver",
+          "japanese name": "私がビーバーになる時",
+          "sales": 3539,
+          "seats": 56219,
+          "showtimes": 439,
+          "theaters": 264,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Detective Conan: The Fallen Angel of the Highway",
           "japanese name": "名探偵コナン ハイウェイの堕天使",
           "sales": 95426,
@@ -525,6 +555,76 @@
           "showtimes": 4595,
           "theaters": 274,
           "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Suit Gundam: Flash Hawkeye, The Witch of Kyllike",
+          "japanese name": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
+          "sales": 1251,
+          "seats": 29248,
+          "showtimes": 220,
+          "theaters": 227,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Before long, it’s time to say goodbye.",
+          "japanese name": "ほどなく、お別れです",
+          "sales": 2247,
+          "seats": 31185,
+          "showtimes": 259,
+          "theaters": 250,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Project: Hail Mary",
+          "japanese name": "プロジェクト・ヘイル・メアリー",
+          "sales": 4864,
+          "seats": 55671,
+          "showtimes": 383,
+          "theaters": 256,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Street Kingdom: Make your own sound.",
+          "japanese name": "ストリート・キングダム 自分の音を鳴らせ。",
+          "sales": 668,
+          "seats": 17546,
+          "showtimes": 147,
+          "theaters": 154,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ghost Bride",
+          "japanese name": "鬼の花嫁",
+          "sales": 2996,
+          "seats": 43385,
+          "showtimes": 367,
+          "theaters": 246,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Song Sung Blue",
+          "japanese name": "ソング・サング・ブルー",
+          "sales": 1492,
+          "seats": 22280,
+          "showtimes": 179,
+          "theaters": 54,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The song you left behind last",
+          "japanese name": "君が最後に遺した歌",
+          "sales": 1212,
+          "seats": 26061,
+          "showtimes": 231,
+          "theaters": 241,
+          "rank": 18,
           "last_week_ratio": null
         },
         {
@@ -548,63 +648,53 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Project: Hail Mary",
-          "japanese name": "プロジェクト・ヘイル・メアリー",
-          "sales": 4864,
-          "seats": 55671,
-          "showtimes": 383,
-          "theaters": 256,
-          "rank": 4,
+          "moviename": "Retaliation in Mokuban-chō",
+          "japanese name": "木挽町のあだ討ち",
+          "sales": 900,
+          "seats": 15566,
+          "showtimes": 125,
+          "theaters": 120,
+          "rank": 20,
           "last_week_ratio": null
         },
         {
-          "moviename": "Super Kaguya-hime!",
-          "japanese name": "超かぐや姫！",
-          "sales": 3707,
-          "seats": 37770,
-          "showtimes": 269,
-          "theaters": 114,
-          "rank": 5,
-          "last_week_ratio": 103.7
-        },
-        {
-          "moviename": "When I become a beaver",
-          "japanese name": "私がビーバーになる時",
-          "sales": 3539,
-          "seats": 56219,
-          "showtimes": 439,
-          "theaters": 264,
-          "rank": 6,
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 921,
+          "seats": 9749,
+          "showtimes": 77,
+          "theaters": 78,
+          "rank": 19,
           "last_week_ratio": null
         },
         {
-          "moviename": "Ghost Bride",
-          "japanese name": "鬼の花嫁",
-          "sales": 2996,
-          "seats": 43385,
-          "showtimes": 367,
-          "theaters": 246,
-          "rank": 7,
+          "moviename": "Cinema Kabuki: Sonezaki心中",
+          "japanese name": "シネマ歌舞伎 曽根崎心中",
+          "sales": 657,
+          "seats": 6312,
+          "showtimes": 42,
+          "theaters": 35,
+          "rank": 24,
           "last_week_ratio": null
         },
         {
-          "moviename": "Movie: Doraemon: Nobita and the Undersea Castle of the Haunted Rock",
-          "japanese name": "映画ドラえもん 新・のび太の海底鬼岩城",
-          "sales": 2440,
-          "seats": 50508,
-          "showtimes": 395,
-          "theaters": 262,
-          "rank": 8,
-          "last_week_ratio": 114.2
+          "moviename": "Camel Restaurant",
+          "japanese name": "かもめ食堂",
+          "sales": 554,
+          "seats": 3518,
+          "showtimes": 24,
+          "theaters": 20,
+          "rank": 25,
+          "last_week_ratio": null
         },
         {
-          "moviename": "Before long, it’s time to say goodbye.",
-          "japanese name": "ほどなく、お別れです",
-          "sales": 2247,
-          "seats": 31185,
-          "showtimes": 259,
-          "theaters": 250,
-          "rank": 9,
+          "moviename": "Hamnet",
+          "japanese name": "ハムネット",
+          "sales": 1722,
+          "seats": 18030,
+          "showtimes": 157,
+          "theaters": 111,
+          "rank": 12,
           "last_week_ratio": null
         },
         {
@@ -628,14 +718,14 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Hamnet",
-          "japanese name": "ハムネット",
-          "sales": 1722,
-          "seats": 18030,
-          "showtimes": 157,
-          "theaters": 111,
-          "rank": 12,
-          "last_week_ratio": null
+          "moviename": "Movie: Doraemon: Nobita and the Undersea Castle of the Haunted Rock",
+          "japanese name": "映画ドラえもん 新・のび太の海底鬼岩城",
+          "sales": 2440,
+          "seats": 50508,
+          "showtimes": 395,
+          "theaters": 262,
+          "rank": 8,
+          "last_week_ratio": 114.2
         },
         {
           "moviename": "The Movie: Enchanted Town’s Puppet – The Clock Tower of Promises",
@@ -648,6 +738,16 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Super Kaguya-hime!",
+          "japanese name": "超かぐや姫！",
+          "sales": 3707,
+          "seats": 37770,
+          "showtimes": 269,
+          "theaters": 114,
+          "rank": 5,
+          "last_week_ratio": 103.7
+        },
+        {
           "moviename": "剧场版「暗杀教室」みんなの時間",
           "japanese name": "劇場版「暗殺教室」みんなの時間",
           "sales": 1569,
@@ -658,76 +758,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Training Ground Requirements",
-          "japanese name": "教場 Ｒｅｑｕｉｅｍ",
-          "sales": 1555,
-          "seats": 30092,
-          "showtimes": 248,
-          "theaters": 251,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Song Sung Blue",
-          "japanese name": "ソング・サング・ブルー",
-          "sales": 1492,
-          "seats": 22280,
-          "showtimes": 179,
-          "theaters": 54,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Mobile Suit Gundam: Flash Hawkeye, The Witch of Kyllike",
-          "japanese name": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
-          "sales": 1251,
-          "seats": 29248,
-          "showtimes": 220,
-          "theaters": 227,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The song you left behind last",
-          "japanese name": "君が最後に遺した歌",
-          "sales": 1212,
-          "seats": 26061,
-          "showtimes": 231,
-          "theaters": 241,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "National Treasure",
-          "japanese name": "国宝",
-          "sales": 921,
-          "seats": 9749,
-          "showtimes": 77,
-          "theaters": 78,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Retaliation in Mokuban-chō",
-          "japanese name": "木挽町のあだ討ち",
-          "sales": 900,
-          "seats": 15566,
-          "showtimes": 125,
-          "theaters": 120,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "90 meters",
-          "japanese name": "９０メートル",
-          "sales": 852,
-          "seats": 16712,
-          "showtimes": 135,
-          "theaters": 132,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Specials",
           "japanese name": "スペシャルズ",
           "sales": 706,
@@ -735,36 +765,6 @@
           "showtimes": 81,
           "theaters": 78,
           "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Street Kingdom: Make your own sound.",
-          "japanese name": "ストリート・キングダム 自分の音を鳴らせ。",
-          "sales": 668,
-          "seats": 17546,
-          "showtimes": 147,
-          "theaters": 154,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Cinema Kabuki: Sonezaki心中",
-          "japanese name": "シネマ歌舞伎 曽根崎心中",
-          "sales": 657,
-          "seats": 6312,
-          "showtimes": 42,
-          "theaters": 35,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Camel Restaurant",
-          "japanese name": "かもめ食堂",
-          "sales": 554,
-          "seats": 3518,
-          "showtimes": 24,
-          "theaters": 20,
-          "rank": 25,
           "last_week_ratio": null
         }
       ]

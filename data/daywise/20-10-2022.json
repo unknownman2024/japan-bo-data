@@ -6,6 +6,36 @@
       "time": "2PM",
       "data": [
         {
+          "moviename": "To all of you whom I have loved",
+          "japanese name": "僕が愛したすべての君へ",
+          "sales": 567,
+          "seats": 13608,
+          "showtimes": 107,
+          "theaters": 156,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "To me, the one who loved you.",
+          "japanese name": "君を愛したひとりの僕へ",
+          "sales": 480,
+          "seats": 11204,
+          "showtimes": 91,
+          "theaters": 156,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New Line International Film Festival Your Name.",
+          "japanese name": "新海誠ＩＭＡＸ映画祭 君の名は。",
+          "sales": 361,
+          "seats": 2191,
+          "showtimes": 7,
+          "theaters": 18,
+          "rank": 20,
+          "last_week_ratio": 202.8
+        },
+        {
           "moviename": "Seven Secretaries THE MOVIE",
           "japanese name": "七人の秘書 ＴＨＥ ＭＯＶＩＥ",
           "sales": 4527,
@@ -13,6 +43,96 @@
           "showtimes": 322,
           "theaters": 179,
           "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Film Stage \"Sword Dance of the Dead\" Kinden: The Leaves of the Sun Doth Fall",
+          "japanese name": "劇場版 舞台「刀剣乱舞」慈伝 日日の葉よ散るらむ",
+          "sales": 258,
+          "seats": 3822,
+          "showtimes": 31,
+          "theaters": 40,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New Seiichiro Morishita IMAX Film Festival 5 Centimeters Per Second",
+          "japanese name": "新海誠ＩＭＡＸ映画祭 秒速５センチメートル",
+          "sales": 249,
+          "seats": 3746,
+          "showtimes": 11,
+          "theaters": 17,
+          "rank": 25,
+          "last_week_ratio": 147.3
+        },
+        {
+          "moviename": "Bad Guys",
+          "japanese name": "バッドガイズ",
+          "sales": 527,
+          "seats": 20812,
+          "showtimes": 160,
+          "theaters": 182,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Further beyond.",
+          "japanese name": "もっと超越した所へ。",
+          "sales": 791,
+          "seats": 27982,
+          "showtimes": 184,
+          "theaters": 129,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Downstairs Abbey: A New Era",
+          "japanese name": "ダウントン・アビー 新たなる時代へ",
+          "sales": 520,
+          "seats": 4237,
+          "showtimes": 35,
+          "theaters": 47,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Finding the body",
+          "japanese name": "カラダ探し",
+          "sales": 2783,
+          "seats": 104778,
+          "showtimes": 446,
+          "theaters": 196,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I Am Makimoto",
+          "japanese name": "アイ・アム まきもと",
+          "sales": 544,
+          "seats": 13800,
+          "showtimes": 109,
+          "theaters": 177,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Lord of the Rings: The Two Towers",
+          "japanese name": "ロード・オブ・ザ・リング／二つの塔",
+          "sales": 398,
+          "seats": 5369,
+          "showtimes": 17,
+          "theaters": 25,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "An angel descended to me! Precious Friends",
+          "japanese name": "私に天使が舞い降りた！プレシャス・フレンズ",
+          "sales": 310,
+          "seats": 13687,
+          "showtimes": 69,
+          "theaters": 37,
+          "rank": 21,
           "last_week_ratio": null
         },
         {
@@ -26,16 +146,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Listen closely",
-          "japanese name": "耳をすませば",
-          "sales": 3715,
-          "seats": 105488,
-          "showtimes": 417,
-          "theaters": 196,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "ONE PIECE FILM RED",
           "japanese name": "ＯＮＥ ＰＩＥＣＥ ＦＩＬＭ ＲＥＤ",
           "sales": 3020,
@@ -46,13 +156,33 @@
           "last_week_ratio": 132.4
         },
         {
-          "moviename": "Finding the body",
-          "japanese name": "カラダ探し",
-          "sales": 2783,
-          "seats": 104778,
-          "showtimes": 446,
-          "theaters": 196,
-          "rank": 5,
+          "moviename": "A hundred flowers",
+          "japanese name": "百花",
+          "sales": 683,
+          "seats": 11898,
+          "showtimes": 92,
+          "theaters": 91,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "'The forest that \"it\" needs'",
+          "japanese name": "’それ”がいる森",
+          "sales": 544,
+          "seats": 20043,
+          "showtimes": 156,
+          "theaters": 192,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Delish Party Precure",
+          "japanese name": "映画デリシャスパーティ・プリキュア",
+          "sales": 613,
+          "seats": 32380,
+          "showtimes": 211,
+          "theaters": 135,
+          "rank": 11,
           "last_week_ratio": null
         },
         {
@@ -76,16 +206,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Further beyond.",
-          "japanese name": "もっと超越した所へ。",
-          "sales": 791,
-          "seats": 27982,
-          "showtimes": 184,
-          "theaters": 129,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Top Gun: Maverick",
           "japanese name": "トップガン マーヴェリック",
           "sales": 753,
@@ -93,146 +213,6 @@
           "showtimes": 69,
           "theaters": 148,
           "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "A hundred flowers",
-          "japanese name": "百花",
-          "sales": 683,
-          "seats": 11898,
-          "showtimes": 92,
-          "theaters": 91,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie: Delish Party Precure",
-          "japanese name": "映画デリシャスパーティ・プリキュア",
-          "sales": 613,
-          "seats": 32380,
-          "showtimes": 211,
-          "theaters": 135,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "To all of you whom I have loved",
-          "japanese name": "僕が愛したすべての君へ",
-          "sales": 567,
-          "seats": 13608,
-          "showtimes": 107,
-          "theaters": 156,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "I Am Makimoto",
-          "japanese name": "アイ・アム まきもと",
-          "sales": 544,
-          "seats": 13800,
-          "showtimes": 109,
-          "theaters": 177,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "'The forest that \"it\" needs'",
-          "japanese name": "’それ”がいる森",
-          "sales": 544,
-          "seats": 20043,
-          "showtimes": 156,
-          "theaters": 192,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Bad Guys",
-          "japanese name": "バッドガイズ",
-          "sales": 527,
-          "seats": 20812,
-          "showtimes": 160,
-          "theaters": 182,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Downstairs Abbey: A New Era",
-          "japanese name": "ダウントン・アビー 新たなる時代へ",
-          "sales": 520,
-          "seats": 4237,
-          "showtimes": 35,
-          "theaters": 47,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "To me, the one who loved you.",
-          "japanese name": "君を愛したひとりの僕へ",
-          "sales": 480,
-          "seats": 11204,
-          "showtimes": 91,
-          "theaters": 156,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Lord of the Rings: The Two Towers",
-          "japanese name": "ロード・オブ・ザ・リング／二つの塔",
-          "sales": 398,
-          "seats": 5369,
-          "showtimes": 17,
-          "theaters": 25,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "剧场版 うたの☆プリンスさまっ♪ Maji LOVE Starlight Tours",
-          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
-          "sales": 378,
-          "seats": 13073,
-          "showtimes": 56,
-          "theaters": 89,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "New Line International Film Festival Your Name.",
-          "japanese name": "新海誠ＩＭＡＸ映画祭 君の名は。",
-          "sales": 361,
-          "seats": 2191,
-          "showtimes": 7,
-          "theaters": 18,
-          "rank": 20,
-          "last_week_ratio": 202.8
-        },
-        {
-          "moviename": "An angel descended to me! Precious Friends",
-          "japanese name": "私に天使が舞い降りた！プレシャス・フレンズ",
-          "sales": 310,
-          "seats": 13687,
-          "showtimes": 69,
-          "theaters": 37,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "My Broken Mariko",
-          "japanese name": "マイ・ブロークン・マリコ",
-          "sales": 310,
-          "seats": 7018,
-          "showtimes": 52,
-          "theaters": 100,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Film Stage \"Sword Dance of the Dead\" Kinden: The Leaves of the Sun Doth Fall",
-          "japanese name": "劇場版 舞台「刀剣乱舞」慈伝 日日の葉よ散るらむ",
-          "sales": 258,
-          "seats": 3822,
-          "showtimes": 31,
-          "theaters": 40,
-          "rank": 23,
           "last_week_ratio": null
         },
         {
@@ -246,14 +226,34 @@
           "last_week_ratio": 295.4
         },
         {
-          "moviename": "New Seiichiro Morishita IMAX Film Festival 5 Centimeters Per Second",
-          "japanese name": "新海誠ＩＭＡＸ映画祭 秒速５センチメートル",
-          "sales": 249,
-          "seats": 3746,
-          "showtimes": 11,
-          "theaters": 17,
-          "rank": 25,
-          "last_week_ratio": 147.3
+          "moviename": "Listen closely",
+          "japanese name": "耳をすませば",
+          "sales": 3715,
+          "seats": 105488,
+          "showtimes": 417,
+          "theaters": 196,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Broken Mariko",
+          "japanese name": "マイ・ブロークン・マリコ",
+          "sales": 310,
+          "seats": 7018,
+          "showtimes": 52,
+          "theaters": 100,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 うたの☆プリンスさまっ♪ Maji LOVE Starlight Tours",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
+          "sales": 378,
+          "seats": 13073,
+          "showtimes": 56,
+          "theaters": 89,
+          "rank": 19,
+          "last_week_ratio": null
         }
       ]
     },
@@ -262,6 +262,96 @@
       "time": "7PM",
       "data": [
         {
+          "moviename": "To all of you whom I have loved",
+          "japanese name": "僕が愛したすべての君へ",
+          "sales": 1437,
+          "seats": 29955,
+          "showtimes": 238,
+          "theaters": 156,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "To me, the one who loved you.",
+          "japanese name": "君を愛したひとりの僕へ",
+          "sales": 1375,
+          "seats": 26938,
+          "showtimes": 221,
+          "theaters": 156,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Four- tatami Time Machine Blues",
+          "japanese name": "四畳半タイムマシンブルース",
+          "sales": 915,
+          "seats": 15079,
+          "showtimes": 86,
+          "theaters": 48,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New Line International Film Festival Your Name.",
+          "japanese name": "新海誠ＩＭＡＸ映画祭 君の名は。",
+          "sales": 1287,
+          "seats": 6504,
+          "showtimes": 21,
+          "theaters": 18,
+          "rank": 13,
+          "last_week_ratio": 229
+        },
+        {
+          "moviename": "Seven Secretaries THE MOVIE",
+          "japanese name": "七人の秘書 ＴＨＥ ＭＯＶＩＥ",
+          "sales": 6508,
+          "seats": 85193,
+          "showtimes": 557,
+          "theaters": 179,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HELDOGS",
+          "japanese name": "ヘルドッグス",
+          "sales": 623,
+          "seats": 16427,
+          "showtimes": 125,
+          "theaters": 175,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bad Guys",
+          "japanese name": "バッドガイズ",
+          "sales": 1322,
+          "seats": 42004,
+          "showtimes": 311,
+          "theaters": 182,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Further beyond.",
+          "japanese name": "もっと超越した所へ。",
+          "sales": 1728,
+          "seats": 56987,
+          "showtimes": 371,
+          "theaters": 129,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Downstairs Abbey: A New Era",
+          "japanese name": "ダウントン・アビー 新たなる時代へ",
+          "sales": 800,
+          "seats": 7575,
+          "showtimes": 64,
+          "theaters": 47,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Finding the body",
           "japanese name": "カラダ探し",
           "sales": 8241,
@@ -269,6 +359,36 @@
           "showtimes": 827,
           "theaters": 196,
           "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I Am Makimoto",
+          "japanese name": "アイ・アム まきもと",
+          "sales": 953,
+          "seats": 28590,
+          "showtimes": 216,
+          "theaters": 177,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Lord of the Rings: The Two Towers",
+          "japanese name": "ロード・オブ・ザ・リング／二つの塔",
+          "sales": 607,
+          "seats": 7279,
+          "showtimes": 23,
+          "theaters": 25,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "An angel descended to me! Precious Friends",
+          "japanese name": "私に天使が舞い降りた！プレシャス・フレンズ",
+          "sales": 607,
+          "seats": 24722,
+          "showtimes": 128,
+          "theaters": 37,
+          "rank": 25,
           "last_week_ratio": null
         },
         {
@@ -292,23 +412,33 @@
           "last_week_ratio": 126.7
         },
         {
-          "moviename": "Seven Secretaries THE MOVIE",
-          "japanese name": "七人の秘書 ＴＨＥ ＭＯＶＩＥ",
-          "sales": 6508,
-          "seats": 85193,
-          "showtimes": 557,
-          "theaters": 179,
-          "rank": 4,
+          "moviename": "A hundred flowers",
+          "japanese name": "百花",
+          "sales": 788,
+          "seats": 14976,
+          "showtimes": 114,
+          "theaters": 91,
+          "rank": 19,
           "last_week_ratio": null
         },
         {
-          "moviename": "Listen closely",
-          "japanese name": "耳をすませば",
-          "sales": 6382,
-          "seats": 202493,
-          "showtimes": 793,
-          "theaters": 196,
-          "rank": 5,
+          "moviename": "'The forest that \"it\" needs'",
+          "japanese name": "’それ”がいる森",
+          "sales": 1258,
+          "seats": 44824,
+          "showtimes": 354,
+          "theaters": 192,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Delish Party Precure",
+          "japanese name": "映画デリシャスパーティ・プリキュア",
+          "sales": 776,
+          "seats": 39381,
+          "showtimes": 260,
+          "theaters": 135,
+          "rank": 20,
           "last_week_ratio": null
         },
         {
@@ -342,63 +472,23 @@
           "last_week_ratio": 102.9
         },
         {
-          "moviename": "Further beyond.",
-          "japanese name": "もっと超越した所へ。",
-          "sales": 1728,
-          "seats": 56987,
-          "showtimes": 371,
-          "theaters": 129,
-          "rank": 9,
+          "moviename": "Listen closely",
+          "japanese name": "耳をすませば",
+          "sales": 6382,
+          "seats": 202493,
+          "showtimes": 793,
+          "theaters": 196,
+          "rank": 5,
           "last_week_ratio": null
         },
         {
-          "moviename": "To all of you whom I have loved",
-          "japanese name": "僕が愛したすべての君へ",
-          "sales": 1437,
-          "seats": 29955,
-          "showtimes": 238,
-          "theaters": 156,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "To me, the one who loved you.",
-          "japanese name": "君を愛したひとりの僕へ",
-          "sales": 1375,
-          "seats": 26938,
-          "showtimes": 221,
-          "theaters": 156,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Bad Guys",
-          "japanese name": "バッドガイズ",
-          "sales": 1322,
-          "seats": 42004,
-          "showtimes": 311,
-          "theaters": 182,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "New Line International Film Festival Your Name.",
-          "japanese name": "新海誠ＩＭＡＸ映画祭 君の名は。",
-          "sales": 1287,
-          "seats": 6504,
-          "showtimes": 21,
-          "theaters": 18,
-          "rank": 13,
-          "last_week_ratio": 229
-        },
-        {
-          "moviename": "'The forest that \"it\" needs'",
-          "japanese name": "’それ”がいる森",
-          "sales": 1258,
-          "seats": 44824,
-          "showtimes": 354,
-          "theaters": 192,
-          "rank": 14,
+          "moviename": "My Broken Mariko",
+          "japanese name": "マイ・ブロークン・マリコ",
+          "sales": 639,
+          "seats": 15418,
+          "showtimes": 111,
+          "theaters": 100,
+          "rank": 22,
           "last_week_ratio": null
         },
         {
@@ -412,56 +502,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "I Am Makimoto",
-          "japanese name": "アイ・アム まきもと",
-          "sales": 953,
-          "seats": 28590,
-          "showtimes": 216,
-          "theaters": 177,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Four- tatami Time Machine Blues",
-          "japanese name": "四畳半タイムマシンブルース",
-          "sales": 915,
-          "seats": 15079,
-          "showtimes": 86,
-          "theaters": 48,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Downstairs Abbey: A New Era",
-          "japanese name": "ダウントン・アビー 新たなる時代へ",
-          "sales": 800,
-          "seats": 7575,
-          "showtimes": 64,
-          "theaters": 47,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "A hundred flowers",
-          "japanese name": "百花",
-          "sales": 788,
-          "seats": 14976,
-          "showtimes": 114,
-          "theaters": 91,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie: Delish Party Precure",
-          "japanese name": "映画デリシャスパーティ・プリキュア",
-          "sales": 776,
-          "seats": 39381,
-          "showtimes": 260,
-          "theaters": 135,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Kingdom 2: Towards the Distant Lands",
           "japanese name": "キングダム２ 遥かなる大地へ",
           "sales": 645,
@@ -470,46 +510,6 @@
           "theaters": 70,
           "rank": 21,
           "last_week_ratio": 112.4
-        },
-        {
-          "moviename": "My Broken Mariko",
-          "japanese name": "マイ・ブロークン・マリコ",
-          "sales": 639,
-          "seats": 15418,
-          "showtimes": 111,
-          "theaters": 100,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "HELDOGS",
-          "japanese name": "ヘルドッグス",
-          "sales": 623,
-          "seats": 16427,
-          "showtimes": 125,
-          "theaters": 175,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Lord of the Rings: The Two Towers",
-          "japanese name": "ロード・オブ・ザ・リング／二つの塔",
-          "sales": 607,
-          "seats": 7279,
-          "showtimes": 23,
-          "theaters": 25,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "An angel descended to me! Precious Friends",
-          "japanese name": "私に天使が舞い降りた！プレシャス・フレンズ",
-          "sales": 607,
-          "seats": 24722,
-          "showtimes": 128,
-          "theaters": 37,
-          "rank": 25,
-          "last_week_ratio": null
         }
       ]
     },
@@ -518,6 +518,96 @@
       "time": "Final",
       "data": [
         {
+          "moviename": "To all of you whom I have loved",
+          "japanese name": "僕が愛したすべての君へ",
+          "sales": 1630,
+          "seats": 34343,
+          "showtimes": 273,
+          "theaters": 156,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "To me, the one who loved you.",
+          "japanese name": "君を愛したひとりの僕へ",
+          "sales": 1650,
+          "seats": 32577,
+          "showtimes": 266,
+          "theaters": 156,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Four- tatami Time Machine Blues",
+          "japanese name": "四畳半タイムマシンブルース",
+          "sales": 1329,
+          "seats": 18951,
+          "showtimes": 108,
+          "theaters": 48,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New Line International Film Festival Your Name.",
+          "japanese name": "新海誠ＩＭＡＸ映画祭 君の名は。",
+          "sales": 1360,
+          "seats": 6810,
+          "showtimes": 22,
+          "theaters": 18,
+          "rank": 15,
+          "last_week_ratio": 199.4
+        },
+        {
+          "moviename": "Seven Secretaries THE MOVIE",
+          "japanese name": "七人の秘書 ＴＨＥ ＭＯＶＩＥ",
+          "sales": 7449,
+          "seats": 110905,
+          "showtimes": 727,
+          "theaters": 179,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HELDOGS",
+          "japanese name": "ヘルドッグス",
+          "sales": 843,
+          "seats": 23682,
+          "showtimes": 179,
+          "theaters": 175,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bad Guys",
+          "japanese name": "バッドガイズ",
+          "sales": 1471,
+          "seats": 46291,
+          "showtimes": 342,
+          "theaters": 182,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Further beyond.",
+          "japanese name": "もっと超越した所へ。",
+          "sales": 2164,
+          "seats": 75118,
+          "showtimes": 488,
+          "theaters": 129,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Downstairs Abbey: A New Era",
+          "japanese name": "ダウントン・アビー 新たなる時代へ",
+          "sales": 807,
+          "seats": 7749,
+          "showtimes": 66,
+          "theaters": 47,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Finding the body",
           "japanese name": "カラダ探し",
           "sales": 10176,
@@ -525,6 +615,46 @@
           "showtimes": 1042,
           "theaters": 196,
           "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I Am Makimoto",
+          "japanese name": "アイ・アム まきもと",
+          "sales": 998,
+          "seats": 33739,
+          "showtimes": 247,
+          "theaters": 177,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Lord of the Rings: The Two Towers",
+          "japanese name": "ロード・オブ・ザ・リング／二つの塔",
+          "sales": 963,
+          "seats": 9737,
+          "showtimes": 30,
+          "theaters": 25,
+          "rank": 18,
+          "last_week_ratio": 114.5
+        },
+        {
+          "moviename": "An angel descended to me! Precious Friends",
+          "japanese name": "私に天使が舞い降りた！プレシャス・フレンズ",
+          "sales": 852,
+          "seats": 33592,
+          "showtimes": 171,
+          "theaters": 37,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HIGH & LOW THE WORST X",
+          "japanese name": "ＨｉＧＨ＆ＬＯＷ ＴＨＥ ＷＯＲＳＴ Ｘ",
+          "sales": 912,
+          "seats": 14406,
+          "showtimes": 98,
+          "theaters": 99,
+          "rank": 19,
           "last_week_ratio": null
         },
         {
@@ -548,23 +678,33 @@
           "last_week_ratio": 130.3
         },
         {
-          "moviename": "Seven Secretaries THE MOVIE",
-          "japanese name": "七人の秘書 ＴＨＥ ＭＯＶＩＥ",
-          "sales": 7449,
-          "seats": 110905,
-          "showtimes": 727,
-          "theaters": 179,
-          "rank": 4,
+          "moviename": "A hundred flowers",
+          "japanese name": "百花",
+          "sales": 791,
+          "seats": 15340,
+          "showtimes": 116,
+          "theaters": 91,
+          "rank": 24,
           "last_week_ratio": null
         },
         {
-          "moviename": "Listen closely",
-          "japanese name": "耳をすませば",
-          "sales": 7207,
-          "seats": 254497,
-          "showtimes": 995,
-          "theaters": 196,
-          "rank": 5,
+          "moviename": "'The forest that \"it\" needs'",
+          "japanese name": "’それ”がいる森",
+          "sales": 1543,
+          "seats": 62892,
+          "showtimes": 491,
+          "theaters": 192,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Delish Party Precure",
+          "japanese name": "映画デリシャスパーティ・プリキュア",
+          "sales": 776,
+          "seats": 39381,
+          "showtimes": 260,
+          "theaters": 135,
+          "rank": 25,
           "last_week_ratio": null
         },
         {
@@ -598,143 +738,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Further beyond.",
-          "japanese name": "もっと超越した所へ。",
-          "sales": 2164,
-          "seats": 75118,
-          "showtimes": 488,
-          "theaters": 129,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "To me, the one who loved you.",
-          "japanese name": "君を愛したひとりの僕へ",
-          "sales": 1650,
-          "seats": 32577,
-          "showtimes": 266,
-          "theaters": 156,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "To all of you whom I have loved",
-          "japanese name": "僕が愛したすべての君へ",
-          "sales": 1630,
-          "seats": 34343,
-          "showtimes": 273,
-          "theaters": 156,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "剧场版 うたの☆プリンスさまっ♪ Maji LOVE Starlight Tours",
-          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
-          "sales": 1578,
-          "seats": 41410,
-          "showtimes": 194,
-          "theaters": 89,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "'The forest that \"it\" needs'",
-          "japanese name": "’それ”がいる森",
-          "sales": 1543,
-          "seats": 62892,
-          "showtimes": 491,
-          "theaters": 192,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Bad Guys",
-          "japanese name": "バッドガイズ",
-          "sales": 1471,
-          "seats": 46291,
-          "showtimes": 342,
-          "theaters": 182,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "New Line International Film Festival Your Name.",
-          "japanese name": "新海誠ＩＭＡＸ映画祭 君の名は。",
-          "sales": 1360,
-          "seats": 6810,
-          "showtimes": 22,
-          "theaters": 18,
-          "rank": 15,
-          "last_week_ratio": 199.4
-        },
-        {
-          "moviename": "Four- tatami Time Machine Blues",
-          "japanese name": "四畳半タイムマシンブルース",
-          "sales": 1329,
-          "seats": 18951,
-          "showtimes": 108,
-          "theaters": 48,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "I Am Makimoto",
-          "japanese name": "アイ・アム まきもと",
-          "sales": 998,
-          "seats": 33739,
-          "showtimes": 247,
-          "theaters": 177,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Lord of the Rings: The Two Towers",
-          "japanese name": "ロード・オブ・ザ・リング／二つの塔",
-          "sales": 963,
-          "seats": 9737,
-          "showtimes": 30,
-          "theaters": 25,
-          "rank": 18,
-          "last_week_ratio": 114.5
-        },
-        {
-          "moviename": "HIGH & LOW THE WORST X",
-          "japanese name": "ＨｉＧＨ＆ＬＯＷ ＴＨＥ ＷＯＲＳＴ Ｘ",
-          "sales": 912,
-          "seats": 14406,
-          "showtimes": 98,
-          "theaters": 99,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "An angel descended to me! Precious Friends",
-          "japanese name": "私に天使が舞い降りた！プレシャス・フレンズ",
-          "sales": 852,
-          "seats": 33592,
-          "showtimes": 171,
-          "theaters": 37,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "HELDOGS",
-          "japanese name": "ヘルドッグス",
-          "sales": 843,
-          "seats": 23682,
-          "showtimes": 179,
-          "theaters": 175,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Downstairs Abbey: A New Era",
-          "japanese name": "ダウントン・アビー 新たなる時代へ",
-          "sales": 807,
-          "seats": 7749,
-          "showtimes": 66,
-          "theaters": 47,
-          "rank": 22,
+          "moviename": "Listen closely",
+          "japanese name": "耳をすませば",
+          "sales": 7207,
+          "seats": 254497,
+          "showtimes": 995,
+          "theaters": 196,
+          "rank": 5,
           "last_week_ratio": null
         },
         {
@@ -748,23 +758,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "A hundred flowers",
-          "japanese name": "百花",
-          "sales": 791,
-          "seats": 15340,
-          "showtimes": 116,
-          "theaters": 91,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie: Delish Party Precure",
-          "japanese name": "映画デリシャスパーティ・プリキュア",
-          "sales": 776,
-          "seats": 39381,
-          "showtimes": 260,
-          "theaters": 135,
-          "rank": 25,
+          "moviename": "剧场版 うたの☆プリンスさまっ♪ Maji LOVE Starlight Tours",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥスターリッシュツアーズ",
+          "sales": 1578,
+          "seats": 41410,
+          "showtimes": 194,
+          "theaters": 89,
+          "rank": 12,
           "last_week_ratio": null
         }
       ]

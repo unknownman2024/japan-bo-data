@@ -6,13 +6,33 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "Before long, it’s time to say goodbye.",
-          "japanese name": "ほどなく、お別れです",
-          "sales": 28147,
-          "seats": 161208,
-          "showtimes": 605,
-          "theaters": 273,
-          "rank": 1,
+          "moviename": "Glory's Back Home",
+          "japanese name": "栄光のバックホーム",
+          "sales": 467,
+          "seats": 10254,
+          "showtimes": 84,
+          "theaters": 133,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: The Crazy Thing in My Heart",
+          "japanese name": "劇場版 僕の心のヤバイやつ",
+          "sales": 2506,
+          "seats": 30721,
+          "showtimes": 180,
+          "theaters": 98,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Avatar: Fire and Ash",
+          "japanese name": "アバター：ファイヤー・アンド・アッシュ",
+          "sales": 358,
+          "seats": 7333,
+          "showtimes": 62,
+          "theaters": 250,
+          "rank": 23,
           "last_week_ratio": null
         },
         {
@@ -24,16 +44,6 @@
           "theaters": 272,
           "rank": 2,
           "last_week_ratio": null
-        },
-        {
-          "moviename": "National Treasure",
-          "japanese name": "国宝",
-          "sales": 7741,
-          "seats": 32605,
-          "showtimes": 241,
-          "theaters": 254,
-          "rank": 3,
-          "last_week_ratio": 196.2
         },
         {
           "moviename": "Zootopia 2",
@@ -56,26 +66,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Crime 101",
-          "japanese name": "クライム１０１",
-          "sales": 4567,
-          "seats": 68760,
-          "showtimes": 475,
-          "theaters": 255,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version: The Crazy Thing in My Heart",
-          "japanese name": "劇場版 僕の心のヤバイやつ",
-          "sales": 2506,
-          "seats": 30721,
-          "showtimes": 180,
-          "theaters": 98,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "BE: THE ONE - MEANT TO BE -",
           "japanese name": "ＢＥ：ｔｈｅ ＯＮＥ －ＭＥＡＮＴ ＴＯ ＢＥ－",
           "sales": 2455,
@@ -83,16 +73,6 @@
           "showtimes": 100,
           "theaters": 86,
           "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Futami Sisters / Japanese Kimono Beginning, Monthly Kabuki 2016",
-          "japanese name": "二人藤娘／日本振袖始  月イチ歌舞伎２０１６",
-          "sales": 2389,
-          "seats": 4698,
-          "showtimes": 29,
-          "theaters": 29,
-          "rank": 9,
           "last_week_ratio": null
         },
         {
@@ -106,16 +86,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Galaxy Express Milky☆Subway: Direct to the Theater Station",
-          "japanese name": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
-          "sales": 1687,
-          "seats": 22874,
-          "showtimes": 115,
-          "theaters": 59,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Pure love, top quality!",
           "japanese name": "純愛上等！",
           "sales": 1600,
@@ -126,13 +96,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The Guardian of the Cinnamon Tree",
-          "japanese name": "クスノキの番人",
-          "sales": 1494,
-          "seats": 19864,
-          "showtimes": 175,
-          "theaters": 256,
-          "rank": 13,
+          "moviename": "Theatrical Version “Chainsaw Man: Resurrection”",
+          "japanese name": "劇場版「チェンソーマン レゼ篇」",
+          "sales": 375,
+          "seats": 5987,
+          "showtimes": 46,
+          "theaters": 254,
+          "rank": 21,
+          "last_week_ratio": 139.4
+        },
+        {
+          "moviename": "Before long, it’s time to say goodbye.",
+          "japanese name": "ほどなく、お別れです",
+          "sales": 28147,
+          "seats": 161208,
+          "showtimes": 605,
+          "theaters": 273,
+          "rank": 1,
           "last_week_ratio": null
         },
         {
@@ -146,6 +126,56 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "The Queen of Teleshopping: A Channel Dedicated to Aoyi Haruka’s Cases",
+          "japanese name": "テレビショッピングの女王 青池春香の事件チャンネル",
+          "sales": 812,
+          "seats": 17627,
+          "showtimes": 146,
+          "theaters": 98,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "JO1DER SHOW 2025: Wherever We Are in Tokyo Dome",
+          "japanese name": "ＪＯ１ＤＥＲ ＳＨＯＷ ２０２５ ＷＨＥＲＥＶＥＲ ＷＥ ＡＲＥ ＩＮ ＴＯＫＹＯ ＤＯＭＥ",
+          "sales": 357,
+          "seats": 3723,
+          "showtimes": 33,
+          "theaters": 90,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Disappearance of Haruhi Suzumiya",
+          "japanese name": "涼宮ハルヒの消失",
+          "sales": 360,
+          "seats": 1290,
+          "showtimes": 9,
+          "theaters": 34,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Futami Sisters / Japanese Kimono Beginning, Monthly Kabuki 2016",
+          "japanese name": "二人藤娘／日本振袖始  月イチ歌舞伎２０１６",
+          "sales": 2389,
+          "seats": 4698,
+          "showtimes": 29,
+          "theaters": 29,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Journey of Us in Fifty Years",
+          "japanese name": "五十年目の俺たちの旅",
+          "sales": 308,
+          "seats": 7158,
+          "showtimes": 54,
+          "theaters": 57,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Movie \"Emergency Investigation Team THE FINAL\"",
           "japanese name": "劇場版「緊急取調室 ＴＨＥ ＦＩＮＡＬ」",
           "sales": 970,
@@ -156,14 +186,24 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The Queen of Teleshopping: A Channel Dedicated to Aoyi Haruka’s Cases",
-          "japanese name": "テレビショッピングの女王 青池春香の事件チャンネル",
-          "sales": 812,
-          "seats": 17627,
-          "showtimes": 146,
-          "theaters": 98,
-          "rank": 16,
+          "moviename": "FUKUYAMA MASAHARU LIVE FILM@NAGASAKI",
+          "japanese name": "ＦＵＫＵＹＡＭＡ ＭＡＳＡＨＡＲＵ ＬＩＶＥ ＦＩＬＭ＠ＮＡＧＡＳＡＫＩ",
+          "sales": 420,
+          "seats": 9622,
+          "showtimes": 76,
+          "theaters": 113,
+          "rank": 20,
           "last_week_ratio": null
+        },
+        {
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 7741,
+          "seats": 32605,
+          "showtimes": 241,
+          "theaters": 254,
+          "rank": 3,
+          "last_week_ratio": 196.2
         },
         {
           "moviename": "Movie Last Man –FIRST LOVE–",
@@ -186,73 +226,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Glory's Back Home",
-          "japanese name": "栄光のバックホーム",
-          "sales": 467,
-          "seats": 10254,
-          "showtimes": 84,
-          "theaters": 133,
-          "rank": 19,
+          "moviename": "Galaxy Express Milky☆Subway: Direct to the Theater Station",
+          "japanese name": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
+          "sales": 1687,
+          "seats": 22874,
+          "showtimes": 115,
+          "theaters": 59,
+          "rank": 11,
           "last_week_ratio": null
         },
         {
-          "moviename": "FUKUYAMA MASAHARU LIVE FILM@NAGASAKI",
-          "japanese name": "ＦＵＫＵＹＡＭＡ ＭＡＳＡＨＡＲＵ ＬＩＶＥ ＦＩＬＭ＠ＮＡＧＡＳＡＫＩ",
-          "sales": 420,
-          "seats": 9622,
-          "showtimes": 76,
-          "theaters": 113,
-          "rank": 20,
+          "moviename": "The Guardian of the Cinnamon Tree",
+          "japanese name": "クスノキの番人",
+          "sales": 1494,
+          "seats": 19864,
+          "showtimes": 175,
+          "theaters": 256,
+          "rank": 13,
           "last_week_ratio": null
         },
         {
-          "moviename": "Theatrical Version “Chainsaw Man: Resurrection”",
-          "japanese name": "劇場版「チェンソーマン レゼ篇」",
-          "sales": 375,
-          "seats": 5987,
-          "showtimes": 46,
-          "theaters": 254,
-          "rank": 21,
-          "last_week_ratio": 139.4
-        },
-        {
-          "moviename": "The Disappearance of Haruhi Suzumiya",
-          "japanese name": "涼宮ハルヒの消失",
-          "sales": 360,
-          "seats": 1290,
-          "showtimes": 9,
-          "theaters": 34,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Avatar: Fire and Ash",
-          "japanese name": "アバター：ファイヤー・アンド・アッシュ",
-          "sales": 358,
-          "seats": 7333,
-          "showtimes": 62,
-          "theaters": 250,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "JO1DER SHOW 2025: Wherever We Are in Tokyo Dome",
-          "japanese name": "ＪＯ１ＤＥＲ ＳＨＯＷ ２０２５ ＷＨＥＲＥＶＥＲ ＷＥ ＡＲＥ ＩＮ ＴＯＫＹＯ ＤＯＭＥ",
-          "sales": 357,
-          "seats": 3723,
-          "showtimes": 33,
-          "theaters": 90,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Journey of Us in Fifty Years",
-          "japanese name": "五十年目の俺たちの旅",
-          "sales": 308,
-          "seats": 7158,
-          "showtimes": 54,
-          "theaters": 57,
-          "rank": 25,
+          "moviename": "Crime 101",
+          "japanese name": "クライム１０１",
+          "sales": 4567,
+          "seats": 68760,
+          "showtimes": 475,
+          "theaters": 255,
+          "rank": 6,
           "last_week_ratio": null
         }
       ]
@@ -262,13 +262,33 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "Before long, it’s time to say goodbye.",
-          "japanese name": "ほどなく、お別れです",
-          "sales": 46701,
-          "seats": 301234,
-          "showtimes": 1137,
-          "theaters": 273,
-          "rank": 1,
+          "moviename": "Glory's Back Home",
+          "japanese name": "栄光のバックホーム",
+          "sales": 692,
+          "seats": 14614,
+          "showtimes": 119,
+          "theaters": 133,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: The Crazy Thing in My Heart",
+          "japanese name": "劇場版 僕の心のヤバイやつ",
+          "sales": 4809,
+          "seats": 55224,
+          "showtimes": 327,
+          "theaters": 98,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Avatar: Fire and Ash",
+          "japanese name": "アバター：ファイヤー・アンド・アッシュ",
+          "sales": 843,
+          "seats": 21082,
+          "showtimes": 167,
+          "theaters": 250,
+          "rank": 22,
           "last_week_ratio": null
         },
         {
@@ -302,43 +322,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "National Treasure",
-          "japanese name": "国宝",
-          "sales": 8069,
-          "seats": 34990,
-          "showtimes": 256,
-          "theaters": 254,
-          "rank": 5,
-          "last_week_ratio": 179
-        },
-        {
-          "moviename": "Crime 101",
-          "japanese name": "クライム１０１",
-          "sales": 7287,
-          "seats": 129073,
-          "showtimes": 883,
-          "theaters": 255,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version: The Crazy Thing in My Heart",
-          "japanese name": "劇場版 僕の心のヤバイやつ",
-          "sales": 4809,
-          "seats": 55224,
-          "showtimes": 327,
-          "theaters": 98,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Shin Evangelion: The Movie",
-          "japanese name": "シン・エヴァンゲリオン劇場版",
-          "sales": 4386,
-          "seats": 22908,
-          "showtimes": 87,
-          "theaters": 71,
-          "rank": 8,
+          "moviename": "BE: THE ONE - MEANT TO BE -",
+          "japanese name": "ＢＥ：ｔｈｅ ＯＮＥ －ＭＥＡＮＴ ＴＯ ＢＥ－",
+          "sales": 3508,
+          "seats": 26328,
+          "showtimes": 183,
+          "theaters": 86,
+          "rank": 10,
           "last_week_ratio": null
         },
         {
@@ -352,26 +342,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "BE: THE ONE - MEANT TO BE -",
-          "japanese name": "ＢＥ：ｔｈｅ ＯＮＥ －ＭＥＡＮＴ ＴＯ ＢＥ－",
-          "sales": 3508,
-          "seats": 26328,
-          "showtimes": 183,
-          "theaters": 86,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Galaxy Express Milky☆Subway: Direct to the Theater Station",
-          "japanese name": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
-          "sales": 3480,
-          "seats": 43274,
-          "showtimes": 220,
-          "theaters": 59,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Pure love, top quality!",
           "japanese name": "純愛上等！",
           "sales": 3222,
@@ -379,56 +349,6 @@
           "showtimes": 204,
           "theaters": 87,
           "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Futami Sisters / Japanese Kimono Beginning, Monthly Kabuki 2016",
-          "japanese name": "二人藤娘／日本振袖始  月イチ歌舞伎２０１６",
-          "sales": 2560,
-          "seats": 5306,
-          "showtimes": 31,
-          "theaters": 29,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Guardian of the Cinnamon Tree",
-          "japanese name": "クスノキの番人",
-          "sales": 2510,
-          "seats": 39642,
-          "showtimes": 338,
-          "theaters": 256,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie version Kimetsu no Yaiba: Infinite Castle Chapter 1, Return to Yigazuka",
-          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
-          "sales": 1816,
-          "seats": 33988,
-          "showtimes": 236,
-          "theaters": 256,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie \"Emergency Investigation Team THE FINAL\"",
-          "japanese name": "劇場版「緊急取調室 ＴＨＥ ＦＩＮＡＬ」",
-          "sales": 1319,
-          "seats": 25097,
-          "showtimes": 209,
-          "theaters": 251,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Last Man –FIRST LOVE–",
-          "japanese name": "映画ラストマン －ＦＩＲＳＴ ＬＯＶＥ－",
-          "sales": 1241,
-          "seats": 24541,
-          "showtimes": 207,
-          "theaters": 244,
-          "rank": 17,
           "last_week_ratio": null
         },
         {
@@ -442,13 +362,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The Disappearance of Haruhi Suzumiya",
-          "japanese name": "涼宮ハルヒの消失",
-          "sales": 1220,
-          "seats": 5260,
-          "showtimes": 37,
-          "theaters": 34,
-          "rank": 19,
+          "moviename": "Before long, it’s time to say goodbye.",
+          "japanese name": "ほどなく、お別れです",
+          "sales": 46701,
+          "seats": 301234,
+          "showtimes": 1137,
+          "theaters": 273,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shin Evangelion: The Movie",
+          "japanese name": "シン・エヴァンゲリオン劇場版",
+          "sales": 4386,
+          "seats": 22908,
+          "showtimes": 87,
+          "theaters": 71,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Queen of Teleshopping: A Channel Dedicated to Aoyi Haruka’s Cases",
+          "japanese name": "テレビショッピングの女王 青池春香の事件チャンネル",
+          "sales": 1014,
+          "seats": 22381,
+          "showtimes": 186,
+          "theaters": 98,
+          "rank": 21,
           "last_week_ratio": null
         },
         {
@@ -462,33 +402,43 @@
           "last_week_ratio": 143.7
         },
         {
-          "moviename": "The Queen of Teleshopping: A Channel Dedicated to Aoyi Haruka’s Cases",
-          "japanese name": "テレビショッピングの女王 青池春香の事件チャンネル",
-          "sales": 1014,
-          "seats": 22381,
-          "showtimes": 186,
-          "theaters": 98,
-          "rank": 21,
+          "moviename": "The Disappearance of Haruhi Suzumiya",
+          "japanese name": "涼宮ハルヒの消失",
+          "sales": 1220,
+          "seats": 5260,
+          "showtimes": 37,
+          "theaters": 34,
+          "rank": 19,
           "last_week_ratio": null
         },
         {
-          "moviename": "Avatar: Fire and Ash",
-          "japanese name": "アバター：ファイヤー・アンド・アッシュ",
-          "sales": 843,
-          "seats": 21082,
-          "showtimes": 167,
+          "moviename": "Futami Sisters / Japanese Kimono Beginning, Monthly Kabuki 2016",
+          "japanese name": "二人藤娘／日本振袖始  月イチ歌舞伎２０１６",
+          "sales": 2560,
+          "seats": 5306,
+          "showtimes": 31,
+          "theaters": 29,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Running Man",
+          "japanese name": "ランニング・マン",
+          "sales": 687,
+          "seats": 22080,
+          "showtimes": 189,
           "theaters": 250,
-          "rank": 22,
+          "rank": 25,
           "last_week_ratio": null
         },
         {
-          "moviename": "Glory's Back Home",
-          "japanese name": "栄光のバックホーム",
-          "sales": 692,
-          "seats": 14614,
-          "showtimes": 119,
-          "theaters": 133,
-          "rank": 23,
+          "moviename": "Movie \"Emergency Investigation Team THE FINAL\"",
+          "japanese name": "劇場版「緊急取調室 ＴＨＥ ＦＩＮＡＬ」",
+          "sales": 1319,
+          "seats": 25097,
+          "showtimes": 209,
+          "theaters": 251,
+          "rank": 16,
           "last_week_ratio": null
         },
         {
@@ -502,13 +452,63 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Running Man",
-          "japanese name": "ランニング・マン",
-          "sales": 687,
-          "seats": 22080,
-          "showtimes": 189,
-          "theaters": 250,
-          "rank": 25,
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 8069,
+          "seats": 34990,
+          "showtimes": 256,
+          "theaters": 254,
+          "rank": 5,
+          "last_week_ratio": 179
+        },
+        {
+          "moviename": "Movie Last Man –FIRST LOVE–",
+          "japanese name": "映画ラストマン －ＦＩＲＳＴ ＬＯＶＥ－",
+          "sales": 1241,
+          "seats": 24541,
+          "showtimes": 207,
+          "theaters": 244,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie version Kimetsu no Yaiba: Infinite Castle Chapter 1, Return to Yigazuka",
+          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
+          "sales": 1816,
+          "seats": 33988,
+          "showtimes": 236,
+          "theaters": 256,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Galaxy Express Milky☆Subway: Direct to the Theater Station",
+          "japanese name": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
+          "sales": 3480,
+          "seats": 43274,
+          "showtimes": 220,
+          "theaters": 59,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Guardian of the Cinnamon Tree",
+          "japanese name": "クスノキの番人",
+          "sales": 2510,
+          "seats": 39642,
+          "showtimes": 338,
+          "theaters": 256,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Crime 101",
+          "japanese name": "クライム１０１",
+          "sales": 7287,
+          "seats": 129073,
+          "showtimes": 883,
+          "theaters": 255,
+          "rank": 6,
           "last_week_ratio": null
         }
       ]
@@ -518,13 +518,23 @@
       "time": "Final",
       "data": [
         {
-          "moviename": "Before long, it’s time to say goodbye.",
-          "japanese name": "ほどなく、お別れです",
-          "sales": 53173,
-          "seats": 370589,
-          "showtimes": 1403,
-          "theaters": 273,
-          "rank": 1,
+          "moviename": "Theatrical Version: The Crazy Thing in My Heart",
+          "japanese name": "劇場版 僕の心のヤバイやつ",
+          "sales": 5789,
+          "seats": 72675,
+          "showtimes": 425,
+          "theaters": 98,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Avatar: Fire and Ash",
+          "japanese name": "アバター：ファイヤー・アンド・アッシュ",
+          "sales": 1084,
+          "seats": 31649,
+          "showtimes": 241,
+          "theaters": 250,
+          "rank": 21,
           "last_week_ratio": null
         },
         {
@@ -558,43 +568,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Crime 101",
-          "japanese name": "クライム１０１",
-          "sales": 8245,
-          "seats": 167097,
-          "showtimes": 1144,
-          "theaters": 255,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "National Treasure",
-          "japanese name": "国宝",
-          "sales": 8086,
-          "seats": 35712,
-          "showtimes": 260,
-          "theaters": 254,
-          "rank": 6,
-          "last_week_ratio": 177.9
-        },
-        {
-          "moviename": "Shin Evangelion: The Movie",
-          "japanese name": "シン・エヴァンゲリオン劇場版",
-          "sales": 5874,
-          "seats": 33045,
-          "showtimes": 125,
-          "theaters": 71,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version: The Crazy Thing in My Heart",
-          "japanese name": "劇場版 僕の心のヤバイやつ",
-          "sales": 5789,
-          "seats": 72675,
-          "showtimes": 425,
-          "theaters": 98,
-          "rank": 8,
+          "moviename": "BE: THE ONE - MEANT TO BE -",
+          "japanese name": "ＢＥ：ｔｈｅ ＯＮＥ －ＭＥＡＮＴ ＴＯ ＢＥ－",
+          "sales": 4085,
+          "seats": 33868,
+          "showtimes": 233,
+          "theaters": 86,
+          "rank": 11,
           "last_week_ratio": null
         },
         {
@@ -608,26 +588,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Galaxy Express Milky☆Subway: Direct to the Theater Station",
-          "japanese name": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
-          "sales": 4126,
-          "seats": 53749,
-          "showtimes": 274,
-          "theaters": 59,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "BE: THE ONE - MEANT TO BE -",
-          "japanese name": "ＢＥ：ｔｈｅ ＯＮＥ －ＭＥＡＮＴ ＴＯ ＢＥ－",
-          "sales": 4085,
-          "seats": 33868,
-          "showtimes": 233,
-          "theaters": 86,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Pure love, top quality!",
           "japanese name": "純愛上等！",
           "sales": 3691,
@@ -635,36 +595,6 @@
           "showtimes": 262,
           "theaters": 87,
           "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Guardian of the Cinnamon Tree",
-          "japanese name": "クスノキの番人",
-          "sales": 2743,
-          "seats": 49726,
-          "showtimes": 419,
-          "theaters": 256,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Futami Sisters / Japanese Kimono Beginning, Monthly Kabuki 2016",
-          "japanese name": "二人藤娘／日本振袖始  月イチ歌舞伎２０１６",
-          "sales": 2566,
-          "seats": 5440,
-          "showtimes": 32,
-          "theaters": 29,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie version Kimetsu no Yaiba: Infinite Castle Chapter 1, Return to Yigazuka",
-          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
-          "sales": 1985,
-          "seats": 39771,
-          "showtimes": 272,
-          "theaters": 256,
-          "rank": 15,
           "last_week_ratio": null
         },
         {
@@ -678,53 +608,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The Disappearance of Haruhi Suzumiya",
-          "japanese name": "涼宮ハルヒの消失",
-          "sales": 1414,
-          "seats": 6379,
-          "showtimes": 45,
-          "theaters": 34,
-          "rank": 17,
+          "moviename": "Before long, it’s time to say goodbye.",
+          "japanese name": "ほどなく、お別れです",
+          "sales": 53173,
+          "seats": 370589,
+          "showtimes": 1403,
+          "theaters": 273,
+          "rank": 1,
           "last_week_ratio": null
         },
         {
-          "moviename": "Movie \"Emergency Investigation Team THE FINAL\"",
-          "japanese name": "劇場版「緊急取調室 ＴＨＥ ＦＩＮＡＬ」",
-          "sales": 1400,
-          "seats": 29008,
-          "showtimes": 241,
-          "theaters": 251,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Last Man –FIRST LOVE–",
-          "japanese name": "映画ラストマン －ＦＩＲＳＴ ＬＯＶＥ－",
-          "sales": 1304,
-          "seats": 29192,
-          "showtimes": 240,
-          "theaters": 244,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "JO1DER SHOW 2025: Wherever We Are in Tokyo Dome",
-          "japanese name": "ＪＯ１ＤＥＲ ＳＨＯＷ ２０２５ ＷＨＥＲＥＶＥＲ ＷＥ ＡＲＥ ＩＮ ＴＯＫＹＯ ＤＯＭＥ",
-          "sales": 1166,
-          "seats": 12750,
-          "showtimes": 96,
-          "theaters": 90,
-          "rank": 20,
-          "last_week_ratio": 130.1
-        },
-        {
-          "moviename": "Avatar: Fire and Ash",
-          "japanese name": "アバター：ファイヤー・アンド・アッシュ",
-          "sales": 1084,
-          "seats": 31649,
-          "showtimes": 241,
-          "theaters": 250,
-          "rank": 21,
+          "moviename": "Shin Evangelion: The Movie",
+          "japanese name": "シン・エヴァンゲリオン劇場版",
+          "sales": 5874,
+          "seats": 33045,
+          "showtimes": 125,
+          "theaters": 71,
+          "rank": 7,
           "last_week_ratio": null
         },
         {
@@ -738,16 +638,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Running Man",
-          "japanese name": "ランニング・マン",
-          "sales": 880,
-          "seats": 34620,
-          "showtimes": 288,
-          "theaters": 250,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "HELP/Revenge Island",
           "japanese name": "ＨＥＬＰ／復讐島",
           "sales": 810,
@@ -758,6 +648,56 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "JO1DER SHOW 2025: Wherever We Are in Tokyo Dome",
+          "japanese name": "ＪＯ１ＤＥＲ ＳＨＯＷ ２０２５ ＷＨＥＲＥＶＥＲ ＷＥ ＡＲＥ ＩＮ ＴＯＫＹＯ ＤＯＭＥ",
+          "sales": 1166,
+          "seats": 12750,
+          "showtimes": 96,
+          "theaters": 90,
+          "rank": 20,
+          "last_week_ratio": 130.1
+        },
+        {
+          "moviename": "The Disappearance of Haruhi Suzumiya",
+          "japanese name": "涼宮ハルヒの消失",
+          "sales": 1414,
+          "seats": 6379,
+          "showtimes": 45,
+          "theaters": 34,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Futami Sisters / Japanese Kimono Beginning, Monthly Kabuki 2016",
+          "japanese name": "二人藤娘／日本振袖始  月イチ歌舞伎２０１６",
+          "sales": 2566,
+          "seats": 5440,
+          "showtimes": 32,
+          "theaters": 29,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Running Man",
+          "japanese name": "ランニング・マン",
+          "sales": 880,
+          "seats": 34620,
+          "showtimes": 288,
+          "theaters": 250,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Emergency Investigation Team THE FINAL\"",
+          "japanese name": "劇場版「緊急取調室 ＴＨＥ ＦＩＮＡＬ」",
+          "sales": 1400,
+          "seats": 29008,
+          "showtimes": 241,
+          "theaters": 251,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "FUKUYAMA MASAHARU LIVE FILM@NAGASAKI",
           "japanese name": "ＦＵＫＵＹＡＭＡ ＭＡＳＡＨＡＲＵ ＬＩＶＥ ＦＩＬＭ＠ＮＡＧＡＳＡＫＩ",
           "sales": 731,
@@ -765,6 +705,66 @@
           "showtimes": 184,
           "theaters": 113,
           "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 8086,
+          "seats": 35712,
+          "showtimes": 260,
+          "theaters": 254,
+          "rank": 6,
+          "last_week_ratio": 177.9
+        },
+        {
+          "moviename": "Movie Last Man –FIRST LOVE–",
+          "japanese name": "映画ラストマン －ＦＩＲＳＴ ＬＯＶＥ－",
+          "sales": 1304,
+          "seats": 29192,
+          "showtimes": 240,
+          "theaters": 244,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie version Kimetsu no Yaiba: Infinite Castle Chapter 1, Return to Yigazuka",
+          "japanese name": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
+          "sales": 1985,
+          "seats": 39771,
+          "showtimes": 272,
+          "theaters": 256,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Galaxy Express Milky☆Subway: Direct to the Theater Station",
+          "japanese name": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
+          "sales": 4126,
+          "seats": 53749,
+          "showtimes": 274,
+          "theaters": 59,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Guardian of the Cinnamon Tree",
+          "japanese name": "クスノキの番人",
+          "sales": 2743,
+          "seats": 49726,
+          "showtimes": 419,
+          "theaters": 256,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Crime 101",
+          "japanese name": "クライム１０１",
+          "sales": 8245,
+          "seats": 167097,
+          "showtimes": 1144,
+          "theaters": 255,
+          "rank": 5,
           "last_week_ratio": null
         }
       ]

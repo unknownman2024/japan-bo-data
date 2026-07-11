@@ -6,23 +6,63 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "I don't remember!",
-          "japanese name": "記憶にございません！",
-          "sales": 67995,
-          "seats": 208919,
-          "showtimes": 618,
-          "theaters": 282,
-          "rank": 1,
+          "moviename": "Ni no Kuni",
+          "japanese name": "二ノ国",
+          "sales": 1780,
+          "seats": 11498,
+          "showtimes": 89,
+          "theaters": 268,
+          "rank": 20,
           "last_week_ratio": null
         },
         {
-          "moviename": "Kaguya-sama Wants to Be Confessed to~The Love and Brain Battle of Geniuses~",
-          "japanese name": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
-          "sales": 50619,
-          "seats": 122897,
-          "showtimes": 573,
-          "theaters": 251,
-          "rank": 2,
+          "moviename": "As",
+          "japanese name": "アス",
+          "sales": 1228,
+          "seats": 3579,
+          "showtimes": 35,
+          "theaters": 50,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Once Upon a Time in Hollywood",
+          "japanese name": "ワンス・アポン・ア・タイム・イン・ハリウッド",
+          "sales": 9403,
+          "seats": 33538,
+          "showtimes": 210,
+          "theaters": 243,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Private War",
+          "japanese name": "プライベート・ウォー",
+          "sales": 772,
+          "seats": 2171,
+          "showtimes": 17,
+          "theaters": 10,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "LION KING",
+          "japanese name": "ライオン・キング",
+          "sales": 19415,
+          "seats": 64537,
+          "showtimes": 437,
+          "theaters": 285,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rocketman",
+          "japanese name": "ロケットマン",
+          "sales": 2100,
+          "seats": 9195,
+          "showtimes": 69,
+          "theaters": 258,
+          "rank": 18,
           "last_week_ratio": null
         },
         {
@@ -36,13 +76,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "LION KING",
-          "japanese name": "ライオン・キング",
-          "sales": 19415,
-          "seats": 64537,
-          "showtimes": 437,
-          "theaters": 285,
-          "rank": 4,
+          "moviename": "Mewtwo's Revenge EVOLUTION",
+          "japanese name": "ミュウツーの逆襲 ＥＶＯＬＵＴＩＯＮ",
+          "sales": 1829,
+          "seats": 23656,
+          "showtimes": 175,
+          "theaters": 203,
+          "rank": 19,
           "last_week_ratio": null
         },
         {
@@ -66,83 +106,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "剧场版 おっさんずラブ ～ＬＯＶＥ ｏｒ ＤＥＡＤ～",
-          "japanese name": "劇場版 おっさんずラブ ～ＬＯＶＥ ｏｒ ＤＥＡＤ～",
-          "sales": 14712,
-          "seats": 48888,
-          "showtimes": 368,
-          "theaters": 268,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Moving King!",
-          "japanese name": "引っ越し大名！",
-          "sales": 13677,
-          "seats": 66290,
-          "showtimes": 504,
-          "theaters": 269,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "ONE PIECE STAMPED",
-          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＳＴＡＭＰＥＤＥ",
-          "sales": 13214,
-          "seats": 42152,
-          "showtimes": 324,
-          "theaters": 270,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Violet Evergarden: Side Story – Eternity and the Automaton Puppet",
-          "japanese name": "ヴァイオレット・エヴァーガーデン 外伝 永遠と自動手記人形",
-          "sales": 11523,
-          "seats": 28666,
-          "showtimes": 134,
-          "theaters": 76,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Toy Story 4",
-          "japanese name": "トイ・ストーリー４",
-          "sales": 10797,
-          "seats": 40142,
-          "showtimes": 287,
-          "theaters": 278,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Once Upon a Time in Hollywood",
-          "japanese name": "ワンス・アポン・ア・タイム・イン・ハリウッド",
-          "sales": 9403,
-          "seats": 33538,
-          "showtimes": 210,
-          "theaters": 243,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Blessings upon this wonderful world! Red Legend",
-          "japanese name": "この素晴らしい世界に祝福を！紅伝説",
-          "sales": 5948,
-          "seats": 16372,
-          "showtimes": 98,
-          "theaters": 85,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "BanG Dream! FILM LIVE",
-          "japanese name": "ＢａｎＧ Ｄｒｅａｍ！ ＦＩＬＭ ＬＩＶＥ",
-          "sales": 4847,
-          "seats": 15592,
-          "showtimes": 69,
-          "theaters": 48,
-          "rank": 14,
+          "moviename": "Kaguya-sama Wants to Be Confessed to~The Love and Brain Battle of Geniuses~",
+          "japanese name": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
+          "sales": 50619,
+          "seats": 122897,
+          "showtimes": 573,
+          "theaters": 251,
+          "rank": 2,
           "last_week_ratio": null
         },
         {
@@ -156,13 +126,43 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Typhoon Family",
-          "japanese name": "台風家族",
-          "sales": 3363,
-          "seats": 11493,
-          "showtimes": 91,
-          "theaters": 83,
-          "rank": 16,
+          "moviename": "Blessings upon this wonderful world! Red Legend",
+          "japanese name": "この素晴らしい世界に祝福を！紅伝説",
+          "sales": 5948,
+          "seats": 16372,
+          "showtimes": 98,
+          "theaters": 85,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I don't remember!",
+          "japanese name": "記憶にございません！",
+          "sales": 67995,
+          "seats": 208919,
+          "showtimes": 618,
+          "theaters": 282,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan 2019: Blue Fist",
+          "japanese name": "名探偵コナン２０１９ 紺青の拳（フィスト）",
+          "sales": 1209,
+          "seats": 3430,
+          "showtimes": 33,
+          "theaters": 51,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BanG Dream! FILM LIVE",
+          "japanese name": "ＢａｎＧ Ｄｒｅａｍ！ ＦＩＬＭ ＬＩＶＥ",
+          "sales": 4847,
+          "seats": 15592,
+          "showtimes": 69,
+          "theaters": 48,
+          "rank": 14,
           "last_week_ratio": null
         },
         {
@@ -176,53 +176,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Rocketman",
-          "japanese name": "ロケットマン",
-          "sales": 2100,
-          "seats": 9195,
-          "showtimes": 69,
-          "theaters": 258,
-          "rank": 18,
+          "moviename": "Typhoon Family",
+          "japanese name": "台風家族",
+          "sales": 3363,
+          "seats": 11493,
+          "showtimes": 91,
+          "theaters": 83,
+          "rank": 16,
           "last_week_ratio": null
         },
         {
-          "moviename": "Mewtwo's Revenge EVOLUTION",
-          "japanese name": "ミュウツーの逆襲 ＥＶＯＬＵＴＩＯＮ",
-          "sales": 1829,
-          "seats": 23656,
-          "showtimes": 175,
-          "theaters": 203,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Ni no Kuni",
-          "japanese name": "二ノ国",
-          "sales": 1780,
-          "seats": 11498,
-          "showtimes": 89,
-          "theaters": 268,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "As",
-          "japanese name": "アス",
-          "sales": 1228,
-          "seats": 3579,
-          "showtimes": 35,
-          "theaters": 50,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Detective Conan 2019: Blue Fist",
-          "japanese name": "名探偵コナン２０１９ 紺青の拳（フィスト）",
-          "sales": 1209,
-          "seats": 3430,
-          "showtimes": 33,
-          "theaters": 51,
-          "rank": 22,
+          "moviename": "Moving King!",
+          "japanese name": "引っ越し大名！",
+          "sales": 13677,
+          "seats": 66290,
+          "showtimes": 504,
+          "theaters": 269,
+          "rank": 8,
           "last_week_ratio": null
         },
         {
@@ -246,13 +216,43 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Private War",
-          "japanese name": "プライベート・ウォー",
-          "sales": 772,
-          "seats": 2171,
-          "showtimes": 17,
-          "theaters": 10,
-          "rank": 25,
+          "moviename": "Violet Evergarden: Side Story – Eternity and the Automaton Puppet",
+          "japanese name": "ヴァイオレット・エヴァーガーデン 外伝 永遠と自動手記人形",
+          "sales": 11523,
+          "seats": 28666,
+          "showtimes": 134,
+          "theaters": 76,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Toy Story 4",
+          "japanese name": "トイ・ストーリー４",
+          "sales": 10797,
+          "seats": 40142,
+          "showtimes": 287,
+          "theaters": 278,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ONE PIECE STAMPED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＳＴＡＭＰＥＤＥ",
+          "sales": 13214,
+          "seats": 42152,
+          "showtimes": 324,
+          "theaters": 270,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 おっさんずラブ ～ＬＯＶＥ ｏｒ ＤＥＡＤ～",
+          "japanese name": "劇場版 おっさんずラブ ～ＬＯＶＥ ｏｒ ＤＥＡＤ～",
+          "sales": 14712,
+          "seats": 48888,
+          "showtimes": 368,
+          "theaters": 268,
+          "rank": 7,
           "last_week_ratio": null
         }
       ]
@@ -262,43 +262,33 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "I don't remember!",
-          "japanese name": "記憶にございません！",
-          "sales": 125954,
-          "seats": 400558,
-          "showtimes": 1185,
-          "theaters": 282,
-          "rank": 1,
+          "moviename": "Ni no Kuni",
+          "japanese name": "二ノ国",
+          "sales": 4130,
+          "seats": 33413,
+          "showtimes": 237,
+          "theaters": 268,
+          "rank": 21,
           "last_week_ratio": null
         },
         {
-          "moviename": "Kaguya-sama Wants to Be Confessed to~The Love and Brain Battle of Geniuses~",
-          "japanese name": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
-          "sales": 83187,
-          "seats": 210782,
-          "showtimes": 989,
-          "theaters": 251,
-          "rank": 2,
+          "moviename": "As",
+          "japanese name": "アス",
+          "sales": 3258,
+          "seats": 8580,
+          "showtimes": 77,
+          "theaters": 50,
+          "rank": 22,
           "last_week_ratio": null
         },
         {
-          "moviename": "Weather Child",
-          "japanese name": "天気の子",
-          "sales": 59908,
-          "seats": 188881,
-          "showtimes": 995,
-          "theaters": 282,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "No Longer Human: Taizō Ishikawa and Three Women",
-          "japanese name": "人間失格 太宰治と３人の女たち",
-          "sales": 36213,
-          "seats": 213621,
-          "showtimes": 1061,
-          "theaters": 267,
-          "rank": 4,
+          "moviename": "Once Upon a Time in Hollywood",
+          "japanese name": "ワンス・アポン・ア・タイム・イン・ハリウッド",
+          "sales": 20448,
+          "seats": 66632,
+          "showtimes": 413,
+          "theaters": 243,
+          "rank": 9,
           "last_week_ratio": null
         },
         {
@@ -312,13 +302,43 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "剧场版 おっさんずラブ ～ＬＯＶＥ ｏｒ ＤＥＡＤ～",
-          "japanese name": "劇場版 おっさんずラブ ～ＬＯＶＥ ｏｒ ＤＥＡＤ～",
-          "sales": 28406,
-          "seats": 87800,
-          "showtimes": 656,
-          "theaters": 268,
-          "rank": 6,
+          "moviename": "Rocketman",
+          "japanese name": "ロケットマン",
+          "sales": 5604,
+          "seats": 31483,
+          "showtimes": 224,
+          "theaters": 258,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Weather Child",
+          "japanese name": "天気の子",
+          "sales": 59908,
+          "seats": 188881,
+          "showtimes": 995,
+          "theaters": 282,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mewtwo's Revenge EVOLUTION",
+          "japanese name": "ミュウツーの逆襲 ＥＶＯＬＵＴＩＯＮ",
+          "sales": 2405,
+          "seats": 27263,
+          "showtimes": 201,
+          "theaters": 203,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "No Longer Human: Taizō Ishikawa and Three Women",
+          "japanese name": "人間失格 太宰治と３人の女たち",
+          "sales": 36213,
+          "seats": 213621,
+          "showtimes": 1061,
+          "theaters": 267,
+          "rank": 4,
           "last_week_ratio": null
         },
         {
@@ -332,23 +352,103 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "ONE PIECE STAMPED",
-          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＳＴＡＭＰＥＤＥ",
-          "sales": 23993,
-          "seats": 79776,
-          "showtimes": 587,
-          "theaters": 270,
-          "rank": 8,
+          "moviename": "Kaguya-sama Wants to Be Confessed to~The Love and Brain Battle of Geniuses~",
+          "japanese name": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
+          "sales": 83187,
+          "seats": 210782,
+          "showtimes": 989,
+          "theaters": 251,
+          "rank": 2,
           "last_week_ratio": null
         },
         {
-          "moviename": "Once Upon a Time in Hollywood",
-          "japanese name": "ワンス・アポン・ア・タイム・イン・ハリウッド",
-          "sales": 20448,
-          "seats": 66632,
-          "showtimes": 413,
-          "theaters": 243,
-          "rank": 9,
+          "moviename": "Pet 2",
+          "japanese name": "ペット２",
+          "sales": 4977,
+          "seats": 28605,
+          "showtimes": 197,
+          "theaters": 191,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Blessings upon this wonderful world! Red Legend",
+          "japanese name": "この素晴らしい世界に祝福を！紅伝説",
+          "sales": 11820,
+          "seats": 30789,
+          "showtimes": 188,
+          "theaters": 85,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I don't remember!",
+          "japanese name": "記憶にございません！",
+          "sales": 125954,
+          "seats": 400558,
+          "showtimes": 1185,
+          "theaters": 282,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wild Speed Super Combo",
+          "japanese name": "ワイルド・スピード スーパーコンボ",
+          "sales": 2525,
+          "seats": 12334,
+          "showtimes": 93,
+          "theaters": 172,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan 2019: Blue Fist",
+          "japanese name": "名探偵コナン２０１９ 紺青の拳（フィスト）",
+          "sales": 2318,
+          "seats": 5820,
+          "showtimes": 58,
+          "theaters": 51,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BanG Dream! FILM LIVE",
+          "japanese name": "ＢａｎＧ Ｄｒｅａｍ！ ＦＩＬＭ ＬＩＶＥ",
+          "sales": 8111,
+          "seats": 29027,
+          "showtimes": 125,
+          "theaters": 47,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Build NEW WORLD Kamen Rider Greis",
+          "japanese name": "ビルド ＮＥＷ ＷＯＲＬＤ 仮面ライダーグリス",
+          "sales": 4469,
+          "seats": 16421,
+          "showtimes": 101,
+          "theaters": 34,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bz LIVE-GYM 2019",
+          "japanese name": "Ｂｚ ＬＩＶＥ－ＧＹＭ ２０１９",
+          "sales": 4525,
+          "seats": 5470,
+          "showtimes": 28,
+          "theaters": 28,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Typhoon Family",
+          "japanese name": "台風家族",
+          "sales": 5603,
+          "seats": 21858,
+          "showtimes": 166,
+          "theaters": 83,
+          "rank": 16,
           "last_week_ratio": null
         },
         {
@@ -382,46 +482,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Blessings upon this wonderful world! Red Legend",
-          "japanese name": "この素晴らしい世界に祝福を！紅伝説",
-          "sales": 11820,
-          "seats": 30789,
-          "showtimes": 188,
-          "theaters": 85,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "BanG Dream! FILM LIVE",
-          "japanese name": "ＢａｎＧ Ｄｒｅａｍ！ ＦＩＬＭ ＬＩＶＥ",
-          "sales": 8111,
-          "seats": 29027,
-          "showtimes": 125,
-          "theaters": 47,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Rocketman",
-          "japanese name": "ロケットマン",
-          "sales": 5604,
-          "seats": 31483,
-          "showtimes": 224,
-          "theaters": 258,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Typhoon Family",
-          "japanese name": "台風家族",
-          "sales": 5603,
-          "seats": 21858,
-          "showtimes": 166,
-          "theaters": 83,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "“EXILE SHOKICHI LIVE TOUR 2019” “UNDERDOG” Live Viewing",
           "japanese name": "ＥＸＩＬＥ ＳＨＯＫＩＣＨＩ ＬＩＶＥ ＴＯＵＲ ２０１９”ＵＮＤＥＲＤＯＧＧ”ライブビューイング",
           "sales": 5526,
@@ -432,83 +492,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Pet 2",
-          "japanese name": "ペット２",
-          "sales": 4977,
-          "seats": 28605,
-          "showtimes": 197,
-          "theaters": 191,
-          "rank": 18,
+          "moviename": "ONE PIECE STAMPED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＳＴＡＭＰＥＤＥ",
+          "sales": 23993,
+          "seats": 79776,
+          "showtimes": 587,
+          "theaters": 270,
+          "rank": 8,
           "last_week_ratio": null
         },
         {
-          "moviename": "Bz LIVE-GYM 2019",
-          "japanese name": "Ｂｚ ＬＩＶＥ－ＧＹＭ ２０１９",
-          "sales": 4525,
-          "seats": 5470,
-          "showtimes": 28,
-          "theaters": 28,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Build NEW WORLD Kamen Rider Greis",
-          "japanese name": "ビルド ＮＥＷ ＷＯＲＬＤ 仮面ライダーグリス",
-          "sales": 4469,
-          "seats": 16421,
-          "showtimes": 101,
-          "theaters": 34,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Ni no Kuni",
-          "japanese name": "二ノ国",
-          "sales": 4130,
-          "seats": 33413,
-          "showtimes": 237,
+          "moviename": "剧场版 おっさんずラブ ～ＬＯＶＥ ｏｒ ＤＥＡＤ～",
+          "japanese name": "劇場版 おっさんずラブ ～ＬＯＶＥ ｏｒ ＤＥＡＤ～",
+          "sales": 28406,
+          "seats": 87800,
+          "showtimes": 656,
           "theaters": 268,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "As",
-          "japanese name": "アス",
-          "sales": 3258,
-          "seats": 8580,
-          "showtimes": 77,
-          "theaters": 50,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Wild Speed Super Combo",
-          "japanese name": "ワイルド・スピード スーパーコンボ",
-          "sales": 2525,
-          "seats": 12334,
-          "showtimes": 93,
-          "theaters": 172,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Mewtwo's Revenge EVOLUTION",
-          "japanese name": "ミュウツーの逆襲 ＥＶＯＬＵＴＩＯＮ",
-          "sales": 2405,
-          "seats": 27263,
-          "showtimes": 201,
-          "theaters": 203,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Detective Conan 2019: Blue Fist",
-          "japanese name": "名探偵コナン２０１９ 紺青の拳（フィスト）",
-          "sales": 2318,
-          "seats": 5820,
-          "showtimes": 58,
-          "theaters": 51,
-          "rank": 25,
+          "rank": 6,
           "last_week_ratio": null
         }
       ]
@@ -518,196 +518,6 @@
       "time": "Final",
       "data": [
         {
-          "moviename": "I don't remember!",
-          "japanese name": "記憶にございません！",
-          "sales": 141421,
-          "seats": 502782,
-          "showtimes": 1489,
-          "theaters": 282,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Kaguya-sama Wants to Be Confessed to~The Love and Brain Battle of Geniuses~",
-          "japanese name": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
-          "sales": 89199,
-          "seats": 261554,
-          "showtimes": 1241,
-          "theaters": 251,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Weather Child",
-          "japanese name": "天気の子",
-          "sales": 66731,
-          "seats": 239812,
-          "showtimes": 1283,
-          "theaters": 282,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "No Longer Human: Taizō Ishikawa and Three Women",
-          "japanese name": "人間失格 太宰治と３人の女たち",
-          "sales": 44472,
-          "seats": 270302,
-          "showtimes": 1347,
-          "theaters": 267,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "LION KING",
-          "japanese name": "ライオン・キング",
-          "sales": 39324,
-          "seats": 135385,
-          "showtimes": 930,
-          "theaters": 285,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "剧场版 おっさんずラブ ～ＬＯＶＥ ｏｒ ＤＥＡＤ～",
-          "japanese name": "劇場版 おっさんずラブ ～ＬＯＶＥ ｏｒ ＤＥＡＤ～",
-          "sales": 33519,
-          "seats": 118384,
-          "showtimes": 890,
-          "theaters": 268,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "My Wonderful Journey",
-          "japanese name": "僕のワンダフル・ジャーニー",
-          "sales": 27325,
-          "seats": 193378,
-          "showtimes": 1133,
-          "theaters": 228,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "ONE PIECE STAMPED",
-          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＳＴＡＭＰＥＤＥ",
-          "sales": 26781,
-          "seats": 97760,
-          "showtimes": 716,
-          "theaters": 270,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Once Upon a Time in Hollywood",
-          "japanese name": "ワンス・アポン・ア・タイム・イン・ハリウッド",
-          "sales": 25942,
-          "seats": 99663,
-          "showtimes": 608,
-          "theaters": 243,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Violet Evergarden: Side Story – Eternity and the Automaton Puppet",
-          "japanese name": "ヴァイオレット・エヴァーガーデン 外伝 永遠と自動手記人形",
-          "sales": 23948,
-          "seats": 68573,
-          "showtimes": 324,
-          "theaters": 76,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Moving King!",
-          "japanese name": "引っ越し大名！",
-          "sales": 21213,
-          "seats": 114153,
-          "showtimes": 863,
-          "theaters": 269,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Toy Story 4",
-          "japanese name": "トイ・ストーリー４",
-          "sales": 15608,
-          "seats": 56044,
-          "showtimes": 401,
-          "theaters": 278,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Blessings upon this wonderful world! Red Legend",
-          "japanese name": "この素晴らしい世界に祝福を！紅伝説",
-          "sales": 14008,
-          "seats": 41521,
-          "showtimes": 253,
-          "theaters": 85,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "BanG Dream! FILM LIVE",
-          "japanese name": "ＢａｎＧ Ｄｒｅａｍ！ ＦＩＬＭ ＬＩＶＥ",
-          "sales": 9625,
-          "seats": 40381,
-          "showtimes": 170,
-          "theaters": 46,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Rocketman",
-          "japanese name": "ロケットマン",
-          "sales": 6640,
-          "seats": 41566,
-          "showtimes": 304,
-          "theaters": 258,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Typhoon Family",
-          "japanese name": "台風家族",
-          "sales": 6024,
-          "seats": 26424,
-          "showtimes": 198,
-          "theaters": 83,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "“EXILE SHOKICHI LIVE TOUR 2019” “UNDERDOG” Live Viewing",
-          "japanese name": "ＥＸＩＬＥ ＳＨＯＫＩＣＨＩ ＬＩＶＥ ＴＯＵＲ ２０１９”ＵＮＤＥＲＤＯＧＧ”ライブビューイング",
-          "sales": 5526,
-          "seats": 7523,
-          "showtimes": 47,
-          "theaters": 47,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Pet 2",
-          "japanese name": "ペット２",
-          "sales": 4984,
-          "seats": 28704,
-          "showtimes": 198,
-          "theaters": 191,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Build NEW WORLD Kamen Rider Greis",
-          "japanese name": "ビルド ＮＥＷ ＷＯＲＬＤ 仮面ライダーグリス",
-          "sales": 4653,
-          "seats": 18129,
-          "showtimes": 113,
-          "theaters": 34,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Ni no Kuni",
           "japanese name": "二ノ国",
           "sales": 4573,
@@ -715,16 +525,6 @@
           "showtimes": 275,
           "theaters": 268,
           "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Bz LIVE-GYM 2019",
-          "japanese name": "Ｂｚ ＬＩＶＥ－ＧＹＭ ２０１９",
-          "sales": 4525,
-          "seats": 5470,
-          "showtimes": 28,
-          "theaters": 28,
-          "rank": 21,
           "last_week_ratio": null
         },
         {
@@ -738,13 +538,103 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Wild Speed Super Combo",
-          "japanese name": "ワイルド・スピード スーパーコンボ",
-          "sales": 3815,
-          "seats": 23913,
-          "showtimes": 179,
-          "theaters": 172,
-          "rank": 23,
+          "moviename": "Once Upon a Time in Hollywood",
+          "japanese name": "ワンス・アポン・ア・タイム・イン・ハリウッド",
+          "sales": 25942,
+          "seats": 99663,
+          "showtimes": 608,
+          "theaters": 243,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "LION KING",
+          "japanese name": "ライオン・キング",
+          "sales": 39324,
+          "seats": 135385,
+          "showtimes": 930,
+          "theaters": 285,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rocketman",
+          "japanese name": "ロケットマン",
+          "sales": 6640,
+          "seats": 41566,
+          "showtimes": 304,
+          "theaters": 258,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Weather Child",
+          "japanese name": "天気の子",
+          "sales": 66731,
+          "seats": 239812,
+          "showtimes": 1283,
+          "theaters": 282,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Prometheus: The Prequel \"Garo\" and \"Rio\" Edition Screening",
+          "japanese name": "プロメア 前日譚「ガロ」編「リオ」編付き上映",
+          "sales": 2652,
+          "seats": 9403,
+          "showtimes": 63,
+          "theaters": 53,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "No Longer Human: Taizō Ishikawa and Three Women",
+          "japanese name": "人間失格 太宰治と３人の女たち",
+          "sales": 44472,
+          "seats": 270302,
+          "showtimes": 1347,
+          "theaters": 267,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "My Wonderful Journey",
+          "japanese name": "僕のワンダフル・ジャーニー",
+          "sales": 27325,
+          "seats": 193378,
+          "showtimes": 1133,
+          "theaters": 228,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kaguya-sama Wants to Be Confessed to~The Love and Brain Battle of Geniuses~",
+          "japanese name": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
+          "sales": 89199,
+          "seats": 261554,
+          "showtimes": 1241,
+          "theaters": 251,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pet 2",
+          "japanese name": "ペット２",
+          "sales": 4984,
+          "seats": 28704,
+          "showtimes": 198,
+          "theaters": 191,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Blessings upon this wonderful world! Red Legend",
+          "japanese name": "この素晴らしい世界に祝福を！紅伝説",
+          "sales": 14008,
+          "seats": 41521,
+          "showtimes": 253,
+          "theaters": 85,
+          "rank": 13,
           "last_week_ratio": null
         },
         {
@@ -758,13 +648,123 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Prometheus: The Prequel \"Garo\" and \"Rio\" Edition Screening",
-          "japanese name": "プロメア 前日譚「ガロ」編「リオ」編付き上映",
-          "sales": 2652,
-          "seats": 9403,
-          "showtimes": 63,
-          "theaters": 53,
-          "rank": 25,
+          "moviename": "I don't remember!",
+          "japanese name": "記憶にございません！",
+          "sales": 141421,
+          "seats": 502782,
+          "showtimes": 1489,
+          "theaters": 282,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wild Speed Super Combo",
+          "japanese name": "ワイルド・スピード スーパーコンボ",
+          "sales": 3815,
+          "seats": 23913,
+          "showtimes": 179,
+          "theaters": 172,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BanG Dream! FILM LIVE",
+          "japanese name": "ＢａｎＧ Ｄｒｅａｍ！ ＦＩＬＭ ＬＩＶＥ",
+          "sales": 9625,
+          "seats": 40381,
+          "showtimes": 170,
+          "theaters": 46,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Build NEW WORLD Kamen Rider Greis",
+          "japanese name": "ビルド ＮＥＷ ＷＯＲＬＤ 仮面ライダーグリス",
+          "sales": 4653,
+          "seats": 18129,
+          "showtimes": 113,
+          "theaters": 34,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bz LIVE-GYM 2019",
+          "japanese name": "Ｂｚ ＬＩＶＥ－ＧＹＭ ２０１９",
+          "sales": 4525,
+          "seats": 5470,
+          "showtimes": 28,
+          "theaters": 28,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Typhoon Family",
+          "japanese name": "台風家族",
+          "sales": 6024,
+          "seats": 26424,
+          "showtimes": 198,
+          "theaters": 83,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Moving King!",
+          "japanese name": "引っ越し大名！",
+          "sales": 21213,
+          "seats": 114153,
+          "showtimes": 863,
+          "theaters": 269,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Violet Evergarden: Side Story – Eternity and the Automaton Puppet",
+          "japanese name": "ヴァイオレット・エヴァーガーデン 外伝 永遠と自動手記人形",
+          "sales": 23948,
+          "seats": 68573,
+          "showtimes": 324,
+          "theaters": 76,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Toy Story 4",
+          "japanese name": "トイ・ストーリー４",
+          "sales": 15608,
+          "seats": 56044,
+          "showtimes": 401,
+          "theaters": 278,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "“EXILE SHOKICHI LIVE TOUR 2019” “UNDERDOG” Live Viewing",
+          "japanese name": "ＥＸＩＬＥ ＳＨＯＫＩＣＨＩ ＬＩＶＥ ＴＯＵＲ ２０１９”ＵＮＤＥＲＤＯＧＧ”ライブビューイング",
+          "sales": 5526,
+          "seats": 7523,
+          "showtimes": 47,
+          "theaters": 47,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ONE PIECE STAMPED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＳＴＡＭＰＥＤＥ",
+          "sales": 26781,
+          "seats": 97760,
+          "showtimes": 716,
+          "theaters": 270,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 おっさんずラブ ～ＬＯＶＥ ｏｒ ＤＥＡＤ～",
+          "japanese name": "劇場版 おっさんずラブ ～ＬＯＶＥ ｏｒ ＤＥＡＤ～",
+          "sales": 33519,
+          "seats": 118384,
+          "showtimes": 890,
+          "theaters": 268,
+          "rank": 6,
           "last_week_ratio": null
         }
       ]

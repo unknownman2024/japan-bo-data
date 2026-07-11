@@ -16,56 +16,6 @@
       "time": "Final",
       "data": [
         {
-          "moviename": "Flying in Saitama",
-          "japanese name": "翔んで埼玉",
-          "sales": 27972,
-          "seats": 309828,
-          "showtimes": 1244,
-          "theaters": 248,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Alita: Battle Angel",
-          "japanese name": "アリータ：バトル・エンジェル",
-          "sales": 16978,
-          "seats": 391394,
-          "showtimes": 1509,
-          "theaters": 271,
-          "rank": 2,
-          "last_week_ratio": 276.2
-        },
-        {
-          "moviename": "Fortuna's eyes",
-          "japanese name": "フォルトゥナの瞳",
-          "sales": 13248,
-          "seats": 177251,
-          "showtimes": 1075,
-          "theaters": 244,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Bohemian Rhapsody",
-          "japanese name": "ボヘミアン・ラプソディ",
-          "sales": 11154,
-          "seats": 81428,
-          "showtimes": 436,
-          "theaters": 269,
-          "rank": 4,
-          "last_week_ratio": 112.2
-        },
-        {
-          "moviename": "Masquerade Hotel",
-          "japanese name": "マスカレード・ホテル",
-          "sales": 9344,
-          "seats": 147559,
-          "showtimes": 878,
-          "theaters": 258,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Aquaman",
           "japanese name": "アクアマン",
           "sales": 8513,
@@ -73,106 +23,6 @@
           "showtimes": 938,
           "theaters": 262,
           "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Seven Meetings",
-          "japanese name": "七つの会議",
-          "sales": 7258,
-          "seats": 167438,
-          "showtimes": 961,
-          "theaters": 256,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "City Hunter: Shinjuku Private Eyes – The Movie",
-          "japanese name": "劇場版シティーハンター 新宿プライベート・アイズ",
-          "sales": 6193,
-          "seats": 109412,
-          "showtimes": 663,
-          "theaters": 209,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Samurai Marathon",
-          "japanese name": "サムライマラソン",
-          "sales": 5061,
-          "seats": 126454,
-          "showtimes": 730,
-          "theaters": 167,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Nekotachi and Oji-chan",
-          "japanese name": "ねことじいちゃん",
-          "sales": 4654,
-          "seats": 33050,
-          "showtimes": 239,
-          "theaters": 60,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Mary Poppins Returns",
-          "japanese name": "メリー・ポピンズ リターンズ",
-          "sales": 4373,
-          "seats": 66273,
-          "showtimes": 478,
-          "theaters": 266,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Code Geass: Lelouch of the Resurrection",
-          "japanese name": "コードギアス 復活のルルーシュ",
-          "sales": 3861,
-          "seats": 54309,
-          "showtimes": 293,
-          "theaters": 99,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Her Majesty's favorite",
-          "japanese name": "女王陛下のお気に入り",
-          "sales": 3797,
-          "seats": 28670,
-          "showtimes": 209,
-          "theaters": 84,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Snow Flowers",
-          "japanese name": "雪の華",
-          "sales": 3475,
-          "seats": 60574,
-          "showtimes": 455,
-          "theaters": 252,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Twelve children who wanted to die",
-          "japanese name": "十二人の死にたい子どもたち",
-          "sales": 3440,
-          "seats": 66314,
-          "showtimes": 464,
-          "theaters": 258,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "My girlfriend is a mage",
-          "japanese name": "僕の彼女は魔法使い",
-          "sales": 3103,
-          "seats": 69832,
-          "showtimes": 365,
-          "theaters": 109,
-          "rank": 16,
           "last_week_ratio": null
         },
         {
@@ -186,6 +36,26 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Snow Flowers",
+          "japanese name": "雪の華",
+          "sales": 3475,
+          "seats": 60574,
+          "showtimes": 455,
+          "theaters": 252,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fortuna's eyes",
+          "japanese name": "フォルトゥナの瞳",
+          "sales": 13248,
+          "seats": 177251,
+          "showtimes": 1075,
+          "theaters": 244,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "PSYCHO-PASS Case.2「FIRST GUARDIAN」",
           "japanese name": "ＰＳＹＣＨＯ－ＰＡＳＳ サイコパス  Ｃａｓｅ．２「Ｆｉｒｓｔ Ｇｕａｒｄｉａｎ」",
           "sales": 1791,
@@ -196,14 +66,34 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Movie version of \"Is it Wrong to Try to Pick Up Girls in a Dungeon?\"",
-          "japanese name": "劇場版 ダンジョンに出会いを求めるのは間違っているだろうか",
-          "sales": 1635,
-          "seats": 31235,
-          "showtimes": 179,
-          "theaters": 57,
-          "rank": 19,
+          "moviename": "Nekotachi and Oji-chan",
+          "japanese name": "ねことじいちゃん",
+          "sales": 4654,
+          "seats": 33050,
+          "showtimes": 239,
+          "theaters": 60,
+          "rank": 10,
           "last_week_ratio": null
+        },
+        {
+          "moviename": "My girlfriend is a mage",
+          "japanese name": "僕の彼女は魔法使い",
+          "sales": 3103,
+          "seats": 69832,
+          "showtimes": 365,
+          "theaters": 109,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Alita: Battle Angel",
+          "japanese name": "アリータ：バトル・エンジェル",
+          "sales": 16978,
+          "seats": 391394,
+          "showtimes": 1509,
+          "theaters": 271,
+          "rank": 2,
+          "last_week_ratio": 276.2
         },
         {
           "moviename": "THE GUILTY GUILTY",
@@ -213,16 +103,6 @@
           "showtimes": 92,
           "theaters": 25,
           "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Love Live! Sunshine!! The School Idol Movie Over the Rainbow",
-          "japanese name": "ラブライブ！サンシャイン！！ザ スクール アイドル Ｍｏｖｉｅ Ｏｖｅｒ ｔｈｅ Ｒａｉｎｂｏｗ",
-          "sales": 1409,
-          "seats": 14835,
-          "showtimes": 83,
-          "theaters": 79,
-          "rank": 21,
           "last_week_ratio": null
         },
         {
@@ -236,6 +116,116 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Her Majesty's favorite",
+          "japanese name": "女王陛下のお気に入り",
+          "sales": 3797,
+          "seats": 28670,
+          "showtimes": 209,
+          "theaters": 84,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Flying in Saitama",
+          "japanese name": "翔んで埼玉",
+          "sales": 27972,
+          "seats": 309828,
+          "showtimes": 1244,
+          "theaters": 248,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "City Hunter: Shinjuku Private Eyes – The Movie",
+          "japanese name": "劇場版シティーハンター 新宿プライベート・アイズ",
+          "sales": 6193,
+          "seats": 109412,
+          "showtimes": 663,
+          "theaters": 209,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Twelve children who wanted to die",
+          "japanese name": "十二人の死にたい子どもたち",
+          "sales": 3440,
+          "seats": 66314,
+          "showtimes": 464,
+          "theaters": 258,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Code Geass: Lelouch of the Resurrection",
+          "japanese name": "コードギアス 復活のルルーシュ",
+          "sales": 3861,
+          "seats": 54309,
+          "showtimes": 293,
+          "theaters": 99,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Samurai Marathon",
+          "japanese name": "サムライマラソン",
+          "sales": 5061,
+          "seats": 126454,
+          "showtimes": 730,
+          "theaters": 167,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie version of \"Is it Wrong to Try to Pick Up Girls in a Dungeon?\"",
+          "japanese name": "劇場版 ダンジョンに出会いを求めるのは間違っているだろうか",
+          "sales": 1635,
+          "seats": 31235,
+          "showtimes": 179,
+          "theaters": 57,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Seven Meetings",
+          "japanese name": "七つの会議",
+          "sales": 7258,
+          "seats": 167438,
+          "showtimes": 961,
+          "theaters": 256,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Half the world",
+          "japanese name": "半世界",
+          "sales": 1257,
+          "seats": 13570,
+          "showtimes": 109,
+          "theaters": 68,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love Live! Sunshine!! The School Idol Movie Over the Rainbow",
+          "japanese name": "ラブライブ！サンシャイン！！ザ スクール アイドル Ｍｏｖｉｅ Ｏｖｅｒ ｔｈｅ Ｒａｉｎｂｏｗ",
+          "sales": 1409,
+          "seats": 14835,
+          "showtimes": 83,
+          "theaters": 79,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mary Poppins Returns",
+          "japanese name": "メリー・ポピンズ リターンズ",
+          "sales": 4373,
+          "seats": 66273,
+          "showtimes": 478,
+          "theaters": 266,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "The Shoplifter's Family",
           "japanese name": "万引き家族",
           "sales": 1272,
@@ -244,6 +234,16 @@
           "theaters": 133,
           "rank": 23,
           "last_week_ratio": 128.1
+        },
+        {
+          "moviename": "Masquerade Hotel",
+          "japanese name": "マスカレード・ホテル",
+          "sales": 9344,
+          "seats": 147559,
+          "showtimes": 878,
+          "theaters": 258,
+          "rank": 5,
+          "last_week_ratio": null
         },
         {
           "moviename": "Theatrical Version: Maiden Warriors",
@@ -256,14 +256,14 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Half the world",
-          "japanese name": "半世界",
-          "sales": 1257,
-          "seats": 13570,
-          "showtimes": 109,
-          "theaters": 68,
-          "rank": 25,
-          "last_week_ratio": null
+          "moviename": "Bohemian Rhapsody",
+          "japanese name": "ボヘミアン・ラプソディ",
+          "sales": 11154,
+          "seats": 81428,
+          "showtimes": 436,
+          "theaters": 269,
+          "rank": 4,
+          "last_week_ratio": 112.2
         }
       ]
     }

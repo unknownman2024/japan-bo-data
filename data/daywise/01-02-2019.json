@@ -6,26 +6,6 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "Seven Meetings",
-          "japanese name": "七つの会議",
-          "sales": 24825,
-          "seats": 184184,
-          "showtimes": 595,
-          "theaters": 261,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Masquerade Hotel",
-          "japanese name": "マスカレード・ホテル",
-          "sales": 20221,
-          "seats": 142433,
-          "showtimes": 545,
-          "theaters": 264,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Snow Flowers",
           "japanese name": "雪の華",
           "sales": 19322,
@@ -36,34 +16,44 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Mary Poppins Returns",
-          "japanese name": "メリー・ポピンズ リターンズ",
-          "sales": 16514,
-          "seats": 167672,
-          "showtimes": 688,
-          "theaters": 275,
-          "rank": 4,
+          "moviename": "The Wife of a Genius Writer – The Truth After 40 Years –",
+          "japanese name": "天才作家の妻 －４０年目の真実－",
+          "sales": 952,
+          "seats": 4092,
+          "showtimes": 30,
+          "theaters": 17,
+          "rank": 15,
           "last_week_ratio": null
         },
         {
-          "moviename": "Bohemian Rhapsody",
-          "japanese name": "ボヘミアン・ラプソディ",
-          "sales": 13615,
-          "seats": 54771,
-          "showtimes": 352,
-          "theaters": 274,
-          "rank": 5,
-          "last_week_ratio": 157.9
+          "moviename": "Bananas at this late hour, what a sweet story",
+          "japanese name": "こんな夜更けにバナナかよ 愛しき実話",
+          "sales": 1215,
+          "seats": 13371,
+          "showtimes": 107,
+          "theaters": 179,
+          "rank": 14,
+          "last_week_ratio": null
         },
         {
-          "moviename": "Twelve children who wanted to die",
-          "japanese name": "十二人の死にたい子どもたち",
-          "sales": 11103,
-          "seats": 82870,
-          "showtimes": 559,
-          "theaters": 267,
-          "rank": 6,
-          "last_week_ratio": 114.1
+          "moviename": "Dragon Ball Super: Broly",
+          "japanese name": "ドラゴンボール超 ブロリー",
+          "sales": 615,
+          "seats": 18173,
+          "showtimes": 150,
+          "theaters": 260,
+          "rank": 19,
+          "last_week_ratio": 105.7
+        },
+        {
+          "moviename": "Queen Victoria’s Final Secret",
+          "japanese name": "ヴィクトリア女王 最期の秘密",
+          "sales": 488,
+          "seats": 3541,
+          "showtimes": 27,
+          "theaters": 20,
+          "rank": 24,
+          "last_week_ratio": null
         },
         {
           "moviename": "Movie SWORD ART ONLINE",
@@ -76,24 +66,34 @@
           "last_week_ratio": 116.3
         },
         {
-          "moviename": "Love Live! Sunshine!! The School Idol Movie Over the Rainbow",
-          "japanese name": "ラブライブ！サンシャイン！！ザ スクール アイドル Ｍｏｖｉｅ Ｏｖｅｒ ｔｈｅ Ｒａｉｎｂｏｗ",
-          "sales": 3273,
-          "seats": 9292,
-          "showtimes": 61,
-          "theaters": 110,
-          "rank": 8,
+          "moviename": "Heisei Kamen Rider 20th Anniversary Kamen Rider Heisei Generations FOREVER",
+          "japanese name": "平成仮面ライダー２０作記念 仮面ライダー平成ジェネレーションズ ＦＯＲＥＶＥＲ",
+          "sales": 499,
+          "seats": 19620,
+          "showtimes": 153,
+          "theaters": 185,
+          "rank": 22,
           "last_week_ratio": null
         },
         {
-          "moviename": "Fate/Stay Night: Haveens Feel Chapter 2",
-          "japanese name": "Ｆａｔｅ／ｓｔａｙ ｎｉｇｈｔ Ｈｅａｖｅｎｓ Ｆｅｅｌ 第二章",
-          "sales": 3134,
-          "seats": 15677,
-          "showtimes": 111,
-          "theaters": 109,
-          "rank": 9,
-          "last_week_ratio": 122.8
+          "moviename": "Sugar Rush: Online",
+          "japanese name": "シュガー・ラッシュ：オンライン",
+          "sales": 1811,
+          "seats": 35393,
+          "showtimes": 277,
+          "theaters": 267,
+          "rank": 11,
+          "last_week_ratio": 101.8
+        },
+        {
+          "moviename": "Burning: The Movie",
+          "japanese name": "バーニング 劇場版",
+          "sales": 491,
+          "seats": 3838,
+          "showtimes": 31,
+          "theaters": 22,
+          "rank": 23,
+          "last_week_ratio": null
         },
         {
           "moviename": "Yuri!!! On ICE: Complete Series – Part 3 (TV Episodes #9–#12)",
@@ -106,14 +106,84 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Sugar Rush: Online",
-          "japanese name": "シュガー・ラッシュ：オンライン",
-          "sales": 1811,
-          "seats": 35393,
-          "showtimes": 277,
+          "moviename": "Twelve children who wanted to die",
+          "japanese name": "十二人の死にたい子どもたち",
+          "sales": 11103,
+          "seats": 82870,
+          "showtimes": 559,
           "theaters": 267,
-          "rank": 11,
-          "last_week_ratio": 101.8
+          "rank": 6,
+          "last_week_ratio": 114.1
+        },
+        {
+          "moviename": "Fate/Stay Night: Haveens Feel Chapter 2",
+          "japanese name": "Ｆａｔｅ／ｓｔａｙ ｎｉｇｈｔ Ｈｅａｖｅｎｓ Ｆｅｅｌ 第二章",
+          "sales": 3134,
+          "seats": 15677,
+          "showtimes": 111,
+          "theaters": 109,
+          "rank": 9,
+          "last_week_ratio": 122.8
+        },
+        {
+          "moviename": "Build NEW WORLD Kamen Rider Close",
+          "japanese name": "ビルド ＮＥＷ ＷＯＲＬＤ 仮面ライダークローズ",
+          "sales": 637,
+          "seats": 5842,
+          "showtimes": 34,
+          "theaters": 22,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Seven Meetings",
+          "japanese name": "七つの会議",
+          "sales": 24825,
+          "seats": 184184,
+          "showtimes": 595,
+          "theaters": 261,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love Live! Sunshine!! The School Idol Movie Over the Rainbow",
+          "japanese name": "ラブライブ！サンシャイン！！ザ スクール アイドル Ｍｏｖｉｅ Ｏｖｅｒ ｔｈｅ Ｒａｉｎｂｏｗ",
+          "sales": 3273,
+          "seats": 9292,
+          "showtimes": 61,
+          "theaters": 110,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sora’s Restaurant",
+          "japanese name": "そらのレストラン",
+          "sales": 590,
+          "seats": 7095,
+          "showtimes": 59,
+          "theaters": 58,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Shinema Kabuki: The Nightingale in the Deserted Castle / Yang Guifei",
+          "japanese name": "シネマ歌舞伎 沓手鳥孤城落月（ほととぎすこじょうのらくげつ）／楊貴妃（ようきひ）",
+          "sales": 681,
+          "seats": 6042,
+          "showtimes": 40,
+          "theaters": 41,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mary Poppins Returns",
+          "japanese name": "メリー・ポピンズ リターンズ",
+          "sales": 16514,
+          "seats": 167672,
+          "showtimes": 688,
+          "theaters": 275,
+          "rank": 4,
+          "last_week_ratio": null
         },
         {
           "moviename": "PSYCHO-PASS: Psychopath Case.1 “Sin and Punishment”",
@@ -136,23 +206,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Bananas at this late hour, what a sweet story",
-          "japanese name": "こんな夜更けにバナナかよ 愛しき実話",
-          "sales": 1215,
-          "seats": 13371,
-          "showtimes": 107,
-          "theaters": 179,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Wife of a Genius Writer – The Truth After 40 Years –",
-          "japanese name": "天才作家の妻 －４０年目の真実－",
-          "sales": 952,
-          "seats": 4092,
-          "showtimes": 30,
-          "theaters": 17,
-          "rank": 15,
+          "moviename": "Suspelia",
+          "japanese name": "サスペリア",
+          "sales": 458,
+          "seats": 2820,
+          "showtimes": 23,
+          "theaters": 53,
+          "rank": 25,
           "last_week_ratio": null
         },
         {
@@ -166,46 +226,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Shinema Kabuki: The Nightingale in the Deserted Castle / Yang Guifei",
-          "japanese name": "シネマ歌舞伎 沓手鳥孤城落月（ほととぎすこじょうのらくげつ）／楊貴妃（ようきひ）",
-          "sales": 681,
-          "seats": 6042,
-          "showtimes": 40,
-          "theaters": 41,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Build NEW WORLD Kamen Rider Close",
-          "japanese name": "ビルド ＮＥＷ ＷＯＲＬＤ 仮面ライダークローズ",
-          "sales": 637,
-          "seats": 5842,
-          "showtimes": 34,
-          "theaters": 22,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Dragon Ball Super: Broly",
-          "japanese name": "ドラゴンボール超 ブロリー",
-          "sales": 615,
-          "seats": 18173,
-          "showtimes": 150,
-          "theaters": 260,
-          "rank": 19,
-          "last_week_ratio": 105.7
-        },
-        {
-          "moviename": "Sora’s Restaurant",
-          "japanese name": "そらのレストラン",
-          "sales": 590,
-          "seats": 7095,
-          "showtimes": 59,
-          "theaters": 58,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Mr. Glass",
           "japanese name": "ミスター・ガラス",
           "sales": 551,
@@ -216,44 +236,24 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Heisei Kamen Rider 20th Anniversary Kamen Rider Heisei Generations FOREVER",
-          "japanese name": "平成仮面ライダー２０作記念 仮面ライダー平成ジェネレーションズ ＦＯＲＥＶＥＲ",
-          "sales": 499,
-          "seats": 19620,
-          "showtimes": 153,
-          "theaters": 185,
-          "rank": 22,
+          "moviename": "Masquerade Hotel",
+          "japanese name": "マスカレード・ホテル",
+          "sales": 20221,
+          "seats": 142433,
+          "showtimes": 545,
+          "theaters": 264,
+          "rank": 2,
           "last_week_ratio": null
         },
         {
-          "moviename": "Burning: The Movie",
-          "japanese name": "バーニング 劇場版",
-          "sales": 491,
-          "seats": 3838,
-          "showtimes": 31,
-          "theaters": 22,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Queen Victoria’s Final Secret",
-          "japanese name": "ヴィクトリア女王 最期の秘密",
-          "sales": 488,
-          "seats": 3541,
-          "showtimes": 27,
-          "theaters": 20,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Suspelia",
-          "japanese name": "サスペリア",
-          "sales": 458,
-          "seats": 2820,
-          "showtimes": 23,
-          "theaters": 53,
-          "rank": 25,
-          "last_week_ratio": null
+          "moviename": "Bohemian Rhapsody",
+          "japanese name": "ボヘミアン・ラプソディ",
+          "sales": 13615,
+          "seats": 54771,
+          "showtimes": 352,
+          "theaters": 274,
+          "rank": 5,
+          "last_week_ratio": 157.9
         }
       ]
     },
@@ -262,186 +262,6 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "Seven Meetings",
-          "japanese name": "七つの会議",
-          "sales": 43374,
-          "seats": 340615,
-          "showtimes": 1114,
-          "theaters": 261,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Masquerade Hotel",
-          "japanese name": "マスカレード・ホテル",
-          "sales": 39924,
-          "seats": 277824,
-          "showtimes": 1063,
-          "theaters": 264,
-          "rank": 2,
-          "last_week_ratio": 105.7
-        },
-        {
-          "moviename": "Snow Flowers",
-          "japanese name": "雪の華",
-          "sales": 39768,
-          "seats": 176591,
-          "showtimes": 1028,
-          "theaters": 260,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Mary Poppins Returns",
-          "japanese name": "メリー・ポピンズ リターンズ",
-          "sales": 33616,
-          "seats": 320637,
-          "showtimes": 1305,
-          "theaters": 275,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Bohemian Rhapsody",
-          "japanese name": "ボヘミアン・ラプソディ",
-          "sales": 27639,
-          "seats": 109124,
-          "showtimes": 687,
-          "theaters": 274,
-          "rank": 5,
-          "last_week_ratio": 164.6
-        },
-        {
-          "moviename": "Twelve children who wanted to die",
-          "japanese name": "十二人の死にたい子どもたち",
-          "sales": 24223,
-          "seats": 154279,
-          "showtimes": 1025,
-          "theaters": 267,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie SWORD ART ONLINE",
-          "japanese name": "映画 刀剣乱舞",
-          "sales": 10423,
-          "seats": 31794,
-          "showtimes": 223,
-          "theaters": 99,
-          "rank": 7,
-          "last_week_ratio": 128.7
-        },
-        {
-          "moviename": "Love Live! Sunshine!! The School Idol Movie Over the Rainbow",
-          "japanese name": "ラブライブ！サンシャイン！！ザ スクール アイドル Ｍｏｖｉｅ Ｏｖｅｒ ｔｈｅ Ｒａｉｎｂｏｗ",
-          "sales": 8413,
-          "seats": 23206,
-          "showtimes": 153,
-          "theaters": 110,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Fate/Stay Night: Haveens Feel Chapter 2",
-          "japanese name": "Ｆａｔｅ／ｓｔａｙ ｎｉｇｈｔ Ｈｅａｖｅｎｓ Ｆｅｅｌ 第二章",
-          "sales": 6588,
-          "seats": 29803,
-          "showtimes": 213,
-          "theaters": 109,
-          "rank": 9,
-          "last_week_ratio": 107.2
-        },
-        {
-          "moviename": "PSYCHO-PASS: Psychopath Case.1 “Sin and Punishment”",
-          "japanese name": "ＰＳＹＣＨＯ－ＰＡＳＳ サイコパス  Ｃａｓｅ．１「罪と罰」",
-          "sales": 4173,
-          "seats": 25792,
-          "showtimes": 178,
-          "theaters": 73,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Yuri!!! On ICE: Complete Series – Part 3 (TV Episodes #9–#12)",
-          "japanese name": "ユーリ！！！ ｏｎ ＩＣＥ 一挙上映 Ｐａｒｔ．３（ＴＶ♯９～♯１２）",
-          "sales": 4050,
-          "seats": 9715,
-          "showtimes": 77,
-          "theaters": 37,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Front runners",
-          "japanese name": "フロントランナー",
-          "sales": 3216,
-          "seats": 37454,
-          "showtimes": 271,
-          "theaters": 72,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Sugar Rush: Online",
-          "japanese name": "シュガー・ラッシュ：オンライン",
-          "sales": 2833,
-          "seats": 49978,
-          "showtimes": 392,
-          "theaters": 267,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Aiuta – Promise of Nakuhito –",
-          "japanese name": "愛唄－約束のナクヒト－",
-          "sales": 1872,
-          "seats": 30023,
-          "showtimes": 272,
-          "theaters": 154,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Bananas at this late hour, what a sweet story",
-          "japanese name": "こんな夜更けにバナナかよ 愛しき実話",
-          "sales": 1782,
-          "seats": 21952,
-          "showtimes": 176,
-          "theaters": 178,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Wife of a Genius Writer – The Truth After 40 Years –",
-          "japanese name": "天才作家の妻 －４０年目の真実－",
-          "sales": 1581,
-          "seats": 6059,
-          "showtimes": 45,
-          "theaters": 17,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Dragon Ball Super: Broly",
-          "japanese name": "ドラゴンボール超 ブロリー",
-          "sales": 1580,
-          "seats": 39201,
-          "showtimes": 302,
-          "theaters": 260,
-          "rank": 17,
-          "last_week_ratio": 100
-        },
-        {
-          "moviename": "Mr. Glass",
-          "japanese name": "ミスター・ガラス",
-          "sales": 1437,
-          "seats": 8859,
-          "showtimes": 76,
-          "theaters": 91,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Alien／Star Birth",
           "japanese name": "アリー／スター誕生",
           "sales": 1426,
@@ -449,26 +269,6 @@
           "showtimes": 115,
           "theaters": 195,
           "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Build NEW WORLD Kamen Rider Close",
-          "japanese name": "ビルド ＮＥＷ ＷＯＲＬＤ 仮面ライダークローズ",
-          "sales": 1175,
-          "seats": 9075,
-          "showtimes": 58,
-          "theaters": 22,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Suspelia",
-          "japanese name": "サスペリア",
-          "sales": 1164,
-          "seats": 6815,
-          "showtimes": 55,
-          "theaters": 53,
-          "rank": 21,
           "last_week_ratio": null
         },
         {
@@ -482,6 +282,66 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Snow Flowers",
+          "japanese name": "雪の華",
+          "sales": 39768,
+          "seats": 176591,
+          "showtimes": 1028,
+          "theaters": 260,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Wife of a Genius Writer – The Truth After 40 Years –",
+          "japanese name": "天才作家の妻 －４０年目の真実－",
+          "sales": 1581,
+          "seats": 6059,
+          "showtimes": 45,
+          "theaters": 17,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bananas at this late hour, what a sweet story",
+          "japanese name": "こんな夜更けにバナナかよ 愛しき実話",
+          "sales": 1782,
+          "seats": 21952,
+          "showtimes": 176,
+          "theaters": 178,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dragon Ball Super: Broly",
+          "japanese name": "ドラゴンボール超 ブロリー",
+          "sales": 1580,
+          "seats": 39201,
+          "showtimes": 302,
+          "theaters": 260,
+          "rank": 17,
+          "last_week_ratio": 100
+        },
+        {
+          "moviename": "Movie SWORD ART ONLINE",
+          "japanese name": "映画 刀剣乱舞",
+          "sales": 10423,
+          "seats": 31794,
+          "showtimes": 223,
+          "theaters": 99,
+          "rank": 7,
+          "last_week_ratio": 128.7
+        },
+        {
+          "moviename": "Sugar Rush: Online",
+          "japanese name": "シュガー・ラッシュ：オンライン",
+          "sales": 2833,
+          "seats": 49978,
+          "showtimes": 392,
+          "theaters": 267,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Burning: The Movie",
           "japanese name": "バーニング 劇場版",
           "sales": 1141,
@@ -489,6 +349,76 @@
           "showtimes": 53,
           "theaters": 22,
           "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Yuri!!! On ICE: Complete Series – Part 3 (TV Episodes #9–#12)",
+          "japanese name": "ユーリ！！！ ｏｎ ＩＣＥ 一挙上映 Ｐａｒｔ．３（ＴＶ♯９～♯１２）",
+          "sales": 4050,
+          "seats": 9715,
+          "showtimes": 77,
+          "theaters": 37,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Twelve children who wanted to die",
+          "japanese name": "十二人の死にたい子どもたち",
+          "sales": 24223,
+          "seats": 154279,
+          "showtimes": 1025,
+          "theaters": 267,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fate/Stay Night: Haveens Feel Chapter 2",
+          "japanese name": "Ｆａｔｅ／ｓｔａｙ ｎｉｇｈｔ Ｈｅａｖｅｎｓ Ｆｅｅｌ 第二章",
+          "sales": 6588,
+          "seats": 29803,
+          "showtimes": 213,
+          "theaters": 109,
+          "rank": 9,
+          "last_week_ratio": 107.2
+        },
+        {
+          "moviename": "Build NEW WORLD Kamen Rider Close",
+          "japanese name": "ビルド ＮＥＷ ＷＯＲＬＤ 仮面ライダークローズ",
+          "sales": 1175,
+          "seats": 9075,
+          "showtimes": 58,
+          "theaters": 22,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TAXi Diamond Mission",
+          "japanese name": "ＴＡＸｉ ダイヤモンド・ミッション",
+          "sales": 922,
+          "seats": 16512,
+          "showtimes": 132,
+          "theaters": 141,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Seven Meetings",
+          "japanese name": "七つの会議",
+          "sales": 43374,
+          "seats": 340615,
+          "showtimes": 1114,
+          "theaters": 261,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love Live! Sunshine!! The School Idol Movie Over the Rainbow",
+          "japanese name": "ラブライブ！サンシャイン！！ザ スクール アイドル Ｍｏｖｉｅ Ｏｖｅｒ ｔｈｅ Ｒａｉｎｂｏｗ",
+          "sales": 8413,
+          "seats": 23206,
+          "showtimes": 153,
+          "theaters": 110,
+          "rank": 8,
           "last_week_ratio": null
         },
         {
@@ -502,14 +432,84 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "TAXi Diamond Mission",
-          "japanese name": "ＴＡＸｉ ダイヤモンド・ミッション",
-          "sales": 922,
-          "seats": 16512,
-          "showtimes": 132,
-          "theaters": 141,
-          "rank": 25,
+          "moviename": "Mary Poppins Returns",
+          "japanese name": "メリー・ポピンズ リターンズ",
+          "sales": 33616,
+          "seats": 320637,
+          "showtimes": 1305,
+          "theaters": 275,
+          "rank": 4,
           "last_week_ratio": null
+        },
+        {
+          "moviename": "PSYCHO-PASS: Psychopath Case.1 “Sin and Punishment”",
+          "japanese name": "ＰＳＹＣＨＯ－ＰＡＳＳ サイコパス  Ｃａｓｅ．１「罪と罰」",
+          "sales": 4173,
+          "seats": 25792,
+          "showtimes": 178,
+          "theaters": 73,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Front runners",
+          "japanese name": "フロントランナー",
+          "sales": 3216,
+          "seats": 37454,
+          "showtimes": 271,
+          "theaters": 72,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Suspelia",
+          "japanese name": "サスペリア",
+          "sales": 1164,
+          "seats": 6815,
+          "showtimes": 55,
+          "theaters": 53,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Aiuta – Promise of Nakuhito –",
+          "japanese name": "愛唄－約束のナクヒト－",
+          "sales": 1872,
+          "seats": 30023,
+          "showtimes": 272,
+          "theaters": 154,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mr. Glass",
+          "japanese name": "ミスター・ガラス",
+          "sales": 1437,
+          "seats": 8859,
+          "showtimes": 76,
+          "theaters": 91,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Masquerade Hotel",
+          "japanese name": "マスカレード・ホテル",
+          "sales": 39924,
+          "seats": 277824,
+          "showtimes": 1063,
+          "theaters": 264,
+          "rank": 2,
+          "last_week_ratio": 105.7
+        },
+        {
+          "moviename": "Bohemian Rhapsody",
+          "japanese name": "ボヘミアン・ラプソディ",
+          "sales": 27639,
+          "seats": 109124,
+          "showtimes": 687,
+          "theaters": 274,
+          "rank": 5,
+          "last_week_ratio": 164.6
         }
       ]
     },
@@ -518,13 +518,23 @@
       "time": "Final",
       "data": [
         {
-          "moviename": "Seven Meetings",
-          "japanese name": "七つの会議",
-          "sales": 54534,
-          "seats": 428371,
-          "showtimes": 1402,
-          "theaters": 261,
-          "rank": 1,
+          "moviename": "Alien／Star Birth",
+          "japanese name": "アリー／スター誕生",
+          "sales": 2423,
+          "seats": 24385,
+          "showtimes": 199,
+          "theaters": 195,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Cyber Mission",
+          "japanese name": "サイバーミッション",
+          "sales": 1381,
+          "seats": 24535,
+          "showtimes": 175,
+          "theaters": 87,
+          "rank": 24,
           "last_week_ratio": null
         },
         {
@@ -538,43 +548,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Masquerade Hotel",
-          "japanese name": "マスカレード・ホテル",
-          "sales": 51021,
-          "seats": 351891,
-          "showtimes": 1352,
-          "theaters": 264,
-          "rank": 3,
-          "last_week_ratio": 102.9
-        },
-        {
-          "moviename": "Mary Poppins Returns",
-          "japanese name": "メリー・ポピンズ リターンズ",
-          "sales": 43508,
-          "seats": 402355,
-          "showtimes": 1640,
-          "theaters": 275,
-          "rank": 4,
+          "moviename": "The Wife of a Genius Writer – The Truth After 40 Years –",
+          "japanese name": "天才作家の妻 －４０年目の真実－",
+          "sales": 1800,
+          "seats": 7423,
+          "showtimes": 56,
+          "theaters": 17,
+          "rank": 20,
           "last_week_ratio": null
         },
         {
-          "moviename": "Bohemian Rhapsody",
-          "japanese name": "ボヘミアン・ラプソディ",
-          "sales": 36354,
-          "seats": 146452,
-          "showtimes": 919,
-          "theaters": 274,
-          "rank": 5,
-          "last_week_ratio": 153.3
+          "moviename": "Bananas at this late hour, what a sweet story",
+          "japanese name": "こんな夜更けにバナナかよ 愛しき実話",
+          "sales": 1991,
+          "seats": 25138,
+          "showtimes": 199,
+          "theaters": 178,
+          "rank": 17,
+          "last_week_ratio": null
         },
         {
-          "moviename": "Twelve children who wanted to die",
-          "japanese name": "十二人の死にたい子どもたち",
-          "sales": 30268,
-          "seats": 195013,
-          "showtimes": 1303,
-          "theaters": 267,
-          "rank": 6,
+          "moviename": "Dragon Ball Super: Broly",
+          "japanese name": "ドラゴンボール超 ブロリー",
+          "sales": 1846,
+          "seats": 42491,
+          "showtimes": 330,
+          "theaters": 260,
+          "rank": 19,
           "last_week_ratio": null
         },
         {
@@ -588,33 +588,23 @@
           "last_week_ratio": 116.4
         },
         {
-          "moviename": "Love Live! Sunshine!! The School Idol Movie Over the Rainbow",
-          "japanese name": "ラブライブ！サンシャイン！！ザ スクール アイドル Ｍｏｖｉｅ Ｏｖｅｒ ｔｈｅ Ｒａｉｎｂｏｗ",
-          "sales": 12654,
-          "seats": 32704,
-          "showtimes": 211,
-          "theaters": 110,
-          "rank": 8,
+          "moviename": "Sugar Rush: Online",
+          "japanese name": "シュガー・ラッシュ：オンライン",
+          "sales": 2946,
+          "seats": 51002,
+          "showtimes": 400,
+          "theaters": 267,
+          "rank": 13,
           "last_week_ratio": null
         },
         {
-          "moviename": "Fate/Stay Night: Haveens Feel Chapter 2",
-          "japanese name": "Ｆａｔｅ／ｓｔａｙ ｎｉｇｈｔ Ｈｅａｖｅｎｓ Ｆｅｅｌ 第二章",
-          "sales": 9196,
-          "seats": 40257,
-          "showtimes": 285,
-          "theaters": 109,
-          "rank": 9,
-          "last_week_ratio": 104.1
-        },
-        {
-          "moviename": "PSYCHO-PASS: Psychopath Case.1 “Sin and Punishment”",
-          "japanese name": "ＰＳＹＣＨＯ－ＰＡＳＳ サイコパス  Ｃａｓｅ．１「罪と罰」",
-          "sales": 6367,
-          "seats": 34608,
-          "showtimes": 236,
-          "theaters": 73,
-          "rank": 10,
+          "moviename": "Burning: The Movie",
+          "japanese name": "バーニング 劇場版",
+          "sales": 1269,
+          "seats": 8751,
+          "showtimes": 71,
+          "theaters": 22,
+          "rank": 25,
           "last_week_ratio": null
         },
         {
@@ -628,6 +618,96 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Twelve children who wanted to die",
+          "japanese name": "十二人の死にたい子どもたち",
+          "sales": 30268,
+          "seats": 195013,
+          "showtimes": 1303,
+          "theaters": 267,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Fate/Stay Night: Haveens Feel Chapter 2",
+          "japanese name": "Ｆａｔｅ／ｓｔａｙ ｎｉｇｈｔ Ｈｅａｖｅｎｓ Ｆｅｅｌ 第二章",
+          "sales": 9196,
+          "seats": 40257,
+          "showtimes": 285,
+          "theaters": 109,
+          "rank": 9,
+          "last_week_ratio": 104.1
+        },
+        {
+          "moviename": "Build NEW WORLD Kamen Rider Close",
+          "japanese name": "ビルド ＮＥＷ ＷＯＲＬＤ 仮面ライダークローズ",
+          "sales": 1383,
+          "seats": 10586,
+          "showtimes": 69,
+          "theaters": 22,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "TAXi Diamond Mission",
+          "japanese name": "ＴＡＸｉ ダイヤモンド・ミッション",
+          "sales": 1470,
+          "seats": 25151,
+          "showtimes": 200,
+          "theaters": 141,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Seven Meetings",
+          "japanese name": "七つの会議",
+          "sales": 54534,
+          "seats": 428371,
+          "showtimes": 1402,
+          "theaters": 261,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Creed Fire's Rival",
+          "japanese name": "クリード 炎の宿敵",
+          "sales": 1636,
+          "seats": 32343,
+          "showtimes": 258,
+          "theaters": 241,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love Live! Sunshine!! The School Idol Movie Over the Rainbow",
+          "japanese name": "ラブライブ！サンシャイン！！ザ スクール アイドル Ｍｏｖｉｅ Ｏｖｅｒ ｔｈｅ Ｒａｉｎｂｏｗ",
+          "sales": 12654,
+          "seats": 32704,
+          "showtimes": 211,
+          "theaters": 110,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mary Poppins Returns",
+          "japanese name": "メリー・ポピンズ リターンズ",
+          "sales": 43508,
+          "seats": 402355,
+          "showtimes": 1640,
+          "theaters": 275,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "PSYCHO-PASS: Psychopath Case.1 “Sin and Punishment”",
+          "japanese name": "ＰＳＹＣＨＯ－ＰＡＳＳ サイコパス  Ｃａｓｅ．１「罪と罰」",
+          "sales": 6367,
+          "seats": 34608,
+          "showtimes": 236,
+          "theaters": 73,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Front runners",
           "japanese name": "フロントランナー",
           "sales": 4111,
@@ -638,23 +718,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Sugar Rush: Online",
-          "japanese name": "シュガー・ラッシュ：オンライン",
-          "sales": 2946,
-          "seats": 51002,
-          "showtimes": 400,
-          "theaters": 267,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Alien／Star Birth",
-          "japanese name": "アリー／スター誕生",
-          "sales": 2423,
-          "seats": 24385,
-          "showtimes": 199,
-          "theaters": 195,
-          "rank": 14,
+          "moviename": "Suspelia",
+          "japanese name": "サスペリア",
+          "sales": 1914,
+          "seats": 10724,
+          "showtimes": 88,
+          "theaters": 53,
+          "rank": 18,
           "last_week_ratio": null
         },
         {
@@ -678,94 +748,24 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Bananas at this late hour, what a sweet story",
-          "japanese name": "こんな夜更けにバナナかよ 愛しき実話",
-          "sales": 1991,
-          "seats": 25138,
-          "showtimes": 199,
-          "theaters": 178,
-          "rank": 17,
-          "last_week_ratio": null
+          "moviename": "Masquerade Hotel",
+          "japanese name": "マスカレード・ホテル",
+          "sales": 51021,
+          "seats": 351891,
+          "showtimes": 1352,
+          "theaters": 264,
+          "rank": 3,
+          "last_week_ratio": 102.9
         },
         {
-          "moviename": "Suspelia",
-          "japanese name": "サスペリア",
-          "sales": 1914,
-          "seats": 10724,
-          "showtimes": 88,
-          "theaters": 53,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Dragon Ball Super: Broly",
-          "japanese name": "ドラゴンボール超 ブロリー",
-          "sales": 1846,
-          "seats": 42491,
-          "showtimes": 330,
-          "theaters": 260,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Wife of a Genius Writer – The Truth After 40 Years –",
-          "japanese name": "天才作家の妻 －４０年目の真実－",
-          "sales": 1800,
-          "seats": 7423,
-          "showtimes": 56,
-          "theaters": 17,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Creed Fire's Rival",
-          "japanese name": "クリード 炎の宿敵",
-          "sales": 1636,
-          "seats": 32343,
-          "showtimes": 258,
-          "theaters": 241,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "TAXi Diamond Mission",
-          "japanese name": "ＴＡＸｉ ダイヤモンド・ミッション",
-          "sales": 1470,
-          "seats": 25151,
-          "showtimes": 200,
-          "theaters": 141,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Build NEW WORLD Kamen Rider Close",
-          "japanese name": "ビルド ＮＥＷ ＷＯＲＬＤ 仮面ライダークローズ",
-          "sales": 1383,
-          "seats": 10586,
-          "showtimes": 69,
-          "theaters": 22,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Cyber Mission",
-          "japanese name": "サイバーミッション",
-          "sales": 1381,
-          "seats": 24535,
-          "showtimes": 175,
-          "theaters": 87,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Burning: The Movie",
-          "japanese name": "バーニング 劇場版",
-          "sales": 1269,
-          "seats": 8751,
-          "showtimes": 71,
-          "theaters": 22,
-          "rank": 25,
-          "last_week_ratio": null
+          "moviename": "Bohemian Rhapsody",
+          "japanese name": "ボヘミアン・ラプソディ",
+          "sales": 36354,
+          "seats": 146452,
+          "showtimes": 919,
+          "theaters": 274,
+          "rank": 5,
+          "last_week_ratio": 153.3
         }
       ]
     }

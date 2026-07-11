@@ -6,6 +6,16 @@
       "time": "2PM",
       "data": [
         {
+          "moviename": "Prometheus",
+          "japanese name": "プロメア",
+          "sales": 393,
+          "seats": 1993,
+          "showtimes": 20,
+          "theaters": 57,
+          "rank": 20,
+          "last_week_ratio": 108
+        },
+        {
           "moviename": "At the end of the matinée",
           "japanese name": "マチネの終わりに",
           "sales": 14146,
@@ -13,16 +23,6 @@
           "showtimes": 568,
           "theaters": 278,
           "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Closing the wards, each morning",
-          "japanese name": "閉鎖病棟 それぞれの朝",
-          "sales": 8156,
-          "seats": 79636,
-          "showtimes": 509,
-          "theaters": 245,
-          "rank": 2,
           "last_week_ratio": null
         },
         {
@@ -36,76 +36,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Joker",
-          "japanese name": "ジョーカー",
-          "sales": 6232,
-          "seats": 89895,
-          "showtimes": 472,
-          "theaters": 284,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Maleficent 2",
-          "japanese name": "マレフィセント２",
-          "sales": 4744,
-          "seats": 64099,
-          "showtimes": 454,
-          "theaters": 297,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "How to Find the Best Life Possible",
-          "japanese name": "最高の人生の見つけ方",
-          "sales": 4541,
-          "seats": 54702,
-          "showtimes": 430,
-          "theaters": 289,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Gemini Man",
-          "japanese name": "ジェミニマン",
-          "sales": 3479,
-          "seats": 67334,
-          "showtimes": 461,
-          "theaters": 295,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "If hope disappears from the world.",
-          "japanese name": "世界から希望が消えたなら。",
-          "sales": 2040,
-          "seats": 22525,
-          "showtimes": 127,
-          "theaters": 144,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Black School Rules",
-          "japanese name": "ブラック校則",
-          "sales": 1928,
-          "seats": 69594,
-          "showtimes": 327,
-          "theaters": 146,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Star☆Twinkle Precure",
-          "japanese name": "映画スター☆トゥインクルプリキュア",
-          "sales": 1610,
-          "seats": 79449,
-          "showtimes": 439,
-          "theaters": 203,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Honey and Thunderbolt",
           "japanese name": "蜜蜂と遠雷",
           "sales": 1608,
@@ -113,46 +43,6 @@
           "showtimes": 139,
           "theaters": 262,
           "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "I don't remember!",
-          "japanese name": "記憶にございません！",
-          "sales": 1548,
-          "seats": 26662,
-          "showtimes": 205,
-          "theaters": 276,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Yesterday",
-          "japanese name": "イエスタデイ",
-          "sales": 1451,
-          "seats": 11002,
-          "showtimes": 78,
-          "theaters": 84,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "How to Raise a Unattractive Girl  Final",
-          "japanese name": "冴えない彼女の育てかた Ｆｉｎｅ",
-          "sales": 1418,
-          "seats": 25959,
-          "showtimes": 162,
-          "theaters": 110,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Paradise",
-          "japanese name": "楽園",
-          "sales": 593,
-          "seats": 13289,
-          "showtimes": 109,
-          "theaters": 233,
-          "rank": 15,
           "last_week_ratio": null
         },
         {
@@ -166,13 +56,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The first dinner",
-          "japanese name": "最初の晩餐",
-          "sales": 555,
-          "seats": 9776,
-          "showtimes": 72,
-          "theaters": 47,
-          "rank": 17,
+          "moviename": "HIGH&LOW THE WORST×THE RAMPAGE",
+          "japanese name": "ＨｉＧＨ＆ＬＯＷ ＴＨＥ ＷＯＲＳＴ×ＴＨＥ ＲＡＭＰＡＧＥ",
+          "sales": 290,
+          "seats": 3747,
+          "showtimes": 27,
+          "theaters": 259,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black School Rules",
+          "japanese name": "ブラック校則",
+          "sales": 1928,
+          "seats": 69594,
+          "showtimes": 327,
+          "theaters": 146,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "How to Raise a Unattractive Girl  Final",
+          "japanese name": "冴えない彼女の育てかた Ｆｉｎｅ",
+          "sales": 1418,
+          "seats": 25959,
+          "showtimes": 162,
+          "theaters": 110,
+          "rank": 14,
           "last_week_ratio": null
         },
         {
@@ -186,26 +96,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Those who know the blue of the sky",
-          "japanese name": "空の青さを知る人よ",
-          "sales": 445,
-          "seats": 16223,
-          "showtimes": 129,
-          "theaters": 279,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Prometheus",
-          "japanese name": "プロメア",
-          "sales": 393,
-          "seats": 1993,
-          "showtimes": 20,
-          "theaters": 57,
-          "rank": 20,
-          "last_week_ratio": 108
-        },
-        {
           "moviename": "Kaguya-sama Wants to Be Confessed to~The Love and Brain Battle of Geniuses~",
           "japanese name": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
           "sales": 337,
@@ -213,26 +103,6 @@
           "showtimes": 61,
           "theaters": 168,
           "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Macross: Do You Remember Love? Sonic Movie Festival",
-          "japanese name": "超時空要塞マクロス 愛おぼえていますか  爆音映画祭",
-          "sales": 331,
-          "seats": 1513,
-          "showtimes": 5,
-          "theaters": 2,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "T-34 Legend of War",
-          "japanese name": "Ｔ－３４ レジェンド・オブ・ウォー",
-          "sales": 306,
-          "seats": 2702,
-          "showtimes": 22,
-          "theaters": 28,
-          "rank": 23,
           "last_week_ratio": null
         },
         {
@@ -246,13 +116,143 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "HIGH&LOW THE WORST×THE RAMPAGE",
-          "japanese name": "ＨｉＧＨ＆ＬＯＷ ＴＨＥ ＷＯＲＳＴ×ＴＨＥ ＲＡＭＰＡＧＥ",
-          "sales": 290,
-          "seats": 3747,
-          "showtimes": 27,
-          "theaters": 259,
-          "rank": 25,
+          "moviename": "T-34 Legend of War",
+          "japanese name": "Ｔ－３４ レジェンド・オブ・ウォー",
+          "sales": 306,
+          "seats": 2702,
+          "showtimes": 22,
+          "theaters": 28,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Yesterday",
+          "japanese name": "イエスタデイ",
+          "sales": 1451,
+          "seats": 11002,
+          "showtimes": 78,
+          "theaters": 84,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Those who know the blue of the sky",
+          "japanese name": "空の青さを知る人よ",
+          "sales": 445,
+          "seats": 16223,
+          "showtimes": 129,
+          "theaters": 279,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Macross: Do You Remember Love? Sonic Movie Festival",
+          "japanese name": "超時空要塞マクロス 愛おぼえていますか  爆音映画祭",
+          "sales": 331,
+          "seats": 1513,
+          "showtimes": 5,
+          "theaters": 2,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I don't remember!",
+          "japanese name": "記憶にございません！",
+          "sales": 1548,
+          "seats": 26662,
+          "showtimes": 205,
+          "theaters": 276,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Maleficent 2",
+          "japanese name": "マレフィセント２",
+          "sales": 4744,
+          "seats": 64099,
+          "showtimes": 454,
+          "theaters": 297,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The first dinner",
+          "japanese name": "最初の晩餐",
+          "sales": 555,
+          "seats": 9776,
+          "showtimes": 72,
+          "theaters": 47,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Star☆Twinkle Precure",
+          "japanese name": "映画スター☆トゥインクルプリキュア",
+          "sales": 1610,
+          "seats": 79449,
+          "showtimes": 439,
+          "theaters": 203,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Joker",
+          "japanese name": "ジョーカー",
+          "sales": 6232,
+          "seats": 89895,
+          "showtimes": 472,
+          "theaters": 284,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "If hope disappears from the world.",
+          "japanese name": "世界から希望が消えたなら。",
+          "sales": 2040,
+          "seats": 22525,
+          "showtimes": 127,
+          "theaters": 144,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gemini Man",
+          "japanese name": "ジェミニマン",
+          "sales": 3479,
+          "seats": 67334,
+          "showtimes": 461,
+          "theaters": 295,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Closing the wards, each morning",
+          "japanese name": "閉鎖病棟 それぞれの朝",
+          "sales": 8156,
+          "seats": 79636,
+          "showtimes": 509,
+          "theaters": 245,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "How to Find the Best Life Possible",
+          "japanese name": "最高の人生の見つけ方",
+          "sales": 4541,
+          "seats": 54702,
+          "showtimes": 430,
+          "theaters": 289,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Paradise",
+          "japanese name": "楽園",
+          "sales": 593,
+          "seats": 13289,
+          "showtimes": 109,
+          "theaters": 233,
+          "rank": 15,
           "last_week_ratio": null
         }
       ]
@@ -261,6 +261,16 @@
       "title": "Including Independents",
       "time": "7PM",
       "data": [
+        {
+          "moviename": "Prometheus",
+          "japanese name": "プロメア",
+          "sales": 1197,
+          "seats": 5036,
+          "showtimes": 49,
+          "theaters": 57,
+          "rank": 19,
+          "last_week_ratio": null
+        },
         {
           "moviename": "At the end of the matinée",
           "japanese name": "マチネの終わりに",
@@ -282,53 +292,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Joker",
-          "japanese name": "ジョーカー",
-          "sales": 14884,
-          "seats": 173580,
-          "showtimes": 900,
-          "theaters": 284,
-          "rank": 3,
+          "moviename": "Honey and Thunderbolt",
+          "japanese name": "蜜蜂と遠雷",
+          "sales": 2569,
+          "seats": 32945,
+          "showtimes": 264,
+          "theaters": 262,
+          "rank": 12,
           "last_week_ratio": null
         },
         {
-          "moviename": "Closing the wards, each morning",
-          "japanese name": "閉鎖病棟 それぞれの朝",
-          "sales": 11336,
-          "seats": 132030,
-          "showtimes": 845,
-          "theaters": 245,
-          "rank": 4,
+          "moviename": "Weather Child",
+          "japanese name": "天気の子",
+          "sales": 1522,
+          "seats": 31758,
+          "showtimes": 236,
+          "theaters": 276,
+          "rank": 18,
           "last_week_ratio": null
         },
         {
-          "moviename": "Maleficent 2",
-          "japanese name": "マレフィセント２",
-          "sales": 9078,
-          "seats": 110550,
-          "showtimes": 789,
-          "theaters": 297,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "How to Find the Best Life Possible",
-          "japanese name": "最高の人生の見つけ方",
-          "sales": 5807,
-          "seats": 75555,
-          "showtimes": 594,
-          "theaters": 289,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Gemini Man",
-          "japanese name": "ジェミニマン",
-          "sales": 5460,
-          "seats": 115887,
-          "showtimes": 791,
-          "theaters": 295,
-          "rank": 7,
+          "moviename": "HIGH&LOW THE WORST×THE RAMPAGE",
+          "japanese name": "ＨｉＧＨ＆ＬＯＷ ＴＨＥ ＷＯＲＳＴ×ＴＨＥ ＲＡＭＰＡＧＥ",
+          "sales": 2498,
+          "seats": 28415,
+          "showtimes": 208,
+          "theaters": 259,
+          "rank": 13,
           "last_week_ratio": null
         },
         {
@@ -352,106 +342,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "If hope disappears from the world.",
-          "japanese name": "世界から希望が消えたなら。",
-          "sales": 3212,
-          "seats": 37407,
-          "showtimes": 222,
-          "theaters": 144,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Yesterday",
-          "japanese name": "イエスタデイ",
-          "sales": 3093,
-          "seats": 19883,
-          "showtimes": 141,
-          "theaters": 84,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Honey and Thunderbolt",
-          "japanese name": "蜜蜂と遠雷",
-          "sales": 2569,
-          "seats": 32945,
-          "showtimes": 264,
-          "theaters": 262,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "HIGH&LOW THE WORST×THE RAMPAGE",
-          "japanese name": "ＨｉＧＨ＆ＬＯＷ ＴＨＥ ＷＯＲＳＴ×ＴＨＥ ＲＡＭＰＡＧＥ",
-          "sales": 2498,
-          "seats": 28415,
-          "showtimes": 208,
-          "theaters": 259,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "I don't remember!",
-          "japanese name": "記憶にございません！",
-          "sales": 2315,
-          "seats": 39998,
-          "showtimes": 302,
-          "theaters": 276,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Star☆Twinkle Precure",
-          "japanese name": "映画スター☆トゥインクルプリキュア",
-          "sales": 2091,
-          "seats": 97536,
-          "showtimes": 544,
-          "theaters": 203,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Those who know the blue of the sky",
-          "japanese name": "空の青さを知る人よ",
-          "sales": 1752,
-          "seats": 45133,
-          "showtimes": 343,
-          "theaters": 279,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Paradise",
-          "japanese name": "楽園",
-          "sales": 1565,
-          "seats": 31455,
-          "showtimes": 242,
-          "theaters": 233,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Weather Child",
-          "japanese name": "天気の子",
-          "sales": 1522,
-          "seats": 31758,
-          "showtimes": 236,
-          "theaters": 276,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Prometheus",
-          "japanese name": "プロメア",
-          "sales": 1197,
-          "seats": 5036,
-          "showtimes": 49,
-          "theaters": 57,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "The Truth",
           "japanese name": "真実",
           "sales": 909,
@@ -459,16 +349,6 @@
           "showtimes": 120,
           "theaters": 149,
           "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The first dinner",
-          "japanese name": "最初の晩餐",
-          "sales": 902,
-          "seats": 17278,
-          "showtimes": 126,
-          "theaters": 47,
-          "rank": 21,
           "last_week_ratio": null
         },
         {
@@ -482,6 +362,16 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Galaxy Heroes传说 Die Neue These 星乱 第二章",
+          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 星乱 第二章",
+          "sales": 543,
+          "seats": 8869,
+          "showtimes": 56,
+          "theaters": 33,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "T-34 Legend of War",
           "japanese name": "Ｔ－３４ レジェンド・オブ・ウォー",
           "sales": 673,
@@ -492,13 +382,53 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Galaxy Heroes传说 Die Neue These 星乱 第二章",
-          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 星乱 第二章",
-          "sales": 543,
-          "seats": 8869,
-          "showtimes": 56,
-          "theaters": 33,
-          "rank": 24,
+          "moviename": "Yesterday",
+          "japanese name": "イエスタデイ",
+          "sales": 3093,
+          "seats": 19883,
+          "showtimes": 141,
+          "theaters": 84,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Those who know the blue of the sky",
+          "japanese name": "空の青さを知る人よ",
+          "sales": 1752,
+          "seats": 45133,
+          "showtimes": 343,
+          "theaters": 279,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I don't remember!",
+          "japanese name": "記憶にございません！",
+          "sales": 2315,
+          "seats": 39998,
+          "showtimes": 302,
+          "theaters": 276,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Maleficent 2",
+          "japanese name": "マレフィセント２",
+          "sales": 9078,
+          "seats": 110550,
+          "showtimes": 789,
+          "theaters": 297,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The first dinner",
+          "japanese name": "最初の晩餐",
+          "sales": 902,
+          "seats": 17278,
+          "showtimes": 126,
+          "theaters": 47,
+          "rank": 21,
           "last_week_ratio": null
         },
         {
@@ -510,6 +440,76 @@
           "theaters": 113,
           "rank": 25,
           "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Star☆Twinkle Precure",
+          "japanese name": "映画スター☆トゥインクルプリキュア",
+          "sales": 2091,
+          "seats": 97536,
+          "showtimes": 544,
+          "theaters": 203,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Joker",
+          "japanese name": "ジョーカー",
+          "sales": 14884,
+          "seats": 173580,
+          "showtimes": 900,
+          "theaters": 284,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "If hope disappears from the world.",
+          "japanese name": "世界から希望が消えたなら。",
+          "sales": 3212,
+          "seats": 37407,
+          "showtimes": 222,
+          "theaters": 144,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gemini Man",
+          "japanese name": "ジェミニマン",
+          "sales": 5460,
+          "seats": 115887,
+          "showtimes": 791,
+          "theaters": 295,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Closing the wards, each morning",
+          "japanese name": "閉鎖病棟 それぞれの朝",
+          "sales": 11336,
+          "seats": 132030,
+          "showtimes": 845,
+          "theaters": 245,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "How to Find the Best Life Possible",
+          "japanese name": "最高の人生の見つけ方",
+          "sales": 5807,
+          "seats": 75555,
+          "showtimes": 594,
+          "theaters": 289,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Paradise",
+          "japanese name": "楽園",
+          "sales": 1565,
+          "seats": 31455,
+          "showtimes": 242,
+          "theaters": 233,
+          "rank": 17,
+          "last_week_ratio": null
         }
       ]
     },
@@ -517,6 +517,16 @@
       "title": "Including Independents",
       "time": "Final",
       "data": [
+        {
+          "moviename": "Prometheus",
+          "japanese name": "プロメア",
+          "sales": 1619,
+          "seats": 6568,
+          "showtimes": 65,
+          "theaters": 57,
+          "rank": 19,
+          "last_week_ratio": null
+        },
         {
           "moviename": "At the end of the matinée",
           "japanese name": "マチネの終わりに",
@@ -538,53 +548,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Joker",
-          "japanese name": "ジョーカー",
-          "sales": 18536,
-          "seats": 225782,
-          "showtimes": 1172,
-          "theaters": 284,
-          "rank": 3,
+          "moviename": "Honey and Thunderbolt",
+          "japanese name": "蜜蜂と遠雷",
+          "sales": 2810,
+          "seats": 34979,
+          "showtimes": 283,
+          "theaters": 262,
+          "rank": 13,
           "last_week_ratio": null
         },
         {
-          "moviename": "Closing the wards, each morning",
-          "japanese name": "閉鎖病棟 それぞれの朝",
-          "sales": 12412,
-          "seats": 167415,
-          "showtimes": 1074,
-          "theaters": 245,
-          "rank": 4,
+          "moviename": "Weather Child",
+          "japanese name": "天気の子",
+          "sales": 1806,
+          "seats": 37747,
+          "showtimes": 279,
+          "theaters": 276,
+          "rank": 17,
           "last_week_ratio": null
         },
         {
-          "moviename": "Maleficent 2",
-          "japanese name": "マレフィセント２",
-          "sales": 11349,
-          "seats": 147707,
-          "showtimes": 1055,
-          "theaters": 297,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Gemini Man",
-          "japanese name": "ジェミニマン",
-          "sales": 6757,
-          "seats": 154744,
-          "showtimes": 1063,
-          "theaters": 295,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "How to Find the Best Life Possible",
-          "japanese name": "最高の人生の見つけ方",
-          "sales": 5899,
-          "seats": 79929,
-          "showtimes": 626,
-          "theaters": 289,
-          "rank": 7,
+          "moviename": "HIGH&LOW THE WORST×THE RAMPAGE",
+          "japanese name": "ＨｉＧＨ＆ＬＯＷ ＴＨＥ ＷＯＲＳＴ×ＴＨＥ ＲＡＭＰＡＧＥ",
+          "sales": 3343,
+          "seats": 36486,
+          "showtimes": 272,
+          "theaters": 259,
+          "rank": 12,
           "last_week_ratio": null
         },
         {
@@ -608,116 +598,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Yesterday",
-          "japanese name": "イエスタデイ",
-          "sales": 3754,
-          "seats": 26841,
-          "showtimes": 192,
-          "theaters": 84,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "If hope disappears from the world.",
-          "japanese name": "世界から希望が消えたなら。",
-          "sales": 3458,
-          "seats": 41652,
-          "showtimes": 244,
-          "theaters": 144,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "HIGH&LOW THE WORST×THE RAMPAGE",
-          "japanese name": "ＨｉＧＨ＆ＬＯＷ ＴＨＥ ＷＯＲＳＴ×ＴＨＥ ＲＡＭＰＡＧＥ",
-          "sales": 3343,
-          "seats": 36486,
-          "showtimes": 272,
-          "theaters": 259,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Honey and Thunderbolt",
-          "japanese name": "蜜蜂と遠雷",
-          "sales": 2810,
-          "seats": 34979,
-          "showtimes": 283,
-          "theaters": 262,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "I don't remember!",
-          "japanese name": "記憶にございません！",
-          "sales": 2426,
-          "seats": 42927,
-          "showtimes": 324,
-          "theaters": 276,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Those who know the blue of the sky",
-          "japanese name": "空の青さを知る人よ",
-          "sales": 2156,
-          "seats": 59508,
-          "showtimes": 448,
-          "theaters": 279,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Star☆Twinkle Precure",
-          "japanese name": "映画スター☆トゥインクルプリキュア",
-          "sales": 2096,
-          "seats": 97636,
-          "showtimes": 545,
-          "theaters": 203,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Weather Child",
-          "japanese name": "天気の子",
-          "sales": 1806,
-          "seats": 37747,
-          "showtimes": 279,
-          "theaters": 276,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Paradise",
-          "japanese name": "楽園",
-          "sales": 1669,
-          "seats": 35323,
-          "showtimes": 272,
-          "theaters": 233,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Prometheus",
-          "japanese name": "プロメア",
-          "sales": 1619,
-          "seats": 6568,
-          "showtimes": 65,
-          "theaters": 57,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The first dinner",
-          "japanese name": "最初の晩餐",
-          "sales": 1017,
-          "seats": 23246,
-          "showtimes": 169,
-          "theaters": 47,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "The Truth",
           "japanese name": "真実",
           "sales": 990,
@@ -725,16 +605,6 @@
           "showtimes": 146,
           "theaters": 149,
           "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "John Wick: Parabellum",
-          "japanese name": "ジョン・ウィック：パラベラム",
-          "sales": 954,
-          "seats": 15934,
-          "showtimes": 127,
-          "theaters": 131,
-          "rank": 22,
           "last_week_ratio": null
         },
         {
@@ -748,6 +618,16 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Galaxy Heroes传说 Die Neue These 星乱 第二章",
+          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 星乱 第二章",
+          "sales": 762,
+          "seats": 11720,
+          "showtimes": 77,
+          "theaters": 33,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "T-34 Legend of War",
           "japanese name": "Ｔ－３４ レジェンド・オブ・ウォー",
           "sales": 822,
@@ -758,13 +638,133 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Galaxy Heroes传说 Die Neue These 星乱 第二章",
-          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 星乱 第二章",
-          "sales": 762,
-          "seats": 11720,
-          "showtimes": 77,
-          "theaters": 33,
-          "rank": 25,
+          "moviename": "Yesterday",
+          "japanese name": "イエスタデイ",
+          "sales": 3754,
+          "seats": 26841,
+          "showtimes": 192,
+          "theaters": 84,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Those who know the blue of the sky",
+          "japanese name": "空の青さを知る人よ",
+          "sales": 2156,
+          "seats": 59508,
+          "showtimes": 448,
+          "theaters": 279,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I don't remember!",
+          "japanese name": "記憶にございません！",
+          "sales": 2426,
+          "seats": 42927,
+          "showtimes": 324,
+          "theaters": 276,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Maleficent 2",
+          "japanese name": "マレフィセント２",
+          "sales": 11349,
+          "seats": 147707,
+          "showtimes": 1055,
+          "theaters": 297,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The first dinner",
+          "japanese name": "最初の晩餐",
+          "sales": 1017,
+          "seats": 23246,
+          "showtimes": 169,
+          "theaters": 47,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "John Wick: Parabellum",
+          "japanese name": "ジョン・ウィック：パラベラム",
+          "sales": 954,
+          "seats": 15934,
+          "showtimes": 127,
+          "theaters": 131,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Star☆Twinkle Precure",
+          "japanese name": "映画スター☆トゥインクルプリキュア",
+          "sales": 2096,
+          "seats": 97636,
+          "showtimes": 545,
+          "theaters": 203,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Joker",
+          "japanese name": "ジョーカー",
+          "sales": 18536,
+          "seats": 225782,
+          "showtimes": 1172,
+          "theaters": 284,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "If hope disappears from the world.",
+          "japanese name": "世界から希望が消えたなら。",
+          "sales": 3458,
+          "seats": 41652,
+          "showtimes": 244,
+          "theaters": 144,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Gemini Man",
+          "japanese name": "ジェミニマン",
+          "sales": 6757,
+          "seats": 154744,
+          "showtimes": 1063,
+          "theaters": 295,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Closing the wards, each morning",
+          "japanese name": "閉鎖病棟 それぞれの朝",
+          "sales": 12412,
+          "seats": 167415,
+          "showtimes": 1074,
+          "theaters": 245,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "How to Find the Best Life Possible",
+          "japanese name": "最高の人生の見つけ方",
+          "sales": 5899,
+          "seats": 79929,
+          "showtimes": 626,
+          "theaters": 289,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Paradise",
+          "japanese name": "楽園",
+          "sales": 1669,
+          "seats": 35323,
+          "showtimes": 272,
+          "theaters": 233,
+          "rank": 18,
           "last_week_ratio": null
         }
       ]

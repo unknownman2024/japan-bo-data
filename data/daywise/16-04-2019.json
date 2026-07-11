@@ -6,13 +6,93 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "Detective Conan 2019: Blue Fist",
-          "japanese name": "名探偵コナン２０１９ 紺青の拳（フィスト）",
-          "sales": 21749,
-          "seats": 370561,
-          "showtimes": 1169,
-          "theaters": 273,
-          "rank": 1,
+          "moviename": "Mahjong Wanderer 2020",
+          "japanese name": "麻雀放浪記２０２０",
+          "sales": 350,
+          "seats": 5785,
+          "showtimes": 48,
+          "theaters": 44,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Captain Marvel",
+          "japanese name": "キャプテン・マーベル",
+          "sales": 1531,
+          "seats": 40081,
+          "showtimes": 283,
+          "theaters": 281,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Story of Todorō’s Selfless Love",
+          "japanese name": "多十郎殉愛記",
+          "sales": 690,
+          "seats": 24958,
+          "showtimes": 155,
+          "theaters": 65,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MET Live Viewing 2018-19: The Regiment’s Daughters",
+          "japanese name": "ＭＥＴライブビューイング２０１８－１９ 連隊の娘",
+          "sales": 601,
+          "seats": 2287,
+          "showtimes": 16,
+          "theaters": 18,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Movie: Osomatsu-san",
+          "japanese name": "えいがのおそ松さん",
+          "sales": 437,
+          "seats": 9021,
+          "showtimes": 67,
+          "theaters": 116,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Halloween",
+          "japanese name": "ハロウィン",
+          "sales": 1030,
+          "seats": 26837,
+          "showtimes": 168,
+          "theaters": 87,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Beautiful Boy",
+          "japanese name": "ビューティフル・ボーイ",
+          "sales": 682,
+          "seats": 10659,
+          "showtimes": 74,
+          "theaters": 40,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Encounter with the Unknown Final Cut Edition",
+          "japanese name": "未知との遭遇 ファイナル・カット版",
+          "sales": 368,
+          "seats": 5210,
+          "showtimes": 44,
+          "theaters": 44,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Thomas & Friends: Go! Go! World Adventure",
+          "japanese name": "映画 きかんしゃトーマス Ｇｏ！Ｇｏ！地球まるごとアドベンチャー",
+          "sales": 476,
+          "seats": 46234,
+          "showtimes": 316,
+          "theaters": 117,
+          "rank": 19,
           "last_week_ratio": null
         },
         {
@@ -23,6 +103,36 @@
           "showtimes": 356,
           "theaters": 172,
           "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan 2019: Blue Fist",
+          "japanese name": "名探偵コナン２０１９ 紺青の拳（フィスト）",
+          "sales": 21749,
+          "seats": 370561,
+          "showtimes": 1169,
+          "theaters": 273,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Vice",
+          "japanese name": "バイス",
+          "sales": 1120,
+          "seats": 14191,
+          "showtimes": 108,
+          "theaters": 78,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Green Book",
+          "japanese name": "グリーンブック",
+          "sales": 1329,
+          "seats": 19738,
+          "showtimes": 142,
+          "theaters": 209,
+          "rank": 6,
           "last_week_ratio": null
         },
         {
@@ -46,123 +156,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Captain Marvel",
-          "japanese name": "キャプテン・マーベル",
-          "sales": 1531,
-          "seats": 40081,
-          "showtimes": 283,
-          "theaters": 281,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Green Book",
-          "japanese name": "グリーンブック",
-          "sales": 1329,
-          "seats": 19738,
-          "showtimes": 142,
-          "theaters": 209,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Bumblebee",
-          "japanese name": "バンブルビー",
-          "sales": 1277,
-          "seats": 35910,
-          "showtimes": 263,
-          "theaters": 280,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Vice",
-          "japanese name": "バイス",
-          "sales": 1120,
-          "seats": 14191,
-          "showtimes": 108,
-          "theaters": 78,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Halloween",
-          "japanese name": "ハロウィン",
-          "sales": 1030,
-          "seats": 26837,
-          "showtimes": 168,
-          "theaters": 87,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Cinema歌舞伎 Noda Version Under the Full Bloom of Sakura Forest",
-          "japanese name": "シネマ歌舞伎 野田版 桜の森の満開の下",
-          "sales": 952,
-          "seats": 6196,
-          "showtimes": 46,
-          "theaters": 42,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie: The Boys",
-          "japanese name": "映画 少年たち",
-          "sales": 893,
-          "seats": 22342,
-          "showtimes": 150,
-          "theaters": 147,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Story of Todorō’s Selfless Love",
-          "japanese name": "多十郎殉愛記",
-          "sales": 690,
-          "seats": 24958,
-          "showtimes": 155,
-          "theaters": 65,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Beautiful Boy",
-          "japanese name": "ビューティフル・ボーイ",
-          "sales": 682,
-          "seats": 10659,
-          "showtimes": 74,
-          "theaters": 40,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Doraemon 2019 Nobita's Moon Exploration",
-          "japanese name": "映画ドラえもん ２０１９ のび太の月面探査記",
-          "sales": 671,
-          "seats": 107010,
-          "showtimes": 600,
-          "theaters": 266,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Bohemian Rhapsody",
-          "japanese name": "ボヘミアン・ラプソディ",
-          "sales": 646,
-          "seats": 7583,
-          "showtimes": 41,
-          "theaters": 173,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "MET Live Viewing 2018-19: The Regiment’s Daughters",
-          "japanese name": "ＭＥＴライブビューイング２０１８－１９ 連隊の娘",
-          "sales": 601,
-          "seats": 2287,
-          "showtimes": 16,
-          "theaters": 18,
-          "rank": 16,
+          "moviename": "You shine brightly on moonlit nights.",
+          "japanese name": "君は月夜に光り輝く",
+          "sales": 407,
+          "seats": 28087,
+          "showtimes": 214,
+          "theaters": 252,
+          "rank": 21,
           "last_week_ratio": null
         },
         {
@@ -176,63 +176,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Carriers/Transporters",
-          "japanese name": "運び屋",
-          "sales": 511,
-          "seats": 10852,
-          "showtimes": 75,
-          "theaters": 177,
-          "rank": 18,
+          "moviename": "Movie Doraemon 2019 Nobita's Moon Exploration",
+          "japanese name": "映画ドラえもん ２０１９ のび太の月面探査記",
+          "sales": 671,
+          "seats": 107010,
+          "showtimes": 600,
+          "theaters": 266,
+          "rank": 14,
           "last_week_ratio": null
         },
         {
-          "moviename": "Movie Thomas & Friends: Go! Go! World Adventure",
-          "japanese name": "映画 きかんしゃトーマス Ｇｏ！Ｇｏ！地球まるごとアドベンチャー",
-          "sales": 476,
-          "seats": 46234,
-          "showtimes": 316,
-          "theaters": 117,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Movie: Osomatsu-san",
-          "japanese name": "えいがのおそ松さん",
-          "sales": 437,
-          "seats": 9021,
-          "showtimes": 67,
-          "theaters": 116,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "You shine brightly on moonlit nights.",
-          "japanese name": "君は月夜に光り輝く",
-          "sales": 407,
-          "seats": 28087,
-          "showtimes": 214,
-          "theaters": 252,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Encounter with the Unknown Final Cut Edition",
-          "japanese name": "未知との遭遇 ファイナル・カット版",
-          "sales": 368,
-          "seats": 5210,
-          "showtimes": 44,
-          "theaters": 44,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Mahjong Wanderer 2020",
-          "japanese name": "麻雀放浪記２０２０",
-          "sales": 350,
-          "seats": 5785,
-          "showtimes": 48,
-          "theaters": 44,
-          "rank": 23,
+          "moviename": "Movie: The Boys",
+          "japanese name": "映画 少年たち",
+          "sales": 893,
+          "seats": 22342,
+          "showtimes": 150,
+          "theaters": 147,
+          "rank": 11,
           "last_week_ratio": null
         },
         {
@@ -246,6 +206,26 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Cinema歌舞伎 Noda Version Under the Full Bloom of Sakura Forest",
+          "japanese name": "シネマ歌舞伎 野田版 桜の森の満開の下",
+          "sales": 952,
+          "seats": 6196,
+          "showtimes": 46,
+          "theaters": 42,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Carriers/Transporters",
+          "japanese name": "運び屋",
+          "sales": 511,
+          "seats": 10852,
+          "showtimes": 75,
+          "theaters": 177,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "KING OF PRISM – Shiny Seven Stars – III: Leo × Yuu × Alex",
           "japanese name": "ＫＩＮＧ ＯＦ ＰＲＩＳＭ－Ｓｈｉｎｙ Ｓｅｖｅｎ Ｓｔａｒｓ－Ⅲ レオ×ユウ×アレク",
           "sales": 308,
@@ -253,6 +233,26 @@
           "showtimes": 46,
           "theaters": 29,
           "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bohemian Rhapsody",
+          "japanese name": "ボヘミアン・ラプソディ",
+          "sales": 646,
+          "seats": 7583,
+          "showtimes": 41,
+          "theaters": 173,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bumblebee",
+          "japanese name": "バンブルビー",
+          "sales": 1277,
+          "seats": 35910,
+          "showtimes": 263,
+          "theaters": 280,
+          "rank": 7,
           "last_week_ratio": null
         }
       ]
@@ -262,13 +262,83 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "Detective Conan 2019: Blue Fist",
-          "japanese name": "名探偵コナン２０１９ 紺青の拳（フィスト）",
-          "sales": 47078,
-          "seats": 629101,
-          "showtimes": 1989,
-          "theaters": 273,
-          "rank": 1,
+          "moviename": "Captain Marvel",
+          "japanese name": "キャプテン・マーベル",
+          "sales": 4132,
+          "seats": 84302,
+          "showtimes": 575,
+          "theaters": 281,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Story of Todorō’s Selfless Love",
+          "japanese name": "多十郎殉愛記",
+          "sales": 987,
+          "seats": 39772,
+          "showtimes": 247,
+          "theaters": 65,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MET Live Viewing 2018-19: The Regiment’s Daughters",
+          "japanese name": "ＭＥＴライブビューイング２０１８－１９ 連隊の娘",
+          "sales": 792,
+          "seats": 3251,
+          "showtimes": 19,
+          "theaters": 18,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Movie: Osomatsu-san",
+          "japanese name": "えいがのおそ松さん",
+          "sales": 1277,
+          "seats": 22441,
+          "showtimes": 164,
+          "theaters": 116,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Prince of Legend",
+          "japanese name": "ＰＲＩＮＣＥ ＯＦ ＬＥＧＥＮＤ",
+          "sales": 655,
+          "seats": 45623,
+          "showtimes": 328,
+          "theaters": 259,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Halloween",
+          "japanese name": "ハロウィン",
+          "sales": 2552,
+          "seats": 50976,
+          "showtimes": 315,
+          "theaters": 87,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Beautiful Boy",
+          "japanese name": "ビューティフル・ボーイ",
+          "sales": 1132,
+          "seats": 19894,
+          "showtimes": 138,
+          "theaters": 40,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie Thomas & Friends: Go! Go! World Adventure",
+          "japanese name": "映画 きかんしゃトーマス Ｇｏ！Ｇｏ！地球まるごとアドベンチャー",
+          "sales": 618,
+          "seats": 59333,
+          "showtimes": 409,
+          "theaters": 117,
+          "rank": 25,
           "last_week_ratio": null
         },
         {
@@ -282,13 +352,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Captain Marvel",
-          "japanese name": "キャプテン・マーベル",
-          "sales": 4132,
-          "seats": 84302,
-          "showtimes": 575,
-          "theaters": 281,
-          "rank": 3,
+          "moviename": "Detective Conan 2019: Blue Fist",
+          "japanese name": "名探偵コナン２０１９ 紺青の拳（フィスト）",
+          "sales": 47078,
+          "seats": 629101,
+          "showtimes": 1989,
+          "theaters": 273,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Vice",
+          "japanese name": "バイス",
+          "sales": 1742,
+          "seats": 24326,
+          "showtimes": 187,
+          "theaters": 78,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Green Book",
+          "japanese name": "グリーンブック",
+          "sales": 2711,
+          "seats": 42216,
+          "showtimes": 286,
+          "theaters": 209,
+          "rank": 6,
           "last_week_ratio": null
         },
         {
@@ -312,96 +402,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Green Book",
-          "japanese name": "グリーンブック",
-          "sales": 2711,
-          "seats": 42216,
-          "showtimes": 286,
-          "theaters": 209,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Halloween",
-          "japanese name": "ハロウィン",
-          "sales": 2552,
-          "seats": 50976,
-          "showtimes": 315,
-          "theaters": 87,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie: The Boys",
-          "japanese name": "映画 少年たち",
-          "sales": 2354,
-          "seats": 49633,
-          "showtimes": 334,
-          "theaters": 146,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Bumblebee",
-          "japanese name": "バンブルビー",
-          "sales": 2243,
-          "seats": 70590,
-          "showtimes": 519,
-          "theaters": 280,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Vice",
-          "japanese name": "バイス",
-          "sales": 1742,
-          "seats": 24326,
-          "showtimes": 187,
-          "theaters": 78,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Bohemian Rhapsody",
-          "japanese name": "ボヘミアン・ラプソディ",
-          "sales": 1626,
-          "seats": 25743,
-          "showtimes": 153,
-          "theaters": 173,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Movie: Osomatsu-san",
-          "japanese name": "えいがのおそ松さん",
-          "sales": 1277,
-          "seats": 22441,
-          "showtimes": 164,
-          "theaters": 116,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Beautiful Boy",
-          "japanese name": "ビューティフル・ボーイ",
-          "sales": 1132,
-          "seats": 19894,
-          "showtimes": 138,
-          "theaters": 40,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Doraemon 2019 Nobita's Moon Exploration",
-          "japanese name": "映画ドラえもん ２０１９ のび太の月面探査記",
-          "sales": 1080,
-          "seats": 151062,
-          "showtimes": 851,
-          "theaters": 266,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "You shine brightly on moonlit nights.",
           "japanese name": "君は月夜に光り輝く",
           "sales": 1072,
@@ -409,56 +409,6 @@
           "showtimes": 458,
           "theaters": 252,
           "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Cinema歌舞伎 Noda Version Under the Full Bloom of Sakura Forest",
-          "japanese name": "シネマ歌舞伎 野田版 桜の森の満開の下",
-          "sales": 1059,
-          "seats": 7715,
-          "showtimes": 58,
-          "theaters": 42,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Story of Todorō’s Selfless Love",
-          "japanese name": "多十郎殉愛記",
-          "sales": 987,
-          "seats": 39772,
-          "showtimes": 247,
-          "theaters": 65,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Carriers/Transporters",
-          "japanese name": "運び屋",
-          "sales": 974,
-          "seats": 23530,
-          "showtimes": 163,
-          "theaters": 177,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Spider-Man Spider-Verse",
-          "japanese name": "スパイダーマン スパイダーバース",
-          "sales": 797,
-          "seats": 17115,
-          "showtimes": 127,
-          "theaters": 144,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "MET Live Viewing 2018-19: The Regiment’s Daughters",
-          "japanese name": "ＭＥＴライブビューイング２０１８－１９ 連隊の娘",
-          "sales": 792,
-          "seats": 3251,
-          "showtimes": 19,
-          "theaters": 18,
-          "rank": 20,
           "last_week_ratio": null
         },
         {
@@ -472,26 +422,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "KING OF PRISM – Shiny Seven Stars – III: Leo × Yuu × Alex",
-          "japanese name": "ＫＩＮＧ ＯＦ ＰＲＩＳＭ－Ｓｈｉｎｙ Ｓｅｖｅｎ Ｓｔａｒｓ－Ⅲ レオ×ユウ×アレク",
-          "sales": 711,
-          "seats": 13721,
-          "showtimes": 86,
-          "theaters": 29,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Prince of Legend",
-          "japanese name": "ＰＲＩＮＣＥ ＯＦ ＬＥＧＥＮＤ",
-          "sales": 655,
-          "seats": 45623,
-          "showtimes": 328,
-          "theaters": 259,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Movie Precure Miracle Universe",
           "japanese name": "映画 プリキュアミラクルユニバース",
           "sales": 623,
@@ -502,13 +432,83 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Movie Thomas & Friends: Go! Go! World Adventure",
-          "japanese name": "映画 きかんしゃトーマス Ｇｏ！Ｇｏ！地球まるごとアドベンチャー",
-          "sales": 618,
-          "seats": 59333,
-          "showtimes": 409,
-          "theaters": 117,
-          "rank": 25,
+          "moviename": "Movie Doraemon 2019 Nobita's Moon Exploration",
+          "japanese name": "映画ドラえもん ２０１９ のび太の月面探査記",
+          "sales": 1080,
+          "seats": 151062,
+          "showtimes": 851,
+          "theaters": 266,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: The Boys",
+          "japanese name": "映画 少年たち",
+          "sales": 2354,
+          "seats": 49633,
+          "showtimes": 334,
+          "theaters": 146,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Cinema歌舞伎 Noda Version Under the Full Bloom of Sakura Forest",
+          "japanese name": "シネマ歌舞伎 野田版 桜の森の満開の下",
+          "sales": 1059,
+          "seats": 7715,
+          "showtimes": 58,
+          "theaters": 42,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Carriers/Transporters",
+          "japanese name": "運び屋",
+          "sales": 974,
+          "seats": 23530,
+          "showtimes": 163,
+          "theaters": 177,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "KING OF PRISM – Shiny Seven Stars – III: Leo × Yuu × Alex",
+          "japanese name": "ＫＩＮＧ ＯＦ ＰＲＩＳＭ－Ｓｈｉｎｙ Ｓｅｖｅｎ Ｓｔａｒｓ－Ⅲ レオ×ユウ×アレク",
+          "sales": 711,
+          "seats": 13721,
+          "showtimes": 86,
+          "theaters": 29,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bohemian Rhapsody",
+          "japanese name": "ボヘミアン・ラプソディ",
+          "sales": 1626,
+          "seats": 25743,
+          "showtimes": 153,
+          "theaters": 173,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Spider-Man Spider-Verse",
+          "japanese name": "スパイダーマン スパイダーバース",
+          "sales": 797,
+          "seats": 17115,
+          "showtimes": 127,
+          "theaters": 144,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bumblebee",
+          "japanese name": "バンブルビー",
+          "sales": 2243,
+          "seats": 70590,
+          "showtimes": 519,
+          "theaters": 280,
+          "rank": 9,
           "last_week_ratio": null
         }
       ]
@@ -518,13 +518,83 @@
       "time": "Final",
       "data": [
         {
-          "moviename": "Detective Conan 2019: Blue Fist",
-          "japanese name": "名探偵コナン２０１９ 紺青の拳（フィスト）",
-          "sales": 60381,
-          "seats": 740517,
-          "showtimes": 2343,
-          "theaters": 273,
-          "rank": 1,
+          "moviename": "Mahjong Wanderer 2020",
+          "japanese name": "麻雀放浪記２０２０",
+          "sales": 720,
+          "seats": 14364,
+          "showtimes": 120,
+          "theaters": 44,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Captain Marvel",
+          "japanese name": "キャプテン・マーベル",
+          "sales": 5649,
+          "seats": 120685,
+          "showtimes": 819,
+          "theaters": 281,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Story of Todorō’s Selfless Love",
+          "japanese name": "多十郎殉愛記",
+          "sales": 1076,
+          "seats": 47752,
+          "showtimes": 297,
+          "theaters": 65,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MET Live Viewing 2018-19: The Regiment’s Daughters",
+          "japanese name": "ＭＥＴライブビューイング２０１８－１９ 連隊の娘",
+          "sales": 792,
+          "seats": 3251,
+          "showtimes": 19,
+          "theaters": 18,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Movie: Osomatsu-san",
+          "japanese name": "えいがのおそ松さん",
+          "sales": 1573,
+          "seats": 27162,
+          "showtimes": 196,
+          "theaters": 116,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Prince of Legend",
+          "japanese name": "ＰＲＩＮＣＥ ＯＦ ＬＥＧＥＮＤ",
+          "sales": 873,
+          "seats": 60589,
+          "showtimes": 432,
+          "theaters": 259,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Halloween",
+          "japanese name": "ハロウィン",
+          "sales": 3311,
+          "seats": 66370,
+          "showtimes": 410,
+          "theaters": 87,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Beautiful Boy",
+          "japanese name": "ビューティフル・ボーイ",
+          "sales": 1263,
+          "seats": 25345,
+          "showtimes": 175,
+          "theaters": 40,
+          "rank": 15,
           "last_week_ratio": null
         },
         {
@@ -538,13 +608,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Captain Marvel",
-          "japanese name": "キャプテン・マーベル",
-          "sales": 5649,
-          "seats": 120685,
-          "showtimes": 819,
-          "theaters": 281,
-          "rank": 3,
+          "moviename": "Detective Conan 2019: Blue Fist",
+          "japanese name": "名探偵コナン２０１９ 紺青の拳（フィスト）",
+          "sales": 60381,
+          "seats": 740517,
+          "showtimes": 2343,
+          "theaters": 273,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Vice",
+          "japanese name": "バイス",
+          "sales": 1947,
+          "seats": 33349,
+          "showtimes": 257,
+          "theaters": 78,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Green Book",
+          "japanese name": "グリーンブック",
+          "sales": 3055,
+          "seats": 51937,
+          "showtimes": 353,
+          "theaters": 209,
+          "rank": 7,
           "last_week_ratio": null
         },
         {
@@ -568,86 +658,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Halloween",
-          "japanese name": "ハロウィン",
-          "sales": 3311,
-          "seats": 66370,
-          "showtimes": 410,
-          "theaters": 87,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Green Book",
-          "japanese name": "グリーンブック",
-          "sales": 3055,
-          "seats": 51937,
-          "showtimes": 353,
-          "theaters": 209,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Bumblebee",
-          "japanese name": "バンブルビー",
-          "sales": 2963,
-          "seats": 103026,
-          "showtimes": 747,
-          "theaters": 280,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie: The Boys",
-          "japanese name": "映画 少年たち",
-          "sales": 2699,
-          "seats": 57017,
-          "showtimes": 387,
-          "theaters": 146,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Bohemian Rhapsody",
-          "japanese name": "ボヘミアン・ラプソディ",
-          "sales": 2091,
-          "seats": 36755,
-          "showtimes": 219,
-          "theaters": 173,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Vice",
-          "japanese name": "バイス",
-          "sales": 1947,
-          "seats": 33349,
-          "showtimes": 257,
-          "theaters": 78,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Movie: Osomatsu-san",
-          "japanese name": "えいがのおそ松さん",
-          "sales": 1573,
-          "seats": 27162,
-          "showtimes": 196,
-          "theaters": 116,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "KING OF PRISM – Shiny Seven Stars – III: Leo × Yuu × Alex",
-          "japanese name": "ＫＩＮＧ ＯＦ ＰＲＩＳＭ－Ｓｈｉｎｙ Ｓｅｖｅｎ Ｓｔａｒｓ－Ⅲ レオ×ユウ×アレク",
-          "sales": 1443,
-          "seats": 18966,
-          "showtimes": 118,
-          "theaters": 29,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "You shine brightly on moonlit nights.",
           "japanese name": "君は月夜に光り輝く",
           "sales": 1319,
@@ -658,33 +668,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Beautiful Boy",
-          "japanese name": "ビューティフル・ボーイ",
-          "sales": 1263,
-          "seats": 25345,
-          "showtimes": 175,
-          "theaters": 40,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Spider-Man Spider-Verse",
-          "japanese name": "スパイダーマン スパイダーバース",
-          "sales": 1146,
-          "seats": 24410,
-          "showtimes": 178,
-          "theaters": 144,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Carriers/Transporters",
-          "japanese name": "運び屋",
-          "sales": 1136,
-          "seats": 28702,
-          "showtimes": 201,
-          "theaters": 177,
-          "rank": 17,
+          "moviename": "L・DK: Under one roof, two “skis”.",
+          "japanese name": "Ｌ・ＤＫ ひとつ屋根の下、「スキ」がふたつ。",
+          "sales": 813,
+          "seats": 27745,
+          "showtimes": 205,
+          "theaters": 130,
+          "rank": 23,
           "last_week_ratio": null
         },
         {
@@ -698,13 +688,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The Story of Todorō’s Selfless Love",
-          "japanese name": "多十郎殉愛記",
-          "sales": 1076,
-          "seats": 47752,
-          "showtimes": 297,
-          "theaters": 65,
-          "rank": 19,
+          "moviename": "Movie: The Boys",
+          "japanese name": "映画 少年たち",
+          "sales": 2699,
+          "seats": 57017,
+          "showtimes": 387,
+          "theaters": 146,
+          "rank": 9,
           "last_week_ratio": null
         },
         {
@@ -718,13 +708,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Prince of Legend",
-          "japanese name": "ＰＲＩＮＣＥ ＯＦ ＬＥＧＥＮＤ",
-          "sales": 873,
-          "seats": 60589,
-          "showtimes": 432,
-          "theaters": 259,
-          "rank": 21,
+          "moviename": "Carriers/Transporters",
+          "japanese name": "運び屋",
+          "sales": 1136,
+          "seats": 28702,
+          "showtimes": 201,
+          "theaters": 177,
+          "rank": 17,
           "last_week_ratio": null
         },
         {
@@ -738,33 +728,43 @@
           "last_week_ratio": 110.4
         },
         {
-          "moviename": "L・DK: Under one roof, two “skis”.",
-          "japanese name": "Ｌ・ＤＫ ひとつ屋根の下、「スキ」がふたつ。",
-          "sales": 813,
-          "seats": 27745,
-          "showtimes": 205,
-          "theaters": 130,
-          "rank": 23,
+          "moviename": "KING OF PRISM – Shiny Seven Stars – III: Leo × Yuu × Alex",
+          "japanese name": "ＫＩＮＧ ＯＦ ＰＲＩＳＭ－Ｓｈｉｎｙ Ｓｅｖｅｎ Ｓｔａｒｓ－Ⅲ レオ×ユウ×アレク",
+          "sales": 1443,
+          "seats": 18966,
+          "showtimes": 118,
+          "theaters": 29,
+          "rank": 13,
           "last_week_ratio": null
         },
         {
-          "moviename": "MET Live Viewing 2018-19: The Regiment’s Daughters",
-          "japanese name": "ＭＥＴライブビューイング２０１８－１９ 連隊の娘",
-          "sales": 792,
-          "seats": 3251,
-          "showtimes": 19,
-          "theaters": 18,
-          "rank": 24,
+          "moviename": "Bohemian Rhapsody",
+          "japanese name": "ボヘミアン・ラプソディ",
+          "sales": 2091,
+          "seats": 36755,
+          "showtimes": 219,
+          "theaters": 173,
+          "rank": 10,
           "last_week_ratio": null
         },
         {
-          "moviename": "Mahjong Wanderer 2020",
-          "japanese name": "麻雀放浪記２０２０",
-          "sales": 720,
-          "seats": 14364,
-          "showtimes": 120,
-          "theaters": 44,
-          "rank": 25,
+          "moviename": "Spider-Man Spider-Verse",
+          "japanese name": "スパイダーマン スパイダーバース",
+          "sales": 1146,
+          "seats": 24410,
+          "showtimes": 178,
+          "theaters": 144,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bumblebee",
+          "japanese name": "バンブルビー",
+          "sales": 2963,
+          "seats": 103026,
+          "showtimes": 747,
+          "theaters": 280,
+          "rank": 8,
           "last_week_ratio": null
         }
       ]

@@ -6,76 +6,6 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "The Secrets of the Paranormal Café “Extra”",
-          "japanese name": "心霊喫茶「エクストラ」の秘密",
-          "sales": 15076,
-          "seats": 51546,
-          "showtimes": 307,
-          "theaters": 151,
-          "rank": 1,
-          "last_week_ratio": 1282
-        },
-        {
-          "moviename": "Parasite: The Family in the Semi-Basement",
-          "japanese name": "パラサイト 半地下の家族",
-          "sales": 3469,
-          "seats": 10543,
-          "showtimes": 147,
-          "theaters": 195,
-          "rank": 2,
-          "last_week_ratio": 1334.2
-        },
-        {
-          "moviename": "Shin Godzilla",
-          "japanese name": "シン・ゴジラ",
-          "sales": 3290,
-          "seats": 12430,
-          "showtimes": 125,
-          "theaters": 121,
-          "rank": 3,
-          "last_week_ratio": 4112.5
-        },
-        {
-          "moviename": "What is your name?",
-          "japanese name": "君の名は。",
-          "sales": 3277,
-          "seats": 15689,
-          "showtimes": 153,
-          "theaters": 141,
-          "rank": 4,
-          "last_week_ratio": 3449.5
-        },
-        {
-          "moviename": "Fukushima 50",
-          "japanese name": "Ｆｕｋｕｓｈｉｍａ ５０",
-          "sales": 3033,
-          "seats": 9105,
-          "showtimes": 127,
-          "theaters": 128,
-          "rank": 5,
-          "last_week_ratio": 1816.2
-        },
-        {
-          "moviename": "PSYCHO-PASS: Pass The Psychopath 3 First Inpecter",
-          "japanese name": "ＰＳＹＣＨＯ－ＰＡＳＳ サイコパス３ ＦＩＲＳＴ ＩＮＳＰＥＣＴＯＲ",
-          "sales": 3003,
-          "seats": 8223,
-          "showtimes": 46,
-          "theaters": 55,
-          "rank": 6,
-          "last_week_ratio": 15805.3
-        },
-        {
-          "moviename": "Died once",
-          "japanese name": "一度死んでみた",
-          "sales": 2672,
-          "seats": 11498,
-          "showtimes": 155,
-          "theaters": 226,
-          "rank": 7,
-          "last_week_ratio": 1322.8
-        },
-        {
           "moviename": "Prometheus",
           "japanese name": "プロメア",
           "sales": 2540,
@@ -86,56 +16,6 @@
           "last_week_ratio": 42333.3
         },
         {
-          "moviename": "Creed Fire's Rival",
-          "japanese name": "クリード 炎の宿敵",
-          "sales": 1955,
-          "seats": 3743,
-          "showtimes": 19,
-          "theaters": 20,
-          "rank": 9,
-          "last_week_ratio": 195500
-        },
-        {
-          "moviename": "AKIRA Akira",
-          "japanese name": "ＡＫＩＲＡ アキラ",
-          "sales": 1892,
-          "seats": 5567,
-          "showtimes": 26,
-          "theaters": 25,
-          "rank": 10,
-          "last_week_ratio": 4300
-        },
-        {
-          "moviename": "Creed The Man Who Inherits the Champion",
-          "japanese name": "クリード チャンプを継ぐ男",
-          "sales": 1598,
-          "seats": 3074,
-          "showtimes": 20,
-          "theaters": 20,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Midsummer",
-          "japanese name": "ミッドサマー",
-          "sales": 1553,
-          "seats": 5944,
-          "showtimes": 76,
-          "theaters": 105,
-          "rank": 12,
-          "last_week_ratio": 3451.1
-        },
-        {
-          "moviename": "Mishima vs. Tokyo University All-Out Struggle, 50 Years of Truth",
-          "japanese name": "三島由紀夫ＶＳ東大全共闘 ５０年目の真実",
-          "sales": 1436,
-          "seats": 5139,
-          "showtimes": 69,
-          "theaters": 78,
-          "rank": 13,
-          "last_week_ratio": 1631.8
-        },
-        {
           "moviename": "Bloodshot (Subtitles version)",
           "japanese name": "ブラッドショット （字幕版）",
           "sales": 1396,
@@ -143,16 +23,6 @@
           "showtimes": 207,
           "theaters": 87,
           "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Children Who Do Not Exist",
-          "japanese name": "存在のない子供たち",
-          "sales": 1371,
-          "seats": 2457,
-          "showtimes": 18,
-          "theaters": 16,
-          "rank": 15,
           "last_week_ratio": null
         },
         {
@@ -166,6 +36,26 @@
           "last_week_ratio": 3162.8
         },
         {
+          "moviename": "Midsummer",
+          "japanese name": "ミッドサマー",
+          "sales": 1553,
+          "seats": 5944,
+          "showtimes": 76,
+          "theaters": 105,
+          "rank": 12,
+          "last_week_ratio": 3451.1
+        },
+        {
+          "moviename": "Fukushima 50",
+          "japanese name": "Ｆｕｋｕｓｈｉｍａ ５０",
+          "sales": 3033,
+          "seats": 9105,
+          "showtimes": 127,
+          "theaters": 128,
+          "rank": 5,
+          "last_week_ratio": 1816.2
+        },
+        {
           "moviename": "＜Monthly Kabuki 2020＞ Kyoka-ko Musume Nin no Michiyama",
           "japanese name": "＜月イチ歌舞伎２０２０＞京鹿子娘二人道成寺",
           "sales": 1346,
@@ -176,34 +66,14 @@
           "last_week_ratio": 1794.7
         },
         {
-          "moviename": "Unknown",
-          "japanese name": "不明",
-          "sales": 1228,
-          "seats": 2447,
-          "showtimes": 16,
-          "theaters": 11,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Miyuki, March Loved you for 30 years",
-          "japanese name": "弥生、三月 君を愛した３０年",
-          "sales": 1142,
-          "seats": 7028,
-          "showtimes": 114,
-          "theaters": 209,
-          "rank": 19,
-          "last_week_ratio": 1177.3
-        },
-        {
-          "moviename": "Music",
-          "japanese name": "音楽",
-          "sales": 1067,
-          "seats": 2179,
-          "showtimes": 19,
-          "theaters": 23,
-          "rank": 20,
-          "last_week_ratio": 53350
+          "moviename": "Mishima vs. Tokyo University All-Out Struggle, 50 Years of Truth",
+          "japanese name": "三島由紀夫ＶＳ東大全共闘 ５０年目の真実",
+          "sales": 1436,
+          "seats": 5139,
+          "showtimes": 69,
+          "theaters": 78,
+          "rank": 13,
+          "last_week_ratio": 1631.8
         },
         {
           "moviename": "COLD WAR That song, two hearts",
@@ -226,14 +96,54 @@
           "last_week_ratio": 571.5
         },
         {
-          "moviename": "The New King of Comedy",
-          "japanese name": "新喜劇王",
-          "sales": 891,
+          "moviename": "Children Who Do Not Exist",
+          "japanese name": "存在のない子供たち",
+          "sales": 1371,
           "seats": 2457,
+          "showtimes": 18,
+          "theaters": 16,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Unknown",
+          "japanese name": "不明",
+          "sales": 1228,
+          "seats": 2447,
+          "showtimes": 16,
+          "theaters": 11,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "What is your name?",
+          "japanese name": "君の名は。",
+          "sales": 3277,
+          "seats": 15689,
+          "showtimes": 153,
+          "theaters": 141,
+          "rank": 4,
+          "last_week_ratio": 3449.5
+        },
+        {
+          "moviename": "Creed The Man Who Inherits the Champion",
+          "japanese name": "クリード チャンプを継ぐ男",
+          "sales": 1598,
+          "seats": 3074,
           "showtimes": 20,
-          "theaters": 18,
-          "rank": 23,
-          "last_week_ratio": 12728.6
+          "theaters": 20,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "AKIRA Akira",
+          "japanese name": "ＡＫＩＲＡ アキラ",
+          "sales": 1892,
+          "seats": 5567,
+          "showtimes": 26,
+          "theaters": 25,
+          "rank": 10,
+          "last_week_ratio": 4300
         },
         {
           "moviename": "Perfect World The Miracle of Being With You",
@@ -246,6 +156,26 @@
           "last_week_ratio": 29100
         },
         {
+          "moviename": "Miyuki, March Loved you for 30 years",
+          "japanese name": "弥生、三月 君を愛した３０年",
+          "sales": 1142,
+          "seats": 7028,
+          "showtimes": 114,
+          "theaters": 209,
+          "rank": 19,
+          "last_week_ratio": 1177.3
+        },
+        {
+          "moviename": "Music",
+          "japanese name": "音楽",
+          "sales": 1067,
+          "seats": 2179,
+          "showtimes": 19,
+          "theaters": 23,
+          "rank": 20,
+          "last_week_ratio": 53350
+        },
+        {
           "moviename": "Hunter Killer, dive in.",
           "japanese name": "ハンターキラー 潜航せよ",
           "sales": 828,
@@ -254,6 +184,76 @@
           "theaters": 46,
           "rank": 25,
           "last_week_ratio": null
+        },
+        {
+          "moviename": "The New King of Comedy",
+          "japanese name": "新喜劇王",
+          "sales": 891,
+          "seats": 2457,
+          "showtimes": 20,
+          "theaters": 18,
+          "rank": 23,
+          "last_week_ratio": 12728.6
+        },
+        {
+          "moviename": "PSYCHO-PASS: Pass The Psychopath 3 First Inpecter",
+          "japanese name": "ＰＳＹＣＨＯ－ＰＡＳＳ サイコパス３ ＦＩＲＳＴ ＩＮＳＰＥＣＴＯＲ",
+          "sales": 3003,
+          "seats": 8223,
+          "showtimes": 46,
+          "theaters": 55,
+          "rank": 6,
+          "last_week_ratio": 15805.3
+        },
+        {
+          "moviename": "Parasite: The Family in the Semi-Basement",
+          "japanese name": "パラサイト 半地下の家族",
+          "sales": 3469,
+          "seats": 10543,
+          "showtimes": 147,
+          "theaters": 195,
+          "rank": 2,
+          "last_week_ratio": 1334.2
+        },
+        {
+          "moviename": "Died once",
+          "japanese name": "一度死んでみた",
+          "sales": 2672,
+          "seats": 11498,
+          "showtimes": 155,
+          "theaters": 226,
+          "rank": 7,
+          "last_week_ratio": 1322.8
+        },
+        {
+          "moviename": "Creed Fire's Rival",
+          "japanese name": "クリード 炎の宿敵",
+          "sales": 1955,
+          "seats": 3743,
+          "showtimes": 19,
+          "theaters": 20,
+          "rank": 9,
+          "last_week_ratio": 195500
+        },
+        {
+          "moviename": "The Secrets of the Paranormal Café “Extra”",
+          "japanese name": "心霊喫茶「エクストラ」の秘密",
+          "sales": 15076,
+          "seats": 51546,
+          "showtimes": 307,
+          "theaters": 151,
+          "rank": 1,
+          "last_week_ratio": 1282
+        },
+        {
+          "moviename": "Shin Godzilla",
+          "japanese name": "シン・ゴジラ",
+          "sales": 3290,
+          "seats": 12430,
+          "showtimes": 125,
+          "theaters": 121,
+          "rank": 3,
+          "last_week_ratio": 4112.5
         }
       ]
     },
@@ -262,44 +262,14 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "The Secrets of the Paranormal Café “Extra”",
-          "japanese name": "心霊喫茶「エクストラ」の秘密",
-          "sales": 4120,
-          "seats": 74017,
-          "showtimes": 577,
-          "theaters": 151,
-          "rank": 1,
-          "last_week_ratio": 193.6
-        },
-        {
-          "moviename": "Parasite: The Family in the Semi-Basement",
-          "japanese name": "パラサイト 半地下の家族",
-          "sales": 726,
-          "seats": 13905,
-          "showtimes": 256,
-          "theaters": 195,
-          "rank": 2,
-          "last_week_ratio": 168.1
-        },
-        {
-          "moviename": "Died once",
-          "japanese name": "一度死んでみた",
-          "sales": 677,
-          "seats": 18251,
-          "showtimes": 303,
-          "theaters": 226,
-          "rank": 3,
-          "last_week_ratio": 178.2
-        },
-        {
-          "moviename": "Fukushima 50",
-          "japanese name": "Ｆｕｋｕｓｈｉｍａ ５０",
-          "sales": 519,
-          "seats": 9548,
-          "showtimes": 177,
-          "theaters": 128,
-          "rank": 4,
-          "last_week_ratio": 258.2
+          "moviename": "Prometheus",
+          "japanese name": "プロメア",
+          "sales": 280,
+          "seats": 8731,
+          "showtimes": 78,
+          "theaters": 40,
+          "rank": 14,
+          "last_week_ratio": 1166.7
         },
         {
           "moviename": "Bloodshot (Subtitles version)",
@@ -312,24 +282,14 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Weather Child",
-          "japanese name": "天気の子",
-          "sales": 493,
-          "seats": 21601,
-          "showtimes": 260,
-          "theaters": 133,
-          "rank": 6,
-          "last_week_ratio": 140.9
-        },
-        {
-          "moviename": "AKIRA Akira",
-          "japanese name": "ＡＫＩＲＡ アキラ",
-          "sales": 473,
-          "seats": 7777,
-          "showtimes": 52,
-          "theaters": 25,
-          "rank": 7,
-          "last_week_ratio": 606.4
+          "moviename": "A Girl in the 21st Century",
+          "japanese name": "２１世紀の女の子",
+          "sales": 174,
+          "seats": 2016,
+          "showtimes": 39,
+          "theaters": 27,
+          "rank": 20,
+          "last_week_ratio": 248.6
         },
         {
           "moviename": "Midsummer",
@@ -340,6 +300,16 @@
           "theaters": 105,
           "rank": 8,
           "last_week_ratio": 335.7
+        },
+        {
+          "moviename": "Fukushima 50",
+          "japanese name": "Ｆｕｋｕｓｈｉｍａ ５０",
+          "sales": 519,
+          "seats": 9548,
+          "showtimes": 177,
+          "theaters": 128,
+          "rank": 4,
+          "last_week_ratio": 258.2
         },
         {
           "moviename": "Harley Quinn's magnificent awakening Birds of Prey",
@@ -362,74 +332,24 @@
           "last_week_ratio": 277.6
         },
         {
-          "moviename": "Miyuki, March Loved you for 30 years",
-          "japanese name": "弥生、三月 君を愛した３０年",
-          "sales": 344,
-          "seats": 12053,
-          "showtimes": 220,
-          "theaters": 209,
-          "rank": 11,
-          "last_week_ratio": 213.7
+          "moviename": "Weather Child",
+          "japanese name": "天気の子",
+          "sales": 493,
+          "seats": 21601,
+          "showtimes": 260,
+          "theaters": 133,
+          "rank": 6,
+          "last_week_ratio": 140.9
         },
         {
-          "moviename": "What is your name?",
-          "japanese name": "君の名は。",
-          "sales": 314,
-          "seats": 23659,
-          "showtimes": 285,
-          "theaters": 141,
-          "rank": 12,
-          "last_week_ratio": 151.7
-        },
-        {
-          "moviename": "PSYCHO-PASS: Pass The Psychopath 3 First Inpecter",
-          "japanese name": "ＰＳＹＣＨＯ－ＰＡＳＳ サイコパス３ ＦＩＲＳＴ ＩＮＳＰＥＣＴＯＲ",
-          "sales": 297,
-          "seats": 11191,
-          "showtimes": 103,
-          "theaters": 55,
-          "rank": 13,
-          "last_week_ratio": 571.2
-        },
-        {
-          "moviename": "Prometheus",
-          "japanese name": "プロメア",
-          "sales": 280,
-          "seats": 8731,
-          "showtimes": 78,
-          "theaters": 40,
-          "rank": 14,
-          "last_week_ratio": 1166.7
-        },
-        {
-          "moviename": "Shin Godzilla",
-          "japanese name": "シン・ゴジラ",
-          "sales": 274,
-          "seats": 18407,
-          "showtimes": 245,
-          "theaters": 121,
-          "rank": 15,
-          "last_week_ratio": 197.1
-        },
-        {
-          "moviename": "Hunter Killer, dive in.",
-          "japanese name": "ハンターキラー 潜航せよ",
-          "sales": 265,
-          "seats": 5282,
-          "showtimes": 113,
-          "theaters": 46,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Saaho",
-          "japanese name": "サーホー",
-          "sales": 220,
-          "seats": 5869,
-          "showtimes": 95,
-          "theaters": 85,
-          "rank": 17,
-          "last_week_ratio": 198.2
+          "moviename": "Noble Arrival - PRINCE OF LEGEND -",
+          "japanese name": "貴族降臨 －ＰＲＩＮＣＥ ＯＦ ＬＥＧＥＮＤ－",
+          "sales": 128,
+          "seats": 8783,
+          "showtimes": 138,
+          "theaters": 129,
+          "rank": 25,
+          "last_week_ratio": 136.2
         },
         {
           "moviename": "I just dropped my phone, yet I’m now trapped as a murderer.",
@@ -442,44 +362,14 @@
           "last_week_ratio": 256.5
         },
         {
-          "moviename": "Kanamara Village",
-          "japanese name": "犬鳴村",
-          "sales": 185,
-          "seats": 6513,
-          "showtimes": 128,
-          "theaters": 121,
-          "rank": 19,
-          "last_week_ratio": 143.4
-        },
-        {
-          "moviename": "A Girl in the 21st Century",
-          "japanese name": "２１世紀の女の子",
-          "sales": 174,
-          "seats": 2016,
-          "showtimes": 39,
-          "theaters": 27,
-          "rank": 20,
-          "last_week_ratio": 248.6
-        },
-        {
-          "moviename": "SHIROBAKO",
-          "japanese name": "ＳＨＩＲＯＢＡＫＯ",
-          "sales": 168,
-          "seats": 4889,
-          "showtimes": 80,
-          "theaters": 77,
-          "rank": 21,
-          "last_week_ratio": 262.5
-        },
-        {
-          "moviename": "Violet Evergarden: Side Story – Eternity and the Automaton Puppet",
-          "japanese name": "ヴァイオレット・エヴァーガーデン 外伝 永遠と自動手記人形",
-          "sales": 162,
-          "seats": 4580,
-          "showtimes": 50,
-          "theaters": 35,
-          "rank": 22,
-          "last_week_ratio": 704.3
+          "moviename": "What is your name?",
+          "japanese name": "君の名は。",
+          "sales": 314,
+          "seats": 23659,
+          "showtimes": 285,
+          "theaters": 141,
+          "rank": 12,
+          "last_week_ratio": 151.7
         },
         {
           "moviename": "Sunflower ＜50th Anniversary HD Restoration Edition＞",
@@ -492,6 +382,86 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "AKIRA Akira",
+          "japanese name": "ＡＫＩＲＡ アキラ",
+          "sales": 473,
+          "seats": 7777,
+          "showtimes": 52,
+          "theaters": 25,
+          "rank": 7,
+          "last_week_ratio": 606.4
+        },
+        {
+          "moviename": "Miyuki, March Loved you for 30 years",
+          "japanese name": "弥生、三月 君を愛した３０年",
+          "sales": 344,
+          "seats": 12053,
+          "showtimes": 220,
+          "theaters": 209,
+          "rank": 11,
+          "last_week_ratio": 213.7
+        },
+        {
+          "moviename": "Hunter Killer, dive in.",
+          "japanese name": "ハンターキラー 潜航せよ",
+          "sales": 265,
+          "seats": 5282,
+          "showtimes": 113,
+          "theaters": 46,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "PSYCHO-PASS: Pass The Psychopath 3 First Inpecter",
+          "japanese name": "ＰＳＹＣＨＯ－ＰＡＳＳ サイコパス３ ＦＩＲＳＴ ＩＮＳＰＥＣＴＯＲ",
+          "sales": 297,
+          "seats": 11191,
+          "showtimes": 103,
+          "theaters": 55,
+          "rank": 13,
+          "last_week_ratio": 571.2
+        },
+        {
+          "moviename": "Parasite: The Family in the Semi-Basement",
+          "japanese name": "パラサイト 半地下の家族",
+          "sales": 726,
+          "seats": 13905,
+          "showtimes": 256,
+          "theaters": 195,
+          "rank": 2,
+          "last_week_ratio": 168.1
+        },
+        {
+          "moviename": "Saaho",
+          "japanese name": "サーホー",
+          "sales": 220,
+          "seats": 5869,
+          "showtimes": 95,
+          "theaters": 85,
+          "rank": 17,
+          "last_week_ratio": 198.2
+        },
+        {
+          "moviename": "Died once",
+          "japanese name": "一度死んでみた",
+          "sales": 677,
+          "seats": 18251,
+          "showtimes": 303,
+          "theaters": 226,
+          "rank": 3,
+          "last_week_ratio": 178.2
+        },
+        {
+          "moviename": "The Secrets of the Paranormal Café “Extra”",
+          "japanese name": "心霊喫茶「エクストラ」の秘密",
+          "sales": 4120,
+          "seats": 74017,
+          "showtimes": 577,
+          "theaters": 151,
+          "rank": 1,
+          "last_week_ratio": 193.6
+        },
+        {
           "moviename": "Captive Nation (Subtitled Version)",
           "japanese name": "囚われた国家 （字幕版）",
           "sales": 140,
@@ -502,14 +472,44 @@
           "last_week_ratio": 127.3
         },
         {
-          "moviename": "Noble Arrival - PRINCE OF LEGEND -",
-          "japanese name": "貴族降臨 －ＰＲＩＮＣＥ ＯＦ ＬＥＧＥＮＤ－",
-          "sales": 128,
-          "seats": 8783,
-          "showtimes": 138,
-          "theaters": 129,
-          "rank": 25,
-          "last_week_ratio": 136.2
+          "moviename": "Violet Evergarden: Side Story – Eternity and the Automaton Puppet",
+          "japanese name": "ヴァイオレット・エヴァーガーデン 外伝 永遠と自動手記人形",
+          "sales": 162,
+          "seats": 4580,
+          "showtimes": 50,
+          "theaters": 35,
+          "rank": 22,
+          "last_week_ratio": 704.3
+        },
+        {
+          "moviename": "SHIROBAKO",
+          "japanese name": "ＳＨＩＲＯＢＡＫＯ",
+          "sales": 168,
+          "seats": 4889,
+          "showtimes": 80,
+          "theaters": 77,
+          "rank": 21,
+          "last_week_ratio": 262.5
+        },
+        {
+          "moviename": "Kanamara Village",
+          "japanese name": "犬鳴村",
+          "sales": 185,
+          "seats": 6513,
+          "showtimes": 128,
+          "theaters": 121,
+          "rank": 19,
+          "last_week_ratio": 143.4
+        },
+        {
+          "moviename": "Shin Godzilla",
+          "japanese name": "シン・ゴジラ",
+          "sales": 274,
+          "seats": 18407,
+          "showtimes": 245,
+          "theaters": 121,
+          "rank": 15,
+          "last_week_ratio": 197.1
         }
       ]
     },
@@ -518,34 +518,14 @@
       "time": "Final",
       "data": [
         {
-          "moviename": "The Secrets of the Paranormal Café “Extra”",
-          "japanese name": "心霊喫茶「エクストラ」の秘密",
-          "sales": 4161,
-          "seats": 74669,
-          "showtimes": 582,
-          "theaters": 151,
-          "rank": 1,
-          "last_week_ratio": 194.3
-        },
-        {
-          "moviename": "Parasite: The Family in the Semi-Basement",
-          "japanese name": "パラサイト 半地下の家族",
-          "sales": 742,
-          "seats": 13994,
-          "showtimes": 257,
-          "theaters": 195,
-          "rank": 2,
-          "last_week_ratio": 171.8
-        },
-        {
-          "moviename": "Died once",
-          "japanese name": "一度死んでみた",
-          "sales": 687,
-          "seats": 18488,
-          "showtimes": 308,
-          "theaters": 226,
-          "rank": 3,
-          "last_week_ratio": 180.8
+          "moviename": "Prometheus",
+          "japanese name": "プロメア",
+          "sales": 335,
+          "seats": 8991,
+          "showtimes": 79,
+          "theaters": 40,
+          "rank": 12,
+          "last_week_ratio": 1395.8
         },
         {
           "moviename": "Bloodshot (Subtitles version)",
@@ -558,34 +538,14 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Fukushima 50",
-          "japanese name": "Ｆｕｋｕｓｈｉｍａ ５０",
-          "sales": 519,
-          "seats": 9548,
-          "showtimes": 177,
-          "theaters": 128,
-          "rank": 5,
-          "last_week_ratio": 258.2
-        },
-        {
-          "moviename": "Weather Child",
-          "japanese name": "天気の子",
-          "sales": 516,
-          "seats": 22026,
-          "showtimes": 266,
-          "theaters": 133,
-          "rank": 6,
-          "last_week_ratio": 145.8
-        },
-        {
-          "moviename": "AKIRA Akira",
-          "japanese name": "ＡＫＩＲＡ アキラ",
-          "sales": 491,
-          "seats": 8146,
-          "showtimes": 54,
-          "theaters": 25,
-          "rank": 7,
-          "last_week_ratio": 606.2
+          "moviename": "A Girl in the 21st Century",
+          "japanese name": "２１世紀の女の子",
+          "sales": 174,
+          "seats": 2016,
+          "showtimes": 39,
+          "theaters": 27,
+          "rank": 20,
+          "last_week_ratio": 248.6
         },
         {
           "moviename": "Midsummer",
@@ -596,6 +556,16 @@
           "theaters": 105,
           "rank": 8,
           "last_week_ratio": 335.7
+        },
+        {
+          "moviename": "Fukushima 50",
+          "japanese name": "Ｆｕｋｕｓｈｉｍａ ５０",
+          "sales": 519,
+          "seats": 9548,
+          "showtimes": 177,
+          "theaters": 128,
+          "rank": 5,
+          "last_week_ratio": 258.2
         },
         {
           "moviename": "Harley Quinn's magnificent awakening Birds of Prey",
@@ -618,74 +588,24 @@
           "last_week_ratio": 277.6
         },
         {
-          "moviename": "Miyuki, March Loved you for 30 years",
-          "japanese name": "弥生、三月 君を愛した３０年",
-          "sales": 347,
-          "seats": 12166,
-          "showtimes": 221,
-          "theaters": 209,
-          "rank": 11,
-          "last_week_ratio": 215.5
+          "moviename": "Weather Child",
+          "japanese name": "天気の子",
+          "sales": 516,
+          "seats": 22026,
+          "showtimes": 266,
+          "theaters": 133,
+          "rank": 6,
+          "last_week_ratio": 145.8
         },
         {
-          "moviename": "Prometheus",
-          "japanese name": "プロメア",
-          "sales": 335,
-          "seats": 8991,
-          "showtimes": 79,
-          "theaters": 40,
-          "rank": 12,
-          "last_week_ratio": 1395.8
-        },
-        {
-          "moviename": "What is your name?",
-          "japanese name": "君の名は。",
-          "sales": 316,
-          "seats": 23743,
-          "showtimes": 287,
-          "theaters": 141,
-          "rank": 13,
-          "last_week_ratio": 152.7
-        },
-        {
-          "moviename": "PSYCHO-PASS: Pass The Psychopath 3 First Inpecter",
-          "japanese name": "ＰＳＹＣＨＯ－ＰＡＳＳ サイコパス３ ＦＩＲＳＴ ＩＮＳＰＥＣＴＯＲ",
-          "sales": 298,
-          "seats": 11191,
-          "showtimes": 103,
-          "theaters": 55,
-          "rank": 14,
-          "last_week_ratio": 573.1
-        },
-        {
-          "moviename": "Hunter Killer, dive in.",
-          "japanese name": "ハンターキラー 潜航せよ",
-          "sales": 282,
-          "seats": 5421,
-          "showtimes": 116,
-          "theaters": 46,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Shin Godzilla",
-          "japanese name": "シン・ゴジラ",
-          "sales": 278,
-          "seats": 18727,
-          "showtimes": 250,
-          "theaters": 121,
-          "rank": 16,
-          "last_week_ratio": 200
-        },
-        {
-          "moviename": "Saaho",
-          "japanese name": "サーホー",
-          "sales": 223,
-          "seats": 5947,
-          "showtimes": 97,
-          "theaters": 85,
-          "rank": 17,
-          "last_week_ratio": 200.9
+          "moviename": "Noble Arrival - PRINCE OF LEGEND -",
+          "japanese name": "貴族降臨 －ＰＲＩＮＣＥ ＯＦ ＬＥＧＥＮＤ－",
+          "sales": 134,
+          "seats": 8987,
+          "showtimes": 141,
+          "theaters": 129,
+          "rank": 25,
+          "last_week_ratio": 142.6
         },
         {
           "moviename": "I just dropped my phone, yet I’m now trapped as a murderer.",
@@ -698,54 +618,14 @@
           "last_week_ratio": 257.6
         },
         {
-          "moviename": "Kanamara Village",
-          "japanese name": "犬鳴村",
-          "sales": 185,
-          "seats": 6593,
-          "showtimes": 130,
-          "theaters": 121,
-          "rank": 19,
-          "last_week_ratio": 143.4
-        },
-        {
-          "moviename": "A Girl in the 21st Century",
-          "japanese name": "２１世紀の女の子",
-          "sales": 174,
-          "seats": 2016,
-          "showtimes": 39,
-          "theaters": 27,
-          "rank": 20,
-          "last_week_ratio": 248.6
-        },
-        {
-          "moviename": "SHIROBAKO",
-          "japanese name": "ＳＨＩＲＯＢＡＫＯ",
-          "sales": 171,
-          "seats": 5108,
-          "showtimes": 82,
-          "theaters": 77,
-          "rank": 21,
-          "last_week_ratio": 267.2
-        },
-        {
-          "moviename": "Violet Evergarden: Side Story – Eternity and the Automaton Puppet",
-          "japanese name": "ヴァイオレット・エヴァーガーデン 外伝 永遠と自動手記人形",
-          "sales": 170,
-          "seats": 4751,
-          "showtimes": 52,
-          "theaters": 35,
-          "rank": 22,
-          "last_week_ratio": 739.1
-        },
-        {
-          "moviename": "Captive Nation (Subtitled Version)",
-          "japanese name": "囚われた国家 （字幕版）",
-          "sales": 156,
-          "seats": 4774,
-          "showtimes": 121,
-          "theaters": 65,
-          "rank": 23,
-          "last_week_ratio": 141.8
+          "moviename": "What is your name?",
+          "japanese name": "君の名は。",
+          "sales": 316,
+          "seats": 23743,
+          "showtimes": 287,
+          "theaters": 141,
+          "rank": 13,
+          "last_week_ratio": 152.7
         },
         {
           "moviename": "Sunflower ＜50th Anniversary HD Restoration Edition＞",
@@ -758,14 +638,134 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Noble Arrival - PRINCE OF LEGEND -",
-          "japanese name": "貴族降臨 －ＰＲＩＮＣＥ ＯＦ ＬＥＧＥＮＤ－",
-          "sales": 134,
-          "seats": 8987,
-          "showtimes": 141,
-          "theaters": 129,
-          "rank": 25,
-          "last_week_ratio": 142.6
+          "moviename": "AKIRA Akira",
+          "japanese name": "ＡＫＩＲＡ アキラ",
+          "sales": 491,
+          "seats": 8146,
+          "showtimes": 54,
+          "theaters": 25,
+          "rank": 7,
+          "last_week_ratio": 606.2
+        },
+        {
+          "moviename": "Miyuki, March Loved you for 30 years",
+          "japanese name": "弥生、三月 君を愛した３０年",
+          "sales": 347,
+          "seats": 12166,
+          "showtimes": 221,
+          "theaters": 209,
+          "rank": 11,
+          "last_week_ratio": 215.5
+        },
+        {
+          "moviename": "Hunter Killer, dive in.",
+          "japanese name": "ハンターキラー 潜航せよ",
+          "sales": 282,
+          "seats": 5421,
+          "showtimes": 116,
+          "theaters": 46,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "PSYCHO-PASS: Pass The Psychopath 3 First Inpecter",
+          "japanese name": "ＰＳＹＣＨＯ－ＰＡＳＳ サイコパス３ ＦＩＲＳＴ ＩＮＳＰＥＣＴＯＲ",
+          "sales": 298,
+          "seats": 11191,
+          "showtimes": 103,
+          "theaters": 55,
+          "rank": 14,
+          "last_week_ratio": 573.1
+        },
+        {
+          "moviename": "Parasite: The Family in the Semi-Basement",
+          "japanese name": "パラサイト 半地下の家族",
+          "sales": 742,
+          "seats": 13994,
+          "showtimes": 257,
+          "theaters": 195,
+          "rank": 2,
+          "last_week_ratio": 171.8
+        },
+        {
+          "moviename": "Saaho",
+          "japanese name": "サーホー",
+          "sales": 223,
+          "seats": 5947,
+          "showtimes": 97,
+          "theaters": 85,
+          "rank": 17,
+          "last_week_ratio": 200.9
+        },
+        {
+          "moviename": "Died once",
+          "japanese name": "一度死んでみた",
+          "sales": 687,
+          "seats": 18488,
+          "showtimes": 308,
+          "theaters": 226,
+          "rank": 3,
+          "last_week_ratio": 180.8
+        },
+        {
+          "moviename": "The Secrets of the Paranormal Café “Extra”",
+          "japanese name": "心霊喫茶「エクストラ」の秘密",
+          "sales": 4161,
+          "seats": 74669,
+          "showtimes": 582,
+          "theaters": 151,
+          "rank": 1,
+          "last_week_ratio": 194.3
+        },
+        {
+          "moviename": "Captive Nation (Subtitled Version)",
+          "japanese name": "囚われた国家 （字幕版）",
+          "sales": 156,
+          "seats": 4774,
+          "showtimes": 121,
+          "theaters": 65,
+          "rank": 23,
+          "last_week_ratio": 141.8
+        },
+        {
+          "moviename": "Violet Evergarden: Side Story – Eternity and the Automaton Puppet",
+          "japanese name": "ヴァイオレット・エヴァーガーデン 外伝 永遠と自動手記人形",
+          "sales": 170,
+          "seats": 4751,
+          "showtimes": 52,
+          "theaters": 35,
+          "rank": 22,
+          "last_week_ratio": 739.1
+        },
+        {
+          "moviename": "SHIROBAKO",
+          "japanese name": "ＳＨＩＲＯＢＡＫＯ",
+          "sales": 171,
+          "seats": 5108,
+          "showtimes": 82,
+          "theaters": 77,
+          "rank": 21,
+          "last_week_ratio": 267.2
+        },
+        {
+          "moviename": "Kanamara Village",
+          "japanese name": "犬鳴村",
+          "sales": 185,
+          "seats": 6593,
+          "showtimes": 130,
+          "theaters": 121,
+          "rank": 19,
+          "last_week_ratio": 143.4
+        },
+        {
+          "moviename": "Shin Godzilla",
+          "japanese name": "シン・ゴジラ",
+          "sales": 278,
+          "seats": 18727,
+          "showtimes": 250,
+          "theaters": 121,
+          "rank": 16,
+          "last_week_ratio": 200
         }
       ]
     }

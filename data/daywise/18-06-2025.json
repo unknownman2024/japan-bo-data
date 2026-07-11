@@ -6,193 +6,13 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "National Treasure",
-          "japanese name": "国宝",
-          "sales": 44711,
-          "seats": 122254,
-          "showtimes": 536,
-          "theaters": 261,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Frontline",
-          "japanese name": "フロントライン",
-          "sales": 24461,
-          "seats": 139692,
-          "showtimes": 537,
-          "theaters": 262,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Mission: Impossible/Final Reconnaissance",
-          "japanese name": "ミッション：インポッシブル／ファイナル・レコニング",
-          "sales": 11898,
-          "seats": 82096,
-          "showtimes": 440,
-          "theaters": 263,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Lilo & Stitch",
-          "japanese name": "リロ＆スティッチ",
-          "sales": 8783,
-          "seats": 140473,
-          "showtimes": 626,
-          "theaters": 264,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Dollhouse",
-          "japanese name": "ドールハウス",
-          "sales": 8181,
-          "seats": 99069,
-          "showtimes": 510,
-          "theaters": 253,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Detective Conan: The Blinding Flashback",
-          "japanese name": "名探偵コナン 隻眼の残像（フラッシュバック）",
-          "sales": 4877,
-          "seats": 43084,
-          "showtimes": 294,
-          "theaters": 261,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie compilation Special Summary: Jujutsu Kaisen The Precious and The Broken",
-          "japanese name": "劇場版総集編 呪術廻戦 懐玉・玉折",
-          "sales": 3045,
-          "seats": 16796,
-          "showtimes": 122,
-          "theaters": 132,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Love in the Big City",
-          "japanese name": "ラブ・イン・ザ・ビッグシティ",
-          "sales": 2558,
-          "seats": 23383,
-          "showtimes": 186,
-          "theaters": 198,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "In short/To sum up",
-          "japanese name": "かくかくしかじか",
-          "sales": 2456,
-          "seats": 18712,
-          "showtimes": 150,
-          "theaters": 240,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Ever-Ending Song of Father and Son",
-          "japanese name": "父と僕の終わらない歌",
-          "sales": 2070,
-          "seats": 26747,
-          "showtimes": 190,
-          "theaters": 230,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Kishibe露伴 remains motionless in the Confession Room",
-          "japanese name": "岸辺露伴は動かない 懺悔室",
-          "sales": 1389,
-          "seats": 12315,
-          "showtimes": 100,
-          "theaters": 243,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version: Uta no☆Princess-sama♪ TABOO NIGHT XXXX",
-          "japanese name": "劇場版 うたの☆プリンスさまっ♪ ＴＡＢＯＯ ＮＩＧＨＴ ＸＸＸＸ",
-          "sales": 1244,
-          "seats": 7696,
-          "showtimes": 44,
-          "theaters": 104,
-          "rank": 12,
-          "last_week_ratio": 112.5
-        },
-        {
-          "moviename": "Rewrite",
-          "japanese name": "リライト",
-          "sales": 1212,
-          "seats": 29611,
-          "showtimes": 246,
-          "theaters": 194,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Mikadori-chan",
-          "japanese name": "見える子ちゃん",
-          "sales": 1059,
-          "seats": 18715,
-          "showtimes": 158,
-          "theaters": 238,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Dragon Heart – Journey to the Spirit Realm –",
-          "japanese name": "ドラゴンハート－霊界探訪記－",
-          "sales": 936,
-          "seats": 7582,
-          "showtimes": 57,
-          "theaters": 73,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "JUNK WORLD",
-          "japanese name": "ＪＵＮＫ ＷＯＲＬＤ",
-          "sales": 880,
-          "seats": 8659,
-          "showtimes": 57,
-          "theaters": 38,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Demon Slayer: The Swordsmith’s Village – Bonds That Are United",
-          "japanese name": "鬼滅の刃 刀鍛冶の里 繋いだ絆編",
-          "sales": 606,
-          "seats": 2828,
-          "showtimes": 23,
-          "theaters": 31,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Kisaragi Station Re:",
-          "japanese name": "きさらぎ駅 Ｒｅ：",
-          "sales": 583,
-          "seats": 16838,
-          "showtimes": 131,
-          "theaters": 102,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Spider’s Clapping Dance / Body-Meditation  Monthly Kabuki Performance 2016",
-          "japanese name": "蜘蛛の拍子舞／身替座禅  月イチ歌舞伎２０１６",
-          "sales": 574,
-          "seats": 4188,
-          "showtimes": 30,
-          "theaters": 29,
-          "rank": 19,
+          "moviename": "TOMORROW X TOGETHER: HYPEFOCUS IN CINEMAS",
+          "japanese name": "ＴＯＭＯＲＲＯＷ Ｘ ＴＯＧＥＴＨＥＲ：ＨＹＰＥＲＦＯＣＵＳ ＩＮ ＣＩＮＥＭＡＳ",
+          "sales": 425,
+          "seats": 4436,
+          "showtimes": 33,
+          "theaters": 39,
+          "rank": 22,
           "last_week_ratio": null
         },
         {
@@ -206,6 +26,16 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Rewrite",
+          "japanese name": "リライト",
+          "sales": 1212,
+          "seats": 29611,
+          "showtimes": 246,
+          "theaters": 194,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Minecraft/The Movie",
           "japanese name": "マインクラフト／ザ・ムービー",
           "sales": 507,
@@ -216,23 +46,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "TOMORROW X TOGETHER: HYPEFOCUS IN CINEMAS",
-          "japanese name": "ＴＯＭＯＲＲＯＷ Ｘ ＴＯＧＥＴＨＥＲ：ＨＹＰＥＲＦＯＣＵＳ ＩＮ ＣＩＮＥＭＡＳ",
-          "sales": 425,
-          "seats": 4436,
-          "showtimes": 33,
-          "theaters": 39,
-          "rank": 22,
+          "moviename": "Lilo & Stitch",
+          "japanese name": "リロ＆スティッチ",
+          "sales": 8783,
+          "seats": 140473,
+          "showtimes": 626,
+          "theaters": 264,
+          "rank": 4,
           "last_week_ratio": null
         },
         {
-          "moviename": "♯I’ll tell you the truth.",
-          "japanese name": "♯真相をお話しします",
-          "sales": 397,
-          "seats": 6246,
-          "showtimes": 51,
-          "theaters": 240,
-          "rank": 23,
+          "moviename": "Kishibe露伴 remains motionless in the Confession Room",
+          "japanese name": "岸辺露伴は動かない 懺悔室",
+          "sales": 1389,
+          "seats": 12315,
+          "showtimes": 100,
+          "theaters": 243,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie compilation Special Summary: Jujutsu Kaisen The Precious and The Broken",
+          "japanese name": "劇場版総集編 呪術廻戦 懐玉・玉折",
+          "sales": 3045,
+          "seats": 16796,
+          "showtimes": 122,
+          "theaters": 132,
+          "rank": 7,
           "last_week_ratio": null
         },
         {
@@ -246,6 +86,36 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Mikadori-chan",
+          "japanese name": "見える子ちゃん",
+          "sales": 1059,
+          "seats": 18715,
+          "showtimes": 158,
+          "theaters": 238,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kisaragi Station Re:",
+          "japanese name": "きさらぎ駅 Ｒｅ：",
+          "sales": 583,
+          "seats": 16838,
+          "showtimes": 131,
+          "theaters": 102,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Frontline",
+          "japanese name": "フロントライン",
+          "sales": 24461,
+          "seats": 139692,
+          "showtimes": 537,
+          "theaters": 262,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Talk Included) Grandmother and Me Promise Talk Event",
           "japanese name": "トーク付）おばあちゃんと僕の約束トークイベント",
           "sales": 326,
@@ -253,6 +123,136 @@
           "showtimes": 22,
           "theaters": 17,
           "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mission: Impossible/Final Reconnaissance",
+          "japanese name": "ミッション：インポッシブル／ファイナル・レコニング",
+          "sales": 11898,
+          "seats": 82096,
+          "showtimes": 440,
+          "theaters": 263,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Spider’s Clapping Dance / Body-Meditation  Monthly Kabuki Performance 2016",
+          "japanese name": "蜘蛛の拍子舞／身替座禅  月イチ歌舞伎２０１６",
+          "sales": 574,
+          "seats": 4188,
+          "showtimes": 30,
+          "theaters": 29,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dragon Heart – Journey to the Spirit Realm –",
+          "japanese name": "ドラゴンハート－霊界探訪記－",
+          "sales": 936,
+          "seats": 7582,
+          "showtimes": 57,
+          "theaters": 73,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Ever-Ending Song of Father and Son",
+          "japanese name": "父と僕の終わらない歌",
+          "sales": 2070,
+          "seats": 26747,
+          "showtimes": 190,
+          "theaters": 230,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 44711,
+          "seats": 122254,
+          "showtimes": 536,
+          "theaters": 261,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Demon Slayer: The Swordsmith’s Village – Bonds That Are United",
+          "japanese name": "鬼滅の刃 刀鍛冶の里 繋いだ絆編",
+          "sales": 606,
+          "seats": 2828,
+          "showtimes": 23,
+          "theaters": 31,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "JUNK WORLD",
+          "japanese name": "ＪＵＮＫ ＷＯＲＬＤ",
+          "sales": 880,
+          "seats": 8659,
+          "showtimes": 57,
+          "theaters": 38,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Uta no☆Princess-sama♪ TABOO NIGHT XXXX",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ ＴＡＢＯＯ ＮＩＧＨＴ ＸＸＸＸ",
+          "sales": 1244,
+          "seats": 7696,
+          "showtimes": 44,
+          "theaters": 104,
+          "rank": 12,
+          "last_week_ratio": 112.5
+        },
+        {
+          "moviename": "♯I’ll tell you the truth.",
+          "japanese name": "♯真相をお話しします",
+          "sales": 397,
+          "seats": 6246,
+          "showtimes": 51,
+          "theaters": 240,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "In short/To sum up",
+          "japanese name": "かくかくしかじか",
+          "sales": 2456,
+          "seats": 18712,
+          "showtimes": 150,
+          "theaters": 240,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dollhouse",
+          "japanese name": "ドールハウス",
+          "sales": 8181,
+          "seats": 99069,
+          "showtimes": 510,
+          "theaters": 253,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love in the Big City",
+          "japanese name": "ラブ・イン・ザ・ビッグシティ",
+          "sales": 2558,
+          "seats": 23383,
+          "showtimes": 186,
+          "theaters": 198,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: The Blinding Flashback",
+          "japanese name": "名探偵コナン 隻眼の残像（フラッシュバック）",
+          "sales": 4877,
+          "seats": 43084,
+          "showtimes": 294,
+          "theaters": 261,
+          "rank": 6,
           "last_week_ratio": null
         }
       ]
@@ -262,143 +262,13 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "National Treasure",
-          "japanese name": "国宝",
-          "sales": 59787,
-          "seats": 186326,
-          "showtimes": 827,
-          "theaters": 261,
-          "rank": 1,
-          "last_week_ratio": 100.3
-        },
-        {
-          "moviename": "Frontline",
-          "japanese name": "フロントライン",
-          "sales": 35696,
-          "seats": 268411,
-          "showtimes": 1018,
-          "theaters": 262,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Lilo & Stitch",
-          "japanese name": "リロ＆スティッチ",
-          "sales": 21275,
-          "seats": 249461,
-          "showtimes": 1118,
-          "theaters": 264,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Dollhouse",
-          "japanese name": "ドールハウス",
-          "sales": 18520,
-          "seats": 185620,
-          "showtimes": 949,
-          "theaters": 253,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Mission: Impossible/Final Reconnaissance",
-          "japanese name": "ミッション：インポッシブル／ファイナル・レコニング",
-          "sales": 18145,
-          "seats": 129705,
-          "showtimes": 701,
-          "theaters": 263,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Detective Conan: The Blinding Flashback",
-          "japanese name": "名探偵コナン 隻眼の残像（フラッシュバック）",
-          "sales": 8919,
-          "seats": 78509,
-          "showtimes": 542,
-          "theaters": 261,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie compilation Special Summary: Jujutsu Kaisen The Precious and The Broken",
-          "japanese name": "劇場版総集編 呪術廻戦 懐玉・玉折",
-          "sales": 6602,
-          "seats": 31957,
-          "showtimes": 231,
-          "theaters": 132,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Love in the Big City",
-          "japanese name": "ラブ・イン・ザ・ビッグシティ",
-          "sales": 4174,
-          "seats": 40350,
-          "showtimes": 323,
-          "theaters": 198,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version: Uta no☆Princess-sama♪ TABOO NIGHT XXXX",
-          "japanese name": "劇場版 うたの☆プリンスさまっ♪ ＴＡＢＯＯ ＮＩＧＨＴ ＸＸＸＸ",
-          "sales": 3955,
-          "seats": 20348,
-          "showtimes": 102,
-          "theaters": 104,
-          "rank": 9,
-          "last_week_ratio": 131
-        },
-        {
-          "moviename": "In short/To sum up",
-          "japanese name": "かくかくしかじか",
-          "sales": 3509,
-          "seats": 27709,
-          "showtimes": 220,
-          "theaters": 240,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Kishibe露伴 remains motionless in the Confession Room",
-          "japanese name": "岸辺露伴は動かない 懺悔室",
-          "sales": 2639,
-          "seats": 26486,
-          "showtimes": 213,
-          "theaters": 243,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Mikadori-chan",
-          "japanese name": "見える子ちゃん",
-          "sales": 2493,
-          "seats": 44068,
-          "showtimes": 352,
-          "theaters": 238,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Ever-Ending Song of Father and Son",
-          "japanese name": "父と僕の終わらない歌",
-          "sales": 2382,
-          "seats": 31712,
-          "showtimes": 222,
-          "theaters": 230,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Rewrite",
-          "japanese name": "リライト",
-          "sales": 2075,
-          "seats": 56015,
-          "showtimes": 465,
-          "theaters": 194,
-          "rank": 14,
+          "moviename": "TOMORROW X TOGETHER: HYPEFOCUS IN CINEMAS",
+          "japanese name": "ＴＯＭＯＲＲＯＷ Ｘ ＴＯＧＥＴＨＥＲ：ＨＹＰＥＲＦＯＣＵＳ ＩＮ ＣＩＮＥＭＡＳ",
+          "sales": 920,
+          "seats": 9082,
+          "showtimes": 70,
+          "theaters": 39,
+          "rank": 22,
           "last_week_ratio": null
         },
         {
@@ -412,53 +282,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Dragon Heart – Journey to the Spirit Realm –",
-          "japanese name": "ドラゴンハート－霊界探訪記－",
-          "sales": 1673,
-          "seats": 13880,
-          "showtimes": 106,
-          "theaters": 73,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "JUNK WORLD",
-          "japanese name": "ＪＵＮＫ ＷＯＲＬＤ",
-          "sales": 1457,
-          "seats": 15034,
-          "showtimes": 101,
-          "theaters": 38,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Kisaragi Station Re:",
-          "japanese name": "きさらぎ駅 Ｒｅ：",
-          "sales": 1324,
-          "seats": 34987,
-          "showtimes": 262,
-          "theaters": 102,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Demon Slayer: The Swordsmith’s Village – Bonds That Are United",
-          "japanese name": "鬼滅の刃 刀鍛冶の里 繋いだ絆編",
-          "sales": 1126,
-          "seats": 5387,
-          "showtimes": 42,
-          "theaters": 31,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "♯I’ll tell you the truth.",
-          "japanese name": "♯真相をお話しします",
-          "sales": 1112,
-          "seats": 18402,
-          "showtimes": 151,
-          "theaters": 240,
-          "rank": 20,
+          "moviename": "Rewrite",
+          "japanese name": "リライト",
+          "sales": 2075,
+          "seats": 56015,
+          "showtimes": 465,
+          "theaters": 194,
+          "rank": 14,
           "last_week_ratio": null
         },
         {
@@ -472,23 +302,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "TOMORROW X TOGETHER: HYPEFOCUS IN CINEMAS",
-          "japanese name": "ＴＯＭＯＲＲＯＷ Ｘ ＴＯＧＥＴＨＥＲ：ＨＹＰＥＲＦＯＣＵＳ ＩＮ ＣＩＮＥＭＡＳ",
-          "sales": 920,
-          "seats": 9082,
-          "showtimes": 70,
-          "theaters": 39,
-          "rank": 22,
+          "moviename": "Lilo & Stitch",
+          "japanese name": "リロ＆スティッチ",
+          "sales": 21275,
+          "seats": 249461,
+          "showtimes": 1118,
+          "theaters": 264,
+          "rank": 3,
           "last_week_ratio": null
         },
         {
-          "moviename": "Angelmu 10th Anniversary Tour 2025 Spring: “Sakura, Plum, Peach, and Plum Blossoms”",
-          "japanese name": "アンジュルム １０ｔｈ Ａｎｎｉｖｅｒｓａｒｙ ｔｏｕｒ ２０２５春「桜梅桃李」",
-          "sales": 816,
-          "seats": 1698,
-          "showtimes": 28,
-          "theaters": 34,
-          "rank": 23,
+          "moviename": "Kishibe露伴 remains motionless in the Confession Room",
+          "japanese name": "岸辺露伴は動かない 懺悔室",
+          "sales": 2639,
+          "seats": 26486,
+          "showtimes": 213,
+          "theaters": 243,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie compilation Special Summary: Jujutsu Kaisen The Precious and The Broken",
+          "japanese name": "劇場版総集編 呪術廻戦 懐玉・玉折",
+          "sales": 6602,
+          "seats": 31957,
+          "showtimes": 231,
+          "theaters": 132,
+          "rank": 7,
           "last_week_ratio": null
         },
         {
@@ -502,6 +342,146 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Mikadori-chan",
+          "japanese name": "見える子ちゃん",
+          "sales": 2493,
+          "seats": 44068,
+          "showtimes": 352,
+          "theaters": 238,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kisaragi Station Re:",
+          "japanese name": "きさらぎ駅 Ｒｅ：",
+          "sales": 1324,
+          "seats": 34987,
+          "showtimes": 262,
+          "theaters": 102,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Frontline",
+          "japanese name": "フロントライン",
+          "sales": 35696,
+          "seats": 268411,
+          "showtimes": 1018,
+          "theaters": 262,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mission: Impossible/Final Reconnaissance",
+          "japanese name": "ミッション：インポッシブル／ファイナル・レコニング",
+          "sales": 18145,
+          "seats": 129705,
+          "showtimes": 701,
+          "theaters": 263,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dragon Heart – Journey to the Spirit Realm –",
+          "japanese name": "ドラゴンハート－霊界探訪記－",
+          "sales": 1673,
+          "seats": 13880,
+          "showtimes": 106,
+          "theaters": 73,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Ever-Ending Song of Father and Son",
+          "japanese name": "父と僕の終わらない歌",
+          "sales": 2382,
+          "seats": 31712,
+          "showtimes": 222,
+          "theaters": 230,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 59787,
+          "seats": 186326,
+          "showtimes": 827,
+          "theaters": 261,
+          "rank": 1,
+          "last_week_ratio": 100.3
+        },
+        {
+          "moviename": "Demon Slayer: The Swordsmith’s Village – Bonds That Are United",
+          "japanese name": "鬼滅の刃 刀鍛冶の里 繋いだ絆編",
+          "sales": 1126,
+          "seats": 5387,
+          "showtimes": 42,
+          "theaters": 31,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "JUNK WORLD",
+          "japanese name": "ＪＵＮＫ ＷＯＲＬＤ",
+          "sales": 1457,
+          "seats": 15034,
+          "showtimes": 101,
+          "theaters": 38,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Uta no☆Princess-sama♪ TABOO NIGHT XXXX",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ ＴＡＢＯＯ ＮＩＧＨＴ ＸＸＸＸ",
+          "sales": 3955,
+          "seats": 20348,
+          "showtimes": 102,
+          "theaters": 104,
+          "rank": 9,
+          "last_week_ratio": 131
+        },
+        {
+          "moviename": "Angelmu 10th Anniversary Tour 2025 Spring: “Sakura, Plum, Peach, and Plum Blossoms”",
+          "japanese name": "アンジュルム １０ｔｈ Ａｎｎｉｖｅｒｓａｒｙ ｔｏｕｒ ２０２５春「桜梅桃李」",
+          "sales": 816,
+          "seats": 1698,
+          "showtimes": 28,
+          "theaters": 34,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "♯I’ll tell you the truth.",
+          "japanese name": "♯真相をお話しします",
+          "sales": 1112,
+          "seats": 18402,
+          "showtimes": 151,
+          "theaters": 240,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "In short/To sum up",
+          "japanese name": "かくかくしかじか",
+          "sales": 3509,
+          "seats": 27709,
+          "showtimes": 220,
+          "theaters": 240,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dollhouse",
+          "japanese name": "ドールハウス",
+          "sales": 18520,
+          "seats": 185620,
+          "showtimes": 949,
+          "theaters": 253,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Apocalypse of Hell: Final Cut (IMAX Version)",
           "japanese name": "地獄の黙示録 ファイナル・カット（ＩＭＡＸ版）",
           "sales": 619,
@@ -509,6 +489,26 @@
           "showtimes": 35,
           "theaters": 41,
           "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love in the Big City",
+          "japanese name": "ラブ・イン・ザ・ビッグシティ",
+          "sales": 4174,
+          "seats": 40350,
+          "showtimes": 323,
+          "theaters": 198,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: The Blinding Flashback",
+          "japanese name": "名探偵コナン 隻眼の残像（フラッシュバック）",
+          "sales": 8919,
+          "seats": 78509,
+          "showtimes": 542,
+          "theaters": 261,
+          "rank": 6,
           "last_week_ratio": null
         }
       ]
@@ -518,143 +518,13 @@
       "time": "Final",
       "data": [
         {
-          "moviename": "National Treasure",
-          "japanese name": "国宝",
-          "sales": 68897,
-          "seats": 237234,
-          "showtimes": 1055,
-          "theaters": 263,
-          "rank": 1,
-          "last_week_ratio": 103.2
-        },
-        {
-          "moviename": "Frontline",
-          "japanese name": "フロントライン",
-          "sales": 38974,
-          "seats": 334473,
-          "showtimes": 1272,
-          "theaters": 265,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Lilo & Stitch",
-          "japanese name": "リロ＆スティッチ",
-          "sales": 26397,
-          "seats": 306259,
-          "showtimes": 1391,
-          "theaters": 267,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Dollhouse",
-          "japanese name": "ドールハウス",
-          "sales": 23794,
-          "seats": 236292,
-          "showtimes": 1211,
-          "theaters": 255,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Mission: Impossible/Final Reconnaissance",
-          "japanese name": "ミッション：インポッシブル／ファイナル・レコニング",
-          "sales": 21410,
-          "seats": 175343,
-          "showtimes": 932,
-          "theaters": 266,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Detective Conan: The Blinding Flashback",
-          "japanese name": "名探偵コナン 隻眼の残像（フラッシュバック）",
-          "sales": 10196,
-          "seats": 96803,
-          "showtimes": 670,
-          "theaters": 264,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie compilation Special Summary: Jujutsu Kaisen The Precious and The Broken",
-          "japanese name": "劇場版総集編 呪術廻戦 懐玉・玉折",
-          "sales": 8938,
-          "seats": 43226,
-          "showtimes": 306,
-          "theaters": 132,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version: Uta no☆Princess-sama♪ TABOO NIGHT XXXX",
-          "japanese name": "劇場版 うたの☆プリンスさまっ♪ ＴＡＢＯＯ ＮＩＧＨＴ ＸＸＸＸ",
-          "sales": 6304,
-          "seats": 30605,
-          "showtimes": 160,
-          "theaters": 104,
-          "rank": 8,
-          "last_week_ratio": 127.3
-        },
-        {
-          "moviename": "Love in the Big City",
-          "japanese name": "ラブ・イン・ザ・ビッグシティ",
-          "sales": 4863,
-          "seats": 51702,
-          "showtimes": 415,
-          "theaters": 200,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "In short/To sum up",
-          "japanese name": "かくかくしかじか",
-          "sales": 3656,
-          "seats": 29610,
-          "showtimes": 237,
-          "theaters": 243,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Kishibe露伴 remains motionless in the Confession Room",
-          "japanese name": "岸辺露伴は動かない 懺悔室",
-          "sales": 3059,
-          "seats": 33665,
-          "showtimes": 269,
-          "theaters": 245,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Mikadori-chan",
-          "japanese name": "見える子ちゃん",
-          "sales": 2881,
-          "seats": 53687,
-          "showtimes": 432,
-          "theaters": 241,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Rewrite",
-          "japanese name": "リライト",
-          "sales": 2463,
-          "seats": 76938,
-          "showtimes": 631,
-          "theaters": 196,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Ever-Ending Song of Father and Son",
-          "japanese name": "父と僕の終わらない歌",
-          "sales": 2405,
-          "seats": 32561,
-          "showtimes": 228,
-          "theaters": 233,
-          "rank": 14,
+          "moviename": "TOMORROW X TOGETHER: HYPEFOCUS IN CINEMAS",
+          "japanese name": "ＴＯＭＯＲＲＯＷ Ｘ ＴＯＧＥＴＨＥＲ：ＨＹＰＥＲＦＯＣＵＳ ＩＮ ＣＩＮＥＭＡＳ",
+          "sales": 1140,
+          "seats": 11755,
+          "showtimes": 92,
+          "theaters": 39,
+          "rank": 21,
           "last_week_ratio": null
         },
         {
@@ -668,63 +538,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "JUNK WORLD",
-          "japanese name": "ＪＵＮＫ ＷＯＲＬＤ",
-          "sales": 1896,
-          "seats": 20504,
-          "showtimes": 136,
-          "theaters": 38,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Dragon Heart – Journey to the Spirit Realm –",
-          "japanese name": "ドラゴンハート－霊界探訪記－",
-          "sales": 1852,
-          "seats": 15864,
-          "showtimes": 119,
-          "theaters": 74,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Kisaragi Station Re:",
-          "japanese name": "きさらぎ駅 Ｒｅ：",
-          "sales": 1709,
-          "seats": 48685,
-          "showtimes": 357,
-          "theaters": 105,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Demon Slayer: The Swordsmith’s Village – Bonds That Are United",
-          "japanese name": "鬼滅の刃 刀鍛冶の里 繋いだ絆編",
-          "sales": 1493,
-          "seats": 7995,
-          "showtimes": 60,
-          "theaters": 31,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "♯I’ll tell you the truth.",
-          "japanese name": "♯真相をお話しします",
-          "sales": 1303,
-          "seats": 28322,
-          "showtimes": 226,
-          "theaters": 242,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "TOMORROW X TOGETHER: HYPEFOCUS IN CINEMAS",
-          "japanese name": "ＴＯＭＯＲＲＯＷ Ｘ ＴＯＧＥＴＨＥＲ：ＨＹＰＥＲＦＯＣＵＳ ＩＮ ＣＩＮＥＭＡＳ",
-          "sales": 1140,
-          "seats": 11755,
-          "showtimes": 92,
-          "theaters": 39,
-          "rank": 21,
+          "moviename": "Rewrite",
+          "japanese name": "リライト",
+          "sales": 2463,
+          "seats": 76938,
+          "showtimes": 631,
+          "theaters": 196,
+          "rank": 13,
           "last_week_ratio": null
         },
         {
@@ -738,6 +558,36 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Lilo & Stitch",
+          "japanese name": "リロ＆スティッチ",
+          "sales": 26397,
+          "seats": 306259,
+          "showtimes": 1391,
+          "theaters": 267,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kishibe露伴 remains motionless in the Confession Room",
+          "japanese name": "岸辺露伴は動かない 懺悔室",
+          "sales": 3059,
+          "seats": 33665,
+          "showtimes": 269,
+          "theaters": 245,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie compilation Special Summary: Jujutsu Kaisen The Precious and The Broken",
+          "japanese name": "劇場版総集編 呪術廻戦 懐玉・玉折",
+          "sales": 8938,
+          "seats": 43226,
+          "showtimes": 306,
+          "theaters": 132,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "The collapse of youthful Gestalt",
           "japanese name": "青春ゲシュタルト崩壊",
           "sales": 917,
@@ -746,6 +596,116 @@
           "theaters": 137,
           "rank": 23,
           "last_week_ratio": null
+        },
+        {
+          "moviename": "Mikadori-chan",
+          "japanese name": "見える子ちゃん",
+          "sales": 2881,
+          "seats": 53687,
+          "showtimes": 432,
+          "theaters": 241,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kisaragi Station Re:",
+          "japanese name": "きさらぎ駅 Ｒｅ：",
+          "sales": 1709,
+          "seats": 48685,
+          "showtimes": 357,
+          "theaters": 105,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Frontline",
+          "japanese name": "フロントライン",
+          "sales": 38974,
+          "seats": 334473,
+          "showtimes": 1272,
+          "theaters": 265,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mission: Impossible/Final Reconnaissance",
+          "japanese name": "ミッション：インポッシブル／ファイナル・レコニング",
+          "sales": 21410,
+          "seats": 175343,
+          "showtimes": 932,
+          "theaters": 266,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dragon Heart – Journey to the Spirit Realm –",
+          "japanese name": "ドラゴンハート－霊界探訪記－",
+          "sales": 1852,
+          "seats": 15864,
+          "showtimes": 119,
+          "theaters": 74,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Ever-Ending Song of Father and Son",
+          "japanese name": "父と僕の終わらない歌",
+          "sales": 2405,
+          "seats": 32561,
+          "showtimes": 228,
+          "theaters": 233,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "National Treasure",
+          "japanese name": "国宝",
+          "sales": 68897,
+          "seats": 237234,
+          "showtimes": 1055,
+          "theaters": 263,
+          "rank": 1,
+          "last_week_ratio": 103.2
+        },
+        {
+          "moviename": "Demon Slayer: The Swordsmith’s Village – Bonds That Are United",
+          "japanese name": "鬼滅の刃 刀鍛冶の里 繋いだ絆編",
+          "sales": 1493,
+          "seats": 7995,
+          "showtimes": 60,
+          "theaters": 31,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "JUNK WORLD",
+          "japanese name": "ＪＵＮＫ ＷＯＲＬＤ",
+          "sales": 1896,
+          "seats": 20504,
+          "showtimes": 136,
+          "theaters": 38,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie \"Hypnosmic Mic - Division Rap Battle -\"",
+          "japanese name": "映画「ヒプノシスマイク －Ｄｉｖｉｓｉｏｎ Ｒａｐ Ｂａｔｔｌｅ－」",
+          "sales": 765,
+          "seats": 1430,
+          "showtimes": 10,
+          "theaters": 9,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Uta no☆Princess-sama♪ TABOO NIGHT XXXX",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ ＴＡＢＯＯ ＮＩＧＨＴ ＸＸＸＸ",
+          "sales": 6304,
+          "seats": 30605,
+          "showtimes": 160,
+          "theaters": 104,
+          "rank": 8,
+          "last_week_ratio": 127.3
         },
         {
           "moviename": "Angelmu 10th Anniversary Tour 2025 Spring: “Sakura, Plum, Peach, and Plum Blossoms”",
@@ -758,13 +718,53 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Movie \"Hypnosmic Mic - Division Rap Battle -\"",
-          "japanese name": "映画「ヒプノシスマイク －Ｄｉｖｉｓｉｏｎ Ｒａｐ Ｂａｔｔｌｅ－」",
-          "sales": 765,
-          "seats": 1430,
-          "showtimes": 10,
-          "theaters": 9,
-          "rank": 25,
+          "moviename": "♯I’ll tell you the truth.",
+          "japanese name": "♯真相をお話しします",
+          "sales": 1303,
+          "seats": 28322,
+          "showtimes": 226,
+          "theaters": 242,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "In short/To sum up",
+          "japanese name": "かくかくしかじか",
+          "sales": 3656,
+          "seats": 29610,
+          "showtimes": 237,
+          "theaters": 243,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dollhouse",
+          "japanese name": "ドールハウス",
+          "sales": 23794,
+          "seats": 236292,
+          "showtimes": 1211,
+          "theaters": 255,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love in the Big City",
+          "japanese name": "ラブ・イン・ザ・ビッグシティ",
+          "sales": 4863,
+          "seats": 51702,
+          "showtimes": 415,
+          "theaters": 200,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: The Blinding Flashback",
+          "japanese name": "名探偵コナン 隻眼の残像（フラッシュバック）",
+          "sales": 10196,
+          "seats": 96803,
+          "showtimes": 670,
+          "theaters": 264,
+          "rank": 6,
           "last_week_ratio": null
         }
       ]

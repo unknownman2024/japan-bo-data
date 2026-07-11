@@ -6,83 +6,13 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "Aladdin",
-          "japanese name": "アラジン",
-          "sales": 13960,
-          "seats": 199715,
-          "showtimes": 748,
-          "theaters": 273,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Spider-Man: Far From Home",
-          "japanese name": "スパイダーマン ファー・フロム・ホーム",
-          "sales": 10459,
-          "seats": 210416,
-          "showtimes": 762,
-          "theaters": 272,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Fabule",
-          "japanese name": "ザ・ファブル",
-          "sales": 5626,
-          "seats": 88734,
-          "showtimes": 509,
-          "theaters": 260,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Journalists",
-          "japanese name": "新聞記者",
-          "sales": 4138,
-          "seats": 34938,
-          "showtimes": 254,
-          "theaters": 128,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Today’s “harrassment lunch” again",
-          "japanese name": "今日も嫌がらせ弁当",
-          "sales": 2574,
-          "seats": 56617,
-          "showtimes": 389,
-          "theaters": 201,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Let’s go! Anpanman! Shine on! Vanilla Princess of the Ice Kingdom",
-          "japanese name": "それいけ！アンパンマン きらめけ！アイスの国のバニラ姫",
-          "sales": 2488,
-          "seats": 99838,
-          "showtimes": 622,
-          "theaters": 199,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version Uta no ☆ Prince-sama♪ Maji LOVE Kingdom",
-          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥキングダム",
-          "sales": 1559,
-          "seats": 12184,
-          "showtimes": 78,
-          "theaters": 113,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "X-MEN: Dark Phoenix",
-          "japanese name": "Ｘ－ＭＥＮ：ダーク・フェニックス",
-          "sales": 1513,
-          "seats": 38602,
-          "showtimes": 295,
-          "theaters": 244,
-          "rank": 8,
+          "moviename": "Kingdom",
+          "japanese name": "キングダム",
+          "sales": 321,
+          "seats": 5433,
+          "showtimes": 46,
+          "theaters": 246,
+          "rank": 21,
           "last_week_ratio": null
         },
         {
@@ -96,13 +26,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Waiting for the calm",
-          "japanese name": "凪待ち",
-          "sales": 1471,
-          "seats": 18067,
-          "showtimes": 114,
-          "theaters": 71,
-          "rank": 10,
+          "moviename": "X-MEN: Dark Phoenix",
+          "japanese name": "Ｘ－ＭＥＮ：ダーク・フェニックス",
+          "sales": 1513,
+          "seats": 38602,
+          "showtimes": 295,
+          "theaters": 244,
+          "rank": 8,
           "last_week_ratio": null
         },
         {
@@ -116,6 +46,46 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Parallel World Love Story",
+          "japanese name": "パラレルワールド・ラブストーリー",
+          "sales": 291,
+          "seats": 6255,
+          "showtimes": 49,
+          "theaters": 231,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Waiting for the calm",
+          "japanese name": "凪待ち",
+          "sales": 1471,
+          "seats": 18067,
+          "showtimes": 114,
+          "theaters": 71,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let’s go! Anpanman! Shine on! Vanilla Princess of the Ice Kingdom",
+          "japanese name": "それいけ！アンパンマン きらめけ！アイスの国のバニラ姫",
+          "sales": 2488,
+          "seats": 99838,
+          "showtimes": 622,
+          "theaters": 199,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "With the Gods Chapter 1: Sin and Punishment",
+          "japanese name": "神と共に 第一章 罪と罰",
+          "sales": 516,
+          "seats": 5993,
+          "showtimes": 41,
+          "theaters": 34,
+          "rank": 18,
+          "last_week_ratio": 289.9
+        },
+        {
           "moviename": "Shinema Kabuki: Egao / Hidakawa Nyūsō Kōō",
           "japanese name": "シネマ歌舞伎 鷺娘／日高川入相花王",
           "sales": 1277,
@@ -123,6 +93,26 @@
           "showtimes": 47,
           "theaters": 46,
           "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Fabule",
+          "japanese name": "ザ・ファブル",
+          "sales": 5626,
+          "seats": 88734,
+          "showtimes": 509,
+          "theaters": 260,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A Town's Tall Chimney",
+          "japanese name": "ある町の高い煙突",
+          "sales": 287,
+          "seats": 6351,
+          "showtimes": 43,
+          "theaters": 72,
+          "rank": 23,
           "last_week_ratio": null
         },
         {
@@ -136,16 +126,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Confident Man JP",
-          "japanese name": "コンフィデンスマンＪＰ",
-          "sales": 695,
-          "seats": 19447,
-          "showtimes": 140,
-          "theaters": 251,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "The young piglet never dreams of the girl’s dreams.",
           "japanese name": "青春ブタ野郎はゆめみる少女の夢を見ない",
           "sales": 621,
@@ -153,6 +133,36 @@
           "showtimes": 44,
           "theaters": 26,
           "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Aladdin",
+          "japanese name": "アラジン",
+          "sales": 13960,
+          "seats": 199715,
+          "showtimes": 748,
+          "theaters": 273,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version Uta no ☆ Prince-sama♪ Maji LOVE Kingdom",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥキングダム",
+          "sales": 1559,
+          "seats": 12184,
+          "showtimes": 78,
+          "theaters": 113,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Journalists",
+          "japanese name": "新聞記者",
+          "sales": 4138,
+          "seats": 34938,
+          "showtimes": 254,
+          "theaters": 128,
+          "rank": 4,
           "last_week_ratio": null
         },
         {
@@ -176,14 +186,24 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "With the Gods Chapter 1: Sin and Punishment",
-          "japanese name": "神と共に 第一章 罪と罰",
-          "sales": 516,
-          "seats": 5993,
-          "showtimes": 41,
-          "theaters": 34,
-          "rank": 18,
-          "last_week_ratio": 289.9
+          "moviename": "Hot Gimmick: Girl Meets Boy",
+          "japanese name": "ホットギミック ガールミーツボーイ",
+          "sales": 372,
+          "seats": 22264,
+          "showtimes": 171,
+          "theaters": 110,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Confident Man JP",
+          "japanese name": "コンフィデンスマンＪＰ",
+          "sales": 695,
+          "seats": 19447,
+          "showtimes": 140,
+          "theaters": 251,
+          "rank": 14,
+          "last_week_ratio": null
         },
         {
           "moviename": "Children of sea beasts",
@@ -196,43 +216,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Hot Gimmick: Girl Meets Boy",
-          "japanese name": "ホットギミック ガールミーツボーイ",
-          "sales": 372,
-          "seats": 22264,
-          "showtimes": 171,
-          "theaters": 110,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Kingdom",
-          "japanese name": "キングダム",
-          "sales": 321,
-          "seats": 5433,
-          "showtimes": 46,
-          "theaters": 246,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Parallel World Love Story",
-          "japanese name": "パラレルワールド・ラブストーリー",
-          "sales": 291,
-          "seats": 6255,
-          "showtimes": 49,
-          "theaters": 231,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "A Town's Tall Chimney",
-          "japanese name": "ある町の高い煙突",
-          "sales": 287,
-          "seats": 6351,
-          "showtimes": 43,
-          "theaters": 72,
-          "rank": 23,
+          "moviename": "Spider-Man: Far From Home",
+          "japanese name": "スパイダーマン ファー・フロム・ホーム",
+          "sales": 10459,
+          "seats": 210416,
+          "showtimes": 762,
+          "theaters": 272,
+          "rank": 2,
           "last_week_ratio": null
         },
         {
@@ -243,6 +233,16 @@
           "showtimes": 27,
           "theaters": 26,
           "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Today’s “harrassment lunch” again",
+          "japanese name": "今日も嫌がらせ弁当",
+          "sales": 2574,
+          "seats": 56617,
+          "showtimes": 389,
+          "theaters": 201,
+          "rank": 5,
           "last_week_ratio": null
         },
         {
@@ -262,66 +262,6 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "Aladdin",
-          "japanese name": "アラジン",
-          "sales": 33681,
-          "seats": 382565,
-          "showtimes": 1435,
-          "theaters": 273,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Spider-Man: Far From Home",
-          "japanese name": "スパイダーマン ファー・フロム・ホーム",
-          "sales": 23730,
-          "seats": 406819,
-          "showtimes": 1474,
-          "theaters": 272,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Fabule",
-          "japanese name": "ザ・ファブル",
-          "sales": 9921,
-          "seats": 157305,
-          "showtimes": 907,
-          "theaters": 260,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Journalists",
-          "japanese name": "新聞記者",
-          "sales": 6249,
-          "seats": 52261,
-          "showtimes": 380,
-          "theaters": 128,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version Uta no ☆ Prince-sama♪ Maji LOVE Kingdom",
-          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥキングダム",
-          "sales": 3682,
-          "seats": 27575,
-          "showtimes": 173,
-          "theaters": 112,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Today’s “harrassment lunch” again",
-          "japanese name": "今日も嫌がらせ弁当",
-          "sales": 3529,
-          "seats": 92047,
-          "showtimes": 640,
-          "theaters": 201,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Prometheus",
           "japanese name": "プロメア",
           "sales": 3213,
@@ -332,23 +272,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Let’s go! Anpanman! Shine on! Vanilla Princess of the Ice Kingdom",
-          "japanese name": "それいけ！アンパンマン きらめけ！アイスの国のバニラ姫",
-          "sales": 2989,
-          "seats": 123123,
-          "showtimes": 773,
-          "theaters": 199,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Men in Black International",
-          "japanese name": "メン・イン・ブラック インターナショナル",
-          "sales": 2827,
-          "seats": 70821,
-          "showtimes": 529,
-          "theaters": 265,
-          "rank": 9,
+          "moviename": "Kingdom",
+          "japanese name": "キングダム",
+          "sales": 1185,
+          "seats": 28058,
+          "showtimes": 205,
+          "theaters": 245,
+          "rank": 18,
           "last_week_ratio": null
         },
         {
@@ -372,6 +302,26 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Men in Black International",
+          "japanese name": "メン・イン・ブラック インターナショナル",
+          "sales": 2827,
+          "seats": 70821,
+          "showtimes": 529,
+          "theaters": 265,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Parallel World Love Story",
+          "japanese name": "パラレルワールド・ラブストーリー",
+          "sales": 1158,
+          "seats": 22682,
+          "showtimes": 166,
+          "theaters": 231,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Waiting for the calm",
           "japanese name": "凪待ち",
           "sales": 2294,
@@ -382,14 +332,24 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Confident Man JP",
-          "japanese name": "コンフィデンスマンＪＰ",
-          "sales": 1566,
-          "seats": 40076,
-          "showtimes": 279,
-          "theaters": 251,
-          "rank": 13,
+          "moviename": "Let’s go! Anpanman! Shine on! Vanilla Princess of the Ice Kingdom",
+          "japanese name": "それいけ！アンパンマン きらめけ！アイスの国のバニラ姫",
+          "sales": 2989,
+          "seats": 123123,
+          "showtimes": 773,
+          "theaters": 199,
+          "rank": 8,
           "last_week_ratio": null
+        },
+        {
+          "moviename": "With the Gods Chapter 1: Sin and Punishment",
+          "japanese name": "神と共に 第一章 罪と罰",
+          "sales": 910,
+          "seats": 9977,
+          "showtimes": 67,
+          "theaters": 34,
+          "rank": 22,
+          "last_week_ratio": 471.5
         },
         {
           "moviename": "Shinema Kabuki: Egao / Hidakawa Nyūsō Kōō",
@@ -399,6 +359,16 @@
           "showtimes": 52,
           "theaters": 46,
           "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Fabule",
+          "japanese name": "ザ・ファブル",
+          "sales": 9921,
+          "seats": 157305,
+          "showtimes": 907,
+          "theaters": 260,
+          "rank": 3,
           "last_week_ratio": null
         },
         {
@@ -422,33 +392,53 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Children of sea beasts",
-          "japanese name": "海獣の子供",
-          "sales": 1252,
-          "seats": 17134,
-          "showtimes": 123,
-          "theaters": 135,
-          "rank": 17,
+          "moviename": "Amorous encounters in the afternoon",
+          "japanese name": "昼下りの情事",
+          "sales": 527,
+          "seats": 528,
+          "showtimes": 1,
+          "theaters": 1,
+          "rank": 25,
           "last_week_ratio": null
         },
         {
-          "moviename": "Kingdom",
-          "japanese name": "キングダム",
-          "sales": 1185,
-          "seats": 28058,
-          "showtimes": 205,
-          "theaters": 245,
-          "rank": 18,
+          "moviename": "Aladdin",
+          "japanese name": "アラジン",
+          "sales": 33681,
+          "seats": 382565,
+          "showtimes": 1435,
+          "theaters": 273,
+          "rank": 1,
           "last_week_ratio": null
         },
         {
-          "moviename": "Parallel World Love Story",
-          "japanese name": "パラレルワールド・ラブストーリー",
-          "sales": 1158,
-          "seats": 22682,
-          "showtimes": 166,
-          "theaters": 231,
-          "rank": 19,
+          "moviename": "Theatrical Version Uta no ☆ Prince-sama♪ Maji LOVE Kingdom",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥキングダム",
+          "sales": 3682,
+          "seats": 27575,
+          "showtimes": 173,
+          "theaters": 112,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan 2019: Blue Fist",
+          "japanese name": "名探偵コナン２０１９ 紺青の拳（フィスト）",
+          "sales": 591,
+          "seats": 28516,
+          "showtimes": 206,
+          "theaters": 232,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Journalists",
+          "japanese name": "新聞記者",
+          "sales": 6249,
+          "seats": 52261,
+          "showtimes": 380,
+          "theaters": 128,
+          "rank": 4,
           "last_week_ratio": null
         },
         {
@@ -472,16 +462,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "With the Gods Chapter 1: Sin and Punishment",
-          "japanese name": "神と共に 第一章 罪と罰",
-          "sales": 910,
-          "seats": 9977,
-          "showtimes": 67,
-          "theaters": 34,
-          "rank": 22,
-          "last_week_ratio": 471.5
-        },
-        {
           "moviename": "Hot Gimmick: Girl Meets Boy",
           "japanese name": "ホットギミック ガールミーツボーイ",
           "sales": 677,
@@ -492,23 +472,43 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Detective Conan 2019: Blue Fist",
-          "japanese name": "名探偵コナン２０１９ 紺青の拳（フィスト）",
-          "sales": 591,
-          "seats": 28516,
-          "showtimes": 206,
-          "theaters": 232,
-          "rank": 24,
+          "moviename": "Confident Man JP",
+          "japanese name": "コンフィデンスマンＪＰ",
+          "sales": 1566,
+          "seats": 40076,
+          "showtimes": 279,
+          "theaters": 251,
+          "rank": 13,
           "last_week_ratio": null
         },
         {
-          "moviename": "Amorous encounters in the afternoon",
-          "japanese name": "昼下りの情事",
-          "sales": 527,
-          "seats": 528,
-          "showtimes": 1,
-          "theaters": 1,
-          "rank": 25,
+          "moviename": "Children of sea beasts",
+          "japanese name": "海獣の子供",
+          "sales": 1252,
+          "seats": 17134,
+          "showtimes": 123,
+          "theaters": 135,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Spider-Man: Far From Home",
+          "japanese name": "スパイダーマン ファー・フロム・ホーム",
+          "sales": 23730,
+          "seats": 406819,
+          "showtimes": 1474,
+          "theaters": 272,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Today’s “harrassment lunch” again",
+          "japanese name": "今日も嫌がらせ弁当",
+          "sales": 3529,
+          "seats": 92047,
+          "showtimes": 640,
+          "theaters": 201,
+          "rank": 6,
           "last_week_ratio": null
         }
       ]
@@ -517,56 +517,6 @@
       "title": "Including Independents",
       "time": "Final",
       "data": [
-        {
-          "moviename": "Aladdin",
-          "japanese name": "アラジン",
-          "sales": 40927,
-          "seats": 468050,
-          "showtimes": 1759,
-          "theaters": 273,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Spider-Man: Far From Home",
-          "japanese name": "スパイダーマン ファー・フロム・ホーム",
-          "sales": 31046,
-          "seats": 522293,
-          "showtimes": 1885,
-          "theaters": 272,
-          "rank": 2,
-          "last_week_ratio": 2830.1
-        },
-        {
-          "moviename": "The Fabule",
-          "japanese name": "ザ・ファブル",
-          "sales": 12153,
-          "seats": 201342,
-          "showtimes": 1167,
-          "theaters": 260,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Journalists",
-          "japanese name": "新聞記者",
-          "sales": 7088,
-          "seats": 67531,
-          "showtimes": 487,
-          "theaters": 128,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version Uta no ☆ Prince-sama♪ Maji LOVE Kingdom",
-          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥキングダム",
-          "sales": 5861,
-          "seats": 37798,
-          "showtimes": 237,
-          "theaters": 112,
-          "rank": 5,
-          "last_week_ratio": null
-        },
         {
           "moviename": "Prometheus",
           "japanese name": "プロメア",
@@ -578,23 +528,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Today’s “harrassment lunch” again",
-          "japanese name": "今日も嫌がらせ弁当",
-          "sales": 3966,
-          "seats": 117672,
-          "showtimes": 816,
-          "theaters": 201,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Men in Black International",
-          "japanese name": "メン・イン・ブラック インターナショナル",
-          "sales": 3635,
-          "seats": 97382,
-          "showtimes": 724,
-          "theaters": 264,
-          "rank": 8,
+          "moviename": "Kingdom",
+          "japanese name": "キングダム",
+          "sales": 1527,
+          "seats": 33489,
+          "showtimes": 244,
+          "theaters": 245,
+          "rank": 17,
           "last_week_ratio": null
         },
         {
@@ -618,73 +558,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Let’s go! Anpanman! Shine on! Vanilla Princess of the Ice Kingdom",
-          "japanese name": "それいけ！アンパンマン きらめけ！アイスの国のバニラ姫",
-          "sales": 2989,
-          "seats": 123123,
-          "showtimes": 773,
-          "theaters": 199,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Waiting for the calm",
-          "japanese name": "凪待ち",
-          "sales": 2661,
-          "seats": 41550,
-          "showtimes": 262,
-          "theaters": 71,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Confident Man JP",
-          "japanese name": "コンフィデンスマンＪＰ",
-          "sales": 1800,
-          "seats": 44221,
-          "showtimes": 314,
-          "theaters": 251,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The young piglet never dreams of the girl’s dreams.",
-          "japanese name": "青春ブタ野郎はゆめみる少女の夢を見ない",
-          "sales": 1778,
-          "seats": 20378,
-          "showtimes": 95,
-          "theaters": 26,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "If only I could ride the waves with you…",
-          "japanese name": "きみと、波にのれたら",
-          "sales": 1726,
-          "seats": 100743,
-          "showtimes": 748,
-          "theaters": 245,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Girls & Panzers: Final Chapter, Episode 2",
-          "japanese name": "ガールズ＆パンツァー 最終章 第２話",
-          "sales": 1671,
-          "seats": 26594,
-          "showtimes": 138,
-          "theaters": 44,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Kingdom",
-          "japanese name": "キングダム",
-          "sales": 1527,
-          "seats": 33489,
-          "showtimes": 244,
-          "theaters": 245,
-          "rank": 17,
+          "moviename": "Men in Black International",
+          "japanese name": "メン・イン・ブラック インターナショナル",
+          "sales": 3635,
+          "seats": 97382,
+          "showtimes": 724,
+          "theaters": 264,
+          "rank": 8,
           "last_week_ratio": null
         },
         {
@@ -698,33 +578,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Shinema Kabuki: Egao / Hidakawa Nyūsō Kōō",
-          "japanese name": "シネマ歌舞伎 鷺娘／日高川入相花王",
-          "sales": 1440,
-          "seats": 8473,
-          "showtimes": 52,
-          "theaters": 46,
-          "rank": 19,
+          "moviename": "Waiting for the calm",
+          "japanese name": "凪待ち",
+          "sales": 2661,
+          "seats": 41550,
+          "showtimes": 262,
+          "theaters": 71,
+          "rank": 12,
           "last_week_ratio": null
         },
         {
-          "moviename": "Children of sea beasts",
-          "japanese name": "海獣の子供",
-          "sales": 1422,
-          "seats": 19140,
-          "showtimes": 136,
-          "theaters": 135,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Final Fantasy XIV: The Father of Light – Theatrical Version",
-          "japanese name": "劇場版 ファイナルファンタジーＸＩＶ 光のお父さん",
-          "sales": 1288,
-          "seats": 27000,
-          "showtimes": 202,
-          "theaters": 84,
-          "rank": 21,
+          "moviename": "Let’s go! Anpanman! Shine on! Vanilla Princess of the Ice Kingdom",
+          "japanese name": "それいけ！アンパンマン きらめけ！アイスの国のバニラ姫",
+          "sales": 2989,
+          "seats": 123123,
+          "showtimes": 773,
+          "theaters": 199,
+          "rank": 11,
           "last_week_ratio": null
         },
         {
@@ -738,13 +608,73 @@
           "last_week_ratio": 527.5
         },
         {
-          "moviename": "Hot Gimmick: Girl Meets Boy",
-          "japanese name": "ホットギミック ガールミーツボーイ",
-          "sales": 833,
-          "seats": 51627,
-          "showtimes": 393,
-          "theaters": 110,
-          "rank": 23,
+          "moviename": "Shinema Kabuki: Egao / Hidakawa Nyūsō Kōō",
+          "japanese name": "シネマ歌舞伎 鷺娘／日高川入相花王",
+          "sales": 1440,
+          "seats": 8473,
+          "showtimes": 52,
+          "theaters": 46,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Fabule",
+          "japanese name": "ザ・ファブル",
+          "sales": 12153,
+          "seats": 201342,
+          "showtimes": 1167,
+          "theaters": 260,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "If only I could ride the waves with you…",
+          "japanese name": "きみと、波にのれたら",
+          "sales": 1726,
+          "seats": 100743,
+          "showtimes": 748,
+          "theaters": 245,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The young piglet never dreams of the girl’s dreams.",
+          "japanese name": "青春ブタ野郎はゆめみる少女の夢を見ない",
+          "sales": 1778,
+          "seats": 20378,
+          "showtimes": 95,
+          "theaters": 26,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Aladdin",
+          "japanese name": "アラジン",
+          "sales": 40927,
+          "seats": 468050,
+          "showtimes": 1759,
+          "theaters": 273,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Happy Death Day",
+          "japanese name": "ハッピー・デス・デイ",
+          "sales": 650,
+          "seats": 3650,
+          "showtimes": 24,
+          "theaters": 7,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version Uta no ☆ Prince-sama♪ Maji LOVE Kingdom",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥキングダム",
+          "sales": 5861,
+          "seats": 37798,
+          "showtimes": 237,
+          "theaters": 112,
+          "rank": 5,
           "last_week_ratio": null
         },
         {
@@ -758,13 +688,83 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Happy Death Day",
-          "japanese name": "ハッピー・デス・デイ",
-          "sales": 650,
-          "seats": 3650,
-          "showtimes": 24,
-          "theaters": 7,
-          "rank": 25,
+          "moviename": "Journalists",
+          "japanese name": "新聞記者",
+          "sales": 7088,
+          "seats": 67531,
+          "showtimes": 487,
+          "theaters": 128,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Girls & Panzers: Final Chapter, Episode 2",
+          "japanese name": "ガールズ＆パンツァー 最終章 第２話",
+          "sales": 1671,
+          "seats": 26594,
+          "showtimes": 138,
+          "theaters": 44,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Final Fantasy XIV: The Father of Light – Theatrical Version",
+          "japanese name": "劇場版 ファイナルファンタジーＸＩＶ 光のお父さん",
+          "sales": 1288,
+          "seats": 27000,
+          "showtimes": 202,
+          "theaters": 84,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hot Gimmick: Girl Meets Boy",
+          "japanese name": "ホットギミック ガールミーツボーイ",
+          "sales": 833,
+          "seats": 51627,
+          "showtimes": 393,
+          "theaters": 110,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Confident Man JP",
+          "japanese name": "コンフィデンスマンＪＰ",
+          "sales": 1800,
+          "seats": 44221,
+          "showtimes": 314,
+          "theaters": 251,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Children of sea beasts",
+          "japanese name": "海獣の子供",
+          "sales": 1422,
+          "seats": 19140,
+          "showtimes": 136,
+          "theaters": 135,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Spider-Man: Far From Home",
+          "japanese name": "スパイダーマン ファー・フロム・ホーム",
+          "sales": 31046,
+          "seats": 522293,
+          "showtimes": 1885,
+          "theaters": 272,
+          "rank": 2,
+          "last_week_ratio": 2830.1
+        },
+        {
+          "moviename": "Today’s “harrassment lunch” again",
+          "japanese name": "今日も嫌がらせ弁当",
+          "sales": 3966,
+          "seats": 117672,
+          "showtimes": 816,
+          "theaters": 201,
+          "rank": 7,
           "last_week_ratio": null
         }
       ]

@@ -6,6 +6,26 @@
       "time": "2PM",
       "data": [
         {
+          "moviename": "Child’s play",
+          "japanese name": "チャイルド・プレイ",
+          "sales": 228,
+          "seats": 1087,
+          "showtimes": 9,
+          "theaters": 162,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tokyo Ghoul: Tokyo Ghoul S",
+          "japanese name": "東京喰種 トーキョーグール Ｓ",
+          "sales": 364,
+          "seats": 3457,
+          "showtimes": 22,
+          "theaters": 188,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "LION KING",
           "japanese name": "ライオン・キング",
           "sales": 85477,
@@ -26,46 +46,6 @@
           "last_week_ratio": 173.4
         },
         {
-          "moviename": "ONE PIECE STAMPED",
-          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＳＴＡＭＰＥＤＥ",
-          "sales": 70293,
-          "seats": 223181,
-          "showtimes": 856,
-          "theaters": 285,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Toy Story 4",
-          "japanese name": "トイ・ストーリー４",
-          "sales": 54047,
-          "seats": 139608,
-          "showtimes": 758,
-          "theaters": 294,
-          "rank": 4,
-          "last_week_ratio": 136.5
-        },
-        {
-          "moviename": "Pet 2",
-          "japanese name": "ペット２",
-          "sales": 27520,
-          "seats": 64764,
-          "showtimes": 500,
-          "theaters": 293,
-          "rank": 5,
-          "last_week_ratio": 130.7
-        },
-        {
-          "moviename": "Wild Speed Super Combo",
-          "japanese name": "ワイルド・スピード スーパーコンボ",
-          "sales": 23223,
-          "seats": 77285,
-          "showtimes": 515,
-          "theaters": 293,
-          "rank": 6,
-          "last_week_ratio": 157.4
-        },
-        {
           "moviename": "Mewtwo's Revenge EVOLUTION",
           "japanese name": "ミュウツーの逆襲 ＥＶＯＬＵＴＩＯＮ",
           "sales": 17086,
@@ -76,43 +56,33 @@
           "last_week_ratio": 118.5
         },
         {
-          "moviename": "Archimedes’ Great War",
-          "japanese name": "アルキメデスの大戦",
-          "sales": 15955,
-          "seats": 56202,
-          "showtimes": 461,
-          "theaters": 288,
-          "rank": 8,
-          "last_week_ratio": 155.6
+          "moviename": "Waiting for the calm",
+          "japanese name": "凪待ち",
+          "sales": 208,
+          "seats": 253,
+          "showtimes": 2,
+          "theaters": 3,
+          "rank": 25,
+          "last_week_ratio": 630.3
         },
         {
-          "moviename": "Theatrical Movie: Kamen Rider Geiz/Ryusouger",
-          "japanese name": "劇場版 仮面ライダージオウ／騎士竜戦隊リュウソウジャー",
-          "sales": 12200,
-          "seats": 55148,
-          "showtimes": 461,
-          "theaters": 270,
-          "rank": 9,
-          "last_week_ratio": 207.1
+          "moviename": "Let’s go! Anpanman! Shine on! Vanilla Princess of the Ice Kingdom",
+          "japanese name": "それいけ！アンパンマン きらめけ！アイスの国のバニラ姫",
+          "sales": 2324,
+          "seats": 30331,
+          "showtimes": 200,
+          "theaters": 202,
+          "rank": 13,
+          "last_week_ratio": 219
         },
         {
-          "moviename": "Dragon Quest: Your Story",
-          "japanese name": "ドラゴンクエスト ユア・ストーリー",
-          "sales": 12074,
-          "seats": 64003,
-          "showtimes": 495,
-          "theaters": 277,
-          "rank": 10,
-          "last_week_ratio": 123.2
-        },
-        {
-          "moviename": "Aladdin",
-          "japanese name": "アラジン",
-          "sales": 7381,
-          "seats": 14716,
-          "showtimes": 119,
-          "theaters": 287,
-          "rank": 11,
+          "moviename": "Movie version *Free!-Road to the World- Dream*",
+          "japanese name": "劇場版 Ｆｒｅｅ！－Ｒｏａｄ ｔｏ ｔｈｅ Ｗｏｒｌｄ－夢",
+          "sales": 277,
+          "seats": 2343,
+          "showtimes": 13,
+          "theaters": 62,
+          "rank": 21,
           "last_week_ratio": null
         },
         {
@@ -126,33 +96,43 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Let’s go! Anpanman! Shine on! Vanilla Princess of the Ice Kingdom",
-          "japanese name": "それいけ！アンパンマン きらめけ！アイスの国のバニラ姫",
-          "sales": 2324,
-          "seats": 30331,
-          "showtimes": 200,
-          "theaters": 202,
-          "rank": 13,
-          "last_week_ratio": 219
+          "moviename": "Pet 2",
+          "japanese name": "ペット２",
+          "sales": 27520,
+          "seats": 64764,
+          "showtimes": 500,
+          "theaters": 293,
+          "rank": 5,
+          "last_week_ratio": 130.7
         },
         {
-          "moviename": "Spider-Man: Far From Home",
-          "japanese name": "スパイダーマン ファー・フロム・ホーム",
-          "sales": 655,
-          "seats": 1975,
-          "showtimes": 18,
-          "theaters": 197,
-          "rank": 14,
+          "moviename": "The Fabule",
+          "japanese name": "ザ・ファブル",
+          "sales": 222,
+          "seats": 1512,
+          "showtimes": 7,
+          "theaters": 44,
+          "rank": 24,
           "last_week_ratio": null
         },
         {
-          "moviename": "Theatrical Version Uta no ☆ Prince-sama♪ Maji LOVE Kingdom",
-          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥキングダム",
-          "sales": 560,
-          "seats": 2142,
-          "showtimes": 10,
-          "theaters": 108,
-          "rank": 15,
+          "moviename": "Diner Diner",
+          "japanese name": "Ｄｉｎｅｒ ダイナー",
+          "sales": 431,
+          "seats": 2586,
+          "showtimes": 18,
+          "theaters": 174,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Aladdin",
+          "japanese name": "アラジン",
+          "sales": 7381,
+          "seats": 14716,
+          "showtimes": 119,
+          "theaters": 287,
+          "rank": 11,
           "last_week_ratio": null
         },
         {
@@ -176,6 +156,26 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Theatrical Version Uta no ☆ Prince-sama♪ Maji LOVE Kingdom",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥキングダム",
+          "sales": 560,
+          "seats": 2142,
+          "showtimes": 10,
+          "theaters": 108,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wild Speed Super Combo",
+          "japanese name": "ワイルド・スピード スーパーコンボ",
+          "sales": 23223,
+          "seats": 77285,
+          "showtimes": 515,
+          "theaters": 293,
+          "rank": 6,
+          "last_week_ratio": 157.4
+        },
+        {
           "moviename": "Journalists",
           "japanese name": "新聞記者",
           "sales": 432,
@@ -186,43 +186,53 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Diner Diner",
-          "japanese name": "Ｄｉｎｅｒ ダイナー",
-          "sales": 431,
-          "seats": 2586,
+          "moviename": "Theatrical Movie: Kamen Rider Geiz/Ryusouger",
+          "japanese name": "劇場版 仮面ライダージオウ／騎士竜戦隊リュウソウジャー",
+          "sales": 12200,
+          "seats": 55148,
+          "showtimes": 461,
+          "theaters": 270,
+          "rank": 9,
+          "last_week_ratio": 207.1
+        },
+        {
+          "moviename": "Spider-Man: Far From Home",
+          "japanese name": "スパイダーマン ファー・フロム・ホーム",
+          "sales": 655,
+          "seats": 1975,
           "showtimes": 18,
-          "theaters": 174,
-          "rank": 19,
+          "theaters": 197,
+          "rank": 14,
           "last_week_ratio": null
         },
         {
-          "moviename": "Tokyo Ghoul: Tokyo Ghoul S",
-          "japanese name": "東京喰種 トーキョーグール Ｓ",
-          "sales": 364,
-          "seats": 3457,
-          "showtimes": 22,
-          "theaters": 188,
-          "rank": 20,
-          "last_week_ratio": null
+          "moviename": "Archimedes’ Great War",
+          "japanese name": "アルキメデスの大戦",
+          "sales": 15955,
+          "seats": 56202,
+          "showtimes": 461,
+          "theaters": 288,
+          "rank": 8,
+          "last_week_ratio": 155.6
         },
         {
-          "moviename": "Movie version *Free!-Road to the World- Dream*",
-          "japanese name": "劇場版 Ｆｒｅｅ！－Ｒｏａｄ ｔｏ ｔｈｅ Ｗｏｒｌｄ－夢",
-          "sales": 277,
-          "seats": 2343,
-          "showtimes": 13,
-          "theaters": 62,
-          "rank": 21,
-          "last_week_ratio": null
+          "moviename": "Toy Story 4",
+          "japanese name": "トイ・ストーリー４",
+          "sales": 54047,
+          "seats": 139608,
+          "showtimes": 758,
+          "theaters": 294,
+          "rank": 4,
+          "last_week_ratio": 136.5
         },
         {
-          "moviename": "Child’s play",
-          "japanese name": "チャイルド・プレイ",
-          "sales": 228,
-          "seats": 1087,
-          "showtimes": 9,
-          "theaters": 162,
-          "rank": 22,
+          "moviename": "ONE PIECE STAMPED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＳＴＡＭＰＥＤＥ",
+          "sales": 70293,
+          "seats": 223181,
+          "showtimes": 856,
+          "theaters": 285,
+          "rank": 3,
           "last_week_ratio": null
         },
         {
@@ -236,24 +246,14 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The Fabule",
-          "japanese name": "ザ・ファブル",
-          "sales": 222,
-          "seats": 1512,
-          "showtimes": 7,
-          "theaters": 44,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Waiting for the calm",
-          "japanese name": "凪待ち",
-          "sales": 208,
-          "seats": 253,
-          "showtimes": 2,
-          "theaters": 3,
-          "rank": 25,
-          "last_week_ratio": 630.3
+          "moviename": "Dragon Quest: Your Story",
+          "japanese name": "ドラゴンクエスト ユア・ストーリー",
+          "sales": 12074,
+          "seats": 64003,
+          "showtimes": 495,
+          "theaters": 277,
+          "rank": 10,
+          "last_week_ratio": 123.2
         }
       ]
     },
@@ -261,6 +261,36 @@
       "title": "Including Independents",
       "time": "7PM",
       "data": [
+        {
+          "moviename": "Prometheus",
+          "japanese name": "プロメア",
+          "sales": 642,
+          "seats": 1597,
+          "showtimes": 10,
+          "theaters": 16,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Child’s play",
+          "japanese name": "チャイルド・プレイ",
+          "sales": 1831,
+          "seats": 8830,
+          "showtimes": 62,
+          "theaters": 162,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tokyo Ghoul: Tokyo Ghoul S",
+          "japanese name": "東京喰種 トーキョーグール Ｓ",
+          "sales": 1391,
+          "seats": 10347,
+          "showtimes": 82,
+          "theaters": 188,
+          "rank": 18,
+          "last_week_ratio": null
+        },
         {
           "moviename": "LION KING",
           "japanese name": "ライオン・キング",
@@ -282,56 +312,6 @@
           "last_week_ratio": 170.5
         },
         {
-          "moviename": "ONE PIECE STAMPED",
-          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＳＴＡＭＰＥＤＥ",
-          "sales": 120459,
-          "seats": 389408,
-          "showtimes": 1484,
-          "theaters": 285,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Toy Story 4",
-          "japanese name": "トイ・ストーリー４",
-          "sales": 85520,
-          "seats": 233272,
-          "showtimes": 1270,
-          "theaters": 294,
-          "rank": 4,
-          "last_week_ratio": 147.7
-        },
-        {
-          "moviename": "Wild Speed Super Combo",
-          "japanese name": "ワイルド・スピード スーパーコンボ",
-          "sales": 49751,
-          "seats": 157574,
-          "showtimes": 1043,
-          "theaters": 293,
-          "rank": 5,
-          "last_week_ratio": 169.2
-        },
-        {
-          "moviename": "Pet 2",
-          "japanese name": "ペット２",
-          "sales": 40082,
-          "seats": 96338,
-          "showtimes": 743,
-          "theaters": 293,
-          "rank": 6,
-          "last_week_ratio": 133.7
-        },
-        {
-          "moviename": "Archimedes’ Great War",
-          "japanese name": "アルキメデスの大戦",
-          "sales": 24988,
-          "seats": 92482,
-          "showtimes": 758,
-          "theaters": 288,
-          "rank": 7,
-          "last_week_ratio": 158.5
-        },
-        {
           "moviename": "Mewtwo's Revenge EVOLUTION",
           "japanese name": "ミュウツーの逆襲 ＥＶＯＬＵＴＩＯＮ",
           "sales": 23651,
@@ -340,46 +320,6 @@
           "theaters": 287,
           "rank": 8,
           "last_week_ratio": 128.5
-        },
-        {
-          "moviename": "Dragon Quest: Your Story",
-          "japanese name": "ドラゴンクエスト ユア・ストーリー",
-          "sales": 19355,
-          "seats": 113167,
-          "showtimes": 875,
-          "theaters": 277,
-          "rank": 9,
-          "last_week_ratio": 123.3
-        },
-        {
-          "moviename": "Aladdin",
-          "japanese name": "アラジン",
-          "sales": 16280,
-          "seats": 41883,
-          "showtimes": 331,
-          "theaters": 287,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Movie: Kamen Rider Geiz/Ryusouger",
-          "japanese name": "劇場版 仮面ライダージオウ／騎士竜戦隊リュウソウジャー",
-          "sales": 15583,
-          "seats": 75713,
-          "showtimes": 630,
-          "theaters": 270,
-          "rank": 11,
-          "last_week_ratio": 197.3
-        },
-        {
-          "moviename": "BRIING THE SOUL: THE MOVIE",
-          "japanese name": "ＢＲＩＮＧ ＴＨＥ ＳＯＵＬ： ＴＨＥ ＭＯＶＩＥ",
-          "sales": 9055,
-          "seats": 33852,
-          "showtimes": 227,
-          "theaters": 121,
-          "rank": 12,
-          "last_week_ratio": null
         },
         {
           "moviename": "Let’s go! Anpanman! Shine on! Vanilla Princess of the Ice Kingdom",
@@ -392,23 +332,43 @@
           "last_week_ratio": 218.6
         },
         {
-          "moviename": "Spider-Man: Far From Home",
-          "japanese name": "スパイダーマン ファー・フロム・ホーム",
-          "sales": 2080,
-          "seats": 8901,
-          "showtimes": 77,
-          "theaters": 197,
-          "rank": 14,
+          "moviename": "Movie version *Free!-Road to the World- Dream*",
+          "japanese name": "劇場版 Ｆｒｅｅ！－Ｒｏａｄ ｔｏ ｔｈｅ Ｗｏｒｌｄ－夢",
+          "sales": 785,
+          "seats": 6960,
+          "showtimes": 43,
+          "theaters": 62,
+          "rank": 19,
           "last_week_ratio": null
         },
         {
-          "moviename": "Child’s play",
-          "japanese name": "チャイルド・プレイ",
-          "sales": 1831,
-          "seats": 8830,
-          "showtimes": 62,
-          "theaters": 162,
-          "rank": 15,
+          "moviename": "BRIING THE SOUL: THE MOVIE",
+          "japanese name": "ＢＲＩＮＧ ＴＨＥ ＳＯＵＬ： ＴＨＥ ＭＯＶＩＥ",
+          "sales": 9055,
+          "seats": 33852,
+          "showtimes": 227,
+          "theaters": 121,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pet 2",
+          "japanese name": "ペット２",
+          "sales": 40082,
+          "seats": 96338,
+          "showtimes": 743,
+          "theaters": 293,
+          "rank": 6,
+          "last_week_ratio": 133.7
+        },
+        {
+          "moviename": "The Fabule",
+          "japanese name": "ザ・ファブル",
+          "sales": 530,
+          "seats": 3087,
+          "showtimes": 22,
+          "theaters": 44,
+          "rank": 23,
           "last_week_ratio": null
         },
         {
@@ -422,73 +382,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Theatrical Version Uta no ☆ Prince-sama♪ Maji LOVE Kingdom",
-          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥキングダム",
-          "sales": 1491,
-          "seats": 9364,
-          "showtimes": 54,
-          "theaters": 108,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Tokyo Ghoul: Tokyo Ghoul S",
-          "japanese name": "東京喰種 トーキョーグール Ｓ",
-          "sales": 1391,
-          "seats": 10347,
-          "showtimes": 82,
-          "theaters": 188,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie version *Free!-Road to the World- Dream*",
-          "japanese name": "劇場版 Ｆｒｅｅ！－Ｒｏａｄ ｔｏ ｔｈｅ Ｗｏｒｌｄ－夢",
-          "sales": 785,
-          "seats": 6960,
-          "showtimes": 43,
-          "theaters": 62,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Journalists",
-          "japanese name": "新聞記者",
-          "sales": 779,
-          "seats": 5899,
-          "showtimes": 38,
-          "theaters": 42,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Prometheus",
-          "japanese name": "プロメア",
-          "sales": 642,
-          "seats": 1597,
-          "showtimes": 10,
-          "theaters": 16,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Please! The Voice Actor Festival Live Viewing",
-          "japanese name": "お願い！真夏の声優まつり ライブ・ビューイング",
-          "sales": 624,
-          "seats": 1615,
-          "showtimes": 17,
-          "theaters": 18,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Fabule",
-          "japanese name": "ザ・ファブル",
-          "sales": 530,
-          "seats": 3087,
-          "showtimes": 22,
-          "theaters": 44,
-          "rank": 23,
+          "moviename": "Aladdin",
+          "japanese name": "アラジン",
+          "sales": 16280,
+          "seats": 41883,
+          "showtimes": 331,
+          "theaters": 287,
+          "rank": 10,
           "last_week_ratio": null
         },
         {
@@ -510,6 +410,106 @@
           "theaters": 19,
           "rank": 25,
           "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version Uta no ☆ Prince-sama♪ Maji LOVE Kingdom",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥキングダム",
+          "sales": 1491,
+          "seats": 9364,
+          "showtimes": 54,
+          "theaters": 108,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wild Speed Super Combo",
+          "japanese name": "ワイルド・スピード スーパーコンボ",
+          "sales": 49751,
+          "seats": 157574,
+          "showtimes": 1043,
+          "theaters": 293,
+          "rank": 5,
+          "last_week_ratio": 169.2
+        },
+        {
+          "moviename": "Journalists",
+          "japanese name": "新聞記者",
+          "sales": 779,
+          "seats": 5899,
+          "showtimes": 38,
+          "theaters": 42,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Movie: Kamen Rider Geiz/Ryusouger",
+          "japanese name": "劇場版 仮面ライダージオウ／騎士竜戦隊リュウソウジャー",
+          "sales": 15583,
+          "seats": 75713,
+          "showtimes": 630,
+          "theaters": 270,
+          "rank": 11,
+          "last_week_ratio": 197.3
+        },
+        {
+          "moviename": "Spider-Man: Far From Home",
+          "japanese name": "スパイダーマン ファー・フロム・ホーム",
+          "sales": 2080,
+          "seats": 8901,
+          "showtimes": 77,
+          "theaters": 197,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Archimedes’ Great War",
+          "japanese name": "アルキメデスの大戦",
+          "sales": 24988,
+          "seats": 92482,
+          "showtimes": 758,
+          "theaters": 288,
+          "rank": 7,
+          "last_week_ratio": 158.5
+        },
+        {
+          "moviename": "Toy Story 4",
+          "japanese name": "トイ・ストーリー４",
+          "sales": 85520,
+          "seats": 233272,
+          "showtimes": 1270,
+          "theaters": 294,
+          "rank": 4,
+          "last_week_ratio": 147.7
+        },
+        {
+          "moviename": "Please! The Voice Actor Festival Live Viewing",
+          "japanese name": "お願い！真夏の声優まつり ライブ・ビューイング",
+          "sales": 624,
+          "seats": 1615,
+          "showtimes": 17,
+          "theaters": 18,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ONE PIECE STAMPED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＳＴＡＭＰＥＤＥ",
+          "sales": 120459,
+          "seats": 389408,
+          "showtimes": 1484,
+          "theaters": 285,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dragon Quest: Your Story",
+          "japanese name": "ドラゴンクエスト ユア・ストーリー",
+          "sales": 19355,
+          "seats": 113167,
+          "showtimes": 875,
+          "theaters": 277,
+          "rank": 9,
+          "last_week_ratio": 123.3
         }
       ]
     },
@@ -517,6 +517,36 @@
       "title": "Including Independents",
       "time": "Final",
       "data": [
+        {
+          "moviename": "Prometheus",
+          "japanese name": "プロメア",
+          "sales": 1252,
+          "seats": 2577,
+          "showtimes": 16,
+          "theaters": 16,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Child’s play",
+          "japanese name": "チャイルド・プレイ",
+          "sales": 3678,
+          "seats": 20825,
+          "showtimes": 151,
+          "theaters": 162,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Tokyo Ghoul: Tokyo Ghoul S",
+          "japanese name": "東京喰種 トーキョーグール Ｓ",
+          "sales": 2280,
+          "seats": 20984,
+          "showtimes": 168,
+          "theaters": 188,
+          "rank": 18,
+          "last_week_ratio": null
+        },
         {
           "moviename": "LION KING",
           "japanese name": "ライオン・キング",
@@ -538,56 +568,6 @@
           "last_week_ratio": 166.3
         },
         {
-          "moviename": "ONE PIECE STAMPED",
-          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＳＴＡＭＰＥＤＥ",
-          "sales": 136766,
-          "seats": 481227,
-          "showtimes": 1831,
-          "theaters": 285,
-          "rank": 3,
-          "last_week_ratio": 18968.9
-        },
-        {
-          "moviename": "Toy Story 4",
-          "japanese name": "トイ・ストーリー４",
-          "sales": 90378,
-          "seats": 275312,
-          "showtimes": 1522,
-          "theaters": 294,
-          "rank": 4,
-          "last_week_ratio": 145
-        },
-        {
-          "moviename": "Wild Speed Super Combo",
-          "japanese name": "ワイルド・スピード スーパーコンボ",
-          "sales": 60048,
-          "seats": 213146,
-          "showtimes": 1397,
-          "theaters": 293,
-          "rank": 5,
-          "last_week_ratio": 157.8
-        },
-        {
-          "moviename": "Pet 2",
-          "japanese name": "ペット２",
-          "sales": 41031,
-          "seats": 102343,
-          "showtimes": 789,
-          "theaters": 293,
-          "rank": 6,
-          "last_week_ratio": 132.9
-        },
-        {
-          "moviename": "Archimedes’ Great War",
-          "japanese name": "アルキメデスの大戦",
-          "sales": 26953,
-          "seats": 113928,
-          "showtimes": 942,
-          "theaters": 288,
-          "rank": 7,
-          "last_week_ratio": 154.5
-        },
-        {
           "moviename": "Mewtwo's Revenge EVOLUTION",
           "japanese name": "ミュウツーの逆襲 ＥＶＯＬＵＴＩＯＮ",
           "sales": 23722,
@@ -598,34 +578,24 @@
           "last_week_ratio": 127.3
         },
         {
-          "moviename": "Dragon Quest: Your Story",
-          "japanese name": "ドラゴンクエスト ユア・ストーリー",
-          "sales": 21765,
-          "seats": 149064,
-          "showtimes": 1151,
-          "theaters": 277,
-          "rank": 9,
-          "last_week_ratio": 115.2
+          "moviename": "Let’s go! Anpanman! Shine on! Vanilla Princess of the Ice Kingdom",
+          "japanese name": "それいけ！アンパンマン きらめけ！アイスの国のバニラ姫",
+          "sales": 2339,
+          "seats": 30459,
+          "showtimes": 201,
+          "theaters": 202,
+          "rank": 17,
+          "last_week_ratio": 218.6
         },
         {
-          "moviename": "Aladdin",
-          "japanese name": "アラジン",
-          "sales": 18712,
-          "seats": 53025,
-          "showtimes": 422,
-          "theaters": 287,
-          "rank": 10,
+          "moviename": "Movie version *Free!-Road to the World- Dream*",
+          "japanese name": "劇場版 Ｆｒｅｅ！－Ｒｏａｄ ｔｏ ｔｈｅ Ｗｏｒｌｄ－夢",
+          "sales": 1043,
+          "seats": 9461,
+          "showtimes": 62,
+          "theaters": 62,
+          "rank": 20,
           "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Movie: Kamen Rider Geiz/Ryusouger",
-          "japanese name": "劇場版 仮面ライダージオウ／騎士竜戦隊リュウソウジャー",
-          "sales": 15640,
-          "seats": 77453,
-          "showtimes": 643,
-          "theaters": 270,
-          "rank": 11,
-          "last_week_ratio": 193.6
         },
         {
           "moviename": "BRIING THE SOUL: THE MOVIE",
@@ -638,33 +608,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Child’s play",
-          "japanese name": "チャイルド・プレイ",
-          "sales": 3678,
-          "seats": 20825,
-          "showtimes": 151,
-          "theaters": 162,
-          "rank": 13,
-          "last_week_ratio": null
+          "moviename": "Pet 2",
+          "japanese name": "ペット２",
+          "sales": 41031,
+          "seats": 102343,
+          "showtimes": 789,
+          "theaters": 293,
+          "rank": 6,
+          "last_week_ratio": 132.9
         },
         {
-          "moviename": "Spider-Man: Far From Home",
-          "japanese name": "スパイダーマン ファー・フロム・ホーム",
-          "sales": 3216,
-          "seats": 20713,
-          "showtimes": 175,
-          "theaters": 196,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version Uta no ☆ Prince-sama♪ Maji LOVE Kingdom",
-          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥキングダム",
-          "sales": 3099,
-          "seats": 17526,
-          "showtimes": 113,
-          "theaters": 108,
-          "rank": 15,
+          "moviename": "The Fabule",
+          "japanese name": "ザ・ファブル",
+          "sales": 736,
+          "seats": 4618,
+          "showtimes": 35,
+          "theaters": 44,
+          "rank": 22,
           "last_week_ratio": null
         },
         {
@@ -678,73 +638,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Let’s go! Anpanman! Shine on! Vanilla Princess of the Ice Kingdom",
-          "japanese name": "それいけ！アンパンマン きらめけ！アイスの国のバニラ姫",
-          "sales": 2339,
-          "seats": 30459,
-          "showtimes": 201,
-          "theaters": 202,
-          "rank": 17,
-          "last_week_ratio": 218.6
-        },
-        {
-          "moviename": "Tokyo Ghoul: Tokyo Ghoul S",
-          "japanese name": "東京喰種 トーキョーグール Ｓ",
-          "sales": 2280,
-          "seats": 20984,
-          "showtimes": 168,
-          "theaters": 188,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Prometheus",
-          "japanese name": "プロメア",
-          "sales": 1252,
-          "seats": 2577,
-          "showtimes": 16,
-          "theaters": 16,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie version *Free!-Road to the World- Dream*",
-          "japanese name": "劇場版 Ｆｒｅｅ！－Ｒｏａｄ ｔｏ ｔｈｅ Ｗｏｒｌｄ－夢",
-          "sales": 1043,
-          "seats": 9461,
-          "showtimes": 62,
-          "theaters": 62,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Journalists",
-          "japanese name": "新聞記者",
-          "sales": 825,
-          "seats": 7104,
-          "showtimes": 45,
-          "theaters": 42,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Fabule",
-          "japanese name": "ザ・ファブル",
-          "sales": 736,
-          "seats": 4618,
-          "showtimes": 35,
-          "theaters": 44,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Please! The Voice Actor Festival Live Viewing",
-          "japanese name": "お願い！真夏の声優まつり ライブ・ビューイング",
-          "sales": 624,
-          "seats": 1615,
-          "showtimes": 17,
-          "theaters": 18,
-          "rank": 23,
+          "moviename": "Aladdin",
+          "japanese name": "アラジン",
+          "sales": 18712,
+          "seats": 53025,
+          "showtimes": 422,
+          "theaters": 287,
+          "rank": 10,
           "last_week_ratio": null
         },
         {
@@ -766,6 +666,106 @@
           "theaters": 19,
           "rank": 25,
           "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version Uta no ☆ Prince-sama♪ Maji LOVE Kingdom",
+          "japanese name": "劇場版 うたの☆プリンスさまっ♪ マジＬＯＶＥキングダム",
+          "sales": 3099,
+          "seats": 17526,
+          "showtimes": 113,
+          "theaters": 108,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Wild Speed Super Combo",
+          "japanese name": "ワイルド・スピード スーパーコンボ",
+          "sales": 60048,
+          "seats": 213146,
+          "showtimes": 1397,
+          "theaters": 293,
+          "rank": 5,
+          "last_week_ratio": 157.8
+        },
+        {
+          "moviename": "Journalists",
+          "japanese name": "新聞記者",
+          "sales": 825,
+          "seats": 7104,
+          "showtimes": 45,
+          "theaters": 42,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Movie: Kamen Rider Geiz/Ryusouger",
+          "japanese name": "劇場版 仮面ライダージオウ／騎士竜戦隊リュウソウジャー",
+          "sales": 15640,
+          "seats": 77453,
+          "showtimes": 643,
+          "theaters": 270,
+          "rank": 11,
+          "last_week_ratio": 193.6
+        },
+        {
+          "moviename": "Spider-Man: Far From Home",
+          "japanese name": "スパイダーマン ファー・フロム・ホーム",
+          "sales": 3216,
+          "seats": 20713,
+          "showtimes": 175,
+          "theaters": 196,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Archimedes’ Great War",
+          "japanese name": "アルキメデスの大戦",
+          "sales": 26953,
+          "seats": 113928,
+          "showtimes": 942,
+          "theaters": 288,
+          "rank": 7,
+          "last_week_ratio": 154.5
+        },
+        {
+          "moviename": "Toy Story 4",
+          "japanese name": "トイ・ストーリー４",
+          "sales": 90378,
+          "seats": 275312,
+          "showtimes": 1522,
+          "theaters": 294,
+          "rank": 4,
+          "last_week_ratio": 145
+        },
+        {
+          "moviename": "Please! The Voice Actor Festival Live Viewing",
+          "japanese name": "お願い！真夏の声優まつり ライブ・ビューイング",
+          "sales": 624,
+          "seats": 1615,
+          "showtimes": 17,
+          "theaters": 18,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ONE PIECE STAMPED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＳＴＡＭＰＥＤＥ",
+          "sales": 136766,
+          "seats": 481227,
+          "showtimes": 1831,
+          "theaters": 285,
+          "rank": 3,
+          "last_week_ratio": 18968.9
+        },
+        {
+          "moviename": "Dragon Quest: Your Story",
+          "japanese name": "ドラゴンクエスト ユア・ストーリー",
+          "sales": 21765,
+          "seats": 149064,
+          "showtimes": 1151,
+          "theaters": 277,
+          "rank": 9,
+          "last_week_ratio": 115.2
         }
       ]
     }

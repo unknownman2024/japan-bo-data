@@ -6,86 +6,6 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "Starting today, I am!!! The theatrical version",
-          "japanese name": "今日から俺は！！劇場版",
-          "sales": 56457,
-          "seats": 130840,
-          "showtimes": 1292,
-          "theaters": 304,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Confident Man JP: Princess Edition",
-          "japanese name": "コンフィデンスマンＪＰ プリンセス編",
-          "sales": 41978,
-          "seats": 167526,
-          "showtimes": 1377,
-          "theaters": 302,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version: Secret × Warrior: Phantom Mirage! ~Let’s Turn It into a Movie~",
-          "japanese name": "劇場版 ひみつ×戦士 ファントミラージュ！～映画になってちょーだいします～",
-          "sales": 5413,
-          "seats": 44282,
-          "showtimes": 504,
-          "theaters": 138,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Spirited Away",
-          "japanese name": "千と千尋の神隠し",
-          "sales": 3722,
-          "seats": 15804,
-          "showtimes": 244,
-          "theaters": 300,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Princess Mononoke",
-          "japanese name": "もののけ姫",
-          "sales": 3610,
-          "seats": 11833,
-          "showtimes": 193,
-          "theaters": 295,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Nausicaä of the Valley of the Wind",
-          "japanese name": "風の谷のナウシカ",
-          "sales": 2880,
-          "seats": 10505,
-          "showtimes": 178,
-          "theaters": 294,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "What’s the point of being popular?",
-          "japanese name": "私がモテてどうすんだ",
-          "sales": 1716,
-          "seats": 12554,
-          "showtimes": 230,
-          "theaters": 249,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "47 meters beneath the sea: The ancient Maya’s Labyrinth of Death",
-          "japanese name": "海底４７メートル 古代マヤの死の迷宮",
-          "sales": 1508,
-          "seats": 15734,
-          "showtimes": 241,
-          "theaters": 121,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Dr. Dolittle",
           "japanese name": "ドクター・ドリトル",
           "sales": 1105,
@@ -93,26 +13,6 @@
           "showtimes": 98,
           "theaters": 149,
           "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Invisible Man",
-          "japanese name": "透明人間",
-          "sales": 1059,
-          "seats": 5381,
-          "showtimes": 101,
-          "theaters": 158,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Steps",
-          "japanese name": "ステップ",
-          "sales": 977,
-          "seats": 9032,
-          "showtimes": 168,
-          "theaters": 190,
-          "rank": 11,
           "last_week_ratio": null
         },
         {
@@ -126,13 +26,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Mobile Police Patlabor: The Movie",
-          "japanese name": "機動警察パトレイバー ＴＨＥ ＭＯＶＩＥ",
-          "sales": 789,
-          "seats": 3120,
-          "showtimes": 67,
-          "theaters": 56,
-          "rank": 13,
+          "moviename": "Theatrical Version: Secret × Warrior: Phantom Mirage! ~Let’s Turn It into a Movie~",
+          "japanese name": "劇場版 ひみつ×戦士 ファントミラージュ！～映画になってちょーだいします～",
+          "sales": 5413,
+          "seats": 44282,
+          "showtimes": 504,
+          "theaters": 138,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Tale of the Wicked",
+          "japanese name": "悪人伝",
+          "sales": 353,
+          "seats": 2620,
+          "showtimes": 50,
+          "theaters": 51,
+          "rank": 23,
           "last_week_ratio": null
         },
         {
@@ -146,13 +56,63 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "MOTHER Mother",
-          "japanese name": "ＭＯＴＨＥＲ マザー",
-          "sales": 506,
-          "seats": 5074,
-          "showtimes": 87,
-          "theaters": 196,
-          "rank": 15,
+          "moviename": "Rambou Last Blood",
+          "japanese name": "ランボー ラスト・ブラッド",
+          "sales": 367,
+          "seats": 5341,
+          "showtimes": 86,
+          "theaters": 276,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Starting today, I am!!! The theatrical version",
+          "japanese name": "今日から俺は！！劇場版",
+          "sales": 56457,
+          "seats": 130840,
+          "showtimes": 1292,
+          "theaters": 304,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Police Patlabor: The Movie",
+          "japanese name": "機動警察パトレイバー ＴＨＥ ＭＯＶＩＥ",
+          "sales": 789,
+          "seats": 3120,
+          "showtimes": 67,
+          "theaters": 56,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Steps",
+          "japanese name": "ステップ",
+          "sales": 977,
+          "seats": 9032,
+          "showtimes": 168,
+          "theaters": 190,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hunter Killer, dive in.",
+          "japanese name": "ハンターキラー 潜航せよ",
+          "sales": 324,
+          "seats": 2535,
+          "showtimes": 32,
+          "theaters": 26,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "47 meters beneath the sea: The ancient Maya’s Labyrinth of Death",
+          "japanese name": "海底４７メートル 古代マヤの死の迷宮",
+          "sales": 1508,
+          "seats": 15734,
+          "showtimes": 241,
+          "theaters": 121,
+          "rank": 8,
           "last_week_ratio": null
         },
         {
@@ -166,13 +126,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Attack on Titan: Chronicle",
-          "japanese name": "進撃の巨人 クロニクル",
-          "sales": 448,
-          "seats": 2445,
-          "showtimes": 50,
-          "theaters": 66,
-          "rank": 17,
+          "moviename": "Princess Mononoke",
+          "japanese name": "もののけ姫",
+          "sales": 3610,
+          "seats": 11833,
+          "showtimes": 193,
+          "theaters": 295,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Invisible Man",
+          "japanese name": "透明人間",
+          "sales": 1059,
+          "seats": 5381,
+          "showtimes": 101,
+          "theaters": 158,
+          "rank": 10,
           "last_week_ratio": null
         },
         {
@@ -186,23 +156,53 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Black and Blue",
-          "japanese name": "ブラック アンド ブルー",
-          "sales": 395,
-          "seats": 2679,
-          "showtimes": 45,
-          "theaters": 44,
-          "rank": 19,
+          "moviename": "Nausicaä of the Valley of the Wind",
+          "japanese name": "風の谷のナウシカ",
+          "sales": 2880,
+          "seats": 10505,
+          "showtimes": 178,
+          "theaters": 294,
+          "rank": 6,
           "last_week_ratio": null
         },
         {
-          "moviename": "Rambou Last Blood",
-          "japanese name": "ランボー ラスト・ブラッド",
-          "sales": 367,
-          "seats": 5341,
-          "showtimes": 86,
-          "theaters": 276,
-          "rank": 20,
+          "moviename": "Confident Man JP: Princess Edition",
+          "japanese name": "コンフィデンスマンＪＰ プリンセス編",
+          "sales": 41978,
+          "seats": 167526,
+          "showtimes": 1377,
+          "theaters": 302,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Attack on Titan: Chronicle",
+          "japanese name": "進撃の巨人 クロニクル",
+          "sales": 448,
+          "seats": 2445,
+          "showtimes": 50,
+          "theaters": 66,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ged Battle Chronicle",
+          "japanese name": "ゲド戦記",
+          "sales": 276,
+          "seats": 4038,
+          "showtimes": 63,
+          "theaters": 283,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Spirited Away",
+          "japanese name": "千と千尋の神隠し",
+          "sales": 3722,
+          "seats": 15804,
+          "showtimes": 244,
+          "theaters": 300,
+          "rank": 4,
           "last_week_ratio": null
         },
         {
@@ -226,33 +226,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The Tale of the Wicked",
-          "japanese name": "悪人伝",
-          "sales": 353,
-          "seats": 2620,
-          "showtimes": 50,
-          "theaters": 51,
-          "rank": 23,
+          "moviename": "What’s the point of being popular?",
+          "japanese name": "私がモテてどうすんだ",
+          "sales": 1716,
+          "seats": 12554,
+          "showtimes": 230,
+          "theaters": 249,
+          "rank": 7,
           "last_week_ratio": null
         },
         {
-          "moviename": "Hunter Killer, dive in.",
-          "japanese name": "ハンターキラー 潜航せよ",
-          "sales": 324,
-          "seats": 2535,
-          "showtimes": 32,
-          "theaters": 26,
-          "rank": 24,
+          "moviename": "Black and Blue",
+          "japanese name": "ブラック アンド ブルー",
+          "sales": 395,
+          "seats": 2679,
+          "showtimes": 45,
+          "theaters": 44,
+          "rank": 19,
           "last_week_ratio": null
         },
         {
-          "moviename": "Ged Battle Chronicle",
-          "japanese name": "ゲド戦記",
-          "sales": 276,
-          "seats": 4038,
-          "showtimes": 63,
-          "theaters": 283,
-          "rank": 25,
+          "moviename": "MOTHER Mother",
+          "japanese name": "ＭＯＴＨＥＲ マザー",
+          "sales": 506,
+          "seats": 5074,
+          "showtimes": 87,
+          "theaters": 196,
+          "rank": 15,
           "last_week_ratio": null
         }
       ]
@@ -262,106 +262,6 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "Starting today, I am!!! The theatrical version",
-          "japanese name": "今日から俺は！！劇場版",
-          "sales": 106396,
-          "seats": 237867,
-          "showtimes": 2329,
-          "theaters": 304,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Confident Man JP: Princess Edition",
-          "japanese name": "コンフィデンスマンＪＰ プリンセス編",
-          "sales": 81917,
-          "seats": 299461,
-          "showtimes": 2457,
-          "theaters": 302,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Princess Mononoke",
-          "japanese name": "もののけ姫",
-          "sales": 9288,
-          "seats": 25284,
-          "showtimes": 399,
-          "theaters": 295,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Spirited Away",
-          "japanese name": "千と千尋の神隠し",
-          "sales": 9246,
-          "seats": 28864,
-          "showtimes": 448,
-          "theaters": 300,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Nausicaä of the Valley of the Wind",
-          "japanese name": "風の谷のナウシカ",
-          "sales": 7128,
-          "seats": 22325,
-          "showtimes": 363,
-          "theaters": 294,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version: Secret × Warrior: Phantom Mirage! ~Let’s Turn It into a Movie~",
-          "japanese name": "劇場版 ひみつ×戦士 ファントミラージュ！～映画になってちょーだいします～",
-          "sales": 6902,
-          "seats": 64508,
-          "showtimes": 732,
-          "theaters": 138,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "What’s the point of being popular?",
-          "japanese name": "私がモテてどうすんだ",
-          "sales": 3063,
-          "seats": 24269,
-          "showtimes": 429,
-          "theaters": 249,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Invisible Man",
-          "japanese name": "透明人間",
-          "sales": 2921,
-          "seats": 11660,
-          "showtimes": 224,
-          "theaters": 158,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "47 meters beneath the sea: The ancient Maya’s Labyrinth of Death",
-          "japanese name": "海底４７メートル 古代マヤの死の迷宮",
-          "sales": 2731,
-          "seats": 27372,
-          "showtimes": 408,
-          "theaters": 121,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Steps",
-          "japanese name": "ステップ",
-          "sales": 1972,
-          "seats": 16452,
-          "showtimes": 304,
-          "theaters": 190,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Dr. Dolittle",
           "japanese name": "ドクター・ドリトル",
           "sales": 1837,
@@ -369,26 +269,6 @@
           "showtimes": 148,
           "theaters": 149,
           "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "MOTHER Mother",
-          "japanese name": "ＭＯＴＨＥＲ マザー",
-          "sales": 1491,
-          "seats": 10531,
-          "showtimes": 182,
-          "theaters": 196,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Mobile Police Patlabor: The Movie",
-          "japanese name": "機動警察パトレイバー ＴＨＥ ＭＯＶＩＥ",
-          "sales": 1365,
-          "seats": 5152,
-          "showtimes": 111,
-          "theaters": 56,
-          "rank": 13,
           "last_week_ratio": null
         },
         {
@@ -402,43 +282,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Ged Battle Chronicle",
-          "japanese name": "ゲド戦記",
-          "sales": 1146,
-          "seats": 10206,
-          "showtimes": 164,
-          "theaters": 283,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Attack on Titan: Chronicle",
-          "japanese name": "進撃の巨人 クロニクル",
-          "sales": 1139,
-          "seats": 5213,
-          "showtimes": 104,
-          "theaters": 66,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "黑暗骑士",
-          "japanese name": "ダークナイト",
-          "sales": 964,
-          "seats": 10138,
-          "showtimes": 113,
-          "theaters": 93,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Rambou Last Blood",
-          "japanese name": "ランボー ラスト・ブラッド",
-          "sales": 935,
-          "seats": 12171,
-          "showtimes": 190,
-          "theaters": 276,
-          "rank": 18,
+          "moviename": "Theatrical Version: Secret × Warrior: Phantom Mirage! ~Let’s Turn It into a Movie~",
+          "japanese name": "劇場版 ひみつ×戦士 ファントミラージュ！～映画になってちょーだいします～",
+          "sales": 6902,
+          "seats": 64508,
+          "showtimes": 732,
+          "theaters": 138,
+          "rank": 6,
           "last_week_ratio": null
         },
         {
@@ -452,23 +302,43 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Sonic the Movie",
-          "japanese name": "ソニック・ザ・ムービー",
-          "sales": 780,
-          "seats": 9585,
-          "showtimes": 155,
-          "theaters": 166,
-          "rank": 20,
+          "moviename": "Rambou Last Blood",
+          "japanese name": "ランボー ラスト・ブラッド",
+          "sales": 935,
+          "seats": 12171,
+          "showtimes": 190,
+          "theaters": 276,
+          "rank": 18,
           "last_week_ratio": null
         },
         {
-          "moviename": "瓦维斯·韦布斯",
-          "japanese name": "ＷＡＶＥＳ ウェイブス",
-          "sales": 693,
-          "seats": 4961,
-          "showtimes": 96,
-          "theaters": 108,
-          "rank": 21,
+          "moviename": "Starting today, I am!!! The theatrical version",
+          "japanese name": "今日から俺は！！劇場版",
+          "sales": 106396,
+          "seats": 237867,
+          "showtimes": 2329,
+          "theaters": 304,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Police Patlabor: The Movie",
+          "japanese name": "機動警察パトレイバー ＴＨＥ ＭＯＶＩＥ",
+          "sales": 1365,
+          "seats": 5152,
+          "showtimes": 111,
+          "theaters": 56,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Steps",
+          "japanese name": "ステップ",
+          "sales": 1972,
+          "seats": 16452,
+          "showtimes": 304,
+          "theaters": 190,
+          "rank": 10,
           "last_week_ratio": null
         },
         {
@@ -482,6 +352,46 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "47 meters beneath the sea: The ancient Maya’s Labyrinth of Death",
+          "japanese name": "海底４７メートル 古代マヤの死の迷宮",
+          "sales": 2731,
+          "seats": 27372,
+          "showtimes": 408,
+          "theaters": 121,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sonic the Movie",
+          "japanese name": "ソニック・ザ・ムービー",
+          "sales": 780,
+          "seats": 9585,
+          "showtimes": 155,
+          "theaters": 166,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Princess Mononoke",
+          "japanese name": "もののけ姫",
+          "sales": 9288,
+          "seats": 25284,
+          "showtimes": 399,
+          "theaters": 295,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "瓦维斯·韦布斯",
+          "japanese name": "ＷＡＶＥＳ ウェイブス",
+          "sales": 693,
+          "seats": 4961,
+          "showtimes": 96,
+          "theaters": 108,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Story of My Life: My Youthful Days",
           "japanese name": "ストーリー・オブ・マイライフ わたしの若草物語",
           "sales": 660,
@@ -489,6 +399,96 @@
           "showtimes": 45,
           "theaters": 50,
           "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Invisible Man",
+          "japanese name": "透明人間",
+          "sales": 2921,
+          "seats": 11660,
+          "showtimes": 224,
+          "theaters": 158,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "黑暗骑士",
+          "japanese name": "ダークナイト",
+          "sales": 964,
+          "seats": 10138,
+          "showtimes": 113,
+          "theaters": 93,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nausicaä of the Valley of the Wind",
+          "japanese name": "風の谷のナウシカ",
+          "sales": 7128,
+          "seats": 22325,
+          "showtimes": 363,
+          "theaters": 294,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Confident Man JP: Princess Edition",
+          "japanese name": "コンフィデンスマンＪＰ プリンセス編",
+          "sales": 81917,
+          "seats": 299461,
+          "showtimes": 2457,
+          "theaters": 302,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Attack on Titan: Chronicle",
+          "japanese name": "進撃の巨人 クロニクル",
+          "sales": 1139,
+          "seats": 5213,
+          "showtimes": 104,
+          "theaters": 66,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ged Battle Chronicle",
+          "japanese name": "ゲド戦記",
+          "sales": 1146,
+          "seats": 10206,
+          "showtimes": 164,
+          "theaters": 283,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Spirited Away",
+          "japanese name": "千と千尋の神隠し",
+          "sales": 9246,
+          "seats": 28864,
+          "showtimes": 448,
+          "theaters": 300,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Greatest Showman",
+          "japanese name": "グレイテスト・ショーマン",
+          "sales": 659,
+          "seats": 4134,
+          "showtimes": 33,
+          "theaters": 24,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "What’s the point of being popular?",
+          "japanese name": "私がモテてどうすんだ",
+          "sales": 3063,
+          "seats": 24269,
+          "showtimes": 429,
+          "theaters": 249,
+          "rank": 7,
           "last_week_ratio": null
         },
         {
@@ -502,13 +502,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Greatest Showman",
-          "japanese name": "グレイテスト・ショーマン",
-          "sales": 659,
-          "seats": 4134,
-          "showtimes": 33,
-          "theaters": 24,
-          "rank": 25,
+          "moviename": "MOTHER Mother",
+          "japanese name": "ＭＯＴＨＥＲ マザー",
+          "sales": 1491,
+          "seats": 10531,
+          "showtimes": 182,
+          "theaters": 196,
+          "rank": 12,
           "last_week_ratio": null
         }
       ]
@@ -518,106 +518,6 @@
       "time": "Final",
       "data": [
         {
-          "moviename": "Starting today, I am!!! The theatrical version",
-          "japanese name": "今日から俺は！！劇場版",
-          "sales": 117760,
-          "seats": 279499,
-          "showtimes": 2717,
-          "theaters": 304,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Confident Man JP: Princess Edition",
-          "japanese name": "コンフィデンスマンＪＰ プリンセス編",
-          "sales": 97104,
-          "seats": 351954,
-          "showtimes": 2868,
-          "theaters": 302,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Princess Mononoke",
-          "japanese name": "もののけ姫",
-          "sales": 11490,
-          "seats": 32751,
-          "showtimes": 519,
-          "theaters": 295,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Spirited Away",
-          "japanese name": "千と千尋の神隠し",
-          "sales": 10763,
-          "seats": 35074,
-          "showtimes": 546,
-          "theaters": 300,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Nausicaä of the Valley of the Wind",
-          "japanese name": "風の谷のナウシカ",
-          "sales": 8407,
-          "seats": 28350,
-          "showtimes": 457,
-          "theaters": 294,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version: Secret × Warrior: Phantom Mirage! ~Let’s Turn It into a Movie~",
-          "japanese name": "劇場版 ひみつ×戦士 ファントミラージュ！～映画になってちょーだいします～",
-          "sales": 6932,
-          "seats": 66245,
-          "showtimes": 752,
-          "theaters": 138,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Invisible Man",
-          "japanese name": "透明人間",
-          "sales": 3798,
-          "seats": 18196,
-          "showtimes": 338,
-          "theaters": 158,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "47 meters beneath the sea: The ancient Maya’s Labyrinth of Death",
-          "japanese name": "海底４７メートル 古代マヤの死の迷宮",
-          "sales": 3341,
-          "seats": 36284,
-          "showtimes": 530,
-          "theaters": 121,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "What’s the point of being popular?",
-          "japanese name": "私がモテてどうすんだ",
-          "sales": 3207,
-          "seats": 27143,
-          "showtimes": 475,
-          "theaters": 249,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Steps",
-          "japanese name": "ステップ",
-          "sales": 2286,
-          "seats": 20384,
-          "showtimes": 369,
-          "theaters": 190,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Dr. Dolittle",
           "japanese name": "ドクター・ドリトル",
           "sales": 1888,
@@ -625,46 +525,6 @@
           "showtimes": 161,
           "theaters": 149,
           "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "MOTHER Mother",
-          "japanese name": "ＭＯＴＨＥＲ マザー",
-          "sales": 1826,
-          "seats": 13945,
-          "showtimes": 234,
-          "theaters": 196,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Mobile Police Patlabor: The Movie",
-          "japanese name": "機動警察パトレイバー ＴＨＥ ＭＯＶＩＥ",
-          "sales": 1748,
-          "seats": 7042,
-          "showtimes": 151,
-          "theaters": 56,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Ged Battle Chronicle",
-          "japanese name": "ゲド戦記",
-          "sales": 1720,
-          "seats": 16863,
-          "showtimes": 270,
-          "theaters": 283,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Rambou Last Blood",
-          "japanese name": "ランボー ラスト・ブラッド",
-          "sales": 1431,
-          "seats": 19810,
-          "showtimes": 303,
-          "theaters": 276,
-          "rank": 15,
           "last_week_ratio": null
         },
         {
@@ -678,63 +538,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Attack on Titan: Chronicle",
-          "japanese name": "進撃の巨人 クロニクル",
-          "sales": 1330,
-          "seats": 7744,
-          "showtimes": 148,
-          "theaters": 66,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "黑暗骑士",
-          "japanese name": "ダークナイト",
-          "sales": 1229,
-          "seats": 14235,
-          "showtimes": 150,
-          "theaters": 93,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Wednesday disappeared.",
-          "japanese name": "水曜日が消えた",
-          "sales": 1012,
-          "seats": 5160,
-          "showtimes": 90,
-          "theaters": 58,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "瓦维斯·韦布斯",
-          "japanese name": "ＷＡＶＥＳ ウェイブス",
-          "sales": 926,
-          "seats": 7325,
-          "showtimes": 138,
-          "theaters": 108,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Sonic the Movie",
-          "japanese name": "ソニック・ザ・ムービー",
-          "sales": 840,
-          "seats": 10424,
-          "showtimes": 168,
-          "theaters": 166,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Black and Blue",
-          "japanese name": "ブラック アンド ブルー",
-          "sales": 833,
-          "seats": 7472,
-          "showtimes": 120,
-          "theaters": 44,
-          "rank": 22,
+          "moviename": "Theatrical Version: Secret × Warrior: Phantom Mirage! ~Let’s Turn It into a Movie~",
+          "japanese name": "劇場版 ひみつ×戦士 ファントミラージュ！～映画になってちょーだいします～",
+          "sales": 6932,
+          "seats": 66245,
+          "showtimes": 752,
+          "theaters": 138,
+          "rank": 6,
           "last_week_ratio": null
         },
         {
@@ -748,6 +558,56 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Wednesday disappeared.",
+          "japanese name": "水曜日が消えた",
+          "sales": 1012,
+          "seats": 5160,
+          "showtimes": 90,
+          "theaters": 58,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Rambou Last Blood",
+          "japanese name": "ランボー ラスト・ブラッド",
+          "sales": 1431,
+          "seats": 19810,
+          "showtimes": 303,
+          "theaters": 276,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Starting today, I am!!! The theatrical version",
+          "japanese name": "今日から俺は！！劇場版",
+          "sales": 117760,
+          "seats": 279499,
+          "showtimes": 2717,
+          "theaters": 304,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Mobile Police Patlabor: The Movie",
+          "japanese name": "機動警察パトレイバー ＴＨＥ ＭＯＶＩＥ",
+          "sales": 1748,
+          "seats": 7042,
+          "showtimes": 151,
+          "theaters": 56,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Steps",
+          "japanese name": "ステップ",
+          "sales": 2286,
+          "seats": 20384,
+          "showtimes": 369,
+          "theaters": 190,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Hunter Killer, dive in.",
           "japanese name": "ハンターキラー 潜航せよ",
           "sales": 725,
@@ -758,6 +618,116 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "47 meters beneath the sea: The ancient Maya’s Labyrinth of Death",
+          "japanese name": "海底４７メートル 古代マヤの死の迷宮",
+          "sales": 3341,
+          "seats": 36284,
+          "showtimes": 530,
+          "theaters": 121,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Sonic the Movie",
+          "japanese name": "ソニック・ザ・ムービー",
+          "sales": 840,
+          "seats": 10424,
+          "showtimes": 168,
+          "theaters": 166,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Princess Mononoke",
+          "japanese name": "もののけ姫",
+          "sales": 11490,
+          "seats": 32751,
+          "showtimes": 519,
+          "theaters": 295,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "瓦维斯·韦布斯",
+          "japanese name": "ＷＡＶＥＳ ウェイブス",
+          "sales": 926,
+          "seats": 7325,
+          "showtimes": 138,
+          "theaters": 108,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Invisible Man",
+          "japanese name": "透明人間",
+          "sales": 3798,
+          "seats": 18196,
+          "showtimes": 338,
+          "theaters": 158,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "黑暗骑士",
+          "japanese name": "ダークナイト",
+          "sales": 1229,
+          "seats": 14235,
+          "showtimes": 150,
+          "theaters": 93,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Nausicaä of the Valley of the Wind",
+          "japanese name": "風の谷のナウシカ",
+          "sales": 8407,
+          "seats": 28350,
+          "showtimes": 457,
+          "theaters": 294,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Confident Man JP: Princess Edition",
+          "japanese name": "コンフィデンスマンＪＰ プリンセス編",
+          "sales": 97104,
+          "seats": 351954,
+          "showtimes": 2868,
+          "theaters": 302,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Attack on Titan: Chronicle",
+          "japanese name": "進撃の巨人 クロニクル",
+          "sales": 1330,
+          "seats": 7744,
+          "showtimes": 148,
+          "theaters": 66,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ged Battle Chronicle",
+          "japanese name": "ゲド戦記",
+          "sales": 1720,
+          "seats": 16863,
+          "showtimes": 270,
+          "theaters": 283,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Spirited Away",
+          "japanese name": "千と千尋の神隠し",
+          "sales": 10763,
+          "seats": 35074,
+          "showtimes": 546,
+          "theaters": 300,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Greatest Showman",
           "japanese name": "グレイテスト・ショーマン",
           "sales": 720,
@@ -765,6 +735,36 @@
           "showtimes": 38,
           "theaters": 24,
           "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "What’s the point of being popular?",
+          "japanese name": "私がモテてどうすんだ",
+          "sales": 3207,
+          "seats": 27143,
+          "showtimes": 475,
+          "theaters": 249,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black and Blue",
+          "japanese name": "ブラック アンド ブルー",
+          "sales": 833,
+          "seats": 7472,
+          "showtimes": 120,
+          "theaters": 44,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MOTHER Mother",
+          "japanese name": "ＭＯＴＨＥＲ マザー",
+          "sales": 1826,
+          "seats": 13945,
+          "showtimes": 234,
+          "theaters": 196,
+          "rank": 12,
           "last_week_ratio": null
         }
       ]

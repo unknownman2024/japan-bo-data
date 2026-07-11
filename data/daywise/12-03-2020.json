@@ -16,6 +16,26 @@
       "time": "Final",
       "data": [
         {
+          "moviename": "Digimon Adventure: Last Evolution Kizuna",
+          "japanese name": "デジモンアドベンチャー ＬＡＳＴ ＥＶＯＬＵＴＩＯＮ 絆",
+          "sales": 2367,
+          "seats": 19743,
+          "showtimes": 112,
+          "theaters": 40,
+          "rank": 14,
+          "last_week_ratio": 130.3
+        },
+        {
+          "moviename": "Midsummer",
+          "japanese name": "ミッドサマー",
+          "sales": 4425,
+          "seats": 58402,
+          "showtimes": 295,
+          "theaters": 98,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Fukushima 50",
           "japanese name": "Ｆｕｋｕｓｈｉｍａ ５０",
           "sales": 23890,
@@ -23,56 +43,6 @@
           "showtimes": 1260,
           "theaters": 266,
           "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Masked Ward",
-          "japanese name": "仮面病棟",
-          "sales": 22003,
-          "seats": 291475,
-          "showtimes": 1230,
-          "theaters": 258,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "I just dropped my phone, yet I’m now trapped as a murderer.",
-          "japanese name": "スマホを落としただけなのに 囚われの殺人鬼",
-          "sales": 11908,
-          "seats": 130299,
-          "showtimes": 873,
-          "theaters": 253,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Parasite: The Family in the Semi-Basement",
-          "japanese name": "パラサイト 半地下の家族",
-          "sales": 11257,
-          "seats": 190373,
-          "showtimes": 889,
-          "theaters": 240,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Kanamara Village",
-          "japanese name": "犬鳴村",
-          "sales": 7522,
-          "seats": 64669,
-          "showtimes": 396,
-          "theaters": 154,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Judy, Beyond the Rainbow",
-          "japanese name": "ジュディ 虹の彼方に",
-          "sales": 6481,
-          "seats": 182312,
-          "showtimes": 972,
-          "theaters": 229,
-          "rank": 6,
           "last_week_ratio": null
         },
         {
@@ -86,103 +56,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The Call of Wildness",
-          "japanese name": "野性の呼び声",
-          "sales": 4857,
-          "seats": 89273,
-          "showtimes": 681,
-          "theaters": 254,
-          "rank": 8,
-          "last_week_ratio": 117.4
-        },
-        {
-          "moviename": "Midsummer",
-          "japanese name": "ミッドサマー",
-          "sales": 4425,
-          "seats": 58402,
-          "showtimes": 295,
-          "theaters": 98,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "SHIROBAKO",
-          "japanese name": "ＳＨＩＲＯＢＡＫＯ",
-          "sales": 4379,
-          "seats": 73142,
-          "showtimes": 424,
-          "theaters": 129,
-          "rank": 10,
-          "last_week_ratio": 100.6
-        },
-        {
-          "moviename": "1917 A Messenger Who Risked Their Life",
-          "japanese name": "１９１７ 命をかけた伝令",
-          "sales": 3151,
-          "seats": 61218,
-          "showtimes": 394,
-          "theaters": 237,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Scary Stories: Books That Are Scary",
-          "japanese name": "スケアリーストーリーズ 怖い本",
-          "sales": 3044,
-          "seats": 37423,
-          "showtimes": 303,
-          "theaters": 149,
-          "rank": 12,
-          "last_week_ratio": 102.1
-        },
-        {
-          "moviename": "Charlie’s Angel",
-          "japanese name": "チャーリーズ・エンジェル",
-          "sales": 2807,
-          "seats": 33426,
-          "showtimes": 270,
-          "theaters": 222,
-          "rank": 13,
-          "last_week_ratio": 127
-        },
-        {
-          "moviename": "Digimon Adventure: Last Evolution Kizuna",
-          "japanese name": "デジモンアドベンチャー ＬＡＳＴ ＥＶＯＬＵＴＩＯＮ 絆",
-          "sales": 2367,
-          "seats": 19743,
-          "showtimes": 112,
-          "theaters": 40,
-          "rank": 14,
-          "last_week_ratio": 130.3
-        },
-        {
-          "moviename": "Theatrical Version: Maid in Abyss: Dawn of the Deep Soul",
-          "japanese name": "劇場版 メイドインアビス 深き魂の黎明",
-          "sales": 2169,
-          "seats": 22380,
-          "showtimes": 200,
-          "theaters": 98,
-          "rank": 15,
-          "last_week_ratio": 120.4
-        },
-        {
-          "moviename": "Frozen 2",
-          "japanese name": "アナと雪の女王２",
-          "sales": 2157,
-          "seats": 32676,
-          "showtimes": 242,
-          "theaters": 247,
-          "rank": 16,
-          "last_week_ratio": 191.7
-        },
-        {
-          "moviename": "First Love",
-          "japanese name": "初恋",
-          "sales": 2142,
-          "seats": 31585,
-          "showtimes": 251,
-          "theaters": 98,
-          "rank": 17,
+          "moviename": "AI collapse",
+          "japanese name": "ＡＩ崩壊",
+          "sales": 1425,
+          "seats": 26505,
+          "showtimes": 199,
+          "theaters": 203,
+          "rank": 21,
           "last_week_ratio": null
         },
         {
@@ -196,6 +76,46 @@
           "last_week_ratio": 252.4
         },
         {
+          "moviename": "The Call of Wildness",
+          "japanese name": "野性の呼び声",
+          "sales": 4857,
+          "seats": 89273,
+          "showtimes": 681,
+          "theaters": 254,
+          "rank": 8,
+          "last_week_ratio": 117.4
+        },
+        {
+          "moviename": "Judy, Beyond the Rainbow",
+          "japanese name": "ジュディ 虹の彼方に",
+          "sales": 6481,
+          "seats": 182312,
+          "showtimes": 972,
+          "theaters": 229,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I just dropped my phone, yet I’m now trapped as a murderer.",
+          "japanese name": "スマホを落としただけなのに 囚われの殺人鬼",
+          "sales": 11908,
+          "seats": 130299,
+          "showtimes": 873,
+          "theaters": 253,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Back to the Future",
+          "japanese name": "バック・トゥ・ザ・フューチャー",
+          "sales": 1205,
+          "seats": 5305,
+          "showtimes": 38,
+          "theaters": 35,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Scandal",
           "japanese name": "スキャンダル",
           "sales": 1543,
@@ -203,26 +123,6 @@
           "showtimes": 254,
           "theaters": 170,
           "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version: Delicious School Meals: Final Battle",
-          "japanese name": "劇場版 おいしい給食 Ｆｉｎａｌ Ｂａｔｔｌｅ",
-          "sales": 1511,
-          "seats": 31413,
-          "showtimes": 233,
-          "theaters": 82,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "AI collapse",
-          "japanese name": "ＡＩ崩壊",
-          "sales": 1425,
-          "seats": 26505,
-          "showtimes": 199,
-          "theaters": 203,
-          "rank": 21,
           "last_week_ratio": null
         },
         {
@@ -236,14 +136,74 @@
           "last_week_ratio": 118.4
         },
         {
-          "moviename": "Back to the Future",
-          "japanese name": "バック・トゥ・ザ・フューチャー",
-          "sales": 1205,
-          "seats": 5305,
-          "showtimes": 38,
-          "theaters": 35,
-          "rank": 23,
+          "moviename": "Black Justice: A Miracle Starting from 0%",
+          "japanese name": "黒い司法 ０％からの奇跡",
+          "sales": 953,
+          "seats": 12410,
+          "showtimes": 106,
+          "theaters": 42,
+          "rank": 25,
           "last_week_ratio": null
+        },
+        {
+          "moviename": "1917 A Messenger Who Risked Their Life",
+          "japanese name": "１９１７ 命をかけた伝令",
+          "sales": 3151,
+          "seats": 61218,
+          "showtimes": 394,
+          "theaters": 237,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Frozen 2",
+          "japanese name": "アナと雪の女王２",
+          "sales": 2157,
+          "seats": 32676,
+          "showtimes": 242,
+          "theaters": 247,
+          "rank": 16,
+          "last_week_ratio": 191.7
+        },
+        {
+          "moviename": "Parasite: The Family in the Semi-Basement",
+          "japanese name": "パラサイト 半地下の家族",
+          "sales": 11257,
+          "seats": 190373,
+          "showtimes": 889,
+          "theaters": 240,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Charlie’s Angel",
+          "japanese name": "チャーリーズ・エンジェル",
+          "sales": 2807,
+          "seats": 33426,
+          "showtimes": 270,
+          "theaters": 222,
+          "rank": 13,
+          "last_week_ratio": 127
+        },
+        {
+          "moviename": "Theatrical Version: Delicious School Meals: Final Battle",
+          "japanese name": "劇場版 おいしい給食 Ｆｉｎａｌ Ｂａｔｔｌｅ",
+          "sales": 1511,
+          "seats": 31413,
+          "showtimes": 233,
+          "theaters": 82,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Scary Stories: Books That Are Scary",
+          "japanese name": "スケアリーストーリーズ 怖い本",
+          "sales": 3044,
+          "seats": 37423,
+          "showtimes": 303,
+          "theaters": 149,
+          "rank": 12,
+          "last_week_ratio": 102.1
         },
         {
           "moviename": "Cats",
@@ -256,13 +216,53 @@
           "last_week_ratio": 113.9
         },
         {
-          "moviename": "Black Justice: A Miracle Starting from 0%",
-          "japanese name": "黒い司法 ０％からの奇跡",
-          "sales": 953,
-          "seats": 12410,
-          "showtimes": 106,
-          "theaters": 42,
-          "rank": 25,
+          "moviename": "First Love",
+          "japanese name": "初恋",
+          "sales": 2142,
+          "seats": 31585,
+          "showtimes": 251,
+          "theaters": 98,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Maid in Abyss: Dawn of the Deep Soul",
+          "japanese name": "劇場版 メイドインアビス 深き魂の黎明",
+          "sales": 2169,
+          "seats": 22380,
+          "showtimes": 200,
+          "theaters": 98,
+          "rank": 15,
+          "last_week_ratio": 120.4
+        },
+        {
+          "moviename": "Masked Ward",
+          "japanese name": "仮面病棟",
+          "sales": 22003,
+          "seats": 291475,
+          "showtimes": 1230,
+          "theaters": 258,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "SHIROBAKO",
+          "japanese name": "ＳＨＩＲＯＢＡＫＯ",
+          "sales": 4379,
+          "seats": 73142,
+          "showtimes": 424,
+          "theaters": 129,
+          "rank": 10,
+          "last_week_ratio": 100.6
+        },
+        {
+          "moviename": "Kanamara Village",
+          "japanese name": "犬鳴村",
+          "sales": 7522,
+          "seats": 64669,
+          "showtimes": 396,
+          "theaters": 154,
+          "rank": 5,
           "last_week_ratio": null
         }
       ]

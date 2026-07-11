@@ -6,56 +6,6 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "I don't remember!",
-          "japanese name": "記憶にございません！",
-          "sales": 33277,
-          "seats": 165122,
-          "showtimes": 511,
-          "theaters": 282,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Kaguya-sama Wants to Be Confessed to~The Love and Brain Battle of Geniuses~",
-          "japanese name": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
-          "sales": 25545,
-          "seats": 90565,
-          "showtimes": 410,
-          "theaters": 249,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Weather Child",
-          "japanese name": "天気の子",
-          "sales": 15906,
-          "seats": 73570,
-          "showtimes": 453,
-          "theaters": 280,
-          "rank": 3,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Ad Astra",
-          "japanese name": "アド・アストラ",
-          "sales": 9587,
-          "seats": 79703,
-          "showtimes": 415,
-          "theaters": 275,
-          "rank": 4,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "HELLO WORLD Hello World",
-          "japanese name": "ＨＥＬＬＯ ＷＯＲＬＤ ハロー・ワールド",
-          "sales": 9068,
-          "seats": 60520,
-          "showtimes": 373,
-          "theaters": 220,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Brave Academy",
           "japanese name": "任侠学園",
           "sales": 9041,
@@ -66,13 +16,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "No Longer Human: Taizō Ishikawa and Three Women",
-          "japanese name": "人間失格 太宰治と３人の女たち",
-          "sales": 7270,
-          "seats": 44537,
-          "showtimes": 322,
-          "theaters": 264,
-          "rank": 7,
+          "moviename": "Hellboy",
+          "japanese name": "ヘルボーイ",
+          "sales": 1950,
+          "seats": 13481,
+          "showtimes": 77,
+          "theaters": 54,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Once Upon a Time in Hollywood",
+          "japanese name": "ワンス・アポン・ア・タイム・イン・ハリウッド",
+          "sales": 3034,
+          "seats": 13990,
+          "showtimes": 76,
+          "theaters": 238,
+          "rank": 17,
           "last_week_ratio": null
         },
         {
@@ -86,13 +46,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "剧场版 おっさんずラブ ～ＬＯＶＥ ｏｒ ＤＥＡＤ～",
-          "japanese name": "劇場版 おっさんずラブ ～ＬＯＶＥ ｏｒ ＤＥＡＤ～",
-          "sales": 5648,
-          "seats": 22985,
-          "showtimes": 155,
+          "moviename": "Weather Child",
+          "japanese name": "天気の子",
+          "sales": 15906,
+          "seats": 73570,
+          "showtimes": 453,
+          "theaters": 280,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "No Longer Human: Taizō Ishikawa and Three Women",
+          "japanese name": "人間失格 太宰治と３人の女たち",
+          "sales": 7270,
+          "seats": 44537,
+          "showtimes": 322,
           "theaters": 264,
-          "rank": 9,
+          "rank": 7,
           "last_week_ratio": null
         },
         {
@@ -103,6 +73,36 @@
           "showtimes": 187,
           "theaters": 224,
           "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kaguya-sama Wants to Be Confessed to~The Love and Brain Battle of Geniuses~",
+          "japanese name": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
+          "sales": 25545,
+          "seats": 90565,
+          "showtimes": 410,
+          "theaters": 249,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "HELLO WORLD Hello World",
+          "japanese name": "ＨＥＬＬＯ ＷＯＲＬＤ ハロー・ワールド",
+          "sales": 9068,
+          "seats": 60520,
+          "showtimes": 373,
+          "theaters": 220,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "I don't remember!",
+          "japanese name": "記憶にございません！",
+          "sales": 33277,
+          "seats": 165122,
+          "showtimes": 511,
+          "theaters": 282,
+          "rank": 1,
           "last_week_ratio": null
         },
         {
@@ -126,23 +126,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "MANKAI STAGE「A3！」～SUMMER 2019～ Live Viewing",
-          "japanese name": "ＭＡＮＫＡＩ ＳＴＡＧＥ「Ａ３！」～ＳＵＭＭＥＲ ２０１９～ライブビューイング",
-          "sales": 4372,
-          "seats": 5284,
-          "showtimes": 19,
-          "theaters": 19,
-          "rank": 13,
+          "moviename": "Galaxy Heroes传说 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 星乱 第一章",
+          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 星乱 第一章",
+          "sales": 2503,
+          "seats": 15450,
+          "showtimes": 68,
+          "theaters": 33,
+          "rank": 21,
           "last_week_ratio": null
         },
         {
-          "moviename": "Hotel Mumbai",
-          "japanese name": "ホテル・ムンバイ",
-          "sales": 4109,
-          "seats": 19075,
-          "showtimes": 120,
-          "theaters": 73,
-          "rank": 14,
+          "moviename": "BanG Dream! FILM LIVE",
+          "japanese name": "ＢａｎＧ Ｄｒｅａｍ！ ＦＩＬＭ ＬＩＶＥ",
+          "sales": 3022,
+          "seats": 9017,
+          "showtimes": 35,
+          "theaters": 48,
+          "rank": 18,
+          "last_week_ratio": 118.6
+        },
+        {
+          "moviename": "Cinema Kabuki, Yūgen",
+          "japanese name": "シネマ歌舞伎 幽玄",
+          "sales": 1819,
+          "seats": 11547,
+          "showtimes": 67,
+          "theaters": 47,
+          "rank": 25,
           "last_week_ratio": null
         },
         {
@@ -166,63 +176,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Once Upon a Time in Hollywood",
-          "japanese name": "ワンス・アポン・ア・タイム・イン・ハリウッド",
-          "sales": 3034,
-          "seats": 13990,
-          "showtimes": 76,
-          "theaters": 238,
-          "rank": 17,
+          "moviename": "Ad Astra",
+          "japanese name": "アド・アストラ",
+          "sales": 9587,
+          "seats": 79703,
+          "showtimes": 415,
+          "theaters": 275,
+          "rank": 4,
           "last_week_ratio": null
         },
         {
-          "moviename": "BanG Dream! FILM LIVE",
-          "japanese name": "ＢａｎＧ Ｄｒｅａｍ！ ＦＩＬＭ ＬＩＶＥ",
-          "sales": 3022,
-          "seats": 9017,
-          "showtimes": 35,
-          "theaters": 48,
-          "rank": 18,
-          "last_week_ratio": 118.6
-        },
-        {
-          "moviename": "Toy Story 4",
-          "japanese name": "トイ・ストーリー４",
-          "sales": 2823,
-          "seats": 18511,
-          "showtimes": 114,
-          "theaters": 155,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "ONE PIECE STAMPED",
-          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＳＴＡＭＰＥＤＥ",
-          "sales": 2754,
-          "seats": 17601,
-          "showtimes": 125,
-          "theaters": 262,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Galaxy Heroes传说 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 星乱 第一章",
-          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 星乱 第一章",
-          "sales": 2503,
-          "seats": 15450,
-          "showtimes": 68,
-          "theaters": 33,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Aine Kleine Nachtmusik",
-          "japanese name": "アイネクライネナハトムジーク",
-          "sales": 2434,
-          "seats": 14718,
-          "showtimes": 114,
-          "theaters": 114,
-          "rank": 22,
+          "moviename": "Hotel Mumbai",
+          "japanese name": "ホテル・ムンバイ",
+          "sales": 4109,
+          "seats": 19075,
+          "showtimes": 120,
+          "theaters": 73,
+          "rank": 14,
           "last_week_ratio": null
         },
         {
@@ -236,23 +206,53 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Hellboy",
-          "japanese name": "ヘルボーイ",
-          "sales": 1950,
-          "seats": 13481,
-          "showtimes": 77,
-          "theaters": 54,
-          "rank": 24,
+          "moviename": "Aine Kleine Nachtmusik",
+          "japanese name": "アイネクライネナハトムジーク",
+          "sales": 2434,
+          "seats": 14718,
+          "showtimes": 114,
+          "theaters": 114,
+          "rank": 22,
           "last_week_ratio": null
         },
         {
-          "moviename": "Cinema Kabuki, Yūgen",
-          "japanese name": "シネマ歌舞伎 幽玄",
-          "sales": 1819,
-          "seats": 11547,
-          "showtimes": 67,
-          "theaters": 47,
-          "rank": 25,
+          "moviename": "Toy Story 4",
+          "japanese name": "トイ・ストーリー４",
+          "sales": 2823,
+          "seats": 18511,
+          "showtimes": 114,
+          "theaters": 155,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MANKAI STAGE「A3！」～SUMMER 2019～ Live Viewing",
+          "japanese name": "ＭＡＮＫＡＩ ＳＴＡＧＥ「Ａ３！」～ＳＵＭＭＥＲ ２０１９～ライブビューイング",
+          "sales": 4372,
+          "seats": 5284,
+          "showtimes": 19,
+          "theaters": 19,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ONE PIECE STAMPED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＳＴＡＭＰＥＤＥ",
+          "sales": 2754,
+          "seats": 17601,
+          "showtimes": 125,
+          "theaters": 262,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 おっさんずラブ ～ＬＯＶＥ ｏｒ ＤＥＡＤ～",
+          "japanese name": "劇場版 おっさんずラブ ～ＬＯＶＥ ｏｒ ＤＥＡＤ～",
+          "sales": 5648,
+          "seats": 22985,
+          "showtimes": 155,
+          "theaters": 264,
+          "rank": 9,
           "last_week_ratio": null
         }
       ]
@@ -262,23 +262,43 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "I don't remember!",
-          "japanese name": "記憶にございません！",
-          "sales": 61815,
-          "seats": 338876,
-          "showtimes": 1040,
-          "theaters": 282,
-          "rank": 1,
+          "moviename": "Brave Academy",
+          "japanese name": "任侠学園",
+          "sales": 13250,
+          "seats": 94525,
+          "showtimes": 519,
+          "theaters": 162,
+          "rank": 7,
           "last_week_ratio": null
         },
         {
-          "moviename": "Kaguya-sama Wants to Be Confessed to~The Love and Brain Battle of Geniuses~",
-          "japanese name": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
-          "sales": 41428,
-          "seats": 163339,
-          "showtimes": 762,
-          "theaters": 249,
-          "rank": 2,
+          "moviename": "Anisang Stars! Extra Stage Memory of Marionette LV",
+          "japanese name": "あんさんぶるスターズ！エクストラ・ステージ Ｍｅｍｏｒｙ ｏｆ Ｍａｒｉｏｎｅｔｔｅ ＬＶ",
+          "sales": 4162,
+          "seats": 4951,
+          "showtimes": 22,
+          "theaters": 22,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Once Upon a Time in Hollywood",
+          "japanese name": "ワンス・アポン・ア・タイム・イン・ハリウッド",
+          "sales": 5989,
+          "seats": 36978,
+          "showtimes": 224,
+          "theaters": 238,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "LION KING",
+          "japanese name": "ライオン・キング",
+          "sales": 11815,
+          "seats": 52382,
+          "showtimes": 372,
+          "theaters": 276,
+          "rank": 9,
           "last_week_ratio": null
         },
         {
@@ -302,66 +322,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "HELLO WORLD Hello World",
-          "japanese name": "ＨＥＬＬＯ ＷＯＲＬＤ ハロー・ワールド",
-          "sales": 17006,
-          "seats": 106372,
-          "showtimes": 651,
-          "theaters": 220,
-          "rank": 5,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Ad Astra",
-          "japanese name": "アド・アストラ",
-          "sales": 16940,
-          "seats": 142464,
-          "showtimes": 749,
-          "theaters": 275,
-          "rank": 6,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Brave Academy",
-          "japanese name": "任侠学園",
-          "sales": 13250,
-          "seats": 94525,
-          "showtimes": 519,
-          "theaters": 162,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Anabel: The Museum of the Dead",
-          "japanese name": "アナベル 死霊博物館",
-          "sales": 12824,
-          "seats": 46028,
-          "showtimes": 321,
-          "theaters": 140,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "LION KING",
-          "japanese name": "ライオン・キング",
-          "sales": 11815,
-          "seats": 52382,
-          "showtimes": 372,
-          "theaters": 276,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "剧场版 おっさんずラブ ～ＬＯＶＥ ｏｒ ＤＥＡＤ～",
-          "japanese name": "劇場版 おっさんずラブ ～ＬＯＶＥ ｏｒ ＤＥＡＤ～",
-          "sales": 11205,
-          "seats": 57886,
-          "showtimes": 381,
-          "theaters": 264,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "My Wonderful Journey",
           "japanese name": "僕のワンダフル・ジャーニー",
           "sales": 9552,
@@ -372,53 +332,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Invisible witnesses",
-          "japanese name": "見えない目撃者",
-          "sales": 9113,
-          "seats": 51576,
-          "showtimes": 401,
-          "theaters": 203,
-          "rank": 12,
+          "moviename": "Kaguya-sama Wants to Be Confessed to~The Love and Brain Battle of Geniuses~",
+          "japanese name": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
+          "sales": 41428,
+          "seats": 163339,
+          "showtimes": 762,
+          "theaters": 249,
+          "rank": 2,
           "last_week_ratio": null
         },
         {
-          "moviename": "Hotel Mumbai",
-          "japanese name": "ホテル・ムンバイ",
-          "sales": 7316,
-          "seats": 35381,
-          "showtimes": 222,
-          "theaters": 73,
-          "rank": 13,
+          "moviename": "HELLO WORLD Hello World",
+          "japanese name": "ＨＥＬＬＯ ＷＯＲＬＤ ハロー・ワールド",
+          "sales": 17006,
+          "seats": 106372,
+          "showtimes": 651,
+          "theaters": 220,
+          "rank": 5,
           "last_week_ratio": null
         },
         {
-          "moviename": "ONE PIECE STAMPED",
-          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＳＴＡＭＰＥＤＥ",
-          "sales": 6145,
-          "seats": 39597,
-          "showtimes": 275,
-          "theaters": 262,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Once Upon a Time in Hollywood",
-          "japanese name": "ワンス・アポン・ア・タイム・イン・ハリウッド",
-          "sales": 5989,
-          "seats": 36978,
-          "showtimes": 224,
-          "theaters": 238,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "A-NONBUN RUIZ! EXTRA STAGE ～DESTINATION×ROAD～ LV",
-          "japanese name": "あんさんぶるスターズ！エクストラ・ステージ ～Ｄｅｓｔｒｕｃｔｉｏｎ×Ｒｏａｄ～ ＬＶ",
-          "sales": 5414,
-          "seats": 6466,
-          "showtimes": 38,
-          "theaters": 39,
-          "rank": 16,
+          "moviename": "I don't remember!",
+          "japanese name": "記憶にございません！",
+          "sales": 61815,
+          "seats": 338876,
+          "showtimes": 1040,
+          "theaters": 282,
+          "rank": 1,
           "last_week_ratio": null
         },
         {
@@ -432,6 +372,36 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Anabel: The Museum of the Dead",
+          "japanese name": "アナベル 死霊博物館",
+          "sales": 12824,
+          "seats": 46028,
+          "showtimes": 321,
+          "theaters": 140,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Galaxy Heroes传说 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 星乱 第一章",
+          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 星乱 第一章",
+          "sales": 3684,
+          "seats": 25867,
+          "showtimes": 114,
+          "theaters": 33,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A-NONBUN RUIZ! EXTRA STAGE ～DESTINATION×ROAD～ LV",
+          "japanese name": "あんさんぶるスターズ！エクストラ・ステージ ～Ｄｅｓｔｒｕｃｔｉｏｎ×Ｒｏａｄ～ ＬＶ",
+          "sales": 5414,
+          "seats": 6466,
+          "showtimes": 38,
+          "theaters": 39,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "BanG Dream! FILM LIVE",
           "japanese name": "ＢａｎＧ Ｄｒｅａｍ！ ＦＩＬＭ ＬＩＶＥ",
           "sales": 5006,
@@ -440,6 +410,16 @@
           "theaters": 48,
           "rank": 18,
           "last_week_ratio": 119.7
+        },
+        {
+          "moviename": "Invisible witnesses",
+          "japanese name": "見えない目撃者",
+          "sales": 9113,
+          "seats": 51576,
+          "showtimes": 401,
+          "theaters": 203,
+          "rank": 12,
+          "last_week_ratio": null
         },
         {
           "moviename": "Moving King!",
@@ -452,23 +432,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Toy Story 4",
-          "japanese name": "トイ・ストーリー４",
-          "sales": 4403,
-          "seats": 26027,
-          "showtimes": 163,
-          "theaters": 155,
-          "rank": 20,
+          "moviename": "Ad Astra",
+          "japanese name": "アド・アストラ",
+          "sales": 16940,
+          "seats": 142464,
+          "showtimes": 749,
+          "theaters": 275,
+          "rank": 6,
           "last_week_ratio": null
         },
         {
-          "moviename": "MANKAI STAGE「A3！」～SUMMER 2019～ Live Viewing",
-          "japanese name": "ＭＡＮＫＡＩ ＳＴＡＧＥ「Ａ３！」～ＳＵＭＭＥＲ ２０１９～ライブビューイング",
-          "sales": 4372,
-          "seats": 5284,
-          "showtimes": 19,
-          "theaters": 19,
-          "rank": 21,
+          "moviename": "Hotel Mumbai",
+          "japanese name": "ホテル・ムンバイ",
+          "sales": 7316,
+          "seats": 35381,
+          "showtimes": 222,
+          "theaters": 73,
+          "rank": 13,
           "last_week_ratio": null
         },
         {
@@ -492,6 +472,62 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Toy Story 4",
+          "japanese name": "トイ・ストーリー４",
+          "sales": 4403,
+          "seats": 26027,
+          "showtimes": 163,
+          "theaters": 155,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "MANKAI STAGE「A3！」～SUMMER 2019～ Live Viewing",
+          "japanese name": "ＭＡＮＫＡＩ ＳＴＡＧＥ「Ａ３！」～ＳＵＭＭＥＲ ２０１９～ライブビューイング",
+          "sales": 4372,
+          "seats": 5284,
+          "showtimes": 19,
+          "theaters": 19,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "ONE PIECE STAMPED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＳＴＡＭＰＥＤＥ",
+          "sales": 6145,
+          "seats": 39597,
+          "showtimes": 275,
+          "theaters": 262,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "剧场版 おっさんずラブ ～ＬＯＶＥ ｏｒ ＤＥＡＤ～",
+          "japanese name": "劇場版 おっさんずラブ ～ＬＯＶＥ ｏｒ ＤＥＡＤ～",
+          "sales": 11205,
+          "seats": 57886,
+          "showtimes": 381,
+          "theaters": 264,
+          "rank": 10,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Brave Academy",
+          "japanese name": "任侠学園",
+          "sales": 13981,
+          "seats": 121876,
+          "showtimes": 668,
+          "theaters": 162,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Anisang Stars! Extra Stage Memory of Marionette LV",
           "japanese name": "あんさんぶるスターズ！エクストラ・ステージ Ｍｅｍｏｒｙ ｏｆ Ｍａｒｉｏｎｅｔｔｅ ＬＶ",
           "sales": 4162,
@@ -502,39 +538,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Galaxy Heroes传说 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 星乱 第一章",
-          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 星乱 第一章",
-          "sales": 3684,
-          "seats": 25867,
-          "showtimes": 114,
-          "theaters": 33,
-          "rank": 25,
-          "last_week_ratio": null
-        }
-      ]
-    },
-    {
-      "title": "Including Independents",
-      "time": "Final",
-      "data": [
-        {
-          "moviename": "I don't remember!",
-          "japanese name": "記憶にございません！",
-          "sales": 65145,
-          "seats": 425248,
-          "showtimes": 1313,
-          "theaters": 282,
-          "rank": 1,
+          "moviename": "Once Upon a Time in Hollywood",
+          "japanese name": "ワンス・アポン・ア・タイム・イン・ハリウッド",
+          "sales": 6890,
+          "seats": 47566,
+          "showtimes": 286,
+          "theaters": 238,
+          "rank": 14,
           "last_week_ratio": null
         },
         {
-          "moviename": "Kaguya-sama Wants to Be Confessed to~The Love and Brain Battle of Geniuses~",
-          "japanese name": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
-          "sales": 42573,
-          "seats": 189865,
-          "showtimes": 888,
-          "theaters": 249,
-          "rank": 2,
+          "moviename": "LION KING",
+          "japanese name": "ライオン・キング",
+          "sales": 12097,
+          "seats": 55970,
+          "showtimes": 396,
+          "theaters": 276,
+          "rank": 10,
           "last_week_ratio": null
         },
         {
@@ -558,13 +578,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Ad Astra",
-          "japanese name": "アド・アストラ",
-          "sales": 19277,
-          "seats": 195760,
-          "showtimes": 1022,
-          "theaters": 275,
-          "rank": 5,
+          "moviename": "My Wonderful Journey",
+          "japanese name": "僕のワンダフル・ジャーニー",
+          "sales": 9902,
+          "seats": 49525,
+          "showtimes": 368,
+          "theaters": 223,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Kaguya-sama Wants to Be Confessed to~The Love and Brain Battle of Geniuses~",
+          "japanese name": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
+          "sales": 42573,
+          "seats": 189865,
+          "showtimes": 888,
+          "theaters": 249,
+          "rank": 2,
           "last_week_ratio": null
         },
         {
@@ -578,123 +608,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Anabel: The Museum of the Dead",
-          "japanese name": "アナベル 死霊博物館",
-          "sales": 15235,
-          "seats": 67750,
-          "showtimes": 471,
-          "theaters": 140,
-          "rank": 7,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Brave Academy",
-          "japanese name": "任侠学園",
-          "sales": 13981,
-          "seats": 121876,
-          "showtimes": 668,
-          "theaters": 162,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "剧场版 おっさんずラブ ～ＬＯＶＥ ｏｒ ＤＥＡＤ～",
-          "japanese name": "劇場版 おっさんずラブ ～ＬＯＶＥ ｏｒ ＤＥＡＤ～",
-          "sales": 12306,
-          "seats": 73940,
-          "showtimes": 478,
-          "theaters": 264,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "LION KING",
-          "japanese name": "ライオン・キング",
-          "sales": 12097,
-          "seats": 55970,
-          "showtimes": 396,
-          "theaters": 276,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Invisible witnesses",
-          "japanese name": "見えない目撃者",
-          "sales": 10540,
-          "seats": 71312,
-          "showtimes": 549,
-          "theaters": 203,
-          "rank": 11,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "My Wonderful Journey",
-          "japanese name": "僕のワンダフル・ジャーニー",
-          "sales": 9902,
-          "seats": 49525,
-          "showtimes": 368,
-          "theaters": 223,
-          "rank": 12,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Hotel Mumbai",
-          "japanese name": "ホテル・ムンバイ",
-          "sales": 8005,
-          "seats": 46201,
-          "showtimes": 289,
-          "theaters": 73,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Once Upon a Time in Hollywood",
-          "japanese name": "ワンス・アポン・ア・タイム・イン・ハリウッド",
-          "sales": 6890,
-          "seats": 47566,
-          "showtimes": 286,
-          "theaters": 238,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "ONE PIECE STAMPED",
-          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＳＴＡＭＰＥＤＥ",
-          "sales": 6567,
-          "seats": 44132,
-          "showtimes": 301,
-          "theaters": 262,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "BanG Dream! FILM LIVE",
-          "japanese name": "ＢａｎＧ Ｄｒｅａｍ！ ＦＩＬＭ ＬＩＶＥ",
-          "sales": 6102,
-          "seats": 21733,
-          "showtimes": 92,
-          "theaters": 48,
-          "rank": 16,
-          "last_week_ratio": 118.6
-        },
-        {
-          "moviename": "A-NONBUN RUIZ! EXTRA STAGE ～DESTINATION×ROAD～ LV",
-          "japanese name": "あんさんぶるスターズ！エクストラ・ステージ ～Ｄｅｓｔｒｕｃｔｉｏｎ×Ｒｏａｄ～ ＬＶ",
-          "sales": 5414,
-          "seats": 6466,
-          "showtimes": 38,
-          "theaters": 39,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Violet Evergarden: Side Story – Eternity and the Automaton Puppet",
-          "japanese name": "ヴァイオレット・エヴァーガーデン 外伝 永遠と自動手記人形",
-          "sales": 5305,
-          "seats": 33641,
-          "showtimes": 170,
-          "theaters": 74,
-          "rank": 18,
+          "moviename": "I don't remember!",
+          "japanese name": "記憶にございません！",
+          "sales": 65145,
+          "seats": 425248,
+          "showtimes": 1313,
+          "theaters": 282,
+          "rank": 1,
           "last_week_ratio": null
         },
         {
@@ -708,6 +628,56 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Anabel: The Museum of the Dead",
+          "japanese name": "アナベル 死霊博物館",
+          "sales": 15235,
+          "seats": 67750,
+          "showtimes": 471,
+          "theaters": 140,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Galaxy Heroes传说 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 星乱 第一章",
+          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 星乱 第一章",
+          "sales": 4057,
+          "seats": 34814,
+          "showtimes": 148,
+          "theaters": 33,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "A-NONBUN RUIZ! EXTRA STAGE ～DESTINATION×ROAD～ LV",
+          "japanese name": "あんさんぶるスターズ！エクストラ・ステージ ～Ｄｅｓｔｒｕｃｔｉｏｎ×Ｒｏａｄ～ ＬＶ",
+          "sales": 5414,
+          "seats": 6466,
+          "showtimes": 38,
+          "theaters": 39,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "BanG Dream! FILM LIVE",
+          "japanese name": "ＢａｎＧ Ｄｒｅａｍ！ ＦＩＬＭ ＬＩＶＥ",
+          "sales": 6102,
+          "seats": 21733,
+          "showtimes": 92,
+          "theaters": 48,
+          "rank": 16,
+          "last_week_ratio": 118.6
+        },
+        {
+          "moviename": "Invisible witnesses",
+          "japanese name": "見えない目撃者",
+          "sales": 10540,
+          "seats": 71312,
+          "showtimes": 549,
+          "theaters": 203,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Moving King!",
           "japanese name": "引っ越し大名！",
           "sales": 5032,
@@ -715,6 +685,36 @@
           "showtimes": 355,
           "theaters": 263,
           "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ad Astra",
+          "japanese name": "アド・アストラ",
+          "sales": 19277,
+          "seats": 195760,
+          "showtimes": 1022,
+          "theaters": 275,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hotel Mumbai",
+          "japanese name": "ホテル・ムンバイ",
+          "sales": 8005,
+          "seats": 46201,
+          "showtimes": 289,
+          "theaters": 73,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Violet Evergarden: Side Story – Eternity and the Automaton Puppet",
+          "japanese name": "ヴァイオレット・エヴァーガーデン 外伝 永遠と自動手記人形",
+          "sales": 5305,
+          "seats": 33641,
+          "showtimes": 170,
+          "theaters": 74,
+          "rank": 18,
           "last_week_ratio": null
         },
         {
@@ -748,23 +748,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Anisang Stars! Extra Stage Memory of Marionette LV",
-          "japanese name": "あんさんぶるスターズ！エクストラ・ステージ Ｍｅｍｏｒｙ ｏｆ Ｍａｒｉｏｎｅｔｔｅ ＬＶ",
-          "sales": 4162,
-          "seats": 4951,
-          "showtimes": 22,
-          "theaters": 22,
-          "rank": 24,
+          "moviename": "ONE PIECE STAMPED",
+          "japanese name": "ＯＮＥ ＰＩＥＣＥ ＳＴＡＭＰＥＤＥ",
+          "sales": 6567,
+          "seats": 44132,
+          "showtimes": 301,
+          "theaters": 262,
+          "rank": 15,
           "last_week_ratio": null
         },
         {
-          "moviename": "Galaxy Heroes传说 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 星乱 第一章",
-          "japanese name": "銀河英雄伝説 Ｄｉｅ Ｎｅｕｅ Ｔｈｅｓｅ 星乱 第一章",
-          "sales": 4057,
-          "seats": 34814,
-          "showtimes": 148,
-          "theaters": 33,
-          "rank": 25,
+          "moviename": "剧场版 おっさんずラブ ～ＬＯＶＥ ｏｒ ＤＥＡＤ～",
+          "japanese name": "劇場版 おっさんずラブ ～ＬＯＶＥ ｏｒ ＤＥＡＤ～",
+          "sales": 12306,
+          "seats": 73940,
+          "showtimes": 478,
+          "theaters": 264,
+          "rank": 9,
           "last_week_ratio": null
         }
       ]
