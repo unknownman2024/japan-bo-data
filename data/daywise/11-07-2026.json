@@ -6,23 +6,103 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "Blue in Cinema",
-          "japanese name": "ブルーイ ｉｎ シネマ",
-          "sales": 1982,
-          "seats": 19831,
-          "showtimes": 124,
-          "theaters": 111,
-          "rank": 13,
+          "moviename": "Toy Story 5",
+          "japanese name": "トイ・ストーリー５",
+          "sales": 167124,
+          "seats": 518205,
+          "showtimes": 2042,
+          "theaters": 266,
+          "rank": 1,
           "last_week_ratio": null
         },
         {
-          "moviename": "New Theater Version ☆ Sgt. Keroro: Back from the Dead, and now Earth is in immediate danger of destruction!",
-          "japanese name": "新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！",
-          "sales": 1786,
-          "seats": 13200,
-          "showtimes": 117,
-          "theaters": 235,
-          "rank": 15,
+          "moviename": "Michael",
+          "japanese name": "Ｍｉｃｈａｅｌ／マイケル",
+          "sales": 35077,
+          "seats": 116803,
+          "showtimes": 604,
+          "theaters": 265,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let’s Go! Mr. Breadman and the Star of Promise with Pantan",
+          "japanese name": "それいけ！アンパンマン パンタンと約束の星",
+          "sales": 9744,
+          "seats": 79560,
+          "showtimes": 513,
+          "theaters": 243,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Prison City",
+          "japanese name": "黒牢城",
+          "sales": 7002,
+          "seats": 34337,
+          "showtimes": 274,
+          "theaters": 246,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Surveys related to the mouth",
+          "japanese name": "口に関するアンケート",
+          "sales": 6858,
+          "seats": 46436,
+          "showtimes": 361,
+          "theaters": 252,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Star Wars: Mandalorian and Grogg",
+          "japanese name": "スター・ウォーズ／マンダロリアン・アンド・グローグー",
+          "sales": 4937,
+          "seats": 13015,
+          "showtimes": 97,
+          "theaters": 245,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "License returned!?",
+          "japanese name": "免許返納！？",
+          "sales": 4906,
+          "seats": 31162,
+          "showtimes": 259,
+          "theaters": 242,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Super Mario Galaxy Movie",
+          "japanese name": "ザ・スーパーマリオギャラクシー・ムービー",
+          "sales": 3919,
+          "seats": 26868,
+          "showtimes": 201,
+          "theaters": 243,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Witch’s Delivery Service",
+          "japanese name": "魔女の宅急便",
+          "sales": 2805,
+          "seats": 12563,
+          "showtimes": 77,
+          "theaters": 88,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Making a living from death games. 44: Cloudy Beach",
+          "japanese name": "死亡遊戯で飯を食う。４４：ＣＬＯＵＤＹ ＢＥＡＣＨ",
+          "sales": 2722,
+          "seats": 11085,
+          "showtimes": 73,
+          "theaters": 41,
+          "rank": 10,
           "last_week_ratio": null
         },
         {
@@ -46,53 +126,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The President’s Cake",
-          "japanese name": "大統領のケーキ",
-          "sales": 1157,
-          "seats": 4704,
-          "showtimes": 35,
-          "theaters": 17,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Super Mario Galaxy Movie",
-          "japanese name": "ザ・スーパーマリオギャラクシー・ムービー",
-          "sales": 3919,
-          "seats": 26868,
-          "showtimes": 201,
-          "theaters": 243,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Making a living from death games. 44: Cloudy Beach",
-          "japanese name": "死亡遊戯で飯を食う。４４：ＣＬＯＵＤＹ ＢＥＡＣＨ",
-          "sales": 2722,
-          "seats": 11085,
-          "showtimes": 73,
-          "theaters": 41,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "GOOD BOY/Good Boy",
-          "japanese name": "ＧＯＯＤ ＢＯＹ／グッド・ボーイ",
-          "sales": 1360,
-          "seats": 7522,
-          "showtimes": 50,
-          "theaters": 66,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Surveys related to the mouth",
-          "japanese name": "口に関するアンケート",
-          "sales": 6858,
-          "seats": 46436,
-          "showtimes": 361,
-          "theaters": 252,
-          "rank": 5,
+          "moviename": "Blue in Cinema",
+          "japanese name": "ブルーイ ｉｎ シネマ",
+          "sales": 1982,
+          "seats": 19831,
+          "showtimes": 124,
+          "theaters": 111,
+          "rank": 13,
           "last_week_ratio": null
         },
         {
@@ -106,33 +146,33 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "License returned!?",
-          "japanese name": "免許返納！？",
-          "sales": 4906,
-          "seats": 31162,
-          "showtimes": 259,
-          "theaters": 242,
-          "rank": 7,
+          "moviename": "New Theater Version ☆ Sgt. Keroro: Back from the Dead, and now Earth is in immediate danger of destruction!",
+          "japanese name": "新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！",
+          "sales": 1786,
+          "seats": 13200,
+          "showtimes": 117,
+          "theaters": 235,
+          "rank": 15,
           "last_week_ratio": null
         },
         {
-          "moviename": "Theatrical Version of Mononoke: Chapter 3 – The Snake God",
-          "japanese name": "劇場版モノノ怪 第三章 蛇神",
-          "sales": 970,
-          "seats": 4325,
-          "showtimes": 29,
-          "theaters": 108,
-          "rank": 22,
-          "last_week_ratio": 105.4
+          "moviename": "GOOD BOY/Good Boy",
+          "japanese name": "ＧＯＯＤ ＢＯＹ／グッド・ボーイ",
+          "sales": 1360,
+          "seats": 7522,
+          "showtimes": 50,
+          "theaters": 66,
+          "rank": 16,
+          "last_week_ratio": null
         },
         {
-          "moviename": "Black Prison City",
-          "japanese name": "黒牢城",
-          "sales": 7002,
-          "seats": 34337,
-          "showtimes": 274,
-          "theaters": 246,
-          "rank": 4,
+          "moviename": "Special Pre-release Version: “Onigami Hyakkenchō: Honjo no Kō/Secret Reports”",
+          "japanese name": "特別先行版「鬼平犯科帳 本所の銕／密告」",
+          "sales": 1203,
+          "seats": 4221,
+          "showtimes": 36,
+          "theaters": 21,
+          "rank": 17,
           "last_week_ratio": null
         },
         {
@@ -146,53 +186,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Let’s Go! Mr. Breadman and the Star of Promise with Pantan",
-          "japanese name": "それいけ！アンパンマン パンタンと約束の星",
-          "sales": 9744,
-          "seats": 79560,
-          "showtimes": 513,
-          "theaters": 243,
-          "rank": 3,
+          "moviename": "The President’s Cake",
+          "japanese name": "大統領のケーキ",
+          "sales": 1157,
+          "seats": 4704,
+          "showtimes": 35,
+          "theaters": 17,
+          "rank": 19,
           "last_week_ratio": null
         },
         {
-          "moviename": "ENHYPEN: Immersion in Cinemas",
-          "japanese name": "ＥＮＨＹＰＥＮ： ＩＭＭＥＲＳＩＯＮ ＩＮ ＣＩＮＥＭＡＳ",
-          "sales": 624,
-          "seats": 4261,
-          "showtimes": 36,
-          "theaters": 38,
-          "rank": 25,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Toy Story 5",
-          "japanese name": "トイ・ストーリー５",
-          "sales": 167124,
-          "seats": 518205,
-          "showtimes": 2042,
-          "theaters": 266,
-          "rank": 1,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Michael",
-          "japanese name": "Ｍｉｃｈａｅｌ／マイケル",
-          "sales": 35077,
-          "seats": 116803,
-          "showtimes": 604,
-          "theaters": 265,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Star Wars: Mandalorian and Grogg",
-          "japanese name": "スター・ウォーズ／マンダロリアン・アンド・グローグー",
-          "sales": 4937,
-          "seats": 13015,
-          "showtimes": 97,
-          "theaters": 245,
-          "rank": 6,
+          "moviename": "Suddenly feel unwell",
+          "japanese name": "急に具合が悪くなる",
+          "sales": 1084,
+          "seats": 4808,
+          "showtimes": 41,
+          "theaters": 105,
+          "rank": 20,
           "last_week_ratio": null
         },
         {
@@ -206,14 +216,14 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Special Pre-release Version: “Onigami Hyakkenchō: Honjo no Kō/Secret Reports”",
-          "japanese name": "特別先行版「鬼平犯科帳 本所の銕／密告」",
-          "sales": 1203,
-          "seats": 4221,
-          "showtimes": 36,
-          "theaters": 21,
-          "rank": 17,
-          "last_week_ratio": null
+          "moviename": "Theatrical Version of Mononoke: Chapter 3 – The Snake God",
+          "japanese name": "劇場版モノノ怪 第三章 蛇神",
+          "sales": 970,
+          "seats": 4325,
+          "showtimes": 29,
+          "theaters": 108,
+          "rank": 22,
+          "last_week_ratio": 105.4
         },
         {
           "moviename": "The Gravity of Goodbye",
@@ -236,23 +246,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Suddenly feel unwell",
-          "japanese name": "急に具合が悪くなる",
-          "sales": 1084,
-          "seats": 4808,
-          "showtimes": 41,
-          "theaters": 105,
-          "rank": 20,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Witch’s Delivery Service",
-          "japanese name": "魔女の宅急便",
-          "sales": 2805,
-          "seats": 12563,
-          "showtimes": 77,
-          "theaters": 88,
-          "rank": 9,
+          "moviename": "ENHYPEN: Immersion in Cinemas",
+          "japanese name": "ＥＮＨＹＰＥＮ： ＩＭＭＥＲＳＩＯＮ ＩＮ ＣＩＮＥＭＡＳ",
+          "sales": 624,
+          "seats": 4261,
+          "showtimes": 36,
+          "theaters": 38,
+          "rank": 25,
           "last_week_ratio": null
         }
       ]
@@ -260,7 +260,258 @@
     {
       "title": "Including Independents",
       "time": "7PM",
-      "data": []
+      "data": [
+        {
+          "moviename": "Toy Story 5",
+          "japanese name": "トイ・ストーリー５",
+          "sales": 313373,
+          "seats": 941849,
+          "showtimes": 3747,
+          "theaters": 266,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Michael",
+          "japanese name": "Ｍｉｃｈａｅｌ／マイケル",
+          "sales": 69458,
+          "seats": 208783,
+          "showtimes": 1084,
+          "theaters": 265,
+          "rank": 2,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Surveys related to the mouth",
+          "japanese name": "口に関するアンケート",
+          "sales": 17106,
+          "seats": 87856,
+          "showtimes": 679,
+          "theaters": 252,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Star Wars: Mandalorian and Grogg",
+          "japanese name": "スター・ウォーズ／マンダロリアン・アンド・グローグー",
+          "sales": 11494,
+          "seats": 30618,
+          "showtimes": 232,
+          "theaters": 245,
+          "rank": 4,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Let’s Go! Mr. Breadman and the Star of Promise with Pantan",
+          "japanese name": "それいけ！アンパンマン パンタンと約束の星",
+          "sales": 10671,
+          "seats": 85429,
+          "showtimes": 563,
+          "theaters": 243,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Black Prison City",
+          "japanese name": "黒牢城",
+          "sales": 10034,
+          "seats": 47760,
+          "showtimes": 374,
+          "theaters": 246,
+          "rank": 6,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Witch’s Delivery Service",
+          "japanese name": "魔女の宅急便",
+          "sales": 7083,
+          "seats": 24452,
+          "showtimes": 154,
+          "theaters": 88,
+          "rank": 7,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "License returned!?",
+          "japanese name": "免許返納！？",
+          "sales": 5943,
+          "seats": 36709,
+          "showtimes": 307,
+          "theaters": 242,
+          "rank": 8,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Super Mario Galaxy Movie",
+          "japanese name": "ザ・スーパーマリオギャラクシー・ムービー",
+          "sales": 5656,
+          "seats": 34179,
+          "showtimes": 257,
+          "theaters": 243,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Detective Conan: The Fallen Angel of the Highway",
+          "japanese name": "名探偵コナン ハイウェイの堕天使",
+          "sales": 5353,
+          "seats": 24280,
+          "showtimes": 197,
+          "theaters": 243,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "New Theater Version ☆ Sgt. Keroro: Back from the Dead, and now Earth is in immediate danger of destruction!",
+          "japanese name": "新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！",
+          "sales": 4484,
+          "seats": 31546,
+          "showtimes": 270,
+          "theaters": 235,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Making a living from death games. 44: Cloudy Beach",
+          "japanese name": "死亡遊戯で飯を食う。４４：ＣＬＯＵＤＹ ＢＥＡＣＨ",
+          "sales": 4301,
+          "seats": 19161,
+          "showtimes": 128,
+          "theaters": 41,
+          "rank": 12,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Super Girl",
+          "japanese name": "スーパーガール",
+          "sales": 4279,
+          "seats": 59744,
+          "showtimes": 500,
+          "theaters": 263,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Love ≠ Comedy",
+          "japanese name": "ラブ≠コメディ",
+          "sales": 3509,
+          "seats": 18681,
+          "showtimes": 163,
+          "theaters": 152,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Bring Her Back",
+          "japanese name": "ブリング・ハー・バック",
+          "sales": 3474,
+          "seats": 28808,
+          "showtimes": 234,
+          "theaters": 117,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "GOOD BOY/Good Boy",
+          "japanese name": "ＧＯＯＤ ＢＯＹ／グッド・ボーイ",
+          "sales": 2501,
+          "seats": 13584,
+          "showtimes": 93,
+          "theaters": 66,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Girl Who Leapt Through Time",
+          "japanese name": "時をかける少女",
+          "sales": 2289,
+          "seats": 10768,
+          "showtimes": 78,
+          "theaters": 92,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version: Magic Girl Madoka☆Magica [Part 1]: The Story of Beginnings",
+          "japanese name": "劇場版 魔法少女まどか☆マギカ 〔前編〕始まりの物語",
+          "sales": 2234,
+          "seats": 25573,
+          "showtimes": 171,
+          "theaters": 144,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Blue in Cinema",
+          "japanese name": "ブルーイ ｉｎ シネマ",
+          "sales": 2148,
+          "seats": 20785,
+          "showtimes": 132,
+          "theaters": 111,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Suddenly feel unwell",
+          "japanese name": "急に具合が悪くなる",
+          "sales": 2124,
+          "seats": 9678,
+          "showtimes": 81,
+          "theaters": 105,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Movie: Osomatsu-san: The Plan to Turn Humans into Trash!!!!!!!",
+          "japanese name": "映画 おそ松さん 人類クズ化計画！！！！！？",
+          "sales": 2043,
+          "seats": 14071,
+          "showtimes": 122,
+          "theaters": 153,
+          "rank": 21,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Version of Mononoke: Chapter 3 – The Snake God",
+          "japanese name": "劇場版モノノ怪 第三章 蛇神",
+          "sales": 1888,
+          "seats": 9275,
+          "showtimes": 67,
+          "theaters": 108,
+          "rank": 22,
+          "last_week_ratio": 106.1
+        },
+        {
+          "moviename": "The President’s Cake",
+          "japanese name": "大統領のケーキ",
+          "sales": 1747,
+          "seats": 6564,
+          "showtimes": 49,
+          "theaters": 17,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Special Pre-release Version: “Onigami Hyakkenchō: Honjo no Kō/Secret Reports”",
+          "japanese name": "特別先行版「鬼平犯科帳 本所の銕／密告」",
+          "sales": 1629,
+          "seats": 5695,
+          "showtimes": 49,
+          "theaters": 21,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Ice Blood",
+          "japanese name": "氷血",
+          "sales": 1594,
+          "seats": 11530,
+          "showtimes": 95,
+          "theaters": 85,
+          "rank": 25,
+          "last_week_ratio": null
+        }
+      ]
     },
     {
       "title": "Including Independents",
