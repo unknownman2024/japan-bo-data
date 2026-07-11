@@ -348,13 +348,14 @@ def ensure_daywise_date(daywise_acc, date_obj):
     return date_str
 
 async def process_api_response(date_str, data, daywise_acc, start_date):
+    """
+    start_date: a datetime.date object (the lower bound for data we want to keep)
+    """
     if not data or "entries" not in data:
         return
 
     api_date = datetime.strptime(date_str, "%Y-%m-%d")
     today = datetime.today().date()
-    # Use the supplied start_date (not global)
-    start = start_date if isinstance(start_date, datetime) else start_date
 
     for entry in data["entries"]:
         if not entry.get("include_independents", False):
@@ -367,7 +368,8 @@ async def process_api_response(date_str, data, daywise_acc, start_date):
         else:
             actual_date = api_date
 
-        if actual_date.date() < start.date() or actual_date.date() > today:
+        # Compare with start_date (which is already a date) and today
+        if actual_date.date() < start_date or actual_date.date() > today:
             continue
 
         actual_date_str = format_date_str(actual_date)
