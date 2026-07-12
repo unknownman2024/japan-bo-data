@@ -6,53 +6,73 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "Everyday is a Good Day",
-          "japanese name": "日日是好日",
-          "sales": 10624,
-          "seats": 86775,
-          "showtimes": 361,
-          "theaters": 136,
-          "rank": 1,
+          "moviename": "Before the coffee cools down",
+          "japanese name": "コーヒーが冷めないうちに",
+          "sales": 2422,
+          "seats": 39765,
+          "showtimes": 294,
+          "theaters": 245,
+          "rank": 8,
           "last_week_ratio": null
         },
         {
-          "moviename": "Yi Nan",
-          "japanese name": "億男",
-          "sales": 6671,
-          "seats": 196207,
-          "showtimes": 559,
-          "theaters": 246,
-          "rank": 2,
+          "moviename": "Monster Strike THE MOVIE Sorano Kanata",
+          "japanese name": "モンスターストライク ＴＨＥ ＭＯＶＩＥ ソラノカナタ",
+          "sales": 1156,
+          "seats": 41334,
+          "showtimes": 289,
+          "theaters": 256,
+          "rank": 17,
           "last_week_ratio": null
         },
         {
-          "moviename": "Louis and the Mystery Clock",
-          "japanese name": "ルイスと不思議の時計",
-          "sales": 3782,
-          "seats": 65487,
-          "showtimes": 391,
-          "theaters": 200,
-          "rank": 3,
+          "moviename": "Theatrical Version: Nekomonogatari: Shiro no Naka no Yoru ni",
+          "japanese name": "劇場版 夏目友人帳 うつせみに結ぶ",
+          "sales": 2172,
+          "seats": 32977,
+          "showtimes": 167,
+          "theaters": 116,
+          "rank": 10,
           "last_week_ratio": null
         },
         {
-          "moviename": "Death Wish",
-          "japanese name": "デス・ウィッシュ",
-          "sales": 2800,
-          "seats": 45410,
-          "showtimes": 212,
-          "theaters": 109,
-          "rank": 4,
+          "moviename": "If the housewife is a primary school student!",
+          "japanese name": "若おかみは小学生！",
+          "sales": 1012,
+          "seats": 18299,
+          "showtimes": 118,
+          "theaters": 174,
+          "rank": 19,
+          "last_week_ratio": 120.3
+        },
+        {
+          "moviename": "Monster Hotel 2",
+          "japanese name": "モンスター・ホテル２",
+          "sales": 471,
+          "seats": 9778,
+          "showtimes": 47,
+          "theaters": 28,
+          "rank": 25,
           "last_week_ratio": null
         },
         {
-          "moviename": "Pooh and the grown-up me",
-          "japanese name": "プーと大人になった僕",
-          "sales": 2756,
-          "seats": 42204,
-          "showtimes": 262,
-          "theaters": 264,
-          "rank": 5,
+          "moviename": "The theatrical version is “Ikara-san ga Tōru” Part 2: “Hana no Tokyo Dai Romantan”",
+          "japanese name": "劇場版はいからさんが通る 後編 花の東京大ロマン",
+          "sales": 854,
+          "seats": 12252,
+          "showtimes": 88,
+          "theaters": 47,
+          "rank": 22,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "2001: A Space Odyssey – IMAX Screening",
+          "japanese name": "２００１年宇宙の旅 ＩＭＡＸ上映",
+          "sales": 915,
+          "seats": 9696,
+          "showtimes": 30,
+          "theaters": 22,
+          "rank": 20,
           "last_week_ratio": null
         },
         {
@@ -76,66 +96,6 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Before the coffee cools down",
-          "japanese name": "コーヒーが冷めないうちに",
-          "sales": 2422,
-          "seats": 39765,
-          "showtimes": 294,
-          "theaters": 245,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Scattered camellias",
-          "japanese name": "散り椿",
-          "sales": 2365,
-          "seats": 60534,
-          "showtimes": 435,
-          "theaters": 256,
-          "rank": 9,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version: Nekomonogatari: Shiro no Naka no Yoru ni",
-          "japanese name": "劇場版 夏目友人帳 うつせみに結ぶ",
-          "sales": 2172,
-          "seats": 32977,
-          "showtimes": 167,
-          "theaters": 116,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "That girl’s obsession.",
-          "japanese name": "あのコの、トリコ。",
-          "sales": 1959,
-          "seats": 25888,
-          "showtimes": 166,
-          "theaters": 126,
-          "rank": 11,
-          "last_week_ratio": 118.8
-        },
-        {
-          "moviename": "Don’t stop the camera!",
-          "japanese name": "カメラを止めるな！",
-          "sales": 1747,
-          "seats": 26248,
-          "showtimes": 149,
-          "theaters": 197,
-          "rank": 12,
-          "last_week_ratio": 155.8
-        },
-        {
-          "moviename": "Theatrical Movie: Magical Girl Lyrical Nanoha: Detonation",
-          "japanese name": "劇場版 魔法少女リリカルなのは Ｄｅｔｏｎａｔｉｏｎ",
-          "sales": 1609,
-          "seats": 52772,
-          "showtimes": 185,
-          "theaters": 76,
-          "rank": 13,
-          "last_week_ratio": null
-        },
-        {
           "moviename": "Hanalei Bay",
           "japanese name": "ハナレイベイ",
           "sales": 1564,
@@ -146,13 +106,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The Law of the Universe - Dawn Edition -",
-          "japanese name": "宇宙の法－黎明編－",
-          "sales": 1380,
-          "seats": 35063,
-          "showtimes": 168,
-          "theaters": 108,
-          "rank": 15,
+          "moviename": "Louis and the Mystery Clock",
+          "japanese name": "ルイスと不思議の時計",
+          "sales": 3782,
+          "seats": 65487,
+          "showtimes": 391,
+          "theaters": 200,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Death Wish",
+          "japanese name": "デス・ウィッシュ",
+          "sales": 2800,
+          "seats": 45410,
+          "showtimes": 212,
+          "theaters": 109,
+          "rank": 4,
           "last_week_ratio": null
         },
         {
@@ -166,43 +136,43 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Monster Strike THE MOVIE Sorano Kanata",
-          "japanese name": "モンスターストライク ＴＨＥ ＭＯＶＩＥ ソラノカナタ",
-          "sales": 1156,
-          "seats": 41334,
-          "showtimes": 289,
-          "theaters": 256,
-          "rank": 17,
+          "moviename": "Pooh and the grown-up me",
+          "japanese name": "プーと大人になった僕",
+          "sales": 2756,
+          "seats": 42204,
+          "showtimes": 262,
+          "theaters": 264,
+          "rank": 5,
           "last_week_ratio": null
         },
         {
-          "moviename": "Equalizer 2",
-          "japanese name": "イコライザー２",
-          "sales": 1103,
-          "seats": 20242,
-          "showtimes": 119,
-          "theaters": 125,
-          "rank": 18,
+          "moviename": "That girl’s obsession.",
+          "japanese name": "あのコの、トリコ。",
+          "sales": 1959,
+          "seats": 25888,
+          "showtimes": 166,
+          "theaters": 126,
+          "rank": 11,
+          "last_week_ratio": 118.8
+        },
+        {
+          "moviename": "Louden up, turtle! I don't even understand what you're singing!",
+          "japanese name": "音量を上げろタコ！なに歌ってんのか全然わかんねぇんだよ！！",
+          "sales": 506,
+          "seats": 23799,
+          "showtimes": 165,
+          "theaters": 168,
+          "rank": 24,
           "last_week_ratio": null
         },
         {
-          "moviename": "If the housewife is a primary school student!",
-          "japanese name": "若おかみは小学生！",
-          "sales": 1012,
-          "seats": 18299,
-          "showtimes": 118,
-          "theaters": 174,
-          "rank": 19,
-          "last_week_ratio": 120.3
-        },
-        {
-          "moviename": "2001: A Space Odyssey – IMAX Screening",
-          "japanese name": "２００１年宇宙の旅 ＩＭＡＸ上映",
-          "sales": 915,
-          "seats": 9696,
-          "showtimes": 30,
-          "theaters": 22,
-          "rank": 20,
+          "moviename": "Everyday is a Good Day",
+          "japanese name": "日日是好日",
+          "sales": 10624,
+          "seats": 86775,
+          "showtimes": 361,
+          "theaters": 136,
+          "rank": 1,
           "last_week_ratio": null
         },
         {
@@ -216,13 +186,63 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "The theatrical version is “Ikara-san ga Tōru” Part 2: “Hana no Tokyo Dai Romantan”",
-          "japanese name": "劇場版はいからさんが通る 後編 花の東京大ロマン",
-          "sales": 854,
-          "seats": 12252,
-          "showtimes": 88,
-          "theaters": 47,
-          "rank": 22,
+          "moviename": "Theatrical Movie: Magical Girl Lyrical Nanoha: Detonation",
+          "japanese name": "劇場版 魔法少女リリカルなのは Ｄｅｔｏｎａｔｉｏｎ",
+          "sales": 1609,
+          "seats": 52772,
+          "showtimes": 185,
+          "theaters": 76,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Equalizer 2",
+          "japanese name": "イコライザー２",
+          "sales": 1103,
+          "seats": 20242,
+          "showtimes": 119,
+          "theaters": 125,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Law of the Universe - Dawn Edition -",
+          "japanese name": "宇宙の法－黎明編－",
+          "sales": 1380,
+          "seats": 35063,
+          "showtimes": 168,
+          "theaters": 108,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Don’t stop the camera!",
+          "japanese name": "カメラを止めるな！",
+          "sales": 1747,
+          "seats": 26248,
+          "showtimes": 149,
+          "theaters": 197,
+          "rank": 12,
+          "last_week_ratio": 155.8
+        },
+        {
+          "moviename": "Scattered camellias",
+          "japanese name": "散り椿",
+          "sales": 2365,
+          "seats": 60534,
+          "showtimes": 435,
+          "theaters": 256,
+          "rank": 9,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Yi Nan",
+          "japanese name": "億男",
+          "sales": 6671,
+          "seats": 196207,
+          "showtimes": 559,
+          "theaters": 246,
+          "rank": 2,
           "last_week_ratio": null
         },
         {
@@ -234,26 +254,6 @@
           "theaters": 96,
           "rank": 23,
           "last_week_ratio": null
-        },
-        {
-          "moviename": "Louden up, turtle! I don't even understand what you're singing!",
-          "japanese name": "音量を上げろタコ！なに歌ってんのか全然わかんねぇんだよ！！",
-          "sales": 506,
-          "seats": 23799,
-          "showtimes": 165,
-          "theaters": 168,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Monster Hotel 2",
-          "japanese name": "モンスター・ホテル２",
-          "sales": 471,
-          "seats": 9778,
-          "showtimes": 47,
-          "theaters": 28,
-          "rank": 25,
-          "last_week_ratio": null
         }
       ]
     },
@@ -262,53 +262,63 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "Everyday is a Good Day",
-          "japanese name": "日日是好日",
-          "sales": 12813,
-          "seats": 123056,
-          "showtimes": 524,
-          "theaters": 136,
-          "rank": 1,
+          "moviename": "Before the coffee cools down",
+          "japanese name": "コーヒーが冷めないうちに",
+          "sales": 3869,
+          "seats": 65901,
+          "showtimes": 485,
+          "theaters": 245,
+          "rank": 8,
           "last_week_ratio": null
         },
         {
-          "moviename": "Yi Nan",
-          "japanese name": "億男",
-          "sales": 10918,
-          "seats": 351831,
-          "showtimes": 1010,
-          "theaters": 246,
-          "rank": 2,
+          "moviename": "Monster Strike THE MOVIE Sorano Kanata",
+          "japanese name": "モンスターストライク ＴＨＥ ＭＯＶＩＥ ソラノカナタ",
+          "sales": 2151,
+          "seats": 79026,
+          "showtimes": 551,
+          "theaters": 256,
+          "rank": 17,
           "last_week_ratio": null
         },
         {
-          "moviename": "Louis and the Mystery Clock",
-          "japanese name": "ルイスと不思議の時計",
-          "sales": 5283,
-          "seats": 102859,
-          "showtimes": 615,
-          "theaters": 200,
-          "rank": 3,
+          "moviename": "Theatrical Version: Nekomonogatari: Shiro no Naka no Yoru ni",
+          "japanese name": "劇場版 夏目友人帳 うつせみに結ぶ",
+          "sales": 3453,
+          "seats": 56096,
+          "showtimes": 289,
+          "theaters": 116,
+          "rank": 10,
           "last_week_ratio": null
         },
         {
-          "moviename": "Pooh and the grown-up me",
-          "japanese name": "プーと大人になった僕",
-          "sales": 4802,
-          "seats": 79946,
-          "showtimes": 487,
-          "theaters": 264,
-          "rank": 4,
+          "moviename": "If the housewife is a primary school student!",
+          "japanese name": "若おかみは小学生！",
+          "sales": 1505,
+          "seats": 32844,
+          "showtimes": 202,
+          "theaters": 174,
+          "rank": 20,
+          "last_week_ratio": 109.5
+        },
+        {
+          "moviename": "The theatrical version is “Ikara-san ga Tōru” Part 2: “Hana no Tokyo Dai Romantan”",
+          "japanese name": "劇場版はいからさんが通る 後編 花の東京大ロマン",
+          "sales": 1305,
+          "seats": 20923,
+          "showtimes": 147,
+          "theaters": 47,
+          "rank": 23,
           "last_week_ratio": null
         },
         {
-          "moviename": "Detective Conan 2018: The Executioner of Zero",
-          "japanese name": "名探偵コナン２０１８ ゼロの執行人（しっこうにん）",
-          "sales": 4388,
-          "seats": 22535,
-          "showtimes": 233,
-          "theaters": 61,
-          "rank": 5,
+          "moviename": "2001: A Space Odyssey – IMAX Screening",
+          "japanese name": "２００１年宇宙の旅 ＩＭＡＸ上映",
+          "sales": 1421,
+          "seats": 14991,
+          "showtimes": 46,
+          "theaters": 22,
+          "rank": 22,
           "last_week_ratio": null
         },
         {
@@ -322,6 +332,36 @@
           "last_week_ratio": null
         },
         {
+          "moviename": "Detective Conan 2018: The Executioner of Zero",
+          "japanese name": "名探偵コナン２０１８ ゼロの執行人（しっこうにん）",
+          "sales": 4388,
+          "seats": 22535,
+          "showtimes": 233,
+          "theaters": 61,
+          "rank": 5,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Hanalei Bay",
+          "japanese name": "ハナレイベイ",
+          "sales": 2391,
+          "seats": 53216,
+          "showtimes": 283,
+          "theaters": 90,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Louis and the Mystery Clock",
+          "japanese name": "ルイスと不思議の時計",
+          "sales": 5283,
+          "seats": 102859,
+          "showtimes": 615,
+          "theaters": 200,
+          "rank": 3,
+          "last_week_ratio": null
+        },
+        {
           "moviename": "Death Wish",
           "japanese name": "デス・ウィッシュ",
           "sales": 4012,
@@ -332,13 +372,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Before the coffee cools down",
-          "japanese name": "コーヒーが冷めないうちに",
-          "sales": 3869,
-          "seats": 65901,
-          "showtimes": 485,
-          "theaters": 245,
-          "rank": 8,
+          "moviename": "Quiet Place",
+          "japanese name": "クワイエット・プレイス",
+          "sales": 3452,
+          "seats": 41622,
+          "showtimes": 262,
+          "theaters": 156,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pooh and the grown-up me",
+          "japanese name": "プーと大人になった僕",
+          "sales": 4802,
+          "seats": 79946,
+          "showtimes": 487,
+          "theaters": 264,
+          "rank": 4,
           "last_week_ratio": null
         },
         {
@@ -352,23 +402,73 @@
           "last_week_ratio": 105.6
         },
         {
-          "moviename": "Theatrical Version: Nekomonogatari: Shiro no Naka no Yoru ni",
-          "japanese name": "劇場版 夏目友人帳 うつせみに結ぶ",
-          "sales": 3453,
-          "seats": 56096,
-          "showtimes": 289,
-          "theaters": 116,
-          "rank": 10,
+          "moviename": "Louden up, turtle! I don't even understand what you're singing!",
+          "japanese name": "音量を上げろタコ！なに歌ってんのか全然わかんねぇんだよ！！",
+          "sales": 994,
+          "seats": 45639,
+          "showtimes": 308,
+          "theaters": 168,
+          "rank": 24,
           "last_week_ratio": null
         },
         {
-          "moviename": "Quiet Place",
-          "japanese name": "クワイエット・プレイス",
-          "sales": 3452,
-          "seats": 41622,
-          "showtimes": 262,
-          "theaters": 156,
-          "rank": 11,
+          "moviename": "Everyday is a Good Day",
+          "japanese name": "日日是好日",
+          "sales": 12813,
+          "seats": 123056,
+          "showtimes": 524,
+          "theaters": 136,
+          "rank": 1,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Re: Zero Starting Life in a Different World Memory Snow",
+          "japanese name": "Ｒｅ：ゼロから始める異世界生活 Ｍｅｍｏｒｙ Ｓｎｏｗ",
+          "sales": 1791,
+          "seats": 28960,
+          "showtimes": 154,
+          "theaters": 62,
+          "rank": 19,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The prosecution’s view of the criminal",
+          "japanese name": "検察側の罪人",
+          "sales": 745,
+          "seats": 30664,
+          "showtimes": 222,
+          "theaters": 251,
+          "rank": 25,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Theatrical Movie: Magical Girl Lyrical Nanoha: Detonation",
+          "japanese name": "劇場版 魔法少女リリカルなのは Ｄｅｔｏｎａｔｉｏｎ",
+          "sales": 2628,
+          "seats": 88586,
+          "showtimes": 310,
+          "theaters": 76,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Equalizer 2",
+          "japanese name": "イコライザー２",
+          "sales": 1992,
+          "seats": 35821,
+          "showtimes": 208,
+          "theaters": 125,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Law of the Universe - Dawn Edition -",
+          "japanese name": "宇宙の法－黎明編－",
+          "sales": 2345,
+          "seats": 61326,
+          "showtimes": 296,
+          "theaters": 108,
+          "rank": 16,
           "last_week_ratio": null
         },
         {
@@ -392,74 +492,14 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Theatrical Movie: Magical Girl Lyrical Nanoha: Detonation",
-          "japanese name": "劇場版 魔法少女リリカルなのは Ｄｅｔｏｎａｔｉｏｎ",
-          "sales": 2628,
-          "seats": 88586,
-          "showtimes": 310,
-          "theaters": 76,
-          "rank": 14,
+          "moviename": "Yi Nan",
+          "japanese name": "億男",
+          "sales": 10918,
+          "seats": 351831,
+          "showtimes": 1010,
+          "theaters": 246,
+          "rank": 2,
           "last_week_ratio": null
-        },
-        {
-          "moviename": "Hanalei Bay",
-          "japanese name": "ハナレイベイ",
-          "sales": 2391,
-          "seats": 53216,
-          "showtimes": 283,
-          "theaters": 90,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Law of the Universe - Dawn Edition -",
-          "japanese name": "宇宙の法－黎明編－",
-          "sales": 2345,
-          "seats": 61326,
-          "showtimes": 296,
-          "theaters": 108,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Monster Strike THE MOVIE Sorano Kanata",
-          "japanese name": "モンスターストライク ＴＨＥ ＭＯＶＩＥ ソラノカナタ",
-          "sales": 2151,
-          "seats": 79026,
-          "showtimes": 551,
-          "theaters": 256,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Equalizer 2",
-          "japanese name": "イコライザー２",
-          "sales": 1992,
-          "seats": 35821,
-          "showtimes": 208,
-          "theaters": 125,
-          "rank": 18,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Re: Zero Starting Life in a Different World Memory Snow",
-          "japanese name": "Ｒｅ：ゼロから始める異世界生活 Ｍｅｍｏｒｙ Ｓｎｏｗ",
-          "sales": 1791,
-          "seats": 28960,
-          "showtimes": 154,
-          "theaters": 62,
-          "rank": 19,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "If the housewife is a primary school student!",
-          "japanese name": "若おかみは小学生！",
-          "sales": 1505,
-          "seats": 32844,
-          "showtimes": 202,
-          "theaters": 174,
-          "rank": 20,
-          "last_week_ratio": 109.5
         },
         {
           "moviename": "Back then, I pursued you.",
@@ -470,46 +510,6 @@
           "theaters": 96,
           "rank": 21,
           "last_week_ratio": null
-        },
-        {
-          "moviename": "2001: A Space Odyssey – IMAX Screening",
-          "japanese name": "２００１年宇宙の旅 ＩＭＡＸ上映",
-          "sales": 1421,
-          "seats": 14991,
-          "showtimes": 46,
-          "theaters": 22,
-          "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The theatrical version is “Ikara-san ga Tōru” Part 2: “Hana no Tokyo Dai Romantan”",
-          "japanese name": "劇場版はいからさんが通る 後編 花の東京大ロマン",
-          "sales": 1305,
-          "seats": 20923,
-          "showtimes": 147,
-          "theaters": 47,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Louden up, turtle! I don't even understand what you're singing!",
-          "japanese name": "音量を上げろタコ！なに歌ってんのか全然わかんねぇんだよ！！",
-          "sales": 994,
-          "seats": 45639,
-          "showtimes": 308,
-          "theaters": 168,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The prosecution’s view of the criminal",
-          "japanese name": "検察側の罪人",
-          "sales": 745,
-          "seats": 30664,
-          "showtimes": 222,
-          "theaters": 251,
-          "rank": 25,
-          "last_week_ratio": null
         }
       ]
     },
@@ -518,43 +518,73 @@
       "time": "Final",
       "data": [
         {
-          "moviename": "Everyday is a Good Day",
-          "japanese name": "日日是好日",
-          "sales": 13225,
-          "seats": 144796,
-          "showtimes": 620,
-          "theaters": 136,
-          "rank": 1,
+          "moviename": "Before the coffee cools down",
+          "japanese name": "コーヒーが冷めないうちに",
+          "sales": 4234,
+          "seats": 78119,
+          "showtimes": 577,
+          "theaters": 245,
+          "rank": 10,
           "last_week_ratio": null
         },
         {
-          "moviename": "Yi Nan",
-          "japanese name": "億男",
-          "sales": 12525,
-          "seats": 437050,
-          "showtimes": 1262,
-          "theaters": 246,
-          "rank": 2,
+          "moviename": "Monster Strike THE MOVIE Sorano Kanata",
+          "japanese name": "モンスターストライク ＴＨＥ ＭＯＶＩＥ ソラノカナタ",
+          "sales": 2468,
+          "seats": 93575,
+          "showtimes": 650,
+          "theaters": 256,
+          "rank": 17,
           "last_week_ratio": null
         },
         {
-          "moviename": "Louis and the Mystery Clock",
-          "japanese name": "ルイスと不思議の時計",
-          "sales": 5736,
-          "seats": 127213,
-          "showtimes": 765,
-          "theaters": 200,
-          "rank": 3,
+          "moviename": "Theatrical Version: Nekomonogatari: Shiro no Naka no Yoru ni",
+          "japanese name": "劇場版 夏目友人帳 うつせみに結ぶ",
+          "sales": 3978,
+          "seats": 68700,
+          "showtimes": 356,
+          "theaters": 116,
+          "rank": 11,
           "last_week_ratio": null
         },
         {
-          "moviename": "Pooh and the grown-up me",
-          "japanese name": "プーと大人になった僕",
-          "sales": 5345,
-          "seats": 92730,
-          "showtimes": 560,
-          "theaters": 264,
-          "rank": 4,
+          "moviename": "If the housewife is a primary school student!",
+          "japanese name": "若おかみは小学生！",
+          "sales": 1717,
+          "seats": 38620,
+          "showtimes": 229,
+          "theaters": 174,
+          "rank": 21,
+          "last_week_ratio": 111.6
+        },
+        {
+          "moviename": "The theatrical version is “Ikara-san ga Tōru” Part 2: “Hana no Tokyo Dai Romantan”",
+          "japanese name": "劇場版はいからさんが通る 後編 花の東京大ロマン",
+          "sales": 1544,
+          "seats": 26572,
+          "showtimes": 187,
+          "theaters": 47,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "2001: A Space Odyssey – IMAX Screening",
+          "japanese name": "２００１年宇宙の旅 ＩＭＡＸ上映",
+          "sales": 1831,
+          "seats": 19440,
+          "showtimes": 60,
+          "theaters": 22,
+          "rank": 20,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Perfect World The Miracle of Being With You",
+          "japanese name": "パーフェクトワールド 君といる奇跡",
+          "sales": 4857,
+          "seats": 97985,
+          "showtimes": 699,
+          "theaters": 251,
+          "rank": 6,
           "last_week_ratio": null
         },
         {
@@ -568,13 +598,23 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Perfect World The Miracle of Being With You",
-          "japanese name": "パーフェクトワールド 君といる奇跡",
-          "sales": 4857,
-          "seats": 97985,
-          "showtimes": 699,
-          "theaters": 251,
-          "rank": 6,
+          "moviename": "Hanalei Bay",
+          "japanese name": "ハナレイベイ",
+          "sales": 2849,
+          "seats": 70898,
+          "showtimes": 375,
+          "theaters": 90,
+          "rank": 15,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Louis and the Mystery Clock",
+          "japanese name": "ルイスと不思議の時計",
+          "sales": 5736,
+          "seats": 127213,
+          "showtimes": 765,
+          "theaters": 200,
+          "rank": 3,
           "last_week_ratio": null
         },
         {
@@ -598,33 +638,13 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Don’t stop the camera!",
-          "japanese name": "カメラを止めるな！",
-          "sales": 4359,
-          "seats": 71887,
-          "showtimes": 406,
-          "theaters": 197,
-          "rank": 9,
-          "last_week_ratio": 124.8
-        },
-        {
-          "moviename": "Before the coffee cools down",
-          "japanese name": "コーヒーが冷めないうちに",
-          "sales": 4234,
-          "seats": 78119,
-          "showtimes": 577,
-          "theaters": 245,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Theatrical Version: Nekomonogatari: Shiro no Naka no Yoru ni",
-          "japanese name": "劇場版 夏目友人帳 うつせみに結ぶ",
-          "sales": 3978,
-          "seats": 68700,
-          "showtimes": 356,
-          "theaters": 116,
-          "rank": 11,
+          "moviename": "Pooh and the grown-up me",
+          "japanese name": "プーと大人になった僕",
+          "sales": 5345,
+          "seats": 92730,
+          "showtimes": 560,
+          "theaters": 264,
+          "rank": 4,
           "last_week_ratio": null
         },
         {
@@ -638,63 +658,23 @@
           "last_week_ratio": 100
         },
         {
-          "moviename": "Theatrical Movie: Magical Girl Lyrical Nanoha: Detonation",
-          "japanese name": "劇場版 魔法少女リリカルなのは Ｄｅｔｏｎａｔｉｏｎ",
-          "sales": 3415,
-          "seats": 110863,
-          "showtimes": 388,
-          "theaters": 76,
-          "rank": 13,
+          "moviename": "Louden up, turtle! I don't even understand what you're singing!",
+          "japanese name": "音量を上げろタコ！なに歌ってんのか全然わかんねぇんだよ！！",
+          "sales": 1310,
+          "seats": 63644,
+          "showtimes": 432,
+          "theaters": 168,
+          "rank": 24,
           "last_week_ratio": null
         },
         {
-          "moviename": "Scattered camellias",
-          "japanese name": "散り椿",
-          "sales": 3003,
-          "seats": 87615,
-          "showtimes": 621,
-          "theaters": 256,
-          "rank": 14,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Hanalei Bay",
-          "japanese name": "ハナレイベイ",
-          "sales": 2849,
-          "seats": 70898,
-          "showtimes": 375,
-          "theaters": 90,
-          "rank": 15,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The Law of the Universe - Dawn Edition -",
-          "japanese name": "宇宙の法－黎明編－",
-          "sales": 2513,
-          "seats": 69631,
-          "showtimes": 331,
-          "theaters": 108,
-          "rank": 16,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Monster Strike THE MOVIE Sorano Kanata",
-          "japanese name": "モンスターストライク ＴＨＥ ＭＯＶＩＥ ソラノカナタ",
-          "sales": 2468,
-          "seats": 93575,
-          "showtimes": 650,
-          "theaters": 256,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Equalizer 2",
-          "japanese name": "イコライザー２",
-          "sales": 2325,
-          "seats": 50067,
-          "showtimes": 305,
-          "theaters": 125,
-          "rank": 18,
+          "moviename": "Everyday is a Good Day",
+          "japanese name": "日日是好日",
+          "sales": 13225,
+          "seats": 144796,
+          "showtimes": 620,
+          "theaters": 136,
+          "rank": 1,
           "last_week_ratio": null
         },
         {
@@ -708,24 +688,74 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "2001: A Space Odyssey – IMAX Screening",
-          "japanese name": "２００１年宇宙の旅 ＩＭＡＸ上映",
-          "sales": 1831,
-          "seats": 19440,
-          "showtimes": 60,
-          "theaters": 22,
-          "rank": 20,
+          "moviename": "The prosecution’s view of the criminal",
+          "japanese name": "検察側の罪人",
+          "sales": 845,
+          "seats": 36532,
+          "showtimes": 257,
+          "theaters": 251,
+          "rank": 25,
           "last_week_ratio": null
         },
         {
-          "moviename": "If the housewife is a primary school student!",
-          "japanese name": "若おかみは小学生！",
-          "sales": 1717,
-          "seats": 38620,
-          "showtimes": 229,
-          "theaters": 174,
-          "rank": 21,
-          "last_week_ratio": 111.6
+          "moviename": "Theatrical Movie: Magical Girl Lyrical Nanoha: Detonation",
+          "japanese name": "劇場版 魔法少女リリカルなのは Ｄｅｔｏｎａｔｉｏｎ",
+          "sales": 3415,
+          "seats": 110863,
+          "showtimes": 388,
+          "theaters": 76,
+          "rank": 13,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Equalizer 2",
+          "japanese name": "イコライザー２",
+          "sales": 2325,
+          "seats": 50067,
+          "showtimes": 305,
+          "theaters": 125,
+          "rank": 18,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "The Law of the Universe - Dawn Edition -",
+          "japanese name": "宇宙の法－黎明編－",
+          "sales": 2513,
+          "seats": 69631,
+          "showtimes": 331,
+          "theaters": 108,
+          "rank": 16,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Don’t stop the camera!",
+          "japanese name": "カメラを止めるな！",
+          "sales": 4359,
+          "seats": 71887,
+          "showtimes": 406,
+          "theaters": 197,
+          "rank": 9,
+          "last_week_ratio": 124.8
+        },
+        {
+          "moviename": "Scattered camellias",
+          "japanese name": "散り椿",
+          "sales": 3003,
+          "seats": 87615,
+          "showtimes": 621,
+          "theaters": 256,
+          "rank": 14,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Yi Nan",
+          "japanese name": "億男",
+          "sales": 12525,
+          "seats": 437050,
+          "showtimes": 1262,
+          "theaters": 246,
+          "rank": 2,
+          "last_week_ratio": null
         },
         {
           "moviename": "Back then, I pursued you.",
@@ -735,36 +765,6 @@
           "showtimes": 202,
           "theaters": 96,
           "rank": 22,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The theatrical version is “Ikara-san ga Tōru” Part 2: “Hana no Tokyo Dai Romantan”",
-          "japanese name": "劇場版はいからさんが通る 後編 花の東京大ロマン",
-          "sales": 1544,
-          "seats": 26572,
-          "showtimes": 187,
-          "theaters": 47,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Louden up, turtle! I don't even understand what you're singing!",
-          "japanese name": "音量を上げろタコ！なに歌ってんのか全然わかんねぇんだよ！！",
-          "sales": 1310,
-          "seats": 63644,
-          "showtimes": 432,
-          "theaters": 168,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "The prosecution’s view of the criminal",
-          "japanese name": "検察側の罪人",
-          "sales": 845,
-          "seats": 36532,
-          "showtimes": 257,
-          "theaters": 251,
-          "rank": 25,
           "last_week_ratio": null
         }
       ]

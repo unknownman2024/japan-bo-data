@@ -6,14 +6,24 @@
       "time": "2PM",
       "data": [
         {
-          "moviename": "Detective Conan 2018: The Executioner of Zero",
-          "japanese name": "名探偵コナン２０１８ ゼロの執行人（しっこうにん）",
-          "sales": 100939,
-          "seats": 271872,
-          "showtimes": 804,
-          "theaters": 273,
-          "rank": 1,
-          "last_week_ratio": 1002.1
+          "moviename": "Unlock/Mystery Code",
+          "japanese name": "アンロック／陰謀のコード",
+          "sales": 613,
+          "seats": 3056,
+          "showtimes": 26,
+          "theaters": 35,
+          "rank": 24,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Pacific Rim: Uprising",
+          "japanese name": "パシフィック・リム：アップライジング",
+          "sales": 3629,
+          "seats": 23239,
+          "showtimes": 195,
+          "theaters": 255,
+          "rank": 13,
+          "last_week_ratio": 166.2
         },
         {
           "moviename": "Movie: Crayon Shin-chan: Explosive! Kung Fu Boys ~Ramen Chaos~",
@@ -26,24 +36,54 @@
           "last_week_ratio": 5591.4
         },
         {
-          "moviename": "Avengers: Infinity War",
-          "japanese name": "アベンジャーズ／インフィニティ・ウォー",
-          "sales": 56219,
-          "seats": 192313,
-          "showtimes": 767,
-          "theaters": 278,
-          "rank": 3,
+          "moviename": "Taxi driver: The promise stretches across the seas.",
+          "japanese name": "タクシー運転手 約束は海を越えて",
+          "sales": 692,
+          "seats": 1504,
+          "showtimes": 13,
+          "theaters": 9,
+          "rank": 22,
+          "last_week_ratio": 212.3
+        },
+        {
+          "moviename": "Prostitute Years",
+          "japanese name": "娼年",
+          "sales": 899,
+          "seats": 2398,
+          "showtimes": 19,
+          "theaters": 57,
+          "rank": 21,
           "last_week_ratio": null
         },
         {
-          "moviename": "Lady Player 1",
-          "japanese name": "レディ・プレイヤー１",
-          "sales": 27182,
-          "seats": 89700,
-          "showtimes": 560,
-          "theaters": 277,
-          "rank": 4,
-          "last_week_ratio": 314.8
+          "moviename": "Mama’s Boy",
+          "japanese name": "ママレード・ボーイ",
+          "sales": 8735,
+          "seats": 81355,
+          "showtimes": 530,
+          "theaters": 243,
+          "rank": 10,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dogushiki",
+          "japanese name": "いぬやしき",
+          "sales": 11855,
+          "seats": 51966,
+          "showtimes": 434,
+          "theaters": 254,
+          "rank": 9,
+          "last_week_ratio": 357.3
+        },
+        {
+          "moviename": "Shane",
+          "japanese name": "シェーン",
+          "sales": 443,
+          "seats": 2232,
+          "showtimes": 20,
+          "theaters": 21,
+          "rank": 25,
+          "last_week_ratio": null
         },
         {
           "moviename": "Remember Me",
@@ -54,6 +94,36 @@
           "theaters": 272,
           "rank": 5,
           "last_week_ratio": 1042.4
+        },
+        {
+          "moviename": "Pentagon Papers: Top-secret documents",
+          "japanese name": "ペンタゴン・ペーパーズ 最高機密文書",
+          "sales": 1830,
+          "seats": 4867,
+          "showtimes": 38,
+          "theaters": 191,
+          "rank": 16,
+          "last_week_ratio": 141.3
+        },
+        {
+          "moviename": "Movie Precure Superstars!",
+          "japanese name": "映画プリキュアスーパースターズ！",
+          "sales": 1639,
+          "seats": 13646,
+          "showtimes": 86,
+          "theaters": 82,
+          "rank": 18,
+          "last_week_ratio": 1517.6
+        },
+        {
+          "moviename": "Jumanji: Welcome to the Jungle",
+          "japanese name": "ジュマンジ／ウェルカム・トゥ・ジャングル",
+          "sales": 4383,
+          "seats": 15654,
+          "showtimes": 133,
+          "theaters": 271,
+          "rank": 12,
+          "last_week_ratio": 376.2
         },
         {
           "moviename": "Boss Baby",
@@ -86,23 +156,53 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Dogushiki",
-          "japanese name": "いぬやしき",
-          "sales": 11855,
-          "seats": 51966,
-          "showtimes": 434,
-          "theaters": 254,
-          "rank": 9,
-          "last_week_ratio": 357.3
+          "moviename": "Chihayafuru – Conclusion –",
+          "japanese name": "ちはやふる－結び－",
+          "sales": 910,
+          "seats": 5432,
+          "showtimes": 43,
+          "theaters": 245,
+          "rank": 20,
+          "last_week_ratio": 319.3
         },
         {
-          "moviename": "Mama’s Boy",
-          "japanese name": "ママレード・ボーイ",
-          "sales": 8735,
-          "seats": 81355,
-          "showtimes": 530,
-          "theaters": 243,
-          "rank": 10,
+          "moviename": "Lady Player 1",
+          "japanese name": "レディ・プレイヤー１",
+          "sales": 27182,
+          "seats": 89700,
+          "showtimes": 560,
+          "theaters": 277,
+          "rank": 4,
+          "last_week_ratio": 314.8
+        },
+        {
+          "moviename": "Detective Conan 2018: The Executioner of Zero",
+          "japanese name": "名探偵コナン２０１８ ゼロの執行人（しっこうにん）",
+          "sales": 100939,
+          "seats": 271872,
+          "showtimes": 804,
+          "theaters": 273,
+          "rank": 1,
+          "last_week_ratio": 1002.1
+        },
+        {
+          "moviename": "The sun is everywhere.",
+          "japanese name": "太陽がいっぱい",
+          "sales": 685,
+          "seats": 2144,
+          "showtimes": 19,
+          "theaters": 19,
+          "rank": 23,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Call Me by Your Name",
+          "japanese name": "君の名前で僕を呼んで",
+          "sales": 1702,
+          "seats": 7168,
+          "showtimes": 55,
+          "theaters": 38,
+          "rank": 17,
           "last_week_ratio": null
         },
         {
@@ -116,36 +216,6 @@
           "last_week_ratio": 275.8
         },
         {
-          "moviename": "Jumanji: Welcome to the Jungle",
-          "japanese name": "ジュマンジ／ウェルカム・トゥ・ジャングル",
-          "sales": 4383,
-          "seats": 15654,
-          "showtimes": 133,
-          "theaters": 271,
-          "rank": 12,
-          "last_week_ratio": 376.2
-        },
-        {
-          "moviename": "Pacific Rim: Uprising",
-          "japanese name": "パシフィック・リム：アップライジング",
-          "sales": 3629,
-          "seats": 23239,
-          "showtimes": 195,
-          "theaters": 255,
-          "rank": 13,
-          "last_week_ratio": 166.2
-        },
-        {
-          "moviename": "Liz and the Blue Bird",
-          "japanese name": "リズと青い鳥",
-          "sales": 2823,
-          "seats": 14031,
-          "showtimes": 96,
-          "theaters": 61,
-          "rank": 14,
-          "last_week_ratio": 284.9
-        },
-        {
           "moviename": "Thomas the Tank Engine & Friends: Go! Adventure of Friendship",
           "japanese name": "映画きかんしゃトーマス とびだせ！友情の大冒険",
           "sales": 2680,
@@ -154,36 +224,6 @@
           "theaters": 105,
           "rank": 15,
           "last_week_ratio": 1675
-        },
-        {
-          "moviename": "Pentagon Papers: Top-secret documents",
-          "japanese name": "ペンタゴン・ペーパーズ 最高機密文書",
-          "sales": 1830,
-          "seats": 4867,
-          "showtimes": 38,
-          "theaters": 191,
-          "rank": 16,
-          "last_week_ratio": 141.3
-        },
-        {
-          "moviename": "Call Me by Your Name",
-          "japanese name": "君の名前で僕を呼んで",
-          "sales": 1702,
-          "seats": 7168,
-          "showtimes": 55,
-          "theaters": 38,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie Precure Superstars!",
-          "japanese name": "映画プリキュアスーパースターズ！",
-          "sales": 1639,
-          "seats": 13646,
-          "showtimes": 86,
-          "theaters": 82,
-          "rank": 18,
-          "last_week_ratio": 1517.6
         },
         {
           "moviename": "Winston Churchill/The Man Who Saved the World from Hitler",
@@ -196,63 +236,23 @@
           "last_week_ratio": 217.3
         },
         {
-          "moviename": "Chihayafuru – Conclusion –",
-          "japanese name": "ちはやふる－結び－",
-          "sales": 910,
-          "seats": 5432,
-          "showtimes": 43,
-          "theaters": 245,
-          "rank": 20,
-          "last_week_ratio": 319.3
+          "moviename": "Liz and the Blue Bird",
+          "japanese name": "リズと青い鳥",
+          "sales": 2823,
+          "seats": 14031,
+          "showtimes": 96,
+          "theaters": 61,
+          "rank": 14,
+          "last_week_ratio": 284.9
         },
         {
-          "moviename": "Prostitute Years",
-          "japanese name": "娼年",
-          "sales": 899,
-          "seats": 2398,
-          "showtimes": 19,
-          "theaters": 57,
-          "rank": 21,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Taxi driver: The promise stretches across the seas.",
-          "japanese name": "タクシー運転手 約束は海を越えて",
-          "sales": 692,
-          "seats": 1504,
-          "showtimes": 13,
-          "theaters": 9,
-          "rank": 22,
-          "last_week_ratio": 212.3
-        },
-        {
-          "moviename": "The sun is everywhere.",
-          "japanese name": "太陽がいっぱい",
-          "sales": 685,
-          "seats": 2144,
-          "showtimes": 19,
-          "theaters": 19,
-          "rank": 23,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Unlock/Mystery Code",
-          "japanese name": "アンロック／陰謀のコード",
-          "sales": 613,
-          "seats": 3056,
-          "showtimes": 26,
-          "theaters": 35,
-          "rank": 24,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Shane",
-          "japanese name": "シェーン",
-          "sales": 443,
-          "seats": 2232,
-          "showtimes": 20,
-          "theaters": 21,
-          "rank": 25,
+          "moviename": "Avengers: Infinity War",
+          "japanese name": "アベンジャーズ／インフィニティ・ウォー",
+          "sales": 56219,
+          "seats": 192313,
+          "showtimes": 767,
+          "theaters": 278,
+          "rank": 3,
           "last_week_ratio": null
         }
       ]
@@ -262,216 +262,6 @@
       "time": "7PM",
       "data": [
         {
-          "moviename": "Detective Conan 2018: The Executioner of Zero",
-          "japanese name": "名探偵コナン２０１８ ゼロの執行人（しっこうにん）",
-          "sales": 167145,
-          "seats": 486803,
-          "showtimes": 1448,
-          "theaters": 273,
-          "rank": 1,
-          "last_week_ratio": 693.4
-        },
-        {
-          "moviename": "Avengers: Infinity War",
-          "japanese name": "アベンジャーズ／インフィニティ・ウォー",
-          "sales": 110756,
-          "seats": 360061,
-          "showtimes": 1444,
-          "theaters": 278,
-          "rank": 2,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Movie: Crayon Shin-chan: Explosive! Kung Fu Boys ~Ramen Chaos~",
-          "japanese name": "映画クレヨンしんちゃん 爆盛！カンフーボーイズ～拉麺大乱～",
-          "sales": 77630,
-          "seats": 174220,
-          "showtimes": 1078,
-          "theaters": 269,
-          "rank": 3,
-          "last_week_ratio": 3090.4
-        },
-        {
-          "moviename": "Lady Player 1",
-          "japanese name": "レディ・プレイヤー１",
-          "sales": 58776,
-          "seats": 177612,
-          "showtimes": 1100,
-          "theaters": 277,
-          "rank": 4,
-          "last_week_ratio": 325.7
-        },
-        {
-          "moviename": "Remember Me",
-          "japanese name": "リメンバー・ミー",
-          "sales": 38796,
-          "seats": 82213,
-          "showtimes": 574,
-          "theaters": 272,
-          "rank": 5,
-          "last_week_ratio": 866.6
-        },
-        {
-          "moviename": "Boss Baby",
-          "japanese name": "ボス・ベイビー",
-          "sales": 27457,
-          "seats": 66628,
-          "showtimes": 499,
-          "theaters": 262,
-          "rank": 6,
-          "last_week_ratio": 1203.7
-        },
-        {
-          "moviename": "Dogushiki",
-          "japanese name": "いぬやしき",
-          "sales": 21594,
-          "seats": 97059,
-          "showtimes": 802,
-          "theaters": 254,
-          "rank": 7,
-          "last_week_ratio": 353
-        },
-        {
-          "moviename": "The Monster Next Door",
-          "japanese name": "となりの怪物くん",
-          "sales": 21492,
-          "seats": 183976,
-          "showtimes": 1041,
-          "theaters": 242,
-          "rank": 8,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Doraemon 2018: Nobita's Treasure Island",
-          "japanese name": "ドラえもん ２０１８ のび太の宝島",
-          "sales": 17378,
-          "seats": 39561,
-          "showtimes": 294,
-          "theaters": 253,
-          "rank": 9,
-          "last_week_ratio": 5910.9
-        },
-        {
-          "moviename": "Mama’s Boy",
-          "japanese name": "ママレード・ボーイ",
-          "sales": 15728,
-          "seats": 148239,
-          "showtimes": 958,
-          "theaters": 243,
-          "rank": 10,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Greatest Showman",
-          "japanese name": "グレイテスト・ショーマン",
-          "sales": 12841,
-          "seats": 26378,
-          "showtimes": 172,
-          "theaters": 172,
-          "rank": 11,
-          "last_week_ratio": 298.4
-        },
-        {
-          "moviename": "Jumanji: Welcome to the Jungle",
-          "japanese name": "ジュマンジ／ウェルカム・トゥ・ジャングル",
-          "sales": 11895,
-          "seats": 45245,
-          "showtimes": 368,
-          "theaters": 271,
-          "rank": 12,
-          "last_week_ratio": 423.9
-        },
-        {
-          "moviename": "Pacific Rim: Uprising",
-          "japanese name": "パシフィック・リム：アップライジング",
-          "sales": 8761,
-          "seats": 56838,
-          "showtimes": 459,
-          "theaters": 255,
-          "rank": 13,
-          "last_week_ratio": 189.1
-        },
-        {
-          "moviename": "Liz and the Blue Bird",
-          "japanese name": "リズと青い鳥",
-          "sales": 4930,
-          "seats": 24257,
-          "showtimes": 168,
-          "theaters": 61,
-          "rank": 14,
-          "last_week_ratio": 247.9
-        },
-        {
-          "moviename": "Pentagon Papers: Top-secret documents",
-          "japanese name": "ペンタゴン・ペーパーズ 最高機密文書",
-          "sales": 4693,
-          "seats": 15513,
-          "showtimes": 117,
-          "theaters": 190,
-          "rank": 15,
-          "last_week_ratio": 193.5
-        },
-        {
-          "moviename": "Chihayafuru – Conclusion –",
-          "japanese name": "ちはやふる－結び－",
-          "sales": 3652,
-          "seats": 29113,
-          "showtimes": 206,
-          "theaters": 245,
-          "rank": 16,
-          "last_week_ratio": 448.1
-        },
-        {
-          "moviename": "Call Me by Your Name",
-          "japanese name": "君の名前で僕を呼んで",
-          "sales": 3346,
-          "seats": 14006,
-          "showtimes": 106,
-          "theaters": 38,
-          "rank": 17,
-          "last_week_ratio": null
-        },
-        {
-          "moviename": "Thomas the Tank Engine & Friends: Go! Adventure of Friendship",
-          "japanese name": "映画きかんしゃトーマス とびだせ！友情の大冒険",
-          "sales": 2949,
-          "seats": 21319,
-          "showtimes": 155,
-          "theaters": 105,
-          "rank": 18,
-          "last_week_ratio": 1359
-        },
-        {
-          "moviename": "Prostitute Years",
-          "japanese name": "娼年",
-          "sales": 2630,
-          "seats": 7065,
-          "showtimes": 58,
-          "theaters": 57,
-          "rank": 19,
-          "last_week_ratio": 154.3
-        },
-        {
-          "moviename": "Winston Churchill/The Man Who Saved the World from Hitler",
-          "japanese name": "ウィンストンチャーチル／ヒトラーから世界を救った男",
-          "sales": 2281,
-          "seats": 5909,
-          "showtimes": 47,
-          "theaters": 34,
-          "rank": 20,
-          "last_week_ratio": 253.2
-        },
-        {
-          "moviename": "Movie Precure Superstars!",
-          "japanese name": "映画プリキュアスーパースターズ！",
-          "sales": 1754,
-          "seats": 14303,
-          "showtimes": 91,
-          "theaters": 82,
-          "rank": 21,
-          "last_week_ratio": 1426
-        },
-        {
           "moviename": "Unlock/Mystery Code",
           "japanese name": "アンロック／陰謀のコード",
           "sales": 1316,
@@ -480,16 +270,6 @@
           "theaters": 35,
           "rank": 22,
           "last_week_ratio": 112.5
-        },
-        {
-          "moviename": "Taxi driver: The promise stretches across the seas.",
-          "japanese name": "タクシー運転手 約束は海を越えて",
-          "sales": 1130,
-          "seats": 2576,
-          "showtimes": 22,
-          "theaters": 9,
-          "rank": 23,
-          "last_week_ratio": 196.2
         },
         {
           "moviename": "Honney",
@@ -502,100 +282,114 @@
           "last_week_ratio": 123
         },
         {
-          "moviename": "Dangal will surely become stronger.",
-          "japanese name": "ダンガル きっと、つよくなる",
-          "sales": 746,
-          "seats": 1932,
-          "showtimes": 14,
-          "theaters": 18,
-          "rank": 25,
-          "last_week_ratio": 224.7
-        }
-      ]
-    },
-    {
-      "title": "Including Independents",
-      "time": "Final",
-      "data": [
-        {
-          "moviename": "Detective Conan 2018: The Executioner of Zero",
-          "japanese name": "名探偵コナン２０１８ ゼロの執行人（しっこうにん）",
-          "sales": 183134,
-          "seats": 592172,
-          "showtimes": 1778,
-          "theaters": 273,
-          "rank": 1,
-          "last_week_ratio": 584
-        },
-        {
-          "moviename": "Avengers: Infinity War",
-          "japanese name": "アベンジャーズ／インフィニティ・ウォー",
-          "sales": 133375,
-          "seats": 472242,
-          "showtimes": 1897,
-          "theaters": 278,
-          "rank": 2,
-          "last_week_ratio": 14592.5
+          "moviename": "Pacific Rim: Uprising",
+          "japanese name": "パシフィック・リム：アップライジング",
+          "sales": 8761,
+          "seats": 56838,
+          "showtimes": 459,
+          "theaters": 255,
+          "rank": 13,
+          "last_week_ratio": 189.1
         },
         {
           "moviename": "Movie: Crayon Shin-chan: Explosive! Kung Fu Boys ~Ramen Chaos~",
           "japanese name": "映画クレヨンしんちゃん 爆盛！カンフーボーイズ～拉麺大乱～",
-          "sales": 77722,
-          "seats": 174780,
-          "showtimes": 1082,
+          "sales": 77630,
+          "seats": 174220,
+          "showtimes": 1078,
           "theaters": 269,
           "rank": 3,
-          "last_week_ratio": 3030.1
+          "last_week_ratio": 3090.4
         },
         {
-          "moviename": "Lady Player 1",
-          "japanese name": "レディ・プレイヤー１",
-          "sales": 68488,
-          "seats": 227946,
-          "showtimes": 1418,
-          "theaters": 277,
-          "rank": 4,
-          "last_week_ratio": 280.5
+          "moviename": "Taxi driver: The promise stretches across the seas.",
+          "japanese name": "タクシー運転手 約束は海を越えて",
+          "sales": 1130,
+          "seats": 2576,
+          "showtimes": 22,
+          "theaters": 9,
+          "rank": 23,
+          "last_week_ratio": 196.2
         },
         {
-          "moviename": "Remember Me",
-          "japanese name": "リメンバー・ミー",
-          "sales": 40950,
-          "seats": 93183,
-          "showtimes": 657,
-          "theaters": 272,
-          "rank": 5,
-          "last_week_ratio": 723.1
+          "moviename": "Prostitute Years",
+          "japanese name": "娼年",
+          "sales": 2630,
+          "seats": 7065,
+          "showtimes": 58,
+          "theaters": 57,
+          "rank": 19,
+          "last_week_ratio": 154.3
         },
         {
-          "moviename": "Boss Baby",
-          "japanese name": "ボス・ベイビー",
-          "sales": 27896,
-          "seats": 70498,
-          "showtimes": 524,
-          "theaters": 262,
-          "rank": 6,
-          "last_week_ratio": 1104.4
+          "moviename": "Mama’s Boy",
+          "japanese name": "ママレード・ボーイ",
+          "sales": 15728,
+          "seats": 148239,
+          "showtimes": 958,
+          "theaters": 243,
+          "rank": 10,
+          "last_week_ratio": null
         },
         {
           "moviename": "Dogushiki",
           "japanese name": "いぬやしき",
-          "sales": 24612,
-          "seats": 129446,
-          "showtimes": 1065,
+          "sales": 21594,
+          "seats": 97059,
+          "showtimes": 802,
           "theaters": 254,
           "rank": 7,
-          "last_week_ratio": 332.6
+          "last_week_ratio": 353
         },
         {
-          "moviename": "The Monster Next Door",
-          "japanese name": "となりの怪物くん",
-          "sales": 23038,
-          "seats": 229831,
-          "showtimes": 1307,
-          "theaters": 242,
-          "rank": 8,
-          "last_week_ratio": null
+          "moviename": "Remember Me",
+          "japanese name": "リメンバー・ミー",
+          "sales": 38796,
+          "seats": 82213,
+          "showtimes": 574,
+          "theaters": 272,
+          "rank": 5,
+          "last_week_ratio": 866.6
+        },
+        {
+          "moviename": "Pentagon Papers: Top-secret documents",
+          "japanese name": "ペンタゴン・ペーパーズ 最高機密文書",
+          "sales": 4693,
+          "seats": 15513,
+          "showtimes": 117,
+          "theaters": 190,
+          "rank": 15,
+          "last_week_ratio": 193.5
+        },
+        {
+          "moviename": "Movie Precure Superstars!",
+          "japanese name": "映画プリキュアスーパースターズ！",
+          "sales": 1754,
+          "seats": 14303,
+          "showtimes": 91,
+          "theaters": 82,
+          "rank": 21,
+          "last_week_ratio": 1426
+        },
+        {
+          "moviename": "Jumanji: Welcome to the Jungle",
+          "japanese name": "ジュマンジ／ウェルカム・トゥ・ジャングル",
+          "sales": 11895,
+          "seats": 45245,
+          "showtimes": 368,
+          "theaters": 271,
+          "rank": 12,
+          "last_week_ratio": 423.9
+        },
+        {
+          "moviename": "Boss Baby",
+          "japanese name": "ボス・ベイビー",
+          "sales": 27457,
+          "seats": 66628,
+          "showtimes": 499,
+          "theaters": 262,
+          "rank": 6,
+          "last_week_ratio": 1203.7
         },
         {
           "moviename": "Doraemon 2018: Nobita's Treasure Island",
@@ -608,34 +402,140 @@
           "last_week_ratio": 5910.9
         },
         {
-          "moviename": "Greatest Showman",
-          "japanese name": "グレイテスト・ショーマン",
-          "sales": 17097,
-          "seats": 38865,
-          "showtimes": 254,
-          "theaters": 172,
-          "rank": 10,
-          "last_week_ratio": 290.3
-        },
-        {
-          "moviename": "Mama’s Boy",
-          "japanese name": "ママレード・ボーイ",
-          "sales": 16986,
-          "seats": 186359,
-          "showtimes": 1208,
-          "theaters": 243,
-          "rank": 11,
+          "moviename": "The Monster Next Door",
+          "japanese name": "となりの怪物くん",
+          "sales": 21492,
+          "seats": 183976,
+          "showtimes": 1041,
+          "theaters": 242,
+          "rank": 8,
           "last_week_ratio": null
         },
         {
-          "moviename": "Jumanji: Welcome to the Jungle",
-          "japanese name": "ジュマンジ／ウェルカム・トゥ・ジャングル",
-          "sales": 13871,
-          "seats": 66546,
-          "showtimes": 530,
-          "theaters": 271,
-          "rank": 12,
-          "last_week_ratio": 369
+          "moviename": "Chihayafuru – Conclusion –",
+          "japanese name": "ちはやふる－結び－",
+          "sales": 3652,
+          "seats": 29113,
+          "showtimes": 206,
+          "theaters": 245,
+          "rank": 16,
+          "last_week_ratio": 448.1
+        },
+        {
+          "moviename": "Lady Player 1",
+          "japanese name": "レディ・プレイヤー１",
+          "sales": 58776,
+          "seats": 177612,
+          "showtimes": 1100,
+          "theaters": 277,
+          "rank": 4,
+          "last_week_ratio": 325.7
+        },
+        {
+          "moviename": "Detective Conan 2018: The Executioner of Zero",
+          "japanese name": "名探偵コナン２０１８ ゼロの執行人（しっこうにん）",
+          "sales": 167145,
+          "seats": 486803,
+          "showtimes": 1448,
+          "theaters": 273,
+          "rank": 1,
+          "last_week_ratio": 693.4
+        },
+        {
+          "moviename": "Call Me by Your Name",
+          "japanese name": "君の名前で僕を呼んで",
+          "sales": 3346,
+          "seats": 14006,
+          "showtimes": 106,
+          "theaters": 38,
+          "rank": 17,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dangal will surely become stronger.",
+          "japanese name": "ダンガル きっと、つよくなる",
+          "sales": 746,
+          "seats": 1932,
+          "showtimes": 14,
+          "theaters": 18,
+          "rank": 25,
+          "last_week_ratio": 224.7
+        },
+        {
+          "moviename": "Greatest Showman",
+          "japanese name": "グレイテスト・ショーマン",
+          "sales": 12841,
+          "seats": 26378,
+          "showtimes": 172,
+          "theaters": 172,
+          "rank": 11,
+          "last_week_ratio": 298.4
+        },
+        {
+          "moviename": "Thomas the Tank Engine & Friends: Go! Adventure of Friendship",
+          "japanese name": "映画きかんしゃトーマス とびだせ！友情の大冒険",
+          "sales": 2949,
+          "seats": 21319,
+          "showtimes": 155,
+          "theaters": 105,
+          "rank": 18,
+          "last_week_ratio": 1359
+        },
+        {
+          "moviename": "Winston Churchill/The Man Who Saved the World from Hitler",
+          "japanese name": "ウィンストンチャーチル／ヒトラーから世界を救った男",
+          "sales": 2281,
+          "seats": 5909,
+          "showtimes": 47,
+          "theaters": 34,
+          "rank": 20,
+          "last_week_ratio": 253.2
+        },
+        {
+          "moviename": "Liz and the Blue Bird",
+          "japanese name": "リズと青い鳥",
+          "sales": 4930,
+          "seats": 24257,
+          "showtimes": 168,
+          "theaters": 61,
+          "rank": 14,
+          "last_week_ratio": 247.9
+        },
+        {
+          "moviename": "Avengers: Infinity War",
+          "japanese name": "アベンジャーズ／インフィニティ・ウォー",
+          "sales": 110756,
+          "seats": 360061,
+          "showtimes": 1444,
+          "theaters": 278,
+          "rank": 2,
+          "last_week_ratio": null
+        }
+      ]
+    },
+    {
+      "title": "Including Independents",
+      "time": "Final",
+      "data": [
+        {
+          "moviename": "Unlock/Mystery Code",
+          "japanese name": "アンロック／陰謀のコード",
+          "sales": 1536,
+          "seats": 10151,
+          "showtimes": 77,
+          "theaters": 35,
+          "rank": 22,
+          "last_week_ratio": 118.1
+        },
+        {
+          "moviename": "Honney",
+          "japanese name": "ｈｏｎｅｙ",
+          "sales": 1009,
+          "seats": 6741,
+          "showtimes": 50,
+          "theaters": 49,
+          "rank": 24,
+          "last_week_ratio": 120.5
         },
         {
           "moviename": "Pacific Rim: Uprising",
@@ -648,6 +548,66 @@
           "last_week_ratio": 193.7
         },
         {
+          "moviename": "Movie: Crayon Shin-chan: Explosive! Kung Fu Boys ~Ramen Chaos~",
+          "japanese name": "映画クレヨンしんちゃん 爆盛！カンフーボーイズ～拉麺大乱～",
+          "sales": 77722,
+          "seats": 174780,
+          "showtimes": 1082,
+          "theaters": 269,
+          "rank": 3,
+          "last_week_ratio": 3030.1
+        },
+        {
+          "moviename": "Taxi driver: The promise stretches across the seas.",
+          "japanese name": "タクシー運転手 約束は海を越えて",
+          "sales": 1156,
+          "seats": 2810,
+          "showtimes": 25,
+          "theaters": 9,
+          "rank": 23,
+          "last_week_ratio": 180.3
+        },
+        {
+          "moviename": "Prostitute Years",
+          "japanese name": "娼年",
+          "sales": 3305,
+          "seats": 10181,
+          "showtimes": 80,
+          "theaters": 57,
+          "rank": 18,
+          "last_week_ratio": 144
+        },
+        {
+          "moviename": "Mama’s Boy",
+          "japanese name": "ママレード・ボーイ",
+          "sales": 16986,
+          "seats": 186359,
+          "showtimes": 1208,
+          "theaters": 243,
+          "rank": 11,
+          "last_week_ratio": null
+        },
+        {
+          "moviename": "Dogushiki",
+          "japanese name": "いぬやしき",
+          "sales": 24612,
+          "seats": 129446,
+          "showtimes": 1065,
+          "theaters": 254,
+          "rank": 7,
+          "last_week_ratio": 332.6
+        },
+        {
+          "moviename": "Remember Me",
+          "japanese name": "リメンバー・ミー",
+          "sales": 40950,
+          "seats": 93183,
+          "showtimes": 657,
+          "theaters": 272,
+          "rank": 5,
+          "last_week_ratio": 723.1
+        },
+        {
           "moviename": "Pentagon Papers: Top-secret documents",
           "japanese name": "ペンタゴン・ペーパーズ 最高機密文書",
           "sales": 6576,
@@ -658,14 +618,54 @@
           "last_week_ratio": 238.3
         },
         {
-          "moviename": "Liz and the Blue Bird",
-          "japanese name": "リズと青い鳥",
-          "sales": 5852,
-          "seats": 31994,
-          "showtimes": 223,
-          "theaters": 61,
-          "rank": 15,
-          "last_week_ratio": 209
+          "moviename": "Movie Precure Superstars!",
+          "japanese name": "映画プリキュアスーパースターズ！",
+          "sales": 1754,
+          "seats": 14303,
+          "showtimes": 91,
+          "theaters": 82,
+          "rank": 21,
+          "last_week_ratio": 1426
+        },
+        {
+          "moviename": "Jumanji: Welcome to the Jungle",
+          "japanese name": "ジュマンジ／ウェルカム・トゥ・ジャングル",
+          "sales": 13871,
+          "seats": 66546,
+          "showtimes": 530,
+          "theaters": 271,
+          "rank": 12,
+          "last_week_ratio": 369
+        },
+        {
+          "moviename": "Boss Baby",
+          "japanese name": "ボス・ベイビー",
+          "sales": 27896,
+          "seats": 70498,
+          "showtimes": 524,
+          "theaters": 262,
+          "rank": 6,
+          "last_week_ratio": 1104.4
+        },
+        {
+          "moviename": "Doraemon 2018: Nobita's Treasure Island",
+          "japanese name": "ドラえもん ２０１８ のび太の宝島",
+          "sales": 17378,
+          "seats": 39561,
+          "showtimes": 294,
+          "theaters": 253,
+          "rank": 9,
+          "last_week_ratio": 5910.9
+        },
+        {
+          "moviename": "The Monster Next Door",
+          "japanese name": "となりの怪物くん",
+          "sales": 23038,
+          "seats": 229831,
+          "showtimes": 1307,
+          "theaters": 242,
+          "rank": 8,
+          "last_week_ratio": null
         },
         {
           "moviename": "Chihayafuru – Conclusion –",
@@ -678,6 +678,26 @@
           "last_week_ratio": 430.1
         },
         {
+          "moviename": "Lady Player 1",
+          "japanese name": "レディ・プレイヤー１",
+          "sales": 68488,
+          "seats": 227946,
+          "showtimes": 1418,
+          "theaters": 277,
+          "rank": 4,
+          "last_week_ratio": 280.5
+        },
+        {
+          "moviename": "Detective Conan 2018: The Executioner of Zero",
+          "japanese name": "名探偵コナン２０１８ ゼロの執行人（しっこうにん）",
+          "sales": 183134,
+          "seats": 592172,
+          "showtimes": 1778,
+          "theaters": 273,
+          "rank": 1,
+          "last_week_ratio": 584
+        },
+        {
           "moviename": "Call Me by Your Name",
           "japanese name": "君の名前で僕を呼んで",
           "sales": 3874,
@@ -688,14 +708,24 @@
           "last_week_ratio": null
         },
         {
-          "moviename": "Prostitute Years",
-          "japanese name": "娼年",
-          "sales": 3305,
-          "seats": 10181,
-          "showtimes": 80,
-          "theaters": 57,
-          "rank": 18,
-          "last_week_ratio": 144
+          "moviename": "Dangal will surely become stronger.",
+          "japanese name": "ダンガル きっと、つよくなる",
+          "sales": 819,
+          "seats": 2816,
+          "showtimes": 22,
+          "theaters": 18,
+          "rank": 25,
+          "last_week_ratio": 218.4
+        },
+        {
+          "moviename": "Greatest Showman",
+          "japanese name": "グレイテスト・ショーマン",
+          "sales": 17097,
+          "seats": 38865,
+          "showtimes": 254,
+          "theaters": 172,
+          "rank": 10,
+          "last_week_ratio": 290.3
         },
         {
           "moviename": "Thomas the Tank Engine & Friends: Go! Adventure of Friendship",
@@ -718,54 +748,24 @@
           "last_week_ratio": 252.1
         },
         {
-          "moviename": "Movie Precure Superstars!",
-          "japanese name": "映画プリキュアスーパースターズ！",
-          "sales": 1754,
-          "seats": 14303,
-          "showtimes": 91,
-          "theaters": 82,
-          "rank": 21,
-          "last_week_ratio": 1426
+          "moviename": "Liz and the Blue Bird",
+          "japanese name": "リズと青い鳥",
+          "sales": 5852,
+          "seats": 31994,
+          "showtimes": 223,
+          "theaters": 61,
+          "rank": 15,
+          "last_week_ratio": 209
         },
         {
-          "moviename": "Unlock/Mystery Code",
-          "japanese name": "アンロック／陰謀のコード",
-          "sales": 1536,
-          "seats": 10151,
-          "showtimes": 77,
-          "theaters": 35,
-          "rank": 22,
-          "last_week_ratio": 118.1
-        },
-        {
-          "moviename": "Taxi driver: The promise stretches across the seas.",
-          "japanese name": "タクシー運転手 約束は海を越えて",
-          "sales": 1156,
-          "seats": 2810,
-          "showtimes": 25,
-          "theaters": 9,
-          "rank": 23,
-          "last_week_ratio": 180.3
-        },
-        {
-          "moviename": "Honney",
-          "japanese name": "ｈｏｎｅｙ",
-          "sales": 1009,
-          "seats": 6741,
-          "showtimes": 50,
-          "theaters": 49,
-          "rank": 24,
-          "last_week_ratio": 120.5
-        },
-        {
-          "moviename": "Dangal will surely become stronger.",
-          "japanese name": "ダンガル きっと、つよくなる",
-          "sales": 819,
-          "seats": 2816,
-          "showtimes": 22,
-          "theaters": 18,
-          "rank": 25,
-          "last_week_ratio": 218.4
+          "moviename": "Avengers: Infinity War",
+          "japanese name": "アベンジャーズ／インフィニティ・ウォー",
+          "sales": 133375,
+          "seats": 472242,
+          "showtimes": 1897,
+          "theaters": 278,
+          "rank": 2,
+          "last_week_ratio": 14592.5
         }
       ]
     }
