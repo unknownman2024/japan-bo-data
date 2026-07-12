@@ -3,7 +3,8 @@
 Fetch box office data, process into movie‑slug, daywise (one file per date),
 and yearly index JSONs. Uses asyncio + aiohttp for fast concurrent fetching.
 
-Supports custom date ranges via --start and --end.
+Supports custom date ranges via --start and --end, and --rebuild-yearly to
+regenerate indices only.
 """
 
 import asyncio
@@ -485,6 +486,7 @@ async def rebuild_daywise_from_database():
 
     logger.info(f"Rebuilt {len(daywise_data)} daywise files.")
 
+# ================= FIXED YEARLY INDEX =================
 async def build_yearly_index():
     all_movies = movie_store.get_all_movies()
     yearly = defaultdict(list)
@@ -528,6 +530,7 @@ async def build_yearly_index():
             logger.error(f"Failed to write {filepath}: {e}")
 
     logger.info("Yearly indices rebuilt.")
+# =====================================================
 
 async def apply_corrections():
     if not CORRECTIONS_FILE.exists():
@@ -659,16 +662,20 @@ async def reconsolidate_movies():
 
         movie_store.movies[canonical_slug] = movie_data
 
-async def main(start_date=None, end_date=None, full_fetch=False):
+async def main(start_date=None, end_date=None, full_fetch=False, rebuild_yearly=False):
     """
     Fetch data between start_date and end_date (inclusive).
-    If not provided:
-      - full_fetch: from START_DATE to today
-      - otherwise: only yesterday
+    If rebuild_yearly is True, skip fetching and only rebuild yearly indices.
     """
     await movie_slug_mapper.load()
     await movie_store.load_all()
     await apply_corrections()
+
+    # If only rebuilding yearly indices, do that and exit
+    if rebuild_yearly:
+        await build_yearly_index()
+        logger.info("Yearly indices rebuilt (no fetch).")
+        return
 
     today = datetime.today().date()
 
@@ -680,7 +687,6 @@ async def main(start_date=None, end_date=None, full_fetch=False):
             if start_date < START_DATE.date():
                 start_date = START_DATE.date()
     else:
-        # ensure it's a date object
         if isinstance(start_date, datetime):
             start_date = start_date.date()
 
@@ -697,7 +703,6 @@ async def main(start_date=None, end_date=None, full_fetch=False):
         logger.error("Start date must be before or equal to end date.")
         return
 
-    # Clip to START_DATE (we never go before that)
     if start_date < START_DATE.date():
         start_date = START_DATE.date()
 
@@ -740,6 +745,7 @@ if __name__ == "__main__":
     parser.add_argument("--start", help="Start date (YYYY-MM-DD). Default: yesterday (or START_DATE if --full).")
     parser.add_argument("--end", help="End date (YYYY-MM-DD). Default: same as start (or today if --full).")
     parser.add_argument("--full", action="store_true", help="Fetch from START_DATE to today (ignores --start/--end).")
+    parser.add_argument("--rebuild-yearly", action="store_true", help="Only rebuild yearly indices from existing database, no fetching.")
     args = parser.parse_args()
 
     start = None
@@ -749,4 +755,4 @@ if __name__ == "__main__":
     if args.end:
         end = datetime.strptime(args.end, "%Y-%m-%d")
 
-    asyncio.run(main(start_date=start, end_date=end, full_fetch=args.full))
+    asyncio.run(main(start_date=start, end_date=end, full_fetch=args.full, rebuild_yearly=args.rebuild_yearly))
