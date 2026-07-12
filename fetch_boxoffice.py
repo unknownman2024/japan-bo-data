@@ -495,13 +495,13 @@ async def build_yearly_index():
         release_date = datetime.strptime(movie["releaseDate"], "%d-%m-%Y")
         year = release_date.year
 
-        # Group entries by date, keep the highest-priority time for each date
+        # Group entries by date, keep the one with the highest sales for each date
         date_best = {}
         for entry in movie["entries"]:
             date_str = entry["date"]
-            time_label = entry["time"]
-            # If this date not seen yet, or current time has higher priority
-            if date_str not in date_best or TIME_ORDER.index(time_label) > TIME_ORDER.index(date_best[date_str]["time"]):
+            # If this date not seen yet, or current sales are higher
+            if (date_str not in date_best or
+                entry["sales"] > date_best[date_str]["sales"]):
                 date_best[date_str] = entry
 
         # Sum over the best daily entries
