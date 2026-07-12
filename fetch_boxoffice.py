@@ -493,10 +493,20 @@ async def build_yearly_index():
         release_date = datetime.strptime(movie["releaseDate"], "%d-%m-%Y")
         year = release_date.year
 
-        total_sales = sum(e["sales"] for e in movie["entries"])
-        total_seats = sum(e["seats"] for e in movie["entries"])
-        total_showtimes = sum(e["showtimes"] for e in movie["entries"])
-        total_theaters = sum(e["theaters"] for e in movie["entries"])
+        # Group entries by date, keep the highest-priority time for each date
+        date_best = {}
+        for entry in movie["entries"]:
+            date_str = entry["date"]
+            time_label = entry["time"]
+            # If this date not seen yet, or current time has higher priority
+            if date_str not in date_best or TIME_ORDER.index(time_label) > TIME_ORDER.index(date_best[date_str]["time"]):
+                date_best[date_str] = entry
+
+        # Sum over the best daily entries
+        total_sales = sum(e["sales"] for e in date_best.values())
+        total_seats = sum(e["seats"] for e in date_best.values())
+        total_showtimes = sum(e["showtimes"] for e in date_best.values())
+        total_theaters = sum(e["theaters"] for e in date_best.values())
 
         yearly[year].append({
             "movie_name": movie["movie_name"],
