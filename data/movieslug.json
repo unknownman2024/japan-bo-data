@@ -3831,8 +3831,7 @@
     "english_name": "Kiseki – Those People from That Day –"
   },
   "（ＬＩＶＥ ＺＯＵＮＤ） バーフバリ 伝説誕生 ＜完全版＞ 字幕": {
-    "slug": "live-zoon-baahubali-the-beginning-full-version-sub",
-    "english_name": "(LIVE ZOON) Baahubali: The Beginning <Full Version> Subtitles"
+    "redirect": "バーフバリ 伝説誕生"
   },
   "ひまわり ＜５０周年ＨＤレストア版＞": {
     "slug": "sunflower-50th-anniversary-hd-restoration-edition",
@@ -18455,10 +18454,10 @@
     "manual_slug": false
   },
   "バーフバリ 王の凱旋": {
-    "slug": "bharatbari-the-king-s-triumph",
-    "english_name": "Bharatbari: The King’s Triumph",
-    "manual_english": false,
-    "manual_slug": false
+    "slug": "baahubali-2-the-conclusion",
+    "english_name": "Baahubali 2 The Conclusion",
+    "manual_english": true,
+    "manual_slug": true
   },
   "オールアイズオンミー": {
     "slug": "all-eyes-on-me",
@@ -19943,10 +19942,7 @@
     "manual_slug": false
   },
   "＜爆音映画祭＞バーフバリ 王の凱旋": {
-    "slug": "boom-sound-film-festival-baahubali-the-king-s-retu",
-    "english_name": "<Boom Sound Film Festival> Baahubali: The King's Return",
-    "manual_english": false,
-    "manual_slug": false
+    "redirect": "バーフバリ 王の凱旋"
   },
   "孤狼の血": {
     "slug": "blood-of-the-lone-wolf",
@@ -22321,6 +22317,18 @@
   "Ｈｅｌｌｏ！ Ｐｒｏｊｅｃｔ ２０１８ ＳＵＭＭＥＲ ライブビューイング": {
     "slug": "hello-project-2018-summer-live-viewing",
     "english_name": "Hello! Project 2018 Summer Live Viewing",
+    "manual_english": false,
+    "manual_slug": false
+  },
+  "ちゃんみな「ＡＲＥＡ ＯＦ ＤＩＡＭＯＮＤ ＦＩＮＡＬ」ＬＩＶＥ ＶＩＥＷＩＮＧ": {
+    "slug": "everyone-is-watching-the-area-of-diamond-final-liv",
+    "english_name": "Everyone is watching the “AREA OF DIAMOND FINAL” live.",
+    "manual_english": false,
+    "manual_slug": false
+  },
+  "ＭＥＬＬＯＷ ＤＥＡＲ ＵＳ １ｓｔ ＪＡＰＡＮ Ｔｏｕｒ Ｆｉｎａｌ ＬＩＶＥ ＶＩＥＷＩＮＧ": {
+    "slug": "mellow-deer-us-1st-japan-tour-final-live-viewing",
+    "english_name": "Mellow Deer US 1st Japan Tour Final Live Viewing",
     "manual_english": false,
     "manual_slug": false
   }
